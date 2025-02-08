@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="128,78">
+  <displayList>
+    <image id="n61_ohdt" name="bgBubble" src="ohdt2c" fileName="img/bg_bubble.png" xy="0,0" size="128,78" group="n63_c3wz">
+      <relation target="n62_ohdt" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n62_ohdt" name="lbBubble" xy="14,12" size="99,34" group="n63_c3wz" fontSize="24" color="#e46100" vAlign="middle" leading="7" text="气泡提示"/>
+    <group id="n63_c3wz" name="n63" xy="0,0" size="128,78"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="114,48">
+  <displayList>
+    <loader id="n7_ckie" name="imageCostItem" xy="2,0" size="48,48" group="n11_ckie" url="ui://7q3fcj1kt6mg9" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n10_ckie" name="labelCount" xy="52,7" size="62,34" group="n11_ckie" fontSize="24" color="#00ff00" vAlign="middle" singleLine="true" autoClearText="true" text="1000">
+      <relation target="n7_ckie" sidePair="middle-middle"/>
+    </text>
+    <group id="n11_ckie" name="n11" xy="2,0" size="112,48" advanced="true">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </group>
+  </displayList>
+</component>

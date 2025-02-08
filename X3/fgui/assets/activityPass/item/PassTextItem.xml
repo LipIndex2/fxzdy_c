@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,60">
+  <displayList>
+    <image id="n18_f31f" name="n18" src="8adr26" fileName="img/v_lb.png" xy="0,0" size="686,60"/>
+    <richtext id="n27_oc78" name="lbDes" xy="26,14" pivot="0,0.5" size="242,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#431295" strokeSize="2" text="解锁职业校验跳过功能"/>
+  </displayList>
+</component>

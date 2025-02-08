@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,102">
+  <controller name="c1" pages="0,未激活,1,已激活" selected="0"/>
+  <displayList>
+    <text id="n61_4928" name="T_title" xy="25,0" size="490,34" group="n70_xebi" fontSize="24" color="#747e8b" leading="5" autoSize="height" text="上阵4名同阵营英雄：">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0" values="#747e8b,#000000" default="#fcf0d2,#000000"/>
+    </text>
+    <image id="n67_4928" name="n67" src="xebibc" fileName="frameImage/lb_tag.png" pkg="38fa8c75" xy="0,7" group="n70_xebi" color="#747e8b">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="1" values="#ffdd81" default="#747e8b"/>
+    </image>
+    <list id="n69_xebi" name="list_attr" xy="25,34" size="445,67" group="n70_xebi" layout="flow_hz" colGap="32" lineItemCount="2" defaultItem="ui://4hj3fle9xebi1u">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n70_xebi" name="n70" xy="0,0" size="515,101" advanced="true"/>
+  </displayList>
+</component>

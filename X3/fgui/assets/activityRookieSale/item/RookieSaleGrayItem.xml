@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="302,200">
+  <displayList>
+    <image id="n48_ssxx" name="n48" src="ssxx2i" fileName="img/sd_A_common_liaotian_frame.png" xy="0,0" size="302,200" group="n50_ssxx" alpha="0.5"/>
+    <image id="n49_ssxx" name="n49" src="ssxx2k" fileName="img/sq_tag.png" xy="100,74" group="n50_ssxx"/>
+    <group id="n50_ssxx" name="img_gray" xy="0,0" size="302,200" advanced="true"/>
+  </displayList>
+</component>

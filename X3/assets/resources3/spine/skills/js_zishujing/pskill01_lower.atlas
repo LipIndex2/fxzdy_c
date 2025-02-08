@@ -1,0 +1,76 @@
+
+pskill01_lower.png
+size: 744,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_GLOW
+  rotate: false
+  xy: 457, 17
+  size: 114, 114
+  orig: 150, 150
+  offset: 20, 20
+  index: -1
+effect/pskill01_huan_one
+  rotate: false
+  xy: 161, 84
+  size: 116, 42
+  orig: 128, 50
+  offset: 6, 4
+  index: -1
+effect/skill011_xishou_0
+  rotate: true
+  xy: 610, 130
+  size: 155, 132
+  orig: 180, 180
+  offset: 16, 37
+  index: -1
+effect/skill011_xishou_1
+  rotate: false
+  xy: 2, 126
+  size: 157, 159
+  orig: 180, 180
+  offset: 14, 10
+  index: -1
+effect/skill011_xishou_2
+  rotate: false
+  xy: 161, 128
+  size: 153, 157
+  orig: 180, 180
+  offset: 18, 10
+  index: -1
+effect/skill011_xishou_3
+  rotate: true
+  xy: 316, 134
+  size: 151, 148
+  orig: 180, 180
+  offset: 18, 14
+  index: -1
+effect/skill011_xishou_4
+  rotate: true
+  xy: 466, 133
+  size: 152, 142
+  orig: 180, 180
+  offset: 16, 17
+  index: -1
+effect/skill011_xishou_5
+  rotate: false
+  xy: 316, 2
+  size: 139, 130
+  orig: 180, 180
+  offset: 24, 23
+  index: -1
+effect/skill011_xishou_6
+  rotate: false
+  xy: 573, 34
+  size: 95, 94
+  orig: 180, 180
+  offset: 48, 41
+  index: -1
+effect/skill011_xishou_7
+  rotate: false
+  xy: 670, 76
+  size: 54, 52
+  orig: 180, 180
+  offset: 70, 61
+  index: -1

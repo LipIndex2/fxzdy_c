@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,69" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,3,over,2,selectedOver" selected="0"/>
+  <displayList>
+    <text id="n78_a9a7" name="labelNoChoose" xy="8,15" pivot="0.5,0" size="129,39" group="n81_d299" fontSize="28" color="#66c0ff" align="center" vAlign="middle" autoSize="none" strokeColor="#0a1f52" strokeSize="3" singleLine="true" text="头像"/>
+    <group id="n81_d299" name="G_noChoose" xy="8,15" size="129,39"/>
+    <image id="n77_a9a7" name="n77" src="d2997e" fileName="img/sd_A_common_grsz3_btn(1).png" xy="1,0" group="n80_d299">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n79_a9a7" name="labelChoose" xy="11,15" pivot="0.5,0" size="127,39" group="n80_d299" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#0a1f52" strokeSize="3" text="头像框"/>
+    <group id="n80_d299" name="G_choose" xy="1,0" size="144,69" advanced="true">
+      <gearDisplay controller="button" pages="1,2"/>
+    </group>
+    <component id="n82_e53p" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="128,14" controller="type,3"/>
+  </displayList>
+  <Button mode="Radio" downEffect="dark" downEffectValue=".8"/>
+</component>

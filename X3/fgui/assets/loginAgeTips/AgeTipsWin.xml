@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n24_ydpg" name="n24" src="ydpg3" fileName="img/tc1_frame.png" xy="80,239" size="614,801" group="n28_ydpg"/>
+    <image id="n25_ydpg" name="fg" src="ydpg4" fileName="img/tc2_frame.png" xy="93,322" size="588,694" group="n28_ydpg"/>
+    <component id="n26_ydpg" name="n26" src="ydpg2" fileName="com/ComTips.xml" xy="98,331" size="574,671" group="n28_ydpg"/>
+    <text id="n27_ydpg" name="labelTitle" xy="321,259" size="131,44" group="n28_ydpg" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="适龄提示"/>
+    <group id="n28_ydpg" name="n28" xy="80,239" size="614,801" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

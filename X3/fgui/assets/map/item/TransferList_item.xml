@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="526,156">
+  <controller name="c1" pages="0,未解锁,1,已解锁,2,当前所在星球" selected="1"/>
+  <displayList>
+    <loader id="n21_ikiz" name="bg" xy="0,0" size="526,156" group="n18_ikiz" fill="scale" clearOnPublish="true"/>
+    <loader id="n22_ikiz" name="img_icon" xy="0,53" size="50,50" group="n18_ikiz" autoSize="true">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </loader>
+    <image id="n5_a59d" name="n5" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="0,106" size="526,47" group="n18_ikiz" alpha="0.5"/>
+    <image id="n8_a59d" name="n8" src="qoer47" fileName="iconImage/zd2_icon.png" pkg="38fa8c75" xy="380,114" group="n18_ikiz">
+      <relation target="n7_a59d" sidePair="middle-middle,right-left"/>
+    </image>
+    <image id="n15_a59d" name="n15" src="j6z92s" fileName="bgImage/tag.png" pkg="38fa8c75" xy="361,1" size="164,46" group="n18_ikiz">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <text id="n6_a59d" name="T_name" xy="22,112" size="107,36" group="n18_ikiz" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="超级星球">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </text>
+    <text id="n7_a59d" name="T_num" xy="416,112" size="82,36" group="n18_ikiz" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="10000">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </text>
+    <text id="n16_a59d" name="n16" xy="398,6" size="99,34" group="n18_ikiz" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="当前位置">
+      <gearDisplay controller="c1" pages="2"/>
+    </text>
+    <image id="n19_ikiz" name="n19" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="0,0" size="526,156" group="n18_ikiz" alpha="0.65">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n20_ikiz" name="n20" src="j6z92k" fileName="bgImage/suo_icom.png" pkg="38fa8c75" xy="243,56" group="n18_ikiz">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <group id="n18_ikiz" name="n18" xy="0,0" size="526,156"/>
+  </displayList>
+</component>

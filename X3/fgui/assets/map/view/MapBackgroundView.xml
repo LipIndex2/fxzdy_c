@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <loader id="n21_qoer" name="sceneBg" xy="375,667" pivot="0.5,0.5" anchor="true" size="2048,1756" touchable="false" align="center" vAlign="middle" fill="scaleFree" autoSize="true" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n22_105pv" name="bg" xy="0,0" size="2048,1756" touchable="false" align="center" vAlign="middle" fill="scaleFree" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

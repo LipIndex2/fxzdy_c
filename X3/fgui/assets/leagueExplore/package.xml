@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="78d1ed1a">
+  <resources>
+    <component id="fdf112" name="LeagueExploreQuickWin.xml" path="/view/"/>
+    <component id="fdf118" name="LeagueExploreShareWin.xml" path="/view/"/>
+    <image id="fdf128" name="beijing.png" path="/img/"/>
+    <component id="fdf146" name="LeagueExploreRewardWin.xml" path="/view/"/>
+    <image id="fdf154" name="beijing_27.png" path="/img/"/>
+    <image id="fdf158" name="sheng.png" path="/img/"/>
+    <image id="fdf159" name="fangdajing.png" path="/img/"/>
+    <image id="fdf161" name="bai.png" path="/img/"/>
+    <image id="fdf165" name="gongjitubiao.png" path="/img/"/>
+    <component id="fdf166" name="LeagueExploreRecordSubView1.xml" path="/subView/"/>
+    <image id="fdf178" name="daojishi.png" path="/img/"/>
+    <component id="fdf179" name="LeagueExploreIncomeWin.xml" path="/view/"/>
+    <image id="fdf188" name="xiaoliebiao.png" path="/img/" scale="9grid" scale9grid="27,25,7,5"/>
+    <component id="fdf198" name="LeagueExploreMiniWin.xml" path="/view/"/>
+    <image id="fdf1100" name="beijing_74.png" path="/img/"/>
+    <image id="fdf1109" name="bianhao.png" path="/img/"/>
+    <component id="fdf1124" name="LeagueExploreFactoryWin.xml" path="/view/"/>
+    <component id="gtlw125" name="LeagueExploreMarker.xml" path="/component/"/>
+    <component id="gtlw126" name="LeagueExploreDefendItem.xml" path="/item/"/>
+    <component id="gtlw127" name="LeagueExploreIncomeItem.xml" path="/item/"/>
+    <component id="gtlw128" name="LeagueExploreCardBtn.xml" path="/component/"/>
+    <component id="gtlw129" name="LeagueExploreGotoBtn.xml" path="/component/"/>
+    <component id="gtlw12a" name="LeagueExploreIncomeSubView.xml" path="/subView/"/>
+    <component id="gtlw12b" name="LeagueExploreRecordItem1.xml" path="/item/"/>
+    <component id="gtlw12c" name="LeagueExploreReportBtn.xml" path="/component/"/>
+    <component id="gtlw12d" name="LeagueExploreRecordItem2.xml" path="/item/"/>
+    <component id="gtlw12e" name="LeagueExploreTabBtn.xml" path="/component/"/>
+    <component id="gtlw12f" name="LeagueExploreMineWin.xml" path="/view/"/>
+    <component id="gtlw12g" name="LeagueExploreQuickItem.xml" path="/item/"/>
+    <component id="gtlw12h" name="LeagueExploreMiniItem.xml" path="/item/"/>
+    <component id="gtlw12i" name="LeagueExploreMiniDetailItem.xml" path="/item/"/>
+    <component id="gtlw12k" name="LeagueExploreMiniContent.xml" path="/component/"/>
+    <component id="gtlw12m" name="LeagueExploreRewardItem.xml" path="/item/"/>
+    <component id="gtlw12n" name="LeagueExploreRewardSubView.xml" path="/subView/"/>
+    <component id="gtlw12o" name="LeagueExploreTabBtn2.xml" path="/component/"/>
+    <component id="gtlw12p" name="LeagueExploreShareItem.xml" path="/item/"/>
+    <component id="gtlw12q" name="LeagueExploreMapView.xml" path="/view/"/>
+    <component id="gtlw12r" name="LeagueExploreMainBtn.xml" path="/component/"/>
+    <image id="gtlw12s" name="xingqiu_icon.png" path="/img/"/>
+    <component id="gtlw12t" name="LeagueExploreMainItem.xml" path="/item/"/>
+    <image id="gtlw12u" name="sd_Sshouweimujian_biaoti_8.png" path="/img/"/>
+    <component id="gtlw12v" name="LeagueExploreMainView.xml" path="/view/"/>
+    <component id="gtlw12w" name="LeagueExplorePlanetItem.xml" path="/item/"/>
+    <image id="gtlw12y" name="meng.png" path="/img/"/>
+    <image id="gtlw130" name="jindudi.png" path="/img/" scale="9grid" scale9grid="20,8,16,10"/>
+    <image id="gtlw131" name="mingzidi.png" path="/img/" scale="9grid" scale9grid="11,40,22,2"/>
+    <component id="gtlw134" name="LeagueExploreMiniMap.xml" path="/component/"/>
+    <image id="gtlw135" name="dt_frame.png" path="/img/" scale="9grid" scale9grid="37,56,19,14"/>
+    <component id="gtlw136" name="LeagueExploreMiniContentItem.xml" path="/component/"/>
+    <component id="8g0d137" name="LeagueExploreMainBg.xml" path="/component/"/>
+    <component id="8g0d13c" name="LeagueExploreRecordSubView2.xml" path="/subView/"/>
+    <component id="woyg13d" name="LeagueExploreExchangeConfirmWin.xml" path="/view/"/>
+    <component id="woyg13e" name="LeagueExploreSmallAvatar.xml" path="/item/"/>
+    <component id="woyg13g" name="LeagueExplorePlanetBtn.xml" path="/item/"/>
+    <component id="ta4f13h" name="LeagueExploreNightTimeTip.xml" path="/component/"/>
+    <image id="ta4f13i" name="shuimian.png" path="/img/"/>
+    <component id="ta4f13k" name="LeagueExploreMainTitleItem.xml" path="/item/"/>
+    <component id="v93u13l" name="LeagueExploreBuyAtkTimesWin.xml" path="/view/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="102,38">
+  <displayList>
+    <loader id="n78_q6dm" name="icon_item" xy="0,0" pivot="0.5,0.5" size="38,38" group="n82_q6dm" autoSize="true"/>
+    <text id="n44_3bca" name="T_count" xy="40,2" pivot="0,0.5" size="62,34" group="n82_q6dm" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000307" strokeSize="2" text="2000"/>
+    <group id="n82_q6dm" name="n82" xy="0,0" size="102,38"/>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="109,185" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n27_d6aa" name="n27" src="d6aa88" fileName="img/tssjboss_frame.png" xy="11,0" visible="false"/>
+    <component id="n28_d6aa" name="headCom" src="qr2a155" fileName="component/headMask.xml" xy="55,-20" rotation="45"/>
+    <text id="n34_uug0" name="noRank" xy="16,113" pivot="0.5,0.5" size="75,26" visible="false" fontSize="18" color="#ffffff" text="虚位以待"/>
+    <text id="n31_d6aa" name="nameLab" xy="-1,122" pivot="0.5,0.5" size="111,26" group="n36_uug0" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="玩家名称个字"/>
+    <component id="n38_e1fv" name="powerLab" src="e1fv14y" fileName="component/worldBossDamager4.xml" xy="4,149" group="n36_uug0"/>
+    <component id="n39_loj0" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="57,101" pivot="0.5,0.5" anchor="true" size="120,50" group="n36_uug0" aspect="true"/>
+    <group id="n36_uug0" name="rankGr" xy="-3,76" size="120,109" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

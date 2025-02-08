@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="186,116">
+  <controller name="isLock" exported="true" pages="6,,7," selected="0"/>
+  <controller name="isChoose" pages="0,,1," selected="1"/>
+  <controller name="isWear" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n61_a9a7" name="imageFrame" xy="17,29" size="195,75" scale="0.8,0.8" url="ui://d4f261265da554" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n63_a9a7" name="n63" src="d2997n" fileName="img/sd_A_common_liaotian_frame(2).png" xy="21,20" group="n65_d299" alpha="0.74"/>
+    <image id="n64_a9a7" name="n64" src="d2997o" fileName="img/scale_80%_sd_A_common_gou_icon(1).png" xy="23,17" group="n65_d299"/>
+    <group id="n65_d299" name="G_wear" xy="21,17" size="48,41" advanced="true">
+      <gearDisplay controller="isWear" pages="1"/>
+    </group>
+    <image id="n67_d299" name="n67" src="d2997p" fileName="img/sd_A_common_black2_msg(1).png" xy="16,17" size="157,77" group="n68_d299" alpha="0.6"/>
+    <image id="n66_d299" name="n66" src="d2997q" fileName="img/scale_70%_sd_A_common_suo1_icon_12(1).png" xy="76,34" size="36,43" group="n68_d299"/>
+    <group id="n68_d299" name="G_lock" xy="16,17" size="157,77" advanced="true">
+      <gearDisplay controller="isLock" pages="7"/>
+    </group>
+    <image id="n62_a9a7" name="n62" src="2ce224" fileName="bgImage/xz__frame.png" pkg="38fa8c75" xy="3,4" size="185,108" group="n69_d299"/>
+    <group id="n69_d299" name="G_choose" xy="3,4" size="185,108" advanced="true">
+      <gearDisplay controller="isChoose" pages="1"/>
+    </group>
+    <component id="n70_tjmg" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="161,32" controller="type,5"/>
+  </displayList>
+</component>

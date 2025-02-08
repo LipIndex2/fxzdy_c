@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageAlpha="20">
+  <displayList>
+    <loader id="n19_alpb" name="bg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n16_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,633" pivot="0.5,1" anchor="true" size="880,635" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n27_dtf9" name="n27" src="af67117" fileName="img/word_tag_3.png" xy="88,607" group="n28_dtf9" alpha="0.45"/>
+    <text id="n21_dtf9" name="n21" xy="301,553" pivot="0.5,0.5" size="147,34" group="n28_dtf9" fontSize="24" color="#afc9ff" text="限制时间耗尽"/>
+    <text id="n22_dtf9" name="n22" xy="313,601" pivot="0.5,0.5" size="123,42" group="n28_dtf9" fontSize="30" color="#ffffff" text="通关成绩"/>
+    <text id="n23_dtf9" name="n23" xy="233,698" pivot="0.5,0.5" size="99,34" group="n28_dtf9" fontSize="24" color="#88c8ff" align="center" vAlign="middle" text="阵亡次数"/>
+    <text id="n24_dtf9" name="T_dieCount" xy="274,662" pivot="0.5,0.5" size="18,34" group="n28_dtf9" fontSize="24" color="#f6d860" align="center" vAlign="middle" text="6"/>
+    <text id="n25_dtf9" name="n25" xy="396,698" pivot="0.5,0.5" size="147,34" group="n28_dtf9" fontSize="24" color="#88c8ff" align="center" vAlign="middle" text="当前完成进度"/>
+    <text id="n26_dtf9" name="T_jindu" xy="444,662" pivot="0.6,0.6" size="53,34" group="n28_dtf9" fontSize="24" color="#f6d860" align="center" vAlign="middle" text="65%"/>
+    <group id="n28_dtf9" name="group1" xy="88,553" size="574,179" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n0_pocb" name="panel" src="iuie12g" fileName="battleView/JumpItem.xml" xy="98,773" pivot="0.5,0.8">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n18_iydi" name="labelTips" xy="306,1200" size="143,29" fontSize="20" color="#fffefe" singleLine="true" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <component id="n20_dtf9" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="578,1179" size="66,72">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button icon="ui://38fa8c758a38127"/>
+    </component>
+  </displayList>
+</component>

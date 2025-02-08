@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4a92d9bd">
+  <resources>
+    <image id="1a780" name="beijing.jpg" path="/img/"/>
+    <image id="1a786" name="sd_A_common_bossjl_frame.png" path="/img/"/>
+    <image id="1a789" name="paizi.png" path="/img/"/>
+    <image id="1a7814" name="tx_041.png" path="/img/"/>
+    <image id="1a7815" name="zhezhao_6.png" path="/img/"/>
+    <image id="1a7816" name="sd_A_common_suo1_icon.png" path="/img/"/>
+    <image id="1a7817" name="xuanzhong.png" path="/img/"/>
+    <image id="1a7823" name="yitongguan.png" path="/img/"/>
+    <image id="1a7826" name="shuzidi.png" path="/img/"/>
+    <image id="1a7828" name="#216599_sd_A_common_word_tag.png" path="/img/"/>
+    <component id="puo033" name="SeasonSecretItem.xml" path="/com/"/>
+    <component id="073463" name="SeasonSecretResultView.xml" path="/"/>
+    <component id="1a7832" name="SeasonSecretView.xml" path="/"/>
+    <image id="hz6e6a" name="secret_tag.png" path="/img/"/>
+    <image id="hz6e64" name="sjkj_bt3.png" path="/img/"/>
+    <image id="oyze6b" name="tiao.png" path="/img/"/>
+    <component id="oyze6c" name="SeasonSecretEnd.xml" path="/com/"/>
+    <image id="oyze6d" name="zhezhao_5.png" path="/img/"/>
+    <image id="oyze6e" name="iconhead_7018.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

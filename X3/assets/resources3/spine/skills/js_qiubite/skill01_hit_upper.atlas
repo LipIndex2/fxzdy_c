@@ -1,0 +1,41 @@
+
+skill01_hit_upper.png
+size: 149,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_hit_01
+  rotate: false
+  xy: 2, 56
+  size: 79, 64
+  orig: 92, 92
+  offset: 7, 12
+  index: -1
+images/effect/skill01_hit_02
+  rotate: true
+  xy: 83, 41
+  size: 79, 64
+  orig: 92, 92
+  offset: 7, 12
+  index: -1
+images/effect/skill01_hit_line
+  rotate: false
+  xy: 126, 122
+  size: 11, 77
+  orig: 16, 82
+  offset: 3, 2
+  index: -1
+images/effect/skill01_hit_xin
+  rotate: false
+  xy: 2, 2
+  size: 54, 52
+  orig: 56, 64
+  offset: 1, 2
+  index: -1
+images/effect/skill01glo
+  rotate: false
+  xy: 2, 122
+  size: 122, 122
+  orig: 128, 128
+  offset: 3, 3
+  index: -1

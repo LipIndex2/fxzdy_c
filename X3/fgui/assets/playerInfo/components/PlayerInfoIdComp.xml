@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="243,40">
+  <displayList>
+    <image id="n71_ejy3" name="bg" src="5da515" fileName="img/sd_A_common_shuxingdi1_frame_17.png" xy="0,0"/>
+    <text id="n26_5da5" name="labelTitle" xy="3,2" size="39,34" fontSize="24" color="#8dcbff" vAlign="middle" text="ID:"/>
+    <text id="n27_5da5" name="labelPlayerId" xy="42,2" size="158,34" fontSize="18" color="#ffffff" vAlign="middle" autoSize="shrink" text="12345678901234567890"/>
+    <component id="n28_5da5" name="btnCopy" src="ejy3vvv1dr" fileName="btn/BtnCopy.xml" pkg="38fa8c75" xy="203,7"/>
+  </displayList>
+</component>

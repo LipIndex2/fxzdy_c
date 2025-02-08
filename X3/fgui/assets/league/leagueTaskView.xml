@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n34_qr2a" name="n34" src="jmeivvv18n" fileName="view/TouchMaskWin.xml" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n0_be1a" name="adapt_bg" src="qr2a11a" fileName="img/tiankong1.png" xy="0,-146" pivot="0.5,0.5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n31_h90v" name="list" xy="26,175" size="725,1005" layout="flow_hz" overflow="scroll" lineGap="25" colGap="31" defaultItem="ui://6be81224h90v10v" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n32_h90v" name="closeBtn" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n27_be1a" name="n27" src="be1a76" fileName="img/sd_A_common_bossbt_frame.png" xy="168,52" group="n33_wq7z"/>
+    <text id="n28_be1a" name="n28" xy="277,63" size="194,64" group="n33_wq7z" fontSize="48" color="#052664" text="联盟挑战"/>
+    <component id="n30_h90v" name="bntRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="474,77" group="n33_wq7z"/>
+    <group id="n33_wq7z" name="n33" xy="168,52" size="414,89" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

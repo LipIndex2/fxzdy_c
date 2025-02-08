@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="214,82" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n60_be41" name="n60" src="be4121" fileName="img/scale_70%_sd_A_common_changgui3_btn.png" xy="0,0"/>
+    <text id="n62_be41" name="n62" xy="54,34" size="115,39" fontSize="28" color="#ffffff" strokeColor="#1a50a9" strokeSize="3" text="手动刷新"/>
+    <loader id="n79_uug0" name="costIcon" xy="81,5" size="26,25" group="n78_matv" align="right" vAlign="bottom" fill="scaleNoBorder" shrinkOnly="true">
+      <relation target="n63_be41" sidePair="right-left"/>
+    </loader>
+    <text id="n63_be41" name="costNum" xy="116,23" pivot="0.5,0.5" anchor="true" size="10,32" group="n78_matv" fontSize="22" color="#ffffff" strokeColor="#1a50a9" strokeSize="3" text=""/>
+    <group id="n78_matv" name="updatecost" xy="81,5" size="40,34"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <displayList>
+    <image id="n36_qoer" name="n36" src="lz8y14q" fileName="iconImage/fhdldi_frame.png" xy="-23,-13"/>
+    <image id="n37_qoer" name="img_ax" src="lz8y14p" fileName="iconImage/fhdl_frame.png" xy="-15,-6" size="30,14" fillMethod="hz" fillAmount="39"/>
+  </displayList>
+</component>

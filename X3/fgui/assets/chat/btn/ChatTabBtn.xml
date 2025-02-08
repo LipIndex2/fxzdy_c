@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="126,135" extention="Button">
+  <controller name="isChoose" exported="true" pages="0,up,1,down" selected="0"/>
+  <controller name="isHaveNewMsg" pages="0,,1," selected="0"/>
+  <displayList>
+    <text id="n9_91d6" name="labelNameUp" xy="32,76" pivot="0.5,0" size="48,32" group="n32_buys" fontSize="22" color="#93cbff" align="center" vAlign="middle" strokeColor="#10214c" strokeSize="3" text="战区"/>
+    <loader id="n10_91d6" name="imageTab" xy="25,3" pivot="0.5,0.5" size="72,72" group="n32_buys" url="ui://6bce377291d68" align="center" vAlign="middle" clearOnPublish="true"/>
+    <image id="n26_91d6" name="bgCoung" src="91d617" fileName="img/shuzilü_msg.png" xy="79,3" group="n33_nl4g"/>
+    <text id="n27_91d6" name="labelCount" xy="79,2" pivot="0.5,0" size="31,24" group="n33_nl4g" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#016766" strokeSize="2" text="99"/>
+    <group id="n33_nl4g" name="G_tips" xy="79,2" size="31,24" group="n32_buys" advanced="true">
+      <gearDisplay controller="isHaveNewMsg" pages="1"/>
+    </group>
+    <group id="n32_buys" name="G_up" xy="25,2" size="85,106" advanced="true">
+      <gearDisplay controller="isChoose" pages="0"/>
+    </group>
+    <image id="n28_buys" name="n28" src="91d64" fileName="img/xuanzhong.png" xy="0,0" size="137,135" group="n31_buys"/>
+    <loader id="n29_buys" name="imageTabChoose" xy="25,3" pivot="0.5,0.5" size="72,72" group="n34_ppu1" url="ui://6bce377291d66" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n30_buys" name="labelNameDown" xy="36,77" pivot="0.5,0.001" size="48,32" group="n34_ppu1" fontSize="22" color="#fdfbd8" align="center" vAlign="middle" strokeColor="#914101" strokeSize="2" text="本服"/>
+    <group id="n34_ppu1" name="G_pressImage" xy="25,3" size="72,106" group="n31_buys"/>
+    <group id="n31_buys" name="G_down" xy="0,0" size="137,135" advanced="true">
+      <gearDisplay controller="isChoose" pages="1"/>
+    </group>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

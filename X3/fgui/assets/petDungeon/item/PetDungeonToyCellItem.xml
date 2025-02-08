@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="72,72">
+  <controller name="state" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="未占用"/>
+    <remark page="1" value="已占用"/>
+    <remark page="2" value="重叠了"/>
+    <remark page="3" value="预设"/>
+  </controller>
+  <displayList>
+    <image id="n16_532a" name="n16" src="loj012w" fileName="img/cell_1.png" xy="0,0" size="72,72">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n17_loj0" name="n17" src="loj012y" fileName="img/cell_2.png" xy="0,0" size="72,72">
+      <gearDisplay controller="state" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n18_loj0" name="n18" src="loj012w" fileName="img/cell_1.png" xy="0,0" size="72,72" alpha="0.3">
+      <gearDisplay controller="state" pages="3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+</component>

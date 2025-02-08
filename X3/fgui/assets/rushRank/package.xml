@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4ea3ac72">
+  <resources>
+    <image id="1a160" name="tgcb_bg.jpg" path="/img/"/>
+    <image id="1a161" name="sd_A_common_hd_di01.png" path="/img/" scale="9grid" scale9grid="187,181,374,362"/>
+    <image id="1a162" name="sd_A_common_hd_di02.png" path="/img/"/>
+    <image id="1a163" name="liebiao.png" path="/img/"/>
+    <image id="1a164" name="xingzhuang32.png" path="/img/"/>
+    <image id="1a165" name="sd_A_common_blue_frame_8.png" path="/img/"/>
+    <image id="1a166" name="tx_001_7.png" path="/img/"/>
+    <image id="1a167" name="xingjilüzhe_5.png" path="/img/"/>
+    <image id="1a168" name="tuceng50.png" path="/img/"/>
+    <image id="1a169" name="ziji_frame.png" path="/img/"/>
+    <image id="1a1610" name="ziji1_frame.png" path="/img/"/>
+    <image id="1a1611" name="zu122.png" path="/img/"/>
+    <image id="1a1612" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+    <image id="1a1613" name="hd_yeqian02_4.png" path="/img/"/>
+    <image id="1a1614" name="hd_yeqian01.png" path="/img/"/>
+    <image id="1a1615" name="hd_yeqian02.png" path="/img/"/>
+    <image id="1a1616" name="tongyong.png" path="/img/"/>
+    <image id="1a1617" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="1a1618" name="gth3_btn.png" path="/img/"/>
+    <image id="1a1619" name="tuceng13.png" path="/img/"/>
+    <image id="1a1620" name="sd_A_common_no1_icon.png" path="/img/"/>
+    <image id="1a1621" name="sd_A_common_no2_icon.png" path="/img/"/>
+    <image id="1a1622" name="sszd_0015_it_baixing_00.png" path="/img/"/>
+    <image id="1a1623" name="xingjilüzhe.png" path="/img/"/>
+    <image id="1a1624" name="sszd_0014_leinuochaifen.png" path="/img/"/>
+    <image id="1a1625" name="sd_A_common_no3_icon.png" path="/img/"/>
+    <component id="1a1626" name="rushRankView.xml" path="/"/>
+    <component id="uazn27" name="RankTop3Comp.xml" path="/com/"/>
+    <component id="uazn28" name="rushRankTab.xml" path="/btn/"/>
+    <component id="uazn29" name="rushRankRankCell.xml" path="/com/"/>
+    <component id="uazn2d" name="rushRankRewardCell.xml" path="/com/"/>
+    <image id="uazn2e" name="wode_6.png" path="/img/"/>
+    <component id="k0452f" name="rushRankFirstRewardWin.xml" path="/"/>
+    <component id="k0452g" name="firstAwardItem.xml" path="/item/"/>
+    <image id="k0452h" name="1.png" path="/img/"/>
+    <image id="s8ul2i" name="quanfushoutong_86.png" path="/img/"/>
+    <component id="ko812j" name="tabBtn.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

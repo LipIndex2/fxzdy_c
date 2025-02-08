@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="66,72" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n13_pocb" name="btnData" src="qluivvv1c4" fileName="btn/img/sd_Rrukoutubiao_rk0004_icon.png" pkg="38fa8c75" xy="0,0" scale="0.8,0.8"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

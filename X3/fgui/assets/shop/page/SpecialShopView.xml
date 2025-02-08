@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImageAlpha="80">
+  <displayList>
+    <component id="n28_71c5" name="cost0" src="vmbsvvv1b7" fileName="btn/shopCost_2.xml" xy="574,40" size="162,39" group="n54_vmbs"/>
+    <component id="n52_jis3" name="cost1" src="vmbsvvv1b7" fileName="btn/shopCost_2.xml" xy="367,40" size="162,39" group="n54_vmbs"/>
+    <group id="n54_vmbs" name="n54" xy="367,40" size="369,39" advanced="true">
+      <relation target="" sidePair="height-height%,right-right"/>
+    </group>
+    <component id="n57_gwdp" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="32,153" size="686,1064" group="n56_vmbs"/>
+    <image id="n6_71c5" name="n6" src="71c55" fileName="img/mryh_di1.png" xy="6,114" group="n56_vmbs"/>
+    <image id="n7_71c5" name="n7" src="71c56" fileName="img/mryh_zhi.png" xy="212,152" group="n56_vmbs"/>
+    <text id="n9_71c5" name="closeTip" xy="273,1273" size="198,39" group="n56_vmbs" fontSize="28" color="#ffffff" vAlign="middle" text="点击空白处关闭"/>
+    <list id="n53_gqrn" name="totalList" xy="83,355" size="585,696" group="n56_vmbs" overflow="scroll" lineGap="8" defaultItem="ui://607146c59dao47" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n56_vmbs" name="n56" xy="6,114" size="737,1198" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

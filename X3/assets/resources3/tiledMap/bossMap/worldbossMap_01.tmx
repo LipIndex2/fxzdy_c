@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="4" infinite="0" nextlayerid="6" nextobjectid="7" orientation="orthogonal" renderorder="right-down" tiledversion="1.10.2" tileheight="512" tilewidth="512" version="1.10" width="4">
+ <tileset columns="0" firstgid="1" name="worldboss" tilecount="16" tileheight="512" tilewidth="512">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_01.png" width="512" />
+  </tile>
+  <tile id="1">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_02.png" width="512" />
+  </tile>
+  <tile id="2">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_03.png" width="512" />
+  </tile>
+  <tile id="3">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_04.png" width="512" />
+  </tile>
+  <tile id="4">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_05.png" width="512" />
+  </tile>
+  <tile id="5">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_06.png" width="512" />
+  </tile>
+  <tile id="6">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_07.png" width="512" />
+  </tile>
+  <tile id="7">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_08.png" width="512" />
+  </tile>
+  <tile id="8">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_09.png" width="512" />
+  </tile>
+  <tile id="9">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_10.png" width="512" />
+  </tile>
+  <tile id="10">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_11.png" width="512" />
+  </tile>
+  <tile id="11">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_12.png" width="512" />
+  </tile>
+  <tile id="12">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_13.png" width="512" />
+  </tile>
+  <tile id="13">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_14.png" width="512" />
+  </tile>
+  <tile id="14">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_15.png" width="512" />
+  </tile>
+  <tile id="15">
+   <image height="512" source="../mapTilesets/worldboss/worldboss_16.png" width="512" />
+  </tile>
+ </tileset>
+ <layer height="4" id="1" name="bottom_layer" width="4">
+  <data compression="zlib" encoding="base64">
+   eJwNw4kNgCAQALAT5FXB/aelTXpFRDJ7W6w2u8Pp4+vncvt7AA0AAIk=
+  </data>
+ </layer>
+ <objectgroup id="2" name="player_layer">
+  <object id="1" x="1090" y="840">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="500101" />
+   </properties>
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="role_layer" />
+ <objectgroup id="3" name="collider_layer">
+  <object id="3" x="512" y="1536">
+   <polygon points="0,0 0,-1024 -512,-1024 -512,0" />
+  </object>
+  <object id="4" x="0" y="1024">
+   <polygon points="0,0 1024,-512 1024,-1024 0,-1024" />
+  </object>
+  <object id="6" x="520" y="342">
+   <polygon points="0,0 1138,634 375.333,1120.67 -107.063,797.094 -93.2945,647.951 -402.667,444.667 -8,1706 1528,1706 1528,170" />
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="ui_layer" />
+</map>

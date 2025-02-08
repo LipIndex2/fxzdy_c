@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="450,532" designImage="ui://7q3fcj1koqeb5e" designImageOffsetX="-275" designImageOffsetY="-645">
+  <displayList>
+    <image id="n73_b6a2" name="n73" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="0,0" size="450,532"/>
+    <text id="n84_b6a2" name="labelDesc" xy="10,78" size="430,29" fontSize="20" color="#5fff6e" vars="true" autoSize="none" singleLine="true" text="当前挑战场次：{count=20}"/>
+    <list id="n85_gkgv" name="tabList" xy="10,116" size="430,358" overflow="scroll" lineGap="7" defaultItem="ui://7b03f641gkgv15m" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n81_b6a2" name="labelTitle" xy="150,27" size="147,34" group="n86_gkgv" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="每日挑战奖励"/>
+    <image id="n82_b6a2" name="n82" src="b6a250" fileName="img/scale_55%_sd_A_common_word_tag_90.png" xy="66,36" group="n86_gkgv" alpha="0.5"/>
+    <image id="n83_b6a2" name="n83" src="b6a251" fileName="img/scale_55%_sd_A_common_word_tag.png" xy="305,36" group="n86_gkgv" alpha="0.5"/>
+    <group id="n86_gkgv" name="n86" xy="66,27" size="318,34"/>
+    <text id="n87_ffqt" name="labelResetTime" xy="225,497" pivot="0.5,0.5" anchor="true" size="230,35" fontSize="20" color="#879ebb" align="center" vAlign="middle" autoSize="none" singleLine="true" text="00:10:30 后重置"/>
+  </displayList>
+</component>

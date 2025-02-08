@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" pivot="0.5,0.5" extention="Button">
+  <controller name="style" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="首通奖励"/>
+    <remark page="1" value="生涯首通"/>
+    <remark page="2" value="赛季首通"/>
+    <remark page="3" value="首通"/>
+  </controller>
+  <displayList>
+    <component id="n11_r58c" name="itemFrame" src="dtss4k" fileName="item/ItemFrameBtn.xml" xy="8,8"/>
+    <image id="n7_dusv" name="iconFirst" src="dusvvvv1fj" fileName="bgImage/stjl_frame.png" xy="8,9" size="59,30" group="n9_dusv">
+      <gearDisplay controller="style" pages="0"/>
+      <relation target="n8_dusv" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n12_woyg" name="iconFirst2" src="woygvvv1ij" fileName="bgImage/stjl_frame2.png" xy="8,9" size="59,30" group="n9_dusv">
+      <gearDisplay controller="style" pages="1"/>
+      <relation target="n8_dusv" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n13_woyg" name="iconFirst3" src="woygvvv1ik" fileName="bgImage/stjl_frame3.png" xy="8,9" size="59,30" group="n9_dusv">
+      <gearDisplay controller="style" pages="2"/>
+      <relation target="n8_dusv" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n14_loj0" name="iconFirst4" src="dusvvvv1fj" fileName="bgImage/stjl_frame.png" xy="0,9" size="76,30" group="n9_dusv">
+      <gearDisplay controller="style" pages="3"/>
+      <relation target="n8_dusv" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n8_dusv" name="lbFrist" xy="9,18" pivot="0,0.5" anchor="true" size="48,32" group="n9_dusv" fontSize="22" color="#fff06f" vAlign="bottom" strokeColor="#000000" strokeSize="3" text="首通">
+      <gearColor controller="style" pages="1,2" values="#ffd633,#000000|#3dff6b,#000000" default="#fff06f,#000000"/>
+      <gearText controller="style" pages="1,2,3" values="生涯首通|赛季首通|首通" default="首通奖励"/>
+    </text>
+    <group id="n9_dusv" name="pFirst" xy="0,2" size="76,37" visible="false" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,48 @@
+
+attack_hit_lower.png
+size: 224,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_hit_dilie_00000
+  rotate: false
+  xy: 2, 77
+  size: 220, 13
+  orig: 220, 24
+  offset: 0, 7
+  index: -1
+effect/attack_hit_dilie_00001
+  rotate: false
+  xy: 2, 62
+  size: 220, 13
+  orig: 220, 24
+  offset: 0, 7
+  index: -1
+effect/attack_hit_dilie_00002
+  rotate: false
+  xy: 2, 47
+  size: 220, 13
+  orig: 220, 24
+  offset: 0, 7
+  index: -1
+effect/attack_hit_dilie_00003
+  rotate: false
+  xy: 2, 32
+  size: 220, 13
+  orig: 220, 24
+  offset: 0, 7
+  index: -1
+effect/attack_hit_dilie_00004
+  rotate: false
+  xy: 2, 17
+  size: 220, 13
+  orig: 220, 24
+  offset: 0, 7
+  index: -1
+effect/attack_hit_dilie_00005
+  rotate: false
+  xy: 2, 2
+  size: 220, 13
+  orig: 220, 24
+  offset: 0, 7
+  index: -1

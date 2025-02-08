@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="349,74">
+  <displayList>
+    <image id="n0_tkxd" name="bg" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="-3,0" size="350,73" group="n2_tkxd">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_tkxd" name="inputName" xy="21,9" size="304,55" group="n2_tkxd" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n2_tkxd" name="n2" xy="-3,0" size="350,73" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

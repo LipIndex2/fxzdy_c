@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n21_j7vk" name="commonItem" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="374,763" pivot="0.5,0.5" anchor="true" size="1,1" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n26_j7vk" name="fightItem" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="374,603" pivot="0.5,0.5" anchor="true" size="1,1" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n22_j7vk" name="itemItem" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="374,738" pivot="0.5,0.5" anchor="true" size="1,1" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n27_j7vk" name="areaItem" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="374,239" pivot="0.5,0.5" anchor="true" size="1,1" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n23_j7vk" name="attrItem" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="374,1133" pivot="0.5,0.5" anchor="true" size="1,1" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="591,132">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n23_caj9" name="bg" src="caj9vvv1dc" fileName="img/zu2.png" xy="118,31" group="n18_caj9"/>
+    <text id="n12_0255" name="labelPercent" xy="156,10" size="82,36" group="n18_caj9" visible="false" fontSize="26" color="#ffffff" autoSize="none" strokeColor="#000000" strokeSize="2" text="100%">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <component id="n25_caj9" name="percentBar" src="caj9vvv1de" fileName="battleView/bar/BattleBossSmallPercentBar.xml" xy="128,44" size="400,10" group="n21_caj9">
+      <gearDisplay controller="c1" pages="0"/>
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n29_caj9" name="hpBar11" src="caj9vvv1d9" fileName="battleView/bar/BattleBossHpBar.xml" xy="121,55" group="n21_caj9">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n20_caj9" name="hpBar2" src="caj9vvv1d9" fileName="battleView/bar/BattleBossHpBar.xml" xy="121,55" group="n21_caj9">
+      <ProgressBar value="62" max="100"/>
+    </component>
+    <component id="n19_caj9" name="hpBar1" src="caj9vvv1d9" fileName="battleView/bar/BattleBossHpBar.xml" xy="121,55" group="n21_caj9">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <group id="n21_caj9" name="n21" xy="121,44" size="413,44" group="n18_caj9"/>
+    <loader id="n16_0255" name="imageBossBg" xy="0,0" size="132,132" group="n18_caj9" url="ui://u3tpmdwfcaj9vvv1d7"/>
+    <loader id="n17_0255" name="imageBossAvatar" xy="11,11" size="110,110" group="n18_caj9" url="ui://u3tpmdwfcaj9vvv1d8"/>
+    <text id="n13_0255" name="labelHpRowCount" xy="537,49" size="54,36" group="n18_caj9" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" text="X18"/>
+    <component id="n28_caj9" name="dialogComp" src="caj9vvv1dg" fileName="battleView/hp/BattleHpPercentDialogComp.xml" xy="497,1" group="n18_caj9">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <group id="n18_caj9" name="n18" xy="0,0" size="591,132"/>
+  </displayList>
+</component>

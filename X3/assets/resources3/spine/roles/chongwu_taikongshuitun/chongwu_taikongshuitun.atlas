@@ -1,0 +1,111 @@
+
+chongwu_taikongshuitun.png
+size: 197,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti
+  rotate: false
+  xy: 2, 97
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+gapghuang
+  rotate: false
+  xy: 51, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+js010
+  rotate: true
+  xy: 155, 26
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 11, 45
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 2, 48
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 155, 71
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+js014
+  rotate: true
+  xy: 90, 21
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 71, 4
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+js03
+  rotate: 270
+  xy: 2, 10
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 28, 4
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+js05
+  rotate: true
+  xy: 136, 28
+  size: 83, 17
+  orig: 83, 17
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 2, 18
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 90, 87
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 127, 6
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 62, 9
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

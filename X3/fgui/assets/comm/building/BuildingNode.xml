@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1" pivot="0.5,0.5" anchor="true" initName="building">
+  <displayList>
+    <loader id="n3_rr18" name="image" xy="1,1" pivot="0.5,0.5" anchor="true" size="50,50" autoSize="true"/>
+    <component id="n4_9h0a" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" xy="1,1" pivot="0.5,0.5" anchor="true" size="100,100"/>
+    <component id="n5_db4z" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="0,0" size="100,100" controller="type,7"/>
+  </displayList>
+</component>

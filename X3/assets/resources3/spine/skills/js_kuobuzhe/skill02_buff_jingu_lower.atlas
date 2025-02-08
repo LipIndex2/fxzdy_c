@@ -1,0 +1,76 @@
+
+skill02_buff_jingu_lower.png
+size: 104,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_lianlower_00000
+  rotate: false
+  xy: 2, 70
+  size: 100, 32
+  orig: 100, 40
+  offset: 0, 5
+  index: -1
+effect/skill02_lianlower_00001
+  rotate: false
+  xy: 2, 36
+  size: 100, 32
+  orig: 100, 40
+  offset: 0, 5
+  index: -1
+effect/skill02_lianlower_00002
+  rotate: false
+  xy: 2, 314
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00003
+  rotate: false
+  xy: 2, 279
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00004
+  rotate: false
+  xy: 2, 244
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00005
+  rotate: false
+  xy: 2, 209
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00006
+  rotate: false
+  xy: 2, 174
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00007
+  rotate: false
+  xy: 2, 139
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00008
+  rotate: false
+  xy: 2, 104
+  size: 100, 33
+  orig: 100, 40
+  offset: 0, 4
+  index: -1
+effect/skill02_lianlower_00009
+  rotate: false
+  xy: 2, 2
+  size: 100, 32
+  orig: 100, 40
+  offset: 0, 5
+  index: -1

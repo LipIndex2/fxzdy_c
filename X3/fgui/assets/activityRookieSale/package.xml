@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fe9a74c6">
+  <resources>
+    <image id="49e10" name="kfth_bg.png" path="/img/" scale="9grid" scale9grid="202,388,404,776"/>
+    <image id="49e11" name="xingzhuang23kaobei.png" path="/img/"/>
+    <image id="49e12" name="tuceng89.png" path="/img/" scale="9grid" scale9grid="307,299,29,463"/>
+    <image id="49e13" name="daojishi.png" path="/img/"/>
+    <image id="49e14" name="xingzhuang221kaobei.png" path="/img/"/>
+    <image id="49e15" name="xingzhuang22kaobei9.png" path="/img/"/>
+    <image id="49e17" name="jiaobiao02.png" path="/img/"/>
+    <image id="49e18" name="sd_A_common_v_zgbq.png" path="/img/"/>
+    <image id="49e112" name="sousuo.png" path="/img/"/>
+    <image id="49e115" name="jiaobiao01.png" path="/img/"/>
+    <image id="49e116" name="xingzhuang22kaobei3.png" path="/img/"/>
+    <component id="49e122" name="RookieSaleView.xml" path="/view/"/>
+    <component id="cnp525" name="RookieSaleItem.xml" path="/item/"/>
+    <component id="cnp528" name="RookieSaleSpeItem.xml" path="/item/"/>
+    <component id="cnp52c" name="RookieSaleScrItem.xml" path="/item/"/>
+    <component id="cnp52d" name="RookieSaleShowItem.xml" path="/item/"/>
+    <image id="cnp52f" name="liebiao_2.png" path="/img/"/>
+    <image id="cnp52g" name="xsth_bg.jpg" path="/img/"/>
+    <image id="cnp52h" name="yilingqukaobei4.png" path="/img/"/>
+    <image id="ssxx2i" name="sd_A_common_liaotian_frame.png" path="/img/" scale="9grid" scale9grid="75,50,150,91"/>
+    <image id="ssxx2k" name="sq_tag.png" path="/img/"/>
+    <component id="ssxx2l" name="RookieSaleSpeGrayItem.xml" path="/item/"/>
+    <component id="ssxx2m" name="RookieSaleGrayItem.xml" path="/item/"/>
+    <image id="z7ud2n" name="xingzhuang221kaobei2.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1500,835" overflow="scroll" scroll="horizontal">
+  <displayList>
+    <image id="n136_gwdp" name="farbg_part1" src="gwdp195" fileName="img/road3_part1.png" xy="1,481" size="749,354" group="n142_gwdp"/>
+    <image id="n133_gwdp" name="bg_part1" src="gwdp193" fileName="img/road_part1.png" xy="0,0" group="n142_gwdp"/>
+    <group id="n142_gwdp" name="bgPart1" xy="0,0" size="750,835" advanced="true"/>
+    <image id="n137_gwdp" name="farbg_part2" src="gwdp196" fileName="img/road3_part2.png" xy="750,479" group="n143_gwdp"/>
+    <image id="n134_gwdp" name="bg_part2" src="gwdp194" fileName="img/road_part2.png" xy="750,0" group="n143_gwdp"/>
+    <group id="n143_gwdp" name="bgPart2" xy="750,0" size="750,835" advanced="true"/>
+  </displayList>
+</component>

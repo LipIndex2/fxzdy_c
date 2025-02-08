@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1krzses8h">
+  <displayList>
+    <image id="n0_424b" name="n0" src="424b0" fileName="img/tuceng3.jpg" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <image id="n50_g9nr" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#36466a">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n1_424b" name="n1" src="lhcvvvv1et" fileName="bgImage/bossxxd_frame.png" pkg="38fa8c75" xy="0,355" size="750,979">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n4_424b" name="n4" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="165,52" size="207,89" group="n38_lhcv"/>
+    <image id="n37_lhcv" name="n37" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="372,52" size="207,89" group="n38_lhcv" flip="hz"/>
+    <group id="n38_lhcv" name="bgTitle" xy="165,52" size="414,89"/>
+    <component id="n35_lhcv" name="progress" src="lhcv3i" fileName="component/IllustrationsProgress.xml" xy="145,249" size="499,23">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n39_lhcv" name="btnDetail" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="468,77"/>
+    <component id="n2_424b" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <image id="n13_424b" name="n13" src="424b16" fileName="img/sd_Kkapaipeiyangyouhuan_zyd_frame.png" xy="30,1132" size="691,62" group="n32_lhcv"/>
+    <list id="n31_lhcv" name="listCamp" xy="67,1125" size="387,79" group="n32_lhcv" layout="row" colGap="1" defaultItem="ui://38fa8c75odo57i" vAlign="middle" renderOrder="descent">
+      <item icon="ui://dc8e4339lhcv3v" name="all"/>
+      <item url="ui://dc8e4339rzse40"/>
+      <item icon="ui://38fa8c75cni66x" name="rz"/>
+      <item icon="ui://38fa8c75cni670" name="sm"/>
+      <item icon="ui://38fa8c75cni674" name="zx"/>
+      <item icon="ui://38fa8c75cni671" name="ym"/>
+    </list>
+    <component id="n41_lhcv" name="btnWeapon" src="lhcv3l" fileName="btn/IllustrationsWeaponBtn.xml" xy="461,1125" group="n32_lhcv"/>
+    <component id="n52_rzse" name="btnPet" src="rzse3y" fileName="btn/IllustrationsPetBtn.xml" xy="569,1125" group="n32_lhcv"/>
+    <group id="n32_lhcv" name="pBottom" xy="30,1125" size="691,81" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n11_424b" name="iconScore" src="424b8" fileName="img/zu1041kaobei6.png" xy="119,259" pivot="0.5,0.5" anchor="true"/>
+    <image id="n12_424b" name="box" src="424b9" fileName="img/scale_70%_sd_Ttubiao_baoxiang_baoxiang.png" xy="658,258" pivot="0.5,0.5" anchor="true"/>
+    <component id="n42_lhcv" name="btnReward" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="90,228" size="600,60"/>
+    <list id="n34_lhcv" name="listHero" xy="30,415" size="696,692" visible="false" layout="flow_hz" overflow="scroll" lineGap="16" colGap="7" defaultItem="ui://dc8e4339lhcv38" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n40_lhcv" name="listWeapon" xy="30,415" size="696,692" visible="false" layout="flow_hz" overflow="scroll" lineGap="16" colGap="7" defaultItem="ui://dc8e4339lhcv3g" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n53_rzse" name="listPet" xy="30,415" size="696,692" visible="false" layout="flow_hz" overflow="scroll" lineGap="16" colGap="7" defaultItem="ui://dc8e4339rzse42" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n43_lhcv" name="btnMask" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="750,1234">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n7_424b" name="lbRewardTip" xy="245,199" pivot="0.5,0.5" size="267,36" fontSize="26" color="#82ecff" align="center" vAlign="middle" strokeColor="#000205" strokeSize="3" text="还差10积分可获得奖励"/>
+    <text id="n5_424b" name="lbTitle" xy="323,63" size="99,64" fontSize="48" color="#052664" align="center" vAlign="middle" text="图鉴"/>
+    <component id="n51_auyi" name="aniNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="119,259"/>
+    <component id="n56_vet6" name="jihuoBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="261,1225" scale="0.8,0.8">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="一键激活"/>
+    </component>
+  </displayList>
+</component>

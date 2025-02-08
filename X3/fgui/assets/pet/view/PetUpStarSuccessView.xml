@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kuvvcs81">
+  <controller name="unlockSkill" pages="0,,1,,3," selected="0">
+    <remark page="0" value="不显示解锁技能"/>
+    <remark page="1" value="显示解锁技能"/>
+    <remark page="2" value="技能升级"/>
+  </controller>
+  <displayList>
+    <loader id="n9_uvvc" name="bg" xy="-125,-146" size="1000,1626" url="ui://7cvz7rmmdclxx">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n27_lg0p" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="97,377" size="550,737" group="n28_lg0p"/>
+    <image id="n13_uvvc" name="n13" src="uvvc8i" fileName="img/sxcg_frame.png" xy="109,590" pivot="0.5,0" size="534,745" group="n28_lg0p"/>
+    <image id="n8_uvvc" name="n8" src="03e415" fileName="bgImage/gxhdbt_frame.png" pkg="38fa8c75" xy="236,90" pivot="0.5,0.5" size="326,68" group="n28_lg0p"/>
+    <image id="n14_uvvc" name="n14" src="uvvc8k" fileName="img/shengXingChengGong.png" xy="249,83" pivot="0.5,0.5" size="286,72" group="n28_lg0p"/>
+    <image id="n10_uvvc" name="n10" src="6ihgvvv1e3" fileName="peiyang/dizuo.png" pkg="72zq62ea" xy="104,366" size="543,319" group="n28_lg0p"/>
+    <component id="n12_uvvc" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,573" pivot="0.5,1" anchor="true" size="300,400" group="n28_lg0p" scale="0.7,0.7"/>
+    <component id="n1_uvvc" name="closeBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="232,1137" size="304,122" group="n28_lg0p">
+      <Button title="太棒了"/>
+    </component>
+    <component id="n22_uvvc" name="skill" src="lg0p8o" fileName="com/PetSkillItem.xml" xy="324,991" size="105,124" group="n28_lg0p" alpha="0">
+      <gearDisplay controller="unlockSkill" pages="1,3"/>
+    </component>
+    <text id="n23_uvvc" name="n23" xy="310,945" pivot="0.5,0.5" size="133,36" group="n28_lg0p" fontSize="26" color="#f7fcc4" text="解锁新技能">
+      <gearDisplay controller="unlockSkill" pages="1,3"/>
+      <gearText controller="unlockSkill" pages="3" values="技能升级" default="解锁新技能"/>
+    </text>
+    <image id="n6_uvvc" name="n6" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="363,712" size="24,24" group="n29_sv98"/>
+    <list id="n24_uvvc" name="listStarLast" xy="115,705" pivot="0.5,0.5" size="213,32" group="n29_sv98" scale="0.9,0.9" layout="row" colGap="7" defaultItem="ui://38fa8c75dclx138" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n25_uvvc" name="listStarCur" xy="419,706" pivot="0.5,0.5" size="213,32" group="n29_sv98" scale="0.9,0.9" layout="row" colGap="7" defaultItem="ui://38fa8c75dclx138" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n29_sv98" name="n29" xy="115,705" size="517,33" group="n28_lg0p" advanced="true"/>
+    <graph id="n31_sv98" name="dont_delete_transition_use" xy="322,1335" size="100,0" group="n28_lg0p" visible="false"/>
+    <list id="n32_teox" name="list_attr" xy="115,753" size="525,174" group="n28_lg0p" overflow="scroll" defaultItem="ui://00e7db15uvvc8l">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n28_lg0p" name="n28" xy="97,83" size="550,1252" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n12_uvvc" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n1_uvvc" value="0"/>
+    <item time="0" type="Alpha" target="n22_uvvc" value="0"/>
+    <item time="0" type="Alpha" target="n23_uvvc" value="0"/>
+    <item time="0" type="Alpha" target="n29_sv98" value="0"/>
+    <item time="0" type="Alpha" target="n32_teox" value="0"/>
+    <item time="0" type="Scale" target="n12_uvvc" tween="true" startValue="0,0" endValue="0.7,0.7" duration="9"/>
+    <item time="0" type="Scale" target="n14_uvvc" value="0,0"/>
+    <item time="0" type="Scale" target="n8_uvvc" value="0,0"/>
+    <item time="0" type="Size" target="n13_uvvc" value="0,0"/>
+    <item time="3" type="Scale" target="n14_uvvc" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="3" type="Scale" target="n8_uvvc" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="8" type="Size" target="n13_uvvc" tween="true" startValue="0,0" endValue="534,200" duration="6"/>
+    <item time="10" type="Alpha" target="n29_sv98" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="14" type="Alpha" target="n32_teox" tween="true" startValue="0" endValue="1" duration="3"/>
+    <item time="14" type="Size" target="n13_uvvc" tween="true" startValue="534,200" endValue="534,607" duration="5"/>
+    <item time="18" type="Alpha" target="n1_uvvc" tween="true" startValue="0" endValue="1" duration="2"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n12_uvvc" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n1_uvvc" value="0"/>
+    <item time="0" type="Alpha" target="n22_uvvc" value="0"/>
+    <item time="0" type="Alpha" target="n23_uvvc" value="0"/>
+    <item time="0" type="Alpha" target="n29_sv98" value="0"/>
+    <item time="0" type="Alpha" target="n32_teox" value="0"/>
+    <item time="0" type="Scale" target="n12_uvvc" tween="true" startValue="0,0" endValue="0.7,0.7" duration="9"/>
+    <item time="0" type="Scale" target="n14_uvvc" value="0,0"/>
+    <item time="0" type="Scale" target="n8_uvvc" value="0,0"/>
+    <item time="0" type="Size" target="n13_uvvc" value="0,0"/>
+    <item time="3" type="Scale" target="n14_uvvc" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="3" type="Scale" target="n8_uvvc" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="8" type="Size" target="n13_uvvc" tween="true" startValue="0,0" endValue="534,200" duration="6"/>
+    <item time="10" type="Alpha" target="n29_sv98" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="13" type="Alpha" target="n23_uvvc" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="14" type="Alpha" target="n32_teox" tween="true" startValue="0" endValue="1" duration="3"/>
+    <item time="14" type="Size" target="n13_uvvc" tween="true" startValue="534,200" endValue="534,745" duration="5"/>
+    <item time="15" type="Alpha" target="n22_uvvc" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="18" type="Alpha" target="n1_uvvc" tween="true" startValue="0" endValue="1" duration="2"/>
+  </transition>
+</component>

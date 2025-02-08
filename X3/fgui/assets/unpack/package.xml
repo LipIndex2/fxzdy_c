@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7cvz7rmm">
+  <resources>
+    <image id="dtsst" name="kapai_bg.png" path="/hero/" exported="true"/>
+    <image id="kkiqu" name="beijing_8.jpg" path="/hero/" exported="true"/>
+    <image id="dclxx" name="bg2.jpg" path="/hero/" exported="true"/>
+    <image id="pf1ay" name="bg.jpg" path="/equip/"/>
+    <image id="105pv10" name="newplayerBG.png" path="/map/"/>
+    <image id="105pv11" name="sceneBG.png" path="/map/"/>
+    <image id="105pvz" name="mapbg_kongjianzhan.png" path="/map/"/>
+    <image id="ia0ov16" name="gcdh_bg.png" path="/loading/" exported="true"/>
+    <image id="x7gnv17" name="shang_bg.jpg" path="/loading/" exported="true"/>
+    <image id="105pvv19" name="beijing.png" path="/hero/" exported="true"/>
+    <image id="mu0uvv1b" name="beijing.jpg" path="/formation/" exported="true" scale9grid="187,671,374,53"/>
+    <image id="mu0uvv1c" name="tuceng4.jpg" path="/formation/" exported="true"/>
+    <image id="qoezvv1e" name="mj_bg.jpg" path="/SecretArea/"/>
+    <image id="qoezvv1f" name="rank_bj.jpg" path="/SecretArea/"/>
+    <image id="105pv1f" name="sceneBG.png" path="/login/" exported="true"/>
+    <image id="rxmbvv1h" name="tuceng137.png" path="/drawCard/" exported="true"/>
+    <image id="ry80vv1i" name="league1.png" path="/league/" exported="true"/>
+    <image id="ry80vv1j" name="league2.png" path="/league/" exported="true"/>
+    <image id="qlkjvv1l" name="league3.png" path="/league/" exported="true"/>
+    <image id="qlkjvv1q" name="leagueBossBg.jpg" path="/league/" exported="true"/>
+    <image id="uaznvv1r" name="Ltcz_bg.jpg" path="/activity/"/>
+    <image id="bezovv1s" name="txz_frame.png" path="/activity/" exported="true"/>
+    <image id="bezovv1t" name="jlyl_frame.png" path="/activity/" exported="true"/>
+    <image id="ydpgvv1v" name="login_bg.jpg" path="/login/" exported="true"/>
+    <image id="e53p82" name="swmj_bg.jpg" path="/guardShip/" exported="true"/>
+    <image id="k045vv1w" name="bg.jpg" path="/girlGroup/" exported="true"/>
+    <image id="k045vv1x" name="stknt_tcd.png" path="/girlGroup/" exported="true"/>
+    <image id="t5gyvv1w" name="bg.png" path="/factory/" exported="true" scale="9grid" scale9grid="200,680,350,14"/>
+    <image id="s8ulvv1y" name="bg.jpg" path="/gameMode/"/>
+    <image id="8g0dvv20" name="exploreBg1.jpg" path="/league/" exported="true"/>
+    <image id="8g0dvv21" name="exploreBg2.jpg" path="/league/" exported="true"/>
+    <image id="8g0dvv22" name="txz_frame2.png" path="/activity/" exported="true"/>
+    <image id="woygvv23" name="zdkj_bg.jpg" path="/caption/" exported="true"/>
+    <image id="woygvv24" name="bg_petDungeon.jpg" path="/petDungeon/" exported="true"/>
+    <image id="woygvv25" name="bg_petDungeon2.png" path="/petDungeon/" exported="true"/>
+    <image id="woygvv26" name="bg_petDungeon3.png" path="/petDungeon/" exported="true"/>
+    <image id="woygvv27" name="gk_bg.jpg" path="/hangUp/" exported="true"/>
+    <image id="teoxvv23" name="ck_bg.jpg" path="/careerTrials/" exported="true"/>
+    <image id="teoxvv24" name="tjzr_bg.jpg" path="/careerTrials/" exported="true"/>
+    <image id="teoxvv27" name="01.jpg" path="/careerTrials/" exported="true"/>
+    <image id="teoxvv28" name="02.jpg" path="/careerTrials/" exported="true"/>
+    <image id="gl0pvv28" name="ui_zykj00a.png" path="/caption/" exported="true"/>
+    <image id="gl0pvv29" name="ui_zykj00b.png" path="/caption/" exported="true"/>
+    <image id="loj0vv2a" name="bg.jpg" path="/collectiblesDungeon/" exported="true"/>
+    <image id="loj0vv2b" name="bg_bottom.png" path="/collectiblesDungeon/" exported="true"/>
+    <image id="loj0vv2c" name="road.png" path="/collectiblesDungeon/" exported="true"/>
+    <image id="loj0vv2d" name="xiangzi.png" path="/petDungeon/" exported="true"/>
+    <image id="ko81vv2d" name="bg.jpg" path="/rouletteLottery/"/>
+    <image id="ko81vv2e" name="zhuanpan1.png" path="/rouletteLottery/"/>
+    <image id="ko81vv2f" name="hdzu_bg.jpg" path="/activity/" exported="true"/>
+    <image id="gvuzvv2h" name="exploreStarMask.jpg" path="/league/"/>
+    <image id="gvuzvv2i" name="hdtc_sj1.png" path="/activity/" exported="true"/>
+    <image id="gvuzvv2j" name="hdtc_STK1.png" path="/activity/" exported="true"/>
+    <image id="gvuzvv2k" name="hdtc_yxsl1.png" path="/activity/" exported="true"/>
+    <image id="gvuzvv2l" name="hdtc_zyzm1.png" path="/activity/" exported="true"/>
+  </resources>
+  <publish name="" maxAtlasSize="2048" rotation="true"/>
+</packageDescription>

@@ -1,0 +1,146 @@
+
+gw_duanyifu.png
+size: 99,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 45, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: 180
+  xy: 75, 37
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 72, 8
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 64, 30
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 18, 4
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 46, 4
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 2, 22
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 79, 13
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: 270
+  xy: 2, 14
+  size: 15, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 20, 17
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 9, 9
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 31, 9
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 31, 14
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 47, 23
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 56, 12
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 2, 8
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 48, 15
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 90, 56
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: 270
+  xy: 62, 33
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 73, 24
+  size: 24, 13
+  orig: 25, 13
+  offset: 1, 0
+  index: -1

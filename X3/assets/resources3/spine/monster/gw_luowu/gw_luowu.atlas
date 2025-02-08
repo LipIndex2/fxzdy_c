@@ -1,0 +1,97 @@
+
+gw_luowu.png
+size: 248,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 228, 48
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 112, 24
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 151, 26
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 191, 33
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 228, 28
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 149, 11
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 7
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 191, 5
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 112, 12
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 135, 11
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+7
+  rotate: 180
+  xy: 175, 3
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 57, 9
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 222, 11
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1

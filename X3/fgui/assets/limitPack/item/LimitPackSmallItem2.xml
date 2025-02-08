@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="246,162" designImage="ui://7q3fcj1k97dis7u" designImageOffsetX="-383" designImageOffsetY="-564">
+  <displayList>
+    <image id="n46_cae0" name="bgPrice" src="uvvc40" fileName="img/huangsediban.png" xy="1,0"/>
+    <image id="n55_ohdt" name="bgFree" src="uvvc41" fileName="img/baisediban.png" xy="1,0"/>
+    <list id="n60_c3wz" name="listReward" xy="19,11" size="270,104" scale="0.76,0.76" layout="row" overflow="scroll" scroll="horizontal" colGap="14" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n54_ohdt" name="btnBuy" src="uvvc42" fileName="component/LimitPackBtn2.xml" xy="123,125" pivot="0.5,0.5" anchor="true"/>
+    <image id="n56_ohdt" name="sellout" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="246,162" group="n59_ohdt" alpha="0.6"/>
+    <image id="n58_ohdt" name="n58" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="94,58" size="58,46" group="n59_ohdt"/>
+    <group id="n59_ohdt" name="pSellout" xy="0,0" size="246,162" advanced="true"/>
+    <image id="n57_ohdt" name="arrow" src="uvvc3v" fileName="img/lianjiejiantou_7.png" xy="100,148" scale="0.8,0.8"/>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="38,36">
+  <controller name="state" pages="0,,1," selected="1">
+    <remark page="0" value="星星"/>
+    <remark page="1" value="空"/>
+  </controller>
+  <displayList>
+    <image id="n52_loj0" name="n52" src="loj0vvv1kj" fileName="btnImage/xingdi_icon.png" pkg="38fa8c75" xy="19,18" pivot="0.5,0.5" anchor="true" size="38,36" aspect="true">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n53_loj0" name="n53" src="105pvv182" fileName="btnImage/xinghuang2_icon.png" pkg="38fa8c75" xy="19,18" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+  </displayList>
+</component>

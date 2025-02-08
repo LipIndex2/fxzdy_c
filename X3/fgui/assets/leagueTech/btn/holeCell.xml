@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="86,115" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n3_0d22" name="n3" src="0d221" fileName="img/jinengkuang.png" xy="0,7"/>
+    <loader id="n4_0d22" name="holeIcon" xy="42,54" pivot="0.5,0.5" anchor="true" size="45,45" url="ui://07ac155b06d718" align="center" vAlign="middle" clearOnPublish="true"/>
+    <image id="n23_0d22" name="selectImg" src="0d2214" fileName="img/xxuanzhong.png" xy="-6,1" visible="false"/>
+    <text id="n24_0d22" name="holeLv" xy="6,81" pivot="0.5,0.5" size="74,34" fontSize="24" color="#ffffff" align="center" strokeColor="#000000" strokeSize="2" autoClearText="true" text="10/10"/>
+    <image id="n25_lqng" name="lock" src="0d224" fileName="img/scale_70%_sd_A_common_jnmb_frame.png" xy="9,16" visible="false" alpha="0.45"/>
+  </displayList>
+  <Button mode="Radio" downEffect="scale" downEffectValue=".8"/>
+</component>

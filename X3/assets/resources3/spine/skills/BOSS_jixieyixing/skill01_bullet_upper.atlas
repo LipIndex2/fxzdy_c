@@ -1,0 +1,90 @@
+
+skill01_bullet_upper.png
+size: 961,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_zidan_00000
+  rotate: false
+  xy: 714, 280
+  size: 232, 145
+  orig: 256, 150
+  offset: 8, 5
+  index: -1
+effect/skill01_zidan_00001
+  rotate: false
+  xy: 241, 2
+  size: 234, 134
+  orig: 256, 150
+  offset: 11, 14
+  index: -1
+effect/skill01_zidan_00002
+  rotate: false
+  xy: 725, 7
+  size: 234, 126
+  orig: 256, 150
+  offset: 15, 14
+  index: -1
+effect/skill01_zidan_00003
+  rotate: false
+  xy: 2, 3
+  size: 237, 134
+  orig: 256, 150
+  offset: 15, 9
+  index: -1
+effect/skill01_zidan_00004
+  rotate: false
+  xy: 2, 280
+  size: 236, 145
+  orig: 256, 150
+  offset: 15, 2
+  index: -1
+effect/skill01_zidan_00005
+  rotate: false
+  xy: 244, 138
+  size: 238, 140
+  orig: 256, 150
+  offset: 10, 7
+  index: -1
+effect/skill01_zidan_00006
+  rotate: false
+  xy: 484, 6
+  size: 239, 134
+  orig: 256, 150
+  offset: 9, 13
+  index: -1
+effect/skill01_zidan_00007
+  rotate: false
+  xy: 484, 142
+  size: 242, 136
+  orig: 256, 150
+  offset: 9, 11
+  index: -1
+effect/skill01_zidan_00008
+  rotate: false
+  xy: 2, 139
+  size: 240, 139
+  orig: 256, 150
+  offset: 12, 7
+  index: -1
+effect/skill01_zidan_00009
+  rotate: false
+  xy: 475, 283
+  size: 237, 142
+  orig: 256, 150
+  offset: 12, 0
+  index: -1
+effect/skill01_zidan_00010
+  rotate: false
+  xy: 240, 280
+  size: 233, 145
+  orig: 256, 150
+  offset: 11, 1
+  index: -1
+effect/skill01_zidan_00011
+  rotate: false
+  xy: 728, 135
+  size: 230, 143
+  orig: 256, 150
+  offset: 9, 7
+  index: -1

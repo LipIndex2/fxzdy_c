@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_5f25" name="n0" src="5f250" fileName="img/sd_A_common_tisp_frame.png" xy="135,434"/>
+    <text id="n1_5f25" name="n1" xy="320,455" size="118,29" fontSize="30" color="#ffffff" strokeColor="#0b1424" strokeSize="3" text="规则详情"/>
+    <image id="n2_5f25" name="n2" src="5f251" fileName="img/scale_55%_sd_A_common_word_tag.png" xy="170,470" alpha="0.5"/>
+    <image id="n3_5f25" name="n3" src="5f252" fileName="img/scale_55%_sd_A_common_word_tagkaobei.png" xy="463,470" alpha="0.5"/>
+    <text id="n4_5f25" name="n4" xy="168,516" size="412,61" fontSize="22" color="#defbfd" autoSize="none" text="1.限在世界首领玩法种，需要全服玩家一同挑战，击败首领越快，奖励越丰厚。"/>
+    <text id="n5_5f25" name="n5" xy="169,588" size="401,62" fontSize="22" color="#defbfd" autoSize="none" text="2.每日每名玩家有3次挑战首领机会，每日UTC 0点挑战刷新"/>
+    <text id="n6_5f25" name="n6" xy="342,589" size="34,21" fontSize="22" color="#6ef96a" text="3次"/>
+    <text id="n7_5f25" name="n7" xy="169,662" size="324,21" fontSize="22" color="#defbfd" text="3.每次挑战根据造成伤害获取奖励"/>
+    <text id="n8_5f25" name="n8" xy="168,711" size="412,62" fontSize="22" color="#defbfd" autoSize="none" text="4.排行榜会根据玩家对世界首领首次造成的最高伤害进行排名"/>
+    <text id="n9_5f25" name="n9" xy="169,789" size="412,92" fontSize="22" color="#defbfd" autoSize="none" text="5.在成功击杀世界首领后，会在世界首领位置出现神选名录，永久记录在挑战首领过程中排行榜前20名的玩家"/>
+  </displayList>
+</component>

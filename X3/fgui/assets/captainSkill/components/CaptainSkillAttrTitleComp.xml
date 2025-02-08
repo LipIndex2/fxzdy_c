@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="613,39">
+  <displayList>
+    <image id="n66_kp3w" name="n66" src="06d721" fileName="img/sd_A_common_xb1_frame.png" xy="0,1" size="613,37"/>
+    <text id="n67_kp3w" name="title" xy="20,0" size="163,39" fontSize="28" color="#85b0ff" vAlign="middle" autoSize="none" singleLine="true" text="它的故事"/>
+  </displayList>
+  <customProperty target="title" propertyId="0"/>
+</component>

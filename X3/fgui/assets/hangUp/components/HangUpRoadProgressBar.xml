@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,24" extention="ProgressBar">
+  <displayList>
+    <image id="n0_piwi" name="n0" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="25,12" pivot="0.5,0.5" anchor="true" size="50,24" color="#0a173c">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_piwi" name="bar" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="0,12" pivot="0,0.5" anchor="true" size="50,20" color="#fedf47">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

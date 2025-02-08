@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kejy365">
+  <controller name="type" pages="0,自己,1,其他人" selected="0"/>
+  <controller name="friendState" exported="true" pages="0,,3,,1,,2,,4," selected="0">
+    <remark page="0" value="未开启好友功能"/>
+    <remark page="1" value="黑名单"/>
+    <remark page="2" value="好友"/>
+    <remark page="3" value="申请好友中"/>
+    <remark page="4" value="不是好友"/>
+  </controller>
+  <displayList>
+    <loader id="n1_5da5" name="bg" xy="40,190" size="670,1005" group="n90_ejy3" url="ui://d4f261265da51"/>
+    <image id="n3_5da5" name="fg" src="5da53" fileName="img/tupian.png" xy="85,549" group="n90_ejy3"/>
+    <component id="n15_5da5" name="btnPlayerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="89,290" group="n90_ejy3"/>
+    <text id="n18_5da5" name="labelPlayerName" xy="207,301" size="126,36" group="n90_ejy3" fontSize="26" color="#ffffff" vAlign="middle" autoSize="shrink" singleLine="true" autoClearText="true" text="玩家名"/>
+    <component id="n19_5da5" name="btnChangeName" src="ejy3vvv1e1" fileName="btn/BtnShuRu.xml" pkg="38fa8c75" xy="338,299" group="n90_ejy3"/>
+    <component id="n98_s0hy" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="378,304" group="n90_ejy3" controller="type,3"/>
+    <component id="n99_e53p" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="187,298" group="n90_ejy3" controller="type,3"/>
+    <component id="n20_5da5" name="fightNum" src="ejy3vvv1dt" fileName="fightNum/FightNumComp.xml" pkg="38fa8c75" xy="210,343" group="n90_ejy3"/>
+    <loader id="n22_5da5" name="imageTitle" xy="402,310" pivot="0.5,0.5" size="296,75" group="n90_ejy3" url="ui://7q3fcj1kikw9s74" align="center" vAlign="middle" fill="scale"/>
+    <image id="n61_5da5" name="lineSplit" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="88,520" size="573,3" group="n90_ejy3" color="#3a76bf"/>
+    <component id="n77_ejy3" name="btnChangePlayerAvatar" src="ejy3vvv1dz" fileName="btn/BtnShuaXin.xml" pkg="38fa8c75" xy="76,284" group="n90_ejy3"/>
+    <component id="n26_5da5" name="partPlayerId" src="ejy36h" fileName="components/PlayerInfoIdComp.xml" xy="89,405" group="n82_ejy3"/>
+    <component id="n78_ejy3" name="partHangUpLevel" src="ejy36q" fileName="components/PlayerInfoOneLineComp.xml" xy="418,405" group="n82_ejy3"/>
+    <component id="n80_ejy3" name="partServerId" src="ejy36q" fileName="components/PlayerInfoOneLineComp.xml" xy="89,453" group="n82_ejy3"/>
+    <component id="n81_ejy3" name="partLeague" src="ejy36q" fileName="components/PlayerInfoOneLineComp.xml" xy="418,453" group="n82_ejy3"/>
+    <group id="n82_ejy3" name="n82" xy="89,405" size="572,88" group="n90_ejy3"/>
+    <component id="n74_ejy3" name="hero1" src="ejy36n" fileName="components/PlayerInfoOneHeroSlotComp.xml" xy="83,646" group="n83_ejy3" controller="isHave,1"/>
+    <component id="n84_ejy3" name="hero2" src="ejy36n" fileName="components/PlayerInfoOneHeroSlotComp.xml" xy="259,647" group="n83_ejy3"/>
+    <component id="n85_ejy3" name="hero3" src="ejy36n" fileName="components/PlayerInfoOneHeroSlotComp.xml" xy="430,647" group="n83_ejy3"/>
+    <component id="n86_ejy3" name="hero4" src="ejy36n" fileName="components/PlayerInfoOneHeroSlotComp.xml" xy="188,805" group="n83_ejy3"/>
+    <component id="n87_ejy3" name="hero5" src="ejy36n" fileName="components/PlayerInfoOneHeroSlotComp.xml" xy="360,804" group="n83_ejy3"/>
+    <component id="n88_ejy3" name="hero6" src="ejy36n" fileName="components/PlayerInfoOneHeroSlotComp.xml" xy="533,805" group="n83_ejy3"/>
+    <group id="n83_ejy3" name="heroP" xy="83,646" size="586,366" group="n90_ejy3"/>
+    <component id="n36_5da5" name="btnAddBlack" src="ejy36j" fileName="btn/PlayerInfoBlackFriendBtn.xml" xy="87,1056" size="134,60" group="n89_ejy3">
+      <gearDisplay controller="friendState" pages="1,2,4"/>
+    </component>
+    <component id="n91_sx4e" name="btnRemoveBlack" src="ejy36l" fileName="btn/PlayerInfoSendPrivateMessageBtn.xml" xy="87,1056" size="134,60" group="n89_ejy3">
+      <gearDisplay controller="friendState" pages="3"/>
+      <Button title="取消拉黑"/>
+    </component>
+    <component id="n92_sx4e" name="btnApplyFriend" src="ejy36l" fileName="btn/PlayerInfoSendPrivateMessageBtn.xml" xy="235,1056" size="134,60" group="n89_ejy3">
+      <gearDisplay controller="friendState" pages="3,4"/>
+      <Button title="添加好友"/>
+    </component>
+    <component id="n38_5da5" name="btnWaitApply" src="ejy36k" fileName="btn/PlayerInfoWaitConfirmBtn.xml" xy="235,1056" size="134,60" group="n89_ejy3" touchable="false">
+      <gearDisplay controller="friendState" pages="2"/>
+    </component>
+    <component id="n40_5da5" name="btnSendMessage" src="ejy36l" fileName="btn/PlayerInfoSendPrivateMessageBtn.xml" xy="87,1056" size="134,60" group="n89_ejy3"/>
+    <component id="n93_sx4e" name="btnDeleteFriend" src="ejy36j" fileName="btn/PlayerInfoBlackFriendBtn.xml" xy="383,1056" size="134,60" group="n89_ejy3">
+      <gearDisplay controller="friendState" pages="1"/>
+      <Button title="删除好友"/>
+    </component>
+    <component id="n94_lhcv" name="btnChallengeFriend" src="ejy36l" fileName="btn/PlayerInfoSendPrivateMessageBtn.xml" xy="531,1056" size="134,60" group="n89_ejy3">
+      <gearDisplay controller="friendState" pages="1"/>
+      <Button title="挑战好友"/>
+    </component>
+    <group id="n89_ejy3" name="btnP" xy="87,1056" size="134,60" group="n90_ejy3" advanced="true" layout="hz" colGap="14" excludeInvisibles="true">
+      <gearDisplay controller="type" pages="1"/>
+    </group>
+    <component id="n104_dbz0" name="pPet" src="dbz0vvv1hg" fileName="formation/FormationSkillIcon.xml" pkg="38fa8c75" xy="570,608" group="n106_dbz0"/>
+    <text id="n105_dbz0" name="lbPetName" xy="569,676" pivot="0.5,0.5" anchor="true" size="51,36" group="n106_dbz0" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="+10"/>
+    <group id="n106_dbz0" name="gPet" xy="481,560" size="178,133" group="n90_ejy3" advanced="true"/>
+    <component id="n108_wu6b" name="pCollections" src="dbz0vvv1hg" fileName="formation/FormationSkillIcon.xml" pkg="38fa8c75" xy="179,608" group="n110_wu6b"/>
+    <text id="n109_wu6b" name="lbCollectionsName" xy="178,676" pivot="0.5,0.5" anchor="true" size="51,36" group="n110_wu6b" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="+10"/>
+    <group id="n110_wu6b" name="gCollections" xy="90,560" size="178,133" group="n90_ejy3" advanced="true"/>
+    <component id="n111_xwdv" name="switchComp" src="xwdv8p" fileName="components/switchInfoShow.xml" xy="537,699" group="n115_xwdv"/>
+    <group id="n115_xwdv" name="gChange" xy="537,699" size="125,42" group="n90_ejy3" advanced="true">
+      <gearDisplay controller="type" pages="0,1"/>
+    </group>
+    <group id="n90_ejy3" name="n90" xy="40,190" size="670,1005" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n107_vdae" name="n107" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1207">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

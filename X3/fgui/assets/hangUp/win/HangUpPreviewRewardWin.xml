@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n56_8090" name="bg" xy="79,403" size="592,528" group="n72_r8pu" url="ui://38fa8c753cd618" fill="scaleFree"/>
+    <image id="n57_8090" name="fg1" src="r8pu16u" fileName="img/gjsj_di.png" xy="241,456" group="n72_r8pu"/>
+    <image id="n59_8090" name="fg2" src="r8pu16w" fileName="img/sd_A_common_tiaoguo.png" xy="106,584" group="n72_r8pu" alpha="0.6"/>
+    <image id="n58_8090" name="fg3" src="r8pu16v" fileName="img/sd_A_common_tiaoguo_2.png" xy="106,651" group="n72_r8pu" alpha="0.6"/>
+    <text id="n67_8090" name="labelTitle" xy="311,458" size="123,42" group="n72_r8pu" fontSize="30" color="#fbfdfd" vAlign="middle" text="挂机时间"/>
+    <text id="n68_8090" name="labelHangUpTime" xy="304,499" size="138,42" group="n72_r8pu" fontSize="30" color="#f7c449" vAlign="middle" text="05:10:20"/>
+    <list id="n71_r8pu" name="itemList" xy="126,662" size="500,103" group="n72_r8pu" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n78_r8pu" name="btnOk" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="112,805" size="525,94" group="n72_r8pu">
+      <Button title="收获奖励"/>
+    </component>
+    <component id="n80_r8pu" name="tipsHangUpGold" src="piwi138" fileName="components/HangUpPerHourIconComp.xml" xy="125,590" size="179,48" group="n72_r8pu"/>
+    <component id="n81_r8pu" name="tipsHangUpExp" src="piwi138" fileName="components/HangUpPerHourIconComp.xml" xy="290,590" size="184,48" group="n72_r8pu"/>
+    <component id="n82_r8pu" name="tipsHangUpLvUpItem" src="piwi138" fileName="components/HangUpPerHourIconComp.xml" xy="451,590" size="172,48" group="n72_r8pu"/>
+    <group id="n72_r8pu" name="G_all" xy="79,403" size="592,528" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n73_r8pu" name="n73" xy="171,-476" size="400,66" fontSize="50" color="#f9f282" vAlign="middle" strokeColor="#04277d" strokeSize="4" text="挂机关卡奖励预览"/>
+  </displayList>
+</component>

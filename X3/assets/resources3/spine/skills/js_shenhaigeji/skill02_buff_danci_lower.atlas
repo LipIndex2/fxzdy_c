@@ -1,0 +1,90 @@
+
+skill02_buff_danci_lower.png
+size: 971,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/qian01
+  rotate: false
+  xy: 2, 26
+  size: 93, 32
+  orig: 256, 256
+  offset: 72, 103
+  index: -1
+images/effect/qian02
+  rotate: false
+  xy: 217, 97
+  size: 109, 62
+  orig: 256, 256
+  offset: 46, 73
+  index: -1
+images/effect/qian03
+  rotate: true
+  xy: 851, 75
+  size: 159, 118
+  orig: 256, 256
+  offset: 48, 62
+  index: -1
+images/effect/qian04
+  rotate: false
+  xy: 691, 92
+  size: 158, 142
+  orig: 256, 256
+  offset: 49, 53
+  index: -1
+images/effect/qian05
+  rotate: true
+  xy: 533, 178
+  size: 160, 156
+  orig: 256, 256
+  offset: 48, 45
+  index: -1
+images/effect/qian06
+  rotate: false
+  xy: 370, 169
+  size: 161, 169
+  orig: 256, 256
+  offset: 47, 36
+  index: -1
+images/effect/qian07
+  rotate: false
+  xy: 193, 161
+  size: 175, 177
+  orig: 256, 256
+  offset: 40, 33
+  index: -1
+images/effect/qian08
+  rotate: false
+  xy: 2, 156
+  size: 189, 182
+  orig: 256, 256
+  offset: 33, 30
+  index: -1
+images/effect/qian09
+  rotate: false
+  xy: 597, 2
+  size: 201, 88
+  orig: 256, 256
+  offset: 27, 27
+  index: -1
+images/effect/qian10
+  rotate: false
+  xy: 2, 60
+  size: 213, 94
+  orig: 256, 256
+  offset: 21, 24
+  index: -1
+images/effect/qian11
+  rotate: false
+  xy: 370, 69
+  size: 225, 98
+  orig: 256, 256
+  offset: 15, 22
+  index: -1
+images/effect/qian12
+  rotate: false
+  xy: 691, 236
+  size: 233, 102
+  orig: 256, 256
+  offset: 11, 20
+  index: -1

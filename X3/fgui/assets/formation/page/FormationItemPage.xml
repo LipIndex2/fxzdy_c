@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="655,348" opaque="false">
+  <displayList>
+    <component id="n6_4928" name="item0" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="0,0" group="n34_kkiq"/>
+    <component id="n30_kkiq" name="item1" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="202,0" group="n34_kkiq"/>
+    <component id="n29_kkiq" name="item2" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="404,0" group="n34_kkiq"/>
+    <component id="n31_kkiq" name="item3" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="103,156" group="n34_kkiq"/>
+    <component id="n32_kkiq" name="item4" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="305,156" group="n34_kkiq"/>
+    <component id="n33_kkiq" name="item5" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="509,156" group="n34_kkiq"/>
+    <image id="n42_mzvd" name="n42" src="ig8t2k" fileName="img/kuang.png" xy="-5,112" group="n54_k6be"/>
+    <image id="n51_k6be" name="n51" src="l2wis9h" fileName="img/dakai1_btn.png" pkg="72zq62ea" xy="31,401" size="186,38" group="n54_k6be"/>
+    <text id="n46_k6be" name="lbN_1" xy="61,403" size="123,34" group="n54_k6be" fontSize="24" color="#add6ff" vAlign="middle" text="星际第一帅">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n54_k6be" name="group1" xy="-5,112" size="222,327" group="n34_kkiq" advanced="true"/>
+    <image id="n43_mzvd" name="n43" src="ig8t2k" fileName="img/kuang.png" xy="200,112" group="n55_k6be"/>
+    <image id="n52_k6be" name="n52" src="l2wis9h" fileName="img/dakai1_btn.png" pkg="72zq62ea" xy="245,401" size="186,38" group="n55_k6be"/>
+    <text id="n48_k6be" name="lbN_2" xy="274,402" size="123,34" group="n55_k6be" fontSize="24" color="#add6ff" vAlign="middle" text="星际第一帅">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n55_k6be" name="group2" xy="200,112" size="231,327" group="n34_kkiq" advanced="true"/>
+    <image id="n44_mzvd" name="n44" src="ig8t2k" fileName="img/kuang.png" xy="401,112" group="n56_k6be"/>
+    <image id="n53_k6be" name="n53" src="l2wis9h" fileName="img/dakai1_btn.png" pkg="72zq62ea" xy="450,399" size="186,38" group="n56_k6be"/>
+    <text id="n50_k6be" name="lbN_3" xy="479,401" size="123,34" group="n56_k6be" fontSize="24" color="#add6ff" vAlign="middle" text="星际第一帅">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n56_k6be" name="group3" xy="401,112" size="235,325" group="n34_kkiq" advanced="true"/>
+    <group id="n34_kkiq" name="G_item" xy="-5,0" size="660,439" advanced="true"/>
+    <component id="n35_odo5" name="anim0" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="72,158" pivot="0.5,1" anchor="true" size="89,100" group="n41_odo5" scale="1.6,1.6"/>
+    <component id="n36_odo5" name="anim1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="273,158" pivot="0.5,1" anchor="true" size="90,100" group="n41_odo5"/>
+    <component id="n37_odo5" name="anim2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="475,158" pivot="0.5,1" anchor="true" size="90,100" group="n41_odo5"/>
+    <component id="n38_odo5" name="anim3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="174,314" pivot="0.5,1" anchor="true" size="90,100" group="n41_odo5"/>
+    <component id="n39_odo5" name="anim4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="376,314" pivot="0.5,1" anchor="true" size="90,100" group="n41_odo5"/>
+    <component id="n40_odo5" name="anim5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="580,314" pivot="0.5,1" anchor="true" size="90,100" group="n41_odo5"/>
+    <group id="n41_odo5" name="G_anim" xy="28,58" size="597,256" advanced="true"/>
+  </displayList>
+</component>

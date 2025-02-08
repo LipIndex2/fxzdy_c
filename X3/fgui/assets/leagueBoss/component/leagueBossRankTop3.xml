@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="196,243">
+  <controller name="rank" exported="true" pages="0,,1,,2,,3," selected="3"/>
+  <displayList>
+    <component id="n33_bc8b" name="spineNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="97,235" pivot="0.5,1" group="n46_sh62"/>
+    <text id="n40_bc8b" name="playerName" xy="73,12" size="123,29" group="n46_sh62" fontSize="20" color="#ffffff" strokeColor="#150e01" strokeSize="3" text="玩家名字名字"/>
+    <image id="n42_bc8b" name="n42" src="bc8b77" fileName="img/scale_80%_sd_A_common_no1_icon.png" xy="0,0" group="n46_sh62">
+      <gearDisplay controller="rank" pages="0"/>
+    </image>
+    <image id="n43_zzft" name="n43" src="bc8b76" fileName="img/scale_80%_sd_A_common_no2_icon.png" xy="0,0" group="n46_sh62">
+      <gearDisplay controller="rank" pages="1"/>
+    </image>
+    <image id="n44_zzft" name="n44" src="bc8b75" fileName="img/tuceng978_15.png" xy="3,0" group="n46_sh62">
+      <gearDisplay controller="rank" pages="2"/>
+    </image>
+    <group id="n46_sh62" name="n46" xy="0,0" size="196,236" advanced="true">
+      <gearDisplay controller="rank" pages="0,1,2"/>
+    </group>
+    <image id="n47_qlkj" name="n47" src="qlkjs8s" fileName="img/shadow.png" pkg="72zq62ea" xy="52,223" alpha="0.5">
+      <gearDisplay controller="rank" pages="0,1,2"/>
+    </image>
+  </displayList>
+</component>

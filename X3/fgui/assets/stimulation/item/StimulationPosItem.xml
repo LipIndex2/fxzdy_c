@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,170">
+  <controller name="state" pages="0,,1,,2," selected="1">
+    <remark page="0" value="空"/>
+    <remark page="1" value="未解锁"/>
+    <remark page="2" value="上阵"/>
+  </controller>
+  <displayList>
+    <image id="n15_4651" name="n15" src="465118" fileName="img/touxiangheidi_9.png" xy="5,5"/>
+    <image id="n17_4651" name="iconAdd" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="42,43" size="49,49">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <image id="n18_4651" name="n18" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="47,12" size="41,50" group="n21_str8"/>
+    <text id="n23_str8" name="lbNeedLv" xy="67,80" pivot="0.5,0.5" anchor="true" size="96,32" group="n21_str8" fontSize="22" color="#19df51" align="center" vAlign="middle" text="设施10级"/>
+    <text id="n24_str8" name="n24" xy="67,103" pivot="0.5,0.5" anchor="true" size="48,32" group="n21_str8" fontSize="22" color="#19df51" align="center" vAlign="middle" text="解锁"/>
+    <group id="n21_str8" name="gLock" xy="19,12" size="96,107" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <component id="n22_str8" name="heroItem" src="str856" fileName="item/StimulationHeroItem.xml" xy="0,0">
+      <gearDisplay controller="state" pages="2"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,62 @@
+
+skill01_upper.png
+size: 295,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_xian_0
+  rotate: false
+  xy: 181, 3
+  size: 65, 25
+  orig: 300, 50
+  offset: 219, 13
+  index: -1
+effect/skill01_xian_1
+  rotate: false
+  xy: 2, 2
+  size: 177, 31
+  orig: 300, 50
+  offset: 91, 9
+  index: -1
+effect/skill01_xian_2
+  rotate: false
+  xy: 2, 71
+  size: 201, 35
+  orig: 300, 50
+  offset: 53, 6
+  index: -1
+effect/skill01_xian_3
+  rotate: false
+  xy: 2, 35
+  size: 201, 34
+  orig: 300, 50
+  offset: 37, 7
+  index: -1
+effect/skill01_xian_4
+  rotate: true
+  xy: 205, 30
+  size: 166, 34
+  orig: 300, 50
+  offset: 29, 7
+  index: -1
+effect/skill01_xian_5
+  rotate: true
+  xy: 241, 42
+  size: 154, 26
+  orig: 300, 50
+  offset: 19, 13
+  index: -1
+effect/skill01_xian_6
+  rotate: true
+  xy: 269, 39
+  size: 157, 24
+  orig: 300, 50
+  offset: 16, 14
+  index: -1
+effect/skill01_xu
+  rotate: false
+  xy: 2, 108
+  size: 134, 88
+  orig: 138, 95
+  offset: 2, 2
+  index: -1

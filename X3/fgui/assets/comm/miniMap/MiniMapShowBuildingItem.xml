@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <displayList>
+    <loader id="n13_v891" name="map0" xy="0,0" size="1000,990" group="n16_tiub" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <group id="n16_tiub" name="map" xy="0,0" size="1000,990" advanced="true"/>
+  </displayList>
+</component>

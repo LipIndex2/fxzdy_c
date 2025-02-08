@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,180">
+  <controller name="setFlag" pages="0,,1," selected="0">
+    <remark page="0" value="没有战技"/>
+    <remark page="1" value="有战技"/>
+  </controller>
+  <displayList>
+    <image id="n232_b6a2" name="bg" src="qoezvvv1c8" fileName="bgImage/hwdi_frame.png" xy="0,0" size="250,143"/>
+    <component id="n249_dbz0" name="pInfo" src="dbz0vvv1hg" fileName="formation/FormationPet.xml" xy="124,71" group="n245_ffqt"/>
+    <text id="n233_b6a2" name="lbName" xy="124,161" pivot="0.5,0.5" anchor="true" size="75,34" group="n245_ffqt" fontSize="24" color="#31b4ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="轰炸机"/>
+    <group id="n245_ffqt" name="setP" xy="35,23" size="178,154" advanced="true">
+      <gearDisplay controller="setFlag" pages="1"/>
+    </group>
+    <text id="n246_ffqt" name="lbNone" xy="124,71" pivot="0.5,0.5" anchor="true" size="157,36" fontSize="26" color="#758dcc" align="center" vAlign="middle" autoSize="none" text="未装备">
+      <gearDisplay controller="setFlag" pages="0"/>
+    </text>
+  </displayList>
+</component>

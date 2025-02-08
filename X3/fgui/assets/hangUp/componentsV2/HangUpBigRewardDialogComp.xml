@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="355,83" pivot="0.5,0.5" extention="Button">
+  <controller name="canGainFlag" exported="true" pages="0,f,1,t" selected="1"/>
+  <displayList>
+    <loader id="n233_piwi" name="bgDialog" xy="0,0" size="355,77" url="ui://38fa8c75tml513f" fill="scaleFree">
+      <gearDisplay controller="canGainFlag" pages="0"/>
+    </loader>
+    <image id="n246_tyxr" name="bgCanGain" src="tyxr13y" fileName="img/qipao3_frame.png" xy="-7,-6" size="370,89">
+      <gearDisplay controller="canGainFlag" pages="1"/>
+    </image>
+    <component id="n248_tyxr" name="gainComp" src="tyxr13z" fileName="components/HangUpRewardItemTipsComp.xml" xy="131,11" size="186,59" group="n247_tyxr">
+      <gearDisplay controller="canGainFlag" pages="1"/>
+    </component>
+    <group id="n247_tyxr" name="canGain" xy="131,11" size="186,59"/>
+    <text id="n234_piwi" name="labelNextLevelRewardTitle" xy="44,20" size="154,34" group="n245_tyxr" fontSize="24" color="#0266c3" align="right" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="{levelCount=3}{desc=关后可领取}"/>
+    <component id="n241_tml5" name="canGainRewardComp" src="tyxr13z" fileName="components/HangUpRewardItemTipsComp.xml" xy="200,9" size="130,60" group="n245_tyxr">
+      <gearDisplay controller="canGainFlag" pages="0"/>
+    </component>
+    <group id="n245_tyxr" name="noGain" xy="44,9" size="286,60" advanced="true">
+      <gearDisplay controller="canGainFlag" pages="0"/>
+      <relation target="n234_piwi" sidePair="left-right"/>
+    </group>
+    <component id="n249_db4z" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="188,36" size="328,66" controller="type,13"/>
+    <component id="n250_gvuz" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="346,9" controller="type,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

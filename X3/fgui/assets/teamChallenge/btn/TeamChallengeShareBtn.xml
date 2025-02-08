@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="83,100" pivot="0.5,0.5" extention="Button" bgColor="#3260bc">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n11_9zn0" name="n11" src="9zn019r" fileName="img/lianmengpindao_19.png" xy="4,1"/>
+    <loader id="n7_9zn0" name="img" xy="6,6" size="71,73" url="ui://dhpy5xez9zn019s" fill="scale" clearOnPublish="true"/>
+    <image id="n4_ig8t" name="imgMask" src="bbe3116" fileName="img/heisezhezhao.png" xy="6,2" size="71,77" color="#3260bc"/>
+    <text id="n5_ig8t" name="lbName" xy="0,71" size="83,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#151d31" strokeSize="3" text="本服频道"/>
+    <text id="n6_ig8t" name="lbCd" xy="22,30" size="38,29" fontSize="20" color="#19df51" vAlign="middle" strokeColor="#050000" strokeSize="2" text="30s">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

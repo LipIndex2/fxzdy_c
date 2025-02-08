@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,99" overflow="hidden">
+  <displayList>
+    <loader id="n43_8a38" name="imageHero" xy="38,53" pivot="0.5,0.5" anchor="true" size="184,140" scale="0.6,0.6" rotation="45" url="ui://7q3fcj1kwwsza" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+  </displayList>
+</component>

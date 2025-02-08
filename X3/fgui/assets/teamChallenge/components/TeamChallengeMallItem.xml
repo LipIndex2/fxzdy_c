@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,187" restrictSize="0,607,0,187">
+  <displayList>
+    <image id="n2_ig8t" name="n2" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="607,187"/>
+    <image id="n7_ig8t" name="n7" src="bbe358" fileName="img/liebiaobiaotou_91.png" xy="5,7" size="589,47"/>
+    <text id="n8_ig8t" name="lbFloor" xy="18,10" size="101,34" fontSize="24" color="#9ddeff" vAlign="middle" strokeColor="#2352a9" strokeSize="3" text="第489关 "/>
+    <text id="n9_ig8t" name="lbName" xy="125,11" size="147,34" fontSize="24" color="#c6dbfb" vAlign="middle" strokeColor="#224fa1" strokeSize="3" text="星际最强分队">
+      <relation target="n8_ig8t" sidePair="left-right"/>
+    </text>
+    <text id="n10_ig8t" name="lbCondition" xy="486,11" size="75,34" fontSize="24" color="#19df51" vAlign="middle" strokeColor="#000000" strokeSize="2" text="无限制"/>
+    <image id="n14_ig8t" name="imgFight" src="e1fvvvv1ch" fileName="img/zd_icon.png" pkg="38fa8c75" xy="444,11" size="35,34"/>
+    <text id="n17_ig8t" name="n17" xy="454,96" size="93,42" fontSize="30" color="#9bbeff" vAlign="middle" text="已申请"/>
+    <component id="n16_ig8t" name="btnApply" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="416,83" size="161,73">
+      <Button title="申请" titleFontSize="30"/>
+    </component>
+    <list id="n18_ig8t" name="listAvatars" xy="15,60" size="381,125" layout="row" colGap="7" defaultItem="ui://dhpy5xezig8t179">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

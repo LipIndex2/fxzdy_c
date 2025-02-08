@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,75">
+  <displayList>
+    <loader id="n15_b6a2" name="imageItem" xy="6,2" pivot="0.5,0.5" size="48,48" url="ui://7b03f641b6a29" align="center" vAlign="middle"/>
+    <text id="n18_b6a2" name="labelCount" xy="0,41" pivot="0.5,0.5" size="62,34" fontSize="24" color="#ffffff" align="center" strokeColor="#000000" strokeSize="2" text="1000"/>
+  </displayList>
+</component>

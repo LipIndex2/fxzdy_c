@@ -1,0 +1,90 @@
+
+attack_upper.png
+size: 495,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attackdaoguang_00000
+  rotate: false
+  xy: 2, 2
+  size: 204, 31
+  orig: 280, 180
+  offset: 61, 15
+  index: -1
+effect/attackdaoguang_00001
+  rotate: false
+  xy: 2, 191
+  size: 255, 150
+  orig: 280, 180
+  offset: 21, 9
+  index: -1
+effect/attackdaoguang_00002
+  rotate: false
+  xy: 259, 186
+  size: 234, 155
+  orig: 280, 180
+  offset: 18, 8
+  index: -1
+effect/attackdaoguang_00003
+  rotate: false
+  xy: 2, 35
+  size: 230, 154
+  orig: 280, 180
+  offset: 13, 12
+  index: -1
+effect/attackdaoguang_00004
+  rotate: false
+  xy: 234, 68
+  size: 224, 116
+  orig: 280, 180
+  offset: 9, 52
+  index: -1
+effect/attackdaoguang_00005
+  rotate: false
+  xy: 234, 10
+  size: 213, 56
+  orig: 280, 180
+  offset: 12, 113
+  index: -1
+effect/attackhuohua_00000_00000
+  rotate: false
+  xy: 449, 15
+  size: 6, 7
+  orig: 26, 14
+  offset: 1, 3
+  index: -1
+effect/attackhuohua_00000_00001
+  rotate: false
+  xy: 449, 38
+  size: 14, 13
+  orig: 26, 14
+  offset: 1, 0
+  index: -1
+effect/attackhuohua_00000_00002
+  rotate: false
+  xy: 208, 21
+  size: 22, 12
+  orig: 26, 14
+  offset: 1, 1
+  index: -1
+effect/attackhuohua_00000_00003
+  rotate: false
+  xy: 208, 6
+  size: 20, 13
+  orig: 26, 14
+  offset: 5, 0
+  index: -1
+effect/attackhuohua_00000_00004
+  rotate: false
+  xy: 449, 53
+  size: 16, 13
+  orig: 26, 14
+  offset: 10, 0
+  index: -1
+effect/attackhuohua_00000_00005
+  rotate: false
+  xy: 449, 24
+  size: 11, 12
+  orig: 26, 14
+  offset: 13, 0
+  index: -1

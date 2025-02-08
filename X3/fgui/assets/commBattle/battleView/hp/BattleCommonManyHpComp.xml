@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="591,132">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n23_caj9" name="bg" src="caj9vvv1dc" fileName="battle/img/zu2.png" xy="118,31" group="n18_caj9"/>
+    <component id="n20_caj9" name="nextBar" src="qlkjvvv1eq" fileName="battleView/bar/BattleBossHpBar2.xml" xy="121,46" size="416,43" group="n21_caj9">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n19_caj9" name="currentBar" src="qlkjvvv1eq" fileName="battleView/bar/BattleBossHpBar2.xml" xy="121,46" size="416,43" group="n21_caj9">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <group id="n21_caj9" name="n21" xy="121,46" size="416,43" group="n18_caj9"/>
+    <loader id="n16_0255" name="imageBossBg" xy="0,0" size="132,132" group="n18_caj9" url="ui://u3tpmdwfcaj9vvv1d7"/>
+    <text id="n13_0255" name="labelHpRowCount" xy="537,49" size="54,36" group="n18_caj9" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="X18"/>
+    <component id="n24_oyze" name="imageBossAvatar" src="oyzevvv1hy" fileName="battleComp/BattleHeadMaskItem.xml" xy="3,7" group="n18_caj9" scale="1.1,1.1"/>
+    <group id="n18_caj9" name="n18" xy="0,0" size="591,132" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+  </displayList>
+</component>

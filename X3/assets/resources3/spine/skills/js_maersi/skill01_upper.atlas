@@ -1,0 +1,27 @@
+
+skill01_upper.png
+size: 279,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_upperBAODIAN
+  rotate: false
+  xy: 2, 114
+  size: 156, 160
+  orig: 156, 160
+  offset: 0, 0
+  index: -1
+images/effect/skill01_upperGLO
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/effect/skill01_upper_banqiu
+  rotate: true
+  xy: 160, 79
+  size: 195, 118
+  orig: 195, 150
+  offset: 0, 3
+  index: -1

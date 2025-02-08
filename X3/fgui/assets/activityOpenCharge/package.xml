@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8l3sin1d">
+  <resources>
+    <component id="uazn0" name="tabBtn.xml" path="/btn/"/>
+    <component id="uazn1" name="openChargeView.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

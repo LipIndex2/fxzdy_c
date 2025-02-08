@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,150">
+  <displayList>
+    <loader id="n27_cjsd" name="bg" xy="10,12" size="104,102" group="n28_cjsd" url="ui://38fa8c75f0d84"/>
+    <image id="n26_cjsd" name="n26" src="03e442" fileName="img/xiexia_icon.png" xy="30,32" size="64,62" group="n28_cjsd"/>
+    <text id="n29_cjsd" name="lbTakeOff" xy="39,120" pivot="0.5,0.5" size="46,30" group="n28_cjsd" fontSize="21" color="#ffffff" align="center" vAlign="middle" strokeColor="#042169" strokeSize="3" text="卸下"/>
+    <group id="n28_cjsd" name="takeOff" xy="10,12" size="104,138" advanced="true"/>
+    <component id="n35_cjsd" name="base" src="abqcvvv1el" fileName="item/WeaponBagItem.xml" pkg="38fa8c75" xy="0,0"/>
+  </displayList>
+</component>

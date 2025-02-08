@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,60" overflow="scroll">
+  <displayList>
+    <text id="n0_9gqu" name="labelContent" xy="1,2" size="400,110" fontSize="20" color="#fcf0d2" autoSize="height" text="打开可获得金币100，金币200asdf;kjasdf;kljsad;fkjasd;kjf1 4&#xA;sdaf;kljalskdfjlksjdf&#xA;sdflkjsdlfkj">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+</component>

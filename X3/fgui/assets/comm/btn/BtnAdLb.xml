@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="240,40" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1,,2," selected="2">
+    <remark page="0" value="无任何提示"/>
+    <remark page="1" value="图标提示上方"/>
+    <remark page="2" value="红点右侧"/>
+  </controller>
+  <displayList>
+    <image id="n90_loej" name="n90" src="loejvvv1ge" fileName="iconImage/ad_icon.png" xy="4,0">
+      <relation target="n89_loej" sidePair="middle-middle,right-left"/>
+    </image>
+    <image id="n111_gvuz" name="line" src="gvuzvvv1l6" fileName="btn/img/line_green.png" xy="138,34" pivot="0.5,0.5" anchor="true" size="172,8">
+      <relation target="n89_loej" sidePair="width-width,center-center,top-bottom"/>
+    </image>
+    <richtext id="n89_loej" name="title" xy="138,17" pivot="0.5,0.5" anchor="true" size="172,32" fontSize="22" color="#4cff8b" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="获得免费次数2/2">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </richtext>
+    <image id="n92_gvuz" name="n92" src="gvuzvvv1l2" fileName="bgImage/qipao_bai2.png" xy="144,-40" pivot="0.5,0.5" anchor="true" group="n96_gvuz"/>
+    <loader id="n93_gvuz" name="iconTop" xy="119,-48" pivot="0.5,0.5" anchor="true" size="50,50" group="n96_gvuz" align="center" vAlign="middle" fill="scale"/>
+    <text id="n94_gvuz" name="lbTimesTop" xy="151,-48" pivot="0,0.5" anchor="true" size="32,32" group="n96_gvuz" fontSize="22" color="#0266c3" vAlign="middle" text="x1"/>
+    <component id="n112_gvuz" name="redDotTop" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="204,-78" group="n96_gvuz" controller="type,2"/>
+    <group id="n96_gvuz" name="gIconTop" xy="80,-93" size="139,95" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="n89_loej" sidePair="center-center,bottom-top"/>
+    </group>
+    <component id="n109_gvuz" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="231,-5">
+      <relation target="n89_loej" sidePair="left-right,bottom-top"/>
+    </component>
+    <component id="n113_v93u" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="245,17" controller="type,0">
+      <gearDisplay controller="state" pages="2"/>
+      <relation target="n89_loej" sidePair="left-right"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

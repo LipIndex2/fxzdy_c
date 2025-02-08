@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="620,350">
+  <displayList>
+    <image id="n22_lhcv" name="n22" src="lhcv1f" fileName="img/bg_item.png" xy="0,0"/>
+    <list id="n21_lhcv" name="list" xy="6,10" size="608,340" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="160" colGap="4" defaultItem="ui://7cf99be8lhcv1b" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

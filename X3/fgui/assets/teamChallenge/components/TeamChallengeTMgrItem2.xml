@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="568,128">
+  <displayList>
+    <image id="n9_ig8t" name="n9" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="568,128"/>
+    <text id="n1_ig8t" name="lbName" xy="134,25" size="135,32" group="n10_ig8t" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <component id="n5_ig8t" name="btnGive" src="ig8t17z" fileName="btn/TeamChallengeCreateBtn.xml" xy="355,35" group="n10_ig8t"/>
+    <component id="n6_ig8t" name="btnOff" src="ig8t180" fileName="btn/TeamChallengeOffBtn.xml" xy="451,35" group="n10_ig8t"/>
+    <component id="n7_ig8t" name="btnLeft" src="ig8t181" fileName="btn/TeamChallengeLeftBtn.xml" xy="452,35" group="n10_ig8t"/>
+    <component id="n8_ig8t" name="avatarCom" src="ig8t179" fileName="components/TeamChallengeAvatarCom.xml" xy="10,5" group="n10_ig8t"/>
+    <group id="n10_ig8t" name="groupMember" xy="10,5" size="503,120" advanced="true"/>
+    <image id="n12_ig8t" name="imgAdd" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="258,32" size="70,70"/>
+  </displayList>
+</component>

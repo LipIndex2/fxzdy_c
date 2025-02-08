@@ -1,0 +1,125 @@
+
+gw_datouyou.png
+size: 59,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 2, 22
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 24, 16
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 24, 44
+  size: 24, 23
+  orig: 26, 23
+  offset: 2, 0
+  index: -1
+J zd11
+  rotate: 180
+  xy: 23, 68
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 49, 50
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 19, 3
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 32, 3
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 50, 104
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: true
+  xy: 2, 9
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 46, 10
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 52
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: 270
+  xy: 2, 70
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 2, 86
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 48, 84
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 42, 135
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 33, 27
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 9, 35
+  size: 23, 22
+  orig: 23, 23
+  offset: 0, 1
+  index: -1

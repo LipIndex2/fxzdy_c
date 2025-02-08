@@ -1,0 +1,69 @@
+
+attack_lower.png
+size: 697,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_quan_00000
+  rotate: false
+  xy: 556, 2
+  size: 90, 89
+  orig: 200, 200
+  offset: 59, 50
+  index: -1
+effect/attack_quan_00001
+  rotate: false
+  xy: 556, 93
+  size: 124, 122
+  orig: 200, 200
+  offset: 41, 38
+  index: -1
+effect/attack_quan_00002
+  rotate: true
+  xy: 552, 217
+  size: 145, 143
+  orig: 200, 200
+  offset: 31, 28
+  index: -1
+effect/attack_quan_00003
+  rotate: false
+  xy: 2, 21
+  size: 161, 150
+  orig: 200, 200
+  offset: 22, 24
+  index: -1
+effect/attack_quan_00004
+  rotate: false
+  xy: 190, 16
+  size: 175, 161
+  orig: 200, 200
+  offset: 13, 19
+  index: -1
+effect/attack_quan_00005
+  rotate: false
+  xy: 375, 10
+  size: 179, 168
+  orig: 200, 200
+  offset: 11, 15
+  index: -1
+effect/attack_quan_00006
+  rotate: true
+  xy: 375, 180
+  size: 182, 175
+  orig: 200, 200
+  offset: 10, 11
+  index: -1
+effect/attack_quan_00007
+  rotate: false
+  xy: 190, 179
+  size: 183, 183
+  orig: 200, 200
+  offset: 10, 8
+  index: -1
+effect/attack_quan_00008
+  rotate: false
+  xy: 2, 173
+  size: 186, 189
+  orig: 200, 200
+  offset: 8, 5
+  index: -1

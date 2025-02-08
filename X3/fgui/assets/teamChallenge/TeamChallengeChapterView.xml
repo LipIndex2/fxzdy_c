@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n31_uk3p" name="n31" xy="54,153" size="643,1019" group="n30_uk3p"/>
+    <image id="n28_ig8t" name="n28" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,153" size="643,1019" group="n30_uk3p"/>
+    <image id="n29_ig8t" name="n29" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="76,243" size="596,897" group="n30_uk3p"/>
+    <component id="n32_lupe" name="n32" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1191" group="n30_uk3p"/>
+    <text id="n25_bbe3" name="n25" xy="339,174" size="67,44" group="n30_uk3p" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="章节"/>
+    <list id="n27_ig8t" name="listItems" xy="88,253" size="572,866" group="n30_uk3p" overflow="scroll" lineGap="14" defaultItem="ui://dhpy5xezig8t18f">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n30_uk3p" name="n30" xy="54,153" size="643,1128" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

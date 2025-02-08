@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="145,58" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n55_273c" name="n55" src="273c22" fileName="img/sd_A_common_grsz_btn.png" xy="0,0"/>
+    <text id="n56_273c" name="n56" xy="71,29" pivot="0.5,0.5" anchor="true" size="113,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="取消黑名单"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

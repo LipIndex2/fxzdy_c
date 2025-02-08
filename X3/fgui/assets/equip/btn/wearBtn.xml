@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="346,121" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n4_pf1a" name="n4" xy="0,0" size="346,121" group="n3_pf1a" url="ui://0850c61ed20529" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n2_pf1a" name="title" xy="85,32" pivot="0.5,0.5" size="176,56" group="n3_pf1a" fontSize="42" color="#ffffff" align="center" vAlign="middle" strokeColor="#b77000" strokeSize="3" text="一键穿戴">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n3_pf1a" name="n3" xy="0,0" size="346,121"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,48 @@
+
+skill02_1_upper.png
+size: 475,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_yanwu_00000
+  rotate: true
+  xy: 369, 143
+  size: 181, 104
+  orig: 200, 120
+  offset: 8, 4
+  index: -1
+effect/skill02_yanwu_00001
+  rotate: false
+  xy: 185, 2
+  size: 181, 104
+  orig: 200, 120
+  offset: 8, 4
+  index: -1
+effect/skill02_yanwu_00002
+  rotate: false
+  xy: 185, 108
+  size: 182, 106
+  orig: 200, 120
+  offset: 8, 3
+  index: -1
+effect/skill02_yanwu_00003
+  rotate: false
+  xy: 2, 216
+  size: 182, 108
+  orig: 200, 120
+  offset: 8, 2
+  index: -1
+effect/skill02_yanwu_00004
+  rotate: false
+  xy: 186, 216
+  size: 181, 108
+  orig: 200, 120
+  offset: 8, 3
+  index: -1
+effect/skill02_yanwu_00005
+  rotate: false
+  xy: 2, 107
+  size: 181, 107
+  orig: 200, 120
+  offset: 8, 4
+  index: -1

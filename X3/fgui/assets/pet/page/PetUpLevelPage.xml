@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="589,486">
+  <displayList>
+    <image id="n104_105pv" name="n104" src="105pvv184" fileName="bgImage/dengji_frame.png" pkg="38fa8c75" xy="1,1" size="293,67"/>
+    <image id="n105_105pv" name="n105" src="105pvv184" fileName="bgImage/dengji_frame.png" pkg="38fa8c75" xy="294,1" size="293,67" flip="hz"/>
+    <image id="n111_105pv" name="n111" src="105pvv187" fileName="bgImage/shuxingdi_frame.png" pkg="38fa8c75" xy="0,115" size="173,42" color="#153177"/>
+    <image id="n112_105pv" name="n112" src="105pvv187" fileName="bgImage/shuxingdi_frame.png" pkg="38fa8c75" xy="206,115" size="173,42" color="#153177"/>
+    <image id="n113_105pv" name="n113" src="105pvv187" fileName="bgImage/shuxingdi_frame.png" pkg="38fa8c75" xy="413,115" size="173,42" color="#153177"/>
+    <image id="n114_105pv" name="n114" src="105pvv188" fileName="iconImage/gongji_icon.png" pkg="38fa8c75" xy="8,121" color="#4bc1fa"/>
+    <image id="n115_105pv" name="n115" src="105pvv189" fileName="iconImage/xueliang_icon.png" pkg="38fa8c75" xy="215,121" size="32,32" color="#4bc1fa"/>
+    <image id="n117_105pv" name="n117" src="105pvv18a" fileName="iconImage/fangyu_icon.png" pkg="38fa8c75" xy="422,121" color="#4bc1fa"/>
+    <text id="n60_b419" name="T_level" xy="251,22" pivot="1,0.5" size="86,42" fontSize="30" color="#aabff1" align="right" vAlign="middle" text="Lv.80">
+      <relation target="" sidePair="right-right"/>
+    </text>
+    <text id="n71_b419" name="T_attack" xy="102,118" pivot="1,0.5" size="71,39" fontSize="28" color="#ffffff" align="right" vAlign="middle" autoClearText="true" text="8562"/>
+    <text id="n72_b419" name="T_blood" xy="308,118" pivot="1,0.5" size="71,39" fontSize="28" color="#ffffff" align="right" vAlign="middle" autoClearText="true" text="8562"/>
+    <text id="n73_b419" name="T_defense" xy="514,118" pivot="1,0.5" size="71,39" fontSize="28" color="#ffffff" vAlign="middle" autoClearText="true" text="8562"/>
+    <component id="n120_sv98" name="skill" src="lg0p8o" fileName="com/PetSkillItem.xml" xy="242,201"/>
+    <text id="n121_sv98" name="T_preview" xy="294,405" pivot="0.5,0.5" anchor="true" size="182,42" fontSize="30" color="#fadb90" align="center" vAlign="middle" text="满级属性预览"/>
+  </displayList>
+</component>

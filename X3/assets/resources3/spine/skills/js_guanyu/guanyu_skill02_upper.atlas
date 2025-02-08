@@ -1,0 +1,132 @@
+
+guanyu_skill02_upper.png
+size: 430,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/faguang
+  rotate: false
+  xy: 218, 493
+  size: 134, 156
+  orig: 256, 256
+  offset: 74, 67
+  index: -1
+images/effect/fangkuang
+  rotate: false
+  xy: 2, 432
+  size: 214, 217
+  orig: 256, 256
+  offset: 22, 19
+  index: -1
+images/effect/glow
+  rotate: false
+  xy: 179, 100
+  size: 152, 152
+  orig: 256, 256
+  offset: 52, 52
+  index: -1
+images/effect/guangshu
+  rotate: true
+  xy: 2, 254
+  size: 176, 190
+  orig: 256, 256
+  offset: 40, 35
+  index: -1
+images/effect/huan1
+  rotate: false
+  xy: 2, 77
+  size: 175, 175
+  orig: 256, 256
+  offset: 41, 41
+  index: -1
+images/effect/yanchen1
+  rotate: false
+  xy: 218, 440
+  size: 53, 51
+  orig: 128, 128
+  offset: 7, 10
+  index: -1
+images/effect/yanchen10
+  rotate: false
+  xy: 273, 441
+  size: 38, 21
+  orig: 128, 128
+  offset: 79, 53
+  index: -1
+images/effect/yanchen11
+  rotate: false
+  xy: 313, 452
+  size: 14, 10
+  orig: 128, 128
+  offset: 101, 63
+  index: -1
+images/effect/yanchen12
+  rotate: false
+  xy: 218, 434
+  size: 6, 4
+  orig: 128, 128
+  offset: 107, 68
+  index: -1
+images/effect/yanchen2
+  rotate: false
+  xy: 333, 101
+  size: 82, 76
+  orig: 128, 128
+  offset: 10, 14
+  index: -1
+images/effect/yanchen3
+  rotate: true
+  xy: 346, 303
+  size: 89, 82
+  orig: 128, 128
+  offset: 12, 19
+  index: -1
+images/effect/yanchen4
+  rotate: true
+  xy: 282, 2
+  size: 96, 87
+  orig: 128, 128
+  offset: 14, 23
+  index: -1
+images/effect/yanchen5
+  rotate: false
+  xy: 179, 10
+  size: 101, 88
+  orig: 128, 128
+  offset: 15, 26
+  index: -1
+images/effect/yanchen6
+  rotate: true
+  xy: 333, 179
+  size: 99, 83
+  orig: 128, 128
+  offset: 18, 33
+  index: -1
+images/effect/yanchen7
+  rotate: true
+  xy: 346, 394
+  size: 97, 79
+  orig: 128, 128
+  offset: 22, 39
+  index: -1
+images/effect/yanchen8
+  rotate: false
+  xy: 354, 577
+  size: 56, 72
+  orig: 128, 128
+  offset: 63, 46
+  index: -1
+images/effect/yanchen9
+  rotate: false
+  xy: 273, 464
+  size: 50, 27
+  orig: 128, 128
+  offset: 67, 50
+  index: -1
+images/effect/yuan
+  rotate: false
+  xy: 194, 280
+  size: 150, 150
+  orig: 256, 256
+  offset: 53, 53
+  index: -1

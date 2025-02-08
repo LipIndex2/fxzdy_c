@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="310,250" extention="Label">
+  <controller name="side" pages="5,null,0,left-top,1,right-top,2,left-bottom,3,right-bottom" selected="1"/>
+  <displayList>
+    <loader id="n32_t6mg" name="bg" xy="0,22" size="310,177" url="ui://4cf771ccb2sdd" fill="scaleFree">
+      <relation target="n40_frvn" sidePair="height-height,bottom-bottom"/>
+    </loader>
+    <text id="n33_t6mg" name="labelTitle" xy="18,40" size="133,63" group="n40_frvn" fontSize="26" color="#42ccff" text="普通召唤石"/>
+    <text id="n34_t6mg" name="labelDescription" xy="18,84" size="268,59" group="n40_frvn" fontSize="20" color="#bcf1fc" autoSize="none" text="描述：召唤副本入场道具召唤副本入场道具"/>
+    <text id="n35_t6mg" name="labelComeFrom" xy="18,150" size="264,36" group="n40_frvn" fontSize="20" color="#bcf1fc" autoSize="none" text="途径：通过活动获得">
+      <relation target="n34_t6mg" sidePair="top-bottom"/>
+    </text>
+    <group id="n40_frvn" name="n40" xy="18,40" size="268,146"/>
+    <image id="n36_t6mg" name="iconTipsArrowLeftTop" src="f0d815" fileName="img/chooseItemFooter.png" xy="50,12" pivot="0.5,0.5" anchor="true" group="n41_frvn">
+      <gearDisplay controller="side" pages="0"/>
+    </image>
+    <image id="n37_t6mg" name="iconTipsArrowRightTop" src="f0d815" fileName="img/chooseItemFooter.png" xy="267,12" pivot="0.5,0.5" anchor="true" group="n41_frvn">
+      <gearDisplay controller="side" pages="1"/>
+    </image>
+    <group id="n41_frvn" name="G_btnTop" xy="37,2" size="242,19" advanced="true">
+      <relation target="n32_t6mg" sidePair="bottom-top"/>
+    </group>
+    <image id="n38_t6mg" name="iconTipsArrowLeftBottom" src="f0d815" fileName="img/chooseItemFooter.png" xy="44,211" pivot="0.5,0.5" anchor="true" size="25,19" group="n42_frvn" rotation="180">
+      <gearDisplay controller="side" pages="2"/>
+    </image>
+    <image id="n39_t6mg" name="iconTipsArrowRightBottom" src="f0d815" fileName="img/chooseItemFooter.png" xy="270,211" pivot="0.5,0.5" anchor="true" size="25,19" group="n42_frvn" rotation="180">
+      <gearDisplay controller="side" pages="3"/>
+    </image>
+    <group id="n42_frvn" name="G_btnDown" xy="31,201" size="251,19" advanced="true">
+      <relation target="n32_t6mg" sidePair="top-bottom"/>
+    </group>
+  </displayList>
+</component>

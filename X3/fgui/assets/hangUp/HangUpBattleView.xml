@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="autoBattleFlag" exported="true" pages="0,false,1,true" selected="0"/>
+  <displayList>
+    <text id="n5_8a38" name="labelRestTime" xy="270,180" size="204,36" group="n70_wwsz" fontSize="26" color="#ffeea1" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="1:29 "/>
+    <text id="n20_8a38" name="labelLevelTitle" xy="99,25" size="550,34" group="n70_wwsz" fontSize="24" color="#ffffff" align="center" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="挂机关卡地狱难度"/>
+    <component id="n22_8a38" name="compLevelNameTips" src="wwsz13o" fileName="components/HangUpBattleLevelNameTipsComp.xml" xy="170,257" group="n70_wwsz"/>
+    <component id="n69_wwsz" name="progressBar1" src="wwsz13n" fileName="progressBar/HangUpBattleLeftProgressBar.xml" xy="87,97" group="n70_wwsz">
+      <ProgressBar value="96" max="100"/>
+    </component>
+    <component id="n67_wwsz" name="progressBar2" src="wwsz13m" fileName="progressBar/HangUpBattleRightProgressBar.xml" xy="438,98" group="n70_wwsz">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n55_8a38" name="imageVs" src="8a3883" fileName="img/VS_17.png" xy="292,83" group="n70_wwsz"/>
+    <group id="n70_wwsz" name="headP" xy="87,25" size="581,310" group="n74_kqho" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n57_8a38" name="btnAutoFight" src="wwsz13q" fileName="btn/BtnHangUpAutoBattle.xml" xy="636,1078" group="n63_wwsz"/>
+    <component id="n73_wwsz" name="btnBack" src="d4rvvvv1e9" fileName="back/BtnBack75.xml" pkg="38fa8c75" xy="0,1072" group="n63_wwsz"/>
+    <list id="n64_wwsz" name="heroList" xy="21,1199" size="716,129" group="n63_wwsz" touchable="false" layout="row" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75qzovvvv1ay">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n59_8a38" name="tipsAutoBattle" src="wwsz13r" fileName="components/HangUpAutoBattleTipsComp.xml" xy="262,967" group="n63_wwsz"/>
+    <component id="n75_fxoc" name="captainSkillComp" src="fxocvvv18y" fileName="captainSkill/CaptionSkillCommonBattleComp.xml" pkg="38fa8c75" xy="3,848" group="n63_wwsz" controller="inCdFlag,1"/>
+    <group id="n63_wwsz" name="footP" xy="0,848" size="737,480" group="n74_kqho" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <group id="n74_kqho" name="all" xy="0,25" size="737,1303" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+  <transition name="animTitle">
+    <item time="0" type="Alpha" target="n22_8a38" tween="true" startValue="1" endValue="0" duration="36"/>
+    <item time="0" type="XY" target="n22_8a38" tween="true" startValue="170,365" endValue="170,259" duration="36"/>
+  </transition>
+</component>

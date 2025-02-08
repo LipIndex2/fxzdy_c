@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="319,301" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n23_qr2a" name="n23" src="gtlw123" fileName="leagueMain/img/build_game.png" xy="61,119" scale="0.7,0.7"/>
+    <component id="n13_qr2a" name="starBtn" src="h90v2i" fileName="leagueMain/btn/leagueComBtn.xml" xy="0,0">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="星际争霸"/>
+    </component>
+    <richtext id="n25_l2wi" name="labelTips" xy="31,76" pivot="0.5,0.5" size="172,29" fontSize="20" color="#ffffff" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="准备中: [color=#00ff00]00:00:00[/color]">
+      <gearDisplay controller="state" pages="0"/>
+    </richtext>
+    <component id="n26_ta4f" name="exploreTip" src="ta4f12a" fileName="com/LeagueBubble.xml" xy="80,26" pivot="0,1" anchor="true" visible="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n26_ta4f" value="0,0"/>
+    <item time="12" type="Scale" target="n26_ta4f" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,496 @@
+
+skill02_lower.png
+size: 1199,1143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Effect/ansekuoshan_01
+  rotate: false
+  xy: 1133, 867
+  size: 29, 19
+  orig: 512, 256
+  offset: 245, 113
+  index: -1
+images/Effect/ansekuoshan_02
+  rotate: false
+  xy: 1164, 867
+  size: 29, 19
+  orig: 512, 256
+  offset: 245, 113
+  index: -1
+images/Effect/ansekuoshan_03
+  rotate: false
+  xy: 724, 95
+  size: 151, 79
+  orig: 512, 256
+  offset: 183, 80
+  index: -1
+images/Effect/ansekuoshan_04
+  rotate: false
+  xy: 2, 710
+  size: 247, 133
+  orig: 512, 256
+  offset: 129, 50
+  index: -1
+images/Effect/ansekuoshan_05
+  rotate: false
+  xy: 2, 845
+  size: 261, 142
+  orig: 512, 256
+  offset: 121, 46
+  index: -1
+images/Effect/ansekuoshan_06
+  rotate: false
+  xy: 570, 844
+  size: 272, 146
+  orig: 512, 256
+  offset: 115, 44
+  index: -1
+images/Effect/ansekuoshan_07
+  rotate: false
+  xy: 570, 844
+  size: 272, 146
+  orig: 512, 256
+  offset: 115, 44
+  index: -1
+images/Effect/ansekuoshan_08
+  rotate: false
+  xy: 848, 993
+  size: 274, 148
+  orig: 512, 256
+  offset: 114, 43
+  index: -1
+images/Effect/ansekuoshan_09
+  rotate: false
+  xy: 570, 992
+  size: 276, 149
+  orig: 512, 256
+  offset: 113, 42
+  index: -1
+images/Effect/ansekuoshan_10
+  rotate: false
+  xy: 287, 990
+  size: 281, 151
+  orig: 512, 256
+  offset: 111, 41
+  index: -1
+images/Effect/ansekuoshan_11
+  rotate: false
+  xy: 287, 990
+  size: 281, 151
+  orig: 512, 256
+  offset: 111, 41
+  index: -1
+images/Effect/ansekuoshan_12
+  rotate: false
+  xy: 848, 848
+  size: 283, 143
+  orig: 512, 256
+  offset: 110, 50
+  index: -1
+images/Effect/ansekuoshan_13
+  rotate: false
+  xy: 2, 989
+  size: 283, 152
+  orig: 512, 256
+  offset: 110, 41
+  index: -1
+images/Effect/ansekuoshan_14
+  rotate: false
+  xy: 287, 844
+  size: 281, 144
+  orig: 512, 256
+  offset: 113, 50
+  index: -1
+images/Effect/ansekuoshan_15
+  rotate: false
+  xy: 844, 701
+  size: 248, 145
+  orig: 512, 256
+  offset: 146, 49
+  index: -1
+images/Effect/shuihua3_1
+  rotate: false
+  xy: 1077, 3
+  size: 74, 72
+  orig: 256, 256
+  offset: 117, 86
+  index: -1
+images/Effect/shuihua3_2
+  rotate: true
+  xy: 597, 114
+  size: 99, 125
+  orig: 256, 256
+  offset: 90, 69
+  index: -1
+images/Effect/shuihua3_3
+  rotate: true
+  xy: 135, 144
+  size: 108, 137
+  orig: 256, 256
+  offset: 78, 68
+  index: -1
+images/Effect/shuihua3_4
+  rotate: true
+  xy: 596, 215
+  size: 116, 145
+  orig: 256, 256
+  offset: 67, 62
+  index: -1
+images/Effect/shuihua3_5
+  rotate: true
+  xy: 442, 216
+  size: 115, 152
+  orig: 256, 256
+  offset: 64, 57
+  index: -1
+images/Effect/shuihua3_6
+  rotate: true
+  xy: 743, 176
+  size: 104, 146
+  orig: 256, 256
+  offset: 71, 58
+  index: -1
+images/Effect/shuihua3_7
+  rotate: false
+  xy: 1094, 706
+  size: 100, 140
+  orig: 256, 256
+  offset: 68, 53
+  index: -1
+images/Effect/shuihua3_8
+  rotate: true
+  xy: 232, 62
+  size: 76, 127
+  orig: 256, 256
+  offset: 71, 55
+  index: -1
+images/Effect/shuihua3_9
+  rotate: false
+  xy: 398, 581
+  size: 37, 109
+  orig: 256, 256
+  offset: 80, 62
+  index: -1
+images/Effect/shuihua5_1
+  rotate: true
+  xy: 687, 618
+  size: 224, 138
+  orig: 256, 256
+  offset: 32, 58
+  index: -1
+images/Effect/shuihua5_2
+  rotate: false
+  xy: 467, 698
+  size: 218, 144
+  orig: 256, 256
+  offset: 29, 55
+  index: -1
+images/Effect/shuihua5_3
+  rotate: false
+  xy: 2, 562
+  size: 208, 146
+  orig: 256, 256
+  offset: 16, 53
+  index: -1
+images/Effect/shuihua5_4
+  rotate: false
+  xy: 251, 692
+  size: 214, 150
+  orig: 256, 256
+  offset: 3, 51
+  index: -1
+images/Effect/shuihua5_5
+  rotate: false
+  xy: 827, 549
+  size: 191, 150
+  orig: 256, 256
+  offset: 0, 51
+  index: -1
+images/Effect/shuihua5_6
+  rotate: false
+  xy: 212, 541
+  size: 184, 149
+  orig: 256, 256
+  offset: 0, 52
+  index: -1
+images/Effect/shuihuan1xia_01
+  rotate: false
+  xy: 274, 140
+  size: 121, 112
+  orig: 256, 256
+  offset: 59, 67
+  index: -1
+images/Effect/shuihuan1xia_02
+  rotate: false
+  xy: 185, 402
+  size: 162, 137
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+images/Effect/shuihuan1xia_03
+  rotate: false
+  xy: 467, 543
+  size: 183, 153
+  orig: 256, 256
+  offset: 50, 50
+  index: -1
+images/Effect/shuihuan1xia_04
+  rotate: true
+  xy: 1020, 518
+  size: 181, 148
+  orig: 256, 256
+  offset: 56, 51
+  index: -1
+images/Effect/shuihuan1xia_05
+  rotate: false
+  xy: 2, 414
+  size: 181, 146
+  orig: 256, 256
+  offset: 61, 51
+  index: -1
+images/Effect/shuihuan1xia_06
+  rotate: true
+  xy: 652, 435
+  size: 181, 147
+  orig: 256, 256
+  offset: 62, 49
+  index: -1
+images/Effect/shuihuan1xia_07
+  rotate: false
+  xy: 801, 407
+  size: 169, 140
+  orig: 256, 256
+  offset: 74, 52
+  index: -1
+images/Effect/shuihuan1xia_08
+  rotate: false
+  xy: 797, 282
+  size: 147, 123
+  orig: 256, 256
+  offset: 82, 59
+  index: -1
+images/Effect/shuihuan1xia_09
+  rotate: false
+  xy: 2, 199
+  size: 131, 117
+  orig: 256, 256
+  offset: 93, 60
+  index: -1
+images/Effect/shuihuan1xia_10
+  rotate: false
+  xy: 120, 48
+  size: 110, 94
+  orig: 256, 256
+  offset: 103, 70
+  index: -1
+images/Effect/shuihuan1xia_11
+  rotate: false
+  xy: 877, 44
+  size: 103, 82
+  orig: 256, 256
+  offset: 102, 76
+  index: -1
+images/Effect/shuihuan1xia_12
+  rotate: false
+  xy: 232, 4
+  size: 92, 56
+  orig: 256, 256
+  offset: 103, 88
+  index: -1
+images/Effect/shuihuan1xia_13
+  rotate: false
+  xy: 458, 17
+  size: 98, 66
+  orig: 256, 256
+  offset: 97, 86
+  index: -1
+images/Effect/shuihuan1xia_14
+  rotate: false
+  xy: 105, 7
+  size: 92, 39
+  orig: 256, 256
+  offset: 102, 89
+  index: -1
+images/Effect/shuihuan1xia_15
+  rotate: false
+  xy: 135, 277
+  size: 86, 39
+  orig: 256, 256
+  offset: 108, 89
+  index: -1
+images/Effect/shuihuan2xia_1
+  rotate: false
+  xy: 1155, 261
+  size: 34, 60
+  orig: 128, 128
+  offset: 23, 17
+  index: -1
+images/Effect/shuihuan2xia_2
+  rotate: false
+  xy: 349, 461
+  size: 44, 78
+  orig: 128, 128
+  offset: 20, 11
+  index: -1
+images/Effect/shuihuan2xia_3
+  rotate: false
+  xy: 1133, 888
+  size: 64, 72
+  orig: 128, 128
+  offset: 17, 11
+  index: -1
+images/Effect/shuihuan2xia_4
+  rotate: true
+  xy: 361, 2
+  size: 81, 95
+  orig: 128, 128
+  offset: 9, 6
+  index: -1
+images/Effect/shuihuan2xia_5
+  rotate: false
+  xy: 2, 15
+  size: 101, 77
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+images/Effect/shuihuan2xia_6
+  rotate: true
+  xy: 1014, 136
+  size: 104, 123
+  orig: 128, 128
+  offset: 8, 5
+  index: -1
+images/Effect/shuihuan2xia_7
+  rotate: true
+  xy: 891, 128
+  size: 112, 121
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+images/Effect/shuihuan2xia_8
+  rotate: false
+  xy: 2, 94
+  size: 116, 103
+  orig: 128, 128
+  offset: 4, 5
+  index: -1
+images/Effect/shuihuan2xia_9
+  rotate: false
+  xy: 724, 12
+  size: 104, 81
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+images/Effect/shuihuanrao2_01
+  rotate: false
+  xy: 743, 290
+  size: 45, 41
+  orig: 256, 128
+  offset: 19, 44
+  index: -1
+images/Effect/shuihuanrao2_02
+  rotate: false
+  xy: 982, 16
+  size: 93, 59
+  orig: 256, 128
+  offset: 24, 50
+  index: -1
+images/Effect/shuihuanrao2_03
+  rotate: false
+  xy: 397, 150
+  size: 198, 63
+  orig: 256, 128
+  offset: 27, 52
+  index: -1
+images/Effect/shuihuanrao2_04
+  rotate: false
+  xy: 972, 323
+  size: 216, 91
+  orig: 256, 128
+  offset: 33, 23
+  index: -1
+images/Effect/shuihuanrao2_05
+  rotate: false
+  xy: 576, 333
+  size: 219, 100
+  orig: 256, 128
+  offset: 34, 15
+  index: -1
+images/Effect/shuihuanrao2_06
+  rotate: false
+  xy: 398, 440
+  size: 220, 101
+  orig: 256, 128
+  offset: 36, 12
+  index: -1
+images/Effect/shuihuanrao2_07
+  rotate: false
+  xy: 972, 416
+  size: 222, 100
+  orig: 256, 128
+  offset: 34, 12
+  index: -1
+images/Effect/shuihuanrao2_08
+  rotate: false
+  xy: 349, 340
+  size: 225, 98
+  orig: 256, 128
+  offset: 31, 11
+  index: -1
+images/Effect/shuihuanrao2_09
+  rotate: false
+  xy: 2, 318
+  size: 221, 82
+  orig: 256, 128
+  offset: 34, 14
+  index: -1
+images/Effect/shuihuanrao2_10
+  rotate: false
+  xy: 225, 254
+  size: 215, 84
+  orig: 256, 128
+  offset: 33, 14
+  index: -1
+images/Effect/shuihuanrao2_11
+  rotate: false
+  xy: 946, 242
+  size: 207, 79
+  orig: 256, 128
+  offset: 32, 19
+  index: -1
+images/Effect/shuihuanrao2_12
+  rotate: false
+  xy: 397, 85
+  size: 173, 63
+  orig: 256, 128
+  offset: 35, 36
+  index: -1
+images/Effect/shuihuanrao2_13
+  rotate: true
+  xy: 1133, 962
+  size: 179, 61
+  orig: 256, 128
+  offset: 29, 38
+  index: -1
+images/Effect/shuihuanrao2_14
+  rotate: false
+  xy: 1014, 77
+  size: 162, 57
+  orig: 256, 128
+  offset: 42, 41
+  index: -1
+images/Effect/shuihuanrao2_15
+  rotate: false
+  xy: 572, 37
+  size: 150, 56
+  orig: 256, 128
+  offset: 43, 41
+  index: -1
+images/Effect/shuihuanrao2_16
+  rotate: false
+  xy: 225, 345
+  size: 104, 55
+  orig: 256, 128
+  offset: 89, 41
+  index: -1

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,1000" designImage="ui://7q3fcj1knl4gs6w" designImageOffsetX="-165" designImageOffsetY="-158">
+  <controller name="isShowEmoji" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <list id="n58_buys" name="rowList" xy="8,71" size="536,843" group="n65_buys" overflow="scroll" lineGap="15" defaultItem="ui://6bce3772buys3e" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n62_buys" name="imageTabTag" src="91d618" fileName="img/bt_tag_2.png" xy="6,1" group="n64_buys"/>
+    <text id="n63_buys" name="labelTabName" xy="30,0" size="115,39" group="n64_buys" fontSize="28" color="#81c8ff" vAlign="middle" strokeColor="#193170" strokeSize="2" text="战区聊天"/>
+    <group id="n64_buys" name="n64" xy="6,0" size="139,43" group="n65_buys"/>
+    <image id="n61_buys" name="bgBottom" src="91d62" fileName="img/tuceng48.png" xy="-64,922" size="613,113" group="n60_buys"/>
+    <image id="n14_91d6" name="bgInput" src="91d610" fileName="img/sd_A_common_xdt_frame.png" xy="10,949" size="306,54" group="n60_buys" alpha="0.5"/>
+    <richtext id="n67_nl4g" name="labelShow" xy="23,953" size="280,43" restrictSize="280,280,0,0" group="n60_buys" visible="false" fontSize="24" color="#6b9ae9" vAlign="middle" ubb="true" autoSize="none" singleLine="true" autoClearText="true" text="点击输入"/>
+    <text id="n59_buys" name="labelInput" xy="23,953" size="280,43" restrictSize="280,280,0,0" group="n60_buys" fontSize="24" color="#6b9ae9" vAlign="middle" ubb="true" autoSize="ellipsis" singleLine="true" autoClearText="true" text="点击输入" input="true"/>
+    <component id="n17_91d6" name="btnEmoji" src="buys3h" fileName="btn/ChatEmojiBtn.xml" xy="342,946" size="38,58" group="n60_buys"/>
+    <component id="n18_91d6" name="btnSend" src="buys3g" fileName="btn/ChatSendMessageBtn.xml" xy="405,946" size="113,58" group="n60_buys"/>
+    <component id="n68_nl4g" name="emojiMask" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-6,-3" size="549,1011" group="n69_nl4g">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n66_nl4g" name="emojiWin" src="buys3d" fileName="ChatEmojiWin.xml" xy="9,657" group="n69_nl4g">
+      <gearDisplay controller="isShowEmoji" pages="1"/>
+    </component>
+    <group id="n69_nl4g" name="G_emoji" xy="-6,-3" size="549,1011" group="n60_buys" advanced="true">
+      <gearDisplay controller="isShowEmoji" pages="1"/>
+    </group>
+    <group id="n60_buys" name="G_footer" xy="-64,-3" size="613,1038" group="n65_buys" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <group id="n65_buys" name="n65" xy="-64,-3" size="613,1038"/>
+  </displayList>
+</component>

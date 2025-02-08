@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="230,29" extention="ProgressBar">
+  <displayList>
+    <image id="n0_wwsz" name="n0" src="ov08vvv1bp" fileName="img/gkndi_blood.png" xy="226,0" size="230,29" scale="-1,1">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_wwsz" name="bar" src="ov08vvv1bq" fileName="img/gkndg_blood.png" xy="0,3" size="230,23"/>
+    <text id="n3_wwsz" name="title" xy="55,-3" size="128,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text=""/>
+  </displayList>
+  <ProgressBar reverse="true"/>
+</component>

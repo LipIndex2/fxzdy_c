@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="228,166">
+  <displayList>
+    <image id="n1_ig8t" name="n1" src="bbe332" fileName="img/bantou_di.png" xy="0,0" size="228,166" alpha="0.5"/>
+    <image id="n6_ig8t" name="imgAdd" src="bbe343" fileName="img/tianjia.png" xy="62,28" size="109,109"/>
+    <image id="n2_ig8t" name="bgName" src="bbe333" fileName="img/sd_A_common_dakai1_btn_104.png" xy="8,120" size="213,38" group="n7_vmq6"/>
+    <text id="n3_ig8t" name="lbName" xy="63,122" size="99,34" group="n7_vmq6" fontSize="24" color="#aae2ff" align="center" vAlign="middle" text="玩家名字">
+      <relation target="n2_ig8t" sidePair="center-center,middle-middle"/>
+    </text>
+    <image id="n8_uk3p" name="n8" src="uk3p18y" fileName="img/jytx_tag.png" xy="7,11" size="103,100" group="n10_uk3p" color="#233c74"/>
+    <image id="n9_uk3p" name="ImgEmpty" src="bbe362" fileName="img/sd_A_common_tiaoguo.png" xy="7,11" size="103,100" group="n10_uk3p" alpha="0.5"/>
+    <group id="n10_uk3p" name="bg1" xy="7,11" size="103,100" group="n7_vmq6" advanced="true"/>
+    <image id="n11_uk3p" name="n11" src="uk3p18y" fileName="img/jytx_tag.png" xy="119,10" size="103,100" group="n13_uk3p" color="#233c74"/>
+    <image id="n12_uk3p" name="ImgEmpty" src="bbe362" fileName="img/sd_A_common_tiaoguo.png" xy="119,10" size="103,100" group="n13_uk3p" alpha="0.5"/>
+    <group id="n13_uk3p" name="bg2" xy="119,10" size="103,100" group="n7_vmq6" advanced="true"/>
+    <component id="n4_ig8t" name="avatar1" src="c8g7vvv1fn" fileName="hero/HeroDetailsAvatar.xml" pkg="38fa8c75" xy="6,9" size="104,104" group="n7_vmq6"/>
+    <component id="n5_ig8t" name="avatar2" src="c8g7vvv1fn" fileName="hero/HeroDetailsAvatar.xml" pkg="38fa8c75" xy="117,8" size="104,104" group="n7_vmq6"/>
+    <group id="n7_vmq6" name="groupInfo" xy="6,8" size="216,150" advanced="true"/>
+  </displayList>
+</component>

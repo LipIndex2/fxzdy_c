@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n46_smh7" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="77,305" size="596,675" group="n44_na34"/>
+    <image id="n24_3cd6" name="background" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="77,305" size="596,675" group="n44_na34"/>
+    <image id="n25_3cd6" name="imageDetailsBackground" src="3cd619" fileName="bgImage/tisp2_frame.png" pkg="38fa8c75" xy="99,460" size="552,502" group="n44_na34"/>
+    <image id="n41_ukhs" name="imageDetailsTitle" src="dtss5z" fileName="bgImage/biaoti_msg.png" pkg="38fa8c75" xy="283,474" size="184,43" group="n44_na34" color="#34405a"/>
+    <text id="n27_3cd6" name="labelDetailsTitle" xy="373,495" pivot="0.5,0.5" anchor="true" size="99,34" group="n44_na34" fontSize="24" color="#fcf0d2" vAlign="middle" vars="true" text="{title=宝箱详情}"/>
+    <text id="n28_3cd6" name="labelTitle" xy="228,346" size="153,42" group="n44_na34" fontSize="30" color="#db83ff" strokeColor="#000000" strokeSize="2" text="普通召唤石"/>
+    <list id="n38_972a" name="rewardItemList" xy="104,531" size="643,498" group="n44_na34" scale="0.85,0.85" layout="flow_hz" overflow="scroll" margin="0,0,10,10" lineGap="10" colGap="20" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n43_wfol" name="itemPreviewIconView" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="112,332" group="n44_na34"/>
+    <component id="n45_c3wz" name="desc" src="9gqus9b" fileName="text/CommonScrollText.xml" pkg="72zq62ea" xy="229,391" size="417,54" group="n44_na34"/>
+    <group id="n44_na34" name="n44" xy="77,305" size="670,724" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

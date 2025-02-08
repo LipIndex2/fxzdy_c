@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,101" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n10_64f3" name="n10" src="gkgvvvv1a8" fileName="btn/img/changgui2_btn.png" xy="0,0"/>
+    <text id="n11_64f3" name="n11" xy="74,24" size="77,50" fontSize="37" color="#effbff" strokeColor="#022d39" strokeSize="3" text="取消"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

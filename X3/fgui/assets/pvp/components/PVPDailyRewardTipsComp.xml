@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="258,134">
+  <displayList>
+    <image id="n12_b6a2" name="bg" src="gkgvvvv19u" fileName="bg/jjc_frame.png" pkg="38fa8c75" xy="0,0" size="258,134"/>
+    <text id="n13_b6a2" name="labelTitle" xy="12,12" size="113,32" fontSize="22" color="#b9ffff" text="日结算奖励"/>
+    <image id="n14_b6a2" name="n14" src="b6a28" fileName="img/scale_55%_sd_Zzhujiemianyouhua.png" xy="211,14"/>
+    <list id="n100_oqeb" name="itemList" xy="12,47" size="233,75" layout="row" overflow="scroll" scroll="horizontal" colGap="18" defaultItem="ui://7b03f641oqeb15g" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

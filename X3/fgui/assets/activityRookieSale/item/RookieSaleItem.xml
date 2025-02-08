@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="305,207">
+  <controller name="costStyle" pages="0,,1,,2," selected="0">
+    <remark page="0" value="充值"/>
+    <remark page="1" value="免费"/>
+    <remark page="2" value="消耗道具"/>
+  </controller>
+  <displayList>
+    <image id="n30_49e1" name="n30" src="49e116" fileName="img/xingzhuang22kaobei3.png" xy="2,10"/>
+    <image id="n40_49e1" name="n40" src="49e18" fileName="img/sd_A_common_v_zgbq.png" xy="0,6" group="n51_ssxx" scale="1,0.6"/>
+    <text id="n41_49e1" name="lb_dis" xy="52,-4" size="100,39" group="n51_ssxx" fontSize="28" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <text id="n42_49e1" name="n42" xy="8,4" size="44,29" group="n51_ssxx" fontSize="20" color="#fffe80" vAlign="middle" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+    <group id="n51_ssxx" name="grp_dis" xy="0,-4" size="152,59" advanced="true"/>
+    <text id="n31_49e1" name="lb_name" xy="81,35" pivot="0.5,0.5" size="147,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#c16905" strokeSize="2" text="招募迎新礼包"/>
+    <text id="n47_ssxx" name="lb_limit" xy="109,137" size="88,26" fontSize="18" color="#fbf7f5" vAlign="middle" strokeColor="#d26727" strokeSize="2" text="限购：1/1"/>
+    <component id="n50_ssxx" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="280,30"/>
+    <component id="n52_mz6j" name="cornerMark" src="mz6jvvv1h2" fileName="view/CornerMark.xml" pkg="38fa8c75" xy="267,1"/>
+    <graph id="n46_cnp5" name="btn_buy" xy="2,10" size="303,194" lineColor="#00000000" fillColor="#00ffffff"/>
+    <list id="n44_cnp5" name="listReward" xy="-49,54" pivot="0.5,0.5" size="400,104" scale="0.65,0.65" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n48_ssxx" name="img_gray" src="ssxx2m" fileName="item/RookieSaleGrayItem.xml" xy="1,4"/>
+    <text id="n45_cnp5" name="lb_price" xy="141,180" pivot="0.5,0.5" anchor="true" size="38,39" group="n53_str8" fontSize="28" vAlign="bottom" leading="0" text="12">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n33_49e1" name="lb_sym" xy="159,167" pivot="0.5,0.5" size="24,29" group="n53_str8" fontSize="20" vAlign="middle" text="元">
+      <relation target="n45_cnp5" sidePair="left-right"/>
+    </text>
+    <group id="n53_str8" name="gPrice" xy="122,160" size="61,39" advanced="true">
+      <gearDisplay controller="costStyle" pages="0"/>
+    </group>
+    <text id="n54_str8" name="lb_free" xy="152,179" pivot="0.5,0.5" anchor="true" size="59,39" group="n56_str8" fontSize="28" vAlign="bottom" leading="0" text="免费">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n56_str8" name="gFree" xy="123,159" size="59,39" advanced="true">
+      <gearDisplay controller="costStyle" pages="1"/>
+    </group>
+    <loader id="n60_str8" name="iconCost" xy="138,178" pivot="0.5,0.5" anchor="true" size="30,30" group="n59_str8" align="center" vAlign="middle" fill="scale">
+      <relation target="n57_str8" sidePair="right-left"/>
+    </loader>
+    <text id="n57_str8" name="lbCost" xy="172,178" pivot="0.5,0.5" anchor="true" size="38,39" group="n59_str8" fontSize="28" vAlign="bottom" leading="0" text="12">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n59_str8" name="gCost" xy="123,158" size="68,39" advanced="true">
+      <gearDisplay controller="costStyle" pages="2"/>
+    </group>
+  </displayList>
+</component>

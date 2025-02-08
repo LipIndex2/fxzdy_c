@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n0_51a6" name="pMain" src="czc685" fileName="component/FactoryMainPanel.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n14_czc6" name="btnNear" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="640,1132">
+      <relation target="" sidePair="bottom-bottom"/>
+      <Button title="附近工厂" icon="ui://38fa8c75czc6vvv1gf"/>
+    </component>
+    <component id="n15_czc6" name="btnRecord" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="640,1015">
+      <relation target="" sidePair="bottom-bottom"/>
+      <Button title="战报" icon="ui://38fa8c75gs9kvvv1g0"/>
+    </component>
+    <component id="n25_czc6" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n27_lb79" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="220,73">
+      <relation target="n26_lb79" sidePair="left-right"/>
+    </component>
+    <text id="n26_lb79" name="labelTitle" xy="14,58" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="4" text="星际工厂">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1knl4gs6z">
+  <displayList>
+    <image id="n20_1366" name="n20" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,398" size="619,470" group="n38_nl4g"/>
+    <image id="n21_1366" name="n21" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,487" size="572,204" group="n38_nl4g"/>
+    <text id="n37_1366" name="labelTitle" xy="339,422" size="67,44" group="n38_nl4g" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <richtext id="n22_1366" name="labelContent1" xy="147,547" pivot="0.5,0" size="468,36" group="n38_nl4g" fontSize="26" color="#ddfbff" align="center" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="是否退出挂机托管模式？"/>
+    <richtext id="n23_1366" name="labelContent2" xy="132,599" pivot="0.5,0" size="483,36" group="n38_nl4g" fontSize="26" color="#ddfbff" align="center" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="当前挂机关卡进度: [color=#41d672]19[/color]"/>
+    <component id="n39_nl4g" name="btnL" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="79,713" group="n38_nl4g" scale="0.8,0.8">
+      <Button title="取消"/>
+    </component>
+    <component id="n40_nl4g" name="btnR" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="372,716" size="298,122" group="n38_nl4g" scale="0.8,0.8">
+      <Button title="确认"/>
+    </component>
+    <group id="n38_nl4g" name="G_all" xy="65,398" size="619,470" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

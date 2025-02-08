@@ -1,0 +1,62 @@
+
+skill01_lower.png
+size: 161,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_shifaxia_00000
+  rotate: false
+  xy: 2, 2
+  size: 77, 43
+  orig: 140, 46
+  offset: 35, 2
+  index: -1
+effect/skill01_shifaxia_00001
+  rotate: false
+  xy: 2, 248
+  size: 128, 42
+  orig: 140, 46
+  offset: 6, 1
+  index: -1
+effect/skill01_shifaxia_00002
+  rotate: false
+  xy: 2, 205
+  size: 130, 41
+  orig: 140, 46
+  offset: 5, 1
+  index: -1
+effect/skill01_shifaxia_00003
+  rotate: false
+  xy: 2, 164
+  size: 132, 39
+  orig: 140, 46
+  offset: 4, 1
+  index: -1
+effect/skill01_shifaxia_00004
+  rotate: false
+  xy: 2, 124
+  size: 135, 38
+  orig: 140, 46
+  offset: 3, 1
+  index: -1
+effect/skill01_shifaxia_00005
+  rotate: false
+  xy: 2, 85
+  size: 136, 37
+  orig: 140, 46
+  offset: 2, 1
+  index: -1
+effect/skill01_shifaxia_00006
+  rotate: false
+  xy: 2, 47
+  size: 136, 36
+  orig: 140, 46
+  offset: 2, 2
+  index: -1
+effect/skill01_shifaxia_00007
+  rotate: true
+  xy: 139, 153
+  size: 137, 20
+  orig: 140, 46
+  offset: 2, 7
+  index: -1

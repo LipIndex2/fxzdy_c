@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n8_dtss" name="icon" xy="19,-2" pivot="0.5,0.5" size="268,122" url="ui://38fa8c7583016" autoSize="true"/>
+    <loader id="n6_dtss" name="item_icon" xy="89,1" pivot="0.5,0.5" size="48,48" scale="0.9,0.9" url="ui://38fa8c75j6z934" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <relation target="n7_dtss" sidePair="right-left"/>
+    </loader>
+    <text id="n7_dtss" name="T_num" xy="133,4" pivot="0,0.5" size="76,42" fontSize="30" color="#ffffff" vAlign="middle" leading="0" strokeColor="#1a50a9" strokeSize="3" text="4563">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n9_dtss" name="title" xy="109,48" pivot="0.5,0.5" size="87,56" fontSize="42" color="#effbff" align="center" vAlign="middle" strokeColor="#1a50a9" strokeSize="3" text="升级"/>
+    <component id="n10_bezo" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="272,12" controller="type,4"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

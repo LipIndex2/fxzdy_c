@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="608,154">
+  <controller name="c1" pages="0,不可领取,1,可领取,2,已领取" selected="0"/>
+  <displayList>
+    <image id="n4_cfb0" name="n4" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="608,154"/>
+    <image id="n5_cfb0" name="n5" src="cfb05" fileName="img/tb_frame.png" xy="6,10"/>
+    <loader id="n21_s8ul" name="img_icon" xy="37,37" pivot="0.5,0.5" size="92,87" url="ui://fcf03b84cfb06" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <component id="n22_s8ul" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="476,25">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </component>
+    <text id="n7_cfb0" name="T_title" xy="173,24" pivot="0,0.5" size="63,42" fontSize="30" color="#e7f7ff" vAlign="middle" strokeColor="#315dae" strokeSize="2" autoClearText="true" text="回城"/>
+    <text id="n8_cfb0" name="T_desc" xy="173,71" size="289,62" fontSize="22" color="#b7d0ff" vAlign="middle" autoSize="none" strokeColor="#315dae" strokeSize="2" autoClearText="true" text="完成1个主线任务后解锁完成1个主线任务后解锁"/>
+    <image id="n23_s8ul" name="n23" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="468,55" size="120,43">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <component id="n24_s8ul" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="573,34"/>
+  </displayList>
+</component>

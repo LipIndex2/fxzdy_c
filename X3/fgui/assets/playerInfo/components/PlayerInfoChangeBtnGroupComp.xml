@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="405,122">
+  <controller name="state" exported="true" pages="0,lock,1,noWear,2,haveWear,4,inUse" selected="0"/>
+  <displayList>
+    <component id="n92_d299" name="btnWearOff" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="53,0" size="308,122" group="n82_d299" scale="0.8,0.8">
+      <Button title="脱下"/>
+    </component>
+    <group id="n82_d299" name="G_haveWear" xy="53,0" size="308,122" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n93_d299" name="imageLock" src="5da542" fileName="img/sd_A_common_word_tag_4.png" xy="5,46" alpha="0.4">
+      <gearDisplay controller="state" pages="0,4"/>
+    </image>
+    <text id="n94_d299" name="labelLockTips" xy="157,34" size="105,46" group="n83_d299" fontSize="34" color="#5da4fc" vAlign="middle" strokeColor="#000000" strokeSize="3" text="未解锁"/>
+    <group id="n83_d299" name="G_lock" xy="157,34" size="105,46" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n90_d299" name="btnWearOn" src="ejy36d" fileName="btn/PlayerInfoSaveBtn.xml" xy="84,14" group="n91_d299"/>
+    <group id="n91_d299" name="G_noWear" xy="84,14" size="245,94" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n95_d299" name="labelInUseTips" xy="157,34" size="105,46" group="n96_d299" fontSize="34" color="#5da4fc" vAlign="middle" strokeColor="#000000" strokeSize="3" text="使用中"/>
+    <group id="n96_d299" name="G_inUse" xy="157,34" size="105,46" advanced="true">
+      <gearDisplay controller="state" pages="4"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

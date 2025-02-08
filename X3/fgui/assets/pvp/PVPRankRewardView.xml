@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1koqeb5l">
+  <displayList>
+    <image id="n141_b6a2" name="bg" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="41,189" size="643,905" group="n173_oqeb"/>
+    <image id="n142_b6a2" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="64,276" size="596,784" group="n173_oqeb"/>
+    <list id="n199_qlui" name="rankList" xy="-126,195" pivot="0.5,0.5" size="978,409" group="n198_qlui" scale="0.6,0.6" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="2" defaultItem="ui://7b03f641qlui15x" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n202_t1qh" name="btnLeftSide" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="39,399" group="n198_qlui" scale="-1,1" rotation="180"/>
+    <component id="n195_gkgv" name="btnRightSide" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="650,399" group="n198_qlui" rotation="180"/>
+    <component id="n201_t1qh" name="dialogComp" src="t1qh166" fileName="components/PVPRankLvDialogComp2.xml" xy="348,290" pivot="0,1" group="n198_qlui"/>
+    <group id="n198_qlui" name="n198" xy="-126,195" size="978,409" group="n173_oqeb"/>
+    <image id="n143_b6a2" name="n143" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="82,630" size="561,3" group="n173_oqeb" color="#546eb0"/>
+    <text id="n146_b6a2" name="labelTitle" xy="369,235" pivot="0.5,0.5" anchor="true" size="131,44" group="n173_oqeb" fontSize="32" color="#ffffff" align="center" strokeColor="#1a3773" strokeSize="3" text="段位奖励"/>
+    <component id="n150_b6a2" name="settleDailyComp" src="qlui15w" fileName="components/PVPRankSettleTabComp.xml" xy="82,689" size="569,160" group="n173_oqeb"/>
+    <component id="n196_qlui" name="settleWeeklyComp" src="qlui15w" fileName="components/PVPRankSettleTabComp.xml" xy="82,878" size="569,160" group="n173_oqeb"/>
+    <component id="n197_qlui" name="settleFirstReachComp" src="qlui15w" fileName="components/PVPRankSettleTabComp.xml" xy="82,878" size="569,160" group="n173_oqeb" visible="false" controller="haveGainFlag,1"/>
+    <text id="n171_oqeb" name="labelExit" xy="278,1205" size="143,29" group="n187_gkgv" fontSize="20" color="#fffefe" text="点击空白处关闭"/>
+    <group id="n187_gkgv" name="exitP" xy="278,1205" size="143,29" group="n173_oqeb"/>
+    <text id="n147_b6a2" name="labelRankLogoName" xy="212,525" pivot="0.5,0.5" size="290,42" group="n188_gkgv" fontSize="30" color="#f8da4f" align="center" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="黄金指挥官ΙΙ"/>
+    <text id="n148_b6a2" name="labelRankScoreRange" xy="212,563" pivot="0.5,0.5" size="289,36" group="n188_gkgv" fontSize="26" color="#fee5a0" align="center" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="1200-1350"/>
+    <group id="n188_gkgv" name="rankStage" xy="212,525" size="290,74" group="n173_oqeb" advanced="true"/>
+    <group id="n173_oqeb" name="n173" xy="-126,189" size="978,1045" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n201_t1qh" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

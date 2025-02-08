@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,90" pivot="0.5,0.5" extention="Button">
+  <controller name="type" exported="true" pages="0,天赋,1,装备,2,战队科技,3,宠物,4,收藏品" selected="0"/>
+  <displayList>
+    <image id="n6_105pv" name="bg" src="105pv7v" fileName="img/daanniu_0.png" xy="0,0"/>
+    <loader id="n11_dbz0" name="iconLoader" xy="6,-27" size="90,90" url="ui://69f29748dbz0va4" align="center" vAlign="middle">
+      <gearIcon controller="type" pages="0,1,2,3,4" values="ui://69f29748dbz0va4|ui://69f29748dbz0va2|ui://69f29748dbz0va1|ui://69f29748dbz0va3|ui://69f29748pmhwva5"/>
+    </loader>
+    <text id="n8_105pv" name="title" xy="70,67" pivot="0.5,0.5" anchor="true" size="52,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" text="天赋"/>
+    <component id="n10_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="96,11" controller="type,4"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

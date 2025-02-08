@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="167,45" restrictSize="0,167,0,45" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n111_v5mw" name="n111" src="8cb839" fileName="img/jifenguize_4.png" xy="-1,1"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1"/>
+</component>

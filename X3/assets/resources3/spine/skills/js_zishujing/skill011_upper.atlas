@@ -1,0 +1,132 @@
+
+skill011_upper.png
+size: 601,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill011_quan_one
+  rotate: true
+  xy: 468, 407
+  size: 164, 123
+  orig: 200, 150
+  offset: 17, 17
+  index: -1
+effect/skill011_xishou_0
+  rotate: true
+  xy: 466, 579
+  size: 155, 132
+  orig: 180, 180
+  offset: 16, 37
+  index: -1
+effect/skill011_xishou_1
+  rotate: false
+  xy: 308, 407
+  size: 157, 159
+  orig: 180, 180
+  offset: 14, 10
+  index: -1
+effect/skill011_xishou_2
+  rotate: false
+  xy: 313, 248
+  size: 153, 157
+  orig: 180, 180
+  offset: 18, 10
+  index: -1
+effect/skill011_xishou_3
+  rotate: false
+  xy: 313, 98
+  size: 151, 148
+  orig: 180, 180
+  offset: 18, 14
+  index: -1
+effect/skill011_xishou_4
+  rotate: true
+  xy: 322, 582
+  size: 152, 142
+  orig: 180, 180
+  offset: 16, 17
+  index: -1
+effect/skill011_xishou_5
+  rotate: true
+  xy: 468, 266
+  size: 139, 130
+  orig: 180, 180
+  offset: 24, 23
+  index: -1
+effect/skill011_xishou_6
+  rotate: false
+  xy: 313, 2
+  size: 95, 94
+  orig: 180, 180
+  offset: 48, 41
+  index: -1
+effect/skill011_xishou_7
+  rotate: false
+  xy: 508, 44
+  size: 54, 52
+  orig: 180, 180
+  offset: 70, 61
+  index: -1
+effect/skill011_yanwu_50_0
+  rotate: false
+  xy: 410, 35
+  size: 96, 61
+  orig: 210, 242
+  offset: 113, 94
+  index: -1
+effect/skill011_yanwu_50_1
+  rotate: false
+  xy: 162, 306
+  size: 110, 76
+  orig: 210, 242
+  offset: 96, 89
+  index: -1
+effect/skill011_yanwu_50_2
+  rotate: true
+  xy: 466, 98
+  size: 148, 133
+  orig: 210, 242
+  offset: 60, 60
+  index: -1
+effect/skill011_yanwu_50_3
+  rotate: false
+  xy: 162, 384
+  size: 144, 182
+  orig: 210, 242
+  offset: 35, 28
+  index: -1
+effect/skill011_yanwu_50_4
+  rotate: false
+  xy: 161, 97
+  size: 150, 199
+  orig: 210, 242
+  offset: 27, 21
+  index: -1
+effect/skill011_yanwu_50_5
+  rotate: false
+  xy: 2, 84
+  size: 157, 212
+  orig: 210, 242
+  offset: 14, 17
+  index: -1
+effect/skill011_yanwu_50_6
+  rotate: false
+  xy: 2, 517
+  size: 158, 217
+  orig: 210, 242
+  offset: 8, 16
+  index: -1
+effect/skill011_yanwu_50_7
+  rotate: false
+  xy: 2, 298
+  size: 158, 217
+  orig: 210, 242
+  offset: 7, 16
+  index: -1
+effect/skill011_yanwu_50_8
+  rotate: false
+  xy: 162, 568
+  size: 158, 166
+  orig: 210, 242
+  offset: 4, 15
+  index: -1

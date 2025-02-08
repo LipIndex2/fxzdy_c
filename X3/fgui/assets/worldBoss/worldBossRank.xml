@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_d6aa" name="n0" src="d6aa28" fileName="img/bj.jpg" xy="0,0" group="n57_e1fv"/>
+    <image id="n1_d6aa" name="n1" src="d6aa29" fileName="img/sd_A_common_bossxxd_frame.png" xy="0,628" group="n57_e1fv">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n13_d6aa" name="n13" src="d6aa37" fileName="img/sd_A_common_bossbt_frame.png" xy="168,54" group="n57_e1fv"/>
+    <text id="n14_d6aa" name="n14" xy="301,65" size="147,64" group="n57_e1fv" fontSize="48" color="#052664" text="排行榜"/>
+    <list id="n45_uug0" name="rankList" xy="21,667" size="725,368" group="n57_e1fv" overflow="scroll" lineGap="15" defaultItem="ui://ee94a619uug013s" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n67_e1fv" name="no1Com" src="e1fv14v" fileName="btn/No1Com1.xml" xy="261,154" group="n57_e1fv"/>
+    <component id="n68_e1fv" name="no2Com" src="e1fv14w" fileName="btn/No2Com1.xml" xy="32,205" group="n57_e1fv"/>
+    <component id="n69_e1fv" name="no3Com" src="e1fv14x" fileName="btn/No3Com1.xml" xy="526,206" group="n57_e1fv"/>
+    <component id="n50_uug0" name="rewardBtn" src="uug0134" fileName="btn/rewardEnter.xml" xy="645,65" group="n57_e1fv"/>
+    <group id="n57_e1fv" name="n57" xy="0,0" size="750,1334" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n2_d6aa" name="n2" src="d6aa30" fileName="img/sd_A_common_wdpm1_frame.png" xy="0,1045" group="n55_e1fv"/>
+    <image id="n9_d6aa" name="n9" src="d6aa34" fileName="img/sd_A_common_wdpm_frame.png" xy="0,1040" group="n55_e1fv"/>
+    <text id="n10_d6aa" name="n10" xy="34,1049" size="91,32" group="n55_e1fv" fontSize="22" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="我的排名"/>
+    <component id="n44_uug0" name="myRank" src="uug013s" fileName="component/rankCell.xml" xy="19,1064" group="n55_e1fv" controller="state,4"/>
+    <component id="n46_uug0" name="bottom" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215" group="n55_e1fv"/>
+    <group id="n55_e1fv" name="n55" xy="0,1040" size="750,294" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

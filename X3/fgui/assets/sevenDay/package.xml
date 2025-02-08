@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5d5abdd8">
+  <resources>
+    <image id="1ff82" name="di.png" path="/img/"/>
+    <image id="1ff84" name="putongdi.png" path="/img/"/>
+    <image id="1ff85" name="tuceng2_6.png" path="/img/"/>
+    <image id="1ff89" name="qiridenglu.png" path="/img/"/>
+    <image id="1ff810" name="zhuangshi.png" path="/img/"/>
+    <image id="1ff811" name="teshudi.png" path="/img/"/>
+    <image id="1ff812" name="xuanzhong.png" path="/img/" scale="9grid" scale9grid="42,47,84,94"/>
+    <image id="1ff813" name="diqitian.png" path="/img/"/>
+    <component id="1ff814" name="SignInWin.xml" path="/"/>
+    <component id="v89115" name="SevenDayLoginItem.xml" path="/item/"/>
+    <component id="llxc16" name="SevenDayLoginGainRewardBtn.xml" path="/btn/"/>
+    <image id="llxc17" name="di_top.png" path="/img/"/>
+    <component id="llxc18" name="SignInCenterPanel.xml" path="/"/>
+    <component id="hcpc19" name="SevenDayTaskSubView.xml" path="/subView/"/>
+    <image id="hcpc1a" name="zu130438.png" path="/img/"/>
+    <image id="hcpc1b" name="dangqianjindu_4.png" path="/img/"/>
+    <image id="hcpc1c" name="biaotidi.png" path="/img/"/>
+    <image id="hcpc1d" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <component id="hcpc1h" name="SevenDayTabBtn.xml" path="/btn/"/>
+    <image id="hcpc1i" name="img_sevenDay_task_no.png" path="/imgExport/" exported="true"/>
+    <image id="hcpc1j" name="img_sevenDay_task_yes.png" path="/imgExport/" exported="true"/>
+    <component id="hcpc1k" name="SevenDayTaskRowComp.xml" path="/item/"/>
+    <image id="hcpc1l" name="zu130437.png" path="/img/"/>
+    <component id="hcpc1m" name="SevenDayGainBtn.xml" path="/btn/"/>
+    <image id="hcpc1n" name="scale_85%_sd_A_common_ywc_tag.png" path="/img/"/>
+    <component id="hcpc1o" name="SevenDayJumpBtn.xml" path="/btn/"/>
+    <component id="hcpc1p" name="SevenDayTaskDayBtn.xml" path="/btn/"/>
+    <image id="hcpc1q" name="dangqian.png" path="/img/"/>
+    <image id="hcpc1r" name="changgui.png" path="/img/"/>
+    <image id="hcpc1s" name="weijiesuo.png" path="/img/"/>
+    <image id="hcpc1t" name="scale_60%_sd_A_common_suo1_icon.png" path="/img/"/>
+    <component id="hcpc1u" name="SevenDayProgressComp.xml" path="/item/"/>
+    <component id="hcpc1v" name="SevenDayProgressBar.xml" path="/bar/"/>
+    <image id="hcpc1w" name="sd_A_common_czzl_blood.png" path="/img/"/>
+    <image id="hcpc1x" name="tuceng75.png" path="/img/"/>
+    <image id="hcpc1y" name="shuzidi.png" path="/img/"/>
+    <image id="hcpc1z" name="tubiaodi.png" path="/img/" scale="9grid" scale9grid="20,22,8,32"/>
+    <image id="hcpc20" name="tubiao.png" path="/img/"/>
+    <image id="hcpc21" name="dian.png" path="/img/"/>
+    <component id="hcpc22" name="SevenDayMainView.xml" path="/"/>
+    <image id="hcpc23" name="img_sevenDay_login_yes.png" path="/imgExport/" exported="true"/>
+    <image id="hcpc24" name="img_sevenDay_login_no.png" path="/imgExport/" exported="true"/>
+    <component id="hcpc25" name="SevenDayLoginSubView.xml" path="/subView/"/>
+    <image id="hcpc27" name="bgTask.png" path="/bg/" scale="9grid" scale9grid="239,794,48,203"/>
+    <component id="hcpc28" name="SevenDayTaskPage.xml" path="/"/>
+    <component id="hcpc2b" name="SevenDayLoginSubPage.xml" path="/"/>
+    <image id="gsa52c" name="bgLogin.jpg" path="/bg/"/>
+    <image id="f36l2d" name="title_task.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

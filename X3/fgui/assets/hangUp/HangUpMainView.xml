@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kikw9s73">
+  <controller name="haveBigRewardFlag" pages="0,f,1,t" selected="0"/>
+  <controller name="canGainHangUpRewardFlag" pages="0,f,1,t" selected="0"/>
+  <controller name="isInBg" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n224_piwi" name="imageRoleSay" src="8a3888" fileName="img/juese.png" xy="30,325" size="197,215" group="n236_piwi" visible="false"/>
+    <component id="n251_ry80" name="spineTop" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="123,532" pivot="0.5,1" anchor="true" size="197,229" group="n236_piwi"/>
+    <loader id="n225_piwi" name="bg" xy="2,394" pivot="0.5,1" size="751,941" group="n236_piwi" url="ui://556f0e8br8pu15y" align="center" vAlign="bottom"/>
+    <component id="n233_piwi" name="btnDialog" src="tyxr13x" fileName="componentsV2/HangUpBigRewardDialogComp.xml" xy="231,387" group="n242_tml5"/>
+    <group id="n242_tml5" name="reward" xy="231,387" size="355,83" group="n236_piwi" advanced="true">
+      <gearDisplay controller="haveBigRewardFlag" pages="1"/>
+    </group>
+    <component id="n231_piwi" name="btnChallenge" src="piwi13c" fileName="btn/BtnChallengeRoad.xml" xy="259,1168" size="233,111" group="n236_piwi">
+      <gearDisplay controller="isInBg" pages="0"/>
+    </component>
+    <component id="n252_nl4g" name="tipsInBg" src="nl4g157" fileName="btn/HangUpInBgTipsBtn.xml" xy="187,1151" group="n236_piwi">
+      <gearDisplay controller="isInBg" pages="1"/>
+    </component>
+    <component id="n257_hqyb" name="btnPreview" src="hqyb1an" fileName="components/HangUpFirstLevelComp.xml" xy="86,431" size="65,208" group="n236_piwi"/>
+    <list id="n235_piwi" name="levelList" xy="168,470" size="648,168" group="n236_piwi" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" margin="-25,0,0,0" defaultItem="ui://556f0e8bpiwi139" vAlign="bottom" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n254_r8pu" name="n254" src="r8pu16n" fileName="img/baoxiangdi.png" xy="259,1073" group="n244_tml5"/>
+    <image id="n243_tml5" name="bgBoxTime" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="31,1042" size="676,64" group="n244_tml5" alpha="0.3"/>
+    <component id="n228_piwi" name="btnBox" src="hqybvvv1fq" fileName="hangUp/HangUpPreviewBoxBtn.xml" pkg="38fa8c75" xy="291,925" group="n244_tml5"/>
+    <text id="n230_piwi" name="labelBoxTime" xy="298,1109" size="155,36" group="n244_tml5" fontSize="26" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="03:20:30"/>
+    <component id="n239_rclc" name="tipsHangUpAnim" src="tyxr13w" fileName="components/HangUpFloatComp.xml" xy="376,942" pivot="0.5,0.5" anchor="true" size="225,48" group="n244_tml5" scale="0.7,0.7"/>
+    <group id="n244_tml5" name="boxTime" xy="31,918" size="676,227" group="n236_piwi" advanced="true">
+      <gearDisplay controller="canGainHangUpRewardFlag" pages="1"/>
+    </group>
+    <component id="n253_p04m" name="nodePoint" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="48,679" group="n236_piwi"/>
+    <image id="n255_r8pu" name="imageRightLight" src="r8pu16k" fileName="img/shaloudi.png" xy="580,1115" group="n236_piwi"/>
+    <component id="n256_r8pu" name="btnQuickGain" src="r8pu16r" fileName="btn/HangUpQuickGainBtn.xml" xy="588,1062" group="n236_piwi"/>
+    <group id="n236_piwi" name="all" xy="2,303" size="814,1032" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n249_n9t5" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+  <transition name="playFirst">
+    <item time="0" type="XY" target="n236_piwi" tween="true" startValue="-9,497" endValue="-9,302.441" duration="12" ease="Back.Out"/>
+  </transition>
+  <transition name="playHangUpFloatAnim" options="2">
+    <item time="0" type="Alpha" target="n239_rclc" tween="true" startValue="1" endValue="0" duration="36"/>
+    <item time="0" type="XY" target="n239_rclc" tween="true" startValue="374.5,946,0.499,0.709" endValue="374.5,877,0.499,0.657" duration="36"/>
+  </transition>
+</component>

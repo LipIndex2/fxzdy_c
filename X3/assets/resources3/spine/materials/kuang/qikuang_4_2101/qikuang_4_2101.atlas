@@ -1,0 +1,62 @@
+
+qikuang_4_2101.png
+size: 420,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 224, 94
+  size: 16, 20
+  orig: 125, 81
+  offset: 109, 16
+  index: -1
+4
+  rotate: false
+  xy: 224, 6
+  size: 82, 70
+  orig: 149, 70
+  offset: 67, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 115
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 232, 208
+  size: 182, 200
+  orig: 345, 200
+  offset: 163, 0
+  index: -1
+js02
+  rotate: false
+  xy: 284, 84
+  size: 133, 122
+  orig: 133, 122
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 127, 6
+  size: 95, 107
+  orig: 95, 107
+  offset: 0, 0
+  index: -1
+js04
+  rotate: true
+  xy: 2, 3
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 2, 215
+  size: 228, 192
+  orig: 229, 194
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n73_v891" name="n73" xy="0,0" size="750,1626" url="ui://1e79bd01g25659" fill="scaleFree">
+      <relation target="" sidePair="center-center"/>
+    </loader>
+    <image id="n89_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#081a3e">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n22_0b09" name="n22" src="0b0918" fileName="img/zhantai.png" xy="534,419" group="n75_v891" alpha="0.3"/>
+    <image id="n23_0b09" name="n23" src="0b0919" fileName="img/tuoyuan1kaobei2.png" xy="111,419" group="n75_v891"/>
+    <image id="n24_0b09" name="n24" src="0b0920" fileName="img/sszd_0015_it_baixing_00.png" xy="70,242" group="n75_v891"/>
+    <image id="n26_0b09" name="n26" src="0b0921" fileName="img/jichuzhaomu-zhuazi.png" xy="527,-33" group="n75_v891" visible="false"/>
+    <group id="n75_v891" name="n75" xy="70,-33" size="571,501"/>
+    <component id="n2_0b09" name="panelBottom" src="i83d5c" fileName="GiveHeroBottomPanel.xml" xy="0,460" size="750,740">
+      <relation target="" sidePair="width-width,bottomext-bottom"/>
+    </component>
+    <component id="n92_i83d" name="panelTop" src="i83d5a" fileName="comp/GiveHeroTopPanel.xml" xy="0,60"/>
+  </displayList>
+</component>

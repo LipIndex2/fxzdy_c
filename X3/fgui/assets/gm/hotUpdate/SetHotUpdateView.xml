@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="700,400" opaque="false">
+  <displayList>
+    <graph id="n60_9h0a" name="n60" xy="0,0" size="700,399" group="n61_9h0a" alpha="0.6" type="rect" fillColor="#ff000000"/>
+    <component id="n62_9h0a" name="closeBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="610,8" size="86,87" group="n61_9h0a">
+      <Button titleFontSize="20" icon="ui://38fa8c75j6z92u"/>
+    </component>
+    <image id="n64_rqzt" name="n64" src="m43k7" fileName="img/itemTypeTabBg.png" xy="17,161" size="664,77" group="n67_rqzt"/>
+    <text id="n65_rqzt" name="n65" xy="27,172" size="100,53" group="n67_rqzt" fontSize="20" color="#ffffff" leading="0" autoSize="none" text="热更地址:"/>
+    <text id="n66_rqzt" name="inputNameTxt" xy="133,171" size="534,57" group="n67_rqzt" fontSize="20" color="#ffffff" align="right" leading="0" autoSize="none" text="" input="true" prompt="http地址" keyboardType="4"/>
+    <group id="n67_rqzt" name="n67" xy="17,161" size="664,77" group="n61_9h0a"/>
+    <component id="n68_rqzt" name="saveBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="460,288" group="n61_9h0a">
+      <Button title="保存" titleColor="#282828" titleFontSize="32"/>
+    </component>
+    <component id="n69_vx1g" name="reloadBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="22,288" group="n61_9h0a">
+      <Button title="重启" titleColor="#282828" titleFontSize="32"/>
+    </component>
+    <group id="n61_9h0a" name="gp" xy="0,0" size="700,399" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

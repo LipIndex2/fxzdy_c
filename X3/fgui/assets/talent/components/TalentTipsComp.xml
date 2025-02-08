@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="86,68" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <loader id="n18_8528" name="bg" xy="0,0" size="86,68" url="ui://38fa8c75kp1obj"/>
+    <text id="n19_8528" name="labelTitle" xy="21,8" size="45,49" fontSize="36" color="#1856b3" align="center" vAlign="middle" autoSize="none" text="3"/>
+  </displayList>
+</component>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n46_s8ul" name="img_bg" xy="0,0" size="750,493" url="ui://72379a5e230d0" autoSize="true"/>
+    <image id="n55_s8ul" name="n55" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-177" size="750,260" color="#55dcff">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n1_230d" name="n1" src="s8ulvvv1hn" fileName="bg/szhd_di1.png" pkg="u3k6kdot" xy="0,365" size="750,965">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n2_230d" name="n2" src="s8ulvvv1ho" fileName="bg/szhd_di2.png" pkg="38fa8c75" xy="10,416" size="730,774">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n22_230d" name="n22" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="20,185" size="262,37" alpha="0.25"/>
+    <text id="n20_230d" name="n20" xy="17,62" pivot="0,0.5" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="双周活动"/>
+    <text id="n19_230d" name="T_title" xy="66,125" pivot="0,0.5" size="321,54" fontSize="40" color="#ffec6c" vAlign="middle" strokeColor="#000000" strokeSize="4" text="超武招募达标奖励"/>
+    <component id="n51_s8ul" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="526,72" controller="isTop,1"/>
+    <list id="n49_s8ul" name="list_award" xy="32,438" size="692,729" overflow="scroll" lineGap="10" defaultItem="ui://72379a5es8ul32">
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n52_s8ul" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,76"/>
+    <richtext id="n53_s8ul" name="T_time" xy="35,190" pivot="0,0.5" size="227,29" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" strokeColor="#002954" strokeSize="2" text="活动剩余时间:[color=#3CFE37]5天30小时[/color]"/>
+    <component id="n54_s8ul" name="btn_jump" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="507,314" size="240,43">
+      <Button icon="ui://72379a5e230d23"/>
+    </component>
+    <component id="n56_vdae" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

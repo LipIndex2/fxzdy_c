@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="1">
+    <remark page="0" value="关闭"/>
+    <remark page="1" value="打开"/>
+  </controller>
+  <displayList>
+    <component id="n35_loj0" name="iconDel" src="loj0138" fileName="component/PetDungeonToyDelIcon.xml" xy="50,49" pivot="0.5,0.5" anchor="true" scale="1.5,1.5">
+      <gearSize controller="state" pages="0,1" values="40,69,1.2,1.2|40,69,1.5,1.5"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

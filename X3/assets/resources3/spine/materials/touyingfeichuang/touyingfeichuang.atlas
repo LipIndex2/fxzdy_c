@@ -1,0 +1,48 @@
+
+touyingfeichuang.png
+size: 198,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 109, 113
+  size: 83, 86
+  orig: 89, 112
+  offset: 6, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 2, 114
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 83, 49
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 17
+  size: 79, 95
+  orig: 98, 113
+  offset: 19, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 83, 2
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+dfdf
+  rotate: true
+  xy: 171, 85
+  size: 26, 14
+  orig: 27, 15
+  offset: 0, 1
+  index: -1

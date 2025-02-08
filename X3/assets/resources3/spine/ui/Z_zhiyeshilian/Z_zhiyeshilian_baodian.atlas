@@ -1,0 +1,90 @@
+
+Z_zhiyeshilian_baodian.png
+size: 127,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_guanban1
+  rotate: false
+  xy: 0, 159
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx_lizi
+  rotate: false
+  xy: 0, 223
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fx_lizi_a
+  rotate: false
+  xy: 70, 14
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+fx_sg
+  rotate: false
+  xy: 108, 25
+  size: 16, 106
+  orig: 16, 106
+  offset: 0, 0
+  index: -1
+fx_suipian1
+  rotate: false
+  xy: 64, 161
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+fx_suipian2
+  rotate: false
+  xy: 0, 0
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+fx_suipian3
+  rotate: false
+  xy: 54, 38
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+fx_suipian4
+  rotate: true
+  xy: 0, 82
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+fx_suipian5
+  rotate: false
+  xy: 43, 11
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+fx_suipian6
+  rotate: true
+  xy: 0, 42
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+fx_suipian7
+  rotate: true
+  xy: 54, 83
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+fx_xiantiao
+  rotate: false
+  xy: 0, 131
+  size: 128, 28
+  orig: 128, 28
+  offset: 0, 0
+  index: -1

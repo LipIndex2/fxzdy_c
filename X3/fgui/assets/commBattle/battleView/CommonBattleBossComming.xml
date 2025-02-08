@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <image id="n1_e4e5" name="bg" src="f9dqvvv1gb" fileName="battleView/img/bt_frame.png" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_e4e5" name="boss_bg1" src="f9dqvvv1gc" fileName="battleView/img/zu4kaobei.png" xy="118,528" pivot="1,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n4_e4e5" name="boss_bg2" src="f9dqvvv1gc" fileName="battleView/img/zu4kaobei.png" xy="118,528" pivot="1,0.5" scale="-1,1">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n5_e4e5" name="text_boss" xy="264,588" pivot="0.5,0.5" size="214,62" fontSize="46" color="#ffffff" align="center" vAlign="middle" text="BOSS来袭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

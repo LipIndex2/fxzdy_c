@@ -1,0 +1,55 @@
+
+zhuazi.png
+size: 145,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 64, 2
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 2, 6
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 86, 437
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 65
+  size: 82, 484
+  orig: 82, 484
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 86, 376
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 86, 317
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: true
+  xy: 86, 259
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+kuang_4_5103.png
+size: 343,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 220, 16
+  size: 121, 78
+  orig: 126, 108
+  offset: 5, 7
+  index: -1
+baoguang
+  rotate: false
+  xy: 2, 2
+  size: 107, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+map_mine_1101
+  rotate: false
+  xy: 111, 2
+  size: 107, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1

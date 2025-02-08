@@ -1,0 +1,118 @@
+
+skill01_dilei_loop_xunhuan.png
+size: 373,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/dilei01
+  rotate: false
+  xy: 2, 865
+  size: 181, 117
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei03
+  rotate: false
+  xy: 2, 747
+  size: 181, 116
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei04
+  rotate: false
+  xy: 2, 629
+  size: 181, 116
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei06
+  rotate: false
+  xy: 2, 512
+  size: 181, 115
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei08
+  rotate: false
+  xy: 2, 296
+  size: 181, 102
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei10
+  rotate: false
+  xy: 2, 194
+  size: 181, 100
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei12
+  rotate: false
+  xy: 2, 2
+  size: 181, 93
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei14
+  rotate: true
+  xy: 185, 801
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei16
+  rotate: true
+  xy: 185, 618
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei17
+  rotate: true
+  xy: 185, 435
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei19
+  rotate: true
+  xy: 185, 252
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei21
+  rotate: true
+  xy: 185, 69
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei23
+  rotate: true
+  xy: 279, 801
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei25
+  rotate: true
+  xy: 279, 618
+  size: 181, 92
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei27
+  rotate: false
+  xy: 2, 97
+  size: 181, 95
+  orig: 256, 256
+  offset: 40, 71
+  index: -1
+images/effect/dilei29
+  rotate: false
+  xy: 2, 400
+  size: 181, 110
+  orig: 256, 256
+  offset: 40, 71
+  index: -1

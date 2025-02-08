@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,800" overflow="scroll">
+  <displayList>
+    <text id="n491_v891" name="n491" xy="233,14" size="162,54" group="n599_v891" fontSize="40" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="一键变强">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n492_v891" name="n492" xy="133,106" size="123,34" group="n599_v891" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="配置预设：">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n422_ee3z" name="n422" xy="104,196" size="65,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄ID">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n423_ee3z" name="n423" xy="243,196" size="71,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="英雄星级">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n425_ee3z" name="n425" xy="373,196" size="142,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="英雄等级">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n495_v891" name="n495" xy="22,257" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄1">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n496_v891" name="n496" xy="22,317" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄2">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n497_v891" name="n497" xy="22,377" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄3">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n498_v891" name="n498" xy="22,437" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄4">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n499_v891" name="n499" xy="22,497" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄5">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n500_v891" name="n500" xy="22,557" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄6">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n539_v891" name="n539" xy="272,615" size="86,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备id">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n553_v891" name="n553" xy="22,683" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备1">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n554_v891" name="n554" xy="22,739" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备4">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n555_v891" name="n555" xy="205,683" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备2">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n556_v891" name="n556" xy="205,739" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备5">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n557_v891" name="n557" xy="383,683" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备3">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n558_v891" name="n558" xy="383,739" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备6">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n643_ko81" name="n643" xy="22,790" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备7">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n644_ko81" name="n644" xy="205,790" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备8">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n645_ko81" name="n645" xy="383,788" size="56,29" group="n599_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="装备9">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n560_v891" name="n560" xy="27,924" size="198,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="高级天赋等级："/>
+    <text id="n559_v891" name="n559" xy="27,836" size="198,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="普通天赋等级："/>
+    <text id="n564_v891" name="n564" xy="27,1011" size="253,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="战队科技核心等级："/>
+    <text id="n568_v891" name="n568" xy="206,1093" size="226,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="战队科技等级列表">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n573_v891" name="n573" xy="27,1349" size="366,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="指定当前通关的主线关卡ID："/>
+    <text id="n577_v891" name="n577" xy="27,1422" size="366,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="指定当前完成的主线任务ID："/>
+    <text id="n581_v891" name="n581" xy="27,1491" size="143,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="探索进度："/>
+    <text id="n585_v891" name="n585" xy="27,1558" size="215,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="每日BOSS难度："/>
+    <text id="n589_v891" name="n589" xy="27,1622" size="143,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="秘境层数："/>
+    <text id="n593_v891" name="n593" xy="27,1684" size="170,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="阵营塔层数："/>
+    <text id="n600_teox" name="n600" xy="160,1743" pivot="0.5,0.5" size="309,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="队伍英雄对应魔方Id列表"/>
+    <text id="n602_teox" name="n602" xy="146,2003" pivot="0.5,0.5" size="337,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="队伍英雄对应魔方等级列表"/>
+    <text id="n604_teox" name="n604" xy="27,2262" pivot="0,0.5" size="172,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="上阵宠物ID："/>
+    <text id="n609_teox" name="n609" xy="27,2324" pivot="0,0.5" size="394,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="激活宠物ID列表（逗号分开）："/>
+    <text id="n614_teox" name="n614" xy="27,2435" pivot="0,0.5" size="143,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="宠物等级："/>
+    <text id="n618_teox" name="n618" xy="27,2495" pivot="0,0.5" size="143,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="宠物阶段："/>
+    <text id="n622_teox" name="n622" xy="27,2550" pivot="0,0.5" size="586,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="激活的星灵宠物对应的星级列表（逗号分开）："/>
+    <text id="n626_teox" name="n626" xy="27,2659" pivot="0,0.5" size="200,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="上阵收藏品ID："/>
+    <text id="n630_teox" name="n630" xy="27,2717" pivot="0,0.5" size="422,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="激活收藏品ID列表（逗号分开）："/>
+    <text id="n634_teox" name="n634" xy="27,2817" pivot="0,0.5" size="558,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="激活的收藏品对应的等级列表（逗号分开）："/>
+    <text id="n635_teox" name="n635" xy="19,2921" pivot="0,0.5" size="558,39" group="n599_v891" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="激活的收藏品对应的星级列表（逗号分开）："/>
+    <group id="n599_v891" name="n599" xy="19,14" size="594,2946"/>
+    <image id="n487_v891" name="n487" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="249,95" size="131,50" group="n490_v891"/>
+    <text id="n488_v891" name="idInput" xy="259,102" size="73,36" group="n490_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n489_v891" name="idListBtn" src="om4nvvv19c" fileName="btn/BtnFh1.xml" pkg="38fa8c75" xy="338,98" group="n490_v891" scale="0.7,0.7" rotation="270"/>
+    <group id="n490_v891" name="n490" xy="249,95" size="131,50"/>
+    <image id="n493_v891" name="n4932" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="89,248" size="93,50" group="n535_v891"/>
+    <image id="n501_v891" name="n4933" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="89,308" size="93,50" group="n535_v891"/>
+    <image id="n502_v891" name="n4934" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="89,368" size="93,50" group="n535_v891"/>
+    <image id="n503_v891" name="n4935" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="89,428" size="93,50" group="n535_v891"/>
+    <image id="n504_v891" name="n4936" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="89,488" size="93,50" group="n535_v891"/>
+    <image id="n505_v891" name="n4937" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="89,548" size="93,50" group="n535_v891"/>
+    <image id="n506_v891" name="n4938" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="233,248" size="93,50" group="n535_v891"/>
+    <image id="n507_v891" name="n4939" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="233,308" size="93,50" group="n535_v891"/>
+    <image id="n508_v891" name="n4930" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="233,368" size="93,50" group="n535_v891"/>
+    <image id="n509_v891" name="n4911" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="233,428" size="93,50" group="n535_v891"/>
+    <image id="n510_v891" name="n4912" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="233,488" size="93,50" group="n535_v891"/>
+    <image id="n511_v891" name="n4913" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="233,548" size="93,50" group="n535_v891"/>
+    <image id="n512_v891" name="n4914" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="393,248" size="93,50" group="n535_v891"/>
+    <image id="n513_v891" name="n4915" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="393,308" size="93,50" group="n535_v891"/>
+    <image id="n514_v891" name="n4916" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="393,368" size="93,50" group="n535_v891"/>
+    <image id="n515_v891" name="n4917" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="393,428" size="93,50" group="n535_v891"/>
+    <image id="n516_v891" name="n4918" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="393,488" size="93,50" group="n535_v891"/>
+    <image id="n517_v891" name="n4919" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="393,548" size="93,50" group="n535_v891"/>
+    <image id="n547_v891" name="n4" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="93,671" size="93,50" group="n535_v891"/>
+    <image id="n548_v891" name="n5" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="93,727" size="93,50" group="n535_v891"/>
+    <image id="n549_v891" name="n6" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="273,671" size="93,50" group="n535_v891"/>
+    <image id="n550_v891" name="n550" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="273,727" size="93,50" group="n535_v891"/>
+    <image id="n551_v891" name="n551" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="453,671" size="93,50" group="n535_v891"/>
+    <image id="n552_v891" name="n552" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="453,727" size="93,50" group="n535_v891"/>
+    <image id="n646_ko81" name="n646" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="93,781" size="93,50" group="n535_v891"/>
+    <image id="n647_ko81" name="n647" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="274,780" size="93,50" group="n535_v891"/>
+    <image id="n648_ko81" name="n648" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="454,780" size="93,50" group="n535_v891"/>
+    <group id="n535_v891" name="n535" xy="89,248" size="458,583"/>
+    <text id="n494_v891" name="input_id1" xy="99,255" size="73,36" group="n536_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n518_v891" name="input_id2" xy="99,315" size="73,36" group="n536_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n519_v891" name="input_id3" xy="99,375" size="73,36" group="n536_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n520_v891" name="input_id4" xy="99,435" size="73,36" group="n536_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n521_v891" name="input_id5" xy="99,495" size="73,36" group="n536_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n522_v891" name="input_id6" xy="99,555" size="73,36" group="n536_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n536_v891" name="id" xy="99,255" size="73,336"/>
+    <text id="n523_v891" name="input_star1" xy="243,256" size="73,36" group="n537_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n524_v891" name="input_star2" xy="243,316" size="73,36" group="n537_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n525_v891" name="input_star3" xy="243,376" size="73,36" group="n537_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n526_v891" name="input_star4" xy="243,436" size="73,36" group="n537_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n527_v891" name="input_star5" xy="243,496" size="73,36" group="n537_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n528_v891" name="input_star6" xy="243,556" size="73,36" group="n537_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n537_v891" name="star" xy="243,256" size="73,336"/>
+    <text id="n529_v891" name="input_level1" xy="403,256" size="73,36" group="n538_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n530_v891" name="input_level2" xy="403,316" size="73,36" group="n538_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n531_v891" name="input_level3" xy="403,376" size="73,36" group="n538_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n532_v891" name="input_level4" xy="403,436" size="73,36" group="n538_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n533_v891" name="input_level5" xy="403,496" size="73,36" group="n538_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n534_v891" name="input_level6" xy="403,556" size="73,36" group="n538_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n538_v891" name="level" xy="403,256" size="73,336"/>
+    <text id="n540_v891" name="input_equip1" xy="103,679" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n541_v891" name="input_equip4" xy="103,734" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n542_v891" name="input_equip2" xy="283,679" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n543_v891" name="input_equip5" xy="283,734" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n544_v891" name="input_equip3" xy="463,679" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n545_v891" name="input_equip6" xy="463,734" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n649_ko81" name="input_equip7" xy="104,788" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n650_ko81" name="input_equip8" xy="284,788" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n651_ko81" name="input_equip9" xy="464,788" size="73,36" group="n546_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n546_v891" name="equip" xy="103,679" size="434,145"/>
+    <image id="n483_ee3z" name="n483" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="227,831" size="225,50" group="n485_ee3z"/>
+    <text id="n484_ee3z" name="input_talentLevel1" xy="251,840" size="187,36" group="n485_ee3z" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n485_ee3z" name="Talent1" xy="227,831" size="225,50"/>
+    <image id="n561_v891" name="n561" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="227,918" size="227,50" group="n563_v891"/>
+    <text id="n562_v891" name="input_talentLevel2" xy="251,927" size="189,36" group="n563_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n563_v891" name="Talent2" xy="227,918" size="227,50"/>
+    <image id="n565_v891" name="n565" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="274,1006" size="212,50" group="n567_v891"/>
+    <text id="n566_v891" name="input_useCaptain" xy="298,1015" size="174,36" group="n567_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n567_v891" name="Captain" xy="274,1006" size="212,50"/>
+    <list id="n569_v891" name="list_Captain" xy="57,1143" size="515,190" layout="flow_hz" overflow="scroll" lineGap="17" colGap="28" defaultItem="ui://t846cdz6v89115j">
+      <relation target="" sidePair="center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n574_v891" name="n574" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="391,1345" size="157,50" group="n576_v891"/>
+    <text id="n575_v891" name="input_trunkInstanceId" xy="415,1354" size="119,36" group="n576_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n576_v891" name="Trunk" xy="391,1345" size="157,50"/>
+    <image id="n578_v891" name="n578" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="391,1418" size="157,50" group="n580_v891"/>
+    <text id="n579_v891" name="input_trunkTaskId" xy="415,1427" size="119,36" group="n580_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n580_v891" name="Trunk2" xy="391,1418" size="157,50"/>
+    <image id="n582_v891" name="n582" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="174,1486" size="157,50" group="n584_v891"/>
+    <text id="n583_v891" name="input_sortId" xy="198,1495" size="119,36" group="n584_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n584_v891" name="Sort" xy="174,1486" size="157,50"/>
+    <image id="n586_v891" name="n586" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="244,1553" size="157,50" group="n588_v891"/>
+    <text id="n587_v891" name="input_dayBoss" xy="268,1562" size="119,36" group="n588_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n588_v891" name="dayBoss" xy="244,1553" size="157,50"/>
+    <image id="n590_v891" name="n590" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="173,1616" size="157,50" group="n592_v891"/>
+    <text id="n591_v891" name="input_Secret" xy="197,1625" size="119,36" group="n592_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n592_v891" name="Secret" xy="173,1616" size="157,50"/>
+    <image id="n594_v891" name="n594" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="199,1679" size="157,50" group="n596_v891"/>
+    <text id="n595_v891" name="input_LadderFloor" xy="223,1688" size="119,36" group="n596_v891" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n596_v891" name="Ladder" xy="199,1679" size="157,50"/>
+    <image id="n605_teox" name="n605" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="203,2254" size="157,50" group="n607_teox"/>
+    <text id="n606_teox" name="input_usePetId" xy="227,2263" size="119,36" group="n607_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n607_teox" name="usePetId" xy="203,2254" size="157,50"/>
+    <image id="n611_teox" name="n611" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="78,2371" size="473,50" group="n613_teox"/>
+    <text id="n612_teox" name="input_activePetIds" xy="102,2380" size="435,36" group="n613_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n613_teox" name="activePetIds" xy="78,2371" size="473,50"/>
+    <image id="n615_teox" name="n615" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="173,2430" size="157,50" group="n617_teox"/>
+    <text id="n616_teox" name="input_petLevel" xy="197,2439" size="119,36" group="n617_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n617_teox" name="petLevel" xy="173,2430" size="157,50"/>
+    <image id="n619_teox" name="n619" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="174,2487" size="157,50" group="n621_teox"/>
+    <text id="n620_teox" name="input_petStage" xy="198,2496" size="119,36" group="n621_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n621_teox" name="petStage" xy="174,2487" size="157,50"/>
+    <list id="n601_teox" name="list_magicCube" xy="57,1797" size="515,190" layout="flow_hz" overflow="scroll" lineGap="17" colGap="28" defaultItem="ui://t846cdz6v89115j">
+      <relation target="" sidePair="center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n603_teox" name="list_magicCubeLevel" xy="57,2056" size="515,190" layout="flow_hz" overflow="scroll" lineGap="17" colGap="28" defaultItem="ui://t846cdz6v89115j">
+      <relation target="" sidePair="center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n623_teox" name="n623" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="78,2596" size="473,50" group="n625_teox"/>
+    <text id="n624_teox" name="input_activePetStars" xy="102,2605" size="435,36" group="n625_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n625_teox" name="activePetStars" xy="78,2596" size="473,50"/>
+    <image id="n627_teox" name="n627" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="227,2653" size="157,50" group="n629_teox"/>
+    <text id="n628_teox" name="input_useCollectiblesId" xy="251,2662" size="119,36" group="n629_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n629_teox" name="useCollectiblesId" xy="227,2653" size="157,50"/>
+    <image id="n631_teox" name="n631" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="78,2761" size="473,50" group="n633_teox"/>
+    <text id="n632_teox" name="input_activeCollectiblesIds" xy="102,2770" size="435,36" group="n633_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n633_teox" name="activeCollectiblesIds" xy="78,2761" size="473,50"/>
+    <image id="n636_teox" name="n636" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="78,2862" size="473,50" group="n638_teox"/>
+    <text id="n637_teox" name="input_activeCollectiblesLevels" xy="102,2871" size="435,36" group="n638_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n638_teox" name="activeCollectiblesLevels" xy="78,2862" size="473,50"/>
+    <image id="n639_teox" name="n639" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="78,2970" size="473,50" group="n641_teox"/>
+    <text id="n640_teox" name="input_activeCollectiblesStars" xy="102,2979" size="435,36" group="n641_teox" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n641_teox" name="activeCollectiblesStars" xy="78,2970" size="473,50"/>
+    <component id="n597_v891" name="btnOk" src="rqztvz" fileName="common/yellowBtn.xml" xy="201,3071">
+      <Button title="变 强" titleColor="#ffffff" titleFontSize="48"/>
+    </component>
+    <component id="n598_v891" name="item_select" src="v89115k" fileName="oneClickStronger/GMSelectList.xml" xy="341,321"/>
+    <component id="n642_vet6" name="btnOk2" src="rqztvz" fileName="common/yellowBtn.xml" xy="439,-10" size="228,102" scale="0.5,0.5">
+      <Button title="变 强" titleColor="#ffffff" titleFontSize="48"/>
+    </component>
+  </displayList>
+</component>

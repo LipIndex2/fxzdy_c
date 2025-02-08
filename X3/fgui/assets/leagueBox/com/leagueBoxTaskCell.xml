@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="未完成"/>
+    <remark page="1" value="可领取"/>
+    <remark page="2" value="已领取"/>
+  </controller>
+  <displayList>
+    <image id="n16_583b" name="n16" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149"/>
+    <text id="n20_583b" name="taskDec" xy="134,31" size="221,39" fontSize="28" color="#8fe1ff" strokeColor="#000000" strokeSize="2" text="完成挂机关卡150"/>
+    <component id="n22_583b" name="taskBar" src="kvs36a" fileName="com/leagueTaskBar.xml" xy="138,96">
+      <ProgressBar max="100"/>
+    </component>
+    <loader id="n27_583b" name="keyIcon" xy="600,45" pivot="0.5,0.5" anchor="true" size="36,36" group="n44_kvs3" align="center" vAlign="middle" fill="scale"/>
+    <text id="n28_583b" name="keyCount" xy="622,27" size="20,36" group="n44_kvs3" fontSize="26" color="#ffffff" strokeColor="#000000" strokeSize="3" text="3"/>
+    <group id="n44_kvs3" name="n44" xy="582,27" size="60,36" advanced="true"/>
+    <component id="n42_kvs3" name="getRewardBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="478,33" scale="0.5,0.5">
+      <gearDisplay controller="state" pages="1"/>
+      <Button title="领 取" titleFontSize="52"/>
+    </component>
+    <component id="n41_kvs3" name="jumpBtn" src="kvs3s8t" fileName="league/btn/changgui3.xml" pkg="72zq62ea" xy="545,64">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <component id="n45_kvs3" name="reward" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="21,23">
+      <gearDisplay controller="state" pages=""/>
+    </component>
+    <image id="n35_583b" name="n35" src="583b58" fileName="img/sd_A_common_lbmb_frame.png" xy="3,3" group="n37_kvs3" alpha="0.4"/>
+    <image id="n36_583b" name="n36" src="583b59" fileName="img/sd_A_common_gou_icon.png" xy="583,74" group="n37_kvs3"/>
+    <group id="n37_kvs3" name="complete" xy="3,3" size="704,143" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+    </group>
+  </displayList>
+</component>

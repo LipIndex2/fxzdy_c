@@ -1,0 +1,90 @@
+
+skill05_start_lower.png
+size: 252,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/leaderskill05_start1_00000
+  rotate: false
+  xy: 241, 64
+  size: 9, 5
+  orig: 110, 90
+  offset: 6, 3
+  index: -1
+effect/leaderskill05_start1_00001
+  rotate: false
+  xy: 229, 80
+  size: 16, 5
+  orig: 110, 90
+  offset: 6, 3
+  index: -1
+effect/leaderskill05_start1_00002
+  rotate: false
+  xy: 205, 80
+  size: 22, 6
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00003
+  rotate: false
+  xy: 205, 72
+  size: 28, 6
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00004
+  rotate: false
+  xy: 205, 64
+  size: 34, 6
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00005
+  rotate: false
+  xy: 205, 56
+  size: 40, 6
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00006
+  rotate: false
+  xy: 185, 131
+  size: 59, 6
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00007
+  rotate: false
+  xy: 104, 131
+  size: 79, 6
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00008
+  rotate: false
+  xy: 151, 5
+  size: 99, 49
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start1_00009
+  rotate: false
+  xy: 2, 56
+  size: 100, 84
+  orig: 110, 90
+  offset: 5, 2
+  index: -1
+effect/leaderskill05_start2
+  rotate: false
+  xy: 104, 56
+  size: 99, 73
+  orig: 110, 90
+  offset: 6, 2
+  index: -1
+effect/leaderskill05_start3
+  rotate: false
+  xy: 2, 2
+  size: 147, 52
+  orig: 150, 60
+  offset: 2, 4
+  index: -1

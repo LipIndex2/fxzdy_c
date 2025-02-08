@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,844">
+  <controller name="state" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="可升级"/>
+    <remark page="1" value="已满级"/>
+    <remark page="2" value="不满足升级条件"/>
+    <remark page="3" value="正在升级"/>
+  </controller>
+  <displayList>
+    <image id="n0_4651" name="bg" src="105pvvv18i" fileName="bgImage/kpgm1_frame.png" pkg="38fa8c75" xy="0,114" size="750,729" group="n62_str8"/>
+    <image id="n1_4651" name="n1" src="465143" fileName="img/di.png" xy="24,175" group="n62_str8"/>
+    <image id="n22_4651" name="n22" src="465146" fileName="img/shuxingdi.png" xy="60,486" group="n62_str8"/>
+    <image id="n18_4651" name="n18" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="60,434" size="631,37" group="n62_str8" color="#3765b3"/>
+    <image id="n20_4651" name="n20" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="60,195" size="631,37" group="n62_str8" color="#3765b3"/>
+    <text id="n19_4651" name="n19" xy="139,453" pivot="0.5,0.5" anchor="true" size="107,36" group="n62_str8" fontSize="26" color="#fefefe" align="center" vAlign="middle" text="设备升级"/>
+    <text id="n21_4651" name="n21" xy="86,196" pivot="0.5,0.5" size="107,36" group="n62_str8" fontSize="26" color="#fefefe" align="center" vAlign="middle" text="派遣角色"/>
+    <component id="n49_str8" name="btnRecycle" src="str85d" fileName="component/StimulationRecycleBtn.xml" xy="681,53" pivot="0.5,0.5" anchor="true" group="n62_str8"/>
+    <list id="n50_str8" name="listPos" xy="306,332" pivot="0.5,0.5" anchor="true" size="480,170" group="n62_str8" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="30" defaultItem="ui://9c1945cestr857" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n51_str8" name="btnAuto" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="552,286" size="120,58" group="n62_str8">
+      <Button title="自动派遣" titleFontSize="24"/>
+    </component>
+    <text id="n23_4651" name="lbLv" xy="85,520" pivot="0,0.5" anchor="true" size="90,34" group="n52_str8" fontSize="24" color="#aae2ff" vAlign="middle" text="等级：5"/>
+    <image id="n31_4651" name="n31" src="cni66r" fileName="frameImage/jt_icon.png" pkg="38fa8c75" xy="191,520" pivot="0.5,0.5" anchor="true" size="20,23" group="n52_str8" rotation="90">
+      <gearDisplay controller="state" pages="0,2,3"/>
+      <relation target="n23_4651" sidePair="left-right"/>
+    </image>
+    <text id="n25_4651" name="lbLvNext" xy="216,520" pivot="0.5,0.5" anchor="true" size="18,34" group="n52_str8" fontSize="24" color="#6efa2e" vAlign="middle" text="6">
+      <gearDisplay controller="state" pages="0,2,3"/>
+      <relation target="n23_4651" sidePair="left-right"/>
+    </text>
+    <group id="n52_str8" name="gLv" xy="85,503" size="140,34" group="n62_str8" advanced="true" layout="hz" colGap="6" excludeInvisibles="true"/>
+    <text id="n26_4651" name="lbCapacity" xy="85,561" pivot="0,0.5" anchor="true" size="119,34" group="n53_str8" fontSize="24" color="#aae2ff" vAlign="middle" text="储蓄：999"/>
+    <text id="n27_4651" name="lbCapacityAdd" xy="208,561" pivot="0,0.5" anchor="true" size="47,34" group="n53_str8" fontSize="24" color="#6efa2e" vAlign="middle" text="+99">
+      <gearDisplay controller="state" pages="0,2,3"/>
+      <relation target="n26_4651" sidePair="left-right"/>
+    </text>
+    <group id="n53_str8" name="gCapacity" xy="85,544" size="170,34" group="n62_str8" advanced="true" layout="hz" colGap="4" excludeInvisibles="true"/>
+    <text id="n28_4651" name="lbSpeed" xy="378,544" pivot="0,0.5" size="104,34" group="n54_str8" fontSize="24" color="#aae2ff" vAlign="middle" text="效率：99"/>
+    <text id="n30_4651" name="lbSpeedAdd" xy="486,544" pivot="0,0.5" size="47,34" group="n54_str8" fontSize="24" color="#6efa2e" vAlign="middle" text="+10">
+      <gearDisplay controller="state" pages="0,2,3"/>
+      <relation target="n28_4651" sidePair="left-right"/>
+    </text>
+    <group id="n54_str8" name="Gspeed" xy="378,544" size="155,34" group="n62_str8" advanced="true"/>
+    <text id="n63_gtlw" name="lbUnlock" xy="375,681" pivot="0.5,0.5" anchor="true" size="240,46" group="n62_str8" fontSize="34" color="#5da4fc" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="当前设备已满级">
+      <gearDisplay controller="state" pages="2"/>
+    </text>
+    <component id="n55_str8" name="btnUp" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="375,682" pivot="0.5,0.5" anchor="true" group="n62_str8">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <image id="n56_str8" name="n56" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="173,681" pivot="0.5,0.5" anchor="true" group="n64_gtlw"/>
+    <image id="n57_str8" name="n57" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="578,681" pivot="0.5,0.5" anchor="true" group="n64_gtlw" flip="hz"/>
+    <text id="n58_str8" name="lbFull" xy="375,681" pivot="0.5,0.5" anchor="true" size="240,46" group="n64_gtlw" fontSize="34" color="#5da4fc" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="当前设备已满级"/>
+    <group id="n64_gtlw" name="gFull" xy="101,658" size="548,46" group="n62_str8" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <component id="n65_gvuz" name="btnSkip" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="534,698" pivot="0.5,0.5" anchor="true" group="n68_gvuz" scale="0.8,0.8"/>
+    <component id="n66_gvuz" name="btnAd" src="gvuz5e" fileName="component/StimulationAdBtn.xml" xy="216,698" pivot="0.5,0.5" anchor="true" group="n68_gvuz" scale="0.8,0.8"/>
+    <text id="n67_gvuz" name="lbTime" xy="375,630" pivot="0.5,0.5" anchor="true" size="258,32" group="n68_gvuz" fontSize="22" color="#aae3ff" align="center" vAlign="middle" text="设备升级中：23：12：30"/>
+    <group id="n68_gvuz" name="gUpgrading" xy="63,614" size="624,142" group="n62_str8" advanced="true">
+      <gearDisplay controller="state" pages="3"/>
+    </group>
+    <group id="n62_str8" name="gBotom" xy="0,0" size="750,843" advanced="true"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n62_str8" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n62_str8" tween="true" startValue="0,400" endValue="0,0" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="83,107" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n6_b6a2" name="imageTab" xy="0,0" pivot="0.5,0.5" size="83,90" url="ui://38fa8c75ffqtvvv1cj" align="center" vAlign="middle"/>
+    <text id="n7_b6a2" name="title" xy="15,73" pivot="0.5,0.5" size="52,34" fontSize="24" color="#f2f4f4" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="商店"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

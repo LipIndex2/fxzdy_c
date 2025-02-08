@@ -1,0 +1,76 @@
+
+skill01_hti_up.png
+size: 125,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_baodian3
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+effect/skill01_baodian4
+  rotate: false
+  xy: 2, 114
+  size: 89, 60
+  orig: 90, 62
+  offset: 1, 1
+  index: -1
+effect/skill01_baodian5
+  rotate: false
+  xy: 2, 62
+  size: 68, 50
+  orig: 75, 55
+  offset: 4, 3
+  index: -1
+effect/skill01_baodian6
+  rotate: false
+  xy: 72, 62
+  size: 50, 38
+  orig: 50, 40
+  offset: 0, 1
+  index: -1
+effect/skill01_baodian_00000
+  rotate: true
+  xy: 93, 102
+  size: 40, 27
+  orig: 60, 75
+  offset: 10, 22
+  index: -1
+effect/skill01_baodian_00001
+  rotate: false
+  xy: 80, 176
+  size: 41, 52
+  orig: 60, 75
+  offset: 11, 18
+  index: -1
+effect/skill01_baodian_00002
+  rotate: true
+  xy: 62, 4
+  size: 56, 45
+  orig: 60, 75
+  offset: 2, 4
+  index: -1
+effect/skill01_baodian_00003
+  rotate: false
+  xy: 93, 144
+  size: 30, 29
+  orig: 60, 75
+  offset: 15, 16
+  index: -1
+effect/skill01_fang
+  rotate: false
+  xy: 80, 230
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+effect/skill01_glow
+  rotate: false
+  xy: 2, 176
+  size: 76, 76
+  orig: 80, 80
+  offset: 2, 2
+  index: -1

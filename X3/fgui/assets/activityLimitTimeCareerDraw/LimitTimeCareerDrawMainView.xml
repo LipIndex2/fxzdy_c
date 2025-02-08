@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kteoxs8w">
+  <displayList>
+    <loader id="n117_teox" name="n117" xy="0,-146" size="750,1626" url="ui://7cvz7rmmteoxvv23" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n127_teox" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-59" pivot="0.5,1" anchor="true" size="750,288" color="#0e1041">
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </image>
+    <image id="n96_c65a" name="n96" src="teoxvvv1ia" fileName="img/sjkj_bt.png" pkg="u3k6kdot" xy="7,83" size="459,91" group="n118_teox"/>
+    <image id="n92_c65a" name="n92" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="29,177" size="336,117" group="n118_teox" visible="false" alpha="0.49"/>
+    <image id="n94_c65a" name="n94" src="v891vvv1f3" fileName="img/boss_tag.png" pkg="38fa8c75" xy="40,189" size="12,27" group="n118_teox" visible="false"/>
+    <image id="n97_c65a" name="n97" src="teoxg" fileName="img/biaoti.png" xy="42,70" size="369,63" group="n118_teox"/>
+    <text id="n93_c65a" name="n93" xy="64,184" pivot="0,0.5" size="217,36" group="n118_teox" visible="false" fontSize="26" color="#99f7fd" vAlign="middle" letterSpacing="1" text="招募冲榜积分说明"/>
+    <component id="n126_teox" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="431,89" group="n118_teox"/>
+    <text id="n95_c65a" name="T_desc" xy="65,226" size="289,64" group="n118_teox" visible="false" fontSize="21" color="#ddfffe" leading="7" autoSize="none" text="招募冲榜/招募达标活动期间每次限时招募，获得2招募积分"/>
+    <richtext id="n119_teox" name="T_time" xy="65,139" pivot="0,0.5" size="190,34" group="n118_teox" fontSize="24" color="#ffffff" vAlign="middle" ubb="true" text="[color=#3CFE37]5天30小时[/color]后结算"/>
+    <group id="n118_teox" name="n118" xy="7,70" size="465,224"/>
+    <component id="n101_c65a" name="page" src="teox16" fileName="LimitTimeCareerDrawMainPage.xml" xy="14,361">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n89_c65a" name="skipItem" src="teox1a" fileName="item/DrawSkipAnimItem.xml" xy="566,828">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <text id="n86_c65a" name="T_count" xy="414,1108" pivot="1,0.5" size="35,36" group="n121_teox" fontSize="26" color="#a2d3ff" vAlign="middle" italic="true" text="20"/>
+    <text id="n87_c65a" name="n87" xy="448,1108" pivot="0.5,0.5" size="107,36" group="n121_teox" fontSize="26" color="#a2d3ff" vAlign="middle" italic="true" text="次后必得"/>
+    <text id="n88_c65a" name="T_quality" xy="551,1108" pivot="0,0.5" size="123,36" group="n121_teox" fontSize="26" color="#ff5656" vAlign="middle" italic="true" text="神话+英雄"/>
+    <group id="n121_teox" name="n121" xy="414,1108" size="260,36" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n122_teox" name="btn_get10" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="388,975" controller="style,0">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="招募10次"/>
+    </component>
+    <component id="n123_teox" name="btn_get" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="55,975" controller="style,1">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="招募1次"/>
+    </component>
+    <component id="n124_teox" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n125_teox" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="494,68" controller="isTop,1"/>
+    <component id="n128_teox" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="346,990" size="20,20" touchable="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n129_teox" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="681,990" size="20,20" touchable="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <image id="n130_8adr" name="n130" src="teoxa" fileName="img/wnzidi_frame.png" xy="149,912" size="464,40" group="n134_8adr" alpha="0.4"/>
+    <text id="n133_8adr" name="n133" xy="397,900" pivot="0,0.5" size="147,49" group="n134_8adr" fontSize="36" color="#ff5656" vAlign="middle" italic="true" text="神话英雄"/>
+    <richtext id="n135_8adr" name="n135" xy="204,909" pivot="1,0.5" size="193,36" group="n134_8adr" fontSize="26" color="#ffffff" align="right" vAlign="middle" ubb="true" vars="true" italic="true" text="招募         次必得"/>
+    <text id="n136_8adr" name="n136" xy="255,889" pivot="1,0.5" size="62,64" group="n134_8adr" fontSize="48" color="#ffcd54" vAlign="middle" italic="true" text="10"/>
+    <group id="n134_8adr" name="n134" xy="149,889" size="464,64" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

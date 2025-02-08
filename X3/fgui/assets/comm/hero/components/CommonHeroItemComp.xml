@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="219,172" opaque="false">
+  <controller name="isCore" alias="是否核心" pages="0,不是,1,是" selected="0"/>
+  <displayList>
+    <loader id="n77_kkiq" name="img_quality" xy="7,15" pivot="0,1" size="205,123" group="n71_kkiq" autoSize="true"/>
+    <loader id="n76_kkiq" name="img_hero" xy="109,133" pivot="0.5,1" anchor="true" size="184,140" group="n71_kkiq" fill="scaleMatchWidth" autoSize="true" clearOnPublish="true"/>
+    <loader id="n75_kkiq" name="img_camp" xy="0,-1" pivot="0.5,0.5" size="46,51" group="n71_kkiq" url="ui://38fa8c75cni670" align="center" vAlign="middle"/>
+    <text id="n11_3cc5" name="T_name" xy="80,137" size="55,36" group="n71_kkiq" fontSize="26" color="#fde963" align="center" vAlign="middle" strokeColor="#130000" strokeSize="2" text="杨戬">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <image id="n13_3cc5" name="n13" src="dtss5p" fileName="frameImage/black2_msg.png" xy="8,110" size="203,23" group="n78_kkiq"/>
+    <list id="n80_t0xc" name="list_star" xy="16,112" size="213,32" group="n78_kkiq" scale="0.57,0.57" layout="row" colGap="7" defaultItem="ui://38fa8c75dclx138">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n78_kkiq" name="G_star" xy="8,110" size="221,34" group="n71_kkiq" advanced="true"/>
+    <image id="n82_105pv" name="n82" src="tkxdvvv1c3" fileName="hero/img/jiaobiao.png" xy="148,103" group="n86_teox"/>
+    <text id="n16_3cc5" name="T_level" xy="165,101" pivot="0.5,0.5" size="33,34" group="n86_teox" fontSize="24" align="center" vAlign="middle" leading="0" text="20"/>
+    <group id="n86_teox" name="G_Level" xy="148,101" size="64,34" group="n71_kkiq" advanced="true"/>
+    <image id="n83_teox" name="n83" src="dusvvvv1fj" fileName="bgImage/stjl_frame.png" xy="152,12" size="76,30" group="n85_teox"/>
+    <text id="n84_teox" name="n84" xy="155,2" pivot="0.5,0.5" size="59,39" group="n85_teox" fontSize="28" color="#ffee5b" vAlign="middle" strokeColor="#000000" strokeSize="3" text="核心"/>
+    <group id="n85_teox" name="n85" xy="152,2" size="76,40" group="n71_kkiq" advanced="true">
+      <gearDisplay controller="isCore" pages="1"/>
+    </group>
+    <group id="n71_kkiq" name="n71" xy="0,-7" size="229,180"/>
+  </displayList>
+</component>

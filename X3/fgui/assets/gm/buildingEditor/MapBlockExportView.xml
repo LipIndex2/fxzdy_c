@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="700,250" opaque="false">
+  <displayList>
+    <graph id="n60_9h0a" name="n60" xy="-1,-1" size="700,250" group="n61_9h0a" alpha="0.5" type="rect" fillColor="#ff000000"/>
+    <image id="n56_9h0a" name="n56" src="m43k7" fileName="img/itemTypeTabBg.png" xy="21,16" size="177,50" group="n57_9h0a"/>
+    <text id="n59_9h0a" name="n59" xy="31,26" size="93,29" group="n57_9h0a" fontSize="20" color="#ffffff" leading="0" autoSize="none" text="格子大小:"/>
+    <text id="n55_9h0a" name="inputSizeTxt" xy="45,26" size="143,29" group="n57_9h0a" fontSize="20" color="#ffffff" align="right" leading="0" autoSize="none" singleLine="true" text="64" input="true" prompt="单步距离" keyboardType="4"/>
+    <group id="n57_9h0a" name="n57" xy="21,16" size="177,50" group="n61_9h0a"/>
+    <component id="n62_9h0a" name="closeBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="613,-1" size="86,87" group="n61_9h0a">
+      <Button titleFontSize="20" icon="ui://38fa8c75j6z92u"/>
+    </component>
+    <image id="n64_rqzt" name="n64" src="m43k7" fileName="img/itemTypeTabBg.png" xy="214,17" size="396,50" group="n67_rqzt"/>
+    <text id="n65_rqzt" name="n65" xy="224,27" size="71,29" group="n67_rqzt" fontSize="20" color="#ffffff" leading="0" autoSize="none" text="文件名:"/>
+    <text id="n66_rqzt" name="inputNameTxt" xy="294,27" size="306,29" group="n67_rqzt" fontSize="20" color="#ffffff" align="right" leading="0" autoSize="none" text="xxxxxx.bin" input="true" prompt="单步距离" keyboardType="4"/>
+    <group id="n67_rqzt" name="n67" xy="214,17" size="396,50" group="n61_9h0a"/>
+    <component id="n68_rqzt" name="saveBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="456,135" group="n61_9h0a">
+      <Button title="保存" titleColor="#282828" titleFontSize="32"/>
+    </component>
+    <group id="n61_9h0a" name="gp" xy="-1,-1" size="700,250" advanced="true"/>
+  </displayList>
+</component>

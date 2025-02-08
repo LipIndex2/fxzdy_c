@@ -1,0 +1,258 @@
+
+skill02_upper.png
+size: 415,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_hit_00000
+  rotate: false
+  xy: 360, 275
+  size: 45, 30
+  orig: 80, 80
+  offset: 12, 28
+  index: -1
+effect/attack_hit_00001
+  rotate: true
+  xy: 2, 12
+  size: 49, 57
+  orig: 80, 80
+  offset: 8, 22
+  index: -1
+effect/attack_hit_00002
+  rotate: false
+  xy: 249, 45
+  size: 68, 57
+  orig: 80, 80
+  offset: 2, 1
+  index: -1
+effect/attack_hit_00003
+  rotate: true
+  xy: 319, 34
+  size: 53, 58
+  orig: 80, 80
+  offset: 18, 18
+  index: -1
+effect/attack_hit_00004
+  rotate: false
+  xy: 181, 42
+  size: 66, 60
+  orig: 80, 80
+  offset: 14, 14
+  index: -1
+effect/attack_hit_00005
+  rotate: false
+  xy: 200, 10
+  size: 36, 30
+  orig: 80, 80
+  offset: 17, 19
+  index: -1
+effect/skill02_fadong1_00000
+  rotate: false
+  xy: 61, 41
+  size: 6, 20
+  orig: 6, 164
+  offset: 0, 0
+  index: -1
+effect/skill02_fadong1_00001
+  rotate: false
+  xy: 393, 333
+  size: 6, 50
+  orig: 6, 164
+  offset: 0, 4
+  index: -1
+effect/skill02_fadong1_00002
+  rotate: true
+  xy: 301, 18
+  size: 6, 109
+  orig: 6, 164
+  offset: 0, 11
+  index: -1
+effect/skill02_fadong1_00003
+  rotate: true
+  xy: 2, 4
+  size: 6, 136
+  orig: 6, 164
+  offset: 0, 20
+  index: -1
+effect/skill02_fadong1_00004
+  rotate: true
+  xy: 2, 4
+  size: 6, 136
+  orig: 6, 164
+  offset: 0, 20
+  index: -1
+effect/skill02_fadong1_00005
+  rotate: true
+  xy: 301, 26
+  size: 6, 110
+  orig: 6, 164
+  offset: 0, 49
+  index: -1
+effect/skill02_fadong1_00006
+  rotate: true
+  xy: 301, 10
+  size: 6, 105
+  orig: 6, 164
+  offset: 0, 56
+  index: -1
+effect/skill02_fadong1_00007
+  rotate: false
+  xy: 407, 289
+  size: 6, 94
+  orig: 6, 164
+  offset: 0, 68
+  index: -1
+effect/skill02_fadong1_00008
+  rotate: true
+  xy: 140, 2
+  size: 6, 94
+  orig: 6, 164
+  offset: 0, 68
+  index: -1
+effect/skill02_fadong1_00009
+  rotate: true
+  xy: 140, 2
+  size: 6, 94
+  orig: 6, 164
+  offset: 0, 68
+  index: -1
+effect/skill02_fadong1_00010
+  rotate: true
+  xy: 61, 13
+  size: 6, 95
+  orig: 6, 164
+  offset: 0, 68
+  index: -1
+effect/skill02_fadong2
+  rotate: false
+  xy: 379, 55
+  size: 31, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+effect/skill02_fadong3_00000
+  rotate: false
+  xy: 333, 89
+  size: 75, 74
+  orig: 140, 140
+  offset: 33, 32
+  index: -1
+effect/skill02_fadong3_00001
+  rotate: false
+  xy: 249, 172
+  size: 98, 97
+  orig: 140, 140
+  offset: 22, 20
+  index: -1
+effect/skill02_fadong3_00002
+  rotate: true
+  xy: 249, 271
+  size: 112, 109
+  orig: 140, 140
+  offset: 15, 15
+  index: -1
+effect/skill02_fadong3_00003
+  rotate: true
+  xy: 130, 263
+  size: 120, 117
+  orig: 140, 140
+  offset: 11, 12
+  index: -1
+effect/skill02_fadong3_00004
+  rotate: false
+  xy: 2, 264
+  size: 126, 119
+  orig: 140, 140
+  offset: 8, 12
+  index: -1
+effect/skill02_fadong3_00005
+  rotate: true
+  xy: 139, 133
+  size: 128, 72
+  orig: 140, 140
+  offset: 7, 60
+  index: -1
+effect/skill02_lizi_00000
+  rotate: false
+  xy: 181, 109
+  size: 27, 22
+  orig: 140, 80
+  offset: 55, 24
+  index: -1
+effect/skill02_lizi_00001
+  rotate: false
+  xy: 249, 9
+  size: 50, 34
+  orig: 140, 80
+  offset: 46, 19
+  index: -1
+effect/skill02_lizi_00002
+  rotate: false
+  xy: 90, 21
+  size: 68, 45
+  orig: 140, 80
+  offset: 39, 15
+  index: -1
+effect/skill02_lizi_00003
+  rotate: false
+  xy: 2, 63
+  size: 86, 53
+  orig: 140, 80
+  offset: 31, 12
+  index: -1
+effect/skill02_lizi_00004
+  rotate: true
+  xy: 349, 165
+  size: 104, 60
+  orig: 140, 80
+  offset: 22, 9
+  index: -1
+effect/skill02_lizi_00005
+  rotate: false
+  xy: 213, 104
+  size: 118, 66
+  orig: 140, 80
+  offset: 15, 7
+  index: -1
+effect/skill02_lizi_00006
+  rotate: false
+  xy: 2, 118
+  size: 129, 70
+  orig: 140, 80
+  offset: 8, 6
+  index: -1
+effect/skill02_lizi_00007
+  rotate: false
+  xy: 2, 190
+  size: 135, 71
+  orig: 140, 80
+  offset: 4, 6
+  index: -1
+effect/skill02_lizi_00008
+  rotate: true
+  xy: 213, 173
+  size: 88, 32
+  orig: 140, 80
+  offset: 1, 7
+  index: -1
+effect/skill02_tianping1
+  rotate: true
+  xy: 90, 68
+  size: 48, 89
+  orig: 50, 100
+  offset: 1, 5
+  index: -1
+effect/skill02_tianping2
+  rotate: true
+  xy: 360, 307
+  size: 76, 31
+  orig: 84, 35
+  offset: 4, 3
+  index: -1
+effect/skill02_tianping3
+  rotate: false
+  xy: 160, 10
+  size: 38, 30
+  orig: 40, 35
+  offset: 1, 3
+  index: -1

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n20_woyg" name="bg" xy="0,-146" size="750,919" url="ui://7cvz7rmmwoygvv24" align="center" vAlign="middle"/>
+    <image id="n21_woyg" name="top_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-172" pivot="0.5,0.5" anchor="true" size="750,250" color="#212540">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n22_woyg" name="bottom_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1180" pivot="0.5,0.5" anchor="true" size="750,1000" color="#3a4563" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <loader id="n24_woyg" name="bgEnter" xy="375,588" pivot="0.5,0.5" anchor="true" size="527,527" url="ui://7cvz7rmmwoygvv26" align="center" vAlign="middle"/>
+    <loader id="n23_woyg" name="bg2" xy="0,252" size="750,1228" url="ui://7cvz7rmmwoygvv25" align="center" vAlign="middle"/>
+    <component id="n5_bfe7" name="tilteComp" src="woyg124" fileName="component/PetDungeonTitleComp.xml" xy="6,68">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n17_woyg" name="btnShop" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="642,292" visible="false">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="商店" icon="ui://38fa8c75ffqtvvv1cj"/>
+    </component>
+    <component id="n18_woyg" name="btnRank" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="642,170">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="排行" icon="ui://38fa8c75gs9kvvv1fx"/>
+    </component>
+    <component id="n26_woyg" name="btnEnter" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="215,1123" size="306,117">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="冒险" titleFontSize="46"/>
+    </component>
+    <component id="n27_woyg" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <image id="n14_bfe7" name="n14" src="gl0p12o" fileName="img/guanqiadi.png" xy="374,1029" pivot="0.5,0.5" anchor="true" size="403,112" group="n32_gl0p"/>
+    <richtext id="n36_gl0p" name="lbNextChapter" xy="253,1004" pivot="0,0.5" anchor="true" size="268,42" group="n40_gl0p" fontSize="30" color="#ffed55" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="3" text="赛季最高：[color=#50FFF9]40-10关[/color]">
+      <relation target="" sidePair="center-center"/>
+    </richtext>
+    <image id="n38_gl0p" name="n38" src="gl0p12n" fileName="img/icon_title.png" xy="221,986" group="n40_gl0p"/>
+    <group id="n40_gl0p" name="n40" xy="221,983" size="300,42" group="n32_gl0p"/>
+    <richtext id="n33_gl0p" name="lbChapter" xy="254,1057" pivot="0,0.5" anchor="true" size="268,42" group="n41_gl0p" fontSize="30" color="#ffffff" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="3" text="赛季最高：[color=#50FFF9]40-10关[/color]">
+      <relation target="" sidePair="center-center"/>
+    </richtext>
+    <image id="n39_gl0p" name="n39" src="gl0p12n" fileName="img/icon_title.png" xy="221,1039" group="n41_gl0p"/>
+    <group id="n41_gl0p" name="n41" xy="221,1036" size="301,42" group="n32_gl0p"/>
+    <group id="n32_gl0p" name="gInfo" xy="173,973" size="403,112" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n42_gl0p" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="407,70" group="n46_gl0p"/>
+    <component id="n43_gl0p" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="568,70" group="n46_gl0p"/>
+    <component id="n44_gl0p" name="headerItem3" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="390,124" size="143,41" group="n46_gl0p"/>
+    <component id="n45_gl0p" name="headerItem4" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="530,123" size="143,41" group="n46_gl0p"/>
+    <group id="n46_gl0p" name="gHeader" xy="390,70" size="331,95" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Rotation" target="n24_woyg" tween="true" startValue="0" endValue="360" duration="143" ease="Linear" repeat="-1"/>
+  </transition>
+</component>

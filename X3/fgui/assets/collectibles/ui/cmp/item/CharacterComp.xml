@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,204" pivot="1,0" anchor="true">
+  <displayList>
+    <component id="n19_9d26" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="51,240" size="100,100"/>
+    <component id="n25_9d26" name="itemBox" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="0,0" aspect="true" scale="0.8,0.8"/>
+  </displayList>
+</component>

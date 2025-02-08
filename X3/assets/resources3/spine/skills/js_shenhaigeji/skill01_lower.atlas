@@ -1,0 +1,272 @@
+
+skill01_lower.png
+size: 2039,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/jianshe01
+  rotate: true
+  xy: 681, 12
+  size: 97, 208
+  orig: 128, 256
+  offset: 10, 6
+  index: -1
+images/effect/jianshe02
+  rotate: true
+  xy: 454, 12
+  size: 97, 225
+  orig: 128, 256
+  offset: 20, 11
+  index: -1
+images/effect/jianshe03
+  rotate: true
+  xy: 226, 25
+  size: 104, 226
+  orig: 128, 256
+  offset: 15, 6
+  index: -1
+images/effect/jianshe04
+  rotate: true
+  xy: 1362, 39
+  size: 105, 229
+  orig: 128, 256
+  offset: 12, 13
+  index: -1
+images/effect/jianshe05
+  rotate: true
+  xy: 616, 111
+  size: 115, 229
+  orig: 128, 256
+  offset: 9, 16
+  index: -1
+images/effect/jianshe06
+  rotate: true
+  xy: 226, 131
+  size: 112, 216
+  orig: 128, 256
+  offset: 8, 29
+  index: -1
+images/effect/jianshe07
+  rotate: true
+  xy: 1828, 92
+  size: 110, 209
+  orig: 128, 256
+  offset: 8, 36
+  index: -1
+images/effect/shuibo01
+  rotate: false
+  xy: 2035, 626
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/effect/shuibo02
+  rotate: false
+  xy: 616, 383
+  size: 56, 33
+  orig: 256, 256
+  offset: 108, 89
+  index: -1
+images/effect/shuibo03
+  rotate: false
+  xy: 454, 118
+  size: 104, 66
+  orig: 256, 256
+  offset: 86, 70
+  index: -1
+images/effect/shuibo04
+  rotate: false
+  xy: 1593, 17
+  size: 141, 92
+  orig: 256, 256
+  offset: 68, 58
+  index: -1
+images/effect/shuibo05
+  rotate: true
+  xy: 1898, 459
+  size: 168, 135
+  orig: 256, 256
+  offset: 53, 30
+  index: -1
+images/effect/shuibo06
+  rotate: false
+  xy: 1625, 111
+  size: 201, 163
+  orig: 256, 256
+  offset: 31, 21
+  index: -1
+images/effect/shuibo07
+  rotate: false
+  xy: 241, 245
+  size: 214, 171
+  orig: 256, 256
+  offset: 22, 16
+  index: -1
+images/effect/shuibo08
+  rotate: false
+  xy: 2, 428
+  size: 237, 199
+  orig: 256, 256
+  offset: 6, 13
+  index: -1
+images/effect/shuibo09
+  rotate: false
+  xy: 1139, 253
+  size: 226, 184
+  orig: 256, 256
+  offset: 30, 0
+  index: -1
+images/effect/shuibo10
+  rotate: false
+  xy: 899, 249
+  size: 238, 188
+  orig: 256, 256
+  offset: 18, 0
+  index: -1
+images/effect/shuibo11
+  rotate: false
+  xy: 1169, 439
+  size: 241, 188
+  orig: 256, 256
+  offset: 15, 0
+  index: -1
+images/effect/shuibo12
+  rotate: false
+  xy: 1412, 439
+  size: 241, 188
+  orig: 256, 256
+  offset: 15, 0
+  index: -1
+images/effect/shuibo13
+  rotate: false
+  xy: 1655, 439
+  size: 241, 188
+  orig: 256, 256
+  offset: 15, 0
+  index: -1
+images/effect/shuibo14
+  rotate: false
+  xy: 681, 439
+  size: 242, 188
+  orig: 256, 256
+  offset: 14, 0
+  index: -1
+images/effect/shuibo15
+  rotate: false
+  xy: 925, 439
+  size: 242, 188
+  orig: 256, 256
+  offset: 14, 0
+  index: -1
+images/effect/shuibo16
+  rotate: false
+  xy: 1367, 276
+  size: 237, 161
+  orig: 256, 256
+  offset: 19, 0
+  index: -1
+images/effect/shuibo17
+  rotate: false
+  xy: 1606, 276
+  size: 237, 161
+  orig: 256, 256
+  offset: 19, 0
+  index: -1
+images/effect/shuibo18
+  rotate: false
+  xy: 2, 255
+  size: 237, 161
+  orig: 256, 256
+  offset: 19, 0
+  index: -1
+images/effect/shuibo19
+  rotate: true
+  xy: 1845, 204
+  size: 233, 157
+  orig: 256, 256
+  offset: 23, 0
+  index: -1
+images/effect/shuibo20
+  rotate: true
+  xy: 457, 186
+  size: 230, 157
+  orig: 256, 256
+  offset: 26, 0
+  index: -1
+images/effect/shuibo21
+  rotate: false
+  xy: 2, 109
+  size: 222, 144
+  orig: 256, 256
+  offset: 30, 5
+  index: -1
+images/effect/shuibo22
+  rotate: false
+  xy: 1139, 108
+  size: 221, 143
+  orig: 256, 256
+  offset: 31, 5
+  index: -1
+images/effect/shuibo23
+  rotate: false
+  xy: 899, 104
+  size: 221, 143
+  orig: 256, 256
+  offset: 31, 5
+  index: -1
+images/effect/shuibo24
+  rotate: false
+  xy: 681, 228
+  size: 216, 209
+  orig: 256, 256
+  offset: 0, 47
+  index: -1
+images/effect/shuibo25
+  rotate: false
+  xy: 241, 418
+  size: 218, 209
+  orig: 256, 256
+  offset: 0, 47
+  index: -1
+images/effect/shuibo26
+  rotate: false
+  xy: 461, 418
+  size: 218, 209
+  orig: 256, 256
+  offset: 0, 47
+  index: -1
+images/effect/shuibo27
+  rotate: false
+  xy: 2, 19
+  size: 139, 88
+  orig: 256, 256
+  offset: 79, 47
+  index: -1
+images/effect/shuibo28
+  rotate: false
+  xy: 1122, 18
+  size: 135, 88
+  orig: 256, 256
+  offset: 83, 47
+  index: -1
+images/effect/shuibo29
+  rotate: false
+  xy: 891, 14
+  size: 135, 88
+  orig: 256, 256
+  offset: 83, 47
+  index: -1
+images/effect/shuibo30
+  rotate: false
+  xy: 1736, 2
+  size: 135, 88
+  orig: 256, 256
+  offset: 83, 47
+  index: -1
+images/effect/shuitan01
+  rotate: false
+  xy: 1367, 146
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

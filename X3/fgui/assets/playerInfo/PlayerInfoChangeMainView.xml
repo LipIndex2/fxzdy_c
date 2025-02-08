@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kd299s76">
+  <controller name="subView" pages="0,头像,1,头像框,2,称号,3,角色" selected="0"/>
+  <displayList>
+    <loader id="n101_d299" name="bg" xy="40,172" size="670,1005" group="n103_d299" url="ui://d4f261265da51"/>
+    <image id="n102_d299" name="n102" src="5da527" fileName="img/biaoti_frame.png" xy="230,157" group="n103_d299"/>
+    <text id="n104_d299" name="labelTitle" xy="292,167" pivot="0.5,0" size="151,42" group="n103_d299" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="个性设置"/>
+    <component id="n106_d299" name="subHeadIcon" src="d2997f" fileName="subView/PlayerInfoHeadIconSubView.xml" xy="0,0" group="n103_d299">
+      <gearDisplay controller="subView" pages="0"/>
+    </component>
+    <component id="n110_d299" name="subHeadFrame" src="d2997t" fileName="subView/PlayerInfoHeadFrameSubView.xml" xy="0,0" group="n103_d299">
+      <gearDisplay controller="subView" pages="1"/>
+    </component>
+    <component id="n111_d299" name="subTitle" src="d2997v" fileName="subView/PlayerInfoTitleSubView.xml" xy="0,0" group="n103_d299">
+      <gearDisplay controller="subView" pages="2"/>
+    </component>
+    <component id="n112_9gqu" name="subRole" src="9gqu7z" fileName="subView/PlayerInfoChangeRoleSubView.xml" xy="0,0" group="n103_d299">
+      <gearDisplay controller="subView" pages="3"/>
+    </component>
+    <image id="n107_d299" name="bgTab" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="88,285" size="575,63" group="n109_d299"/>
+    <list id="n108_d299" name="tabList" xy="88,280" size="574,73" group="n109_d299" layout="row" colGap="2" defaultItem="ui://d4f26126d2997d" selectionController="subView" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n109_d299" name="G_tab" xy="88,280" size="575,73" group="n103_d299"/>
+    <group id="n103_d299" name="G_all" xy="0,0" size="750,1334" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n113_vdae" name="n113" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1187">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

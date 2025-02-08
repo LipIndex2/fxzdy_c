@@ -1,0 +1,20 @@
+
+skill03_lower.png
+size: 99,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill03_LOW_00005
+  rotate: false
+  xy: 2, 89
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+images/effect/skill03_LOW_00006
+  rotate: false
+  xy: 2, 2
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1

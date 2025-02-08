@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="502,38">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="月卡箭头"/>
+    <remark page="1" value="终身卡箭头"/>
+  </controller>
+  <displayList>
+    <image id="n38_oc78" name="n38" src="22157" fileName="img/lansexiaojiantou.png" xy="0,13">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n37_2215" name="n39" src="221512" fileName="img/chengsexiaojiantou.png" xy="0,13">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <richtext id="n39_oc78" name="lbDes" xy="34,6" size="232,32" fontSize="22" color="#ffffff" vAlign="middle" text="购买立刻获得          x10"/>
+  </displayList>
+</component>

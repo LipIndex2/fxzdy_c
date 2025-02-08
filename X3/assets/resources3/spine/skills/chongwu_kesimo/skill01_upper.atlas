@@ -1,0 +1,209 @@
+
+skill01_upper.png
+size: 742,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/simoke_skill_ci_0
+  rotate: false
+  xy: 241, 241
+  size: 28, 23
+  orig: 110, 50
+  offset: 1, 14
+  index: -1
+effect/simoke_skill_ci_1
+  rotate: false
+  xy: 182, 104
+  size: 54, 32
+  orig: 110, 50
+  offset: 1, 6
+  index: -1
+effect/simoke_skill_ci_2
+  rotate: true
+  xy: 400, 358
+  size: 81, 36
+  orig: 110, 50
+  offset: 2, 4
+  index: -1
+effect/simoke_skill_ci_3
+  rotate: false
+  xy: 81, 34
+  size: 94, 42
+  orig: 110, 50
+  offset: 4, 4
+  index: -1
+effect/simoke_skill_ci_4
+  rotate: false
+  xy: 144, 220
+  size: 95, 44
+  orig: 110, 50
+  offset: 7, 4
+  index: -1
+effect/simoke_skill_ci_5
+  rotate: true
+  xy: 692, 314
+  size: 89, 44
+  orig: 110, 50
+  offset: 14, 4
+  index: -1
+effect/simoke_skill_ci_6
+  rotate: true
+  xy: 692, 405
+  size: 82, 44
+  orig: 110, 50
+  offset: 21, 4
+  index: -1
+effect/simoke_skill_ci_7
+  rotate: false
+  xy: 676, 489
+  size: 56, 44
+  orig: 110, 50
+  offset: 50, 4
+  index: -1
+effect/simoke_skill_guangshu
+  rotate: false
+  xy: 2, 171
+  size: 140, 93
+  orig: 180, 110
+  offset: 11, 9
+  index: -1
+effect/simoke_skill_xing
+  rotate: false
+  xy: 192, 201
+  size: 18, 17
+  orig: 20, 20
+  offset: 1, 2
+  index: -1
+effect/simoke_skill_xuan
+  rotate: true
+  xy: 2, 2
+  size: 74, 77
+  orig: 100, 100
+  offset: 18, 10
+  index: -1
+effect/simoke_skill_yanwu_upper_0
+  rotate: false
+  xy: 144, 208
+  size: 46, 10
+  orig: 200, 100
+  offset: 76, 33
+  index: -1
+effect/simoke_skill_yanwu_upper_1
+  rotate: false
+  xy: 2, 147
+  size: 89, 22
+  orig: 200, 100
+  offset: 55, 30
+  index: -1
+effect/simoke_skill_yanwu_upper_10
+  rotate: true
+  xy: 676, 546
+  size: 180, 51
+  orig: 200, 100
+  offset: 3, 21
+  index: -1
+effect/simoke_skill_yanwu_upper_2
+  rotate: true
+  xy: 692, 163
+  size: 149, 48
+  orig: 200, 100
+  offset: 24, 25
+  index: -1
+effect/simoke_skill_yanwu_upper_3
+  rotate: false
+  xy: 359, 43
+  size: 173, 56
+  orig: 200, 100
+  offset: 13, 22
+  index: -1
+effect/simoke_skill_yanwu_upper_4
+  rotate: false
+  xy: 182, 43
+  size: 175, 56
+  orig: 200, 100
+  offset: 12, 22
+  index: -1
+effect/simoke_skill_yanwu_upper_5
+  rotate: false
+  xy: 2, 78
+  size: 178, 58
+  orig: 200, 100
+  offset: 10, 21
+  index: -1
+effect/simoke_skill_yanwu_upper_6
+  rotate: false
+  xy: 516, 101
+  size: 181, 60
+  orig: 200, 100
+  offset: 8, 20
+  index: -1
+effect/simoke_skill_yanwu_upper_7
+  rotate: false
+  xy: 144, 138
+  size: 184, 60
+  orig: 200, 100
+  offset: 6, 20
+  index: -1
+effect/simoke_skill_yanwu_upper_8
+  rotate: false
+  xy: 330, 101
+  size: 184, 60
+  orig: 200, 100
+  offset: 5, 20
+  index: -1
+effect/simoke_skill_yanwu_upper_9
+  rotate: false
+  xy: 534, 47
+  size: 184, 52
+  orig: 200, 100
+  offset: 3, 21
+  index: -1
+effect/simoke_skill_yun_0
+  rotate: true
+  xy: 400, 163
+  size: 76, 165
+  orig: 268, 376
+  offset: 105, 19
+  index: -1
+effect/simoke_skill_yun_1
+  rotate: false
+  xy: 272, 200
+  size: 126, 239
+  orig: 268, 376
+  offset: 80, 39
+  index: -1
+effect/simoke_skill_yun_2
+  rotate: true
+  xy: 2, 266
+  size: 173, 268
+  orig: 268, 376
+  offset: 44, 50
+  index: -1
+effect/simoke_skill_yun_3
+  rotate: false
+  xy: 232, 441
+  size: 210, 285
+  orig: 268, 376
+  offset: 20, 58
+  index: -1
+effect/simoke_skill_yun_4
+  rotate: false
+  xy: 2, 445
+  size: 228, 281
+  orig: 268, 376
+  offset: 12, 63
+  index: -1
+effect/simoke_skill_yun_5
+  rotate: false
+  xy: 444, 476
+  size: 230, 250
+  orig: 268, 376
+  offset: 10, 97
+  index: -1
+effect/simoke_skill_yun_6
+  rotate: true
+  xy: 444, 241
+  size: 233, 246
+  orig: 268, 376
+  offset: 7, 102
+  index: -1

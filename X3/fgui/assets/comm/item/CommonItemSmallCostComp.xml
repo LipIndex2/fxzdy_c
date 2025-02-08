@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,48">
+  <controller name="canPayFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <displayList>
+    <loader id="n6_dtss" name="imageItem" xy="36,0" pivot="0.5,0.5" size="48,48" scale="0.9,0.9" url="ui://38fa8c75j6z934" align="center" vAlign="middle" clearOnPublish="true">
+      <relation target="n7_dtss" sidePair="right-left"/>
+    </loader>
+    <text id="n7_dtss" name="labelCount" xy="80,2" size="22,42" fontSize="30" color="#ff5050" vAlign="middle" leading="0" strokeColor="#6d1602" strokeSize="3" singleLine="true" text="1">
+      <gearColor controller="canPayFlag" pages="0,1" values="#ff5050,#6d1602|#35fe64,#116a41"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+</component>

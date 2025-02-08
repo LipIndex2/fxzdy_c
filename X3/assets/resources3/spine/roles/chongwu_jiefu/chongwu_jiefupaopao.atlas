@@ -1,0 +1,13 @@
+
+chongwu_jiefupaopao.png
+size: 43,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

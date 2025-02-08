@@ -1,0 +1,76 @@
+
+attack_upper.png
+size: 245,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tanji_shuhuan_00000
+  rotate: false
+  xy: 206, 19
+  size: 17, 33
+  orig: 50, 132
+  offset: 17, 50
+  index: -1
+effect/tanji_shuhuan_00001
+  rotate: true
+  xy: 96, 11
+  size: 23, 56
+  orig: 50, 132
+  offset: 13, 38
+  index: -1
+effect/tanji_shuhuan_00002
+  rotate: true
+  xy: 2, 2
+  size: 33, 92
+  orig: 50, 132
+  offset: 9, 21
+  index: -1
+effect/tanji_shuhuan_00003
+  rotate: false
+  xy: 206, 54
+  size: 37, 107
+  orig: 50, 132
+  offset: 7, 13
+  index: -1
+effect/tanji_shuhuan_00004
+  rotate: false
+  xy: 91, 38
+  size: 41, 123
+  orig: 50, 132
+  offset: 6, 4
+  index: -1
+effect/tanji_shuhuan_00005
+  rotate: false
+  xy: 47, 37
+  size: 42, 124
+  orig: 50, 132
+  offset: 6, 3
+  index: -1
+effect/tanji_shuhuan_00006
+  rotate: false
+  xy: 2, 37
+  size: 43, 124
+  orig: 50, 132
+  offset: 6, 3
+  index: -1
+effect/tanji_shuhuan_00007
+  rotate: false
+  xy: 134, 36
+  size: 34, 125
+  orig: 50, 132
+  offset: 14, 2
+  index: -1
+effect/tanji_shuhuan_00008
+  rotate: false
+  xy: 170, 36
+  size: 34, 125
+  orig: 50, 132
+  offset: 14, 2
+  index: -1
+effect/tanji_shuhuan_00009
+  rotate: false
+  xy: 154, 16
+  size: 22, 18
+  orig: 50, 132
+  offset: 20, 109
+  index: -1

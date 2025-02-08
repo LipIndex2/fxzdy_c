@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,34">
+  <controller name="state" exported="true" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <text id="n31_93ec" name="n31" xy="54,16" pivot="0.5,0.5" anchor="true" size="52,34" visible="false" fontSize="24" color="#4fee80" vAlign="middle" strokeColor="#090909" strokeSize="2" text="推荐">
+      <gearColor controller="state" pages="0,1,3" values="#4fee80,#090909|#60dbff,#090909|#93a4c5,#090909" default="#ff6060,#090909"/>
+      <gearText controller="state" pages="0,1,3" values="推荐|正常|维护" default="火爆"/>
+    </text>
+    <loader id="n41_93ec" name="n41" xy="0,5" size="24,24" visible="false" url="ui://9809a2d293ec20">
+      <gearIcon controller="state" pages="0,1,2,3" values="ui://9809a2d293ec20|ui://9809a2d293ec19|ui://9809a2d293ec17|ui://9809a2d293ec18"/>
+    </loader>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,720" overflow="scroll">
+  <displayList>
+    <list id="n37_oc78" name="listGoods" xy="0,0" size="730,498" overflow="scroll" scrollBarFlags="160" lineGap="-6" defaultItem="ui://ad479770oc7829" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n38_oc78" name="listAddition" xy="22,510" size="686,800" overflow="scroll" scrollBarFlags="160" lineGap="13" defaultItem="ui://ad479770oc782b" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

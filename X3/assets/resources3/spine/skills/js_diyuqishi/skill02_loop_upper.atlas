@@ -1,0 +1,321 @@
+
+skill02_loop_upper.png
+size: 800,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_loop_upper1_00000
+  rotate: false
+  xy: 665, 27
+  size: 71, 28
+  orig: 80, 40
+  offset: 4, 3
+  index: -1
+effect/skill02_loop_upper1_00001
+  rotate: false
+  xy: 475, 24
+  size: 66, 30
+  orig: 80, 40
+  offset: 7, 3
+  index: -1
+effect/skill02_loop_upper1_00002
+  rotate: false
+  xy: 84, 61
+  size: 70, 30
+  orig: 80, 40
+  offset: 4, 3
+  index: -1
+effect/skill02_loop_upper1_00003
+  rotate: false
+  xy: 2, 93
+  size: 76, 31
+  orig: 80, 40
+  offset: 4, 3
+  index: -1
+effect/skill02_loop_upper1_00004
+  rotate: false
+  xy: 80, 93
+  size: 76, 31
+  orig: 80, 40
+  offset: 4, 3
+  index: -1
+effect/skill02_loop_upperqian_00000_00000
+  rotate: true
+  xy: 2, 8
+  size: 25, 72
+  orig: 30, 80
+  offset: 2, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00001
+  rotate: true
+  xy: 76, 4
+  size: 25, 71
+  orig: 30, 80
+  offset: 2, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00002
+  rotate: true
+  xy: 215, 9
+  size: 26, 72
+  orig: 30, 80
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00003
+  rotate: true
+  xy: 312, 25
+  size: 26, 73
+  orig: 30, 80
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00004
+  rotate: true
+  xy: 156, 37
+  size: 27, 76
+  orig: 30, 80
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00005
+  rotate: true
+  xy: 319, 53
+  size: 27, 77
+  orig: 30, 80
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00006
+  rotate: true
+  xy: 240, 96
+  size: 28, 79
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00007
+  rotate: true
+  xy: 158, 96
+  size: 28, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00008
+  rotate: true
+  xy: 2, 64
+  size: 27, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00009
+  rotate: true
+  xy: 158, 66
+  size: 28, 79
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00010
+  rotate: true
+  xy: 234, 37
+  size: 27, 76
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00011
+  rotate: true
+  xy: 2, 35
+  size: 27, 76
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00012
+  rotate: true
+  xy: 543, 27
+  size: 26, 75
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00013
+  rotate: true
+  xy: 398, 30
+  size: 27, 75
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00014
+  rotate: true
+  xy: 508, 56
+  size: 27, 78
+  orig: 30, 80
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00015
+  rotate: true
+  xy: 239, 66
+  size: 28, 78
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00016
+  rotate: true
+  xy: 430, 59
+  size: 28, 76
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00017
+  rotate: true
+  xy: 588, 55
+  size: 28, 75
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00018
+  rotate: true
+  xy: 80, 31
+  size: 28, 73
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperqian_00000_00019
+  rotate: true
+  xy: 713, 57
+  size: 29, 73
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00000
+  rotate: false
+  xy: 155, 2
+  size: 58, 33
+  orig: 80, 60
+  offset: 12, 10
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00001
+  rotate: false
+  xy: 430, 89
+  size: 64, 40
+  orig: 80, 60
+  offset: 6, 2
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00002
+  rotate: false
+  xy: 728, 88
+  size: 70, 46
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00003
+  rotate: false
+  xy: 368, 82
+  size: 60, 47
+  orig: 80, 60
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00004
+  rotate: false
+  xy: 649, 85
+  size: 62, 46
+  orig: 80, 60
+  offset: 5, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00005
+  rotate: false
+  xy: 515, 133
+  size: 70, 50
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00006
+  rotate: false
+  xy: 2, 126
+  size: 73, 57
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00007
+  rotate: false
+  xy: 77, 126
+  size: 72, 57
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00008
+  rotate: false
+  xy: 442, 131
+  size: 71, 52
+  orig: 80, 60
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00009
+  rotate: false
+  xy: 515, 85
+  size: 65, 46
+  orig: 80, 60
+  offset: 5, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00010
+  rotate: false
+  xy: 587, 133
+  size: 69, 50
+  orig: 80, 60
+  offset: 2, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00011
+  rotate: false
+  xy: 151, 126
+  size: 72, 57
+  orig: 80, 60
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00012
+  rotate: false
+  xy: 225, 127
+  size: 72, 56
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00013
+  rotate: false
+  xy: 368, 131
+  size: 72, 52
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00014
+  rotate: false
+  xy: 728, 136
+  size: 69, 47
+  orig: 80, 60
+  offset: 1, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00015
+  rotate: false
+  xy: 582, 85
+  size: 65, 46
+  orig: 80, 60
+  offset: 5, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00016
+  rotate: false
+  xy: 658, 133
+  size: 68, 50
+  orig: 80, 60
+  offset: 2, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00017
+  rotate: false
+  xy: 299, 126
+  size: 67, 57
+  orig: 80, 60
+  offset: 6, 0
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00018
+  rotate: false
+  xy: 738, 16
+  size: 51, 39
+  orig: 80, 60
+  offset: 21, 11
+  index: -1
+effect/skill02_loop_upperweiqi_00000_00019
+  rotate: false
+  xy: 321, 94
+  size: 42, 30
+  orig: 80, 60
+  offset: 30, 15
+  index: -1

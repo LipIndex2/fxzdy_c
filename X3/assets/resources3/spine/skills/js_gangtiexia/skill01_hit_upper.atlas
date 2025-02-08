@@ -1,0 +1,265 @@
+
+skill01_hit_upper.png
+size: 314,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/hit_baodian_00000
+  rotate: true
+  xy: 2, 23
+  size: 31, 37
+  orig: 80, 110
+  offset: 21, 42
+  index: -1
+effect/hit_baodian_00001
+  rotate: false
+  xy: 196, 185
+  size: 69, 73
+  orig: 80, 110
+  offset: 10, 32
+  index: -1
+effect/hit_baodian_00002
+  rotate: false
+  xy: 118, 170
+  size: 76, 88
+  orig: 80, 110
+  offset: 4, 2
+  index: -1
+effect/hit_baodian_00003
+  rotate: false
+  xy: 196, 122
+  size: 67, 61
+  orig: 80, 110
+  offset: 9, 22
+  index: -1
+effect/hit_baodian_00004
+  rotate: true
+  xy: 118, 119
+  size: 49, 64
+  orig: 80, 110
+  offset: 0, 31
+  index: -1
+effect/hit_baodian_00005
+  rotate: true
+  xy: 160, 38
+  size: 37, 41
+  orig: 80, 110
+  offset: 4, 25
+  index: -1
+effect/hit_baodian_00006
+  rotate: true
+  xy: 110, 75
+  size: 42, 48
+  orig: 80, 110
+  offset: 15, 25
+  index: -1
+effect/hit_baodian_00007
+  rotate: false
+  xy: 284, 2
+  size: 24, 28
+  orig: 80, 110
+  offset: 19, 35
+  index: -1
+effect/hit_ciguang_00000
+  rotate: false
+  xy: 60, 5
+  size: 35, 12
+  orig: 70, 20
+  offset: 0, 7
+  index: -1
+effect/hit_ciguang_00001
+  rotate: false
+  xy: 135, 2
+  size: 54, 13
+  orig: 70, 20
+  offset: 0, 7
+  index: -1
+effect/hit_ciguang_00002
+  rotate: true
+  xy: 295, 32
+  size: 63, 15
+  orig: 70, 20
+  offset: 1, 4
+  index: -1
+effect/hit_ciguang_00003
+  rotate: false
+  xy: 154, 17
+  size: 63, 17
+  orig: 70, 20
+  offset: 4, 2
+  index: -1
+effect/hit_ciguang_00004
+  rotate: false
+  xy: 41, 19
+  size: 60, 18
+  orig: 70, 20
+  offset: 7, 1
+  index: -1
+effect/hit_ciguang_00005
+  rotate: true
+  xy: 160, 80
+  size: 37, 18
+  orig: 70, 20
+  offset: 32, 0
+  index: -1
+effect/hit_guangyun
+  rotate: false
+  xy: 2, 145
+  size: 114, 113
+  orig: 150, 150
+  offset: 18, 18
+  index: -1
+effect/hit_lizi_00000
+  rotate: true
+  xy: 103, 4
+  size: 28, 30
+  orig: 110, 60
+  offset: 80, 17
+  index: -1
+effect/hit_lizi_00001
+  rotate: false
+  xy: 122, 34
+  size: 30, 39
+  orig: 110, 60
+  offset: 62, 12
+  index: -1
+effect/hit_lizi_00002
+  rotate: false
+  xy: 235, 74
+  size: 38, 46
+  orig: 110, 60
+  offset: 43, 8
+  index: -1
+effect/hit_lizi_00003
+  rotate: true
+  xy: 183, 77
+  size: 43, 50
+  orig: 110, 60
+  offset: 30, 6
+  index: -1
+effect/hit_lizi_00004
+  rotate: true
+  xy: 56, 95
+  size: 48, 52
+  orig: 110, 60
+  offset: 20, 4
+  index: -1
+effect/hit_lizi_00005
+  rotate: true
+  xy: 2, 92
+  size: 51, 52
+  orig: 110, 60
+  offset: 13, 3
+  index: -1
+effect/hit_lizi_00006
+  rotate: false
+  xy: 56, 59
+  size: 51, 34
+  orig: 110, 60
+  offset: 8, 2
+  index: -1
+effect/hit_lizi_00007
+  rotate: false
+  xy: 2, 56
+  size: 50, 34
+  orig: 110, 60
+  offset: 5, 1
+  index: -1
+effect/hit_lizi_00008
+  rotate: true
+  xy: 286, 215
+  size: 33, 26
+  orig: 110, 60
+  offset: 3, 1
+  index: -1
+effect/hit_lizi_00009
+  rotate: false
+  xy: 191, 8
+  size: 12, 7
+  orig: 110, 60
+  offset: 4, 2
+  index: -1
+effect/hit_lizi_00010
+  rotate: false
+  xy: 41, 51
+  size: 6, 3
+  orig: 110, 60
+  offset: 6, 4
+  index: -1
+effect/hit_quan_00000
+  rotate: false
+  xy: 184, 134
+  size: 8, 34
+  orig: 20, 70
+  offset: 6, 18
+  index: -1
+effect/hit_quan_00001
+  rotate: true
+  xy: 2, 3
+  size: 14, 56
+  orig: 20, 70
+  offset: 4, 6
+  index: -1
+effect/hit_quan_00002
+  rotate: false
+  xy: 286, 97
+  size: 17, 57
+  orig: 20, 70
+  offset: 1, 6
+  index: -1
+effect/hit_quan_00003
+  rotate: false
+  xy: 286, 156
+  size: 17, 57
+  orig: 20, 70
+  offset: 1, 6
+  index: -1
+effect/hit_quan_00004
+  rotate: false
+  xy: 276, 36
+  size: 17, 59
+  orig: 20, 70
+  offset: 1, 5
+  index: -1
+effect/hit_quan_00005
+  rotate: true
+  xy: 219, 17
+  size: 17, 63
+  orig: 20, 70
+  offset: 1, 3
+  index: -1
+effect/hit_quan_00006
+  rotate: false
+  xy: 267, 190
+  size: 17, 65
+  orig: 20, 70
+  offset: 1, 2
+  index: -1
+effect/hit_quan_00007
+  rotate: false
+  xy: 267, 122
+  size: 17, 66
+  orig: 20, 70
+  offset: 1, 1
+  index: -1
+effect/hit_quan_00008
+  rotate: true
+  xy: 54, 39
+  size: 18, 66
+  orig: 20, 70
+  offset: 1, 1
+  index: -1
+effect/hit_quan_00009
+  rotate: true
+  xy: 203, 36
+  size: 17, 67
+  orig: 20, 70
+  offset: 1, 1
+  index: -1
+effect/hit_quan_00010
+  rotate: true
+  xy: 203, 55
+  size: 17, 68
+  orig: 20, 70
+  offset: 1, 0
+  index: -1

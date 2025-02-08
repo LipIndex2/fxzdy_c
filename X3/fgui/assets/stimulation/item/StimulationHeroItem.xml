@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,170">
+  <displayList>
+    <component id="n12_str8" name="heroItem" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="0,0"/>
+    <image id="n13_str8" name="n13" src="l2wis9h" fileName="img/dakai1_btn.png" pkg="72zq62ea" xy="6,132" size="124,38" group="n15_str8"/>
+    <text id="n14_str8" name="lbCapacity" xy="68,151" pivot="0.5,0.5" anchor="true" size="100,32" group="n15_str8" fontSize="22" color="#aae2ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="储量+100"/>
+    <group id="n15_str8" name="gAdd" xy="6,132" size="124,38" advanced="true"/>
+  </displayList>
+</component>

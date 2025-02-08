@@ -1,0 +1,146 @@
+
+BOSS_shachong.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it_baixing_00
+  rotate: false
+  xy: 2, 242
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: false
+  xy: 59, 304
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+it_baixing_010
+  rotate: false
+  xy: 274, 293
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+it_baixing_011
+  rotate: true
+  xy: 152, 226
+  size: 108, 122
+  orig: 108, 122
+  offset: 0, 0
+  index: -1
+it_baixing_012
+  rotate: true
+  xy: 200, 141
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+it_baixing_013
+  rotate: false
+  xy: 154, 90
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+it_baixing_014
+  rotate: false
+  xy: 2, 47
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+it_baixing_015
+  rotate: false
+  xy: 76, 100
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+it_baixing_016
+  rotate: false
+  xy: 2, 120
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+it_baixing_017
+  rotate: false
+  xy: 257, 95
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+it_baixing_018
+  rotate: false
+  xy: 79, 50
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+it_baixing_019
+  rotate: false
+  xy: 2, 180
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: false
+  xy: 42, 318
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: false
+  xy: 150, 57
+  size: 131, 31
+  orig: 131, 31
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: 180
+  xy: 173, 23
+  size: 93, 38
+  orig: 93, 38
+  offset: 0, 0
+  index: -1
+it_baixing_05
+  rotate: false
+  xy: 75, 9
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: 180
+  xy: 267, 32
+  size: 66, 62
+  orig: 69, 62
+  offset: 2, 0
+  index: -1
+it_baixing_07
+  rotate: false
+  xy: 2, 229
+  size: 164, 110
+  orig: 164, 110
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: 270
+  xy: 260, 158
+  size: 130, 76
+  orig: 130, 76
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: false
+  xy: 107, 155
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

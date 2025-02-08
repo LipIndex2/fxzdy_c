@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="382,36">
+  <displayList>
+    <text id="n37_dtss" name="T_name" xy="0,0" size="114,36" group="n40_dtss" fontSize="26" color="#ffe792" vAlign="middle" text="等级上限 "/>
+    <text id="n38_dtss" name="T_nextNum" xy="274,0" pivot="1,0" size="108,36" group="n40_dtss" fontSize="26" color="#2ce728" align="right" vAlign="middle" leading="0" autoSize="shrink" text="70450"/>
+    <text id="n39_dtss" name="T_num" xy="119,0" size="95,36" group="n40_dtss" fontSize="26" color="#d5d7d7" vAlign="middle" leading="0" autoSize="shrink" text="9999"/>
+    <image id="n41_dtss" name="n41" src="dtss5x" fileName="btnImage/jiantou_tag_9.png" pkg="38fa8c75" xy="225,3" pivot="0.5,0.5" group="n40_dtss" scale="0.6,0.6"/>
+    <group id="n40_dtss" name="n40" xy="0,0" size="382,36"/>
+  </displayList>
+</component>

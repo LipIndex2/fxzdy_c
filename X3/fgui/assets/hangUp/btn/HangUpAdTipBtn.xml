@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="232,40" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n89_loej" name="lbAd" xy="134,20" pivot="0.5,0.5" anchor="true" size="187,34" group="n91_czc6" fontSize="24" color="#44dd77" align="right" vAlign="middle" underline="true" text="获得免费次数2/2">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <image id="n90_loej" name="n90" src="loejvvv1ge" fileName="iconImage/ad_icon.png" pkg="38fa8c75" xy="3,3" size="34,34" group="n91_czc6">
+      <relation target="n89_loej" sidePair="right-left"/>
+    </image>
+    <group id="n91_czc6" name="n91" xy="3,3" size="225,34"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

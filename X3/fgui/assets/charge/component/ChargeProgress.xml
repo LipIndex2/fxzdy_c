@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,23" extention="ProgressBar">
+  <displayList>
+    <image id="n1_lhcv" name="bar" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="0,3" size="50,17"/>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

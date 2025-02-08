@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="233,121" overflow="hidden">
+  <displayList>
+    <component id="n64_q6dm" name="nextItem" src="q6dm5r" fileName="item/scrollImageItem.xml" xy="234,0" visible="false" touchable="false"/>
+    <component id="n58_6b29" name="item" src="q6dm5r" fileName="item/scrollImageItem.xml" xy="0,0"/>
+  </displayList>
+</component>

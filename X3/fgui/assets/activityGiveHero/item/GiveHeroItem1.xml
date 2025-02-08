@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="187,153" opaque="false">
+  <controller name="c1" pages="0,未领取,1,可领取,2,已领取" selected="1"/>
+  <controller name="c2" pages="0,小奖,1,大奖" selected="0"/>
+  <displayList>
+    <image id="n77_v891" name="n77" src="v891vvv1ee" fileName="bgImage/czzl_blood.png" pkg="38fa8c75" xy="-9,84" size="152,23" group="n81_v891" color="#1d1648"/>
+    <image id="n78_v891" name="img_jdt" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="-7,87" size="152,17" group="n81_v891"/>
+    <image id="n41_0b09" name="n41" src="0b0930" fileName="img/sd_Cchouka_weilingqu.png" xy="109,118" group="n81_v891"/>
+    <image id="n82_v891" name="n82" src="0b0929" fileName="img/sd_Cchouka_yilingqu.png" xy="109,118" group="n81_v891">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </image>
+    <text id="n42_0b09" name="T_day" xy="126,120" pivot="0.5,0.5" size="28,29" group="n81_v891" fontSize="20" align="center" vAlign="middle" text="15">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearColor controller="c1" pages="1,2" values="#000000,#000000|#000000,#000000" default="#f3f3f5,#000000"/>
+    </text>
+    <loader id="n83_v891" name="img_award" xy="95,20" pivot="0.5,0.5" size="92,87" group="n81_v891" url="ui://1e79bd010b0938" autoSize="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearIcon controller="c2" pages="1" values="ui://1e79bd010b0939" default="ui://1e79bd010b0938"/>
+    </loader>
+    <component id="n84_v891" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="89,14" group="n81_v891" scale="0.9,0.9">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <group id="n81_v891" name="n81" xy="-9,14" size="202,135"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n83_v891" tween="true" startValue="95,20" endValue="95,0" duration="7"/>
+    <item time="7" type="XY" target="n83_v891" tween="true" startValue="95,0" endValue="95,20" duration="5"/>
+    <item time="12" type="XY" target="n83_v891" tween="true" startValue="95,20" endValue="95,0" duration="6"/>
+    <item time="18" type="XY" target="n83_v891" tween="true" startValue="95,0" endValue="95,20" duration="6"/>
+    <item time="48" type="XY" target="n83_v891" value="95,20"/>
+  </transition>
+</component>

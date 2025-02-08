@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="250,23" extention="Slider">
+  <displayList>
+    <image id="n0_matv" name="n0" src="be4138" fileName="img/sd_A_common_pmd_msg.png" xy="0,0" size="250,23">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_matv" name="bar" src="be4139" fileName="img/sd_A_common_tianfu_blood.png" xy="40,2" size="199,19"/>
+    <image id="n3_uug0" name="bar1" src="be4139" fileName="img/sd_A_common_tianfu_blood.png" xy="2,2" size="41,19"/>
+    <component id="n2_matv" name="grip" src="matv4j" fileName="component/buySlider_grip.xml" xy="221,-13" size="32,46">
+      <relation target="n1_matv" sidePair="right-right"/>
+      <relation target="" sidePair="left-left,left-right,left-center"/>
+    </component>
+  </displayList>
+  <Slider wholeNumbers="true"/>
+</component>

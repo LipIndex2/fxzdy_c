@@ -1,0 +1,139 @@
+
+gw_dijing.png
+size: 174,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dhg
+  rotate: true
+  xy: 156, 14
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+js02
+  rotate: true
+  xy: 156, 14
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+ff
+  rotate: false
+  xy: 131, 3
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+js00
+  rotate: false
+  xy: 131, 3
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 155, 4
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+vg
+  rotate: false
+  xy: 155, 4
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+js010
+  rotate: true
+  xy: 79, 4
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 161, 28
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 99, 4
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 143, 27
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 165, 9
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+js04
+  rotate: true
+  xy: 131, 10
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+js05
+  rotate: true
+  xy: 44, 4
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+js06
+  rotate: 180
+  xy: 142, 4
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 164, 18
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 2, 3
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 63, 3
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+yjt
+  rotate: false
+  xy: 106, 9
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 106, 9
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1

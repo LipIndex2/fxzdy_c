@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,119" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n228_piwi" name="imageBox" xy="0,0" size="142,119" url="ui://556f0e8b8a38106"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

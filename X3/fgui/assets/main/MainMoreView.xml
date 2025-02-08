@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageAlpha="30" designImageLayer="1">
+  <displayList>
+    <component id="n32_phyf" name="btn_close" src="phyf4n" fileName="MainMoreCloseBtn.xml" xy="612,1213" group="n33_kp3w"/>
+    <group id="n33_kp3w" name="footerP" xy="612,1213" size="134,118" group="n34_kp3w" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n2_1294" name="bgTab" src="hqcj62" fileName="img/moreFrame.png" xy="465,38" size="281,1209" group="n34_kp3w">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <list id="n23_j6z9" name="btnList" xy="489,327" size="279,857" group="n34_kp3w" overflow="scroll" scrollBarFlags="16" defaultItem="ui://8982be53gtyg53" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item title="设置" icon="ui://8982be53j6z9b" name="setting"/>
+      <item title="公告" icon="ui://8982be53j6z9d" name="notice"/>
+      <item title="邮件" icon="ui://8982be53j6z9c" name="email"/>
+      <item title="排行" icon="ui://8982be53j6z9a" name="rank"/>
+      <item title="商店" icon="ui://8982be53j6z9d" name="shop"/>
+      <item title="任务" icon="ui://8982be53j6z9a" name="task"/>
+      <item title="背包" icon="ui://8982be536b2914" name="backpack"/>
+    </list>
+    <component id="n28_qoer" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="599,142" pivot="0.5,0.5" anchor="true" size="113,114" group="n31_phyf"/>
+    <text id="n16_1294" name="T_name" xy="598,217" pivot="0.5,0.5" anchor="true" size="230,34" group="n31_phyf" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="天河吴彦祖"/>
+    <text id="n17_1294" name="T_ID" xy="599,256" pivot="0.5,0.5" anchor="true" size="246,34" group="n31_phyf" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="ID：123456789012345678"/>
+    <group id="n31_phyf" name="headP" xy="476,85" size="246,188" group="n34_kp3w"/>
+    <group id="n34_kp3w" name="G_main" xy="465,38" size="303,1293" advanced="true">
+      <relation target="" sidePair="height-height"/>
+    </group>
+  </displayList>
+</component>

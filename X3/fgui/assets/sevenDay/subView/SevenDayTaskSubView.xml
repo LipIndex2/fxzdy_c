@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1337">
+  <controller name="isChooseNextDay" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n83_f3sk" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-240" pivot="0,1" anchor="true" size="750,250" scale="1,-1" color="#773b43">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n84_f3sk" name="top_bg2" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,1853" pivot="0,1" anchor="true" size="750,250" color="#daa263">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n1_6950" name="adapt_bg" src="hcpc27" fileName="bg/bgTask.png" xy="0,0" size="750,1626">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <image id="n62_hcpc" name="n62" src="hcpc1c" fileName="img/biaotidi.png" xy="27,45"/>
+    <list id="n61_hcpc" name="taskList" xy="162,590" size="571,581" overflow="scroll" lineGap="5" defaultItem="ui://5d5abdd8hcpc1k" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n64_hcpc" name="taskDayList" xy="30,591" size="130,577" overflow="scroll" lineGap="15" defaultItem="ui://5d5abdd8hcpc1p" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n72_hcpc" name="progressList" xy="149,334" size="585,188" layout="row" scroll="horizontal" colGap="-15" defaultItem="ui://5d5abdd8hcpc1u" renderOrder="descent" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n66_hcpc" name="n66" xy="158,198" size="247,48" group="n71_hcpc" fontSize="35" color="#fcf6d7" vAlign="middle" strokeColor="#79130b" strokeSize="3" text="前排，全体加盾"/>
+    <text id="n67_hcpc" name="n67" xy="51,183" size="103,66" group="n71_hcpc" fontSize="50" color="#25fbe9" vAlign="middle" strokeColor="#025c5b" strokeSize="3" text="超强"/>
+    <text id="n68_hcpc" name="n68" xy="239,254" size="177,48" group="n71_hcpc" fontSize="35" color="#fcf6d7" vAlign="middle" strokeColor="#781f25" strokeSize="3" text="领神话英雄"/>
+    <text id="n69_hcpc" name="n69" xy="412,238" size="103,66" group="n71_hcpc" fontSize="50" color="#ffd850" vAlign="middle" strokeColor="#781f25" strokeSize="3" text="赫娅"/>
+    <text id="n70_hcpc" name="n70" xy="137,239" size="103,66" group="n71_hcpc" fontSize="50" color="#25fbe9" vAlign="middle" strokeColor="#025c5b" strokeSize="3" text="免费"/>
+    <group id="n71_hcpc" name="G_title2" xy="51,183" size="464,122"/>
+    <text id="n76_hcpc" name="labelTitleRestTimeLeft" xy="47,121" size="111,29" group="n75_hcpc" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <text id="n43_6950" name="labelRestTime" xy="163,120" size="99,29" group="n75_hcpc" fontSize="20" color="#6aff63" vAlign="middle" text="5天30小时"/>
+    <component id="n47_6950" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="323,74" group="n75_hcpc"/>
+    <image id="n86_f36l" name="n86" src="f36l2d" fileName="img/title_task.png" xy="49,57" group="n75_hcpc"/>
+    <group id="n75_hcpc" name="G_title1" xy="47,57" size="317,93"/>
+    <image id="n29_6950" name="n29" src="hcpc1b" fileName="img/dangqianjindu_4.png" xy="22,380" size="123,127" group="n78_hcpc"/>
+    <text id="n30_6950" name="labelProgress" xy="45,397" pivot="0.5,0.5" size="92,65" group="n78_hcpc" fontSize="49" color="#ffffff" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="100"/>
+    <text id="n31_6950" name="n31" xy="38,472" size="107,36" group="n78_hcpc" fontSize="26" color="#ffffff" vAlign="middle" text="当前进度"/>
+    <component id="n85_l63i" name="nodePoint" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="92,429" group="n78_hcpc"/>
+    <group id="n78_hcpc" name="G_barBox" xy="22,380" size="123,128"/>
+    <image id="n81_gsa5" name="n81" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="178,783" size="553,113" group="n82_gsa5">
+      <gearLook controller="isChooseNextDay" pages="0" values="1,0,0,0" default="0.6,0,0,0"/>
+    </image>
+    <text id="n80_gsa5" name="labelNextDayTips" xy="310,814" pivot="0.5,0.5" size="289,49" group="n82_gsa5" fontSize="36" color="#ffffff" align="center" text="任务将于明日开启"/>
+    <group id="n82_gsa5" name="G_next" xy="178,783" size="553,113" advanced="true">
+      <gearDisplay controller="isChooseNextDay" pages="1"/>
+    </group>
+    <loader id="n79_gsa5" name="fgTaskMask" xy="162,595" size="576,573" url="ui://38fa8c75rxmbvvv1do" fill="scaleFree">
+      <gearDisplay controller="isChooseNextDay" pages="1"/>
+      <gearLook controller="isChooseNextDay" pages="1" values="0.3,0,0,1" default="1,0,0,1"/>
+      <relation target="" sidePair="height-height"/>
+    </loader>
+  </displayList>
+</component>

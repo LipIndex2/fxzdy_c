@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n15_ut0g" name="bgBtn" xy="375,667" pivot="0.5,0.5" anchor="true" size="750,1334" alpha="0.7" type="rect" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n13_ukhs" name="bg" xy="64,431" size="621,472" group="n16_ut0g" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n12_ukhs" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" xy="89,522" size="571,202" group="n16_ut0g" pkg="38fa8c75"/>
+    <text id="n8_4751" name="labelTitle" xy="249,457" size="255,48" group="n16_ut0g" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="提示"/>
+    <richtext id="n14_e1fv" name="labelContent" xy="101,534" pivot="0.5,0.5" size="545,178" group="n16_ut0g" fontSize="26" color="#ddfbff" align="center" vAlign="middle" ubb="true" autoSize="none" text="是否删除所有已读邮件"/>
+    <component id="n10_fsx5" name="btnNo" src="ckiev14x" fileName="btn/BtnChangGui3.xml" xy="233,807" pivot="0.5,0.5" anchor="true" group="n17_cs7d" scale="0.8,0.8" pkg="38fa8c75">
+      <Button title="取消"/>
+    </component>
+    <component id="n9_fsx5" name="btnYes" src="ckiev14y" fileName="btn/BtnChangGui1.xml" xy="516,807" pivot="0.5,0.5" anchor="true" size="268,122" group="n17_cs7d" scale="0.8,0.8" pkg="38fa8c75">
+      <Button title="确定" titleColor="#effbff" titleFontSize="40" icon="ui://38fa8c75pf1a147"/>
+    </component>
+    <group id="n17_cs7d" name="n17" xy="99,746" size="551,122" group="n16_ut0g"/>
+    <group id="n16_ut0g" name="n16" xy="64,431" size="621,472" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

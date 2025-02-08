@@ -1,0 +1,111 @@
+
+attack_lower.png
+size: 410,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_ci1_00000
+  rotate: false
+  xy: 190, 509
+  size: 147, 37
+  orig: 176, 50
+  offset: 5, 7
+  index: -1
+effect/attack_ci1_00001
+  rotate: true
+  xy: 353, 545
+  size: 153, 49
+  orig: 176, 50
+  offset: 23, 0
+  index: -1
+effect/attack_ci1_00002
+  rotate: true
+  xy: 357, 411
+  size: 132, 46
+  orig: 176, 50
+  offset: 40, 0
+  index: -1
+effect/attack_ci1_00003
+  rotate: false
+  xy: 275, 7
+  size: 97, 46
+  orig: 176, 50
+  offset: 63, 0
+  index: -1
+effect/attack_jiaoyin1
+  rotate: true
+  xy: 349, 188
+  size: 134, 57
+  orig: 140, 62
+  offset: 3, 3
+  index: -1
+effect/attack_jiaoyin2
+  rotate: true
+  xy: 366, 82
+  size: 104, 42
+  orig: 110, 47
+  offset: 3, 3
+  index: -1
+effect/attack_quan_00000
+  rotate: true
+  xy: 275, 55
+  size: 90, 89
+  orig: 200, 200
+  offset: 59, 50
+  index: -1
+effect/attack_quan_00001
+  rotate: false
+  xy: 149, 23
+  size: 124, 122
+  orig: 200, 200
+  offset: 41, 38
+  index: -1
+effect/attack_quan_00002
+  rotate: false
+  xy: 2, 2
+  size: 145, 143
+  orig: 200, 200
+  offset: 31, 28
+  index: -1
+effect/attack_quan_00003
+  rotate: false
+  xy: 190, 548
+  size: 161, 150
+  orig: 200, 200
+  offset: 22, 24
+  index: -1
+effect/attack_quan_00004
+  rotate: true
+  xy: 186, 147
+  size: 175, 161
+  orig: 200, 200
+  offset: 13, 19
+  index: -1
+effect/attack_quan_00005
+  rotate: true
+  xy: 187, 324
+  size: 179, 168
+  orig: 200, 200
+  offset: 11, 15
+  index: -1
+effect/attack_quan_00006
+  rotate: false
+  xy: 2, 147
+  size: 182, 175
+  orig: 200, 200
+  offset: 10, 11
+  index: -1
+effect/attack_quan_00007
+  rotate: false
+  xy: 2, 324
+  size: 183, 183
+  orig: 200, 200
+  offset: 10, 8
+  index: -1
+effect/attack_quan_00008
+  rotate: false
+  xy: 2, 509
+  size: 186, 189
+  orig: 200, 200
+  offset: 8, 5
+  index: -1

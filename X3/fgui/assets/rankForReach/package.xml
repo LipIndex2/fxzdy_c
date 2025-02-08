@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bxsu8l61">
+  <resources>
+    <component id="ksmg0" name="RankForReachMainView.xml" path="/"/>
+    <image id="ksmg1" name="tgcb_bg.jpg" path="/img/"/>
+    <component id="ksmg2" name="RankTop3Comp.xml" path="/com/"/>
+    <component id="ksmg3" name="RankForReachTabBtn.xml" path="/btn/"/>
+    <image id="ksmg4" name="hd_yeqian02_4.png" path="/img/"/>
+    <image id="ksmg5" name="hd_yeqian01.png" path="/img/"/>
+    <component id="ksmg6" name="RankForReachRewardRowComp.xml" path="/com/"/>
+    <image id="ksmg7" name="liebiao.png" path="/img/"/>
+    <image id="ksmg8" name="xingzhuang32.png" path="/img/"/>
+    <image id="ksmg9" name="wode_6.png" path="/img/"/>
+    <component id="ksmga" name="RankForReachValueRowComp.xml" path="/com/"/>
+    <image id="ksmgb" name="ziji_frame.png" path="/img/"/>
+    <image id="ksmgc" name="ziji1_frame.png" path="/img/"/>
+    <image id="ksmgd" name="quanfushoutong_86.png" path="/img/"/>
+    <image id="ksmge" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

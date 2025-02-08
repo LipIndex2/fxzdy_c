@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n6_vet6" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,606"/>
+    <text id="n7_vet6" name="titleLab" xy="375,667" pivot="0.5,0.5" anchor="true" size="552,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" vars="true" autoSize="none" strokeColor="#090800" strokeSize="3" text="跳过战斗中{dot}"/>
+  </displayList>
+</component>

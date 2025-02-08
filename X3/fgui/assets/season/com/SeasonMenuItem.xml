@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="698,320">
+  <displayList>
+    <loader id="n18_uk3p" name="bgIcon" xy="60,57" size="632,228" group="n14_uk3p" url="ui://c8c5d312eab537" clearOnPublish="true"/>
+    <text id="n5_uk3p" name="lbDes" xy="90,138" size="339,36" group="n14_uk3p" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="完成养成任务，领取丰厚奖励"/>
+    <text id="n6_uk3p" name="lbTitle" xy="92,85" size="154,52" group="n14_uk3p" fontSize="38" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="积分任务"/>
+    <image id="n9_uk3p" name="imgTitle" src="eab545" fileName="img/sjkj_scd.png" xy="63,2" size="227,47" group="n14_uk3p"/>
+    <text id="n10_uk3p" name="lbState" xy="187,4" size="90,40" group="n14_uk3p" fontSize="29" color="#9ed9ff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="已结束"/>
+    <component id="n20_uk3p" name="bar" src="uk3p89" fileName="btn/SeasonMenuBar.xml" xy="44,24" size="300,28" group="n14_uk3p" rotation="90">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n13_uk3p" name="n13" src="eab549" fileName="img/liang_19.png" xy="3,-2" size="54,56" group="n14_uk3p"/>
+    <component id="n17_uk3p" name="btnGo" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="493,197" size="172,71" group="n14_uk3p">
+      <Button title="进入" titleFontSize="36"/>
+    </component>
+    <text id="n16_uk3p" name="lbS" xy="85,1" size="84,43" group="n14_uk3p" fontSize="31" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="赛程1"/>
+    <component id="n19_uk3p" name="lisitem" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="90,182" size="384,109" group="n14_uk3p" scale="0.83,0.83"/>
+    <image id="n21_u8y2" name="imgTag" src="eab549" fileName="img/liang_19.png" xy="4,295" size="54,56" group="n14_uk3p"/>
+    <component id="n23_hz6e" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="635,78" size="20,20" group="n14_uk3p" touchable="false" controller="type,2">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <group id="n14_uk3p" name="n14" xy="3,-2" size="689,353" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

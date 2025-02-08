@@ -1,0 +1,69 @@
+
+attack_bullet.png
+size: 426,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Effect/pugongdandao_1
+  rotate: false
+  xy: 2, 2
+  size: 45, 227
+  orig: 64, 256
+  offset: 10, 29
+  index: -1
+images/Effect/pugongdandao_2
+  rotate: false
+  xy: 97, 7
+  size: 45, 222
+  orig: 64, 256
+  offset: 10, 30
+  index: -1
+images/Effect/pugongdandao_3
+  rotate: false
+  xy: 379, 12
+  size: 45, 217
+  orig: 64, 256
+  offset: 10, 32
+  index: -1
+images/Effect/pugongdandao_4
+  rotate: false
+  xy: 144, 9
+  size: 45, 220
+  orig: 64, 256
+  offset: 10, 29
+  index: -1
+images/Effect/pugongdandao_5
+  rotate: false
+  xy: 49, 9
+  size: 46, 220
+  orig: 64, 256
+  offset: 9, 29
+  index: -1
+images/Effect/pugongdandao_6
+  rotate: false
+  xy: 191, 9
+  size: 45, 220
+  orig: 64, 256
+  offset: 10, 29
+  index: -1
+images/Effect/pugongdandao_7
+  rotate: false
+  xy: 238, 9
+  size: 45, 220
+  orig: 64, 256
+  offset: 10, 29
+  index: -1
+images/Effect/pugongdandao_8
+  rotate: false
+  xy: 285, 9
+  size: 45, 220
+  orig: 64, 256
+  offset: 10, 29
+  index: -1
+images/Effect/pugongdandao_9
+  rotate: false
+  xy: 332, 9
+  size: 45, 220
+  orig: 64, 256
+  offset: 10, 29
+  index: -1

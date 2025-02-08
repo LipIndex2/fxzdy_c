@@ -1,0 +1,111 @@
+
+skill02_lower.png
+size: 493,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_dilie
+  rotate: false
+  xy: 322, 90
+  size: 138, 128
+  orig: 140, 140
+  offset: 1, 4
+  index: -1
+effect/skill02_kuo_00000
+  rotate: true
+  xy: 412, 23
+  size: 65, 60
+  orig: 180, 180
+  offset: 53, 57
+  index: -1
+effect/skill02_kuo_00001
+  rotate: true
+  xy: 322, 2
+  size: 86, 88
+  orig: 180, 180
+  offset: 43, 39
+  index: -1
+effect/skill02_kuo_00002
+  rotate: false
+  xy: 323, 567
+  size: 118, 115
+  orig: 180, 180
+  offset: 29, 34
+  index: -1
+effect/skill02_kuo_00003
+  rotate: false
+  xy: 321, 220
+  size: 144, 141
+  orig: 180, 180
+  offset: 18, 18
+  index: -1
+effect/skill02_kuo_00004
+  rotate: true
+  xy: 164, 361
+  size: 158, 152
+  orig: 180, 180
+  offset: 12, 10
+  index: -1
+effect/skill02_kuo_00005
+  rotate: true
+  xy: 318, 363
+  size: 156, 150
+  orig: 180, 180
+  offset: 15, 11
+  index: -1
+effect/skill02_kuo_00006
+  rotate: false
+  xy: 161, 181
+  size: 158, 160
+  orig: 180, 180
+  offset: 16, 7
+  index: -1
+effect/skill02_kuo_00007
+  rotate: false
+  xy: 2, 343
+  size: 160, 167
+  orig: 180, 180
+  offset: 15, 4
+  index: -1
+effect/skill02_kuo_00008
+  rotate: false
+  xy: 2, 512
+  size: 160, 170
+  orig: 180, 180
+  offset: 13, 3
+  index: -1
+effect/skill02_kuo_00009
+  rotate: false
+  xy: 2, 176
+  size: 157, 165
+  orig: 180, 180
+  offset: 12, 7
+  index: -1
+effect/skill02_kuo_00010
+  rotate: false
+  xy: 163, 18
+  size: 157, 161
+  orig: 180, 180
+  offset: 11, 9
+  index: -1
+effect/skill02_kuo_00011
+  rotate: false
+  xy: 164, 521
+  size: 157, 161
+  orig: 180, 180
+  offset: 12, 9
+  index: -1
+effect/skill02_kuo_00012
+  rotate: false
+  xy: 2, 12
+  size: 159, 162
+  orig: 180, 180
+  offset: 11, 8
+  index: -1
+effect/skill02_yuan
+  rotate: false
+  xy: 443, 634
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1

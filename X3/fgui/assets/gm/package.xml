@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t846cdz6">
+  <resources>
+    <component id="m43k0" name="GMView.xml" path="/"/>
+    <image id="m43k1" name="backpackForeground.png" path="/img/"/>
+    <image id="m43k2" name="bagpackBackground.png" path="/img/"/>
+    <component id="m43k3" name="iconItem.xml" path="/"/>
+    <image id="m43k4" name="chooseItemMask.png" path="/img/" scale="9grid" scale9grid="25,25,50,50"/>
+    <image id="m43k5" name="chooseItemImage.png" path="/img/" scale="9grid" scale9grid="14,11,28,22"/>
+    <component id="m43k6" name="ButtonGmTypeView.xml" path="/"/>
+    <image id="m43k7" name="itemTypeTabBg.png" path="/img/" scale="9grid" scale9grid="86,17,31,5"/>
+    <image id="m43k8" name="itemTypeTabChooseBg.png" path="/img/" scale="9grid" scale9grid="99,16,18,2"/>
+    <component id="m43k9" name="buttonAddItem.xml" path="/"/>
+    <component id="m43ka" name="GMItemView.xml" path="/"/>
+    <component id="b1chb" name="GMOneKeyButtonChildView.xml" path="/oneKey/"/>
+    <component id="b1chc" name="BtnGm.xml" path="/common/"/>
+    <component id="qj7yf" name="GMAssetCheckerChildView.xml" path="/assetChecker/"/>
+    <component id="fsx5g" name="GMSpineCheckerView.xml" path="/spineChecker/"/>
+    <component id="fsx5h" name="InputBox1.xml" path="/common/"/>
+    <component id="fsx5l" name="BtnCheckBox.xml" path="/common/"/>
+    <component id="fsx5m" name="GMEmailView.xml" path="/email/"/>
+    <component id="fsx5n" name="inputBoxComp.xml" path="/common/"/>
+    <component id="ukhso" name="inputEditBoxComp.xml" path="/common/"/>
+    <component id="ukhsp" name="inputEditBoxContentComp.xml" path="/common/"/>
+    <component id="l0ieq" name="GMAddServerTimeView.xml" path="/serverTime/"/>
+    <component id="l0ier" name="GMTaskView.xml" path="/task/"/>
+    <component id="dclxs" name="GMHeroAttrView.xml" path="/"/>
+    <component id="9h0at" name="MapBlockExportView.xml" path="/buildingEditor/"/>
+    <component id="phyfu" name="DrawCardTestNewHeroComp.xml" path="/drawCard/"/>
+    <component id="phyfv" name="Text2PartComp.xml" path="/common/"/>
+    <component id="105pvw" name="GMGuideView.xml" path="/"/>
+    <component id="rqztvx" name="BuildingEditorView.xml" path="/buildingEditor/"/>
+    <image id="rqztvy" name="changgui_btn.png" path="/img/" scale="9grid" scale9grid="18,19,193,62"/>
+    <component id="rqztvz" name="yellowBtn.xml" path="/common/"/>
+    <component id="gkgvw0" name="GMLevelView.xml" path="/level/"/>
+    <component id="ee3zw1" name="GMFightView.xml" path="/"/>
+    <component id="ee3zw2" name="GMFightItem.xml" path="/"/>
+    <component id="ee3z155" name="BattleLogView.xml" path="/"/>
+    <component id="ee3zw7" name="BattleLogOneItem.xml" path="/"/>
+    <component id="ee3zw9" name="BattleTestView.xml" path="/"/>
+    <component id="tkxd156" name="GMInputBoxComp.xml" path="/common/"/>
+    <component id="ee3z15a" name="GMFightSelectList.xml" path="/fight/"/>
+    <component id="ee3z15b" name="GMFightSelectItem.xml" path="/fight/"/>
+    <component id="aqfj15c" name="GMTransferMapView.xml" path="/"/>
+    <component id="ffqt15d" name="GMPVPScoreView.xml" path="/pvp/"/>
+    <component id="m7dh15e" name="MapInfoView.xml" path="/buildingEditor/"/>
+    <component id="f2nq15f" name="GMTrunkTaskView.xml" path="/task/"/>
+    <component id="v89115e" name="GMUnlockBuildingView.xml" path="/"/>
+    <component id="v89115g" name="GMTrunkTaskView.xml" path="/task/"/>
+    <component id="tqjl15h" name="GMAddItemTextView.xml" path="/item/"/>
+    <component id="v89115i" name="GMOneClickStrongerView.xml" path="/oneClickStronger/"/>
+    <component id="v89115j" name="InputItem1.xml" path="/oneClickStronger/"/>
+    <component id="v89115k" name="GMSelectList.xml" path="/oneClickStronger/"/>
+    <component id="v89115l" name="GMSelectItem.xml" path="/oneClickStronger/"/>
+    <component id="p04m15m" name="BattleAttrOneItem.xml" path="/"/>
+    <component id="vx1g15n" name="SetHotUpdateView.xml" path="/hotUpdate/"/>
+    <component id="m2go15o" name="PerformanceView.xml" path="/performance/"/>
+    <component id="str815p" name="GMVideoView.xml" path="/video/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

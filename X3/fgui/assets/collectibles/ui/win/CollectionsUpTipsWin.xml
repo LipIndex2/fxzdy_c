@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klupes94" designImageAlpha="31">
+  <displayList>
+    <loader id="n220_lupe" name="bg" xy="-125,-146" size="1000,1626" url="ui://7cvz7rmmdclxx">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n132_a01c" name="n132" src="lupe1d" fileName="img/sxcg_frame.png" xy="107,546" pivot="0.5,0" size="534,745" group="n208_lupe" alpha="0.6"/>
+    <image id="n133_a01c" name="n133" src="6ihgvvv1e3" fileName="peiyang/dizuo.png" pkg="72zq62ea" xy="103,324" group="n208_lupe"/>
+    <loader id="n134_a01c" name="collectionIcon" xy="223,211" pivot="0.5,1" size="303,255" group="n208_lupe" align="center" vAlign="bottom" clearOnPublish="true"/>
+    <image id="n158_a01c" name="n158" src="03e415" fileName="bgImage/gxhdbt_frame.png" pkg="38fa8c75" xy="212,78" pivot="0.5,0.5" group="n208_lupe"/>
+    <loader id="n159_a01c" name="n159" xy="247,81" pivot="0.5,0.5" size="255,53" group="n208_lupe" url="ui://tkr2g69tlupe1c" align="center" vAlign="middle"/>
+    <component id="n221_lupe" name="closeBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="220,1135" size="310,122" group="n208_lupe">
+      <Button title="太棒了"/>
+    </component>
+    <component id="n228_lupe" name="star" src="pmhw119" fileName="ui/win/UpTipsWin/CollectionsUpTipsStarPanel.xml" xy="111,645" group="n208_lupe"/>
+    <component id="n229_6v98" name="transitionUse" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="275,1291" size="200,1" group="n208_lupe" visible="false" touchable="false"/>
+    <group id="n208_lupe" name="root" xy="103,78" size="543,1214" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <relation target="n221_lupe" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n134_a01c" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n221_lupe" value="0"/>
+    <item time="0" type="Scale" target="n134_a01c" tween="true" startValue="0,0" endValue="1,1" duration="10"/>
+    <item time="0" type="Scale" target="n158_a01c" value="0,0"/>
+    <item time="0" type="Scale" target="n159_a01c" value="0,0"/>
+    <item time="0" type="Size" target="n132_a01c" value="0,0"/>
+    <item time="3" type="Scale" target="n158_a01c" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="3" type="Scale" target="n159_a01c" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="8" type="Size" target="n132_a01c" tween="true" startValue="0,0" endValue="534,200" duration="6"/>
+    <item time="14" type="Size" target="n132_a01c" tween="true" startValue="534,200" endValue="534,745" duration="5" ease="Circ.Out"/>
+    <item time="18" type="Alpha" target="n221_lupe" tween="true" startValue="0" endValue="1" duration="2"/>
+  </transition>
+</component>

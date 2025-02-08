@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,124" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n2_rxmb" name="btn_addHero1" src="105pvv185" fileName="bgImage/jnmb_frame.png" pkg="38fa8c75" xy="6,0" size="112,124" alpha="0.3">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n3_rxmb" name="n3" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="20,20" size="84,84">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n4_rxmb" name="n4" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="124,124" alpha="0.21">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n5_rxmb" name="n5" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="37,37" size="49,49">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

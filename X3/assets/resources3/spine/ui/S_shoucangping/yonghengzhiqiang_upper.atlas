@@ -1,0 +1,286 @@
+
+yonghengzhiqiang_upper.png
+size: 1197,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huangxiong_skill02_bao_add
+  rotate: false
+  xy: 622, 2
+  size: 150, 120
+  orig: 180, 150
+  offset: 14, 13
+  index: -1
+effect/huangxiong_skill02_hit_0
+  rotate: false
+  xy: 1064, 33
+  size: 81, 41
+  orig: 400, 250
+  offset: 158, 35
+  index: -1
+effect/huangxiong_skill02_hit_1
+  rotate: false
+  xy: 774, 22
+  size: 153, 100
+  orig: 400, 250
+  offset: 123, 30
+  index: -1
+effect/huangxiong_skill02_hit_10
+  rotate: false
+  xy: 318, 727
+  size: 313, 235
+  orig: 400, 250
+  offset: 37, 8
+  index: -1
+effect/huangxiong_skill02_hit_11
+  rotate: false
+  xy: 2, 726
+  size: 314, 236
+  orig: 400, 250
+  offset: 37, 7
+  index: -1
+effect/huangxiong_skill02_hit_12
+  rotate: false
+  xy: 883, 234
+  size: 308, 128
+  orig: 400, 250
+  offset: 44, 6
+  index: -1
+effect/huangxiong_skill02_hit_13
+  rotate: false
+  xy: 570, 240
+  size: 311, 129
+  orig: 400, 250
+  offset: 41, 6
+  index: -1
+effect/huangxiong_skill02_hit_14
+  rotate: false
+  xy: 256, 373
+  size: 312, 130
+  orig: 400, 250
+  offset: 40, 5
+  index: -1
+effect/huangxiong_skill02_hit_15
+  rotate: false
+  xy: 570, 371
+  size: 312, 130
+  orig: 400, 250
+  offset: 40, 5
+  index: -1
+effect/huangxiong_skill02_hit_16
+  rotate: false
+  xy: 256, 239
+  size: 312, 130
+  orig: 400, 250
+  offset: 39, 5
+  index: -1
+effect/huangxiong_skill02_hit_17
+  rotate: false
+  xy: 2, 123
+  size: 311, 114
+  orig: 400, 250
+  offset: 37, 5
+  index: -1
+effect/huangxiong_skill02_hit_18
+  rotate: false
+  xy: 315, 127
+  size: 311, 110
+  orig: 400, 250
+  offset: 36, 7
+  index: -1
+effect/huangxiong_skill02_hit_19
+  rotate: false
+  xy: 628, 124
+  size: 305, 108
+  orig: 400, 250
+  offset: 36, 7
+  index: -1
+effect/huangxiong_skill02_hit_2
+  rotate: false
+  xy: 935, 76
+  size: 206, 156
+  orig: 400, 250
+  offset: 91, 19
+  index: -1
+effect/huangxiong_skill02_hit_20
+  rotate: false
+  xy: 315, 17
+  size: 305, 108
+  orig: 400, 250
+  offset: 36, 7
+  index: -1
+effect/huangxiong_skill02_hit_3
+  rotate: false
+  xy: 2, 315
+  size: 252, 189
+  orig: 400, 250
+  offset: 72, 16
+  index: -1
+effect/huangxiong_skill02_hit_4
+  rotate: true
+  xy: 937, 364
+  size: 291, 205
+  orig: 400, 250
+  offset: 53, 12
+  index: -1
+effect/huangxiong_skill02_hit_5
+  rotate: false
+  xy: 2, 506
+  size: 297, 218
+  orig: 400, 250
+  offset: 47, 12
+  index: -1
+effect/huangxiong_skill02_hit_6
+  rotate: false
+  xy: 318, 505
+  size: 299, 220
+  orig: 400, 250
+  offset: 47, 10
+  index: -1
+effect/huangxiong_skill02_hit_7
+  rotate: false
+  xy: 633, 503
+  size: 302, 224
+  orig: 400, 250
+  offset: 46, 9
+  index: -1
+effect/huangxiong_skill02_hit_8
+  rotate: true
+  xy: 945, 657
+  size: 305, 227
+  orig: 400, 250
+  offset: 43, 8
+  index: -1
+effect/huangxiong_skill02_hit_9
+  rotate: false
+  xy: 633, 729
+  size: 310, 233
+  orig: 400, 250
+  offset: 40, 8
+  index: -1
+effect/huangxiong_skill02_shou2_add_0
+  rotate: false
+  xy: 122, 15
+  size: 68, 45
+  orig: 80, 50
+  offset: 7, 5
+  index: -1
+effect/huangxiong_skill02_shou2_add_1
+  rotate: false
+  xy: 122, 15
+  size: 68, 45
+  orig: 80, 50
+  offset: 7, 5
+  index: -1
+effect/huangxiong_skill02_shou2_add_2
+  rotate: false
+  xy: 124, 263
+  size: 72, 50
+  orig: 80, 50
+  offset: 6, 0
+  index: -1
+effect/huangxiong_skill02_shou2_add_4
+  rotate: false
+  xy: 929, 25
+  size: 69, 49
+  orig: 80, 50
+  offset: 7, 0
+  index: -1
+effect/huangxiong_skill02_shou2_add_5
+  rotate: false
+  xy: 63, 71
+  size: 69, 50
+  orig: 80, 50
+  offset: 7, 0
+  index: -1
+effect/huangxiong_skill02_shou2_add_7
+  rotate: false
+  xy: 192, 14
+  size: 67, 44
+  orig: 80, 50
+  offset: 7, 4
+  index: -1
+effect/huangxiong_skill02_shou2_add_8
+  rotate: true
+  xy: 1144, 589
+  size: 66, 44
+  orig: 80, 50
+  offset: 7, 5
+  index: -1
+effect/huangxiong_skill02_shou_add_0
+  rotate: true
+  xy: 1000, 20
+  size: 54, 62
+  orig: 65, 65
+  offset: 6, 3
+  index: -1
+effect/huangxiong_skill02_shou_add_1
+  rotate: false
+  xy: 2, 250
+  size: 59, 63
+  orig: 65, 65
+  offset: 2, 2
+  index: -1
+effect/huangxiong_skill02_shou_add_10
+  rotate: false
+  xy: 198, 260
+  size: 55, 53
+  orig: 65, 65
+  offset: 4, 6
+  index: -1
+effect/huangxiong_skill02_shou_add_2
+  rotate: false
+  xy: 2, 60
+  size: 59, 61
+  orig: 65, 65
+  offset: 2, 4
+  index: -1
+effect/huangxiong_skill02_shou_add_3
+  rotate: false
+  xy: 63, 250
+  size: 59, 63
+  orig: 65, 65
+  offset: 2, 2
+  index: -1
+effect/huangxiong_skill02_shou_add_4
+  rotate: false
+  xy: 194, 60
+  size: 56, 61
+  orig: 65, 65
+  offset: 4, 3
+  index: -1
+effect/huangxiong_skill02_shou_add_5
+  rotate: false
+  xy: 134, 62
+  size: 58, 59
+  orig: 65, 65
+  offset: 2, 4
+  index: -1
+effect/huangxiong_skill02_shou_add_6
+  rotate: false
+  xy: 252, 66
+  size: 58, 55
+  orig: 65, 65
+  offset: 2, 5
+  index: -1
+effect/huangxiong_skill02_shou_add_7
+  rotate: true
+  xy: 1144, 530
+  size: 57, 51
+  orig: 65, 65
+  offset: 3, 7
+  index: -1
+effect/huangxiong_skill02_shou_add_8
+  rotate: false
+  xy: 63, 15
+  size: 57, 54
+  orig: 65, 65
+  offset: 3, 6
+  index: -1
+effect/huangxiong_skill02_shou_add_9
+  rotate: false
+  xy: 2, 6
+  size: 56, 52
+  orig: 65, 65
+  offset: 5, 6
+  index: -1

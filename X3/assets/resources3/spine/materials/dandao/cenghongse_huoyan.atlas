@@ -1,0 +1,13 @@
+
+cenghongse_huoyan.png
+size: 79,22
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dandao
+  rotate: false
+  xy: 2, 2
+  size: 75, 18
+  orig: 75, 18
+  offset: 0, 0
+  index: -1

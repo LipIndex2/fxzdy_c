@@ -1,0 +1,111 @@
+
+baoqi_attack_lower.png
+size: 1002,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tongyong_baoqi_loop_lower_0
+  rotate: false
+  xy: 603, 544
+  size: 289, 150
+  orig: 340, 180
+  offset: 37, 7
+  index: -1
+effect/tongyong_baoqi_loop_lower_1
+  rotate: false
+  xy: 305, 388
+  size: 273, 154
+  orig: 340, 180
+  offset: 23, 6
+  index: -1
+effect/tongyong_baoqi_loop_lower_10
+  rotate: false
+  xy: 579, 131
+  size: 289, 125
+  orig: 340, 180
+  offset: 37, 15
+  index: -1
+effect/tongyong_baoqi_loop_lower_11
+  rotate: true
+  xy: 870, 2
+  size: 254, 129
+  orig: 340, 180
+  offset: 42, 12
+  index: -1
+effect/tongyong_baoqi_loop_lower_12
+  rotate: false
+  xy: 2, 406
+  size: 298, 130
+  orig: 340, 180
+  offset: 21, 11
+  index: -1
+effect/tongyong_baoqi_loop_lower_13
+  rotate: false
+  xy: 293, 140
+  size: 284, 132
+  orig: 340, 180
+  offset: 23, 9
+  index: -1
+effect/tongyong_baoqi_loop_lower_14
+  rotate: false
+  xy: 580, 401
+  size: 285, 141
+  orig: 340, 180
+  offset: 24, 8
+  index: -1
+effect/tongyong_baoqi_loop_lower_2
+  rotate: false
+  xy: 2, 538
+  size: 301, 156
+  orig: 340, 180
+  offset: 18, 5
+  index: -1
+effect/tongyong_baoqi_loop_lower_3
+  rotate: false
+  xy: 305, 544
+  size: 296, 150
+  orig: 340, 180
+  offset: 11, 12
+  index: -1
+effect/tongyong_baoqi_loop_lower_4
+  rotate: false
+  xy: 2, 20
+  size: 285, 120
+  orig: 340, 180
+  offset: 24, 11
+  index: -1
+effect/tongyong_baoqi_loop_lower_5
+  rotate: false
+  xy: 2, 142
+  size: 289, 130
+  orig: 340, 180
+  offset: 37, 9
+  index: -1
+effect/tongyong_baoqi_loop_lower_6
+  rotate: false
+  xy: 289, 10
+  size: 256, 128
+  orig: 340, 180
+  offset: 40, 8
+  index: -1
+effect/tongyong_baoqi_loop_lower_7
+  rotate: false
+  xy: 2, 274
+  size: 298, 130
+  orig: 340, 180
+  offset: 21, 7
+  index: -1
+effect/tongyong_baoqi_loop_lower_8
+  rotate: true
+  xy: 867, 258
+  size: 284, 133
+  orig: 340, 180
+  offset: 23, 6
+  index: -1
+effect/tongyong_baoqi_loop_lower_9
+  rotate: false
+  xy: 580, 264
+  size: 285, 135
+  orig: 340, 180
+  offset: 24, 5
+  index: -1

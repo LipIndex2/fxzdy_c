@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n21_woyg" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="34,335" size="682,611" group="n22_woyg"/>
+    <image id="n2_7c55" name="n2" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="34,335" size="682,611" group="n22_woyg"/>
+    <image id="n3_7c55" name="n3" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,496" size="638,244" group="n22_woyg"/>
+    <list id="n19_woyg" name="listReward" xy="82,521" size="587,193" group="n22_woyg" layout="flow_hz" overflow="scroll" lineGap="16" colGap="16" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n17_woyg" name="btnReset" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="222,764" group="n22_woyg" scale="0.95,0.95"/>
+    <text id="n12_7c55" name="lbTitle" xy="375,384" pivot="0.5,0.5" anchor="true" size="131,44" group="n22_woyg" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="科技重置"/>
+    <richtext id="n18_woyg" name="lbTime" xy="375,902" pivot="0.5,0.5" anchor="true" size="360,36" group="n22_woyg" fontSize="26" color="#ffffff" align="center" vAlign="middle" ubb="true" text="冷却中[color=#12FF00]2天20小时后[/color]可再次重置"/>
+    <richtext id="n20_woyg" name="lbTip" xy="88,439" size="587,36" group="n22_woyg" fontSize="26" color="#ffffff" ubb="true" text="是否[color=#FFD800]重置[/color]全部科技等级，并[color=#FFD800]返还100%[/color]的养成材料？"/>
+    <group id="n22_woyg" name="gAll" xy="34,335" size="682,611" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

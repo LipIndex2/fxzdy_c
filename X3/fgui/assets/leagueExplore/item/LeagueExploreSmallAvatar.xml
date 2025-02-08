@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="42,42" mask="n35_woyg">
+  <displayList>
+    <loader id="n34_woyg" name="imagePlayerAvatar" xy="0,0" pivot="0.5,0.5" size="42,42" url="ui://38fa8c75frvnvvv1e8" align="center" vAlign="middle" fill="scale"/>
+    <graph id="n35_woyg" name="n35" xy="0,0" size="42,42" type="eclipse"/>
+  </displayList>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="199,24" extention="ProgressBar">
+  <displayList>
+    <image id="n0_eowx" name="bg" src="dx6evvv1kr" fileName="building/img/jdu_di.png" xy="0,0" size="199,26">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_eowx" name="bar" src="dx6evvv1ks" fileName="building/img/jdu1_di.png" xy="4,3" size="192,19">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_dx6e" name="title" xy="77,-6" pivot="0.5,0.5" size="45,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" autoClearText="true" text="0/0"/>
+    <image id="n5_dx6e" name="n5" src="dx6evvv1kq" fileName="building/img/boss_huang.png" xy="-37,-13">
+      <relation target="" sidePair="right-left"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

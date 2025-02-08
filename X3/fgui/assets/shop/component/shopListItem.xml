@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,335" designImageOffsetX="-21" designImageOffsetY="-466" designImageLayer="1">
+  <displayList>
+    <image id="n3_be41" name="n3" src="be413" fileName="img/zu19kaobei3.png" xy="0,245"/>
+    <list id="n41_matv" name="goodsList" xy="54,0" size="646,316" layout="row" scroll="horizontal" colGap="7" defaultItem="ui://607146c5uug04z" autoClearItems="true"/>
+  </displayList>
+</component>

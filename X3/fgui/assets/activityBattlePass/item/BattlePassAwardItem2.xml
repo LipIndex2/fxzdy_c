@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="79,76">
+  <displayList>
+    <loader id="n31_bezo" name="img_icon" xy="0,0" pivot="0.5,0.5" size="68,74" scale="0.8,0.8" autoSize="true"/>
+    <text id="n30_b7b6" name="T_Count" xy="51,47" size="28,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#1f0000" strokeSize="3" text="10"/>
+  </displayList>
+</component>

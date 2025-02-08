@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n30_1366" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,432" size="619,470" group="n43_nl4g"/>
+    <text id="n44_nl4g" name="labelTitle" xy="341,458" size="67,44" group="n43_nl4g" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <image id="n31_1366" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,521" size="572,204" group="n43_nl4g"/>
+    <text id="n32_1366" name="labelContent" xy="125,566" size="488,115" group="n43_nl4g" fontSize="26" color="#ddfbff" vAlign="middle" autoSize="none" text="          启用挂机托管后，战斗将缩小至后台进行，您可以继续体验其他玩法。是否确认启用?"/>
+    <component id="n45_nl4g" name="btnL" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="80,744" group="n43_nl4g" scale="0.8,0.8">
+      <Button title="取消"/>
+    </component>
+    <component id="n46_nl4g" name="btnR" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="370,746" size="300,122" group="n43_nl4g" scale="0.8,0.8">
+      <Button title="启用"/>
+    </component>
+    <group id="n43_nl4g" name="G_all" xy="65,432" size="619,470" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

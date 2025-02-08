@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n21_loj0" name="n21" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="325,933">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n22_loj0" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,413" size="619,500" group="n23_loj0"/>
+    <image id="n0_532a" name="n0" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="65,413" size="619,500" group="n23_loj0"/>
+    <image id="n1_532a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,502" size="572,204" group="n23_loj0"/>
+    <loader id="n19_loj0" name="iconLoader" xy="323,524" size="100,96" group="n23_loj0" align="center" vAlign="middle" fill="scale"/>
+    <image id="n14_532a" name="n14" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="325,605" size="99,26" group="n23_loj0" alpha="0.36"/>
+    <component id="n16_loj0" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="271,725" group="n23_loj0"/>
+    <component id="n17_loj0" name="btnSure" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="398,784" size="245,94" group="n23_loj0">
+      <Button title="确定" titleFontSize="34"/>
+    </component>
+    <component id="n18_loj0" name="btnCancel" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="109,784" size="245,94" group="n23_loj0">
+      <Button title="取消" titleFontSize="34"/>
+    </component>
+    <text id="n8_532a" name="n8" xy="372,459" pivot="0.5,0.5" anchor="true" size="131,44" group="n23_loj0" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="删除确认"/>
+    <text id="n11_532a" name="n11" xy="390,747" pivot="0.5,0.5" anchor="true" size="147,34" group="n23_loj0" fontSize="24" color="#f3f3f5" align="center" vAlign="middle" text="本日不再弹出"/>
+    <text id="n15_532a" name="lbLv" xy="374,618" pivot="0.5,0.5" anchor="true" size="59,32" group="n23_loj0" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="lv.10"/>
+    <richtext id="n20_loj0" name="lbAttr" xy="376,667" pivot="0.5,0.5" anchor="true" size="134,36" group="n23_loj0" fontSize="26" color="#defbfd" align="center" vAlign="middle" ubb="true" text="暴击率[color=#6EF96A]+1%[/color]"/>
+    <group id="n23_loj0" name="gAll" xy="65,413" size="619,500" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

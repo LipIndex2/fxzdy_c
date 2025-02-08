@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,83" opaque="false">
+  <displayList>
+    <component id="n111_v891" name="img_icon" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="22,-25" pivot="0.5,1" size="61,46" group="n109_v891">
+      <relation target="n112_v891" sidePair="center-center,bottom-top"/>
+      <Button icon="ui://e477df1c773e41"/>
+    </component>
+    <image id="n57_773e" name="img_red" src="j6z92b" fileName="btnImage/gth_btn.png" pkg="38fa8c75" xy="61,-35" size="22,22" group="n109_v891" visible="false"/>
+    <image id="n112_v891" name="n112" src="v8917r" fileName="img/jiedian.png" xy="45,25" group="n109_v891"/>
+    <image id="n113_v891" name="n113" src="v8917s" fileName="img/jindu2.png" xy="20,46" group="n109_v891"/>
+    <text id="n110_v891" name="T_Count" xy="34,0" pivot="0.5,0.5" size="36,26" group="n109_v891" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="999">
+      <relation target="n112_v891" sidePair="center-center"/>
+    </text>
+    <text id="n52_773e" name="T_num" xy="24,48" pivot="0.5,0.5" size="57,29" group="n109_v891" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="100%"/>
+    <group id="n109_v891" name="n109" xy="20,-35" size="63,112" advanced="true">
+      <relation target="" sidePair="right-right"/>
+    </group>
+  </displayList>
+</component>

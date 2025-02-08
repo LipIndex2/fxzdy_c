@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="380,124">
+  <displayList>
+    <component id="n49_ohdt" name="spineTitle" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="199,70"/>
+    <image id="n15_df6e" name="n15" src="df6e11" fileName="img/chaojisheji.png" xy="0,0" group="n48_v891"/>
+    <image id="n16_df6e" name="n16" src="df6e12" fileName="img/di.png" xy="98,81" group="n48_v891"/>
+    <text id="n17_df6e" name="n17" xy="138,80" size="131,44" group="n48_v891" fontSize="32" color="#22222a" text="刷图必备"/>
+    <group id="n48_v891" name="n48" xy="0,0" size="380,124"/>
+  </displayList>
+</component>

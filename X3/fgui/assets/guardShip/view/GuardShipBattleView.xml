@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <text id="n0_1794" name="lbLv" xy="385,94" pivot="0.5,0.5" anchor="true" size="10,42" group="n21_gs9k" fontSize="30" color="#ffdc60" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text=""/>
+    <text id="n1_1794" name="lbTime" xy="380,164" pivot="0.5,0.5" anchor="true" size="10,29" group="n21_gs9k" visible="false" fontSize="20" color="#02c3fb" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text=""/>
+    <component id="n2_1794" name="btnPlay" src="gs9k8e" fileName="component/GuardShipPlayBtn.xml" xy="627,88" group="n21_gs9k"/>
+    <component id="n3_1794" name="progressLv" src="gs9k8c" fileName="component/GuardShipProgress.xml" xy="138,114" group="n21_gs9k">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n5_1794" name="lbTRound" xy="84,69" pivot="0.5,0.5" anchor="true" size="48,32" group="n21_gs9k" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="波数"/>
+    <image id="n6_1794" name="n6" src="179419" fileName="img/tuoyuan676.png" xy="84,130" pivot="0.5,0.5" anchor="true" group="n21_gs9k"/>
+    <image id="n7_1794" name="n7" src="179420" fileName="img/tuceng674.png" xy="84,129" pivot="0.5,0.5" anchor="true" group="n21_gs9k"/>
+    <text id="n8_1794" name="lbRound" xy="84,177" pivot="0.5,0.5" anchor="true" size="10,32" group="n21_gs9k" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text=""/>
+    <group id="n21_gs9k" name="pTop" xy="42,53" size="665,140" advanced="true"/>
+    <list id="n20_gs9k" name="listBuff" xy="52,197" size="340,82" layout="flow_hz" overflow="scroll" lineGap="6" colGap="10" lineItemCount="8" defaultItem="ui://ae4de3b1gs9k8f" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n22_gs9k" name="listProp" xy="644,700" pivot="1,1" size="90,300" overflow="scroll" lineGap="10" defaultItem="ui://ae4de3b1gs9k8g" vAlign="bottom" autoClearItems="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n23_cth0" name="btnBack" src="d4rvvvv1e9" fileName="back/BtnBack75.xml" pkg="38fa8c75" xy="1,1059">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n25_loej" name="btnHero" src="loej8t" fileName="test/BtnTestHero.xml" xy="700,245"/>
+  </displayList>
+</component>

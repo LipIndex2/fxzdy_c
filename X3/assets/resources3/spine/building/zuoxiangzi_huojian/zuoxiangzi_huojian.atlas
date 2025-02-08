@@ -1,0 +1,146 @@
+
+zuoxiangzi_huojian.png
+size: 107,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: true
+  xy: 88, 32
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 92, 86
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+js010
+  rotate: true
+  xy: 93, 62
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+js011
+  rotate: true
+  xy: 64, 91
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 48, 32
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 78, 114
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 78, 68
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 62, 10
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 83, 16
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 93, 49
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+js018
+  rotate: true
+  xy: 78, 49
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 2, 68
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 8, 3
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+js03
+  rotate: true
+  xy: 82, 86
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+js04
+  rotate: true
+  xy: 64, 59
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 2, 22
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+js06
+  rotate: true
+  xy: 83, 3
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 70, 31
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+js08
+  rotate: true
+  xy: 92, 101
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+js09
+  rotate: 270
+  xy: 33, 4
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

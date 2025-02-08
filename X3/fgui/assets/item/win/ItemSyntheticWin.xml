@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kjqxis75">
+  <displayList>
+    <loader id="n4_3c51" name="bg" xy="81,373" size="587,587" group="n34_jqxi" url="ui://38fa8c753cd618" fill="scaleFree"/>
+    <image id="n6_3c51" name="n6" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="240,411" size="269,46" group="n34_jqxi" color="#435270"/>
+    <component id="n39_jqxi" name="itemBtn" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="324,484" group="n34_jqxi"/>
+    <text id="n7_3c51" name="labelTitle" xy="264,417" pivot="0.5,0" size="214,36" group="n34_jqxi" fontSize="26" color="#f8d554" align="center" vAlign="middle" autoSize="none" text="道具名字"/>
+    <text id="n17_3c51" name="labelItemName" xy="282,597" pivot="0.5,0" size="187,32" group="n34_jqxi" fontSize="22" color="#f8d554" align="center" vAlign="middle" autoSize="none" singleLine="true" text="道具名字"/>
+    <text id="n8_3c51" name="labelContent" xy="108,676" pivot="0.5,0" size="536,32" group="n34_jqxi" fontSize="22" color="#60eaff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="收集60个史诗英雄芯片，可随机召唤一个史诗英雄"/>
+    <component id="n36_jqxi" name="btnOk" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="242,846" size="268,106" group="n34_jqxi" scale="0.9,0.9">
+      <Button title="合成"/>
+    </component>
+    <image id="n10_3c51" name="bgTitle" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="296,732" size="157,29" group="n37_jqxi" color="#000000"/>
+    <text id="n11_3c51" name="labelCount" xy="308,730" size="137,34" group="n37_jqxi" fontSize="24" color="#fefefe" align="center" vAlign="middle" autoSize="none" text="20/100"/>
+    <group id="n37_jqxi" name="n37" xy="296,730" size="157,34" group="n34_jqxi"/>
+    <image id="n29_jqxi" name="n29" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="112,755" size="523,72" group="n41_jqxi" alpha="0.14"/>
+    <component id="n40_jqxi" name="slider" src="jqxi4o" fileName="countSlider/CommonCountSliderComp.xml" pkg="72zq62ea" xy="129,763" size="490,58" group="n41_jqxi"/>
+    <image id="n42_jqxi" name="n42" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="103,652" size="543,6" group="n41_jqxi" color="#435270"/>
+    <group id="n41_jqxi" name="n41" xy="103,652" size="543,174" group="n34_jqxi"/>
+    <text id="n18_3c51" name="labelHoldCountTitle" xy="490,567" pivot="1,0" size="142,32" group="n38_jqxi" fontSize="22" color="#ffffff" align="right" vAlign="middle" autoSize="none" singleLine="true" text="持有数量:"/>
+    <richtext id="n35_jqxi" name="labelHoldCount" xy="517,597" pivot="1,0" size="115,32" group="n38_jqxi" fontSize="22" color="#ffffff" align="right" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="[color=#33ff00]0[/color]/0"/>
+    <group id="n38_jqxi" name="n38" xy="490,567" size="142,62" group="n34_jqxi"/>
+    <component id="n43_jqxi" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="495,857" group="n34_jqxi" controller="type,3"/>
+    <group id="n34_jqxi" name="G_all" xy="81,373" size="587,587" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

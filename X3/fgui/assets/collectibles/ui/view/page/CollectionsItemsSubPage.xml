@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klupes8x">
+  <displayList>
+    <list id="n215_lupe" name="list" xy="4,157" size="749,1016" overflow="scroll" margin="30,0,0,0" lineGap="-14" defaultItem="ui://tkr2g69tlupef" autoItemSize="false" renderOrder="descent" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

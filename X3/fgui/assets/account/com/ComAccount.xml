@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="460,200">
+  <displayList>
+    <image id="n1_txbn" name="n1" src="91ylw" fileName="img/dl_di2.png" xy="1,1" size="458,200" alpha="0.7">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n0_txbn" name="list_account" xy="2,2" size="456,198" overflow="scroll" defaultItem="ui://99i7tibptxbnm" align="center">
+      <relation target="" sidePair="width-width,height-height"/>
+    </list>
+  </displayList>
+</component>

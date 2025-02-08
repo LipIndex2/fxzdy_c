@@ -1,0 +1,76 @@
+
+skill01_hit_lower.png
+size: 417,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_hit4
+  rotate: false
+  xy: 294, 166
+  size: 97, 41
+  orig: 120, 50
+  offset: 13, 4
+  index: -1
+effect/skill01_hit5
+  rotate: false
+  xy: 298, 138
+  size: 104, 26
+  orig: 114, 32
+  offset: 7, 2
+  index: -1
+effect/skill01_quan_00000
+  rotate: false
+  xy: 294, 209
+  size: 120, 119
+  orig: 180, 180
+  offset: 32, 28
+  index: -1
+effect/skill01_quan_00001
+  rotate: true
+  xy: 290, 330
+  size: 135, 125
+  orig: 180, 180
+  offset: 24, 25
+  index: -1
+effect/skill01_quan_00002
+  rotate: true
+  xy: 157, 159
+  size: 146, 135
+  orig: 180, 180
+  offset: 17, 20
+  index: -1
+effect/skill01_quan_00003
+  rotate: true
+  xy: 155, 2
+  size: 149, 141
+  orig: 180, 180
+  offset: 15, 17
+  index: -1
+effect/skill01_quan_00004
+  rotate: false
+  xy: 2, 5
+  size: 151, 146
+  orig: 180, 180
+  offset: 15, 14
+  index: -1
+effect/skill01_quan_00005
+  rotate: true
+  xy: 2, 153
+  size: 152, 153
+  orig: 180, 180
+  offset: 15, 11
+  index: -1
+effect/skill01_quan_00006
+  rotate: false
+  xy: 2, 307
+  size: 155, 158
+  orig: 180, 180
+  offset: 13, 9
+  index: -1
+effect/skill01_quan_00007
+  rotate: true
+  xy: 159, 312
+  size: 153, 129
+  orig: 180, 180
+  offset: 14, 38
+  index: -1

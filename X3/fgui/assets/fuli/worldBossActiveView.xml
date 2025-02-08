@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_5f25" name="n0" src="5f254" fileName="img/sjboss_bg2.jpg" xy="0,-146" pivot="0.5,0.5">
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </image>
+    <image id="n45_rpoe" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1510" pivot="0.5,0.5" anchor="true" size="750,250" color="#2d2636" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n46_rpoe" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-60" pivot="0.5,1" anchor="true" size="750,250" color="#4a3b58">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n47_rivx" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="395,584"/>
+    <text id="n21_5f25" name="bossName" xy="18,62" size="223,64" group="n39_lqng" fontSize="48" color="#ffffff" strokeColor="#000000" strokeSize="4" text="世界BOSS"/>
+    <component id="n23_ifld" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="248,74" group="n39_lqng"/>
+    <text id="n18_5f25" name="n18" xy="17,135" size="85,34" group="n24_ifld" fontSize="24" color="#fff58b" strokeColor="#060606" strokeSize="3" text="已进行:"/>
+    <text id="n19_5f25" name="activeTime" xy="105,135" size="119,34" group="n24_ifld" fontSize="24" color="#6ff36f" strokeColor="#102902" strokeSize="3" text="5天30小时"/>
+    <group id="n24_ifld" name="timeCom" xy="17,135" size="207,34" group="n39_lqng" advanced="true" layout="hz" colGap="3"/>
+    <component id="n44_s0hy" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="492,68" group="n39_lqng"/>
+    <group id="n39_lqng" name="n39" xy="17,62" size="625,107" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n6_5f25" name="n6" src="5f259" fileName="img/sd_A_common_tisp3_frame.png" xy="42,573" group="n40_lqng" alpha="0.45"/>
+    <component id="n7_5f25" name="challengeBtn" src="ifld1d" fileName="btn/challengeBtn.xml" xy="172,1038" group="n40_lqng"/>
+    <text id="n13_5f25" name="n13" xy="312,788" size="123,42" group="n40_lqng" fontSize="30" color="#19e6fc" strokeColor="#000000" strokeSize="3" text="奖励预览"/>
+    <text id="n14_5f25" name="n14" xy="313,597" size="123,42" group="n40_lqng" fontSize="30" color="#19e6fc" strokeColor="#000000" strokeSize="3" text="活动说明"/>
+    <image id="n15_5f25" name="n15" src="5f2515" fileName="img/scale_70%_sd_A_common_word_tag_1.png" xy="87,606" group="n40_lqng" alpha="0.4"/>
+    <image id="n16_5f25" name="n16" src="5f2515" fileName="img/scale_70%_sd_A_common_word_tag_1.png" xy="87,796" group="n40_lqng" alpha="0.4"/>
+    <text id="n17_5f25" name="tips" xy="83,654" size="575,117" group="n40_lqng" fontSize="24" color="#ffffff" autoSize="none" strokeColor="#000000" strokeSize="2" text="全服玩家共同参与讨伐世界BOSS，击杀世界BOSS后全服玩家都可以领取奖励，越快击杀奖励越丰厚，快来一起讨伐吧！！！"/>
+    <component id="n29_ifld" name="reward" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="94,851" size="566,109" group="n40_lqng"/>
+    <group id="n40_lqng" name="n40" xy="42,573" size="666,582" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

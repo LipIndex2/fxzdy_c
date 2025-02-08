@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" bgColor="#383838">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n25_kvs3" name="n25" src="583b21" fileName="img/guang2.png" xy="6,139" group="n21_kvs3" alpha="0.12"/>
+    <image id="n26_kvs3" name="n26" src="583b22" fileName="img/tuceng1136.png" xy="52,232" group="n21_kvs3" alpha="0.76"/>
+    <group id="n21_kvs3" name="n21" xy="6,139" size="737,758" group="n18_kvs3" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <component id="n28_kvs3" name="getRewardBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="215,917" size="306,117" group="n18_kvs3">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="领 取"/>
+    </component>
+    <image id="n0_583b" name="n0" src="583b8" fileName="img/sd_A_common_gxhdbt_frame.png" xy="212,291" group="n18_kvs3"/>
+    <image id="n1_583b" name="n1" src="583b9" fileName="img/lianmengbaoxiang_1.png" xy="251,296" group="n18_kvs3">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <loader id="n2_583b" name="boxIcon" xy="279,484" pivot="0.5,0.5" size="192,154" group="n18_kvs3" align="center" vAlign="middle" fill="scale"/>
+    <text id="n11_583b" name="boxName" xy="292,666" pivot="0.5,0.5" size="159,39" group="n18_kvs3" fontSize="28" color="#8fe1ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="3级联盟宝箱"/>
+    <image id="n22_kvs3" name="n22" src="583b20" fileName="img/baoxiangjiesuan_3.png" xy="233,297" group="n18_kvs3">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n3_583b" name="n3" src="583b11" fileName="img/sd_A_common_tisp_frame.png" xy="96,827" group="n23_kvs3"/>
+    <component id="n16_kvs3" name="rewardList" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="123,856" size="503,109" group="n23_kvs3"/>
+    <loader id="n31_t5gy" name="iconLoader" xy="324,729" pivot="0.5,0.5" anchor="true" size="40,40" group="n17_kvs3" url="ui://016cb3f9qhev6g" align="center" vAlign="middle" fill="scale">
+      <relation target="n10_583b" sidePair="right-left"/>
+    </loader>
+    <text id="n10_583b" name="keyLimitTxt" xy="395,729" pivot="0.5,0.5" anchor="true" size="102,39" group="n17_kvs3" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="199/89">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n17_kvs3" name="n17" xy="304,709" size="142,40" group="n23_kvs3" advanced="true"/>
+    <image id="n4_583b" name="n4" src="583b12" fileName="img/sd_A_common_biaoti1_msg.png" xy="275,766" group="n29_uazn">
+      <relation target="" sidePair="center-center"/>
+    </image>
+    <text id="n5_583b" name="n5" xy="321,773" size="107,36" group="n29_uazn" fontSize="26" color="#8bb4e7" text="全员奖励"/>
+    <group id="n29_uazn" name="n29" xy="275,766" size="200,46" group="n23_kvs3"/>
+    <image id="n12_583b" name="n12" src="583b15" fileName="img/sd_A_common_dq1_frame.png" xy="349,622" group="n30_uazn"/>
+    <text id="n14_583b" name="n14" xy="358,627" size="52,34" group="n30_uazn" fontSize="24" color="#fff6e1" text="当前"/>
+    <group id="n30_uazn" name="n30" xy="349,622" size="68,39" group="n23_kvs3" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <group id="n23_kvs3" name="n23" xy="96,622" size="558,365" group="n18_kvs3" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <group id="n18_kvs3" name="n18" xy="6,139" size="737,895" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

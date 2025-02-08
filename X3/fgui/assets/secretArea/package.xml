@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="307d6c74">
+  <resources>
+    <image id="af6724" name="sd_Rrukoutubiao_rk0002_icon.png" path="/img/"/>
+    <image id="af6783" name="duobianxing798.png" path="/img/"/>
+    <image id="af6786" name="shalou.png" path="/img/"/>
+    <image id="af6787" name="boos.png" path="/img/"/>
+    <image id="af67117" name="word_tag_3.png" path="/img/"/>
+    <image id="dtf912j" name="bt_frame.png" path="/img/"/>
+    <image id="dtf912k" name="zu4kaobei.png" path="/img/"/>
+    <image id="n3vi12o" name="mj4_blood.png" path="/img/"/>
+    <image id="bezo12p" name="mj_xdt.png" path="/img/"/>
+    <image id="bezo12q" name="mj_xdt3.png" path="/img/"/>
+    <component id="qoez125" name="SecretAreaAwardView.xml" path="/view/"/>
+    <component id="qoez127" name="SecretAreaMainView.xml" path="/view/"/>
+    <component id="qoez128" name="rankBtn.xml" path="/btn/"/>
+    <component id="qoez129" name="SecretAreaMainPage.xml" path="/page/"/>
+    <component id="qoez12a" name="SkillItem.xml" path="/item/"/>
+    <component id="qoez12b" name="skillIconMask.xml" path="/item/"/>
+    <component id="iuie12c" name="awardListItem.xml" path="/item/"/>
+    <component id="iuie12d" name="SecretAreaBattleView.xml" path="/battleView/"/>
+    <component id="iuie12f" name="BattleResultWin.xml" path="/battleView/"/>
+    <component id="iuie12g" name="JumpItem.xml" path="/battleView/"/>
+    <component id="nvro12h" name="SecretAreaTipsWin.xml" path="/win/"/>
+    <component id="dtf912i" name="SecretAreaBossWin.xml" path="/win/"/>
+    <component id="dtf912l" name="BattleWinWin.xml" path="/battleView/"/>
+    <component id="bezo12r" name="miniMapItem.xml" path="/item/"/>
+    <component id="tiub12s" name="firstChallengeBtn.xml" path="/btn/"/>
+    <component id="tiub12t" name="SecretAreaUnlockPage.xml" path="/page/"/>
+    <component id="tiub12u" name="unlockCondition.xml" path="/item/"/>
+    <component id="tiub12v" name="SecretAreaUnlockWin.xml" path="/win/"/>
+    <image id="tiub12w" name="xinjiesuodi.png" path="/img/"/>
+    <image id="tiub12x" name="zitizhuangshi_tag.png" path="/img/"/>
+    <component id="tiub12y" name="secretAreaInfoPanel.xml" path="/page/"/>
+    <component id="tiub38" name="SecretAreaSweepWin.xml" path="/win/"/>
+    <image id="tiub130" name="n49.png" path="/img/"/>
+    <image id="tiub131" name="sd_A_common_tisp_mingzi.png" path="/img/"/>
+    <image id="tiub132" name="secretTP.png" path="/img/" scale="9grid" scale9grid="0,164,372,16"/>
+    <component id="tiub133" name="ticketsBtn.xml" path="/btn/"/>
+    <component id="pmhw134" name="BtnChangGui1WithItem.xml" path="/btn/"/>
+    <component id="gvuz135" name="SecretAreaPageBtn.xml" path="/view/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

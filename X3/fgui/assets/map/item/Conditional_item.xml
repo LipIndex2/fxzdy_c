@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="524,84">
+  <controller name="c1" pages="0,未完成,1,已完成" selected="0"/>
+  <displayList>
+    <loader id="n17_8qld" name="n17" xy="0,0" size="524,84" group="n15_8qld" url="ui://38fa8c758qld21" fill="scaleFree">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearIcon controller="c1" pages="1" values="ui://38fa8c758qld20" default="ui://38fa8c758qld21"/>
+    </loader>
+    <loader id="n16_8qld" name="n16" xy="8,20" size="13,44" group="n15_8qld" url="ui://ojwi06ia8qlda">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearIcon controller="c1" pages="1" values="ui://ojwi06ia8qld9" default="ui://ojwi06ia8qlda"/>
+    </loader>
+    <image id="n5_6ff8" name="n5" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="430,19" group="n15_8qld">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <component id="n18_p3xc" name="goBtn" src="p3xcvvv1e8" fileName="btn/ItemTipsItemButton.xml" pkg="72zq62ea" xy="459,42" pivot="0.5,0.5" anchor="true" group="n15_8qld">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <text id="n8_6ff8" name="T_des" xy="26,24" size="180,36" group="n15_8qld" fontSize="26" color="#d95050" vAlign="middle" text="达到100级解锁">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0" values="#d95050,#000000" default="#945014,#000000"/>
+    </text>
+    <group id="n15_8qld" name="n15" xy="0,0" size="524,84"/>
+  </displayList>
+</component>

@@ -1,0 +1,55 @@
+
+skill01_hit_lower.png
+size: 104,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_hit_low_1
+  rotate: false
+  xy: 2, 211
+  size: 95, 67
+  orig: 125, 125
+  offset: 14, 24
+  index: -1
+images/effect/skill01_hit_low_2
+  rotate: false
+  xy: 2, 276
+  size: 101, 72
+  orig: 125, 125
+  offset: 11, 26
+  index: -1
+images/effect/skill01_hit_low_3
+  rotate: false
+  xy: 2, 147
+  size: 97, 65
+  orig: 125, 125
+  offset: 15, 27
+  index: -1
+images/effect/skill01_hit_low_4
+  rotate: false
+  xy: 2, 91
+  size: 96, 55
+  orig: 125, 125
+  offset: 16, 30
+  index: -1
+images/effect/skill01_hit_low_5
+  rotate: 180
+  xy: 2, 37
+  size: 96, 54
+  orig: 125, 125
+  offset: 14, 32
+  index: -1
+images/effect/skill01_hit_low_6
+  rotate: false
+  xy: 2, 4
+  size: 96, 40
+  orig: 125, 125
+  offset: 15, 45
+  index: -1
+images/effect/skill01_hit_low_7
+  rotate: false
+  xy: 2, 325
+  size: 14, 23
+  orig: 125, 125
+  offset: 18, 63
+  index: -1

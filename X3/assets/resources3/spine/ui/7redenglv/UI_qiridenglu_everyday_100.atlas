@@ -1,0 +1,300 @@
+
+UI_qiridenglu_everyday_100.png
+size: 998,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/day_00000
+  rotate: false
+  xy: 854, 587
+  size: 24, 28
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00001
+  rotate: false
+  xy: 854, 617
+  size: 33, 38
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00002
+  rotate: false
+  xy: 180, 44
+  size: 44, 51
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00003
+  rotate: false
+  xy: 122, 29
+  size: 56, 66
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00004
+  rotate: false
+  xy: 863, 20
+  size: 71, 83
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00005
+  rotate: true
+  xy: 757, 14
+  size: 89, 104
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00006
+  rotate: true
+  xy: 479, 3
+  size: 109, 127
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00007
+  rotate: true
+  xy: 2, 228
+  size: 132, 154
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00008
+  rotate: true
+  xy: 509, 221
+  size: 142, 162
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00009
+  rotate: true
+  xy: 340, 225
+  size: 136, 158
+  orig: 160, 180
+  offset: 15, 12
+  index: -1
+effect/day_00010
+  rotate: true
+  xy: 2, 2
+  size: 101, 118
+  orig: 160, 180
+  offset: 50, 52
+  index: -1
+effect/day_00011
+  rotate: false
+  xy: 936, 34
+  size: 59, 69
+  orig: 160, 180
+  offset: 92, 101
+  index: -1
+effect/day_loop_00000
+  rotate: false
+  xy: 2, 105
+  size: 146, 121
+  orig: 160, 180
+  offset: 8, 30
+  index: -1
+effect/day_loop_00001
+  rotate: false
+  xy: 648, 111
+  size: 146, 101
+  orig: 160, 180
+  offset: 8, 40
+  index: -1
+effect/day_loop_00002
+  rotate: false
+  xy: 608, 26
+  size: 147, 83
+  orig: 160, 180
+  offset: 8, 49
+  index: -1
+effect/day_loop_00003
+  rotate: true
+  xy: 900, 508
+  size: 148, 96
+  orig: 160, 180
+  offset: 7, 43
+  index: -1
+effect/day_loop_00004
+  rotate: false
+  xy: 827, 105
+  size: 148, 114
+  orig: 160, 180
+  offset: 7, 34
+  index: -1
+effect/day_loop_00005
+  rotate: false
+  xy: 158, 97
+  size: 148, 133
+  orig: 160, 180
+  offset: 7, 24
+  index: -1
+effect/day_loop_00006
+  rotate: true
+  xy: 673, 214
+  size: 148, 152
+  orig: 160, 180
+  offset: 7, 15
+  index: -1
+effect/day_loop_00007
+  rotate: true
+  xy: 686, 507
+  size: 148, 166
+  orig: 160, 180
+  offset: 7, 8
+  index: -1
+effect/day_loop_00008
+  rotate: false
+  xy: 2, 659
+  size: 148, 167
+  orig: 160, 180
+  offset: 7, 7
+  index: -1
+effect/day_loop_00009
+  rotate: false
+  xy: 152, 659
+  size: 148, 167
+  orig: 160, 180
+  offset: 7, 7
+  index: -1
+effect/day_loop_00010
+  rotate: false
+  xy: 302, 659
+  size: 148, 167
+  orig: 160, 180
+  offset: 7, 7
+  index: -1
+effect/day_loop_00011
+  rotate: false
+  xy: 452, 659
+  size: 148, 167
+  orig: 160, 180
+  offset: 7, 7
+  index: -1
+effect/day_loop_00012
+  rotate: false
+  xy: 602, 659
+  size: 148, 167
+  orig: 160, 180
+  offset: 7, 7
+  index: -1
+effect/day_loop_00013
+  rotate: true
+  xy: 2, 362
+  size: 147, 167
+  orig: 160, 180
+  offset: 7, 7
+  index: -1
+effect/day_loop_00014
+  rotate: true
+  xy: 509, 365
+  size: 144, 167
+  orig: 160, 180
+  offset: 9, 7
+  index: -1
+effect/day_loop_00015
+  rotate: true
+  xy: 171, 232
+  size: 129, 167
+  orig: 160, 180
+  offset: 16, 7
+  index: -1
+effect/day_loop_00016
+  rotate: true
+  xy: 308, 114
+  size: 109, 167
+  orig: 160, 180
+  offset: 26, 7
+  index: -1
+effect/day_loop_00017
+  rotate: false
+  xy: 900, 658
+  size: 90, 168
+  orig: 160, 180
+  offset: 35, 6
+  index: -1
+effect/day_loop_00018
+  rotate: true
+  xy: 308, 26
+  size: 86, 169
+  orig: 160, 180
+  offset: 38, 6
+  index: -1
+effect/day_loop_00019
+  rotate: true
+  xy: 477, 114
+  size: 105, 169
+  orig: 160, 180
+  offset: 28, 6
+  index: -1
+effect/day_loop_00020
+  rotate: true
+  xy: 827, 221
+  size: 124, 169
+  orig: 160, 180
+  offset: 19, 6
+  index: -1
+effect/day_loop_00021
+  rotate: true
+  xy: 678, 364
+  size: 141, 169
+  orig: 160, 180
+  offset: 10, 6
+  index: -1
+effect/day_loop_00022
+  rotate: false
+  xy: 752, 657
+  size: 146, 169
+  orig: 160, 180
+  offset: 8, 6
+  index: -1
+effect/day_loop_00023
+  rotate: true
+  xy: 2, 511
+  size: 146, 169
+  orig: 160, 180
+  offset: 8, 6
+  index: -1
+effect/day_loop_00024
+  rotate: true
+  xy: 173, 511
+  size: 146, 169
+  orig: 160, 180
+  offset: 8, 6
+  index: -1
+effect/day_loop_00025
+  rotate: true
+  xy: 344, 511
+  size: 146, 169
+  orig: 160, 180
+  offset: 8, 6
+  index: -1
+effect/day_loop_00026
+  rotate: true
+  xy: 515, 511
+  size: 146, 169
+  orig: 160, 180
+  offset: 8, 6
+  index: -1
+effect/day_loop_00027
+  rotate: true
+  xy: 171, 363
+  size: 146, 168
+  orig: 160, 180
+  offset: 8, 7
+  index: -1
+effect/day_loop_00028
+  rotate: true
+  xy: 341, 363
+  size: 146, 166
+  orig: 160, 180
+  offset: 8, 8
+  index: -1
+effect/day_loop_00029
+  rotate: false
+  xy: 849, 347
+  size: 146, 158
+  orig: 160, 180
+  offset: 8, 12
+  index: -1

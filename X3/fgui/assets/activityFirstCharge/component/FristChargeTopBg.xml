@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="660,647">
+  <displayList>
+    <image id="n2_df6e" name="n2" src="df6e2" fileName="img/juesedi.png" xy="0,0"/>
+    <component id="n57_dusv" name="spineTopBg" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="344,311"/>
+    <component id="n58_dusv" name="spineTitle" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="237,439"/>
+    <image id="n5_df6e" name="n5" src="df6e5" fileName="img/chaozhiyeqian.png" xy="33,99" group="n46_v891"/>
+    <text id="n6_df6e" name="T_discount" xy="44,65" pivot="0.5,0.5" size="160,64" group="n46_v891" fontSize="48" color="#ffffff" align="center" vAlign="middle" italic="true" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <text id="n7_df6e" name="n7" xy="37,115" size="71,46" group="n46_v891" fontSize="34" color="#fffe80" italic="true" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+    <group id="n46_v891" name="G_discount" xy="33,65" size="174,96" advanced="true"/>
+    <image id="n10_df6e" name="n10" src="df6e7" fileName="img/mingzidi.png" xy="526,133" group="n47_v891"/>
+    <text id="n11_df6e" name="T_name" xy="549,197" pivot="0.5,0.5" size="48,112" group="n47_v891" fontSize="36" align="center" leading="7" autoSize="none" text="夜莺"/>
+    <loader id="n45_v891" name="img_camp" xy="549,122" pivot="0.5,0.5" size="48,54" group="n47_v891" autoSize="true"/>
+    <list id="n52_v891" name="list_star" xy="516,228" size="38,195" group="n47_v891" scale="0.7,0.7" lineGap="2" defaultItem="ui://38fa8c75105pvv182" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n47_v891" name="n47" xy="516,122" size="86,301"/>
+    <component id="n59_dusv" name="spineDiscount" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="120,120"/>
+    <component id="n60_dusv" name="spineStar" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="529,282"/>
+  </displayList>
+</component>

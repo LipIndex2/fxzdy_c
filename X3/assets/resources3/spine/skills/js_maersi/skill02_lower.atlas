@@ -1,0 +1,20 @@
+
+skill02_lower.png
+size: 199,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_low_LINE
+  rotate: false
+  xy: 2, 2
+  size: 195, 17
+  orig: 195, 17
+  offset: 0, 0
+  index: -1
+images/effect/skill02_low_LINE2
+  rotate: false
+  xy: 2, 21
+  size: 195, 47
+  orig: 195, 47
+  offset: 0, 0
+  index: -1

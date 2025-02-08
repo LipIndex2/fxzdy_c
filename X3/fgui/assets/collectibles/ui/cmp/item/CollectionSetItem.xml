@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,210" designImage="ui://7q3fcj1klupes90" designImageOffsetX="-56" designImageOffsetY="-267">
+  <controller name="CType" pages="0,,1,,2,,7," selected="0">
+    <remark page="1" value="合成道具"/>
+    <remark page="2" value="拥有道具"/>
+    <remark page="3" value="未拥有"/>
+  </controller>
+  <controller name="quality" pages="0,,1,,2,,3,,4,,5," selected="0">
+    <remark page="1" value="蓝"/>
+    <remark page="2" value="紫"/>
+    <remark page="3" value="橙"/>
+    <remark page="4" value="红"/>
+    <remark page="5" value="彩"/>
+  </controller>
+  <displayList>
+    <image id="n223_lupe" name="n223" src="lupei" fileName="img/di1.png" xy="17,10"/>
+    <loader id="n14_a01c" name="itemIcon" xy="13,-15" pivot="0.5,1" size="150,150" url="ui://7q3fcj1kpmhws9b" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <loader id="n7_a01c" name="n7" xy="-9,43" size="237,171" scale="0.77,0.77" url="ui://tkr2g69tlupe2" clearOnPublish="true">
+      <gearIcon controller="quality" pages="0,1,2,4,5" values="ui://tkr2g69tlupe2|ui://tkr2g69tlupe2|ui://tkr2g69tlupe3|ui://tkr2g69tlupe5|ui://tkr2g69tlupe4" default="ui://tkr2g69tlupe6"/>
+    </loader>
+    <image id="n24_a01c" name="n24" src="lupea" fileName="img/zhezhao.png" xy="-7,43" group="n219_lupe" scale="0.77,0.77" alpha="0.5"/>
+    <image id="n25_a01c" name="n25" src="lupeb" fileName="img/kehecheng_60.png" xy="21,53" group="n219_lupe">
+      <gearDisplay controller="CType" pages="1"/>
+    </image>
+    <component id="n217_lupe" name="bar" src="lupevvv1id" fileName="progressBar/components/ProgressBar3.xml" pkg="38fa8c75" xy="22,141" size="120,24" group="n219_lupe">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n216_lupe" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="140,152" group="n219_lupe" controller="type,2"/>
+    <group id="n219_lupe" name="heCheng" xy="-7,43" size="236,171" advanced="true">
+      <gearDisplay controller="CType" pages="1,7"/>
+    </group>
+    <image id="n15_a01c" name="n15" src="lupe9" fileName="img/scp_mzd.png" xy="6,176" scale="0.77,0.77"/>
+    <text id="n16_a01c" name="lbName" xy="21,178" pivot="0.5,0.5" size="123,29" fontSize="20" color="#fde963" align="center" vAlign="middle" strokeColor="#000205" strokeSize="3" autoClearText="true" text="暮光手镯六字"/>
+    <text id="n224_6v98" name="lbLV" xy="102,103" pivot="0.5,0.5" size="58,42" fontSize="30" color="#ffea01" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="+10">
+      <gearDisplay controller="CType" pages="2"/>
+    </text>
+    <list id="n215_lupe" name="list_star1" xy="-17,137" pivot="0.5,0.5" size="200,32" scale="0.55,0.55" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center" autoClearItems="true">
+      <gearDisplay controller="CType" pages="2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

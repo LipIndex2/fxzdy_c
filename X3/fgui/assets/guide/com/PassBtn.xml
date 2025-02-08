@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,40" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_mdoa" name="n0" src="mdoav1j" fileName="img/pass_frame.png" xy="0,0" size="115,40"/>
+    <image id="n1_mdoa" name="n1" src="mdoav1k" fileName="img/pass.png" xy="70,7" group="n3_mdoa"/>
+    <text id="n2_mdoa" name="n2" xy="16,2" size="55,36" group="n3_mdoa" fontSize="26" color="#59caff" leading="0" strokeColor="#010b20" strokeSize="3" text="跳过"/>
+    <group id="n3_mdoa" name="n3" xy="16,2" size="85,36"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

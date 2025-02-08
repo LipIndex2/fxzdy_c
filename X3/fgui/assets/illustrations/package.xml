@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dc8e4339">
+  <resources>
+    <image id="424b0" name="tuceng3.jpg" path="/img/"/>
+    <image id="424b8" name="zu1041kaobei6.png" path="/img/"/>
+    <image id="424b9" name="scale_70%_sd_Ttubiao_baoxiang_baoxiang.png" path="/img/"/>
+    <image id="424b13" name="zu1041.png" path="/img/"/>
+    <component id="424b15" name="IllustrationsMainWin.xml" path="/view/"/>
+    <image id="424b16" name="sd_Kkapaipeiyangyouhuan_zyd_frame.png" path="/img/"/>
+    <component id="lhcv38" name="IllustrationsHeroItem.xml" path="/item/"/>
+    <image id="lhcv39" name="bg_quality1.png" path="/img/" exported="true"/>
+    <image id="lhcv3a" name="bg_quality2.png" path="/img/" exported="true"/>
+    <image id="lhcv3b" name="bg_quality3.png" path="/img/" exported="true"/>
+    <image id="lhcv3c" name="bg_quality4.png" path="/img/" exported="true"/>
+    <image id="lhcv3d" name="bg_quality5.png" path="/img/" exported="true"/>
+    <image id="lhcv3e" name="silhouette_hero.png" path="/img/"/>
+    <image id="lhcv3f" name="silhouette_weapon.png" path="/img/"/>
+    <component id="lhcv3g" name="IllustrationsWeaponItem.xml" path="/item/"/>
+    <component id="lhcv3i" name="IllustrationsProgress.xml" path="/component/"/>
+    <image id="lhcv3k" name="icon_weapon.png" path="/img/"/>
+    <component id="lhcv3l" name="IllustrationsWeaponBtn.xml" path="/btn/"/>
+    <image id="f4541" name="beijing.jpg" path="/img/" scale="9grid" scale9grid="20,20,1157,682"/>
+    <image id="f4542" name="jindutiao.png" path="/img/"/>
+    <image id="f4544" name="tjlb.png" path="/img/"/>
+    <image id="f45417" name="tjsz_001.png" path="/img/"/>
+    <image id="f4548" name="tjsz_002.png" path="/img/"/>
+    <image id="f4540" name="tongyongchouka.jpg" path="/img/"/>
+    <image id="f4549" name="zu1041kaobei7.png" path="/img/"/>
+    <component id="f45418" name="IllustrationsRewardWin.xml" path="/view/"/>
+    <component id="lhcv3m" name="IllustrationsRewardItem.xml" path="/item/"/>
+    <component id="lhcv3n" name="IllustrationsIconItem.xml" path="/item/"/>
+    <component id="lhcv3r" name="IllustrationsScoreBtn.xml" path="/btn/"/>
+    <component id="lhcv3u" name="IllustrationsScoreIcon.xml" path="/component/"/>
+    <image id="lhcv3v" name="all_icon.png" path="/img/"/>
+    <image id="mz6j3w" name="bg_quality6.png" path="/img/" exported="true"/>
+    <image id="mz6j3x" name="bg_quality7.png" path="/img/" exported="true"/>
+    <component id="rzse3y" name="IllustrationsPetBtn.xml" path="/btn/"/>
+    <image id="rzse3z" name="lingchong.png" path="/img/"/>
+    <component id="rzse40" name="empty.xml" path="/component/"/>
+    <component id="rzse42" name="IllustrationsPetItem.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

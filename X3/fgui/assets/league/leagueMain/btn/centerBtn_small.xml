@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="213,336" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n40_qr2a" name="n40" xy="0,64" size="303,378" scale="0.7,0.7" url="ui://7cvz7rmmry80vv1j" autoSize="true"/>
+    <component id="n28_h90v" name="centerBtn" src="h90v2i" fileName="leagueMain/btn/leagueComBtn.xml" xy="24,10" touchable="false">
+      <gearXY controller="state" pages="0,1" values="24,10|18,27"/>
+      <gearSize controller="state" pages="1" values="235,81,0.7,0.7" default="235,81,1,1"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

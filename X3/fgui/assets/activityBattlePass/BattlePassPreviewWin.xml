@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334">
+  <displayList>
+    <loader id="n98_bezo" name="n98" xy="75,253" size="598,799" group="n91_bezo" url="ui://ee5b35f6bezo5b" fill="scaleFree"/>
+    <image id="n64_b7b6" name="n64" src="bezo5n" fileName="img/awardbg.png" xy="120,379" size="512,229" group="n91_bezo"/>
+    <image id="n66_b7b6" name="n66" src="v891vvv1f3" fileName="img/boss_tag.png" pkg="38fa8c75" xy="134,333" group="n91_bezo"/>
+    <image id="n71_b7b6" name="n71" src="b7b650" fileName="img/zu26.png" xy="119,635" group="n91_bezo"/>
+    <image id="n77_b7b6" name="n77" src="b7b653" fileName="img/zu27.png" xy="119,803" group="n91_bezo"/>
+    <text id="n65_b7b6" name="n65" xy="146,330" pivot="0,0.5" size="212,42" group="n91_bezo" fontSize="30" color="#ffffff" vAlign="middle" text="星际通行证预览"/>
+    <text id="n73_b7b6" name="n73" xy="141,656" pivot="0,0.5" size="75,49" group="n91_bezo" fontSize="36" color="#c6f4ff" vAlign="middle" strokeColor="#082e8f" strokeSize="3" text="星际"/>
+    <text id="n74_b7b6" name="n74" xy="213,647" pivot="0,0.5" size="138,60" group="n91_bezo" fontSize="45" color="#c6f4ff" vAlign="middle" strokeColor="#082e8f" strokeSize="3" text="通行证"/>
+    <text id="n81_b7b6" name="n81" xy="241,818" pivot="0,0.5" size="182,49" group="n91_bezo" fontSize="36" color="#fff68c" vAlign="middle" strokeColor="#b54000" strokeSize="3" text="星际通行证"/>
+    <text id="n82_b7b6" name="n82" xy="141,815" pivot="0,0.5" size="103,66" group="n91_bezo" fontSize="50" color="#fff68c" vAlign="middle" strokeColor="#b54000" strokeSize="3" text="超级"/>
+    <list id="n93_bezo" name="list_desc1" xy="144,714" size="309,70" group="n91_bezo" overflow="scroll" lineGap="-8" defaultItem="ui://ee5b35f6bezo5m">
+      <item/>
+    </list>
+    <list id="n92_bezo" name="list_desc2" xy="146,878" size="309,132" group="n91_bezo" overflow="scroll" lineGap="-8" defaultItem="ui://ee5b35f6bezo5m">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n94_bezo" name="list_award" xy="133,401" size="609,248" group="n91_bezo" scale="0.8,0.8" layout="flow_hz" overflow="scroll" lineGap="24" colGap="25" lineItemCount="4" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n96_bezo" name="btn_get1" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="455,717" size="153,58" group="n91_bezo">
+      <Button titleFontSize="26"/>
+    </component>
+    <component id="n97_bezo" name="btn_get2" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="457,916" size="153,58" group="n91_bezo">
+      <Button titleFontSize="26"/>
+    </component>
+    <group id="n91_bezo" name="n91" xy="75,253" size="667,799" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+
+tiaotiaoqishou_attack_bullet.png
+size: 38,38
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack_bullet_01
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1

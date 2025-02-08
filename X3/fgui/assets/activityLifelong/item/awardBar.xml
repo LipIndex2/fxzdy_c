@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="16,276" extention="ProgressBar">
+  <controller name="c1" pages="0,不可领取,1,可领取,2,已领取" selected="0"/>
+  <displayList>
+    <image id="n7_c83b" name="bar_v" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" pkg="38fa8c75" xy="0,0" pivot="0.5,0" size="16,276" fillMethod="vt" fillOrigin="1">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

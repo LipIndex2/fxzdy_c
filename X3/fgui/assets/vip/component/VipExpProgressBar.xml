@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,23" extention="ProgressBar">
+  <displayList>
+    <image id="n0_oc78" name="n0" src="v891vvv1ee" fileName="bgImage/czzl_blood.png" pkg="38fa8c75" xy="0,0" size="50,23" color="#000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_oc78" name="bar" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="0,3" size="50,17"/>
+    <text id="n3_oc78" name="title" xy="-46,-3" pivot="0.5,0.5" size="86,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="100/200">
+      <relation target="" sidePair="right-right"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

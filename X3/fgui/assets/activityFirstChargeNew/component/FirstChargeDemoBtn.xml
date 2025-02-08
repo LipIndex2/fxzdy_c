@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="116,198" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n25_lyzg" name="bgLoader" xy="58,83" pivot="0.5,0.5" anchor="true" size="100,150" url="ui://99fee131wcla1d" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <image id="n20_3755" name="n20" src="375511" fileName="img/yulan_waikuang.png" xy="58,83" pivot="0.5,0.5" anchor="true" size="116,166"/>
+    <text id="n21_3755" name="n21" xy="-1,166" size="91,32" fontSize="22" color="#ffffff" vAlign="middle" text="技能预览"/>
+    <image id="n22_3755" name="n22" src="375512" fileName="img/sd_A_common_fdj_icon.png" xy="93,165"/>
+    <component id="n23_wcla" name="videoNode" src="dusvvvv1fk" fileName="node/VideoNode.xml" pkg="38fa8c75" xy="58,83" size="100,150" touchable="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

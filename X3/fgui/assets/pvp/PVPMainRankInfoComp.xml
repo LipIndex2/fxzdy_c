@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,138" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n51_b6a2" name="labelRankLogoName" xy="191,35" size="153,42" group="n134_ffqt" fontSize="30" color="#ffcd54" strokeColor="#000000" strokeSize="2" text="黄金指挥官"/>
+    <component id="n59_b6a2" name="dialogComp" src="gkgv15h" fileName="components/PVPRankLvDialogComp.xml" xy="564,0" group="n134_ffqt"/>
+    <component id="n116_gkgv" name="barForRankScore" src="oqeb157" fileName="bar/PVPRankScoreBar.xml" xy="180,77" group="n134_ffqt">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n133_gkgv" name="logoRank" src="gkgv15q" fileName="logo/PVPRankBigLogoComp.xml" xy="0,17" group="n134_ffqt" scale="0.6,0.6"/>
+    <group id="n134_ffqt" name="n134" xy="0,0" size="720,203" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

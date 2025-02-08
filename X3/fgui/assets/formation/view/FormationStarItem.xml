@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,26">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="满足条件"/>
+    <remark page="1" value="不满足条件"/>
+  </controller>
+  <displayList>
+    <image id="n15_loj0" name="n15" src="loj0vvv1kj" fileName="btnImage/xingdi_icon.png" pkg="38fa8c75" xy="0,4" scale="0.63,0.63">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n14_f430" name="n14" src="105pvv182" fileName="btnImage/xinghuang2_icon.png" pkg="38fa8c75" xy="0,4" scale="0.5,0.5">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <text id="n11_f430" name="lbCond" xy="20,0" size="75,26" fontSize="18" color="#dcecff" vAlign="middle" text="战斗胜利"/>
+  </displayList>
+</component>

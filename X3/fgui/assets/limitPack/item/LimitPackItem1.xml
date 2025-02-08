@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="509,161" designImage="ui://7q3fcj1k97dis7v" designImageOffsetX="-118" designImageOffsetY="-548">
+  <displayList>
+    <image id="n8_cae0" name="bgPrice" src="uvvc3r" fileName="img/tiaomu.png" xy="3,17"/>
+    <image id="n39_ohdt" name="bgFree" src="uvvc3s" fileName="img/tiao.png" xy="3,17"/>
+    <component id="n19_cae0" name="btnBuy" src="ohdt3e" fileName="component/LimitPackBtn.xml" xy="334,56" size="160,69"/>
+    <component id="n21_cae0" name="discount" src="ohdt3c" fileName="component/LimitPackDiscount.xml" xy="0,-3"/>
+    <image id="n37_cae0" name="arrow" src="uvvc3v" fileName="img/lianjiejiantou_7.png" xy="384,129"/>
+    <list id="n38_ohdt" name="listReward" xy="26,42" size="351,104" scale="0.84,0.84" layout="row" overflow="scroll" scroll="horizontal" colGap="8" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

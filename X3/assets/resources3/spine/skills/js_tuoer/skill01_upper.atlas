@@ -1,0 +1,132 @@
+
+skill01_upper.png
+size: 500,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd48
+  rotate: true
+  xy: 362, 24
+  size: 97, 84
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 464, 243
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 426, 69
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 346, 124
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+effect/attack_shandian2_00000
+  rotate: false
+  xy: 361, 5
+  size: 48, 36
+  orig: 110, 110
+  offset: 33, 1
+  index: -1
+effect/attack_shandian2_00001
+  rotate: false
+  xy: 213, 48
+  size: 84, 82
+  orig: 110, 110
+  offset: 10, 1
+  index: -1
+effect/attack_shandian2_00003
+  rotate: false
+  xy: 108, 145
+  size: 75, 90
+  orig: 110, 110
+  offset: 5, 0
+  index: -1
+effect/attack_shandian2_00004
+  rotate: true
+  xy: 2, 37
+  size: 96, 105
+  orig: 110, 110
+  offset: 11, 2
+  index: -1
+effect/attack_shandian2_00005
+  rotate: false
+  xy: 109, 32
+  size: 102, 98
+  orig: 110, 110
+  offset: 2, 8
+  index: -1
+effect/attack_shandian2_00006
+  rotate: true
+  xy: 213, 2
+  size: 44, 60
+  orig: 110, 110
+  offset: 1, 41
+  index: -1
+effect/attack_yuanshandian_00000
+  rotate: false
+  xy: 194, 132
+  size: 150, 143
+  orig: 150, 150
+  offset: 0, 7
+  index: -1
+effect/attack_yuanshandian_00001
+  rotate: true
+  xy: 346, 277
+  size: 150, 145
+  orig: 150, 150
+  offset: 0, 5
+  index: -1
+effect/attack_yuanshandian_00003
+  rotate: false
+  xy: 194, 277
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/guangyun
+  rotate: false
+  xy: 2, 237
+  size: 190, 190
+  orig: 200, 200
+  offset: 5, 5
+  index: -1
+effect/skill01_chui_00000
+  rotate: true
+  xy: 447, 7
+  size: 60, 46
+  orig: 100, 100
+  offset: 21, 48
+  index: -1
+effect/skill01_chui_00001
+  rotate: true
+  xy: 299, 13
+  size: 47, 60
+  orig: 100, 100
+  offset: 5, 21
+  index: -1
+effect/skill01_chui_00002
+  rotate: false
+  xy: 299, 62
+  size: 61, 68
+  orig: 100, 100
+  offset: 23, 7
+  index: -1
+effect/skill01_xu
+  rotate: false
+  xy: 2, 135
+  size: 104, 100
+  orig: 150, 150
+  offset: 23, 25
+  index: -1

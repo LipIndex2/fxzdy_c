@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageOffsetX="-125" designImageOffsetY="-147" designImageLayer="1">
+  <controller name="state" pages="4,,5,,1," selected="0">
+    <remark page="0" value="等待登录"/>
+    <remark page="1" value="已登录（sdk）"/>
+    <remark page="2" value="已登录（no sdk）"/>
+  </controller>
+  <displayList>
+    <component id="n25_kog3" name="adapt_bg" src="quvqh" fileName="com/BgCom.xml" xy="375,667" pivot="0.5,0.5" anchor="true"/>
+    <component id="n26_kog3" name="enterBtn" src="oslf9" fileName="com/LoginBtn.xml" xy="238,1033">
+      <gearDisplay controller="state" pages="5,1"/>
+      <relation target="" sidePair="center-center,bottom-bottom%"/>
+      <Button title="进入游戏"/>
+    </component>
+    <component id="n27_kog3" name="accountBtn" src="kog31" fileName="com/comBtn.xml" xy="583,38" size="123,58" visible="false">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="middle-middle,top-top"/>
+      <Button title="切换账号"/>
+    </component>
+    <component id="n38_qumz" name="ageBtn" src="qumz9" fileName="com/baseBtn.xml" xy="37,34">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </component>
+    <image id="n44_oslf" name="n44" src="oslfg" fileName="img/black1_msg.png" xy="104,964" size="542,43" group="n31_kog3" alpha="0.58"/>
+    <component id="n30_kog3" name="serverBtn" src="qumz9" fileName="com/baseBtn.xml" xy="475,962" size="44,46" group="n31_kog3">
+      <relation target="" sidePair="top-top"/>
+      <Button title="&#xA;" icon="ui://yx9tq9scoslff"/>
+    </component>
+    <text id="n29_kog3" name="serverName" xy="374,985" pivot="0.5,0.5" anchor="true" size="99,34" group="n31_kog3" fontSize="24" color="#ffffff" vAlign="middle" leading="0" autoClearText="true" text="我的区服"/>
+    <group id="n31_kog3" name="n31" xy="104,962" size="542,46" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom%"/>
+    </group>
+    <component id="n40_ydpg" name="infoCom" src="ydpga" fileName="com/CompCom.xml" xy="0,1202" touchable="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n43_ydpg" name="protocolCom" src="ydpgd" fileName="com/ProtocolCom.xml" xy="0,1132">
+      <gearDisplay controller="state" pages="5,1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

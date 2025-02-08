@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,140">
+  <controller name="lockFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <controller name="maxLvFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <controller name="chooseFlag" pages="0,0,1,1" selected="1"/>
+  <displayList>
+    <image id="n8_06d7" name="bg" src="06d76" fileName="img/changgui.png" xy="6,10" group="n81_kp3w"/>
+    <loader id="n9_06d7" name="imageSkill" xy="61,59" pivot="0.5,0.5" anchor="true" size="109,90" group="n81_kp3w" url="ui://07ac155b06d77" align="center" vAlign="middle"/>
+    <image id="n10_06d7" name="fgMask" src="06d78" fileName="img/weijiesuobantoudi.png" xy="11,10" size="100,127" group="n81_kp3w" alpha="0.41">
+      <gearDisplay controller="lockFlag" pages="1"/>
+    </image>
+    <image id="n13_06d7" name="fgMaxLv" src="06d79" fileName="img/xuanzhongxiaoguo.png" xy="-4,1" group="n81_kp3w">
+      <gearDisplay controller="chooseFlag" pages="1"/>
+    </image>
+    <group id="n81_kp3w" name="imagePart" xy="-4,1" size="126,143" group="n84_w6zo"/>
+    <text id="n11_06d7" name="labelLv" xy="15,97" size="51,36" group="n82_kp3w" fontSize="26" color="#ffffff" strokeColor="#000000" strokeSize="3" text="+10">
+      <gearDisplay controller="lockFlag" pages="0"/>
+    </text>
+    <text id="n80_kp3w" name="labelLock" xy="18,104" size="63,29" group="n82_kp3w" fontSize="20" color="#8ddcfd" strokeColor="#000000" strokeSize="3" text="未解锁">
+      <gearDisplay controller="lockFlag" pages="1"/>
+    </text>
+    <group id="n82_kp3w" name="labelPart" xy="15,97" size="66,36" group="n84_w6zo"/>
+    <group id="n84_w6zo" name="mc" xy="-4,1" size="126,143" advanced="true"/>
+    <component id="n85_jqxi" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="112,19" controller="type,1"/>
+  </displayList>
+</component>

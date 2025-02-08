@@ -1,0 +1,258 @@
+
+skill02_upper.png
+size: 353,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/dianqiu01
+  rotate: true
+  xy: 110, 263
+  size: 97, 102
+  orig: 128, 128
+  offset: 11, 16
+  index: -1
+images/effect/dianqiu02
+  rotate: false
+  xy: 98, 75
+  size: 92, 92
+  orig: 128, 128
+  offset: 18, 18
+  index: -1
+images/effect/dianqiu03
+  rotate: false
+  xy: 2, 89
+  size: 94, 94
+  orig: 128, 128
+  offset: 17, 17
+  index: -1
+images/effect/dianqiu04
+  rotate: false
+  xy: 2, 477
+  size: 116, 98
+  orig: 128, 128
+  offset: 1, 15
+  index: -1
+images/effect/dianqiu05
+  rotate: true
+  xy: 120, 459
+  size: 116, 94
+  orig: 128, 128
+  offset: 1, 17
+  index: -1
+images/effect/dianqiu06
+  rotate: false
+  xy: 192, 75
+  size: 92, 92
+  orig: 128, 128
+  offset: 18, 18
+  index: -1
+images/effect/dianqiu07
+  rotate: false
+  xy: 198, 173
+  size: 88, 88
+  orig: 128, 128
+  offset: 20, 20
+  index: -1
+images/effect/dianqiu08
+  rotate: false
+  xy: 115, 362
+  size: 112, 95
+  orig: 128, 128
+  offset: 9, 18
+  index: -1
+images/effect/dianqiu09
+  rotate: false
+  xy: 2, 185
+  size: 95, 94
+  orig: 128, 128
+  offset: 17, 17
+  index: -1
+images/effect/dianqiu10
+  rotate: false
+  xy: 2, 281
+  size: 106, 94
+  orig: 128, 128
+  offset: 8, 17
+  index: -1
+images/effect/dianqiu11
+  rotate: false
+  xy: 2, 377
+  size: 111, 98
+  orig: 128, 128
+  offset: 4, 15
+  index: -1
+images/effect/dianqiu12
+  rotate: false
+  xy: 99, 169
+  size: 97, 92
+  orig: 128, 128
+  offset: 18, 18
+  index: -1
+images/effect/huan01
+  rotate: false
+  xy: 2, 577
+  size: 218, 218
+  orig: 256, 256
+  offset: 19, 19
+  index: -1
+images/effect/lichang01
+  rotate: false
+  xy: 284, 704
+  size: 11, 6
+  orig: 128, 128
+  offset: 56, 42
+  index: -1
+images/effect/lichang02
+  rotate: false
+  xy: 319, 46
+  size: 22, 10
+  orig: 128, 128
+  offset: 51, 40
+  index: -1
+images/effect/lichang03
+  rotate: false
+  xy: 222, 582
+  size: 32, 16
+  orig: 128, 128
+  offset: 46, 37
+  index: -1
+images/effect/lichang04
+  rotate: false
+  xy: 319, 58
+  size: 32, 32
+  orig: 128, 128
+  offset: 46, 36
+  index: -1
+images/effect/lichang05
+  rotate: true
+  xy: 288, 174
+  size: 35, 36
+  orig: 128, 128
+  offset: 46, 36
+  index: -1
+images/effect/lichang06
+  rotate: false
+  xy: 288, 211
+  size: 49, 41
+  orig: 128, 128
+  offset: 40, 35
+  index: -1
+images/effect/lichang07
+  rotate: false
+  xy: 288, 254
+  size: 48, 51
+  orig: 128, 128
+  offset: 40, 35
+  index: -1
+images/effect/lichang08
+  rotate: false
+  xy: 288, 398
+  size: 53, 56
+  orig: 128, 128
+  offset: 37, 35
+  index: -1
+images/effect/lichang09
+  rotate: true
+  xy: 255, 2
+  size: 71, 62
+  orig: 128, 128
+  offset: 29, 35
+  index: -1
+images/effect/lichang10
+  rotate: false
+  xy: 177, 10
+  size: 76, 63
+  orig: 128, 128
+  offset: 27, 34
+  index: -1
+images/effect/lichang11
+  rotate: true
+  xy: 277, 307
+  size: 80, 47
+  orig: 128, 128
+  offset: 25, 49
+  index: -1
+images/effect/lichang12
+  rotate: true
+  xy: 277, 536
+  size: 81, 48
+  orig: 128, 128
+  offset: 25, 48
+  index: -1
+images/effect/lichang13
+  rotate: true
+  xy: 272, 619
+  size: 81, 50
+  orig: 128, 128
+  offset: 25, 48
+  index: -1
+images/effect/lichang14
+  rotate: true
+  xy: 288, 456
+  size: 78, 39
+  orig: 128, 128
+  offset: 27, 59
+  index: -1
+images/effect/lichang15
+  rotate: true
+  xy: 286, 92
+  size: 79, 39
+  orig: 128, 128
+  offset: 25, 59
+  index: -1
+images/effect/lichang16
+  rotate: true
+  xy: 284, 712
+  size: 83, 39
+  orig: 128, 128
+  offset: 23, 59
+  index: -1
+images/effect/shandian01
+  rotate: false
+  xy: 222, 600
+  size: 48, 100
+  orig: 64, 128
+  offset: 6, 15
+  index: -1
+images/effect/shandian02
+  rotate: false
+  xy: 216, 475
+  size: 59, 100
+  orig: 64, 128
+  offset: 5, 25
+  index: -1
+images/effect/shandian03
+  rotate: false
+  xy: 222, 702
+  size: 60, 93
+  orig: 64, 128
+  offset: 4, 27
+  index: -1
+images/effect/shandian04
+  rotate: false
+  xy: 229, 389
+  size: 57, 84
+  orig: 64, 128
+  offset: 7, 39
+  index: -1
+images/effect/shandian05
+  rotate: true
+  xy: 2, 30
+  size: 57, 84
+  orig: 64, 128
+  offset: 7, 39
+  index: -1
+images/effect/shandian06
+  rotate: true
+  xy: 88, 18
+  size: 55, 87
+  orig: 64, 128
+  offset: 0, 36
+  index: -1
+images/effect/shandian07
+  rotate: false
+  xy: 214, 265
+  size: 61, 95
+  orig: 64, 128
+  offset: 3, 28
+  index: -1

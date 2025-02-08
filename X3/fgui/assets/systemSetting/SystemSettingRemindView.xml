@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kk3sys7i">
+  <displayList>
+    <loader id="n28_cc67" name="bg" xy="34,215" size="682,950" group="n32_i4ei" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n29_cc67" name="n29" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,302" size="638,834" group="n32_i4ei"/>
+    <text id="n30_cc67" name="labelTitle" xy="311,233" size="131,44" group="n32_i4ei" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="提醒设置"/>
+    <list id="n33_i4ei" name="itemList" xy="72,319" size="604,804" group="n32_i4ei" overflow="scroll" lineGap="10" defaultItem="ui://b04b0bf1i4ei24" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n32_i4ei" name="G_all" xy="34,215" size="682,950" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

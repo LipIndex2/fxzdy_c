@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ff8c5cbd">
+  <resources>
+    <image id="116b8" name="tuceng114.png" path="/img/"/>
+    <image id="116b11" name="zhaohuan_2.png" path="/img/"/>
+    <image id="116b13" name="xuanzhong.png" path="/img/"/>
+    <component id="116b16" name="GameModeMainView.xml" path="/"/>
+    <component id="piwi17" name="GameModeTabComp.xml" path="/components/"/>
+    <component id="piwi18" name="GameModeSubItemComp.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="82,110" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n19_c9kw" name="n19" src="c9kw121" fileName="img/lmkj_rukou.png" xy="0,0"/>
+    <component id="n20_wu6b" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="73,12" controller="type,3"/>
+    <text id="n21_wu6b" name="title" xy="41,72" pivot="0.5,0.5" anchor="true" size="83,29" fontSize="20" color="#fffefe" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" text="联盟砍价"/>
+    <text id="n22_wu6b" name="lbTime" xy="41,98" pivot="0.5,0.5" anchor="true" size="72,26" fontSize="18" color="#5fff8c" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="8天16时"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

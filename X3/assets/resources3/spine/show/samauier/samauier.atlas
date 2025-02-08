@@ -1,0 +1,307 @@
+
+samauier.png
+size: 600,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 2, 56
+  size: 106, 59
+  orig: 106, 59
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 465, 179
+  size: 66, 105
+  orig: 66, 105
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 361, 473
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: 180
+  xy: 219, 147
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 191, 407
+  size: 154, 168
+  orig: 154, 168
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 437, 27
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 2, 107
+  size: 182, 88
+  orig: 182, 94
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 2, 196
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 137, 251
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 339, 76
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: true
+  xy: 128, 54
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 42, 140
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 109, 177
+  size: 70, 105
+  orig: 70, 106
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: 180
+  xy: 81, 284
+  size: 163, 159
+  orig: 163, 159
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: true
+  xy: 389, 18
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: false
+  xy: 359, 435
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: true
+  xy: 332, 27
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: true
+  xy: 185, 25
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: false
+  xy: 316, 203
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+J zd26
+  rotate: true
+  xy: 2, 284
+  size: 154, 60
+  orig: 154, 60
+  offset: 0, 0
+  index: -1
+J zd27
+  rotate: 180
+  xy: 306, 355
+  size: 292, 185
+  orig: 292, 185
+  offset: 0, 0
+  index: -1
+J zd28
+  rotate: true
+  xy: 517, 51
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+J zd29
+  rotate: false
+  xy: 185, 77
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 89, 4
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+J zd30
+  rotate: false
+  xy: 309, 133
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+J zd31
+  rotate: true
+  xy: 498, 104
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 561, 524
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 338, 410
+  size: 34, 23
+  orig: 35, 23
+  offset: 1, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 431, 448
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 503, 537
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 244, 9
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: 180
+  xy: 434, 55
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+bu
+  rotate: 180
+  xy: 256, 63
+  size: 82, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+shou
+  rotate: 270
+  xy: 18, 13
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+xcq1
+  rotate: 270
+  xy: 67, 263
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+xcq2
+  rotate: false
+  xy: 400, 103
+  size: 100, 99
+  orig: 157, 144
+  offset: 1, 0
+  index: -1
+xcq3
+  rotate: 270
+  xy: 206, 249
+  size: 167, 114
+  orig: 167, 114
+  offset: 0, 0
+  index: -1
+xcq4
+  rotate: false
+  xy: 472, 505
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 104, 145
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 496, 19
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+zhauntou3
+  rotate: false
+  xy: 2, 440
+  size: 187, 120
+  orig: 187, 120
+  offset: 0, 0
+  index: -1
+zhuantou2
+  rotate: false
+  xy: 470, 247
+  size: 117, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+zuantou
+  rotate: false
+  xy: 344, 263
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1

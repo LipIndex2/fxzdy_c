@@ -1,0 +1,48 @@
+
+zhanlitisheng_upper.png
+size: 800,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect_zhanlitisheng/zhanlitisheng_shang_2
+  rotate: false
+  xy: 2, 102
+  size: 371, 121
+  orig: 375, 125
+  offset: 0, 2
+  index: -1
+images/effect_zhanlitisheng/zhanlitisheng_shang_3
+  rotate: 180
+  xy: 371, 111
+  size: 365, 113
+  orig: 375, 125
+  offset: 7, 3
+  index: -1
+images/effect_zhanlitisheng/zhanlitisheng_shang_4
+  rotate: 180
+  xy: 449, 3
+  size: 350, 109
+  orig: 375, 125
+  offset: 15, 9
+  index: -1
+images/effect_zhanlitisheng/zhanlitisheng_shang_5
+  rotate: false
+  xy: 255, 13
+  size: 192, 89
+  orig: 375, 125
+  offset: 151, 17
+  index: -1
+images/effect_zhanlitisheng/zhanlitisheng_shang_6
+  rotate: false
+  xy: 2, 5
+  size: 152, 98
+  orig: 375, 125
+  offset: 190, 19
+  index: -1
+images/effect_zhanlitisheng/zhanlitisheng_shang_7
+  rotate: false
+  xy: 150, 6
+  size: 105, 80
+  orig: 375, 125
+  offset: 227, 35
+  index: -1

@@ -1,0 +1,97 @@
+
+skill02_start_upper.png
+size: 226,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/02_huan_00000
+  rotate: false
+  xy: 146, 323
+  size: 37, 22
+  orig: 150, 60
+  offset: 57, 21
+  index: -1
+effect/02_huan_00001
+  rotate: true
+  xy: 193, 122
+  size: 63, 29
+  orig: 150, 60
+  offset: 44, 18
+  index: -1
+effect/02_huan_00002
+  rotate: true
+  xy: 189, 37
+  size: 83, 35
+  orig: 150, 60
+  offset: 35, 15
+  index: -1
+effect/02_huan_00003
+  rotate: true
+  xy: 147, 15
+  size: 105, 40
+  orig: 150, 60
+  offset: 24, 12
+  index: -1
+effect/02_huan_00004
+  rotate: true
+  xy: 147, 122
+  size: 122, 44
+  orig: 150, 60
+  offset: 15, 10
+  index: -1
+effect/02_huan_00005
+  rotate: false
+  xy: 2, 2
+  size: 130, 47
+  orig: 150, 60
+  offset: 10, 8
+  index: -1
+effect/02_huan_00006
+  rotate: false
+  xy: 2, 143
+  size: 139, 50
+  orig: 150, 60
+  offset: 5, 5
+  index: -1
+effect/02_huan_00007
+  rotate: false
+  xy: 2, 298
+  size: 142, 50
+  orig: 150, 60
+  offset: 3, 4
+  index: -1
+effect/02_huan_00008
+  rotate: false
+  xy: 2, 246
+  size: 142, 50
+  orig: 150, 60
+  offset: 3, 4
+  index: -1
+effect/02_huan_00009
+  rotate: false
+  xy: 2, 195
+  size: 143, 49
+  orig: 150, 60
+  offset: 2, 4
+  index: -1
+effect/02_huan_00010
+  rotate: false
+  xy: 2, 96
+  size: 143, 45
+  orig: 150, 60
+  offset: 2, 4
+  index: -1
+effect/02_huan_00011
+  rotate: false
+  xy: 2, 51
+  size: 143, 43
+  orig: 150, 60
+  offset: 2, 5
+  index: -1
+effect/02_ta
+  rotate: false
+  xy: 146, 246
+  size: 75, 75
+  orig: 80, 80
+  offset: 3, 2
+  index: -1

@@ -1,0 +1,13 @@
+
+wenjiang_duchi.png
+size: 16,21
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js025
+  rotate: false
+  xy: 2, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="685,149">
+  <controller name="c1" pages="0,未达成,1,可领取,2,已领取" selected="2"/>
+  <controller name="c2" pages="0,未达成,1,可领取,2,已领取,3,未解锁" selected="3"/>
+  <displayList>
+    <loader id="n43_bezo" name="n43" xy="0,0" size="685,149" url="ui://6db1f71ateox7i" fill="scaleFree">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n45_bezo" name="n45" xy="3,3" size="364,140" url="ui://6db1f71ateox7j" fill="scaleFree" color="#f2e0c0"/>
+    <image id="n46_bezo" name="n46" src="teox7k" fileName="img/tuceng111.png" xy="3,3"/>
+    <list id="n34_bezo" name="list_award1" xy="166,22" size="150,104" layout="row" overflow="hidden" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+    </list>
+    <list id="n35_bezo" name="list_award2" xy="383,22" size="267,104" layout="row" overflow="hidden" colGap="13" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+      <item/>
+    </list>
+    <text id="n44_bezo" name="T_level" xy="34,25" pivot="0.5,0.5" size="52,54" fontSize="40" color="#f2e0c0" align="center" vAlign="middle" strokeColor="#7b6746" strokeSize="3" text="31"/>
+    <text id="n47_bezo" name="n47" xy="37,91" pivot="0.5,0.5" size="48,32" fontSize="22" color="#f2e0c0" align="center" vAlign="middle" strokeColor="#7b6746" strokeSize="3" text="等级"/>
+    <image id="n48_bezo" name="n48" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="27,83" size="70,3" color="#c0a26d"/>
+  </displayList>
+</component>

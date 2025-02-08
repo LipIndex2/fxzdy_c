@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="78157e75">
+  <resources>
+    <image id="bc8b2" name="sd_A_common_xz_tab.png" path="/img/"/>
+    <image id="bc8b3" name="sd_Kkapaipeiyangbuzhen_zhiyezhenyingtubiao_zyzq01_icon.png" path="/img/"/>
+    <image id="bc8b4" name="sd_A_common_gth_btn.png" path="/img/"/>
+    <image id="bc8b5" name="sd_A_common_wxz_tab.png" path="/img/"/>
+    <image id="bc8b7" name="sd_Kkapaipeiyangbuzhen_zhiyezhenyingtubiao_zyfz01_icon.png" path="/img/"/>
+    <image id="bc8b9" name="scale_80%_sd_A_common_paimingframe.png" path="/img/"/>
+    <image id="bc8b10" name="scale_90%_sd_A_common_no1_icon.png" path="/img/"/>
+    <image id="bc8b11" name="scale_90%_sd_A_common_blue_frame.png" path="/img/"/>
+    <image id="bc8b12" name="scale_90%_Ttouxiang_tx_001.png" path="/img/"/>
+    <image id="bc8b15" name="scale_90%_sd_A_common_no2_icon.png" path="/img/"/>
+    <image id="bc8b17" name="scale_90%_sd_A_common_no3_icon.png" path="/img/"/>
+    <component id="bc8b23" name="leagueBossRankView.xml" path="/"/>
+    <image id="bc8b26" name="sd_A_common_bossfydi_frame.png" path="/img/"/>
+    <image id="bc8b27" name="sd_A_common_gray_frame.png" path="/img/"/>
+    <image id="bc8b28" name="sd_A_common_green_frame.png" path="/img/"/>
+    <image id="bc8b29" name="sd_A_common_blue_frame_11.png" path="/img/"/>
+    <image id="bc8b30" name="sd_A_common_Purple_frame.png" path="/img/"/>
+    <image id="bc8b32" name="scale_70%_sd_A_common_word_tag.png" path="/img/"/>
+    <image id="bc8b33" name="word_tagkaobei6.png" path="/img/"/>
+    <image id="bc8b35" name="scale_85%_sd_A_common_paimingframe.png" path="/img/"/>
+    <image id="bc8b36" name="sd_A_common_no1_icon.png" path="/img/"/>
+    <image id="bc8b40" name="sd_A_common_no2_icon.png" path="/img/"/>
+    <image id="bc8b41" name="sd_A_common_no3_icon.png" path="/img/"/>
+    <image id="bc8b43" name="tuceng981.png" path="/img/"/>
+    <component id="bc8b44" name="leagueBossRewardView.xml" path="/"/>
+    <image id="bc8b45" name="jiesuodi.png" path="/img/"/>
+    <image id="bc8b46" name="xinjiesuo.png" path="/img/"/>
+    <component id="bc8b47" name="leagueBossNewStageView.xml" path="/"/>
+    <image id="bc8b48" name="zu13055.jpg" path="/img/"/>
+    <image id="bc8b49" name="zu13058.png" path="/img/"/>
+    <image id="bc8b50" name="tuceng903.png" path="/img/"/>
+    <image id="bc8b51" name="sd_A_common_jt_icon_24.png" path="/img/"/>
+    <image id="bc8b52" name="scale_50%_sd_A_common_zjtx_frame.png" path="/img/"/>
+    <image id="bc8b55" name="ka.png" path="/img/"/>
+    <image id="bc8b56" name="tuceng938.png" path="/img/"/>
+    <image id="bc8b57" name="scale_80%_sd_Kkapaipeiyang-buzhen_zhiyezhenyingtubiao_22.png" path="/img/"/>
+    <image id="bc8b58" name="sd_A_common_kppydi_blood.png" path="/img/"/>
+    <image id="bc8b59" name="sd_A_common_kppy_blood.png" path="/img/" scale="9grid" scale9grid="9,4,18,8"/>
+    <image id="bc8b61" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="bc8b62" name="scale_80%_sd_A_common_yjb_tag.png" path="/img/"/>
+    <image id="bc8b63" name="sd_A_common_xz__frame_20.png" path="/img/"/>
+    <image id="bc8b64" name="sd_A_common_xz__frame.png" path="/img/"/>
+    <image id="bc8b66" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="bc8b67" name="sd_A_common_gth_btn_19.png" path="/img/"/>
+    <image id="bc8b68" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="bc8b69" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="bc8b70" name="sd_A_common_buzhen_btn.png" path="/img/"/>
+    <image id="bc8b75" name="tuceng978_15.png" path="/img/"/>
+    <image id="bc8b76" name="scale_80%_sd_A_common_no2_icon.png" path="/img/"/>
+    <image id="bc8b77" name="scale_80%_sd_A_common_no1_icon.png" path="/img/"/>
+    <image id="bc8b79" name="scale_80%_sd_Kkapaipeiyang-buzhen_zhiyezhenyingtubiao.png" path="/img/"/>
+    <image id="bc8b80" name="sd_A_common_jt_icon.png" path="/img/"/>
+    <image id="bc8b81" name="sd_Rrukoutubiao_rk0001_icon.png" path="/img/"/>
+    <image id="bc8b82" name="sd_Rrukoutubiao_rk0002_icon.png" path="/img/"/>
+    <image id="bc8b83" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="bc8b84" name="dangqianjieduan.png" path="/img/"/>
+    <component id="bc8b85" name="leagueBossMainView.xml" path="/"/>
+    <component id="zzft86" name="bossHpBar.xml" path="/component/"/>
+    <component id="zzft87" name="leagueBossRankTop3.xml" path="/component/"/>
+    <component id="zzft88" name="bossCell.xml" path="/component/"/>
+    <component id="zzft89" name="bossCellHpBar.xml" path="/component/"/>
+    <component id="sh628a" name="rankBossRewardCell.xml" path="/component/"/>
+    <component id="sh628b" name="leagueBossRankTab.xml" path="/btn/"/>
+    <component id="qlkj8d" name="leagueBossBattleSuccess.xml" path="/"/>
+    <image id="qlkj8e" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="qlkj8f" name="scale_80%_sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="qlkj8g" name="tubiao_1.png" path="/img/"/>
+    <image id="qlkj8h" name="sd_A_common_word_tag.png" path="/img/"/>
+    <image id="qlkj8i" name="sd_A_common_xjl_word_0.png" path="/img/"/>
+    <component id="qlkj8j" name="leagueBossBackground.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

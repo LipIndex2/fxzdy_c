@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="564,200">
+  <displayList>
+    <image id="n3_51a6" name="n3" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="0,0" size="564,37" color="#4a82ed"/>
+    <list id="n6_t5gy" name="listReward" xy="0,54" size="564,146" layout="flow_hz" overflow="scroll" lineGap="11" colGap="11" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n4_51a6" name="n4" xy="77,18" pivot="0.5,0.5" anchor="true" size="107,36" fontSize="26" color="#ffffff" vAlign="middle" text="概率获得"/>
+  </displayList>
+</component>

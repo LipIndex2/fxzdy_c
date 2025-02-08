@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="396,78">
+  <displayList>
+    <image id="n22_8a38" name="n22" src="8a3857" fileName="img/sd_A_common_pz_frame_22.png" xy="0,0"/>
+    <image id="n23_8a38" name="n23" src="8a3858" fileName="img/sd_A_common_pz_frame.png" xy="198,0"/>
+    <text id="n24_8a38" name="title" xy="12,17" size="374,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#090800" strokeSize="3" text="蟑螂之主-地狱难度"/>
+  </displayList>
+</component>

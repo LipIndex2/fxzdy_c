@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="303,42">
+  <displayList>
+    <image id="n165_uvvc" name="n165" src="uvvcvvv1gh" fileName="bgImage/shuxingtiao_frame.png" pkg="38fa8c75" xy="1,0" size="302,42"/>
+    <image id="n151_uvvc" name="n151" src="105pvv18e" fileName="bgImage/shuxingdi1_frame.png" pkg="38fa8c75" xy="0,1" color="#153177"/>
+    <loader id="n155_uvvc" name="attIcon" xy="7,5" size="32,32" url="ui://38fa8c75105pvv188" color="#4bc1fa" clearOnPublish="true"/>
+    <text id="n113_4283" name="curValue" xy="71,4" pivot="0,0.5" size="55,36" fontSize="26" color="#aabff1" vAlign="middle" autoClearText="true" text="攻击"/>
+    <text id="n162_uvvc" name="nextValue" xy="224,2" pivot="0.5,0.5" size="78,39" fontSize="28" color="#aabff1" vAlign="middle" autoClearText="true" text="100%"/>
+  </displayList>
+</component>

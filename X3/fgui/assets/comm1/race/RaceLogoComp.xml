@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,64">
+  <displayList>
+    <loader id="n0_tqjl" name="imageLogo" xy="0,0" pivot="0.5,0.5" size="64,64" url="ui://7q3fcj1ktqjl6l" align="center" vAlign="middle" fill="scaleMatchWidth" clearOnPublish="true"/>
+  </displayList>
+</component>

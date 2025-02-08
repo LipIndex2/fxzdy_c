@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kdx6es9u" designImageAlpha="0">
+  <controller name="up" pages="0,,1,acive,2,upLV" selected="0">
+    <remark page="1" value="激活成功"/>
+    <remark page="2" value="升级成功"/>
+  </controller>
+  <displayList>
+    <image id="n55_bc0f" name="n55" src="dx6er" fileName="img/bg.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n57_bc0f" name="n57" src="dx6et" fileName="img/xljb_guang.png" xy="59,186" pivot="0.5,0.5" group="n84_dx6e" alpha="0.8"/>
+    <image id="n56_bc0f" name="n56" src="dx6es" fileName="img/xljb_xingxidi2.png" xy="76,671" pivot="0.5,0" group="n84_dx6e"/>
+    <image id="n64_bc0f" name="n64" src="dx6ev" fileName="img/xljb_xingxidi1.png" xy="237,315" pivot="0.5,0.5" group="n84_dx6e"/>
+    <text id="n65_bc0f" name="lblGroupName" xy="284,321" pivot="0.5,0.5" size="182,42" group="n84_dx6e" fontSize="30" color="#ffe764" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="星灵羁绊名字"/>
+    <image id="n81_bc0f" name="n81" src="03e415" fileName="bgImage/gxhdbt_frame.png" pkg="38fa8c75" xy="212,189" pivot="0.5,0.5" group="n84_dx6e"/>
+    <loader id="n82_bc0f" name="n82" xy="213,197" pivot="0.5,0.5" size="323,47" group="n84_dx6e" url="ui://kgeugj0mdx6ew">
+      <gearIcon controller="up" pages="2" values="ui://kgeugj0mdx6ex" default="ui://kgeugj0mdx6ew"/>
+    </loader>
+    <component id="n88_dx6e" name="BtnClose" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="231,917" size="304,118" group="n84_dx6e">
+      <Button title="太棒了"/>
+    </component>
+    <list id="n91_dx6e" name="petList" xy="90,407" size="580,204" group="n84_dx6e" layout="row" overflow="scroll" scroll="horizontal" colGap="52" defaultItem="ui://kgeugj0mdx6ey" autoItemSize="false" align="center" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+    </list>
+    <image id="n58_bc0f" name="n58" src="dx6eu" fileName="img/di.png" xy="283,686" group="n92_dx6e"/>
+    <text id="n59_bc0f" name="lblAddDesc" xy="303,687" pivot="0.5,0.5" size="147,34" group="n92_dx6e" fontSize="24" color="#f7fcc4" vAlign="middle" strokeColor="#000000" strokeSize="2" text="羁绊激活加成"/>
+    <list id="n89_dx6e" name="addList" xy="161,733" pivot="0.5,0" size="430,72" group="n92_dx6e" layout="flow_hz" overflow="scroll" defaultItem="ui://kgeugj0mdx6ep" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n92_dx6e" name="n92" xy="161,686" size="430,119" group="n84_dx6e" advanced="true"/>
+    <group id="n84_dx6e" name="root" xy="59,186" size="624,849" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="Alpha" target="n64_bc0f" value="0"/>
+    <item time="0" type="Alpha" target="n65_bc0f" value="0"/>
+    <item time="0" type="Alpha" target="n88_dx6e" value="0"/>
+    <item time="0" type="Alpha" target="n92_dx6e" value="0"/>
+    <item time="0" type="Rotation" target="n57_bc0f" tween="true" startValue="0" endValue="360" duration="48" ease="Linear" repeat="-1"/>
+    <item time="0" type="Scale" target="n56_bc0f" value="0,0"/>
+    <item time="0" type="Scale" target="n81_bc0f" value="0,0"/>
+    <item time="0" type="Scale" target="n82_bc0f" value="0,0"/>
+    <item time="5" type="Scale" target="n81_bc0f" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="5" type="Scale" target="n82_bc0f" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="10" type="Alpha" target="n64_bc0f" tween="true" startValue="0.5" endValue="1" duration="4"/>
+    <item time="10" type="Alpha" target="n65_bc0f" tween="true" startValue="0.5" endValue="1" duration="4"/>
+    <item time="14" type="Scale" target="n56_bc0f" tween="true" startValue="0,0" endValue="1,1" duration="5"/>
+    <item time="18" type="Alpha" target="n92_dx6e" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="21" type="Alpha" target="n88_dx6e" tween="true" startValue="0.5" endValue="1" duration="4"/>
+  </transition>
+</component>

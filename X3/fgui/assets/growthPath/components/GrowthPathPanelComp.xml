@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,282">
+  <displayList>
+    <image id="n3_ed86" name="bg" src="ed863" fileName="img/jiangli_8.png" xy="0,0"/>
+    <text id="n29_ed86" name="labelTitle" xy="261,4" pivot="0.5,0.5" size="187,49" fontSize="36" color="#3661dc" align="center" vAlign="middle" autoSize="none" text="10阶"/>
+    <list id="n32_tl0c" name="itemList" xy="109,69" size="506,107" layout="row" overflow="scroll" scroll="horizontal" colGap="26" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n28_ed86" name="labelTips" xy="233,238" size="242,34" group="n37_tl0c" fontSize="24" color="#ffffff" text="完成所有任务领取奖励"/>
+    <image id="n35_tl0c" name="n35" src="ed864" fileName="img/jiantou_tag_7.png" xy="483,243" group="n37_tl0c"/>
+    <image id="n36_tl0c" name="n36" src="ed865" fileName="img/jiantou_tag.png" xy="166,243" group="n37_tl0c"/>
+    <group id="n37_tl0c" name="n37" xy="166,238" size="376,34"/>
+    <component id="n24_ed86" name="barPercent" src="tl0c46" fileName="bar/GrowthPathBarKppy.xml" xy="113,205" size="483,23" group="n38_tl0c">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n27_ed86" name="labelPercent" xy="308,198" pivot="0.5,0.5" size="90,36" group="n38_tl0c" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="4/10"/>
+    <group id="n38_tl0c" name="n38" xy="113,198" size="483,36"/>
+  </displayList>
+</component>

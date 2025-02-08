@@ -1,0 +1,125 @@
+
+skill02_loop_lower.png
+size: 700,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huofu_buff_00000
+  rotate: true
+  xy: 620, 234
+  size: 176, 78
+  orig: 190, 94
+  offset: 8, 6
+  index: -1
+effect/huofu_buff_00002
+  rotate: false
+  xy: 181, 241
+  size: 175, 82
+  orig: 190, 94
+  offset: 9, 5
+  index: -1
+effect/huofu_buff_00003
+  rotate: false
+  xy: 2, 240
+  size: 175, 82
+  orig: 190, 94
+  offset: 9, 5
+  index: -1
+effect/huofu_buff_00005
+  rotate: false
+  xy: 181, 325
+  size: 177, 85
+  orig: 190, 94
+  offset: 6, 4
+  index: -1
+effect/huofu_buff_00006
+  rotate: false
+  xy: 2, 324
+  size: 177, 86
+  orig: 190, 94
+  offset: 5, 4
+  index: -1
+effect/huofu_buff_00008
+  rotate: false
+  xy: 360, 241
+  size: 174, 84
+  orig: 190, 94
+  offset: 5, 6
+  index: -1
+effect/huofu_buff_00010
+  rotate: false
+  xy: 360, 327
+  size: 177, 83
+  orig: 190, 94
+  offset: 5, 4
+  index: -1
+effect/huofu_buff_00012
+  rotate: false
+  xy: 356, 77
+  size: 174, 80
+  orig: 190, 94
+  offset: 5, 4
+  index: -1
+effect/huofu_buff_00014
+  rotate: false
+  xy: 177, 79
+  size: 177, 79
+  orig: 190, 94
+  offset: 5, 7
+  index: -1
+effect/huofu_buff_00015
+  rotate: false
+  xy: 360, 159
+  size: 176, 80
+  orig: 190, 94
+  offset: 7, 6
+  index: -1
+effect/huofu_buff_00017
+  rotate: false
+  xy: 2, 157
+  size: 173, 81
+  orig: 190, 94
+  offset: 8, 4
+  index: -1
+effect/huofu_buff_00019
+  rotate: false
+  xy: 183, 2
+  size: 179, 73
+  orig: 190, 94
+  offset: 6, 6
+  index: -1
+effect/huofu_buff_00021
+  rotate: true
+  xy: 539, 231
+  size: 179, 79
+  orig: 190, 94
+  offset: 6, 4
+  index: -1
+effect/huofu_buff_00023
+  rotate: true
+  xy: 620, 53
+  size: 179, 76
+  orig: 190, 94
+  offset: 6, 6
+  index: -1
+effect/huofu_buff_00025
+  rotate: false
+  xy: 2, 3
+  size: 179, 74
+  orig: 190, 94
+  offset: 6, 6
+  index: -1
+effect/huofu_buff_00027
+  rotate: false
+  xy: 179, 160
+  size: 179, 79
+  orig: 190, 94
+  offset: 6, 4
+  index: -1
+effect/huofu_buff_00029
+  rotate: true
+  xy: 538, 53
+  size: 176, 79
+  orig: 190, 94
+  offset: 6, 5
+  index: -1

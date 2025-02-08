@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n220_k045" name="img_bg" xy="0,0" size="750,537" url="ui://789979936b6166" autoSize="true"/>
+    <image id="n230_s8ul" name="n230" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-149" size="750,232" color="#223f8f">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n188_6b61" name="n188" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="22,138" size="262,37" alpha="0.25"/>
+    <image id="n146_6b61" name="n146" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,366" size="750,968">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <image id="n147_6b61" name="n147" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,398" size="730,796">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <text id="n186_6b61" name="T_title" xy="18,62" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="秘境达标"/>
+    <richtext id="n226_k045" name="T_count" xy="22,316" pivot="0,0.5" size="230,39" fontSize="28" color="#ffffff" vAlign="middle" ubb="true" vars="true" strokeColor="#000000" strokeSize="3" text="当前奖励轮数:[color=#FF8651]1/4[/color]"/>
+    <richtext id="n224_k045" name="T_time" xy="47,143" pivot="0,0.5" size="207,29" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" text="活动倒计时:[color=#3CFE37]5天30小时[/color]"/>
+    <list id="n229_k045" name="list_task" xy="32,417" size="685,753" overflow="scroll" lineGap="10" defaultItem="ui://78997993k04583">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n223_k045" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="528,80" controller="isTop,1"/>
+    <component id="n228_k045" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,77"/>
+    <component id="n227_k045" name="btn_jump" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="507,314" size="240,43" visible="false">
+      <Button icon="ui://789979936b6167"/>
+    </component>
+    <component id="n231_teox" name="btn_left" src="teox8b" fileName="item/btn_jt.xml" xy="0,750" size="43,61" scale="-1,1">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75teoxvvv1kc"/>
+    </component>
+    <component id="n232_teox" name="btn_right" src="teox8b" fileName="item/btn_jt.xml" xy="707,750" size="43,61">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75teoxvvv1kc"/>
+    </component>
+  </displayList>
+</component>

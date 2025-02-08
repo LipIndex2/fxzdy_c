@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="224,142">
+  <displayList>
+    <component id="n40_gtlw" name="mapItem" src="v891vvv1er" fileName="miniMap/MiniMapItem.xml" pkg="38fa8c75" xy="0,0" size="224,142" touchable="false">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <image id="n42_gtlw" name="n42" src="fdf159" fileName="img/fangdajing.png" xy="100,13" size="28,28">
+      <relation target="n41_gtlw" sidePair="left-right"/>
+    </image>
+    <text id="n41_gtlw" name="lbName" xy="17,13" size="83,29" fontSize="20" color="#ffffff" strokeColor="#000000" strokeSize="2" text="初级星球"/>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+
+huanxing_lower.png
+size: 679,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huan01
+  rotate: false
+  xy: 2, 2
+  size: 675, 615
+  orig: 750, 750
+  offset: 34, 94
+  index: -1

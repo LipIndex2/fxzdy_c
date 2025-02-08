@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="205,54">
+  <displayList>
+    <image id="n16_8301" name="bg" src="830112" fileName="img/sd_A_common_szdi1_frame.png" xy="0,6"/>
+    <text id="n17_8301" name="labelItemCount" xy="73,5" size="117,49" fontSize="36" color="#fefefe" align="center" vAlign="middle" text="28399"/>
+    <loader id="n18_8301" name="imageItem" xy="12,1" size="48,48" url="ui://e93efac4830113" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+  </displayList>
+</component>

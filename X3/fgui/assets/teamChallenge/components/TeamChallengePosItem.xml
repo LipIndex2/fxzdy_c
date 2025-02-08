@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,230">
+  <displayList>
+    <image id="n8_ig8t" name="shadow" src="bbe32" fileName="img/touying.png" xy="4,205" size="94,23" alpha="0.3"/>
+    <component id="n1_ig8t" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="50,217" size="100,100" group="n13_ig8t"/>
+    <loader id="n7_ig8t" name="imgTitle" xy="-26,-22" size="152,49" group="n13_ig8t" align="center" fill="scaleMatchWidth" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n11_ig8t" name="imgCaptain" src="bbe36" fileName="img/dui.png" xy="-12,78" size="25,29" group="n13_ig8t"/>
+    <group id="n13_ig8t" name="roleG" xy="-26,-22" size="152,289" advanced="true"/>
+    <image id="n5_ig8t" name="imgAdd" src="bbe38" fileName="img/tianjia_113.png" xy="-4,106" size="109,109"/>
+    <text id="n9_ig8t" name="lbName" xy="-10,31" size="119,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="本市大魔d1"/>
+    <text id="n14_v5mw" name="lbCondition" xy="-113,210" size="331,32" fontSize="22" color="#00ccff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="加入队伍"/>
+  </displayList>
+</component>

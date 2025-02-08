@@ -1,0 +1,90 @@
+
+skill01_upper.png
+size: 192,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xiaozhao_01_00000
+  rotate: false
+  xy: 151, 265
+  size: 16, 21
+  orig: 90, 100
+  offset: 65, 41
+  index: -1
+images/xiaozhao_01_00001
+  rotate: false
+  xy: 86, 60
+  size: 53, 52
+  orig: 90, 100
+  offset: 29, 25
+  index: -1
+images/xiaozhao_01_00002
+  rotate: false
+  xy: 85, 223
+  size: 64, 63
+  orig: 90, 100
+  offset: 18, 18
+  index: -1
+images/xiaozhao_01_00003
+  rotate: false
+  xy: 84, 114
+  size: 73, 77
+  orig: 90, 100
+  offset: 9, 10
+  index: -1
+images/xiaozhao_01_00004
+  rotate: true
+  xy: 2, 27
+  size: 76, 82
+  orig: 90, 100
+  offset: 8, 10
+  index: -1
+images/xiaozhao_01_00005
+  rotate: false
+  xy: 2, 105
+  size: 80, 86
+  orig: 90, 100
+  offset: 5, 8
+  index: -1
+images/xiaozhao_01_00006
+  rotate: false
+  xy: 2, 193
+  size: 81, 93
+  orig: 90, 100
+  offset: 5, 4
+  index: -1
+images/xiaozhao_01_00007
+  rotate: false
+  xy: 167, 103
+  size: 23, 93
+  orig: 90, 100
+  offset: 64, 4
+  index: -1
+images/xiaozhao_01_00008
+  rotate: true
+  xy: 85, 198
+  size: 23, 95
+  orig: 90, 100
+  offset: 64, 3
+  index: -1
+images/xiaozhao_01_00009
+  rotate: false
+  xy: 141, 17
+  size: 24, 95
+  orig: 90, 100
+  offset: 64, 3
+  index: -1
+images/xiaozhao_01_00010
+  rotate: true
+  xy: 2, 2
+  size: 23, 96
+  orig: 90, 100
+  offset: 64, 2
+  index: -1
+images/xiaozhao_01_00011
+  rotate: false
+  xy: 167, 5
+  size: 18, 96
+  orig: 90, 100
+  offset: 69, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+gw_youchong.png
+size: 100,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 56, 10
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+10
+  rotate: 180
+  xy: 68, 41
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+11
+  rotate: 180
+  xy: 31, 15
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+12
+  rotate: 180
+  xy: 50, 21
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 78, 18
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 44, 4
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 84, 59
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 85, 8
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+5
+  rotate: 180
+  xy: 2, 8
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 37
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 26, 4
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 43, 35
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+9
+  rotate: 270
+  xy: 2, 19
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

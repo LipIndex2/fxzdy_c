@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n276_gkgv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,739" pivot="0.5,1" anchor="true" size="880,742" group="n280_c7h6"/>
+    <group id="n280_c7h6" name="n280" xy="-67,-3" size="880,742" advanced="true"/>
+    <text id="n277_c7h6" name="tipsExit" xy="306,1219" size="143,29" group="n281_c7h6" fontSize="20" color="#fffefe" text="点击空白处关闭"/>
+    <component id="n279_c7h6" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="620,1188" group="n281_c7h6" scale="0.8,0.8"/>
+    <component id="n283_lhcv" name="btnShare" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="516,1188" group="n281_c7h6" scale="0.8,0.8">
+      <Button icon="ui://38fa8c75lhcvvvv1f4"/>
+    </component>
+    <group id="n281_c7h6" name="n281" xy="306,1188" size="404,90" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n277_c7h6" value="0"/>
+    <item time="0" type="Alpha" target="n279_c7h6" value="0"/>
+    <item time="0" type="Alpha" target="n283_lhcv" value="0"/>
+    <item time="69" type="Alpha" target="n277_c7h6" tween="true" startValue="0" endValue="1" duration="9"/>
+    <item time="69" type="Alpha" target="n279_c7h6" tween="true" startValue="0" endValue="1" duration="9"/>
+    <item time="69" type="Alpha" target="n283_lhcv" tween="true" startValue="0" endValue="1" duration="9"/>
+  </transition>
+</component>

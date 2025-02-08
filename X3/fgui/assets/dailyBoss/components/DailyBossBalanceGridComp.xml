@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,150">
+  <displayList>
+    <component id="n33_ejy3" name="itemBtn" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="0,0" group="n32_ejy3"/>
+    <image id="n30_ejy3" name="bgPercent" src="ejy311b" fileName="img/ts_frame_0.png" xy="2,108" group="n32_ejy3"/>
+    <text id="n31_ejy3" name="labelPercent" xy="13,108" pivot="0.5,0.5" size="84,32" group="n32_ejy3" fontSize="22" color="#fefefe" align="center" vAlign="middle" autoSize="none" singleLine="true" text="100%"/>
+    <group id="n32_ejy3" name="n32" xy="0,0" size="104,140"/>
+  </displayList>
+</component>

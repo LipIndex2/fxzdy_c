@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,60" extention="Button" designImage="ui://7q3fcj1kdx6es9s" designImageOffsetX="-512" designImageOffsetY="-848">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_oetq" name="icon" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="150,60">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_oetq" name="title" xy="1,-3" pivot="0.5,0.5" size="150,60" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" singleLine="true" autoClearText="true" text="升级">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n3_dx6e" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="138,13">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button/>
+</component>

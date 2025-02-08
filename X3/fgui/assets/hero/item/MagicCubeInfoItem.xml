@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="496,413">
+  <displayList>
+    <image id="n114_q6dm" name="n114" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="0,0" size="496,413" group="n123_q6dm"/>
+    <image id="n120_q6dm" name="n120" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="38,179" size="421,8" group="n123_q6dm"/>
+    <loader id="n125_q6dm" name="img_frame" xy="42,48" pivot="0.5,0.5" size="104,104" group="n123_q6dm" scale="1.125,1.125" url="ui://38fa8c75dtss6f" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n124_q6dm" name="img_item" xy="39,48" pivot="0.5,0.5" size="104,104" group="n123_q6dm" scale="1.125,1.125" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n122_q6dm" name="T_name" xy="172,44" size="147,49" group="n123_q6dm" fontSize="36" color="#db83ff" vAlign="middle" strokeColor="#280931" strokeSize="2" text="原初魔方"/>
+    <text id="n115_q6dm" name="n115" xy="40,212" size="147,34" group="n123_q6dm" fontSize="24" color="#f6d860" vAlign="middle" text="【属性加成】"/>
+    <text id="n127_q6dm" name="T_level" xy="112,118" pivot="1,0.5" size="33,34" group="n123_q6dm" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000105" strokeSize="2" text="+1"/>
+    <list id="n126_q6dm" name="list_attr" xy="76,255" size="339,130" group="n123_q6dm" lineGap="9" defaultItem="ui://69f297488ixj2a">
+      <item/>
+      <item/>
+    </list>
+    <group id="n123_q6dm" name="n123" xy="0,0" size="496,413"/>
+  </displayList>
+</component>

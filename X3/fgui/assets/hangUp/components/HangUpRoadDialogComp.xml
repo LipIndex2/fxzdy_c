@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,87">
+  <displayList>
+    <loader id="n164_8a38" name="bgReward" xy="0,0" size="156,87" group="n167_piwi" url="ui://38fa8c75tml513e" fill="scaleFree"/>
+    <loader id="n166_piwi" name="imageReward" xy="9,9" pivot="0.5,0.5" size="48,48" group="n178_tml5" url="ui://7q3fcj1k8a3816" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n165_8a38" name="labelRewardCount" xy="59,16" size="91,35" group="n178_tml5" fontSize="24" color="#0266c3" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text=" x100">
+      <relation target="n166_piwi" sidePair="left-right"/>
+    </text>
+    <group id="n178_tml5" name="n178" xy="9,9" size="141,48" group="n167_piwi"/>
+    <group id="n167_piwi" name="n167" xy="0,0" size="156,87" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,146 @@
+
+skill02_2_upper.png
+size: 999,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_diyuzhilu1_00000
+  rotate: false
+  xy: 544, 96
+  size: 192, 75
+  orig: 200, 136
+  offset: 6, 29
+  index: -1
+effect/skill02_diyuzhilu1_00001
+  rotate: false
+  xy: 738, 29
+  size: 192, 75
+  orig: 200, 136
+  offset: 6, 29
+  index: -1
+effect/skill02_diyuzhilu1_00002
+  rotate: false
+  xy: 195, 97
+  size: 191, 76
+  orig: 200, 136
+  offset: 7, 29
+  index: -1
+effect/skill02_diyuzhilu1_00003
+  rotate: false
+  xy: 2, 97
+  size: 191, 77
+  orig: 200, 136
+  offset: 7, 29
+  index: -1
+effect/skill02_diyuzhilu1_00004
+  rotate: false
+  xy: 2, 18
+  size: 186, 77
+  orig: 200, 136
+  offset: 7, 29
+  index: -1
+effect/skill02_diyuzhilu1_00005
+  rotate: false
+  xy: 2, 271
+  size: 187, 91
+  orig: 200, 136
+  offset: 6, 29
+  index: -1
+effect/skill02_diyuzhilu1_00006
+  rotate: false
+  xy: 191, 271
+  size: 183, 91
+  orig: 200, 136
+  offset: 7, 29
+  index: -1
+effect/skill02_diyuzhilu1_00007
+  rotate: false
+  xy: 2, 178
+  size: 170, 91
+  orig: 200, 136
+  offset: 12, 29
+  index: -1
+effect/skill02_diyuzhilu1_00008
+  rotate: true
+  xy: 898, 199
+  size: 163, 91
+  orig: 200, 136
+  offset: 19, 29
+  index: -1
+effect/skill02_diyuzhilu1_00009
+  rotate: false
+  xy: 835, 106
+  size: 162, 91
+  orig: 200, 136
+  offset: 20, 29
+  index: -1
+effect/skill02_diyuzhilu1_00010
+  rotate: false
+  xy: 376, 269
+  size: 173, 93
+  orig: 200, 136
+  offset: 12, 29
+  index: -1
+effect/skill02_diyuzhilu1_00011
+  rotate: false
+  xy: 544, 2
+  size: 125, 92
+  orig: 200, 136
+  offset: 18, 30
+  index: -1
+effect/skill02_diyuzhilu1_00012
+  rotate: false
+  xy: 190, 3
+  size: 148, 92
+  orig: 200, 136
+  offset: 19, 30
+  index: -1
+effect/skill02_diyuzhilu1_00013
+  rotate: false
+  xy: 342, 175
+  size: 165, 92
+  orig: 200, 136
+  offset: 21, 30
+  index: -1
+effect/skill02_diyuzhilu1_00014
+  rotate: false
+  xy: 551, 269
+  size: 172, 93
+  orig: 200, 136
+  offset: 21, 30
+  index: -1
+effect/skill02_diyuzhilu1_00015
+  rotate: false
+  xy: 725, 269
+  size: 171, 93
+  orig: 200, 136
+  offset: 27, 30
+  index: -1
+effect/skill02_diyuzhilu1_00016
+  rotate: false
+  xy: 174, 176
+  size: 166, 93
+  orig: 200, 136
+  offset: 32, 30
+  index: -1
+effect/skill02_diyuzhilu1_00017
+  rotate: false
+  xy: 509, 174
+  size: 163, 93
+  orig: 200, 136
+  offset: 35, 30
+  index: -1
+effect/skill02_diyuzhilu1_00018
+  rotate: false
+  xy: 388, 78
+  size: 154, 94
+  orig: 200, 136
+  offset: 36, 29
+  index: -1
+effect/skill02_diyuzhilu1_00019
+  rotate: false
+  xy: 674, 173
+  size: 159, 94
+  orig: 200, 136
+  offset: 35, 29
+  index: -1

@@ -1,0 +1,69 @@
+
+skill03_upper.png
+size: 485,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill03_BAODIAN
+  rotate: false
+  xy: 190, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/effect/skill03_up_00000
+  rotate: false
+  xy: 362, 182
+  size: 116, 98
+  orig: 210, 180
+  offset: 94, 50
+  index: -1
+images/effect/skill03_up_00001
+  rotate: true
+  xy: 342, 25
+  size: 158, 141
+  orig: 210, 180
+  offset: 47, 27
+  index: -1
+images/effect/skill03_up_00002
+  rotate: false
+  xy: 2, 518
+  size: 210, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+images/effect/skill03_up_00003
+  rotate: false
+  xy: 2, 336
+  size: 210, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+images/effect/skill03_up_00004
+  rotate: false
+  xy: 2, 154
+  size: 187, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+images/effect/skill03_up_00006
+  rotate: 180
+  xy: 177, 155
+  size: 184, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+images/effect/skill03_up_00008
+  rotate: true
+  xy: 214, 518
+  size: 181, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+images/effect/skill03_up_00009
+  rotate: false
+  xy: 214, 347
+  size: 179, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1

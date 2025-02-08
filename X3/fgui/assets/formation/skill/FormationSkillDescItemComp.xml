@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="483,70">
+  <displayList>
+    <richtext id="n15_ad60" name="labelContent" xy="26,0" size="457,62" fontSize="22" color="#ffffff" ubb="true" autoSize="height" text="从战斗开始第   秒期，每隔20秒，召唤无人机对当前目标区域进行轰炸"/>
+    <image id="n19_ad60" name="logo" src="fxoc22" fileName="img/sd_A_common_lb_tag_0.png" xy="0,4"/>
+  </displayList>
+</component>

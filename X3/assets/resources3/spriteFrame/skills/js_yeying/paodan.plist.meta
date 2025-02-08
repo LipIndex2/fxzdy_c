@@ -1,0 +1,63 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "0b1f3251-4b65-4e08-aa4d-77afbb4a75c4",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "58c51": {
+      "importer": "sprite-frame",
+      "uuid": "0b1f3251-4b65-4e08-aa4d-77afbb4a75c4@58c51",
+      "displayName": "",
+      "id": "58c51",
+      "name": "paodan-idle_0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 72,
+        "height": 21,
+        "rawWidth": 72,
+        "rawHeight": 21,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a6f6b1d3-2635-495e-9bd5-f60832bd117e@6c48a",
+        "atlasUuid": "0b1f3251-4b65-4e08-aa4d-77afbb4a75c4"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "paodan.png",
+    "format": 3,
+    "uuid": "0b1f3251-4b65-4e08-aa4d-77afbb4a75c4",
+    "textureUuid": "a6f6b1d3-2635-495e-9bd5-f60832bd117e@6c48a"
+  }
+}

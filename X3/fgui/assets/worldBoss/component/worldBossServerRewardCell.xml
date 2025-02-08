@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,128">
+  <controller name="state" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_d6aa" name="n0" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="599,128" group="n8_uug0"/>
+    <image id="n1_d6aa" name="n1" src="d6aa56" fileName="img/scale_85%_sd_A_common_paimingframe.png" xy="3,3" group="n8_uug0"/>
+    <text id="n6_d6aa" name="title" xy="21,48" size="138,36" group="n8_uug0" fontSize="26" color="#58c2ff" strokeColor="#010e16" strokeSize="2" text="20日内击杀"/>
+    <list id="n7_uug0" name="rewardList" xy="188,17" size="423,106" group="n8_uug0" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <gearDisplay controller="state" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n9_uug0" name="n9" xy="315,42" pivot="0.5,0.5" size="93,42" group="n8_uug0" fontSize="30" color="#ffffff" strokeColor="#010e16" strokeSize="2" text="已超时">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <image id="n13_e1fv" name="n13" src="e1fv14c" fileName="img/sd_A_common_lbmb_frame.png" xy="0,0" group="n8_uug0" alpha="0.5">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <group id="n8_uug0" name="n8" xy="0,0" size="611,128"/>
+  </displayList>
+</component>

@@ -1,0 +1,69 @@
+
+skill02_shifa_upper.png
+size: 421,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_skill02_RING_00004
+  rotate: false
+  xy: 2, 764
+  size: 415, 214
+  orig: 450, 300
+  offset: 18, 39
+  index: -1
+images/effect/ef_skill02_RING_00006
+  rotate: false
+  xy: 2, 563
+  size: 415, 199
+  orig: 450, 300
+  offset: 18, 43
+  index: -1
+images/effect/ef_skill02_RING_00008
+  rotate: false
+  xy: 2, 377
+  size: 415, 184
+  orig: 450, 300
+  offset: 18, 51
+  index: -1
+images/effect/ef_skill02_qiangtou
+  rotate: true
+  xy: 236, 11
+  size: 13, 133
+  orig: 15, 133
+  offset: 1, 0
+  index: -1
+images/effect/ef_skill02_qiangtou_001
+  rotate: false
+  xy: 391, 143
+  size: 28, 104
+  orig: 30, 110
+  offset: 1, 1
+  index: -1
+images/effect/ef_skill02_qiliu_00037
+  rotate: false
+  xy: 236, 26
+  size: 171, 115
+  orig: 300, 250
+  offset: 59, 32
+  index: -1
+images/effect/ef_skill02_qiliu_00038
+  rotate: false
+  xy: 2, 220
+  size: 232, 155
+  orig: 300, 250
+  offset: 30, 44
+  index: -1
+images/effect/ef_skill02_qiliu_00039
+  rotate: true
+  xy: 236, 143
+  size: 232, 153
+  orig: 300, 250
+  offset: 30, 58
+  index: -1
+images/effect/ef_skill02_qiliu_00041
+  rotate: false
+  xy: 2, 2
+  size: 232, 139
+  orig: 300, 250
+  offset: 30, 85
+  index: -1

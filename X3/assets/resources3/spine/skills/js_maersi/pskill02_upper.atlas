@@ -1,0 +1,13 @@
+
+pskill02_upper.png
+size: 304,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_pskill02
+  rotate: false
+  xy: 2, 2
+  size: 300, 186
+  orig: 300, 186
+  offset: 0, 0
+  index: -1

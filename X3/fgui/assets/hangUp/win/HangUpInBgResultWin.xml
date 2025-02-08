@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n48_nl4g" name="bgTitle" src="nl4g15h" fileName="img/sd_A_common_gxhdbt_frame.png" xy="237,448" group="n50_nl4g"/>
+    <image id="n49_nl4g" name="imageTitle" src="nl4g15i" fileName="img/tuoguanjieshu_word.png" xy="266,447" group="n50_nl4g"/>
+    <image id="n38_1366" name="bg" src="nl4g15f" fileName="img/sd_A_common_gxhd_frame.png" xy="1,488" group="n50_nl4g"/>
+    <richtext id="n43_1366" name="label1" xy="29,574" pivot="0.5,0" size="678,36" group="n50_nl4g" fontSize="26" color="#eef9fd" align="center" vAlign="middle" ubb="true" autoSize="none" text="本次托管成功通过 [color=#ffcc41]30[/color] 关"/>
+    <richtext id="n46_1366" name="label2" xy="128,629" pivot="0.5,0" size="484,36" group="n50_nl4g" fontSize="26" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" text="关卡进度  [color=#41d672]501＞＞531[/color]"/>
+    <component id="n51_nl4g" name="btnOk" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="217,728" size="306,122" group="n50_nl4g">
+      <Button title="太棒了"/>
+    </component>
+    <group id="n50_nl4g" name="G_all" xy="1,447" size="748,439" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="165,35">
+  <displayList>
+    <image id="n290_b6a2" name="bg" src="b6a2147" fileName="img/scale_60%_sd_A_common_biaoti1_msg.png" xy="0,0" alpha="0.7" color="#060b17"/>
+    <list id="n294_oqeb" name="starList" xy="12,4" size="141,28" layout="row" overflow="scroll" scroll="horizontal" colGap="6" defaultItem="ui://7b03f641oqeb154" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

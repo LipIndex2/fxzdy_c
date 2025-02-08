@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="579,655">
+  <displayList>
+    <image id="n3_df6e" name="n3" src="df6e3" fileName="img/tuceng29.png" xy="0,0"/>
+    <component id="n8_df6e" name="btnDemo" src="s0hy11" fileName="btn/FirstChargeDemoBtn.xml" xy="450,-22"/>
+    <component id="n44_v891" name="btn_buy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="290,538" pivot="0.5,0.5" anchor="true" size="230,92">
+      <Button title="6元" titleFontSize="40"/>
+    </component>
+    <component id="n54_dusv" name="spineBtnLight" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="290,538"/>
+    <image id="n34_df6e" name="img_buy" src="v891vvv1dr" fileName="frameImage/ygm_tag.png" pkg="38fa8c75" xy="220,534" pivot="0,0.5" anchor="true"/>
+    <component id="n55_dusv" name="spineBottomBg" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="288,430" scale="1.25,1.25"/>
+    <list id="n42_v891" name="list_award" xy="39,148" size="519,323" overflow="scroll" lineGap="13" defaultItem="ui://81b7aafav89127" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n61_ohdt" name="bubble" src="ohdt2e" fileName="component/FirstChargeBubble.xml" xy="277,490" pivot="0,1" anchor="true" scale="0,0"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n34_df6e" value="0.6,0.6"/>
+    <item time="0" type="Scale" target="n44_v891" value="0.6,0.6"/>
+    <item time="0" type="XY" target="n42_v891" value="39,148"/>
+    <item time="14" type="Scale" target="n34_df6e" tween="true" startValue="0.6,0.6" endValue="1,1" duration="12"/>
+    <item time="14" type="Scale" target="n44_v891" tween="true" startValue="0.6,0.6" endValue="1,1" duration="12"/>
+    <item time="14" type="XY" target="n42_v891" tween="true" startValue="39,148" endValue="39,128" duration="7"/>
+    <item time="21" type="XY" target="n42_v891" tween="true" startValue="39,128" endValue="39,148" duration="5"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Scale" target="n61_ohdt" tween="true" startValue="0,0" endValue="1,1" duration="7" ease="Back.InOut" yoyo="true"/>
+  </transition>
+</component>

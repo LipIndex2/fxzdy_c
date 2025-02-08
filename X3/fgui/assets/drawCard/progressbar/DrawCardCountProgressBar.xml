@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="558,45" extention="ProgressBar">
+  <displayList>
+    <image id="n0_sgpf" name="n0" src="sgpf2w" fileName="img/progressBarForHangUpTotal.png" xy="0,0" size="558,45" color="#272b37">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_sgpf" name="bar" src="sgpf2w" fileName="img/progressBarForHangUpTotal.png" xy="0,0" size="558,45" color="#01edfb" fillMethod="hz"/>
+  </displayList>
+  <ProgressBar/>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="439,64">
+  <displayList>
+    <text id="n0_phyf" name="label1" xy="7,7" size="182,52" fontSize="24" color="#ffffff" align="right" vAlign="middle" autoSize="none" singleLine="true" text="title"/>
+    <text id="n1_phyf" name="label2" xy="210,7" size="225,52" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" singleLine="true" text="content">
+      <relation target="n0_phyf" sidePair="left-right"/>
+    </text>
+  </displayList>
+</component>

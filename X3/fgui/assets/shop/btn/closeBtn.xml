@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="93,88" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n101_wfol" name="n101" src="be4127" fileName="img/sd_A_common_fh2_btn.png" xy="0,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

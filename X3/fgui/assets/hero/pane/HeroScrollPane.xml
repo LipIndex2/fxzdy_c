@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="690,837" overflow="scroll">
+  <displayList>
+    <image id="n136_dclx" name="n136" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="0,0" size="671,37" group="n142_dclx" color="#182e61"/>
+    <image id="n137_dclx" name="n137" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="0,430" size="671,37" group="n142_dclx" color="#182e61">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <text id="n139_dclx" name="n139" xy="15,-2" pivot="0.5,0.5" size="123,42" group="n142_dclx" fontSize="30" color="#ffffff" vAlign="middle" leading="0" text="上阵英雄">
+      <relation target="" sidePair="top-top"/>
+    </text>
+    <list id="n140_dclx" name="list_upHero" xy="0,48" size="690,372" group="n142_dclx" layout="flow_hz" overflow="scroll" scrollBarFlags="160" colGap="14" lineItemCount="3" defaultItem="ui://69f29748kkiq71" renderOrder="descent" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n141_dclx" name="list_hero" xy="0,476" size="690,361" group="n142_dclx" layout="flow_hz" overflow="scroll" scrollBarFlags="160" colGap="14" lineItemCount="3" defaultItem="ui://69f29748kkiq71" renderOrder="descent" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n144_105pv" name="n144" xy="19,428" pivot="0.5,0.5" size="123,42" group="n142_dclx" fontSize="30" color="#ffffff" vAlign="middle" leading="0" text="共鸣英雄">
+      <relation target="" sidePair="top-top"/>
+    </text>
+    <group id="n142_dclx" name="n142" xy="0,-2" size="690,839"/>
+  </displayList>
+</component>

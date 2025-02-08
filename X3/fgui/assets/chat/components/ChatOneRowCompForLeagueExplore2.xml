@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="536,126">
+  <controller name="type" pages="0,left,3,center,2,right" selected="0"/>
+  <displayList>
+    <component id="n35_buys" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="44,44" pivot="0.5,0.5" anchor="true" scale="0.8,0.8">
+      <gearDisplay controller="type" pages="0,2"/>
+      <gearXY controller="type" pages="0,2" values="44,44|490,44" default="-9,-8"/>
+    </component>
+    <image id="n30_91d6" name="bgContentL" src="91d619" fileName="img/lt_frame.png" xy="95,34" size="430,90" group="n42_nl4g"/>
+    <text id="n34_91d6" name="textPlayerNameL" xy="103,0" size="113,32" group="n42_nl4g" fontSize="22" color="#adc8f8" vAlign="middle" text="无敌美少女"/>
+    <richtext id="n33_91d6" name="textContentL" xy="122,49" size="390,62" group="n42_nl4g" fontSize="22" color="#284eb8" vAlign="middle" ubb="true" autoSize="none" autoClearText="true" text="联盟的XXX（建筑名）被占领，前往夺回！"/>
+    <group id="n42_nl4g" name="G_L" xy="95,0" size="430,124" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <image id="n40_nl4g" name="bgContentR" src="91d619" fileName="img/lt_frame.png" xy="440,34" size="430,90" group="n41_nl4g" scale="-1,1"/>
+    <text id="n43_ppu1" name="textPlayerNameR" xy="431,0" pivot="1,0" anchor="true" size="234,32" group="n41_nl4g" fontSize="22" color="#adc8f8" align="right" vAlign="middle" autoSize="none" text="无敌美少女"/>
+    <text id="n68_8g0d" name="textContentR" xy="23,49" size="390,32" group="n41_nl4g" fontSize="22" color="#284eb8" vAlign="middle" autoSize="height" text="联盟名称"/>
+    <group id="n41_nl4g" name="G_R" xy="23,0" size="847,124" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+    </group>
+  </displayList>
+</component>

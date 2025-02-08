@@ -1,0 +1,34 @@
+
+woerte_skill02_lower.png
+size: 644,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/air1
+  rotate: false
+  xy: 248, 46
+  size: 216, 117
+  orig: 240, 130
+  offset: 10, 7
+  index: -1
+images/effect/glow1
+  rotate: false
+  xy: 2, 41
+  size: 244, 122
+  orig: 256, 128
+  offset: 6, 3
+  index: -1
+images/effect/ring1
+  rotate: false
+  xy: 466, 2
+  size: 143, 71
+  orig: 160, 80
+  offset: 9, 4
+  index: -1
+images/effect/ring2
+  rotate: false
+  xy: 466, 75
+  size: 176, 88
+  orig: 180, 90
+  offset: 2, 1
+  index: -1

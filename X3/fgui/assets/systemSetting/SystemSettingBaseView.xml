@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kk3sys7h">
+  <displayList>
+    <loader id="n1_cc67" name="bg" xy="31,212" size="682,950" group="n55_i4ei" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n2_cc67" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="53,299" size="638,834" group="n55_i4ei"/>
+    <component id="n56_hcpc" name="btnGM" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="36,217" size="165,82" group="n55_i4ei"/>
+    <text id="n3_cc67" name="labelTitle" xy="340,237" size="67,44" group="n55_i4ei" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="设置"/>
+    <image id="n25_cc67" name="n25" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="74,952" size="596,3" group="n55_i4ei" color="#4a73c2"/>
+    <image id="n16_cc67" name="n16" src="cc6710" fileName="img/sd_A_common_fubiao_frame.png" xy="74,345" group="n51_i4ei"/>
+    <text id="n18_cc67" name="labelTitleSetting" xy="103,347" size="107,36" group="n51_i4ei" fontSize="26" color="#ffffff" vAlign="middle" text="系统设置"/>
+    <group id="n51_i4ei" name="n51" xy="74,345" size="596,38" group="n55_i4ei"/>
+    <image id="n48_i4ei" name="n48" src="cc6710" fileName="img/sd_A_common_fubiao_frame.png" xy="74,757" group="n50_i4ei"/>
+    <text id="n49_i4ei" name="labelTitleBattery" xy="103,759" size="107,36" group="n50_i4ei" fontSize="26" color="#ffffff" vAlign="middle" text="省电设置"/>
+    <group id="n50_i4ei" name="n50" xy="74,757" size="596,38" group="n55_i4ei"/>
+    <list id="n44_i4ei" name="settingList" xy="174,426" size="504,314" group="n55_i4ei" lineGap="50" defaultItem="ui://b04b0bf1i4ei27" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n43_i4ei" name="batteryList" xy="88,839" size="550,80" group="n55_i4ei" layout="row" colGap="80" defaultItem="ui://b04b0bf1i4ei28" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n52_i4ei" name="btnBottom1" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="80,1013" size="180,70" group="n55_i4ei">
+      <Button title="兑换码"/>
+    </component>
+    <component id="n53_i4ei" name="btnBottom2" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="285,1013" size="180,70" group="n55_i4ei">
+      <Button title="切换服务器"/>
+    </component>
+    <component id="n54_i4ei" name="btnBottom3" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="486,1013" size="180,70" group="n55_i4ei" visible="false">
+      <Button title="提醒设置"/>
+    </component>
+    <group id="n55_i4ei" name="G_all" xy="31,212" size="682,950" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n57_vdae" name="n57" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1187">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

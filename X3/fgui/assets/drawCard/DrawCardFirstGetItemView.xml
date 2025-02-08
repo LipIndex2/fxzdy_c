@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="type" pages="0,hero,1,weapon,2,pet,3,collection" selected="0"/>
+  <displayList>
+    <image id="n48_c3wz" name="adapt_bg" src="pwoe4y" fileName="img/ck_bg.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n49_c3wz" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-60" pivot="0.5,1" anchor="true" size="750,400" color="#3a3c55">
+      <relation target="" sidePair="width-width,top-middle"/>
+    </image>
+    <image id="n50_c3wz" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1580" pivot="0.5,0.5" anchor="true" size="750,400" color="#3a3c55" flip="vt">
+      <relation target="" sidePair="width-width,top-middle"/>
+    </image>
+    <loader id="n1_a003" name="bg" xy="-1,0" pivot="0.5,0.5" size="750,1334" group="n26_phyf" align="center" vAlign="middle">
+      <relation target="" sidePair="height-height,center-center"/>
+    </loader>
+    <component id="n38_pwoe" name="spineBg" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="400,650" size="100,100" group="n26_phyf"/>
+    <loader id="n32_phyf" name="imageJobLogo" xy="270,96" size="510,546" group="n40_pwoe" alpha="0.15" url="ui://7q3fcj1kphyf4k" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="type" pages="1,2,3"/>
+    </loader>
+    <loader id="n61_jhsh" name="imageCareerLogo" xy="270,96" size="500,500" group="n40_pwoe" alpha="0.3" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <gearDisplay controller="type" pages="0"/>
+    </loader>
+    <loader id="n23_sgpf" name="imageQuality" xy="55,43" size="125,58" group="n40_pwoe" clearOnPublish="true"/>
+    <image id="n10_a003" name="imageTitle" src="a0038" fileName="img/biaotidi.png" xy="165,140" pivot="0.5,0.5" group="n34_pwoe"/>
+    <loader id="n25_pscw" name="n25" xy="249,117" pivot="0.5,0.5" size="272,61" group="n34_pwoe" url="ui://e93efac4n9t52i" clearOnPublish="true">
+      <gearIcon controller="type" pages="1,2,3" values="ui://e93efac4oetqs61|ui://e93efac4lg0ps6q|ui://e93efac4pmhws6r" default="ui://e93efac4n9t52i"/>
+    </loader>
+    <component id="n36_pwoe" name="spineTitle" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="388,155" size="100,100" group="n34_pwoe"/>
+    <group id="n34_pwoe" name="G_headTitle" xy="165,105" size="427,100" group="n40_pwoe" advanced="true"/>
+    <group id="n40_pwoe" name="head" xy="55,43" size="725,599" group="n26_phyf"/>
+    <component id="n51_gsa5" name="fragmentComp" src="gsa5s6m" fileName="components/DrawCardFragmentComp.xml" xy="204,949" group="n39_pwoe" visible="false">
+      <gearDisplay controller="type" pages="0"/>
+    </component>
+    <component id="n8_a003" name="btnOkGain" src="n9t52r" fileName="button/DrawCardResultConfirmButton.xml" xy="220,1019" group="n39_pwoe"/>
+    <loader id="n28_phyf" name="imageChassis" xy="105,633" pivot="0.5,0.5" size="543,182" group="n30_phyf" url="ui://7q3fcj1kphyfe" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n29_phyf" name="imageGuang" xy="168,491" pivot="0.5,1" size="404,245" group="n30_phyf" url="ui://7q3fcj1kphyff" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <component id="n47_dusv" name="spineStage" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="370,736" group="n30_phyf"/>
+    <group id="n30_phyf" name="G_common" xy="105,491" size="543,324" group="n39_pwoe"/>
+    <loader id="n41_116zs" name="imageWeapon" xy="206,338" pivot="0.5,0.5" size="360,360" group="n44_buys" url="ui://e93efac4116zs5k" align="center" vAlign="middle" clearOnPublish="true">
+      <gearDisplay controller="type" pages="1"/>
+    </loader>
+    <text id="n46_buys" name="labelWeaponName" xy="141,706" pivot="0.5,0.5" size="479,42" group="n44_buys" fontSize="30" color="#d667ff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="武器名字"/>
+    <group id="n44_buys" name="G_weapon" xy="141,338" size="479,410" group="n39_pwoe" advanced="true">
+      <gearDisplay controller="type" pages="1"/>
+    </group>
+    <loader id="n7_a003" name="imageJob" xy="322,729" pivot="0.5,0.5" anchor="true" size="48,48" group="n19_n9t5" url="ui://e93efac4a0036" align="center" vAlign="middle" fill="scaleFree"/>
+    <component id="n22_sgpf" name="spineHero" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,703" pivot="0.5,1" anchor="true" size="378,323" group="n19_n9t5"/>
+    <text id="n6_a003" name="labelHeroName" xy="351,709" pivot="0.5,0.5" size="198,42" group="n19_n9t5" fontSize="30" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" autoClearText="true" text="英雄名"/>
+    <group id="n19_n9t5" name="G_hero" xy="185,380" size="378,373" group="n39_pwoe" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <component id="n55_lg0p" name="spinePet" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="384,705" pivot="0.5,1" anchor="true" size="378,323" group="n57_lg0p"/>
+    <text id="n56_lg0p" name="labelPetName" xy="276,716" pivot="0.5,0.5" size="198,42" group="n57_lg0p" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" autoClearText="true" text="英雄名"/>
+    <group id="n57_lg0p" name="G_pet" xy="195,382" size="378,376" group="n39_pwoe" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <loader id="n58_lupe" name="collectionIcon" xy="299,528" pivot="0.5,1" size="151,127" group="n59_lupe" url="ui://7q3fcj1klupes8y" autoSize="true" clearOnPublish="true"/>
+    <text id="n60_6v98" name="labelCollName" xy="276,716" pivot="0.5,0.5" size="198,42" group="n59_lupe" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" autoClearText="true" text="英雄名"/>
+    <group id="n59_lupe" name="G_collections" xy="276,528" size="198,230" group="n39_pwoe" advanced="true">
+      <gearDisplay controller="type" pages="3"/>
+    </group>
+    <list id="n42_116zs" name="listAttr" xy="164,840" size="442,165" group="n27_phyf" overflow="scroll" defaultItem="ui://e93efac4116zs5l" autoClearItems="true">
+      <gearDisplay controller="type" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n37_pwoe" name="spineGuang" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="377,726" size="100,100" group="n27_phyf"/>
+    <list id="n21_n9t5" name="starList" xy="276,759" pivot="0.5,0.5" size="197,32" group="n27_phyf" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://e93efac4n9t52s" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n27_phyf" name="content" xy="164,676" size="442,329" group="n39_pwoe"/>
+    <group id="n39_pwoe" name="foot" xy="105,338" size="543,792" group="n26_phyf" advanced="true"/>
+    <group id="n26_phyf" name="all" xy="-1,0" size="781,1334" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n32_phyf" value="0"/>
+    <item time="0" type="Alpha" target="n51_gsa5" value="0"/>
+    <item time="0" type="Alpha" target="n61_jhsh" value="0"/>
+    <item time="0" type="Scale" target="n10_a003" value="0,0"/>
+    <item time="0" type="Scale" target="n21_n9t5" value="0,0"/>
+    <item time="0" type="Scale" target="n22_sgpf" value="0,0"/>
+    <item time="0" type="Scale" target="n25_pscw" value="0,1"/>
+    <item time="0" type="Scale" target="n28_phyf" value="0,0"/>
+    <item time="0" type="Scale" target="n29_phyf" value="0,0"/>
+    <item time="0" type="Scale" target="n41_116zs" value="0,0"/>
+    <item time="0" type="Scale" target="n47_dusv" value="0,0"/>
+    <item time="0" type="Scale" target="n58_lupe" value="0,0"/>
+    <item time="0" type="Scale" target="n60_6v98" value="0,0"/>
+    <item time="0" type="Scale" target="n6_a003" value="0,0"/>
+    <item time="0" type="Scale" target="n7_a003" value="0,0"/>
+    <item time="0" type="Scale" target="n8_a003" value="0,0"/>
+    <item time="0" type="XY" target="n23_sgpf" value="-329,43,-0.439,0.032"/>
+    <item time="1" type="Scale" target="n21_n9t5" tween="true" startValue="0,0" endValue="1,1" duration="12"/>
+    <item time="1" type="Scale" target="n22_sgpf" tween="true" startValue="0,0" endValue="1,1" duration="12"/>
+    <item time="1" type="Scale" target="n28_phyf" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n29_phyf" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n41_116zs" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n47_dusv" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n55_lg0p" tween="true" startValue="0,0" endValue="1,1" duration="12"/>
+    <item time="1" type="Scale" target="n56_lg0p" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n58_lupe" tween="true" startValue="0,0" endValue="1,1" duration="12"/>
+    <item time="1" type="Scale" target="n60_6v98" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n6_a003" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="Scale" target="n7_a003" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="1" type="XY" target="n23_sgpf" tween="true" startValue="-329,43,-0.439,0.032" endValue="55,43,0.073,0.032" duration="11"/>
+    <item time="6" type="Scale" target="n10_a003" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="6" type="Scale" target="n25_pscw" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+    <item time="12" type="Scale" target="n8_a003" tween="true" startValue="0,0" endValue="1,1" duration="12"/>
+    <item time="13" type="Alpha" target="n32_phyf" tween="true" startValue="0" endValue="0.15" duration="11"/>
+    <item time="13" type="Alpha" target="n61_jhsh" tween="true" startValue="0" endValue="0.15" duration="11"/>
+    <item time="14" type="Alpha" target="n51_gsa5" tween="true" startValue="0" endValue="1" duration="12"/>
+  </transition>
+</component>

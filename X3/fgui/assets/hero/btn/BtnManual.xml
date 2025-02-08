@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="102,125" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n10_bezo" name="icon" xy="9,13" pivot="0.5,0.5" size="83,90" group="n7_kkiq" url="ui://69f29748105pv7t" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n6_kkiq" name="title" xy="19,83" pivot="0.5,0.5" size="63,42" group="n7_kkiq" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#00050b" strokeSize="2" text="图鉴"/>
+    <group id="n7_kkiq" name="n7" xy="9,13" size="83,112"/>
+    <component id="n9_lhcv" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="87,25"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

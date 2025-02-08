@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kbuyss6q">
+  <controller name="isCanContinue" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n12_pwoe" name="bg" src="pwoe4v" fileName="img/bg.jpg" xy="0,-115">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <component id="n11_heph" name="spineTitle" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,237" size="710,226" group="n10_heph"/>
+    <list id="n5_heph" name="itemList" xy="46,328" size="647,635" group="n10_heph" layout="flow_hz" overflow="scroll" margin="33,45,38,0" lineGap="20" colGap="10" defaultItem="ui://e93efac4heph4u" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n13_buys" name="fgClose" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="750,1334" group="n14_buys">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n15_buys" name="labelClose" xy="142,1084" pivot="0.5,0.5" size="465,34" group="n14_buys" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="点击空白处关闭"/>
+    <group id="n14_buys" name="G_notContinue" xy="0,0" size="750,1334" group="n10_heph" advanced="true">
+      <gearDisplay controller="isCanContinue" pages="0"/>
+    </group>
+    <component id="n16_gvuz" name="btnAd" src="gvuzvvv1l1" fileName="btn/BtnAdLb.xml" pkg="38fa8c75" xy="432,916" size="240,124" group="n4_heph" visible="false" controller="state,1"/>
+    <component id="n2_heph" name="btnOk" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="46,1047" group="n4_heph" visible="false">
+      <Button title="确认"/>
+    </component>
+    <component id="n3_heph" name="btnAgain" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="406,1045" size="306,122" group="n4_heph" visible="false"/>
+    <group id="n4_heph" name="G_btn" xy="46,916" size="666,253" group="n10_heph" advanced="true">
+      <gearDisplay controller="isCanContinue" pages="1"/>
+    </group>
+    <group id="n10_heph" name="n10" xy="0,0" size="750,1334" advanced="true">
+      <relation target="" sidePair="height-height"/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n15_buys" value="0"/>
+    <item time="0" type="Alpha" target="n2_heph" value="0"/>
+    <item time="0" type="Alpha" target="n3_heph" value="0"/>
+    <item time="0" type="Visible" target="n2_heph" value="false"/>
+    <item time="0" type="Visible" target="n3_heph" value="false"/>
+    <item time="1" type="Alpha" target="n15_buys" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="1" type="Alpha" target="n2_heph" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="1" type="Alpha" target="n3_heph" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="1" type="Visible" target="n2_heph" value="true"/>
+    <item time="1" type="Visible" target="n3_heph" value="true"/>
+  </transition>
+</component>

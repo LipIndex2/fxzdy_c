@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="214,92" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n44_b099" name="n44" src="db4z49" fileName="btn/img/zu13040.png" xy="0,0"/>
+    <text id="n45_b099" name="labelTitle" xy="88,38" size="104,39" fontSize="28" color="#eefafe" align="center" vAlign="middle" strokeColor="#1244aa" strokeSize="3" text="激活5次"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

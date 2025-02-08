@@ -1,0 +1,90 @@
+
+skill02_hit_upper.png
+size: 358,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_baodian_00001
+  rotate: false
+  xy: 249, 170
+  size: 65, 72
+  orig: 150, 150
+  offset: 44, 37
+  index: -1
+effect/skill02_baodian_00002
+  rotate: 180
+  xy: 251, 53
+  size: 105, 116
+  orig: 150, 150
+  offset: 27, 16
+  index: -1
+effect/skill02_baodian_00003
+  rotate: 270
+  xy: 124, 84
+  size: 130, 130
+  orig: 150, 150
+  offset: 10, 11
+  index: -1
+effect/skill02_baodian_00004
+  rotate: true
+  xy: 2, 144
+  size: 139, 139
+  orig: 150, 150
+  offset: 7, 6
+  index: -1
+effect/skill02_baodian_00005
+  rotate: false
+  xy: 2, 14
+  size: 136, 130
+  orig: 150, 150
+  offset: 5, 13
+  index: -1
+effect/skill02_baodian_00007
+  rotate: 180
+  xy: 129, 218
+  size: 128, 138
+  orig: 150, 150
+  offset: 11, 6
+  index: -1
+effect/skill02_baodian_00008
+  rotate: true
+  xy: 153, 357
+  size: 134, 111
+  orig: 150, 150
+  offset: 9, 28
+  index: -1
+effect/skill02_baodian_00009
+  rotate: false
+  xy: 2, 414
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/skill02_baodiantubiao1_00009
+  rotate: 180
+  xy: 216, 468
+  size: 129, 98
+  orig: 150, 150
+  offset: 9, 32
+  index: -1
+effect/skill02_baodiantubiao_00009
+  rotate: 180
+  xy: 129, 4
+  size: 141, 79
+  orig: 150, 150
+  offset: 6, 65
+  index: -1
+effect/skill02_glo
+  rotate: false
+  xy: 2, 284
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/skill02_par
+  rotate: false
+  xy: 154, 544
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

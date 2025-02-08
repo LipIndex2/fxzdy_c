@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ys8nbdek">
+  <resources>
+    <component id="gvuz0" name="ActivityAutoPopBannerWin.xml" path="/view/"/>
+    <image id="gvuz1" name="hdtc_sj2.png" path="/img/"/>
+    <image id="gvuz2" name="hdtc_STK2.png" path="/img/"/>
+    <image id="gvuz3" name="hdtc_STK3.png" path="/img/"/>
+    <image id="gvuz4" name="hdtc_yxsl2.png" path="/img/"/>
+    <image id="gvuz5" name="hdtc_yxsl3.png" path="/img/"/>
+    <image id="gvuz6" name="hdtc_zyzm2.png" path="/img/"/>
+    <image id="gvuz7" name="hdtc_zyzm3.png" path="/img/"/>
+    <image id="gvuz8" name="hdtc_zyzm4.png" path="/img/"/>
+    <image id="gvuz9" name="hdtc_zyzm5.png" path="/img/"/>
+    <component id="gvuza" name="ActivityAutoPopSTKWin.xml" path="/view/"/>
+    <component id="gvuzb" name="ActivityAutoPopYXSLWin.xml" path="/view/"/>
+    <component id="gvuzc" name="ActivityAutoPopZYZMWin.xml" path="/view/"/>
+    <component id="gvuzd" name="ActivityAutoPopZYZMItem.xml" path="/item/"/>
+    <component id="gvuze" name="ActivityAutoPopRankSettleWin.xml" path="/view/"/>
+    <component id="gvuzf" name="ActivityAutoPopRankSettleBubble.xml" path="/component/"/>
+    <component id="gvuzg" name="ActivityAutoPopZYZMIconItem.xml" path="/item/"/>
+    <image id="v93uh" name="bg_title.png" path="/img/" scale="9grid" scale9grid="50,47,5,19"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="167,40">
+  <displayList>
+    <image id="n15_adad" name="n15" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="0,4" size="167,35" group="n22_z7ud" color="#30467e"/>
+    <image id="n18_adad" name="n18" src="105pvv18e" fileName="bgImage/shuxingdi1_frame.png" pkg="38fa8c75" xy="0,0" size="55,39" group="n22_z7ud" color="#3d5daa"/>
+    <loader id="n21_z7ud" name="iconLoader" xy="26,20" pivot="0.5,0.5" anchor="true" size="60,60" group="n22_z7ud" align="center" vAlign="middle" fill="scale" color="#46e3ff"/>
+    <text id="n17_adad" name="lbValue" xy="62,5" size="90,32" group="n22_z7ud" fontSize="22" color="#ffffff" vAlign="middle" autoSize="shrink" autoClearText="true" text="7.04%"/>
+    <group id="n22_z7ud" name="n22" xy="-4,-10" size="171,60"/>
+  </displayList>
+</component>

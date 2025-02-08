@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="711,234">
+  <displayList>
+    <image id="n151_ae97" name="n151" src="ae9779" fileName="img/sd_A_common_bossfydi_frame_3.png" xy="3,0"/>
+    <image id="n153_ae97" name="n153" src="ae9781" fileName="img/sd_A_common_bossfgx_line.png" xy="531,10"/>
+    <text id="n154_ae97" name="n154" xy="32,11" size="123,36" fontSize="26" color="#5e90db" text="BOSS名称"/>
+    <text id="n156_ae97" name="n156" xy="395,11" size="107,36" fontSize="26" color="#5e90db" text="绝命沙虫"/>
+    <text id="n157_ae97" name="n157" xy="571,11" size="107,36" fontSize="26" color="#5e90db" text="毒刺梦魇"/>
+    <image id="n158_ae97" name="n158" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,85" size="710,149"/>
+    <image id="n159_ae97" name="n159" src="ae9783" fileName="img/xingzhuang32.png" xy="3,88"/>
+    <text id="n162_ae97" name="n162" xy="264,123" size="170,39" fontSize="28" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <image id="n163_ae97" name="n163" src="ae9766" fileName="img/linshichenghao.png" xy="269,158"/>
+    <text id="n164_ae97" name="n164" xy="561,143" size="106,42" fontSize="30" color="#ffffff" strokeColor="#010e16" strokeSize="2" text="2500万"/>
+    <image id="n165_ae97" name="n165" src="ae9785" fileName="img/bossjy_icon.png" xy="522,142"/>
+    <text id="n166_ae97" name="n166" xy="39,132" size="36,72" fontSize="54" color="#58c2ff" strokeColor="#010e16" strokeSize="2" text="4"/>
+    <image id="n167_ffqt" name="n167" src="ae9727" fileName="img/zu120.png" xy="498,-272"/>
+    <text id="n168_ffqt" name="n168" xy="512,-199" size="52,34" fontSize="24" color="#f2f4f4" strokeColor="#000000" strokeSize="3" text="奖励"/>
+    <image id="n170_ffqt" name="n170" src="ae9735" fileName="img/sd_A_common_boss_tag.png" xy="186,-149"/>
+    <image id="n171_ffqt" name="n171" src="ae9710" fileName="img/sd_A_common_wxz_tab.png" xy="368,337"/>
+    <image id="n172_ffqt" name="n172" src="ae9711" fileName="img/sd_A_common_xz_tab.png" xy="41,337"/>
+    <text id="n173_ffqt" name="n173" xy="118,355" size="158,36" fontSize="26" color="#ffffff" strokeColor="#162241" strokeSize="3" text="本服排名奖励"/>
+    <text id="n174_ffqt" name="n174" xy="437,355" size="158,36" fontSize="26" color="#aac0eb" strokeColor="#162241" strokeSize="3" text="赛季排名奖励"/>
+    <image id="n175_ffqt" name="n175" src="ae9712" fileName="img/sd_A_common_gth_btn.png" xy="324,325"/>
+  </displayList>
+</component>

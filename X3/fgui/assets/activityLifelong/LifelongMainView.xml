@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,任务,1,奖励,2,礼包" selected="0"/>
+  <displayList>
+    <loader id="n92_ko81" name="n92" xy="27,110" size="691,1096" group="n91_ko81" url="ui://f3ecb112ko814e" fill="scaleFree"/>
+    <image id="n4_c83b" name="n4" src="c83b4" fileName="img/youbeijing.png" xy="55,492" group="n91_ko81"/>
+    <image id="n6_c83b" name="n6" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="362,493" size="24,563" group="n91_ko81">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n77_c83b" name="T_title" xy="308,138" pivot="0.5,0.5" size="147,49" group="n91_ko81" fontSize="36" color="#ffffff" align="center" vAlign="middle" strokeColor="#493297" strokeSize="3" text="活动名称"/>
+    <list id="n79_ko81" name="list_task" xy="67,505" size="610,535" group="n91_ko81" overflow="scroll" lineGap="12" defaultItem="ui://f3ecb112ko8149" autoClearItems="true">
+      <gearDisplay controller="c1" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n80_ko81" name="list_tab" xy="59,1073" size="631,68" group="n91_ko81" pageController="c1" layout="row" colGap="8" defaultItem="ui://f3ecb112ko814b" selectionController="c1">
+      <item title="任务"/>
+      <item title="奖励"/>
+      <item title="礼包"/>
+    </list>
+    <list id="n82_ko81" name="list_gift" xy="66,505" size="619,540" group="n91_ko81" overflow="scroll" lineGap="13" defaultItem="ui://f3ecb112ko814c" autoClearItems="true">
+      <gearDisplay controller="c1" pages="2"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n84_ko81" name="list_award" xy="71,493" size="602,562" group="n91_ko81" overflow="scroll" lineGap="5" defaultItem="ui://f3ecb112ko814d" autoClearItems="true">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n86_ko81" name="n86" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1200" group="n91_ko81"/>
+    <image id="n44_c83b" name="n44" src="c83b30" fileName="img/renwu_6.png" xy="54,225" group="n87_ko81"/>
+    <image id="n48_c83b" name="n48" src="c83b31" fileName="img/zu130463kaobei.png" xy="230,268" group="n87_ko81"/>
+    <image id="n51_c83b" name="n51" src="c83b33" fileName="img/zhongshenyici_5.png" xy="68,257" group="n87_ko81"/>
+    <text id="n52_c83b" name="n52" xy="135,257" pivot="0.5,0.5" size="143,48" group="n87_ko81" fontSize="35" color="#feff9e" align="center" vAlign="middle" strokeColor="#ab1f1f" strokeSize="3" text="终身一次"/>
+    <text id="n45_c83b" name="n45" xy="455,264" size="210,69" group="n87_ko81" visible="false" fontSize="52" color="#fffb8d" vAlign="middle" strokeColor="#c13b00" strokeSize="2" text="完成任务"/>
+    <text id="n46_c83b" name="n46" xy="230,348" size="313,69" group="n87_ko81" visible="false" fontSize="52" color="#aafdfd" vAlign="middle" strokeColor="#0a62cf" strokeSize="2" text="助指挥官寻得"/>
+    <text id="n47_c83b" name="n47" xy="542,337" size="131,84" group="n87_ko81" visible="false" fontSize="64" color="#fffb8d" vAlign="middle" strokeColor="#c13b00" strokeSize="2" text="星灵"/>
+    <group id="n87_ko81" name="gp_task" xy="54,225" size="638,253" group="n91_ko81" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n29_c83b" name="n29" src="c83b21" fileName="img/zu130465.png" xy="54,225" group="n88_ko81"/>
+    <image id="n33_c83b" name="n33" src="c83b22" fileName="img/wenzikaobei.png" xy="290,264" group="n88_ko81"/>
+    <text id="n30_c83b" name="n30" xy="440,259" size="210,69" group="n88_ko81" visible="false" fontSize="52" color="#aafdfd" vAlign="middle" strokeColor="#0a62cf" strokeSize="2" text="限时抢购"/>
+    <text id="n31_c83b" name="n31" xy="290,349" size="107,69" group="n88_ko81" visible="false" fontSize="52" color="#aafdfd" vAlign="middle" strokeColor="#0a62cf" strokeSize="2" text="星灵"/>
+    <text id="n32_c83b" name="n32" xy="397,335" size="257,84" group="n88_ko81" visible="false" fontSize="64" color="#fffb8d" vAlign="middle" strokeColor="#c13b00" strokeSize="2" text="超值礼包"/>
+    <group id="n88_ko81" name="gp_gift" xy="54,225" size="638,253" group="n91_ko81" advanced="true">
+      <gearDisplay controller="c1" pages="2"/>
+    </group>
+    <image id="n22_c83b" name="n22" src="c83b18" fileName="img/bannerkaobei.png" xy="54,225" group="n89_ko81"/>
+    <image id="n28_c83b" name="n28" src="c83b20" fileName="img/wenzikaobei2.png" xy="76,256" group="n89_ko81"/>
+    <image id="n23_c83b" name="n23" src="c83b19" fileName="img/qianwangzhaomu.png" xy="477,424" group="n89_ko81"/>
+    <text id="n24_c83b" name="T_count" xy="498,391" pivot="0.5,0.5" size="139,29" group="n89_ko81" fontSize="20" color="#90fff8" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="累计招募170次"/>
+    <text id="n25_c83b" name="n25" xy="326,252" size="313,69" group="n89_ko81" visible="false" fontSize="52" color="#ffffff" vAlign="middle" strokeColor="#3521c4" strokeSize="2" text="搜索更多星灵"/>
+    <text id="n26_c83b" name="n26" xy="77,336" size="107,69" group="n89_ko81" visible="false" fontSize="52" color="#fffb8d" vAlign="middle" strokeColor="#0958da" strokeSize="2" text="领取"/>
+    <text id="n27_c83b" name="n27" xy="188,323" size="257,84" group="n89_ko81" visible="false" fontSize="64" color="#fff68e" vAlign="middle" strokeColor="#d63700" strokeSize="2" text="超值奖励"/>
+    <component id="n90_ko81" name="btn_jump" src="teoxvvv1ib" fileName="btn/BaseBtn0.8Scale.xml" pkg="38fa8c75" xy="477,424" size="180,32" group="n89_ko81">
+      <Button icon="ui://f3ecb112c83b19"/>
+    </component>
+    <group id="n89_ko81" name="n89" xy="54,225" size="638,253" group="n91_ko81" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <image id="n49_c83b" name="n49" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="85,433" size="219,31" group="n91_ko81" alpha="0.45"/>
+    <text id="n50_c83b" name="T_time" xy="107,435" pivot="0.5,0.5" size="171,29" group="n91_ko81" fontSize="20" color="#4bff75" align="center" vAlign="middle" strokeColor="#222222" strokeSize="2" text="活动剩余17分30秒"/>
+    <component id="n93_8adr" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="467,144" group="n91_ko81">
+      <relation target="n77_c83b" sidePair="left-right"/>
+    </component>
+    <group id="n91_ko81" name="n91" xy="27,110" size="691,1180" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

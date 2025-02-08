@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="721,1112">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="通行证"/>
+    <remark page="1" value="月卡"/>
+  </controller>
+  <displayList>
+    <loader id="n17_bezo" name="bg" xy="0,0" size="721,1112" touchable="false" url="ui://7cvz7rmmbezovv1s" autoSize="true"/>
+    <image id="n12_fd08" name="n12" src="fd086" fileName="img/biaoti.png" xy="264,72"/>
+    <list id="n14_bezo" name="list_pass" xy="96,216" size="556,756" overflow="scroll" lineGap="23" defaultItem="ui://cbdbddd7bezo8">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

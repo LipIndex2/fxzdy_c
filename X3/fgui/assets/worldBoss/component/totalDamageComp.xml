@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="238,110">
+  <displayList>
+    <image id="n11_e1fv" name="n11" src="e1fv141" fileName="img/zongshanghai_24.png" xy="0,0"/>
+    <text id="n9_8a38" name="word" xy="2,12" size="85,34" fontSize="24" color="#fff98b" text="总伤害:"/>
+    <text id="n10_8a38" name="hurt" xy="17,44" size="30,57" fontSize="43" color="#eafcfd" text="0"/>
+  </displayList>
+</component>

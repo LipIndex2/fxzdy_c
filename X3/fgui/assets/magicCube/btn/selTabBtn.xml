@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="284,60" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="1"/>
+  <displayList>
+    <image id="n23_3bca" name="n23" src="3bca14" fileName="img/yeqian_4.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <text id="n26_3bca" name="title" xy="88,12" size="107,36" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#02449e" strokeSize="3" text="魔方增幅">
+      <gearDisplay controller="button" pages="0,1"/>
+      <gearColor controller="button" pages="0" values="#8c94c3,#243182" default="#ffffff,#02449e"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

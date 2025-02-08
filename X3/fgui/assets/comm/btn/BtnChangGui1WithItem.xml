@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <controller name="canPayFlag" exported="true" pages="0,,4,,5," selected="0">
+    <remark page="0" value="道具不足"/>
+    <remark page="1" value="道具足够"/>
+    <remark page="2" value="免费"/>
+  </controller>
+  <controller name="style" alias="按钮样式" exported="true" pages="0,,1," selected="1">
+    <remark page="0" value="黄色"/>
+    <remark page="1" value="蓝色"/>
+  </controller>
+  <controller name="lbStyle" alias="文本展示样式" pages="0,,1," selected="0">
+    <remark page="0" value="只展示需求数量"/>
+    <remark page="1" value="展示已有数量/需求数量"/>
+  </controller>
+  <displayList>
+    <loader id="n10_f9dq" name="icon" xy="0,0" size="306,122" url="ui://38fa8c7583016" fill="scaleFree">
+      <gearIcon controller="style" pages="1" values="ui://38fa8c7583016" default="ui://38fa8c75pf1a147"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n3_dtss" name="title" xy="37,48" pivot="0.5,0.5" size="242,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#1a50a9" strokeSize="3" text="进阶">
+      <gearLook controller="style" default="1,0,0,0"/>
+      <gearColor controller="style" pages="1" values="#ffffff,#1a50a9" default="#ffffff,#c96b06"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <text id="n11_woyg" name="lbFree" xy="128,4" pivot="0.5,0.5" size="63,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#1a50a9" strokeSize="3" singleLine="true" text="免费">
+      <gearDisplay controller="canPayFlag" pages="5"/>
+      <gearLook controller="style" default="1,0,0,0"/>
+      <gearColor controller="style" pages="0,1" values="#ffffff,#c96b06|#ffffff,#1a50a9"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <loader id="n6_dtss" name="imageItem" xy="131,25" pivot="0.5,0.5" anchor="true" size="48,48" group="n9_ipjz" scale="0.9,0.9" url="ui://38fa8c75j6z934" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <relation target="n7_dtss" sidePair="right-left"/>
+    </loader>
+    <text id="n7_dtss" name="labelCount" xy="184,24" pivot="0.5,0.5" anchor="true" size="58,42" group="n9_ipjz" fontSize="30" color="#ff5050" vAlign="middle" leading="0" strokeColor="#6d1602" strokeSize="3" singleLine="true" autoClearText="true" text="123">
+      <gearLook controller="canPayFlag" default="1,0,0,0"/>
+      <gearColor controller="canPayFlag" pages="0,4" values="#ff5050,#6d1602|#35fe64,#116a41" default="#cc0000,#c96b06"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n9_ipjz" name="gCost" xy="107,1" size="106,48" advanced="true" layout="hz">
+      <gearDisplay controller="canPayFlag" pages="0,4,1,2"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n13_p9b4" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="292,14" controller="type,2">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

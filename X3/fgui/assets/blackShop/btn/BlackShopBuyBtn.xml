@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="268,122" pivot="0.5,0.5" extention="Button">
+  <controller name="type" pages="0,付费,1,道具消耗" selected="1"/>
+  <displayList>
+    <image id="n0_ckie" name="n0" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n8_kyqn" name="title" xy="9,10" pivot="0.5,0.5" size="268,122" visible="false" fontSize="42" color="#fefefe" align="center" vAlign="middle" autoSize="shrink" strokeColor="#c96b06" strokeSize="3" autoClearText="true" text="">
+      <gearDisplay controller="type" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n2_ckie" name="labelPay" xy="0,-3" pivot="0.5,0.5" size="268,122" fontSize="42" color="#fefefe" align="center" vAlign="middle" autoSize="shrink" strokeColor="#c96b06" strokeSize="3" autoClearText="true" text="68元">
+      <gearDisplay controller="type" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n3_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="258,10" size="20,20" touchable="false" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <loader id="n6_kyqn" name="imgItem" xy="19,7" pivot="0.5,0.5" size="100,100" group="n7_kyqn" url="ui://7q3fcj1k7g4as7r" align="center" vAlign="middle"/>
+    <text id="n4_kyqn" name="labelCostItemCount" xy="109,14" pivot="0,0.5" size="145,86" group="n7_kyqn" fontSize="42" color="#ffffff" vAlign="middle" autoSize="shrink" strokeColor="#c96b06" strokeSize="2" singleLine="true" autoClearText="true" text="1200">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n7_kyqn" name="G_payItem" xy="19,7" size="235,100" advanced="true">
+      <gearDisplay controller="type" pages="1"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

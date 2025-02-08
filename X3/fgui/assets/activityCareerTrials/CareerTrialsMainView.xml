@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,未选择,1,已选择" selected="0"/>
+  <displayList>
+    <loader id="n119_teox" name="n119" xy="0,-146" size="750,1626" url="ui://7cvz7rmmteoxvv24" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n135_teox" name="n135" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-314" size="750,258" color="#171c22">
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </image>
+    <component id="n136_teox" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="246,188" pivot="0.5,1" size="256,323" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n137_teox" name="btn_mod" xy="193,128" pivot="0.5,1" size="362,383">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <list id="n120_teox" name="list_tab" xy="75,977" size="599,179" layout="row" colGap="30" defaultItem="ui://6db1f71ateox71" align="center">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearLook controller="c1" pages="1" values="1,0,0,1" default="1,0,0,1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n121_teox" name="btn_open" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="216,1168" size="306,122" visible="false">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="开启职业试炼"/>
+    </component>
+    <component id="n15_c65a" name="mainpage" src="teox72" fileName="page/formationPage.xml" xy="5,642">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <image id="n42_c65a" name="n42" src="c65a26" fileName="img/mingzidi.png" xy="83,109" size="76,252" group="n126_teox"/>
+    <text id="n43_c65a" name="T_heroName" xy="110,156" pivot="0.5,0.5" size="40,151" group="n126_teox" fontSize="36" align="center" vAlign="middle" leading="4" autoSize="shrink" text="无头骑士"/>
+    <image id="n44_c65a" name="n44" src="c65a27" fileName="img/xing.png" xy="74,211" group="n126_teox" fillMethod="vt"/>
+    <loader id="n127_teox" name="img_car" xy="101,82" pivot="0.5,0.5" size="58,68" group="n126_teox" scale="1.05,1.05" url="ui://6db1f71ac65a29" autoSize="true" clearOnPublish="true"/>
+    <group id="n126_teox" name="n126" xy="74,82" size="85,279" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n40_c65a" name="n40" src="c65a24" fileName="img/biaotidi.png" xy="0,29" group="n124_teox"/>
+    <image id="n41_c65a" name="n41" src="c65a25" fileName="img/biaoti_11.png" xy="11,15" group="n124_teox"/>
+    <component id="n123_teox" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="262,35" group="n124_teox"/>
+    <richtext id="n125_teox" name="T_time" xy="50,90" pivot="0,0.5" size="294,34" group="n124_teox" fontSize="24" color="#ffffff" vAlign="middle" ubb="true" vars="true" strokeColor="#002954" strokeSize="2" text="[color=#3CFE37]30天[/color]试炼结束后可再次选择">
+      <gearDisplay controller="c1" pages="1"/>
+    </richtext>
+    <group id="n124_teox" name="n124" xy="0,15" size="365,109" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <image id="n47_c65a" name="n47" src="c65a30" fileName="img/tuceng1885.png" xy="568,60" group="n128_teox"/>
+    <text id="n48_c65a" name="T_quality" xy="610,134" pivot="0.5,0" size="69,167" group="n128_teox" fontSize="44" color="#f55252" align="center" leading="0" autoSize="height" strokeColor="#000000" strokeSize="4" text="神话+"/>
+    <text id="n49_c65a" name="T_tips" xy="570,80" pivot="0.5,0" size="52,177" group="n128_teox" fontSize="35" color="#76f1ff" align="center" leading="0" autoSize="height" strokeColor="#000000" strokeSize="4" text="异能核心"/>
+    <text id="n129_teox" name="n129" xy="612,286" pivot="0.5,0" size="64,91" group="n128_teox" fontSize="35" color="#76f1ff" align="center" leading="0" autoSize="none" strokeColor="#000000" strokeSize="4" text="英雄">
+      <relation target="n48_c65a" sidePair="center-center,top-bottom"/>
+    </text>
+    <group id="n128_teox" name="n128" xy="568,60" size="111,317" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n28_c65a" name="n28" src="c65a18" fileName="img/zu130459.png" xy="167,455" group="n130_teox"/>
+    <text id="n31_c65a" name="T_desc2" xy="215,528" pivot="0.5,0.5" size="291,46" group="n130_teox" fontSize="34" color="#76f1ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="技能连招  瞬间蒸发"/>
+    <richtext id="n131_teox" name="T_desc1" xy="245,467" size="227,60" group="n130_teox" fontSize="45" color="#ffe464" strokeColor="#000000" strokeSize="3" text="异能爆发队"/>
+    <group id="n130_teox" name="n130" xy="167,455" size="393,157" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <image id="n33_c65a" name="n33" src="c65a19" fileName="img/jianglidi.png" xy="20,447" group="n132_teox"/>
+    <text id="n39_c65a" name="n39" xy="34,568" pivot="0.5,0.5" size="99,34" group="n132_teox" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="参与奖励"/>
+    <component id="n133_teox" name="item_award" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="32,459" group="n132_teox"/>
+    <group id="n132_teox" name="gp_award" xy="20,447" size="130,162" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n149_co7o" name="demoBtn" src="co7o82" fileName="btn/DemoGoBtn.xml" xy="596,480" group="n141_co7o"/>
+    <component id="n148_co7o" name="demoGetBtn" src="co7o81" fileName="btn/DemoGetBtn.xml" xy="614,405" group="n141_co7o"/>
+    <group id="n141_co7o" name="gp_demo" xy="596,405" size="155,189" advanced="true">
+      <relation target="" sidePair="left-right,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

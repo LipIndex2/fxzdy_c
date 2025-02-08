@@ -1,0 +1,90 @@
+
+skill01_bullet_lower.png
+size: 442,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_lower_01
+  rotate: false
+  xy: 300, 132
+  size: 58, 29
+  orig: 256, 256
+  offset: 98, 83
+  index: -1
+hit_lower_02
+  rotate: false
+  xy: 2, 42
+  size: 104, 51
+  orig: 256, 256
+  offset: 75, 70
+  index: -1
+hit_lower_03
+  rotate: false
+  xy: 300, 39
+  size: 131, 67
+  orig: 256, 256
+  offset: 60, 62
+  index: -1
+hit_lower_04
+  rotate: false
+  xy: 2, 172
+  size: 154, 76
+  orig: 256, 256
+  offset: 48, 57
+  index: -1
+hit_lower_05
+  rotate: false
+  xy: 193, 163
+  size: 173, 88
+  orig: 256, 256
+  offset: 38, 55
+  index: -1
+hit_lower_06
+  rotate: false
+  xy: 2, 250
+  size: 189, 93
+  orig: 256, 256
+  offset: 30, 55
+  index: -1
+hit_lower_07
+  rotate: false
+  xy: 212, 253
+  size: 200, 91
+  orig: 256, 256
+  offset: 25, 54
+  index: -1
+hit_lower_08
+  rotate: false
+  xy: 2, 345
+  size: 208, 95
+  orig: 256, 256
+  offset: 21, 54
+  index: -1
+hit_lower_09
+  rotate: false
+  xy: 212, 346
+  size: 209, 94
+  orig: 256, 256
+  offset: 21, 55
+  index: -1
+hit_lower_10
+  rotate: false
+  xy: 2, 95
+  size: 149, 75
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+hit_lower_11
+  rotate: true
+  xy: 368, 108
+  size: 143, 72
+  orig: 256, 256
+  offset: 51, 59
+  index: -1
+hit_lower_12
+  rotate: false
+  xy: 153, 88
+  size: 145, 73
+  orig: 256, 256
+  offset: 50, 59
+  index: -1

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,30" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <text id="n0_jy2z" name="numText" xy="50,15" pivot="0.5,0.5" anchor="true" size="201,32" font="ui://rdjzh7h2jy2zv16i" fontSize="14" color="#ffffff" leading="0" letterSpacing="-7" autoClearText="true" text="B-+123489K"/>
+  </displayList>
+  <transition name="t">
+    <item time="0" type="Alpha" target="n0_jy2z" value="1"/>
+    <item time="0" type="Alpha" target="n0_jy2z" value="1"/>
+    <item time="0" type="XY" target="n0_jy2z" value="50,15"/>
+    <item time="0" type="XY" target="n0_jy2z" tween="true" startValue="50,15" endValue="50,-31" duration="20" ease="Sine.InOut"/>
+    <item time="19" type="Alpha" target="n0_jy2z" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="33" type="XY" target="n0_jy2z" value="50,-31"/>
+  </transition>
+  <transition name="d">
+    <item time="0" type="Alpha" target="n0_jy2z" value="1"/>
+    <item time="0" type="Alpha" target="n0_jy2z" value="1"/>
+    <item time="0" type="XY" target="n0_jy2z" value="50,15"/>
+    <item time="0" type="XY" target="n0_jy2z" tween="true" startValue="50,15" endValue="50,46" duration="20" ease="Sine.InOut"/>
+    <item time="19" type="Alpha" target="n0_jy2z" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="33" type="XY" target="n0_jy2z" value="50,46"/>
+  </transition>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="70,29" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n145_xwdv" name="n145" src="xwdvvcr" fileName="img/dl.png" xy="0,0"/>
+    <image id="n146_xwdv" name="stage1" src="xwdvvcs" fileName="img/dl_cai.png" xy="7,7" visible="false"/>
+    <image id="n147_xwdv" name="stage2" src="xwdvvct" fileName="img/dl_hong.png" xy="16,7" visible="false"/>
+    <image id="n148_xwdv" name="stage3" src="xwdvvcu" fileName="img/dl_huang.png" xy="25,7" visible="false"/>
+    <image id="n149_xwdv" name="stage4" src="xwdvvcv" fileName="img/dl_zi.png" xy="34,7" visible="false"/>
+    <image id="n150_xwdv" name="stage5" src="xwdvvcw" fileName="img/dl_lan.png" xy="43,7" visible="false"/>
+    <image id="n151_xwdv" name="stage6" src="xwdvvcx" fileName="img/dl_lv.png" xy="52,7" visible="false"/>
+  </displayList>
+</component>

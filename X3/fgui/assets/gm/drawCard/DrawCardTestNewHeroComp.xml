@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <richtext id="n53_fsx5" name="labelTitle" xy="6,4" size="598,116" fontSize="62" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="test抽到新英雄"/>
+    <component id="n41_m43k" name="input1" src="fsx5n" fileName="common/inputBoxComp.xml" xy="17,185" size="547,67"/>
+    <list id="n54_phyf" name="heroList" xy="53,268" size="497,348" overflow="scroll" margin="0,0,29,0" defaultItem="ui://t846cdz6phyfv" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n46_qj7y" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="320,661" size="189,68" group="n56_phyf">
+      <Button title="抽到他!"/>
+    </component>
+    <component id="n55_phyf" name="btnCheck" src="b1chc" fileName="common/BtnGm.xml" xy="69,662" size="189,68" group="n56_phyf">
+      <Button title="抽到他!"/>
+    </component>
+    <group id="n56_phyf" name="n56" xy="69,661" size="440,69"/>
+  </displayList>
+</component>

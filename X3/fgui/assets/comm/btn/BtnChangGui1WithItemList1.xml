@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <controller name="style" alias="按钮样式" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="黄色"/>
+    <remark page="1" value="蓝色"/>
+  </controller>
+  <displayList>
+    <loader id="n10_f9dq" name="icon" xy="0,0" size="306,122" url="ui://38fa8c75pf1a147" fill="scaleFree">
+      <gearIcon controller="style" pages="1" values="ui://38fa8c7583016" default="ui://38fa8c75pf1a147"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n3_dtss" name="title" xy="37,48" pivot="0.5,0.5" size="242,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="进阶">
+      <gearLook controller="style" default="1,0,0,0"/>
+      <gearColor controller="style" pages="1" values="#ffffff,#1a50a9" default="#ffffff,#c96b06"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <list id="n11_lg0p" name="itemList" xy="19,4" size="272,42" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://38fa8c75lg0pvvv1gj" align="center" vAlign="middle" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_lg0p" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="294,13" controller="type,2">
+      <relation target="" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

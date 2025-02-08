@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="335,320" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="未达成"/>
+    <remark page="1" value="可领取"/>
+    <remark page="2" value="已领取"/>
+    <remark page="3" value="重新加入联盟 联盟已达成 个人未达成"/>
+  </controller>
+  <displayList>
+    <image id="n1_be1a" name="n1" src="be1a64" fileName="img/weidacheng.png" xy="0,13" group="n30_h90v"/>
+    <text id="n8_be1a" name="n8" xy="28,214" size="99,34" group="n30_h90v" fontSize="24" color="#a3c1ff" strokeColor="#000306" strokeSize="2" text="达成人数"/>
+    <text id="n11_be1a" name="completeNum" xy="254,218" size="59,34" group="n30_h90v" fontSize="24" color="#a3c1ff" strokeColor="#000306" strokeSize="2" text="8/10"/>
+    <group id="n30_h90v" name="n30" xy="0,13" size="335,305" advanced="true">
+      <gearDisplay controller="state" pages="0,2,3"/>
+    </group>
+    <image id="n14_be1a" name="n14" src="be1a72" fileName="img/kelingqu.png" xy="0,13" group="n31_h90v"/>
+    <text id="n21_be1a" name="n21" xy="28,214" size="75,34" group="n31_h90v" fontSize="24" color="#ffa030" strokeColor="#000306" strokeSize="2" text="已达成"/>
+    <text id="n24_be1a" name="completeLab" xy="254,218" size="59,34" group="n31_h90v" fontSize="24" color="#41d672" strokeColor="#000306" strokeSize="2" text="8/10"/>
+    <group id="n31_h90v" name="n31" xy="0,13" size="335,305" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <component id="n2_be1a" name="completeBar" src="h90v10w" fileName="com/taskCellBar.xml" xy="17,263">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n7_be1a" name="taskLab" xy="76,173" pivot="0.5,0.5" size="190,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000306" strokeSize="2" text="完成挂机关卡150"/>
+    <text id="n13_be1a" name="n13" xy="106,285" size="123,29" fontSize="20" color="#34b0ff" strokeColor="#000306" strokeSize="2" text="个人暂未达成">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <component id="n29_h90v" name="rewardCell" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="116,61" size="104,104" aspect="true" scale="0.9,0.9"/>
+    <image id="n12_be1a" name="n12" src="be1a71" fileName="img/liaotian_frame.png" xy="0,13" group="n28_h90v" alpha="0.6"/>
+    <image id="n25_be1a" name="n25" src="be1a74" fileName="img/sd_A_common_ylq_tag.png" xy="5,5" group="n28_h90v"/>
+    <group id="n28_h90v" name="n28" xy="0,5" size="335,313" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+    </group>
+    <image id="n26_h90v" name="n26" src="be1a69" fileName="img/sd_A_common_liaotian_frame_111.png" xy="130,209" group="n33_qr2a"/>
+    <component id="n32_h90v" name="openTaskViewBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="134,213" size="29,29" group="n33_qr2a">
+      <Button icon="ui://72zq62eabe1a70"/>
+    </component>
+    <group id="n33_qr2a" name="n33" xy="130,209" size="38,37" advanced="true">
+      <gearDisplay controller="state" pages="0,3"/>
+    </group>
+    <component id="n34_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="503,480" size="335,320" touchable="false" controller="type,12"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

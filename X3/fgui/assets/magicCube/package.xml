@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ff643f6e">
+  <resources>
+    <image id="3bca3" name="cube.png" path="/img/"/>
+    <image id="3bca12" name="yeyingkaobei.png" path="/img/"/>
+    <image id="3bca14" name="yeqian_4.png" path="/img/"/>
+    <image id="3bca19" name="sd_A_common_jt01_icon.png" path="/img/"/>
+    <image id="3bca23" name="huobidi.png" path="/img/" scale="9grid" scale9grid="19,18,8,5"/>
+    <image id="3bca32" name="sd_A_common_grsz_btn.png" path="/img/"/>
+    <image id="3bca33" name="tuceng888kaobei.png" path="/img/"/>
+    <component id="3bca41" name="MagicCubeMainWin.xml" path="/"/>
+    <component id="q6dm42" name="MagicCubeBtnItem.xml" path="/"/>
+    <component id="q6dm43" name="MagicCubeUpBtn.xml" path="/btn/"/>
+    <image id="q6dm44" name="shangshengjiantou.png" path="/img/"/>
+    <component id="q6dm45" name="CountItem.xml" path="/item/"/>
+    <image id="q6dm46" name="bg.png" path="/img/" scale="9grid" scale9grid="166,312,332,28"/>
+    <component id="q6dm47" name="storageBtn.xml" path="/btn/"/>
+    <component id="q6dm48" name="lockAttrItem.xml" path="/item/"/>
+    <component id="q6dm49" name="MagicCubeAttrItem.xml" path="/item/"/>
+    <component id="q6dm4a" name="MagicCubeItem.xml" path="/item/"/>
+    <component id="q6dm4b" name="selTabBtn.xml" path="/btn/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

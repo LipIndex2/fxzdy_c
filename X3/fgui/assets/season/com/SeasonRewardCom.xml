@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="108,256">
+  <displayList>
+    <component id="n0_uk3p" name="btn" src="uk3pvvv1b5" fileName="btn/SeasonRewardBtn.xml" xy="20,144"/>
+    <loader id="n7_hz6e" name="bg" xy="-64,33" size="244,74"/>
+    <image id="n1_uk3p" name="imgBox" src="eab511" fileName="img/scale_60%_baoxiangkai.png" xy="17,123" color="#666666"/>
+    <text id="n3_uk3p" name="lb" xy="-47,221" size="200,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="2天17小时后领取"/>
+    <image id="n4_uk3p" name="img" src="eab514" fileName="img/scale_60%_sd_A_common_ylq_tag.png" xy="10,221"/>
+    <list id="n5_v5mw" name="listItem1" xy="-65,32" size="339,106" scale="0.73,0.73" layout="row" scroll="horizontal" colGap="8" defaultItem="ui://38fa8c75pkn9192" align="center" vAlign="middle">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

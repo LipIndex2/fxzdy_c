@@ -1,0 +1,27 @@
+
+boxorange_001.png
+size: 138,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_icon(1)
+  rotate: false
+  xy: 2, 303
+  size: 132, 159
+  orig: 132, 159
+  offset: 0, 0
+  index: -1
+002_icon
+  rotate: false
+  xy: 2, 142
+  size: 132, 159
+  orig: 132, 159
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: true
+  xy: 2, 2
+  size: 138, 134
+  orig: 138, 134
+  offset: 0, 0
+  index: -1

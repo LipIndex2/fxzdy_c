@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="103,45">
+  <displayList>
+    <text id="n83_be41" name="costNum" xy="68,22" pivot="0.5,0.5" anchor="true" size="10,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" text=""/>
+    <loader id="n84_uug0" name="costIcon" xy="23,0" size="39,40" align="right" fill="scaleNoBorder">
+      <relation target="n83_be41" sidePair="right-left"/>
+    </loader>
+  </displayList>
+</component>

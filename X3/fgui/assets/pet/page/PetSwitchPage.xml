@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="699,656">
+  <displayList>
+    <text id="n110_105pv" name="T_name" xy="283,-2" pivot="0.5,0.5" size="132,58" fontSize="43" color="#31b4ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="宠物名"/>
+    <image id="n13_b419" name="n13" src="tml513a" fileName="bgImage/zhanli1_frame.png" pkg="38fa8c75" xy="226,584" scale="0.9,0.9" visible="false"/>
+    <list id="n116_sv98" name="list_star1" xy="249,73" size="200,32" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n111_105pv" name="T_power" xy="299,590" pivot="0,0.5" size="136,59" visible="false" fontSize="44" color="#fefefe" vAlign="middle" autoClearText="true" text="28399"/>
+    <component id="n118_sv98" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="349,503" pivot="0.5,1" anchor="true" size="1,1" scale="0.7,0.7">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7q3fcj1k">
+  <resources>
+    <font id="bcwg8" name="default.ttf" path="/font/" exported="true" renderMode="smooth" samplePointSize="16"/>
+    <image id="t6mg9" name="icon_10002.png" path="/" exported="true" scale9grid="25,25,50,50"/>
+    <image id="wwsza" name="heroBattleTestIcon1.png" path="/battleHero/" exported="true"/>
+    <image id="o8vgb" name="jntx1_bulue.png" path="/battleHero/" exported="true"/>
+    <image id="o8vgc" name="jntx_bulue.png" path="/battleHero/" exported="true"/>
+    <image id="346b2" name="fangdajing.png" path="/" exported="true"/>
+    <image id="95373" name="sd_A_common_purple_frame.png" path="/mainMore/mainPage/quality/bg/" exported="true"/>
+    <image id="phyfd" name="dichangjing.png" path="/drawCard/" exported="true"/>
+    <image id="phyfe" name="dizuo-lan.png" path="/drawCard/" exported="true"/>
+    <image id="phyff" name="guang-lan.png" path="/drawCard/" exported="true"/>
+    <image id="phyfi" name="tx_002.png" path="/drawCard/" exported="true"/>
+    <image id="phyf4k" name="jobLogo.png" path="/drawCard/" exported="true"/>
+    <image id="gtyg4l" name="zhujiemian_0007.png" path="/mainMore/mainPage/" exported="true"/>
+    <image id="gtyg4m" name="linshihuodongtubiao.png" path="/mainMore/" exported="true"/>
+    <image id="pocb4n" name="zhujiemian_0004.png" path="/mainMore/mainPage/" exported="true"/>
+    <image id="pocb4o" name="zhujiemian_0005.png" path="/mainMore/mainPage/" exported="true"/>
+    <image id="pocb4p" name="zhujiemian_0006.png" path="/mainMore/mainPage/" exported="true"/>
+    <image id="pocb57" name="主界面优化输出其二额度(1)(3).jpg" path="/template/" exported="true"/>
+    <image id="pocb4r" name="胜利.png" path="/挂机/v2/" exported="true"/>
+    <image id="pocb4s" name="失败.png" path="/挂机/v2/" exported="true"/>
+    <image id="pocb4t" name="zhujiemian_0004.png" path="/mainPage/" exported="true"/>
+    <image id="pocb4u" name="zhujiemian_0005.png" path="/mainPage/" exported="true"/>
+    <image id="pocb4v" name="zhujiemian_0006.png" path="/mainPage/" exported="true"/>
+    <image id="pocb4w" name="zhujiemian_0007.png" path="/mainPage/" exported="true"/>
+    <image id="pocb4x" name="sd_A_common_purple_frame.png" path="/quality/bg/" exported="true"/>
+    <image id="pwoe58" name="天赋优化.jpg" path="/天赋v2/"/>
+    <image id="kp3w59" name="天赋优化1334.jpg" path="/天赋v2/"/>
+    <image id="kp3w5a" name="Z战队科技.jpg" path="/战队科技/" exported="true"/>
+    <image id="kp3w5b" name="Z战队科技1334.jpg" path="/战队科技/" exported="true"/>
+    <image id="ipjz5c" name="Z战队科技(1).jpg" path="/战队科技/" exported="true"/>
+    <image id="oqeb5d" name="竞技场.jpg" path="/竞技场/"/>
+    <image id="oqeb5e" name="竞技场2.png" path="/竞技场/"/>
+    <image id="oqeb5f" name="竞技场3.png" path="/竞技场/"/>
+    <image id="oqeb5g" name="竞技场1334.png" path="/竞技场/"/>
+    <image id="oqeb5h" name="排行榜1334.png" path="/竞技场/"/>
+    <image id="oqeb5i" name="胜利1334.png" path="/竞技场/"/>
+    <image id="oqeb5j" name="失败1334.png" path="/竞技场/"/>
+    <image id="oqeb5k" name="选择对手.png" path="/竞技场/"/>
+    <image id="oqeb5l" name="段位奖励1334.png" path="/竞技场/"/>
+    <image id="oqeb5m" name="段位提升1334.png" path="/竞技场/"/>
+    <image id="oqeb5n" name="防守阵容1334.png" path="/竞技场/"/>
+    <image id="gkgv5o" name="排行榜.jpg" path="/排行榜/"/>
+    <image id="gkgv5p" name="提示.jpg" path="/竞技场/"/>
+    <image id="c7h65q" name="我的防守阵容.png" path="/竞技场/"/>
+    <image id="ffqt5r" name="胜利.png" path="/竞技场/"/>
+    <image id="ffqt5s" name="记录.png" path="/竞技场/"/>
+    <image id="ffqt5t" name="j结算奖励.jpg" path="/每日BOSS/"/>
+    <image id="ffqt5u" name="每日boss1334.jpg" path="/每日BOSS/"/>
+    <image id="ffqt5v" name="每日boss1626.jpg" path="/每日BOSS/"/>
+    <image id="ffqt5w" name="每日BOSS胜利.jpg" path="/每日BOSS/"/>
+    <image id="ffqt5x" name="排行榜.jpg" path="/每日BOSS/"/>
+    <image id="ffqt5y" name="排行榜1626.jpg" path="/每日BOSS/"/>
+    <image id="ffqt5z" name="提示.jpg" path="/每日BOSS/"/>
+    <image id="ffqt60" name="新解锁.jpg" path="/每日BOSS/"/>
+    <component id="caj961" name="SeeSee.xml" path="/"/>
+    <image id="qjn062" name="每日BOSS战斗1.jpg" path="/每日BOSS/"/>
+    <image id="ejy364" name="每日BOSS结算.jpg" path="/每日BOSS/"/>
+    <image id="ejy365" name="查看他人3.png" path="/查看他人信息/"/>
+    <image id="ejy366" name="改名.jpg" path="/查看他人信息/"/>
+    <image id="qoerq" name="csd1_img.png" path="/map/" exported="true"/>
+    <image id="6ihg67" name="升星成功优化输出.jpg" path="/英雄/"/>
+    <image id="lr6v68" name="每日boss-UI背景-UI.jpg" path="/每日BOSS/"/>
+    <image id="frvn69" name="tx_006_20.png" path="/avatar/" exported="true"/>
+    <image id="lxy76a" name="xj001_icon.png" path="/" exported="true" scale="tile"/>
+    <image id="g7036b" name="004.png" path="/gameMode/"/>
+    <image id="ry806d" name="主界面-展开列表.jpg" path="/主界面/" exported="true"/>
+    <image id="ry806e" name="首充.png" path="/主界面/" exported="true"/>
+    <image id="ry806f" name="设置.png" path="/主界面/" exported="true"/>
+    <image id="ocqx6g" name="背包输出.jpg" path="/背包/"/>
+    <image id="tl0c6h" name="C成长之路1334.jpg" path="/成长之路/"/>
+    <image id="tl0c6j" name="奖励预览.png" path="/成长之路/"/>
+    <image id="na346k" name="zhenying2.png" path="/阵营/" exported="true"/>
+    <image id="tqjl6l" name="zyfz_icon.png" path="/种族/" exported="true"/>
+    <image id="zbph6m" name="X序列效应主界面1334.jpg" path="/序列校验/"/>
+    <image id="zbph6n" name="序列效应主界面21334.jpg" path="/序列校验/"/>
+    <image id="116zs6o" name="半身像.png" path="/序列校验/" exported="true"/>
+    <image id="qlkjs6p" name="zyfz01_icon.png" path="/" exported="true"/>
+    <image id="buyss6q" name="恭喜获得.jpg" path="/抽卡/"/>
+    <image id="buyss6s" name="【抽卡】-专武 1626.jpg" path="/抽卡/"/>
+    <image id="buyss6t" name="【抽卡】-专武1334.jpg" path="/抽卡/"/>
+    <image id="buyss6u" name="提示1.jpg" path="/抽卡/"/>
+    <image id="nl4gs6v" name="聊天.png" path="/L聊天/"/>
+    <image id="nl4gs6w" name="聊天2.png" path="/L聊天/"/>
+    <image id="nl4gs6x" name="聊天3.png" path="/L聊天/"/>
+    <image id="nl4gs6y" name="胜利.jpg" path="/挂机/后台/"/>
+    <image id="nl4gs6z" name="提示.jpg" path="/挂机/后台/"/>
+    <image id="nl4gs70" name="提示2.jpg" path="/挂机/后台/"/>
+    <image id="nl4gs71" name="托管结束.jpg" path="/挂机/后台/"/>
+    <image id="a3e93" name="shouji.png" path="/" exported="true"/>
+    <image id="ikw9s72" name="主界面.jpg" path="/G挂机/"/>
+    <image id="ikw9s73" name="主线挂机补充1334.jpg" path="/G挂机/"/>
+    <image id="ikw9s74" name="称号_001带文字.png" path="/C称号/" exported="true"/>
+    <image id="jqxis75" name="合成.jpg" path="/D道具/"/>
+    <image id="d299s76" name="头像1.png" path="/S设置/"/>
+    <image id="d299s77" name="称号1.png" path="/S设置/"/>
+    <image id="d299s78" name="称号2.png" path="/S设置/"/>
+    <image id="d299s79" name="头像2.png" path="/S设置/"/>
+    <image id="d299s7a" name="头像框1.png" path="/S设置/"/>
+    <image id="d299s7b" name="形象1.png" path="/S设置/"/>
+    <image id="d299s7c" name="形象2.png" path="/S设置/"/>
+    <image id="fldfs7d" name="talent_01.png" path="/T天赋/" exported="true"/>
+    <image id="fldfs7e" name="talent_02.png" path="/T天赋/" exported="true"/>
+    <image id="8ixjs7d" name="img_skin_quality3.png" path="/quality/bg/" exported="true"/>
+    <image id="8ixjs7e" name="baoji.png" path="/avatar/"/>
+    <image id="j7r4s7f" name="talent_03.png" path="/T天赋/" exported="true"/>
+    <image id="j7r4s7g" name="talent_04.png" path="/T天赋/" exported="true"/>
+    <image id="k3sys7h" name="S系统设置.jpg" path="/X系统设置/"/>
+    <image id="k3sys7i" name="提醒设置.jpg" path="/X系统设置/"/>
+    <image id="t93es7j" name="进攻目标的防守阵容.jpg" path="/L联盟对决/"/>
+    <image id="t93es7k" name="联盟对决-分层.jpg" path="/L联盟对决/"/>
+    <image id="t93es7l" name="联盟对决-选人.jpg" path="/L联盟对决/"/>
+    <image id="t93es7m" name="联盟对决弹窗.jpg" path="/L联盟对决/"/>
+    <image id="8a3816" name="icgoods_10001_40.png" path="/" exported="true"/>
+    <image id="8a3817" name="icgoods_10002_39.png" path="/" exported="true"/>
+    <image id="l2wis7n" name="聊天框设置1.jpg" path="/S设置/"/>
+    <image id="l2wis7o" name="聊天框设置2.jpg" path="/S设置/"/>
+    <image id="l2wis7p" name="聊天框设置3.jpg" path="/S设置/"/>
+    <image id="7g4as7q" name="星钻银行.jpg" path="/X星钻银行/"/>
+    <image id="7g4as7r" name="icgoods_10032.png" path="/"/>
+    <image id="hcpcs7q" name="七日任務.jpg" path="/头七活动/"/>
+    <image id="hcpcs7t" name="聊天框设置1.jpg" path="/L聊天/"/>
+    <image id="97dis7u" name="限时礼包1334.png" path="/X限时礼包/"/>
+    <image id="97dis7v" name="超值升星礼包1334.png" path="/X限时礼包/"/>
+    <image id="uvvcs7w" name="累天充值优化_1334.jpg" path="/L累天充值/"/>
+    <image id="gsa5s7w" name="抽卡优化1334.jpg" path="/C抽卡/"/>
+    <image id="gsa5s7x" name="1120.png" path="/Y英雄/"/>
+    <image id="uvvcs7x" name="X-星灵培养1334.jpg" path="/X星灵培养/"/>
+    <image id="uvvcs7y" name="X-星灵进阶.jpg" path="/X星灵培养/"/>
+    <image id="uvvcs7z" name="X-星灵升级.jpg" path="/X星灵培养/"/>
+    <image id="uvvcs80" name="升阶.jpg" path="/X星灵培养/"/>
+    <image id="uvvcs81" name="升星成功.jpg" path="/X星灵培养/"/>
+    <image id="lg0ps82" name="00.jpg" path="/X星灵培养/"/>
+    <image id="lnj7s82" name="【抽卡】获得-彩色.jpg" path="/C抽卡/"/>
+    <image id="lnj7s83" name="抽卡优化2.jpg" path="/C抽卡/"/>
+    <image id="lnj7s85" name="抽卡优化3-1334.jpg" path="/C抽卡/"/>
+    <image id="bpcis86" name="zhujiemian_0020.png" path="/主界面/"/>
+    <image id="bpcis87" name="xlzs.png" path="/主界面/"/>
+    <image id="bpcis88" name="pethead_03.png" path="/X星灵培养/"/>
+    <image id="bpcis89" name="petcard_5.png" path="/X星灵培养/" scale="9grid" scale9grid="41,31,37,17"/>
+    <image id="bpcis8a" name="petcard_7.png" path="/X星灵培养/" exported="true" scale="9grid" scale9grid="30,33,60,19"/>
+    <image id="sxtss8b" name="01.png" path="/T头像框/" exported="true"/>
+    <image id="sxtss8c" name="02.png" path="/T头像框/" exported="true"/>
+    <image id="sxtss8d" name="03.png" path="/T头像框/" exported="true"/>
+    <image id="sxtss8e" name="04.png" path="/T头像框/" exported="true"/>
+    <image id="sxtss8f" name="dailyboss1.png" path="/C称号/" exported="true"/>
+    <image id="sxtss8g" name="dailyboss2.png" path="/C称号/" exported="true"/>
+    <image id="rzses8h" name="宠物图鉴.jpg" path="/X星灵培养/"/>
+    <image id="dbz0s8h" name="pethead_6.png" path="/X星灵培养/"/>
+    <image id="dbz0s8i" name="pethead_7.png" path="/X星灵培养/"/>
+    <image id="dbz0s8j" name="feichuantubiao.png" path="/"/>
+    <image id="c9kws8k" name="联盟砍价1.jpg" path="/L联盟砍价/"/>
+    <image id="c9kws8l" name="联盟砍价2.jpg" path="/L联盟砍价/"/>
+    <image id="kyqns8m" name="道具兑换.jpg" path="/Z周活动/"/>
+    <image id="tiubs8n" name="secretMap_2_1.png" path="/map/"/>
+    <image id="tiubs8o" name="secretMap_2_2.png" path="/map/"/>
+    <image id="tiubs8p" name="secretMap_2_3.png" path="/map/"/>
+    <image id="tiubs8q" name="secretMap_2_4.png" path="/map/"/>
+    <image id="tiubs8r" name="secretMap_2_5.png" path="/map/"/>
+    <image id="tiubs8s" name="secretMap_2_end.png" path="/map/"/>
+    <image id="tiubs8t" name="secretMap_2_start.png" path="/map/"/>
+    <image id="tiubs8v" name="秘境1334.jpg" path="/M秘境/"/>
+    <image id="tiub156" name="秘境21334.jpg" path="/M秘境/"/>
+    <image id="vdaes8n" name="道具使用优化1.jpg" path="/"/>
+    <image id="vdaes8o" name="道具使用优化2.jpg" path="/"/>
+    <image id="vdaes8p" name="zu83_12.png" path="/"/>
+    <image id="vdaes8q" name="道具使用优化3.jpg" path="/"/>
+    <image id="vdaes8r" name="道具使用优化6.jpg" path="/"/>
+    <image id="vdaes8s" name="神话.png" path="/"/>
+    <image id="vdaes8t" name="红底.png" path="/"/>
+    <image id="vdaes8u" name="道具使用优化5.jpg" path="/"/>
+    <image id="vipis8n" name="1.jpg" path="/X序列校验2/"/>
+    <image id="vipis8o" name="2.jpg" path="/X序列校验2/"/>
+    <image id="vipis8p" name="3.jpg" path="/X序列校验2/"/>
+    <image id="vipis8q" name="4.jpg" path="/X序列校验2/"/>
+    <image id="tiubs8w" name="秘境1.png" path="/M秘境/"/>
+    <image id="a01c24" name="scp_sc2.png" path="/S收藏品/" exported="true"/>
+    <image id="a01c25" name="scp_tz1.png" path="/S收藏品/" exported="true"/>
+    <image id="lupes8x" name="收藏品1.jpg" path="/S收藏品/"/>
+    <image id="lupes8y" name="scale_50%_wuxianshoutao_68.png" path="/S收藏品/" exported="true"/>
+    <image id="lupes8z" name="icgoods_10022_55.png" path="/S收藏品/" exported="true"/>
+    <image id="lupes90" name="收藏品2.jpg" path="/S收藏品/"/>
+    <image id="lupes91" name="收藏品4.jpg" path="/S收藏品/"/>
+    <image id="lupes92" name="收藏品5.jpg" path="/S收藏品/"/>
+    <image id="lupes93" name="xiyou_19.png" path="/S收藏品/" exported="true"/>
+    <image id="lupes94" name="收藏品7.jpg" path="/S收藏品/"/>
+    <image id="pmhws99" name="抽卡1.jpg" path="/"/>
+    <image id="pmhws9a" name="异星之路02.jpg" path="/"/>
+    <image id="pmhws9b" name="collection_01.png" path="/S收藏品/" exported="true"/>
+    <image id="pmhws9d" name="icon_collection01.png" path="/S收藏品/" exported="true"/>
+    <image id="6v98s9e" name="xiyou.png" path="/S收藏品/"/>
+    <image id="teoxs9e" name="抽奖活动优化.jpg" path="/"/>
+    <image id="loj0s9f" name="box_normal.png" path="/宝箱图标/"/>
+    <image id="loj0s9g" name="box_normal_open.png" path="/宝箱图标/"/>
+    <image id="loj0s9h" name="box_orange.png" path="/宝箱图标/"/>
+    <image id="loj0s9i" name="box_orange_open.png" path="/宝箱图标/"/>
+    <image id="loj0s9j" name="box_purple.png" path="/宝箱图标/"/>
+    <image id="loj0s9k" name="box_purple_open.png" path="/宝箱图标/"/>
+    <image id="loj0s9l" name="box_red.png" path="/宝箱图标/"/>
+    <image id="loj0s9m" name="box_redOpen.png" path="/宝箱图标/"/>
+    <image id="loj0s9n" name="box_team.png" path="/宝箱图标/"/>
+    <image id="loj0s9o" name="box_team_open.png" path="/宝箱图标/"/>
+    <image id="ko81s9q" name="抽奖组活动.jpg" path="/"/>
+    <image id="dx6es9r" name="星灵羁绊1.jpg" path="/X星灵羁绊/"/>
+    <image id="dx6es9s" name="星灵羁绊2.jpg" path="/X星灵羁绊/"/>
+    <image id="dx6es9t" name="星灵羁绊3.jpg" path="/X星灵羁绊/"/>
+    <image id="dx6es9u" name="星灵羁绊4.jpg" path="/X星灵羁绊/"/>
+    <image id="dx6es9v" name="4.jpg" path="/X星灵羁绊/优化/"/>
+    <image id="gvuzs9w" name="3.jpg" path="/X星灵羁绊/优化/"/>
+    <image id="gvuzs9x" name="活动弹窗_招募冲榜.jpg" path="/活动弹窗/"/>
+    <image id="gvuzs9z" name="活动弹窗_秘境冲榜.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa0" name="活动弹窗_职业塔冲榜.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa1" name="hdtc_mjcb.png" path="/活动弹窗/"/>
+    <image id="gvuzsa2" name="hdtc_挂机冲榜冠军.png" path="/活动弹窗/"/>
+    <image id="gvuzsa3" name="STK女团.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa4" name="招募冲榜冠军.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa5" name="挂机冲榜冠军.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa6" name="秘境冲榜冠军.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa7" name="职业塔冲榜冠军.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa8" name="职业招募.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsa9" name="英雄试炼.jpg" path="/活动弹窗/"/>
+    <image id="gvuzsaa" name="赛季.jpg" path="/活动弹窗/"/>
+    <image id="v93usab" name="hdtc_挂机冲榜冠军2.png" path="/活动弹窗/"/>
+  </resources>
+  <publish name="" excluded="/"/>
+</packageDescription>

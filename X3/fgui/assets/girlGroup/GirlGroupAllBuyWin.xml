@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="604,828">
+  <displayList>
+    <loader id="n109_k045" name="n109" xy="0,0" size="604,828" group="n97_k045" url="ui://7cvz7rmmk045vv1x" autoSize="true"/>
+    <image id="n63_430e" name="n63" src="430e37" fileName="img/stknt_tcd2.png" xy="36,364" size="528,422" group="n97_k045"/>
+    <image id="n80_430e" name="n80" src="430e49" fileName="img/touxiangkuangdi.png" xy="160,182" size="278,148" group="n97_k045"/>
+    <component id="n113_k045" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="247,197" group="n97_k045" scale="1.1,1.1"/>
+    <image id="n82_430e" name="n82" src="430e51" fileName="img/STKxianding.png" xy="235,190" group="n97_k045"/>
+    <image id="n84_430e" name="n84" src="430e53" fileName="img/jiantou.png" xy="415,146" group="n97_k045"/>
+    <image id="n110_k045" name="n110" src="430e53" fileName="img/jiantou.png" xy="124,146" group="n97_k045" flip="hz"/>
+    <text id="n60_430e" name="n60" xy="72,55" pivot="0,0.5" size="309,39" group="n97_k045" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#472e6e" strokeSize="2" text="本服已购买女团相关礼包"/>
+    <text id="n61_430e" name="n61" xy="493,52" pivot="0,0.5" size="63,42" group="n97_k045" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#472e6e" strokeSize="2" text="人次">
+      <relation target="n62_430e" sidePair="left-right"/>
+    </text>
+    <text id="n62_430e" name="T_num" xy="381,34" pivot="0,0.5" size="112,79" group="n97_k045" fontSize="60" color="#ffe400" vAlign="middle" strokeColor="#472e6e" strokeSize="3" text="500"/>
+    <text id="n86_430e" name="T_name" xy="207,142" pivot="0.5,0.5" size="184,36" group="n97_k045" fontSize="26" color="#ffe400" vAlign="middle" strokeColor="#000000" strokeSize="2" text="星动环宇头像框"/>
+    <text id="n76_430e" name="T_tips2" xy="118,378" size="360,29" group="n97_k045" fontSize="20" color="#ff9600" vAlign="middle" strokeColor="#000000" strokeSize="2" text="购买任意女团礼包后，可领下列全服奖励"/>
+    <text id="n85_430e" name="T_tips1" xy="92,330" pivot="0.5,0.5" size="427,29" group="n97_k045" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="本服购买人次达150，全服玩家可领（30/150）"/>
+    <list id="n112_k045" name="list_award" xy="52,413" size="500,358" group="n97_k045" overflow="scroll" lineGap="10" defaultItem="ui://4e791994k0455f">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n97_k045" name="n97" xy="0,0" size="604,828" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n114_vdae" name="n114" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="259,841">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

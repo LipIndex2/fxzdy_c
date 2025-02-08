@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="338,136" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n25_894b" name="n25" src="894b24" fileName="leagueMain/img/lianmengmingzi.png" xy="0,24" size="338,108" group="n37_h90v"/>
+    <text id="n26_894b" name="lvLb" xy="104,43" size="64,32" group="n37_h90v" fontSize="22" color="#1255ba" text="Lv.26"/>
+    <text id="n27_894b" name="nameLb" xy="181,41" size="133,36" group="n37_h90v" fontSize="26" color="#0d3d86" text="天河特工队"/>
+    <text id="n28_894b" name="memberNumLb" xy="203,81" size="68,32" group="n37_h90v" fontSize="22" color="#ffffff" strokeColor="#074eb7" strokeSize="2" text="14/30"/>
+    <image id="n33_894b" name="n33" src="894b27" fileName="leagueMain/img/duiwu_icon.png" xy="167,79" size="31,26" group="n37_h90v"/>
+    <component id="n36_h90v" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="6,0" size="188,214" group="n37_h90v" aspect="true" scale="0.5,0.5"/>
+    <group id="n37_h90v" name="myCom" xy="0,0" size="338,214" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

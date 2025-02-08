@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="204,66" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n72_c83b" name="n72" src="c83b45" fileName="img/yeqian_yixuan.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <image id="n74_ko81" name="n74" src="c83b46" fileName="img/yeqian_weixuan.png" xy="0,0">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <text id="n75_ko81" name="title" xy="68,13" pivot="0.5,0.5" size="63,42" fontSize="30" color="#9ca7bf" align="center" vAlign="middle" strokeColor="#22232f" strokeSize="3" text="奖励">
+      <gearDisplay controller="button" pages="0,1"/>
+      <gearColor controller="button" pages="1" values="#ffffff,#22232f" default="#9ca7bf,#22232f"/>
+    </text>
+    <component id="n76_ko81" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="194,10" size="20,20" touchable="false" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

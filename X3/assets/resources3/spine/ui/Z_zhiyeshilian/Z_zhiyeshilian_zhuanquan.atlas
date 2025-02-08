@@ -1,0 +1,13 @@
+
+Z_zhiyeshilian_zhuanquan.png
+size: 127,27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_xiantiao
+  rotate: false
+  xy: 0, 0
+  size: 128, 28
+  orig: 128, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+skill02_bullet3_upper.png
+size: 241,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_zidantu
+  rotate: false
+  xy: 2, 54
+  size: 199, 40
+  orig: 200, 50
+  offset: 1, 5
+  index: -1
+effect/skill02_zidantu2_00001
+  rotate: false
+  xy: 2, 6
+  size: 10, 12
+  orig: 200, 50
+  offset: 48, 22
+  index: -1
+effect/skill02_zidantu2_00002
+  rotate: false
+  xy: 116, 2
+  size: 56, 21
+  orig: 200, 50
+  offset: 33, 22
+  index: -1
+effect/skill02_zidantu2_00003
+  rotate: true
+  xy: 210, 10
+  size: 84, 29
+  orig: 200, 50
+  offset: 35, 13
+  index: -1
+effect/skill02_zidantu2_00004
+  rotate: false
+  xy: 116, 25
+  size: 92, 27
+  orig: 200, 50
+  offset: 57, 14
+  index: -1
+effect/skill02_zidantu2_00005
+  rotate: false
+  xy: 2, 20
+  size: 112, 32
+  orig: 200, 50
+  offset: 67, 14
+  index: -1

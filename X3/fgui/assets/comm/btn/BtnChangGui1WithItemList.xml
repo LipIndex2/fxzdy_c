@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n8_dtss" name="icon" src="pf1a147" fileName="bgImage/changgui1_btn.png" xy="0,0" pivot="0.5,0.5" size="306,122">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_dtss" name="title" xy="37,48" pivot="0.5,0.5" size="242,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="进阶">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <list id="n10_ipjz" name="itemList" xy="25,4" size="272,42" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://38fa8c75ipjzvvv19b" align="center" vAlign="middle" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n11_ivzm" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="300,11" controller="type,2">
+      <relation target="" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

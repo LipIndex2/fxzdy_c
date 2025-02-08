@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="135,154" pivot="0.5,0.5" anchor="true">
+  <controller name="canLvUpFlag" exported="true" pages="0,false,1,true" selected="0"/>
+  <displayList>
+    <loader id="n15_8528" name="bg" xy="0,0" size="135,154" url="ui://38fa8c75kp1obh" fill="scaleFree"/>
+    <loader id="n17_8528" name="imageTalent" xy="21,30" pivot="0.5,0.5" size="93,93" url="ui://7q3fcj1kfldfs7e" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n16_8528" name="labelTitle" xy="17,103" size="101,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#06224e" strokeSize="2" singleLine="true" text="5%"/>
+  </displayList>
+</component>

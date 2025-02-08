@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n107_v891" name="mapBg" xy="375,667" pivot="0.5,0.5" anchor="true" size="750,1626" fill="scaleMatchHeight">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n110_v891" name="gp_map" src="bezo7t" fileName="item/MIniMapItem.xml" xy="374,666"/>
+    <text id="n4_773e" name="T_name" xy="18,58" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="齿轮星球"/>
+    <component id="n106_v891" name="topItem" src="v89176" fileName="item/MiniMapCollectionItem.xml" xy="0,111"/>
+    <component id="n111_v891" name="sliderItem" src="v8917o" fileName="slider/MiniSliderItem1.xml" xy="695,521" pivot="0.5,0.5" size="18,292" group="n114_v891">
+      <Slider value="71" max="100"/>
+    </component>
+    <component id="n112_v891" name="btn_add" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="680,485" size="48,48" group="n114_v891">
+      <Button icon="ui://e477df1cv8917q"/>
+    </component>
+    <component id="n113_v891" name="btn_subtract" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="680,801" size="48,48" group="n114_v891">
+      <Button icon="ui://e477df1cv8917p"/>
+    </component>
+    <group id="n114_v891" name="n114" xy="680,485" size="48,364" advanced="true">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </group>
+    <component id="n115_k045" name="tipsItem" src="k04588" fileName="item/ResourceTipsItem.xml" xy="470,50" visible="false"/>
+    <component id="n105_v891" name="btn_back" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n116_k045" name="btn_boss" src="k04586" fileName="btn/BtnBattleData.xml" xy="645,1217">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button title="奖励"/>
+    </component>
+  </displayList>
+</component>

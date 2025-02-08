@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="40,69">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="关闭"/>
+    <remark page="1" value="打开"/>
+  </controller>
+  <displayList>
+    <image id="n35_loj0" name="n35" src="loj0130" fileName="img/btn_del1.png" xy="0,22"/>
+    <image id="n36_loj0" name="n36" src="loj0131" fileName="img/btn_del2.png" xy="32,24" pivot="0.8,1" anchor="true">
+      <gearLook controller="state" pages="1" values="1,30,0,0" default="1,0,0,0"/>
+    </image>
+  </displayList>
+</component>

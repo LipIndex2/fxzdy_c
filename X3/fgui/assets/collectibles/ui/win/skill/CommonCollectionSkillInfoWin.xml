@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n19_ho2j" name="img_bg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n30_6v98" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="130,551" size="496,231" group="n26_cpee"/>
+    <loader id="n0_3ae7" name="bg" xy="124,561" size="487,209" group="n26_cpee" url="ui://u3k6kdotx52evvv18p" fill="scaleFree"/>
+    <image id="n16_x52e" name="n16" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="157,702" size="403,8" group="n26_cpee"/>
+    <list id="n24_hewq" name="featureList" xy="162,644" size="393,32" group="n26_cpee" layout="row" colGap="8" defaultItem="ui://tkr2g69t6v98vvv1ke" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n2_3ae7" name="T_name" xy="158,595" size="123,42" group="n26_cpee" fontSize="30" color="#ffcd54" autoClearText="true" text="技能名称"/>
+    <richtext id="n4_3ae7" name="T_info" xy="160,730" size="392,32" group="n26_cpee" fontSize="22" color="#e9ecee" leading="7" ubb="true" autoSize="height" autoClearText="true" text="超级吊炸天技能"/>
+    <component id="n15_x52e" name="closeBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="532,578" size="52,52" group="n26_cpee" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75x52evvv18o" controller="c1" page="0"/>
+    </component>
+    <group id="n26_cpee" name="titleGrop" xy="124,551" size="502,231" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

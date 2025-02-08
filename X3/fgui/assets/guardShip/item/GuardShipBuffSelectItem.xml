@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="212,608" pivot="0.5,0.5" extention="Button">
+  <controller name="quality" pages="4,,5,,6,,0,,1,,2,,3,,7,,8,,9," selected="9">
+    <remark page="3" value="蓝色"/>
+    <remark page="4" value="紫色"/>
+    <remark page="5" value="橙色"/>
+    <remark page="6" value="红色"/>
+    <remark page="9" value="黑色"/>
+  </controller>
+  <displayList>
+    <loader id="n16_gs9k" name="bgLoader" xy="0,0" size="212,608" url="ui://ae4de3b1cth08m" align="center" vAlign="middle" fill="scaleFree">
+      <gearIcon controller="quality" pages="1,2,3,9" values="ui://ae4de3b1e53p84|ui://ae4de3b1e53p86|ui://ae4de3b1e53p87|ui://ae4de3b1cth08m" default="ui://ae4de3b1e53p85"/>
+    </loader>
+    <loader id="n18_gs9k" name="buffBgLoader" xy="106,210" pivot="0.5,0.5" anchor="true" size="124,124" url="ui://7q3fcj1ko8vgc" align="center" vAlign="middle" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n19_gs9k" name="buffSwapLoader" xy="106,210" pivot="0.5,0.5" anchor="true" size="124,124" url="ui://7q3fcj1ko8vgb" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n20_gs9k" name="buffLoader" xy="106,210" pivot="0.5,0.5" anchor="true" size="100,100" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n21_gs9k" name="targetLoader" xy="106,339" pivot="0.5,0.5" anchor="true" size="50,50" align="center" vAlign="middle" fill="scale"/>
+    <text id="n5_1794" name="lbName" xy="105,43" pivot="0.5,0.5" anchor="true" size="157,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#000000" strokeSize="2" text="机械觉醒">
+      <gearLook controller="quality" default="1,0,0,0"/>
+      <gearColor controller="quality" pages="1,2,3,9" values="#ffffff,#550a99|#ffffff,#b2720d|#ffffff,#870202|#ffffff,#000000" default="#ffffff,#0a2197"/>
+    </text>
+    <component id="n22_loej" name="lbDes" src="loej93" fileName="component/GuardShipBuffSelectDesc.xml" xy="16,364"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

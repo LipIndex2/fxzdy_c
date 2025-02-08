@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="161,71" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n16_be1a" name="n16" src="be1a87" fileName="img/scale_60%_sd_A_common_changgui3_btn.png" xy="0,0"/>
+    <text id="n18_be1a" name="title" xy="49,15" pivot="0.5,0.5" size="63,41" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a50a9" strokeSize="3" text="申请"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

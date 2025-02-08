@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kc9kws8k">
+  <controller name="isHaveKill" pages="0,,1," selected="0"/>
+  <controller name="isBuy" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n59_c9kw" name="bgM" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="19,176" size="725,952" group="n50_mki7"/>
+    <image id="n0_26e0" name="n0" src="26e00" fileName="img/lmkj_bg.png" xy="40,279" group="n50_mki7"/>
+    <image id="n34_26e0" name="n34" src="26e016" fileName="img/zi.png" xy="243,341" group="n50_mki7"/>
+    <image id="n1_26e0" name="n1" src="26e01" fileName="img/diban.png" xy="109,806" group="n50_mki7"/>
+    <image id="n14_26e0" name="n14" src="26e07" fileName="img/scale_110%_sd_A_common_ygm_tag.png" xy="299,731" group="n50_mki7">
+      <gearDisplay controller="isBuy" pages="1"/>
+    </image>
+    <component id="n65_eu7e" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="655,400" group="n50_mki7"/>
+    <component id="n15_26e0" name="btnKill" src="mki726" fileName="btn/LeagueBargainBuyBtn.xml" xy="265,723" group="n50_mki7">
+      <gearDisplay controller="isHaveKill" pages="0"/>
+    </component>
+    <component id="n56_mki7" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="221,697" size="310,122" group="n50_mki7" scale="0.7,0.7">
+      <gearDisplay controller="isHaveKill" pages="1"/>
+      <gearDisplay2 controller="isBuy" pages="0" condition="0"/>
+      <Button title="购买"/>
+    </component>
+    <text id="n21_26e0" name="labelOld" xy="454,479" pivot="1,0" size="52,34" group="n50_mki7" fontSize="24" color="#a4a4a4" vAlign="middle" strokeColor="#000000" strokeSize="2" text="原价"/>
+    <text id="n22_26e0" name="labelMoneyOld" xy="542,478" pivot="0.5,0.5" size="82,36" group="n50_mki7" fontSize="26" color="#9f9048" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="45000"/>
+    <text id="n23_26e0" name="labelNew" xy="446,520" pivot="1,0" size="52,34" group="n50_mki7" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="现价"/>
+    <image id="n24_26e0" name="n24" src="26e012" fileName="img/scale_70%_sd_A_common_icgoods_10032_1.png" xy="509,479" group="n50_mki7"/>
+    <image id="n25_26e0" name="n25" src="26e012" fileName="img/scale_70%_sd_A_common_icgoods_10032_1.png" xy="501,520" group="n50_mki7"/>
+    <image id="n28_26e0" name="n28" src="26e014" fileName="img/hongtiao.jpg" xy="455,494" group="n50_mki7"/>
+    <image id="n29_26e0" name="n29" src="26e015" fileName="img/sd_A_common_qipao_bai.png" xy="195,237" group="n50_mki7"/>
+    <text id="n30_26e0" name="textMsg" xy="210,245" size="171,58" group="n50_mki7" fontSize="20" vAlign="middle" autoSize="none" text="盟友不急,便宜点就便宜点......"/>
+    <image id="n35_26e0" name="n35" src="26e017" fileName="img/sd_A_common_004_tag.png" xy="660,398" group="n50_mki7" visible="false"/>
+    <list id="n49_mki7" name="rowList" xy="111,856" size="531,194" group="n50_mki7" overflow="scroll" defaultItem="ui://0260141fmki725" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n32_26e0" name="n32" xy="130,543" pivot="0,0.5" size="109,34" group="n51_mki7" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="剩余时间:"/>
+    <text id="n33_26e0" name="labelTime" xy="237,543" pivot="0,0.5" size="95,34" group="n51_mki7" fontSize="24" color="#00ffd8" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" autoClearText="true" text="5天12时"/>
+    <group id="n51_mki7" name="n51" xy="130,543" size="202,34" group="n50_mki7"/>
+    <component id="n18_26e0" name="r1" src="mki727" fileName="components/LeagueBargainRewardComp.xml" xy="126,592" group="n52_mki7"/>
+    <component id="n53_mki7" name="r2" src="mki727" fileName="components/LeagueBargainRewardComp.xml" xy="256,592" group="n52_mki7"/>
+    <component id="n54_mki7" name="r3" src="mki727" fileName="components/LeagueBargainRewardComp.xml" xy="391,592" group="n52_mki7"/>
+    <component id="n55_mki7" name="r4" src="mki727" fileName="components/LeagueBargainRewardComp.xml" xy="523,592" group="n52_mki7"/>
+    <group id="n52_mki7" name="G_r" xy="126,592" size="505,120" group="n50_mki7"/>
+    <richtext id="n6_26e0" name="labelPerson" xy="129,817" pivot="1,0.5" size="272,32" group="n57_c9kw" fontSize="22" color="#ffffff" align="right" vAlign="middle" ubb="true" vars="true" autoSize="none" strokeColor="#000000" strokeSize="2" text="当前 [color=#00ffd8]{count=0}[/color] 人累计议价 "/>
+    <component id="n4_26e0" name="btnInfo" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="517,815" group="n57_c9kw"/>
+    <image id="n5_26e0" name="n5" src="26e04" fileName="img/scale_60%_sd_A_common_icgoods_10032_4.png" xy="421,833" pivot="0.5,0.5" anchor="true" group="n57_c9kw"/>
+    <text id="n8_26e0" name="labelHaveDiscountMoney" xy="442,818" pivot="0,0.5" size="64,29" group="n57_c9kw" fontSize="20" color="#e8600f" vAlign="middle" strokeColor="#000000" strokeSize="2" text="45000"/>
+    <group id="n57_c9kw" name="n57" xy="129,815" size="429,34" group="n50_mki7"/>
+    <image id="n26_26e0" name="n26" src="26e013" fileName="img/xiaobiao.png" xy="576,536" pivot="0.5,0.5" anchor="true" size="90,49" group="n60_eu7e"/>
+    <text id="n27_26e0" name="labelMoneyNew" xy="542,519" pivot="0.5,0.5" size="67,36" group="n60_eu7e" fontSize="26" color="#ffe673" align="center" vAlign="middle" strokeColor="#670000" strokeSize="2" autoClearText="true" text="4500"/>
+    <group id="n60_eu7e" name="n60" xy="531,512" size="90,49" group="n50_mki7"/>
+    <group id="n50_mki7" name="n50" xy="19,176" size="727,952" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n61_eu7e" name="floatItem" src="eu7e28" fileName="LeagueBargainFloatComp.xml" xy="501,479"/>
+  </displayList>
+  <transition name="float">
+    <item time="0" type="Alpha" target="n61_eu7e" tween="true" startValue="1" endValue="1" duration="16"/>
+    <item time="0" type="XY" target="n61_eu7e" tween="true" startValue="501.5,479,0.669,0.359" endValue="501.5,378,0.669,0.283" duration="24"/>
+    <item time="16" type="Alpha" target="n61_eu7e" tween="true" startValue="1" endValue="0" duration="8"/>
+  </transition>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="595,50">
+  <displayList>
+    <image id="n0_ee3z" name="n0" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="65,0" size="131,50" group="n2_ee3z"/>
+    <text id="n1_ee3z" name="idInput" xy="75,7" size="73,36" group="n2_ee3z" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n18_ee3z" name="idListBtn" src="om4nvvv19c" fileName="btn/BtnFh1.xml" pkg="38fa8c75" xy="154,3" group="n2_ee3z" scale="0.7,0.7" rotation="270"/>
+    <group id="n2_ee3z" name="n2" xy="65,0" size="131,50" group="n13_ee3z"/>
+    <image id="n3_ee3z" name="n3" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="353,0" size="242,50" group="n5_ee3z"/>
+    <text id="n4_ee3z" name="skillInput" xy="367,7" size="208,36" group="n5_ee3z" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n5_ee3z" name="n5" xy="353,0" size="242,50" group="n13_ee3z"/>
+    <image id="n9_ee3z" name="n9" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="201,0" size="148,50" group="n11_ee3z"/>
+    <text id="n10_ee3z" name="monsterInput" xy="214,7" size="88,36" group="n11_ee3z" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n19_ee3z" name="monsterListBtn" src="om4nvvv19c" fileName="btn/BtnFh1.xml" pkg="38fa8c75" xy="306,3" size="33,44" group="n11_ee3z" scale="0.7,0.7" rotation="270"/>
+    <group id="n11_ee3z" name="n11" xy="201,0" size="148,50" group="n13_ee3z"/>
+    <text id="n12_ee3z" name="title" xy="0,12" size="56,29" group="n13_ee3z" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="阵位1">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <group id="n13_ee3z" name="n13" xy="0,0" size="595,50"/>
+  </displayList>
+</component>

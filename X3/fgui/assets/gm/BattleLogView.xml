@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n76_ee3z" name="n76" src="3cd619" fileName="bgImage/tisp2_frame.png" pkg="38fa8c75" xy="0,989" size="750,333" group="n86_pdp1"/>
+    <image id="n87_p04m" name="n87" src="8qld21" fileName="bgImage/lb2_frame.png" pkg="38fa8c75" xy="8,1037" size="730,244" group="n86_pdp1"/>
+    <list id="n77_ee3z" name="list" xy="16,1042" size="712,232" group="n86_pdp1" overflow="scroll" defaultItem="ui://t846cdz6ee3zw7">
+      <gearDisplay controller="c1" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n78_ee3z" name="title" xy="17,995" size="344,43" group="n86_pdp1" fontSize="26" color="#cccccc" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="竞技场每周排行榜"/>
+    <component id="n80_ee3z" name="closeBtn" src="j6z939" fileName="btn/CloseBtn.xml" pkg="38fa8c75" xy="654,971" group="n86_pdp1" scale="0.5,0.5"/>
+    <component id="n81_ee3z" name="leftBtn" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="590,985" group="n86_pdp1" scale="0.6,0.6"/>
+    <component id="n83_ee3z" name="rightBtn" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="633,985" group="n86_pdp1" scale="-0.6,0.6"/>
+    <text id="n85_ee3z" name="timeLab" xy="247,995" size="344,43" group="n86_pdp1" fontSize="26" color="#33ff33" align="right" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="竞技场每周排行榜"/>
+    <component id="n89_p04m" name="stopBtn" src="piwibr" fileName="btn/BtnGreen2.xml" pkg="38fa8c75" xy="-14,1268" size="128,64" group="n86_pdp1" scale="0.5,0.5">
+      <Button title="暂停"/>
+    </component>
+    <component id="n90_p04m" name="logBtn" src="piwibr" fileName="btn/BtnGreen2.xml" pkg="38fa8c75" xy="56,1268" size="128,64" group="n86_pdp1" scale="0.5,0.5">
+      <Button title="统计"/>
+    </component>
+    <component id="n91_p04m" name="attrBtn" src="piwibr" fileName="btn/BtnGreen2.xml" pkg="38fa8c75" xy="126,1268" size="128,64" group="n86_pdp1" scale="0.5,0.5">
+      <Button title="属性"/>
+    </component>
+    <list id="n93_p04m" name="list2" xy="16,1042" size="712,232" group="n86_pdp1" overflow="scroll" defaultItem="ui://t846cdz6p04m15m">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n86_pdp1" name="n86" xy="-14,971" size="764,361" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+  <transition name="animTitle"/>
+</component>

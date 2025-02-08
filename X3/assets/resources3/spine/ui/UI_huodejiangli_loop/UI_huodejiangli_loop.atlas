@@ -1,0 +1,181 @@
+
+UI_huodejiangli_loop.png
+size: 929,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/UI_dipian_01
+  rotate: false
+  xy: 269, 194
+  size: 254, 106
+  orig: 300, 128
+  offset: 18, 11
+  index: -1
+images/effect/UI_dipian_02
+  rotate: false
+  xy: 2, 193
+  size: 265, 107
+  orig: 300, 128
+  offset: 18, 10
+  index: -1
+images/effect/UI_huodejiangli_01
+  rotate: false
+  xy: 2, 69
+  size: 84, 26
+  orig: 128, 32
+  offset: 22, 3
+  index: -1
+images/effect/UI_saoguang_01
+  rotate: false
+  xy: 88, 76
+  size: 4, 19
+  orig: 150, 64
+  offset: 13, 10
+  index: -1
+images/effect/UI_saoguang_02
+  rotate: false
+  xy: 178, 5
+  size: 15, 44
+  orig: 150, 64
+  offset: 13, 10
+  index: -1
+images/effect/UI_saoguang_03
+  rotate: false
+  xy: 149, 5
+  size: 27, 44
+  orig: 150, 64
+  offset: 13, 10
+  index: -1
+images/effect/UI_saoguang_04
+  rotate: false
+  xy: 204, 147
+  size: 34, 44
+  orig: 150, 64
+  offset: 18, 10
+  index: -1
+images/effect/UI_saoguang_05
+  rotate: false
+  xy: 2, 23
+  size: 35, 44
+  orig: 150, 64
+  offset: 29, 10
+  index: -1
+images/effect/UI_saoguang_06
+  rotate: false
+  xy: 39, 23
+  size: 35, 44
+  orig: 150, 64
+  offset: 41, 10
+  index: -1
+images/effect/UI_saoguang_07
+  rotate: false
+  xy: 113, 51
+  size: 34, 44
+  orig: 150, 64
+  offset: 53, 10
+  index: -1
+images/effect/UI_saoguang_08
+  rotate: false
+  xy: 113, 5
+  size: 34, 44
+  orig: 150, 64
+  offset: 65, 10
+  index: -1
+images/effect/UI_saoguang_09
+  rotate: false
+  xy: 149, 51
+  size: 34, 44
+  orig: 150, 64
+  offset: 77, 10
+  index: -1
+images/effect/UI_saoguang_10
+  rotate: false
+  xy: 76, 23
+  size: 35, 44
+  orig: 150, 64
+  offset: 88, 10
+  index: -1
+images/effect/UI_saoguang_11
+  rotate: false
+  xy: 204, 101
+  size: 33, 44
+  orig: 150, 64
+  offset: 100, 10
+  index: -1
+images/effect/UI_saoguang_12
+  rotate: false
+  xy: 239, 101
+  size: 23, 44
+  orig: 150, 64
+  offset: 112, 10
+  index: -1
+images/effect/UI_saoguang_13
+  rotate: false
+  xy: 240, 154
+  size: 11, 37
+  orig: 150, 64
+  offset: 124, 17
+  index: -1
+images/effect/UI_tiaowen_01
+  rotate: false
+  xy: 525, 206
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_02
+  rotate: false
+  xy: 727, 206
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_03
+  rotate: false
+  xy: 525, 110
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_04
+  rotate: false
+  xy: 727, 110
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_05
+  rotate: false
+  xy: 269, 98
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_06
+  rotate: false
+  xy: 2, 97
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_07
+  rotate: false
+  xy: 204, 2
+  size: 199, 94
+  orig: 300, 128
+  offset: 73, 18
+  index: -1
+images/effect/UI_tiaowen_08
+  rotate: false
+  xy: 471, 14
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1
+images/effect/UI_tiaowen_09
+  rotate: false
+  xy: 673, 14
+  size: 200, 94
+  orig: 300, 128
+  offset: 72, 18
+  index: -1

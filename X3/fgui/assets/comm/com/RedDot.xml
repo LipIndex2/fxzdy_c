@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="30,30" pivot="0.5,0.5" anchor="true" opaque="false" initName="redDot">
+  <controller name="type" exported="true" pages="12,,0,,1,,2,,3,,4,,5,,13,,7," selected="8">
+    <remark page="0" value="null"/>
+    <remark page="1" value="奖励可领取"/>
+    <remark page="2" value="红色升级"/>
+    <remark page="3" value="强红点"/>
+    <remark page="4" value="普通红点"/>
+    <remark page="5" value="绿色升级"/>
+    <remark page="6" value="新获得/新解锁"/>
+    <remark page="7" value="高亮扫光"/>
+    <remark page="8" value="主城可交互"/>
+  </controller>
+  <displayList>
+    <loader id="n0_j6z9" name="redDot" xy="14,14" pivot="0.5,0.5" anchor="true" size="90,90" touchable="false" align="center" vAlign="middle" autoSize="true">
+      <gearIcon controller="type" pages="12,0,1,2,3,4,5,13,7" values="|ui://38fa8c75uaznvvv1eu|ui://38fa8c75uaznvvv1ev|ui://38fa8c75uaznvvv1ew|ui://38fa8c75uaznvvv1ex|ui://38fa8c75uaznvvv1ey|ui://38fa8c75uaznvvv1ez||"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n1_uazn" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" xy="14,14">
+      <gearDisplay controller="type" pages="13"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+  </displayList>
+</component>

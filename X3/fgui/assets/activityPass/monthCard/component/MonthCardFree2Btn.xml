@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="326,74" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n17_m3op" name="n17" src="m3op1u" fileName="monthCard/img/scale_65%_sd_A_common_changgui4_btn.png" xy="0,0" size="286,73"/>
+    <text id="n14_8999" name="title" xy="142,33" pivot="0.5,0.5" anchor="true" size="182,42" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="免费激活月卡"/>
+    <image id="n16_m3op" name="n16" src="m3op1t" fileName="img/sd_Hhongdian_002_tag.png" xy="254,-8" size="31,34"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

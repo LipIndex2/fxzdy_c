@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n20_qr2a" name="n20" xy="53,257" size="643,877" group="n17_wq7z" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="img/sd_A_common_tc2_frame_30.png" xy="77,352" size="596,763" group="n17_wq7z" pkg="38fa8c75"/>
+    <text id="n2_be1a" name="n2" xy="309,278" size="131,44" group="n17_wq7z" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="成员管理"/>
+    <list id="n16_h90v" name="list" xy="91,367" size="572,727" group="n17_wq7z" overflow="scroll" lineGap="15" defaultItem="ui://6be81224h90v10s" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n17_wq7z" name="n17" xy="53,257" size="643,877" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

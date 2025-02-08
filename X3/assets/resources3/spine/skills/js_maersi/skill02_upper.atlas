@@ -1,0 +1,125 @@
+
+skill02_upper.png
+size: 1000,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_upperGLO
+  rotate: false
+  xy: 864, 466
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_00028
+  rotate: false
+  xy: 2, 367
+  size: 90, 88
+  orig: 208, 208
+  offset: 72, 59
+  index: -1
+images/effect/skill02_hit_00029
+  rotate: false
+  xy: 864, 578
+  size: 134, 136
+  orig: 208, 208
+  offset: 31, 35
+  index: -1
+images/effect/skill02_hit_00030
+  rotate: false
+  xy: 2, 88
+  size: 197, 192
+  orig: 208, 208
+  offset: 6, 7
+  index: -1
+images/effect/skill02_hit_00031
+  rotate: false
+  xy: 790, 242
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_00033
+  rotate: false
+  xy: 353, 238
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_00035
+  rotate: false
+  xy: 563, 238
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_00037
+  rotate: 180
+  xy: 685, 52
+  size: 190, 191
+  orig: 208, 208
+  offset: 18, 3
+  index: -1
+images/effect/skill02_hit_00039
+  rotate: false
+  xy: 424, 77
+  size: 166, 160
+  orig: 208, 208
+  offset: 19, 27
+  index: -1
+images/effect/skill02_updun_00014
+  rotate: false
+  xy: 877, 105
+  size: 100, 135
+  orig: 100, 135
+  offset: 0, 0
+  index: -1
+images/effect/skill02_updun_00015
+  rotate: true
+  xy: 861, 3
+  size: 100, 135
+  orig: 100, 135
+  offset: 0, 0
+  index: -1
+images/effect/skill02_updunbianda_00025
+  rotate: 270
+  xy: 196, 85
+  size: 164, 228
+  orig: 445, 270
+  offset: 90, 30
+  index: -1
+images/effect/skill02_updunbianda_00028
+  rotate: false
+  xy: 2, 456
+  size: 283, 258
+  orig: 445, 270
+  offset: 12, 12
+  index: -1
+images/effect/skill02_updunbianda_00029
+  rotate: false
+  xy: 465, 448
+  size: 218, 266
+  orig: 445, 270
+  offset: 12, 4
+  index: -1
+images/effect/skill02_updunbianda_00030
+  rotate: 270
+  xy: 82, 273
+  size: 195, 269
+  orig: 445, 270
+  offset: 16, 1
+  index: -1
+images/effect/skill02_updunbianda_00034
+  rotate: 180
+  xy: 685, 451
+  size: 178, 263
+  orig: 445, 270
+  offset: 14, 7
+  index: -1
+images/effect/skill02_updunbianda_00035
+  rotate: 180
+  xy: 282, 453
+  size: 183, 261
+  orig: 445, 270
+  offset: 11, 9
+  index: -1

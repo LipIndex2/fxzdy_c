@@ -1,0 +1,13 @@
+
+gongxihuode_xingxing.png
+size: 72,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing
+  rotate: false
+  xy: 2, 2
+  size: 68, 78
+  orig: 69, 79
+  offset: 1, 0
+  index: -1

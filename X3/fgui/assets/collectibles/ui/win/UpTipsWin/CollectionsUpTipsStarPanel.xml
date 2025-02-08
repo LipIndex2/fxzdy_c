@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="528,372">
+  <controller name="c2" pages="0,,1," selected="0">
+    <remark page="1" value="解锁技能"/>
+  </controller>
+  <controller name="eff" pages="0,,1,,2," selected="2">
+    <remark page="1" value="任务属性"/>
+    <remark page="2" value="星级属性"/>
+  </controller>
+  <displayList>
+    <image id="n232_pmhw" name="n232" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="256,8" group="n233_6v98"/>
+    <list id="n223_lupe" name="listStarL" xy="0,0" pivot="0.5,0.5" size="220,40" group="n233_6v98" layout="row" overflow="scroll" colGap="4" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n224_lupe" name="listStarR" xy="308,0" pivot="0.5,0.5" size="220,40" group="n233_6v98" layout="row" overflow="scroll" colGap="5" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n233_6v98" name="n233" xy="0,0" size="528,40" advanced="true"/>
+    <image id="n228_lupe" name="n228" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="34,54" size="458,157" group="n234_6v98" color="#2c303d">
+      <gearSize controller="eff" pages="2" values="458,157,1,1" default="458,137,1,1"/>
+    </image>
+    <image id="n226_lupe" name="n226" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="183,65" size="267,59" group="n234_6v98" scale="0.6,0.6" color="#34405a"/>
+    <text id="n144_a01c" name="n144" xy="214,66" pivot="0.5,0.5" size="99,34" group="n234_6v98" fontSize="24" color="#f7fcc4" vAlign="middle" text="额外特性"/>
+    <text id="n145_a01c" name="lbExtraAttrR" xy="336,150" pivot="0.5,0.5" size="70,32" group="n236_dx6e" fontSize="22" color="#2ce728" vAlign="middle" autoClearText="true" text="+0.5%"/>
+    <text id="n146_a01c" name="lbExtraAttrL" xy="122,150" pivot="0.5,0.5" size="70,32" group="n236_dx6e" fontSize="22" color="#d5d7d7" vAlign="middle" autoClearText="true" text="+0.1%"/>
+    <image id="n147_a01c" name="n147" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="258,157" pivot="0.5,0.5" group="n236_dx6e"/>
+    <text id="n148_a01c" name="lbExtraAttrDesc" xy="53,114" pivot="0,0.5" size="265,32" group="n236_dx6e" fontSize="22" color="#dbc977" vAlign="middle" autoClearText="true" text="每次竞技场胜利后，暴击率"/>
+    <group id="n236_dx6e" name="taskEff" xy="53,114" size="353,68" group="n234_6v98" advanced="true">
+      <gearDisplay controller="eff" pages="1"/>
+    </group>
+    <list id="n237_dx6e" name="attrList" xy="53,114" size="430,91" group="n234_6v98" overflow="scroll" defaultItem="ui://tkr2g69tpmhw11a" autoItemSize="false" align="center" autoClearItems="true" scrollItemToViewOnClick="false">
+      <gearDisplay controller="eff" pages="2"/>
+      <gearSize controller="eff" pages="0,1" values="430,66,1,1|430,67,1,1" default="430,91,1,1"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n234_6v98" name="extraAttr" xy="34,54" size="458,157" group="n235_6v98" advanced="true"/>
+    <component id="n154_a01c" name="skill" src="lupevvv1ie" fileName="hero/components/CommonCollectionSkillItem.xml" pkg="38fa8c75" xy="209,268" group="n222_lupe"/>
+    <text id="n155_a01c" name="n155" xy="200,237" pivot="0.5,0.5" size="123,34" group="n222_lupe" fontSize="24" color="#f7fcc4" vAlign="middle" autoClearText="true" text="解锁新技能">
+      <gearText controller="c2" pages="0,1" values="解锁新技能|解锁新技能"/>
+    </text>
+    <group id="n222_lupe" name="unlockNewSkillTip" xy="200,237" size="123,155" group="n235_6v98" advanced="true">
+      <gearDisplay controller="c2" pages="1,2"/>
+    </group>
+    <group id="n235_6v98" name="n235" xy="34,54" size="458,157" advanced="true" layout="vt" lineGap="26" excludeInvisibles="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n233_6v98" value="0"/>
+    <item time="0" type="Alpha" target="n234_6v98" value="0"/>
+    <item time="11" type="Alpha" target="n233_6v98" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="14" type="Alpha" target="n234_6v98" tween="true" startValue="0" endValue="1" duration="3"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n222_lupe" value="0"/>
+    <item time="15" type="Alpha" target="n222_lupe" tween="true" startValue="0" endValue="1" duration="4"/>
+  </transition>
+</component>

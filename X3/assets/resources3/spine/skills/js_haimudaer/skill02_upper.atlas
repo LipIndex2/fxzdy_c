@@ -1,0 +1,111 @@
+
+skill02_upper.png
+size: 1000,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_daoguang
+  rotate: 180
+  xy: 271, 37
+  size: 186, 135
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+images/effect/skill02_shunshen_00000
+  rotate: true
+  xy: 808, 288
+  size: 181, 142
+  orig: 220, 220
+  offset: 38, 40
+  index: -1
+images/effect/skill02_shunshen_00001
+  rotate: false
+  xy: 80, 53
+  size: 168, 141
+  orig: 220, 220
+  offset: 52, 39
+  index: -1
+images/effect/skill02_shunshen_00002
+  rotate: false
+  xy: 811, 129
+  size: 187, 161
+  orig: 220, 220
+  offset: 33, 22
+  index: -1
+images/effect/skill02_shunshen_00003
+  rotate: false
+  xy: 120, 190
+  size: 195, 141
+  orig: 220, 220
+  offset: 25, 40
+  index: -1
+images/effect/skill02_shunshen_00004
+  rotate: 270
+  xy: 721, 52
+  size: 134, 142
+  orig: 220, 220
+  offset: 49, 40
+  index: -1
+images/effect/skill02_xuliedaoguang_00000
+  rotate: false
+  xy: 462, 294
+  size: 88, 117
+  orig: 330, 330
+  offset: 0, 115
+  index: -1
+images/effect/skill02_xuliedaoguang_00001
+  rotate: 180
+  xy: 291, 155
+  size: 168, 313
+  orig: 330, 330
+  offset: 0, 17
+  index: -1
+images/effect/skill02_xuliedaoguang_00002
+  rotate: false
+  xy: 2, 169
+  size: 300, 300
+  orig: 330, 330
+  offset: 0, 7
+  index: -1
+images/effect/skill02_xuliedaoguang_00003
+  rotate: true
+  xy: 459, 150
+  size: 318, 194
+  orig: 330, 330
+  offset: 12, 0
+  index: -1
+images/effect/skill02_xuliedaoguang_00004
+  rotate: true
+  xy: 587, 145
+  size: 323, 222
+  orig: 330, 330
+  offset: 7, 0
+  index: -1
+images/effect/skill02_xuliedaoguang_00005
+  rotate: 270
+  xy: 513, 4
+  size: 142, 209
+  orig: 330, 330
+  offset: 188, 7
+  index: -1
+images/effect/skill02_xuliedaoguang_00006
+  rotate: false
+  xy: 631, 280
+  size: 76, 187
+  orig: 330, 330
+  offset: 254, 45
+  index: -1
+images/effect/skill02_xuliedaoguang_00007
+  rotate: false
+  xy: 2, 9
+  size: 61, 189
+  orig: 330, 330
+  offset: 261, 47
+  index: -1
+images/effect/skill02_xuliedaoguang_00008
+  rotate: false
+  xy: 950, 294
+  size: 49, 70
+  orig: 330, 330
+  offset: 274, 169
+  index: -1

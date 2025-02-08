@@ -1,0 +1,13 @@
+
+liuxie.png
+size: 78,22
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+08
+  rotate: false
+  xy: 2, 2
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1

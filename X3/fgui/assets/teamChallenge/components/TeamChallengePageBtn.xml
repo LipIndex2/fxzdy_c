@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,68">
+  <displayList>
+    <image id="n1_ig8t" name="selImg" src="eowx7o" fileName="bgImage/xz_tab.png" pkg="38fa8c75" xy="0,0" size="156,68"/>
+    <image id="n0_ig8t" name="unSelImg" src="eowx7m" fileName="bgImage/wxz_tab.png" pkg="38fa8c75" xy="0,0" size="156,68"/>
+    <text id="n3_ig8t" name="lb" xy="0,0" size="156,68" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#162241" strokeSize="3" text="队伍设置"/>
+    <component id="n5_uk3p" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="146,14" size="20,20" touchable="false" controller="type,3"/>
+  </displayList>
+</component>

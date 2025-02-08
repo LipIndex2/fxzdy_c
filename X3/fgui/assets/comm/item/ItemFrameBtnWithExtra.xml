@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" pivot="0.5,0.5" extention="Button">
+  <controller name="style" pages="0," selected="0">
+    <remark page="0" value="额外"/>
+  </controller>
+  <displayList>
+    <component id="n11_r58c" name="itemFrame" src="dtss4k" fileName="item/ItemFrameBtn.xml" xy="8,8"/>
+    <image id="n7_dusv" name="iconExtra" src="dusvvvv1fj" fileName="bgImage/stjl_frame.png" xy="50,5" size="70,34" group="n9_dusv">
+      <gearDisplay controller="style" pages="0"/>
+      <relation target="n8_dusv" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n8_dusv" name="lbFrist" xy="52,14" pivot="0,0.5" anchor="true" size="55,36" group="n9_dusv" fontSize="26" color="#fffd70" vAlign="bottom" italic="true" strokeColor="#000000" strokeSize="3" text="额外">
+      <gearColor controller="style" pages="0" values="#fffd70,#000000"/>
+      <gearText controller="style" pages="0" values="额外"/>
+    </text>
+    <group id="n9_dusv" name="pExtra" xy="50,-4" size="70,43" visible="false" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

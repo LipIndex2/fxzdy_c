@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="83,83">
+  <displayList>
+    <loader id="n37_uug0" name="quality" xy="0,0" pivot="0.5,0.5" size="83,83" fill="scale"/>
+    <loader id="n36_uug0" name="head" xy="5,5" size="73,72" fill="scale"/>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="571,238">
+  <displayList>
+    <image id="n59_0b09" name="n59" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="2,0" size="566,37" color="#273c71"/>
+    <text id="n61_0b09" name="T_hero" xy="27,0" pivot="0,0.5" size="107,36" fontSize="26" color="#ffffff" vAlign="middle" text="神话英雄"/>
+    <list id="n76_v891" name="list_hero" xy="0,58" size="571,180" layout="flow_hz" lineGap="20" colGap="16" defaultItem="ui://38fa8c75odo57g">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

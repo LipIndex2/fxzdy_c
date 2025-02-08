@@ -1,0 +1,13 @@
+
+zd_08.png
+size: 377,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_fb_301
+  rotate: false
+  xy: 2, 2
+  size: 373, 340
+  orig: 600, 400
+  offset: 118, 20
+  index: -1

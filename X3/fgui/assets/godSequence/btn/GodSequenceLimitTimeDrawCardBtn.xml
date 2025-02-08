@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="348,142" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n13_7388" name="n13" src="vipis32" fileName="btn/img/zu130451.png" xy="0,0"/>
+    <image id="n15_7388" name="n15" src="vipis33" fileName="btn/img/tubiao.png" xy="22,9"/>
+    <text id="n17_7388" name="labelTitle" xy="13,80" pivot="0.5,0.5" size="99,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#181715" strokeSize="3" singleLine="true" text="限时冲榜"/>
+    <text id="n16_7388" name="labelTime" xy="13,110" pivot="0.5,0.5" size="101,32" fontSize="22" color="#65fa61" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" autoClearText="true" text="00天00时"/>
+    <text id="n14_7388" name="labelDesc" xy="128,16" pivot="0,0.5" size="201,78" fontSize="20" color="#fff9b7" vAlign="middle" autoSize="none" strokeColor="#161615" strokeSize="2" text="职业冲榜开放期间&#xA;开放全部序列挑战"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

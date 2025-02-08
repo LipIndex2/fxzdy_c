@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="747,342" designImageOffsetY="-156">
+  <displayList>
+    <image id="n5_a01c" name="n5" src="luped" fileName="img/guang.png" xy="50,-30" group="n7_tafm"/>
+    <image id="n4_a01c" name="n4" src="lupee" fileName="img/taizi.png" xy="0,225" group="n7_tafm"/>
+    <list id="n6_lupe" name="list" xy="37,63" size="690,263" group="n7_tafm" layout="row" colGap="-17" defaultItem="ui://tkr2g69tlupe7" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n7_tafm" name="n7" xy="0,-30" size="747,372"/>
+  </displayList>
+</component>

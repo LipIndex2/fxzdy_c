@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="de066373">
+  <resources>
+    <image id="89020" name="xzyh_xzd.png" path="/img/"/>
+    <image id="89021" name="xzyh_zhi.png" path="/img/"/>
+    <image id="89022" name="xzyh_jdt1.png" path="/img/"/>
+    <image id="89023" name="xzyh_jdt2.png" path="/img/" scale="9grid" scale9grid="17,7,19,6" disableTrim="true"/>
+    <image id="89026" name="xzyh_js.png" path="/img/"/>
+    <image id="89027" name="jiantou.png" path="/img/"/>
+    <component id="890213" name="DiamondBankView.xml" path="/"/>
+    <component id="7g4a15" name="DiamondBankBarStorage.xml" path="/"/>
+    <image id="97di16" name="xzyh_jdt3.png" path="/img/" scale="9grid" scale9grid="16,8,23,4" disableTrim="true"/>
+    <image id="lupe17" name="xingzhuang1.png" path="/img/"/>
+    <image id="lupe18" name="xingzhuang6.png" path="/img/"/>
+    <image id="lupe19" name="xingzhuang5.png" path="/img/"/>
+    <image id="lupe1a" name="xingzhuang3.png" path="/img/"/>
+    <image id="lupe1b" name="duobianxing1.png" path="/img/"/>
+    <image id="lupe1c" name="duobianxing1kaobei.png" path="/img/"/>
+    <image id="6v981e" name="tuceng45.png" path="/img/"/>
+    <image id="6v981f" name="zu3.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

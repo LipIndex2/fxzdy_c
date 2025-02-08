@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="36,70">
+  <displayList>
+    <text id="n18_bnbk" name="labelContent" xy="0,15" size="36,44" fontSize="32" color="#f1f2fb" vAlign="middle" strokeColor="#1e4a9e" strokeSize="3" text="托"/>
+  </displayList>
+</component>

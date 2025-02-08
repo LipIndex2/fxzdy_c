@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="420,39" extention="ProgressBar">
+  <displayList>
+    <image id="n19_uug0" name="bar" src="d6aa129" fileName="img/sd_Gguajiguanqia_bossred_blood.png" xy="0,0" size="420,39" color="#8b0000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

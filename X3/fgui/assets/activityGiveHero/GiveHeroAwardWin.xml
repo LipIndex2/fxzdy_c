@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n80_v891" name="n80" xy="54,132" size="643,1022" group="n81_v891" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n58_0b09" name="n58" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,219" size="596,909" group="n81_v891"/>
+    <text id="n62_0b09" name="n62" xy="309,157" pivot="0.5,0.5" size="131,44" group="n81_v891" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="奖励预览"/>
+    <list id="n78_v891" name="list_hero" xy="89,237" size="573,874" group="n81_v891" overflow="scroll" lineGap="31" defaultItem="ui://1e79bd01v89158">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n81_v891" name="n81" xy="54,132" size="643,1022" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n82_vdae" name="n82" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1177">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

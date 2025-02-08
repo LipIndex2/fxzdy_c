@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="536,183">
+  <controller name="type" pages="0,left,3,center,2,right" selected="2"/>
+  <displayList>
+    <component id="n35_buys" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="490,44" pivot="0.5,0.5" anchor="true" scale="0.8,0.8">
+      <gearDisplay controller="type" pages="0,2"/>
+      <gearXY controller="type" pages="0,2" values="44,44|490,44" default="-9,-8"/>
+    </component>
+    <image id="n30_91d6" name="bgContentL" src="91d619" fileName="img/lt_frame.png" xy="95,34" size="430,142" group="n42_nl4g"/>
+    <image id="n56_e53p" name="bgContentL2" src="e53p3q" fileName="img/bg_invite.png" xy="317,59" pivot="0.5,0.5" anchor="true" size="405,33" group="n42_nl4g" flip="hz"/>
+    <component id="n57_e53p" name="btnJoinL" src="e53p3r" fileName="btn/ChatInviteBtn.xml" xy="434,107" group="n42_nl4g"/>
+    <text id="n34_91d6" name="textPlayerNameL" xy="103,0" size="113,32" group="n42_nl4g" fontSize="22" color="#adc8f8" vAlign="middle" text="无敌美少女"/>
+    <image id="n78_uk3p" name="n78" src="uk3p46" fileName="img/jytx_tag.png" xy="308,92" size="71,68" group="n80_uk3p"/>
+    <image id="n79_uk3p" name="ImgEmpty" src="uk3p47" fileName="img/sd_A_common_tiaoguo.png" xy="308,92" size="71,68" group="n80_uk3p" alpha="0.6"/>
+    <group id="n80_uk3p" name="bg3L" xy="308,92" size="71,68" group="n42_nl4g" advanced="true"/>
+    <image id="n97_uk3p" name="n97" src="uk3p46" fileName="img/jytx_tag.png" xy="217,94" size="71,68" group="n99_uk3p"/>
+    <image id="n98_uk3p" name="ImgEmpty" src="uk3p47" fileName="img/sd_A_common_tiaoguo.png" xy="217,92" size="71,68" group="n99_uk3p" alpha="0.6"/>
+    <group id="n99_uk3p" name="bg2L" xy="217,92" size="71,70" group="n42_nl4g" advanced="true"/>
+    <image id="n100_uk3p" name="n100" src="uk3p46" fileName="img/jytx_tag.png" xy="125,92" size="71,68" group="n102_uk3p"/>
+    <image id="n101_uk3p" name="ImgEmpty" src="uk3p47" fileName="img/sd_A_common_tiaoguo.png" xy="125,92" size="71,68" group="n102_uk3p" alpha="0.6"/>
+    <group id="n102_uk3p" name="bg1L" xy="125,92" size="71,68" group="n42_nl4g" advanced="true"/>
+    <text id="n45_nwvr" name="textFloorL" xy="124,43" size="91,32" group="n42_nl4g" fontSize="22" color="#406fdb" vAlign="middle" text="联盟名称"/>
+    <component id="n65_bgzy" name="playerAvatarL1" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="428,-8" size="116,116" group="n42_nl4g" scale="0.7,0.7">
+      <gearXY controller="type" pages="0,2" values="103,70|428,-8" default="-9,-8"/>
+    </component>
+    <component id="n66_bgzy" name="playerAvatarL2" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="428,-8" size="116,116" group="n42_nl4g" scale="0.7,0.7">
+      <gearXY controller="type" pages="0,2" values="195,70|428,-8" default="-9,-8"/>
+    </component>
+    <component id="n67_bgzy" name="playerAvatarL3" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="428,-8" size="116,116" group="n42_nl4g" scale="0.7,0.7">
+      <gearXY controller="type" pages="0,2" values="287,70|428,-8" default="-9,-8"/>
+    </component>
+    <text id="n73_uk3p" name="lbConditionL" xy="441,43" size="63,29" group="n42_nl4g" fontSize="20" color="#3a8b70" vAlign="middle" text="无限制"/>
+    <image id="n74_uk3p" name="imgFightL" src="e1fvvvv1ch" fileName="img/zd_icon.png" pkg="38fa8c75" xy="410,46" size="35,34" group="n42_nl4g" scale="0.8,0.8"/>
+    <text id="n71_ig8t" name="tipsL" xy="438,110" size="69,32" group="n42_nl4g" fontSize="22" color="#406fdb" vAlign="middle" text="已申请"/>
+    <group id="n42_nl4g" name="G_L" xy="95,-8" size="449,184" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <image id="n40_nl4g" name="bgContentR" src="91d619" fileName="img/lt_frame.png" xy="440,34" size="430,142" group="n41_nl4g" scale="-1,1"/>
+    <image id="n60_e53p" name="bgContentR2" src="e53p3q" fileName="img/bg_invite.png" xy="216,60" pivot="0.5,0.5" anchor="true" size="405,33" group="n41_nl4g"/>
+    <component id="n61_e53p" name="btnJoinR" src="e53p3r" fileName="btn/ChatInviteBtn.xml" xy="338,108" group="n41_nl4g"/>
+    <text id="n43_ppu1" name="textPlayerNameR" xy="431,0" pivot="1,0" anchor="true" size="234,32" group="n41_nl4g" fontSize="22" color="#adc8f8" align="right" vAlign="middle" autoSize="none" text="无敌美少女"/>
+    <image id="n103_uk3p" name="n103" src="uk3p46" fileName="img/jytx_tag.png" xy="214,92" size="71,68" group="n105_uk3p"/>
+    <image id="n104_uk3p" name="ImgEmpty" src="uk3p47" fileName="img/sd_A_common_tiaoguo.png" xy="214,92" size="71,68" group="n105_uk3p" alpha="0.6"/>
+    <group id="n105_uk3p" name="bgR3" xy="214,92" size="71,68" group="n41_nl4g" advanced="true"/>
+    <image id="n106_uk3p" name="n106" src="uk3p46" fileName="img/jytx_tag.png" xy="121,92" size="71,68" group="n108_uk3p"/>
+    <image id="n107_uk3p" name="ImgEmpty" src="uk3p47" fileName="img/sd_A_common_tiaoguo.png" xy="121,92" size="71,68" group="n108_uk3p" alpha="0.6"/>
+    <group id="n108_uk3p" name="bgR2" xy="121,92" size="71,68" group="n41_nl4g" advanced="true"/>
+    <text id="n53_nwvr" name="textFloorR" xy="29,43" size="91,32" group="n41_nl4g" fontSize="22" color="#406fdb" vAlign="middle" text="联盟名称"/>
+    <image id="n87_uk3p" name="n87" src="uk3p46" fileName="img/jytx_tag.png" xy="29,92" size="71,68" group="n89_uk3p"/>
+    <image id="n88_uk3p" name="ImgEmpty" src="uk3p47" fileName="img/sd_A_common_tiaoguo.png" xy="29,92" size="71,68" group="n89_uk3p" alpha="0.6"/>
+    <group id="n89_uk3p" name="bgR1" xy="29,92" size="71,68" group="n41_nl4g" advanced="true"/>
+    <component id="n68_bgzy" name="playerAvatarR1" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="7,70" size="116,116" group="n41_nl4g" scale="0.7,0.7">
+      <gearXY controller="type" pages="0,2" values="112,74|7,70" default="-9,-8"/>
+    </component>
+    <component id="n69_bgzy" name="playerAvatarR2" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="99,70" size="116,116" group="n41_nl4g" scale="0.7,0.7">
+      <gearXY controller="type" pages="0,2" values="218,75|99,70" default="-9,-8"/>
+    </component>
+    <component id="n70_bgzy" name="playerAvatarR3" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="192,70" size="116,116" group="n41_nl4g" scale="0.7,0.7">
+      <gearXY controller="type" pages="0,2" values="322,75|192,70" default="-9,-8"/>
+    </component>
+    <text id="n76_uk3p" name="lbConditionR" xy="345,45" size="63,29" group="n41_nl4g" fontSize="20" color="#3a8b70" vAlign="middle" text="无限制"/>
+    <image id="n77_uk3p" name="imgFightR" src="e1fvvvv1ch" fileName="img/zd_icon.png" pkg="38fa8c75" xy="314,47" size="35,34" group="n41_nl4g" scale="0.8,0.8">
+      <relation target="n76_uk3p" sidePair="right-left"/>
+    </image>
+    <text id="n72_ig8t" name="tipsR" xy="342,111" size="69,32" group="n41_nl4g" fontSize="22" color="#406fdb" vAlign="middle" text="已申请"/>
+    <group id="n41_nl4g" name="G_R" xy="7,0" size="863,186" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+    </group>
+  </displayList>
+</component>

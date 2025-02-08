@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="46,46" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="5,up,6,down,7,over,8,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n0_al5h" name="n0" src="91yl1d" fileName="img/gy_xzdi.png" xy="0,-2">
+      <gearDisplay controller="button" pages="5,6,7,8"/>
+    </image>
+    <graph id="n1_al5h" name="n1" xy="23,23" pivot="0.5,0.5" anchor="true" size="20,20" type="eclipse">
+      <gearDisplay controller="button" pages="6,8"/>
+    </graph>
+    <text id="n3_x925" name="title" xy="49,6" size="10,34" fontSize="24" color="#ffffff" text="">
+      <gearDisplay controller="button" pages="5,6,7,8"/>
+      <gearColor controller="button" pages="5,6,7" values="#cccccc,#000000|#ffffff,#000000|#cccccc,#000000" default="#ffffff,#000000"/>
+      <relation target="" sidePair="left-left"/>
+    </text>
+  </displayList>
+  <Button mode="Check"/>
+</component>

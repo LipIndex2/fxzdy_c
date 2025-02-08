@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n24_qoer" name="n24" xy="0,0" size="750,1334" alpha="0.65" url="ui://38fa8c75j6z92h" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n34_qoer" name="n34" src="qoer1b" fileName="img/fhuo_frame.png" xy="72,323" group="n29_qoer"/>
+    <image id="n14_fff6" name="n14" src="fff610" fileName="img/sd_A_common_qipao_frame.png" xy="137,893" group="n29_qoer"/>
+    <image id="n19_fff6" name="n19" src="qoer1c" fileName="img/qipao2_frame.png" xy="192,239" size="188,80" group="n29_qoer"/>
+    <image id="n20_fff6" name="n20" src="qoer1d" fileName="img/help_word.png" xy="246,253" group="n29_qoer"/>
+    <image id="n21_fff6" name="n21" src="fff614" fileName="img/shibai.png" xy="382,335" group="n29_qoer"/>
+    <loader id="n33_qoer" name="n33" xy="253,648" size="244,34" group="n29_qoer" alpha="0.45" url="ui://38fa8c75qoer4a" align="center" vAlign="middle" fill="scaleFree"/>
+    <component id="n28_qoer" name="btn_res" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="121,958" size="234,71" group="n29_qoer">
+      <Button icon="ui://38fa8c75qoer49"/>
+    </component>
+    <component id="n27_qoer" name="btn_back" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="384,957" size="234,71" group="n29_qoer">
+      <Button icon="ui://38fa8c75qoer48"/>
+    </component>
+    <image id="n8_fff6" name="n8" src="fff66" fileName="img/sd_A_common_hb_frame.png" xy="160,982" group="n29_qoer" alpha="0.6"/>
+    <loader id="n31_qoer" name="img_icon" xy="156,995" pivot="0.5,0.5" anchor="true" size="48,48" group="n29_qoer" url="ui://38fa8c75j6z934" align="center" vAlign="middle" fill="scaleFree" autoSize="true" clearOnPublish="true"/>
+    <text id="n7_fff6" name="n7" xy="215,976" size="115,39" group="n29_qoer" fontSize="28" color="#fffefe" align="center" vAlign="middle" strokeColor="#732900" strokeSize="3" text="立刻复活">
+      <relation target="n28_qoer" sidePair="middle-middle"/>
+    </text>
+    <text id="n10_fff6" name="T_num" xy="190,995" pivot="0.5,0.5" anchor="true" size="26,26" group="n29_qoer" fontSize="18" color="#fffefe" align="center" vAlign="middle" leading="0" strokeColor="#662704" strokeSize="3" text="30"/>
+    <text id="n13_fff6" name="n13" xy="463,976" size="67,39" group="n29_qoer" fontSize="28" color="#fffefe" align="center" vAlign="middle" strokeColor="#012c2e" strokeSize="3" text="回 城">
+      <relation target="n27_qoer" sidePair="center-center,middle-middle"/>
+      <relation target="" sidePair=""/>
+    </text>
+    <text id="n15_fff6" name="n15" xy="225,901" size="103,29" group="n29_qoer" fontSize="20" color="#ff5858" align="center" vAlign="middle" text="血量不回复"/>
+    <text id="n16_fff6" name="n16" xy="143,901" size="83,29" group="n29_qoer" fontSize="20" color="#282827" align="center" vAlign="middle" text="交战怪物"/>
+    <text id="n18_fff6" name="n18" xy="320,649" size="91,32" group="n29_qoer" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="提升途径"/>
+    <list id="n26_qoer" name="list" xy="0,698" size="750,121" group="n29_qoer" layout="row" scroll="horizontal" colGap="53" defaultItem="ui://074a5358qoer17" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n29_qoer" name="n29" xy="0,239" size="750,790" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <graph id="n48_qj7y" name="n48" xy="25,186" size="562,543" type="rect" fillColor="#ffcccccc" corner="30"/>
+    <text id="n32_m43k" name="labelTitleSpineName" xy="-2,10" size="137,54" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="path/modelId"/>
+    <component id="n40_m43k" name="inputBoxForSpineName" src="fsx5h" fileName="common/InputBox1.xml" xy="138,3" size="298,67"/>
+    <component id="n46_qj7y" name="btnSwitch" src="b1chc" fileName="common/BtnGm.xml" xy="451,12" size="135,54">
+      <Button title="播放"/>
+    </component>
+    <component id="n49_fsx5" name="rootForSpine" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="305,538" pivot="0.5,0.5" anchor="true" size="1,1"/>
+    <graph id="n58_9h0a" name="n58" xy="305,538" pivot="0.5,0.5" anchor="true" size="5,5" type="eclipse"/>
+    <text id="n51_fsx5" name="labelTitleSpineState" xy="-2,94" size="133,54" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="spine动画状态"/>
+    <component id="n52_fsx5" name="checkBoxLoop" src="fsx5l" fileName="common/BtnCheckBox.xml" xy="428,99" size="86,46"/>
+    <component id="n53_fsx5" name="btnPlay" src="b1chc" fileName="common/BtnGm.xml" xy="518,99" size="95,46">
+      <Button title="播放"/>
+    </component>
+    <component id="n57_ukhs" name="inputBoxForSpineAnimName" src="fsx5h" fileName="common/InputBox1.xml" xy="139,89" size="277,65"/>
+  </displayList>
+</component>

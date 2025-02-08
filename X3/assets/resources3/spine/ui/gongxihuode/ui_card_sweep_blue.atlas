@@ -1,0 +1,90 @@
+
+ui_card_sweep_blue.png
+size: 376,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sweep_blue_12
+  rotate: false
+  xy: 159, 306
+  size: 42, 42
+  orig: 160, 160
+  offset: 4, 113
+  index: -1
+sweep_blue_13
+  rotate: false
+  xy: 286, 112
+  size: 66, 67
+  orig: 160, 160
+  offset: 1, 92
+  index: -1
+sweep_blue_14
+  rotate: false
+  xy: 286, 264
+  size: 87, 88
+  orig: 160, 160
+  offset: 1, 71
+  index: -1
+sweep_blue_15
+  rotate: false
+  xy: 159, 350
+  size: 108, 110
+  orig: 160, 160
+  offset: 1, 49
+  index: -1
+sweep_blue_16
+  rotate: false
+  xy: 155, 170
+  size: 129, 132
+  orig: 160, 160
+  offset: 1, 27
+  index: -1
+sweep_blue_17
+  rotate: true
+  xy: 2, 2
+  size: 148, 151
+  orig: 160, 160
+  offset: 1, 8
+  index: -1
+sweep_blue_18
+  rotate: false
+  xy: 2, 304
+  size: 155, 156
+  orig: 160, 160
+  offset: 2, 2
+  index: -1
+sweep_blue_19
+  rotate: true
+  xy: 2, 152
+  size: 150, 151
+  orig: 160, 160
+  offset: 8, 1
+  index: -1
+sweep_blue_20
+  rotate: false
+  xy: 155, 37
+  size: 129, 131
+  orig: 160, 160
+  offset: 29, 1
+  index: -1
+sweep_blue_21
+  rotate: false
+  xy: 269, 354
+  size: 105, 106
+  orig: 160, 160
+  offset: 53, 1
+  index: -1
+sweep_blue_22
+  rotate: false
+  xy: 286, 181
+  size: 81, 81
+  orig: 160, 160
+  offset: 77, 1
+  index: -1
+sweep_blue_23
+  rotate: false
+  xy: 286, 53
+  size: 57, 57
+  orig: 160, 160
+  offset: 101, 2
+  index: -1

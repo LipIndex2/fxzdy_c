@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kvipis8q">
+  <controller name="isCanChallenge" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_ac40" name="bg" src="ac400" fileName="img/liangdu_duibidu774.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n54_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#144387">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n55_fg1i" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1373" pivot="0.5,0.5" anchor="true" size="750,250" color="#144387" flip="vt">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <text id="n1_ac40" name="labelTitle" xy="17,58" size="194,64" group="n48_qr2y" fontSize="48" color="#ffffff" strokeColor="#0b1424" strokeSize="4" text="神裔序列"/>
+    <component id="n2_ac40" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,72" group="n48_qr2y">
+      <relation target="n1_ac40" sidePair="left-right"/>
+    </component>
+    <text id="n3_ac40" name="labelReward" xy="19,138" size="136,42" group="n48_qr2y" fontSize="30" color="#fff58b" strokeColor="#000000" strokeSize="3" text="挑战奖励:"/>
+    <text id="n4_ac40" name="labelTopPlayer" xy="434,138" size="123,42" group="n48_qr2y" fontSize="30" color="#fff58b" strokeColor="#000000" strokeSize="3" text="领先玩家"/>
+    <list id="n47_qr2y" name="topPlayerAvatarList" xy="566,115" size="230,106" group="n48_qr2y" scale="0.8,0.8" layout="row" overflow="hidden" scroll="horizontal" colGap="-50" defaultItem="ui://38fa8c75ejy3vvv1dv" renderOrder="descent" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n29_ac40" name="bgTips" src="ac4019" fileName="img/sd_A_common_black1_msg.png" xy="99,251" group="n49_qr2y" alpha="0.54"/>
+    <image id="n30_ac40" name="imageTipsLock" src="ac4020" fileName="img/scale_50%_sd_A_common_suo1_icon.png" xy="184,257" group="n49_qr2y"/>
+    <text id="n31_ac40" name="labelTipsLock" xy="212,254" pivot="0.5,0.5" size="351,36" group="n49_qr2y" fontSize="26" color="#fff498" align="center" vAlign="middle" vars="true" autoSize="none" strokeColor="#00040a" strokeSize="3" text="所有序列验证{count=100}层后解锁"/>
+    <group id="n49_qr2y" name="G_lock" xy="99,251" size="536,42" group="n48_qr2y" advanced="true">
+      <gearDisplay controller="isCanChallenge" pages="0"/>
+    </group>
+    <list id="n52_qr2y" name="rewardList" xy="164,133" size="191,51" group="n48_qr2y" layout="row" scroll="horizontal" colGap="10" defaultItem="ui://f57ea91dqr2y2c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n48_qr2y" name="G_header" xy="17,58" size="779,235" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <text id="n34_ac40" name="labelFootTips" xy="257,1275" pivot="1,0" size="458,34" group="n51_qr2y" fontSize="24" color="#5bcbff" align="right" vAlign="middle" autoSize="none" strokeColor="#00040a" strokeSize="3" singleLine="true" text="此序列仅能上阵神裔英雄！"/>
+    <component id="n45_qr2y" name="btnBuZhen" src="vipivvv1i4" fileName="btn/BtnBuZhen2.xml" pkg="38fa8c75" xy="619,1138" group="n51_qr2y"/>
+    <component id="n56_rgtg" name="btnChallenge" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="209,1137" size="308,118" group="n51_qr2y">
+      <Button title="挑战"/>
+    </component>
+    <component id="n50_qr2y" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="-1,1212" group="n51_qr2y"/>
+    <group id="n51_qr2y" name="G_footer" xy="-1,1137" size="716,194" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <list id="n53_na34" name="rowList" xy="1,307" size="748,758" overflow="scroll" scrollBarFlags="128" defaultItem="ui://f57ea91dqr2y2b" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="height-height,center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

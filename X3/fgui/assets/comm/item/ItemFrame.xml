@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104" pivot="0.5,0.5">
+  <controller name="haveGain" exported="true" pages="0,,1," selected="0"/>
+  <controller name="lock" pages="0,,1," selected="0"/>
+  <controller name="get" pages="0,,1," selected="0"/>
+  <controller name="lockAndDesc" alias="带描述的锁" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n39_dtss" name="img_frame" xy="0,0" size="104,104" group="n42_dtss" url="ui://38fa8c75f0d84" autoSize="true"/>
+    <loader id="n40_dtss" name="img_item" xy="6,6" pivot="0.5,0.5" size="92,92" group="n42_dtss" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <text id="n44_dtss" name="T_num" xy="98,72" pivot="1,0" anchor="true" size="95,33" group="n42_dtss" font="ui://38fa8c75ev7wvvv1k8" fontSize="29" color="#fefefe" align="right" autoSize="shrink" singleLine="true" autoClearText="true" text="1000"/>
+    <text id="n48_v891" name="T_topNum2" xy="98,5" pivot="1,0" anchor="true" size="95,32" group="n42_dtss" visible="false" font="ui://38fa8c75ger4vvv1in" fontSize="26" color="#fefefe" align="right" autoSize="shrink" autoClearText="true" text="1000"/>
+    <graph id="n45_kp1o" name="maskFg" xy="0,1" size="104,103" group="n47_caj9" alpha="0.5" type="rect" fillColor="#ff000000" corner="10"/>
+    <image id="n46_kp1o" name="imageGou" src="8qld1z" fileName="bgImage/gou_icon.png" xy="23,29" size="58,46" group="n47_caj9"/>
+    <group id="n47_caj9" name="n47" xy="0,1" size="104,103" group="n42_dtss" advanced="true">
+      <gearDisplay controller="haveGain" pages="1"/>
+    </group>
+    <graph id="n49_bezo" name="n49" xy="0,0" size="104,103" group="n51_bezo" alpha="0.5" type="rect" fillColor="#ff000000" corner="10"/>
+    <image id="n53_bezo" name="n53" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" xy="26,21" group="n51_bezo"/>
+    <group id="n51_bezo" name="n51" xy="0,0" size="104,103" group="n42_dtss" advanced="true">
+      <gearDisplay controller="lock" pages="1"/>
+    </group>
+    <graph id="n57_teox" name="n57" xy="0,0" size="104,103" group="n58_teox" alpha="0.5" type="rect" fillColor="#ff000000" corner="10"/>
+    <image id="n55_teox" name="n55" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" xy="28,8" pivot="0.5,0.5" group="n58_teox" scale="0.5,0.5"/>
+    <text id="n56_teox" name="T_lockAndDesc" xy="3,56" pivot="0.5,0.5" size="97,26" group="n58_teox" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="15轮后解锁"/>
+    <group id="n58_teox" name="n58" xy="0,0" size="104,103" group="n42_dtss" advanced="true">
+      <gearDisplay controller="lockAndDesc" pages="1"/>
+    </group>
+    <image id="n54_k045" name="i" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" xy="42,79" group="n42_dtss" scale="0.5,0.5">
+      <gearDisplay controller="get" pages="1"/>
+    </image>
+    <text id="n59_teox" name="T_name" xy="8,104" pivot="0.5,0.5" size="91,32" group="n42_dtss" visible="false" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#010a1b" strokeSize="2" text="自走人形">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n42_dtss" name="n42" xy="0,0" size="183,136"/>
+  </displayList>
+</component>

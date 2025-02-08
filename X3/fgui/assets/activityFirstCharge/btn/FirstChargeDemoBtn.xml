@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="112,180" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_8152" name="n0" src="81529" fileName="img/jinengyulan_1.png" xy="0,0" size="112,148"/>
+    <image id="n5_s0hy" name="n5" src="s0hy2q" fileName="img/bg_demo.jpg" xy="56,74" pivot="0.5,0.5" anchor="true"/>
+    <component id="n2_s0hy" name="videoNode" src="dusvvvv1fk" fileName="node/VideoNode.xml" pkg="38fa8c75" xy="56,74" size="96,128" touchable="false"/>
+    <text id="n1_8152" name="n1" xy="41,162" pivot="0.5,0.5" anchor="true" size="99,34" group="n4_s0hy" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#17171e" strokeSize="3" text="技能预览"/>
+    <image id="n3_s0hy" name="n3" src="qoezvvv1c7" fileName="btnImage/fdj_icon.png" pkg="38fa8c75" xy="89,146" size="32,32" group="n4_s0hy">
+      <relation target="n1_8152" sidePair="left-right"/>
+    </image>
+    <group id="n4_s0hy" name="n4" xy="-8,145" size="129,34"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

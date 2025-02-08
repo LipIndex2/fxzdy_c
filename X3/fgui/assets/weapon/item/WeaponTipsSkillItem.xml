@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="410,32">
+  <displayList>
+    <richtext id="n0_sv0c" name="lbDesForHero" xy="29,0" size="380,32" fontSize="22" color="#ffffff" ubb="true" autoSize="height" text="雷诺必杀可以自动瞄准">
+      <relation target="n1_sv0c" sidePair="left-right"/>
+    </richtext>
+    <image id="n1_sv0c" name="lockImg" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="3,0" scale="0.4,0.4"/>
+    <richtext id="n3_sv0c" name="unlockLab" xy="1,0" size="27,32" fontSize="22" color="#ffffff" ubb="true" autoSize="none" text="◆"/>
+  </displayList>
+  <relation target="n0_sv0c" sidePair="height-height"/>
+</component>

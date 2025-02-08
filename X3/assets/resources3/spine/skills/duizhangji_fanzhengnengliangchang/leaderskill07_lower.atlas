@@ -1,0 +1,13 @@
+
+leaderskill07_lower.png
+size: 294,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/leaderskill07_huanlower
+  rotate: false
+  xy: 2, 2
+  size: 290, 290
+  orig: 300, 300
+  offset: 6, 5
+  index: -1

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="95,29" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n78_ae97" name="n78" xy="0,0" size="95,29" fontSize="20" color="#1dff3d" vAlign="middle" autoSize="none" text="查看奖励"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

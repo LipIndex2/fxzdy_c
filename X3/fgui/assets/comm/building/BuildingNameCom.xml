@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="176,70" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n0_346b" name="n0" src="346b0" fileName="bgImage/jianzhumingcheng.png" xy="88,35" pivot="0.5,0.5" anchor="true"/>
+    <text id="n1_346b" name="nameTxt" xy="87,35" pivot="0.5,0.5" anchor="true" size="81,36" fontSize="26" color="#63e3ff" align="center" vAlign="middle" leading="0" singleLine="true" autoClearText="true" text="传送门"/>
+    <text id="n8_1d70" name="T_time" xy="2,66" pivot="0.5,0.5" size="171,29" visible="false" fontSize="20" color="#bfdaf8" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="20天20小时后激活"/>
+  </displayList>
+  <transition name="show">
+    <item time="0" type="Alpha" target="n0_346b" tween="true" startValue="0" endValue="1" duration="24"/>
+    <item time="0" type="Alpha" target="n1_346b" value="0"/>
+    <item time="0" type="Alpha" target="n8_1d70" tween="true" startValue="0" endValue="1" duration="24"/>
+    <item time="0" type="Scale" target="n0_346b" tween="true" startValue="1,0.4" endValue="1,1" duration="24"/>
+    <item time="4" type="Alpha" target="n1_346b" tween="true" startValue="0" endValue="1" duration="20"/>
+  </transition>
+  <transition name="hide">
+    <item time="0" type="Alpha" target="n0_346b" tween="true" startValue="1" endValue="0" duration="24"/>
+    <item time="0" type="Alpha" target="n1_346b" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="0" type="Alpha" target="n8_1d70" tween="true" startValue="1" endValue="0" duration="24"/>
+    <item time="0" type="Scale" target="n0_346b" tween="true" startValue="1,1" endValue="1,0.4" duration="24"/>
+  </transition>
+</component>

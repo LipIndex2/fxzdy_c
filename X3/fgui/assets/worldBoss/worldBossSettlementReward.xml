@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_d6aa" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="37,85" size="675,1163" group="n9_e1fv"/>
+    <text id="n2_d6aa" name="n2" xy="309,107" size="131,44" group="n9_e1fv" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="结算奖励"/>
+    <component id="n8_uug0" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="56,175" size="638,958" group="n9_e1fv" aspect="true"/>
+    <list id="n7_uug0" name="tabList" xy="46,1155" size="654,68" group="n9_e1fv" layout="row" scroll="horizontal" colGap="18" defaultItem="ui://ee94a619uug013l">
+      <item title="参与奖励"/>
+      <item title="个人奖励"/>
+    </list>
+    <group id="n9_e1fv" name="n9" xy="37,85" size="675,1163" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

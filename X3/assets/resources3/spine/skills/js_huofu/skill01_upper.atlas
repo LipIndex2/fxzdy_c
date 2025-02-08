@@ -1,0 +1,216 @@
+
+skill01_upper.png
+size: 606,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huofuskill01_xulie1_00000
+  rotate: false
+  xy: 468, 745
+  size: 106, 110
+  orig: 210, 180
+  offset: 56, 8
+  index: -1
+effect/huofuskill01_xulie1_00001
+  rotate: false
+  xy: 343, 585
+  size: 131, 131
+  orig: 210, 180
+  offset: 43, 4
+  index: -1
+effect/huofuskill01_xulie1_00002
+  rotate: false
+  xy: 193, 385
+  size: 137, 135
+  orig: 210, 180
+  offset: 40, 4
+  index: -1
+effect/huofuskill01_xulie1_00003
+  rotate: false
+  xy: 184, 34
+  size: 158, 144
+  orig: 210, 180
+  offset: 29, 6
+  index: -1
+effect/huofuskill01_xulie1_00004
+  rotate: true
+  xy: 193, 708
+  size: 166, 145
+  orig: 210, 180
+  offset: 24, 7
+  index: -1
+effect/huofuskill01_xulie1_00005
+  rotate: true
+  xy: 192, 522
+  size: 184, 148
+  orig: 210, 180
+  offset: 14, 9
+  index: -1
+effect/huofuskill01_xulie1_00006
+  rotate: true
+  xy: 190, 180
+  size: 186, 149
+  orig: 210, 180
+  offset: 13, 10
+  index: -1
+effect/huofuskill01_xulie1_00007
+  rotate: false
+  xy: 2, 368
+  size: 189, 152
+  orig: 210, 180
+  offset: 11, 11
+  index: -1
+effect/huofuskill01_xulie1_00008
+  rotate: false
+  xy: 2, 213
+  size: 186, 153
+  orig: 210, 180
+  offset: 15, 11
+  index: -1
+effect/huofuskill01_xulie1_00009
+  rotate: false
+  xy: 2, 681
+  size: 189, 155
+  orig: 210, 180
+  offset: 13, 11
+  index: -1
+effect/huofuskill01_xulie1_00010
+  rotate: false
+  xy: 2, 522
+  size: 186, 157
+  orig: 210, 180
+  offset: 17, 14
+  index: -1
+effect/huofuskill01_xulie1_00011
+  rotate: false
+  xy: 2, 838
+  size: 189, 156
+  orig: 210, 180
+  offset: 14, 15
+  index: -1
+effect/huofuskill01_xulie1_00012
+  rotate: false
+  xy: 2, 56
+  size: 180, 155
+  orig: 210, 180
+  offset: 20, 18
+  index: -1
+effect/huofuskill01_xulie1_00013
+  rotate: true
+  xy: 344, 2
+  size: 101, 148
+  orig: 210, 180
+  offset: 90, 24
+  index: -1
+effect/huofuskill01_xulie2_00000
+  rotate: true
+  xy: 560, 321
+  size: 123, 34
+  orig: 146, 130
+  offset: 12, 2
+  index: -1
+effect/huofuskill01_xulie2_00001
+  rotate: true
+  xy: 559, 48
+  size: 125, 38
+  orig: 146, 130
+  offset: 11, 2
+  index: -1
+effect/huofuskill01_xulie2_00002
+  rotate: true
+  xy: 551, 175
+  size: 130, 46
+  orig: 146, 130
+  offset: 9, 2
+  index: -1
+effect/huofuskill01_xulie2_00003
+  rotate: true
+  xy: 550, 609
+  size: 134, 54
+  orig: 146, 130
+  offset: 7, 2
+  index: -1
+effect/huofuskill01_xulie2_00004
+  rotate: true
+  xy: 494, 30
+  size: 136, 63
+  orig: 146, 130
+  offset: 6, 2
+  index: -1
+effect/huofuskill01_xulie2_00005
+  rotate: true
+  xy: 476, 606
+  size: 137, 72
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00006
+  rotate: true
+  xy: 469, 168
+  size: 137, 80
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00007
+  rotate: true
+  xy: 469, 307
+  size: 137, 89
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00008
+  rotate: true
+  xy: 468, 857
+  size: 137, 97
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00009
+  rotate: true
+  xy: 460, 446
+  size: 137, 106
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00010
+  rotate: false
+  xy: 193, 880
+  size: 137, 114
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00011
+  rotate: true
+  xy: 344, 105
+  size: 137, 123
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00012
+  rotate: true
+  xy: 332, 383
+  size: 137, 126
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00013
+  rotate: true
+  xy: 340, 857
+  size: 137, 126
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00014
+  rotate: true
+  xy: 340, 718
+  size: 137, 126
+  orig: 146, 130
+  offset: 5, 2
+  index: -1
+effect/huofuskill01_xulie2_00015
+  rotate: true
+  xy: 341, 244
+  size: 137, 126
+  orig: 146, 130
+  offset: 5, 2
+  index: -1

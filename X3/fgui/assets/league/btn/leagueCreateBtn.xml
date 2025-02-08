@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="245,94" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="1">
+    <remark page="0" value="有奖励"/>
+    <remark page="1" value="没有奖励"/>
+  </controller>
+  <displayList>
+    <image id="n6_be1a" name="n6" src="be1a4" fileName="img/scale_80%_sd_A_common_changgui1_btn_17.png" xy="0,0"/>
+    <text id="n7_be1a" name="title" xy="87,24" size="71,46" fontSize="34" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="创建">
+      <gearXY controller="state" pages="1" values="87,24" default="84,39"/>
+    </text>
+    <loader id="n14_h90v" name="costIcon" xy="74,11" size="31,32" group="n15_h90v" url="ui://6be81224be1a5" fill="scale" clearOnPublish="true">
+      <relation target="n8_be1a" sidePair="left-left"/>
+    </loader>
+    <text id="n8_be1a" name="costNum" xy="105,8" pivot="0.5,0.5" size="49,35" group="n15_h90v" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="100"/>
+    <group id="n15_h90v" name="cost" xy="74,8" size="80,35" advanced="true" layout="hz" excludeInvisibles="true">
+      <gearDisplay controller="state" pages="0"/>
+      <relation target="" sidePair="center-center"/>
+      <relation target="n6_be1a" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

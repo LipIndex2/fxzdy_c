@@ -1,0 +1,223 @@
+
+buff_upper.png
+size: 954,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huofuskill01_xulie3_00000
+  rotate: false
+  xy: 517, 118
+  size: 130, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00001
+  rotate: true
+  xy: 490, 466
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00002
+  rotate: true
+  xy: 606, 466
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00003
+  rotate: true
+  xy: 722, 466
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00004
+  rotate: true
+  xy: 838, 466
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00005
+  rotate: false
+  xy: 2, 354
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00006
+  rotate: false
+  xy: 490, 350
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00007
+  rotate: false
+  xy: 623, 350
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00008
+  rotate: false
+  xy: 756, 350
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00009
+  rotate: false
+  xy: 135, 349
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00010
+  rotate: false
+  xy: 268, 349
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00011
+  rotate: false
+  xy: 401, 234
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00012
+  rotate: true
+  xy: 142, 465
+  size: 132, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00013
+  rotate: false
+  xy: 534, 234
+  size: 131, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_xulie3_00014
+  rotate: true
+  xy: 258, 465
+  size: 132, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00015
+  rotate: false
+  xy: 667, 234
+  size: 131, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00016
+  rotate: true
+  xy: 374, 465
+  size: 132, 114
+  orig: 146, 130
+  offset: 6, 9
+  index: -1
+effect/huofuskill01_xulie3_00017
+  rotate: false
+  xy: 800, 234
+  size: 131, 114
+  orig: 146, 130
+  offset: 6, 9
+  index: -1
+effect/huofuskill01_xulie3_00018
+  rotate: false
+  xy: 649, 118
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00019
+  rotate: false
+  xy: 2, 233
+  size: 131, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00020
+  rotate: false
+  xy: 781, 118
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00021
+  rotate: false
+  xy: 2, 117
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00022
+  rotate: false
+  xy: 134, 117
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00023
+  rotate: true
+  xy: 266, 84
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00024
+  rotate: false
+  xy: 382, 2
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00025
+  rotate: false
+  xy: 514, 2
+  size: 130, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00026
+  rotate: false
+  xy: 135, 233
+  size: 131, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00027
+  rotate: true
+  xy: 268, 216
+  size: 131, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00028
+  rotate: false
+  xy: 384, 118
+  size: 131, 114
+  orig: 146, 130
+  offset: 7, 9
+  index: -1
+effect/huofuskill01_xulie3_00029
+  rotate: false
+  xy: 646, 2
+  size: 130, 114
+  orig: 146, 130
+  offset: 8, 9
+  index: -1
+effect/huofuskill01_zhao
+  rotate: false
+  xy: 2, 470
+  size: 138, 127
+  orig: 146, 130
+  offset: 4, 0
+  index: -1

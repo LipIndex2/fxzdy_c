@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <richtext id="n53_fsx5" name="labelTitle" xy="18,4" size="586,132" fontSize="62" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="GM 竞技场积分修改"/>
+    <component id="n46_qj7y" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="200,635" size="189,68"/>
+    <component id="n41_m43k" name="inputScore" src="fsx5n" fileName="common/inputBoxComp.xml" xy="20,285" size="547,67"/>
+    <richtext id="n54_ffqt" name="labelTips" xy="18,410" size="586,132" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="GM 竞技场积分修改"/>
+  </displayList>
+</component>

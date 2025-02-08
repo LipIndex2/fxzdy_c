@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="143,40">
+  <displayList>
+    <component id="n45_n9t5" name="buttonSkip" src="n9t527" fileName="button/DrawCardSkilAnimButton.xml" xy="0,0"/>
+    <text id="n58_sgpf" name="labelSkip" xy="43,3" size="100,34" fontSize="24" color="#f3f3f5" vAlign="middle" text="跳过动画"/>
+  </displayList>
+</component>

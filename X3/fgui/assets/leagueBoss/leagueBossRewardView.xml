@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_bc8b" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="35,125" size="682,1067" group="n36_sh62"/>
+    <image id="n1_bc8b" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="57,212" size="638,895" group="n36_sh62"/>
+    <image id="n2_bc8b" name="n2" src="bc8b26" fileName="img/sd_A_common_bossfydi_frame.png" xy="79,294" size="593,142" group="n36_sh62"/>
+    <text id="n12_bc8b" name="n12" xy="284,238" size="182,42" group="n36_sh62" fontSize="30" color="#83aeff" text="每次战斗奖励"/>
+    <text id="n13_bc8b" name="n13" xy="313,455" size="123,42" group="n36_sh62" fontSize="30" color="#83aeff" text="击杀奖励"/>
+    <image id="n14_bc8b" name="n14" src="bc8b32" fileName="img/scale_70%_sd_A_common_word_tag.png" xy="477,247" group="n36_sh62" alpha="0.5"/>
+    <image id="n15_bc8b" name="n15" src="bc8b33" fileName="img/word_tagkaobei6.png" xy="80,247" group="n36_sh62"/>
+    <text id="n16_bc8b" name="n16" xy="278,150" size="194,44" group="n36_sh62" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="击杀排名奖励"/>
+    <text id="n17_bc8b" name="n17" xy="124,1127" size="504,36" group="n36_sh62" fontSize="26" color="#83aeff" strokeColor="#162241" strokeSize="3" text="根据伤害排名获得对应奖励（通过邮件发送)"/>
+    <component id="n32_sh62" name="everyReward" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="375,364" pivot="0.5,0.5" anchor="true" size="445,109" group="n36_sh62" scale="0.9,0.9"/>
+    <list id="n35_sh62" name="killReward" xy="76,504" size="600,582" group="n36_sh62" overflow="scroll" lineGap="9" defaultItem="ui://78157e75sh628a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n36_sh62" name="n36" xy="35,125" size="682,1067" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

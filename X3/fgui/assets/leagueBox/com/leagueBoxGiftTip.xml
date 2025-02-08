@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="708,122">
+  <displayList>
+    <image id="n70_qhev" name="n70" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="0,0" size="708,122" alpha="0.45"/>
+    <text id="n71_qhev" name="lbTip" xy="16,61" pivot="0,0.5" anchor="true" size="451,112" fontSize="24" color="#d7ebf4" vAlign="middle" autoSize="shrink" text="购买含有盟友赠礼的礼包可为所有成员提供一份盟友赠礼"/>
+    <component id="n72_qhev" name="btnGoto" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="501,10" size="231,108" scale="0.6,0.6">
+      <Button title="前往"/>
+    </component>
+  </displayList>
+</component>

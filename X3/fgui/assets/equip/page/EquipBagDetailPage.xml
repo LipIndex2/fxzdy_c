@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n55_d205" name="n55" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="96,342" size="557,650" group="n68_pf1a"/>
+    <image id="n79_pf1a" name="n79" src="pf1a148" fileName="bgImage/tisp1_frame.png" pkg="38fa8c75" xy="102,831" size="545,155" group="n68_pf1a"/>
+    <image id="n69_pf1a" name="n69" src="d20532" fileName="img/pz_frame.png" xy="272,422" group="n68_pf1a" flip="hz"/>
+    <image id="n70_pf1a" name="n70" src="d20532" fileName="img/pz_frame.png" xy="450,422" group="n68_pf1a"/>
+    <text id="n71_pf1a" name="n71" xy="334,426" pivot="0.5,0.5" size="46,29" group="n68_pf1a" fontSize="20" color="#83a3e4" align="center" vAlign="middle" text="品质"/>
+    <text id="n72_pf1a" name="n72" xy="501,426" pivot="0.5,0.5" size="46,29" group="n68_pf1a" fontSize="20" color="#83a3e4" align="center" vAlign="middle" text="评分"/>
+    <text id="n73_pf1a" name="T_name" xy="283,368" pivot="0,0.5" size="189,49" group="n68_pf1a" fontSize="36" color="#db83ff" vAlign="middle" strokeColor="#280931" strokeSize="2" text="帅爆狙击枪"/>
+    <text id="n74_pf1a" name="T_quality" xy="332,456" size="58,36" group="n68_pf1a" fontSize="26" color="#f3aa0c" text="史诗"/>
+    <text id="n75_pf1a" name="T_score" xy="485,453" pivot="0.5,5" size="80,42" group="n68_pf1a" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="1000"/>
+    <component id="n76_pf1a" name="item" src="pf1a144" fileName="item/EquipItem.xml" pkg="38fa8c75" xy="127,363" group="n68_pf1a" scale="1.15,1.15" touchable="false"/>
+    <text id="n62_d205" name="T_get" xy="326,885" size="97,42" group="n68_pf1a" fontSize="30" color="#515b6f" text="穿戴中"/>
+    <component id="n78_pf1a" name="attrPage" src="pf1a3a" fileName="item/EquipAttrPage.xml" xy="127,517" group="n68_pf1a"/>
+    <group id="n68_pf1a" name="n68" xy="96,342" size="557,650" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

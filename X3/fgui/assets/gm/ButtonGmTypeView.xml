@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,68" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n0_t6mg" name="imageNoChoose" src="m43k7" fileName="img/itemTypeTabBg.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_t6mg" name="imageChoose" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="0,0">
+      <gearDisplay controller="button" pages="1,2,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_t6mg" name="laelTitle" xy="77,36" pivot="0.5,0.5" anchor="true" size="131,54" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#162241" strokeSize="3" text="全部">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button mode="Check" downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <richtext id="n53_fsx5" name="labelTitle" xy="18,4" size="586,132" fontSize="62" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="GM 增加服务器时间"/>
+    <richtext id="n59_tkxd" name="title1" xy="14,161" size="596,98" group="n58_tkxd" fontSize="36" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="当前服务器时间"/>
+    <component id="n56_tkxd" name="labelCurDate" src="tkxd156" fileName="common/GMInputBoxComp.xml" xy="27,263" size="260,74" group="n58_tkxd"/>
+    <component id="n57_tkxd" name="labelCurTime" src="tkxd156" fileName="common/GMInputBoxComp.xml" xy="310,263" size="260,74" group="n58_tkxd"/>
+    <group id="n58_tkxd" name="n58" xy="14,161" size="596,176"/>
+    <richtext id="n61_tkxd" name="title2" xy="11,354" size="591,98" group="n64_tkxd" fontSize="28" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" text="要修改的时间点(只能增加24h内)&#xA;格式 = yyyy-MM-dd HH:mm:ss"/>
+    <component id="n62_tkxd" name="labelSetDate" src="tkxd156" fileName="common/GMInputBoxComp.xml" xy="27,456" size="260,74" group="n64_tkxd"/>
+    <component id="n63_tkxd" name="labelSetTime" src="tkxd156" fileName="common/GMInputBoxComp.xml" xy="310,456" size="260,74" group="n64_tkxd"/>
+    <group id="n64_tkxd" name="n64" xy="11,354" size="591,176"/>
+    <component id="n46_qj7y" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="200,635" size="189,68"/>
+  </displayList>
+</component>

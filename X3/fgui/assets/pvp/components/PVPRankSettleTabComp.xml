@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="292,160">
+  <controller name="haveGainFlag" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <text id="n150_b6a2" name="labelTitle" xy="34,0" size="81,36" fontSize="26" color="#98e8ff" text="日奖励"/>
+    <image id="n151_b6a2" name="n151" src="b6a285" fileName="img/sd_A_common_lb_tag.png" xy="6,6" color="#6e9aca"/>
+    <image id="n152_b6a2" name="n152" src="b6a286" fileName="img/sd_A_common_bossfydi_frame.png" xy="0,37">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n174_gkgv" name="itemList" xy="14,54" size="278,106" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n176_qlui" name="imageHaveGain" src="b6a284" fileName="img/sd_A_common_yhd_tag.png" xy="165,-9">
+      <gearDisplay controller="haveGainFlag" pages="1"/>
+      <relation target="" sidePair="right-right"/>
+    </image>
+  </displayList>
+</component>

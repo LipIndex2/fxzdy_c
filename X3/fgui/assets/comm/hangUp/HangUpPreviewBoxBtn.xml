@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,180" pivot="0.5,0.5" extention="Button">
+  <controller name="type" exported="true" pages="0,普通,1,高级,2,超级" selected="0"/>
+  <displayList>
+    <image id="n3_k1ep" name="n3" src="hqybvvv1fr" fileName="imgBox/hangUp_box_1.png" xy="0,0">
+      <gearDisplay controller="type" pages="0"/>
+    </image>
+    <image id="n4_k1ep" name="n4" src="hqybvvv1fs" fileName="imgBox/hangUp_box_2.png" xy="0,0">
+      <gearDisplay controller="type" pages="1"/>
+    </image>
+    <image id="n5_k1ep" name="n5" src="hqybvvv1ft" fileName="imgBox/hangUp_box_3.png" xy="0,0">
+      <gearDisplay controller="type" pages="2"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

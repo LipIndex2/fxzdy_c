@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="275,105" pivot="0.5,0.5" extention="Button">
+  <controller name="canPayFlag" pages="0,,1," selected="0">
+    <remark page="0" value="道具不足"/>
+    <remark page="1" value="道具充足"/>
+  </controller>
+  <displayList>
+    <image id="n0_loej" name="n0" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="275,105">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_loej" name="title" xy="137,69" pivot="0.5,0.5" anchor="true" size="75,49" fontSize="36" color="#fefefe" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="刷新"/>
+    <loader id="n2_loej" name="imageItem" xy="44,1" pivot="0.5,0.5" size="48,48" group="n4_loej" scale="0.9,0.9" url="ui://38fa8c75j6z934" fill="scale" clearOnPublish="true"/>
+    <text id="n3_loej" name="lbNeed" xy="92,4" size="58,42" group="n4_loej" fontSize="30" color="#cc0000" vAlign="middle" leading="0" strokeColor="#c96b06" strokeSize="3" singleLine="true" text="123">
+      <gearColor controller="canPayFlag" pages="1" values="#ffffff,#c96b06" default="#cc0000,#c96b06"/>
+    </text>
+    <text id="n5_loej" name="labelCount" xy="150,4" size="81,42" group="n4_loej" fontSize="30" color="#ffffff" vAlign="middle" leading="0" strokeColor="#c96b06" strokeSize="3" singleLine="true" text="(3/3)"/>
+    <group id="n4_loej" name="gLabel" xy="44,1" size="187,48" advanced="true" layout="hz" excludeInvisibles="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

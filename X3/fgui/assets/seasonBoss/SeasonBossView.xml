@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1336">
+  <displayList>
+    <image id="n103_hz6e" name="n103" src="07340" fileName="img/beijing.jpg" xy="0,-107" group="n86_u8y2"/>
+    <component id="n94_u8y2" name="bossModelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="371,545" pivot="0.5,1" anchor="true" size="468,400" group="n86_u8y2"/>
+    <component id="n95_hz6e" name="item7" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="46,485" size="150,200" group="n86_u8y2" visible="false"/>
+    <component id="n97_hz6e" name="item5" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="219,527" size="150,200" group="n86_u8y2" visible="false"/>
+    <component id="n96_hz6e" name="item3" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="28,650" size="150,200" group="n86_u8y2" visible="false"/>
+    <component id="n98_hz6e" name="item6" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="392,527" size="150,200" group="n86_u8y2" visible="false"/>
+    <component id="n99_hz6e" name="item8" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="559,484" size="150,200" group="n86_u8y2" visible="false"/>
+    <text id="n41_0734" name="lbBossN" xy="273,100" size="202,66" group="n86_u8y2" fontSize="50" color="#ffdf4c" vAlign="middle" strokeColor="#000000" strokeSize="3" text="泰坦灭霸">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <list id="n61_pkn9" name="listSkills" xy="169,174" size="413,67" group="n86_u8y2" layout="row" scroll="horizontal" colGap="9" defaultItem="ui://5ae153adv5mw65" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n100_hz6e" name="item1" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="210,696" size="150,200" group="n86_u8y2" visible="false"/>
+    <component id="n101_hz6e" name="item2" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="403,696" size="150,200" group="n86_u8y2" visible="false"/>
+    <component id="n102_hz6e" name="item4" src="hz6e6b" fileName="com/SeasonBossAttacker.xml" xy="577,664" size="150,200" group="n86_u8y2" visible="false"/>
+    <group id="n86_u8y2" name="n86" xy="0,-107" size="750,1626" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n104_hz6e" name="n104" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-322" size="750,300" color="#0b1d4b">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n48_0734" name="lbTitle" xy="18,45" pivot="0,0.5" size="242,54" group="n105_oyze" fontSize="40" color="#feab3f" vAlign="middle" strokeColor="#000000" strokeSize="3" text="灵魂宝石试炼">
+      <relation target="n49_0734" sidePair="bottom-top"/>
+    </text>
+    <image id="n49_0734" name="n49" src="073431" fileName="img/sd_A_common_liaotian_frame.png" xy="19,100" group="n105_oyze" alpha="0.25"/>
+    <richtext id="n91_u8y2" name="lbCd" xy="26,100" pivot="0,0.5" size="248,36" group="n105_oyze" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="后結算">
+      <relation target="n49_0734" sidePair="top-top"/>
+    </richtext>
+    <component id="n60_pkn9" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="271,54" size="41,34" group="n105_oyze">
+      <relation target="n48_0734" sidePair="left-right"/>
+    </component>
+    <group id="n105_oyze" name="n105" xy="18,45" size="294,92" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n84_v5mw" name="n84" src="073420" fileName="img/bantou_di.png" xy="229,943" size="278,117" group="n65_pkn9"/>
+    <text id="n27_0734" name="n27" xy="317,899" size="107,36" group="n65_pkn9" fontSize="26" color="#ffd042" vAlign="middle" strokeColor="#000000" strokeSize="3" text="我的战绩"/>
+    <text id="n28_0734" name="lbRank" xy="242,962" size="210,36" group="n65_pkn9" fontSize="26" color="#aae2ff" vAlign="middle" text="本服排名：未上榜"/>
+    <text id="n29_0734" name="lbHurt" xy="242,1001" size="236,36" group="n65_pkn9" fontSize="26" color="#aae2ff" vAlign="middle" text="最高伤害：尚未挑战"/>
+    <group id="n65_pkn9" name="myG" xy="229,899" size="278,161" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n15_0734" name="n15" src="073412" fileName="img/xinxi_di.png" xy="14,881" group="n89_u8y2"/>
+    <image id="n82_v5mw" name="n82" src="073420" fileName="img/bantou_di.png" xy="42,946" size="321,113" group="n89_u8y2"/>
+    <image id="n24_0734" name="n24" src="073418" fileName="img/sd_A_common_boss_tag.png" xy="42,900" pivot="0,0.5" group="n89_u8y2"/>
+    <component id="n66_pkn9" name="btnFormation" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="546,1110" size="158,58" group="n89_u8y2"/>
+    <component id="n68_pkn9" name="btnSimulate" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="48,1110" size="158,58" group="n89_u8y2">
+      <Button title="模拟挑战"/>
+    </component>
+    <component id="n69_pkn9" name="btnRule2" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="375,897" size="41,34" group="n89_u8y2">
+      <relation target="n76_pkn9" sidePair="left-right"/>
+    </component>
+    <image id="n83_v5mw" name="n83" src="073420" fileName="img/bantou_di.png" xy="418,945" size="291,113" group="n89_u8y2"/>
+    <text id="n72_pkn9" name="n72" xy="506,894" pivot="0,0.5" size="107,40" group="n89_u8y2" fontSize="26" color="#ffd042" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="我的战绩"/>
+    <text id="n73_pkn9" name="lbInfoRank" xy="431,960" size="210,36" group="n89_u8y2" fontSize="26" color="#aae2ff" vAlign="middle" text="本服排名：未上榜"/>
+    <text id="n74_pkn9" name="lbInfoHurt" xy="431,999" size="236,36" group="n89_u8y2" fontSize="26" color="#aae2ff" vAlign="middle" text="最高伤害：尚未挑战"/>
+    <richtext id="n76_pkn9" name="lbTipsHurt" xy="57,896" pivot="0,0.5" size="310,36" group="n89_u8y2" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="伤害到         可领取asdasd"/>
+    <list id="n90_u8y2" name="listItems" xy="39,958" size="380,105" group="n89_u8y2" scale="0.85,0.85" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://38fa8c75pkn9192" align="center" vAlign="middle">
+      <item/>
+      <item/>
+    </list>
+    <component id="n92_u8y2" name="btnGo" src="v5mw64" fileName="btn/SeasonBossChallengeBtn.xml" xy="241,1089" size="276,114" group="n89_u8y2"/>
+    <group id="n89_u8y2" name="infoG" xy="14,881" size="722,322" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

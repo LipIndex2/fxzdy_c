@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="162,76" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n19_c21f" name="bgComplete" xy="81,37" pivot="0.5,0.5" anchor="true" size="224,99" scale="0.7,0.7" url="ui://38fa8c75dtss59" align="center" vAlign="middle"/>
+    <text id="n20_c21f" name="labelComplete" xy="16,12" size="131,48" fontSize="34" color="#fef2ba" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#5d2207" strokeSize="3" singleLine="true" text="领取"/>
+    <component id="n21_eu7e" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="160,7" controller="type,3"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

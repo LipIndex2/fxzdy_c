@@ -1,0 +1,146 @@
+
+skill02_lower.png
+size: 494,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_ci3
+  rotate: false
+  xy: 308, 15
+  size: 40, 50
+  orig: 50, 50
+  offset: 4, 0
+  index: -1
+effect/skill02_dilie
+  rotate: false
+  xy: 2, 356
+  size: 279, 122
+  orig: 290, 140
+  offset: 7, 11
+  index: -1
+effect/skill02_guangyun
+  rotate: false
+  xy: 445, 50
+  size: 45, 45
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+effect/skill02_ring_00000
+  rotate: false
+  xy: 242, 2
+  size: 64, 63
+  orig: 150, 150
+  offset: 44, 42
+  index: -1
+effect/skill02_ring_00001
+  rotate: false
+  xy: 255, 67
+  size: 96, 93
+  orig: 150, 150
+  offset: 27, 30
+  index: -1
+effect/skill02_ring_00002
+  rotate: false
+  xy: 265, 237
+  size: 115, 107
+  orig: 150, 150
+  offset: 17, 23
+  index: -1
+effect/skill02_ring_00003
+  rotate: false
+  xy: 135, 234
+  size: 128, 120
+  orig: 150, 150
+  offset: 9, 17
+  index: -1
+effect/skill02_ring_00004
+  rotate: false
+  xy: 2, 226
+  size: 131, 128
+  orig: 150, 150
+  offset: 8, 12
+  index: -1
+effect/skill02_ring_00005
+  rotate: true
+  xy: 283, 346
+  size: 132, 134
+  orig: 150, 150
+  offset: 8, 10
+  index: -1
+effect/skill02_yanlower_00000
+  rotate: false
+  xy: 2, 37
+  size: 97, 20
+  orig: 200, 100
+  offset: 52, 59
+  index: -1
+effect/skill02_yanlower_00001
+  rotate: false
+  xy: 2, 59
+  size: 145, 41
+  orig: 200, 100
+  offset: 29, 42
+  index: -1
+effect/skill02_yanlower_00002
+  rotate: false
+  xy: 2, 102
+  size: 172, 58
+  orig: 200, 100
+  offset: 21, 33
+  index: -1
+effect/skill02_yanlower_00003
+  rotate: false
+  xy: 2, 162
+  size: 171, 62
+  orig: 200, 100
+  offset: 17, 30
+  index: -1
+effect/skill02_yanlower_00004
+  rotate: true
+  xy: 419, 311
+  size: 167, 72
+  orig: 200, 100
+  offset: 15, 20
+  index: -1
+effect/skill02_yanlower_00005
+  rotate: false
+  xy: 265, 162
+  size: 149, 73
+  orig: 200, 100
+  offset: 14, 20
+  index: -1
+effect/skill02_yanlower_00006
+  rotate: true
+  xy: 416, 174
+  size: 135, 76
+  orig: 200, 100
+  offset: 13, 17
+  index: -1
+effect/skill02_yanlower_00007
+  rotate: true
+  xy: 176, 106
+  size: 126, 77
+  orig: 200, 100
+  offset: 15, 17
+  index: -1
+effect/skill02_yanlower_00008
+  rotate: false
+  xy: 353, 97
+  size: 117, 63
+  orig: 200, 100
+  offset: 15, 31
+  index: -1
+effect/skill02_yanlower_00009
+  rotate: false
+  xy: 149, 41
+  size: 91, 59
+  orig: 200, 100
+  offset: 37, 31
+  index: -1
+effect/skill02_yanlower_00010
+  rotate: false
+  xy: 353, 39
+  size: 90, 56
+  orig: 200, 100
+  offset: 37, 31
+  index: -1

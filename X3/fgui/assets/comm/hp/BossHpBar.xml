@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1" extention="ProgressBar">
+  <displayList>
+    <image id="n2_lz8y" name="n2" src="lz8y148" fileName="frameImage/xtboss_frame.png" xy="-46,-6" size="110,14"/>
+    <image id="n1_lz8y" name="bar" src="lz8y147" fileName="frameImage/xgxt__frame.png" xy="-43,-3" size="104,8" fillMethod="hz"/>
+    <image id="n3_lz8y" name="n3" src="lz8y14b" fileName="frameImage/boss_bag.png" xy="-71,-17"/>
+  </displayList>
+  <ProgressBar/>
+</component>

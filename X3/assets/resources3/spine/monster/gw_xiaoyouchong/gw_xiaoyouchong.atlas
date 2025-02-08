@@ -1,0 +1,48 @@
+
+gw_xiaoyouchong.png
+size: 107,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 88, 20
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 44, 5
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 45, 3
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 4
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 2, 4
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 88, 7
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1

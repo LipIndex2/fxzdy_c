@@ -1,0 +1,90 @@
+
+UI_qiridenglu_everydaysaoguang_100.png
+size: 491,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/day_00000
+  rotate: true
+  xy: 108, 42
+  size: 24, 28
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00001
+  rotate: false
+  xy: 108, 68
+  size: 33, 38
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00002
+  rotate: true
+  xy: 413, 2
+  size: 44, 51
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00003
+  rotate: false
+  xy: 413, 48
+  size: 56, 66
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00004
+  rotate: false
+  xy: 418, 187
+  size: 71, 83
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00005
+  rotate: true
+  xy: 2, 17
+  size: 89, 104
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00006
+  rotate: true
+  xy: 284, 5
+  size: 109, 127
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00007
+  rotate: false
+  xy: 284, 116
+  size: 132, 154
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00008
+  rotate: false
+  xy: 2, 108
+  size: 142, 162
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00009
+  rotate: false
+  xy: 146, 112
+  size: 136, 158
+  orig: 160, 180
+  offset: 15, 12
+  index: -1
+effect/day_00010
+  rotate: true
+  xy: 146, 9
+  size: 101, 118
+  orig: 160, 180
+  offset: 50, 52
+  index: -1
+effect/day_00011
+  rotate: false
+  xy: 418, 116
+  size: 59, 69
+  orig: 160, 180
+  offset: 92, 101
+  index: -1

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3ed45a6a">
+  <resources>
+    <component id="972a27" name="BoxItemPreviewRewardView.xml" path="/"/>
+    <component id="972a2a" name="BoxItemBaseRewardView.xml" path="/"/>
+    <component id="972a2b" name="BoxItemChooseRewardView.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

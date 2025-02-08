@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n14_woyg" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="32,118" size="682,1106" group="n12_gtlw"/>
+    <image id="n1_fdf1" name="n1" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,118" size="682,1106" group="n12_gtlw"/>
+    <image id="n13_8g0d" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="55,207" size="640,834" group="n12_gtlw"/>
+    <list id="n10_gtlw" name="listShare" xy="63,219" size="617,810" group="n12_gtlw" overflow="scroll" lineGap="9" defaultItem="ui://78d1ed1agtlw12p">
+      <item title="世界频道"/>
+      <item title="联盟频道"/>
+    </list>
+    <component id="n11_gtlw" name="btnShare" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="240,1068" group="n12_gtlw" scale="0.8,0.8">
+      <Button title="分享"/>
+    </component>
+    <text id="n2_fdf1" name="n3" xy="370,165" pivot="0.5,0.5" anchor="true" size="67,44" group="n12_gtlw" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="分享"/>
+    <group id="n12_gtlw" name="gAll" xy="32,118" size="682,1106" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n15_woyg" name="n15" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1224">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

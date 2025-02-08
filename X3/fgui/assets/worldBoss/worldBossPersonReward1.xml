@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,958" designImageLayer="1">
+  <controller name="rankType" pages="0,1-3,1,rank,2,noRank" selected="0"/>
+  <displayList>
+    <image id="n0_d6aa" name="n0" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="0,0" size="638,958" group="n14_uug0"/>
+    <text id="n3_d6aa" name="n3" xy="89,139" size="467,36" group="n14_uug0" fontSize="26" color="#83aeff" text="本期挑战排名保持至击杀可获得以下奖励">
+      <gearDisplay controller="rankType" pages="0,1"/>
+    </text>
+    <text id="n4_d6aa" name="n4" xy="241,19" size="158,36" group="n14_uug0" fontSize="26" color="#fefefe" text="当前本服排名"/>
+    <image id="n7_uug0" name="n7" src="d6aa61" fileName="img/sd_A_common_bossfydi_frame_23.png" xy="20,180" group="n14_uug0"/>
+    <text id="n5_d6aa" name="rankNum" xy="270,75" pivot="0.5,0.5" size="97,49" group="n14_uug0" fontSize="36" color="#ffd557" align="center" vAlign="middle" text="第1名"/>
+    <image id="n1_d6aa" name="n1" src="d6aa66" fileName="img/sjboss_frame.png" xy="19,177" group="n9_uug0"/>
+    <image id="n2_d6aa" name="n2" src="d6aa67" fileName="img/sd_A_common_sjboss1_frame.png" xy="179,194" size="423,111" group="n9_uug0"/>
+    <image id="n6_d6aa" name="n6" src="d6aa68" fileName="img/zu13056.png" xy="35,187" group="n9_uug0"/>
+    <list id="n8_uug0" name="rewardList" xy="167,200" pivot="0.5,0.5" size="446,103" group="n9_uug0" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n9_uug0" name="n9" xy="19,177" size="599,150" group="n14_uug0" advanced="true">
+      <gearDisplay controller="rankType" pages="0"/>
+    </group>
+    <list id="n10_uug0" name="rewardList2" xy="96,200" pivot="0.5,0.5" size="446,101" group="n11_uug0" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true"/>
+    <group id="n11_uug0" name="n11" xy="96,200" size="446,101" group="n14_uug0" advanced="true">
+      <gearDisplay controller="rankType" pages="1"/>
+    </group>
+    <list id="n12_uug0" name="rankList" xy="18,367" size="611,590" group="n14_uug0" overflow="scroll" lineGap="12" defaultItem="ui://ee94a619uug013r" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n13_uug0" name="n13" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="21,340" size="588,3" group="n14_uug0" color="#536dad"/>
+    <text id="n15_e1fv" name="n15" xy="215,233" size="210,36" group="n14_uug0" fontSize="26" color="#789ed6" text="请先进行一次挑战">
+      <gearDisplay controller="rankType" pages="2"/>
+    </text>
+    <group id="n14_uug0" name="n14" xy="0,0" size="638,958"/>
+  </displayList>
+</component>

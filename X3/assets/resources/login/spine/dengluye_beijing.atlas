@@ -1,0 +1,27 @@
+
+dengluye_beijing.png
+size: 770,819
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing2
+  rotate: false
+  xy: 2, 75
+  size: 750, 742
+  orig: 750, 742
+  offset: 0, 0
+  index: -1
+beijingg
+  rotate: false
+  xy: 443, 3
+  size: 324, 270
+  orig: 324, 270
+  offset: 0, 0
+  index: -1
+beijinggg
+  rotate: 180
+  xy: 2, 54
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,956">
+  <displayList>
+    <list id="n84_cjsd" name="list" xy="0,48" size="607,755" overflow="scroll" lineGap="12" defaultItem="ui://997ef4d0cjsd3c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n83_cjsd" name="btnOnekey" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="182,824" size="245,94">
+      <Button title="一键赠送领取" titleFontSize="34"/>
+    </component>
+    <text id="n82_273c" name="lbLimit" xy="192,923" pivot="0.5,0.5" size="220,32" fontSize="22" color="#83aefc" vAlign="middle" strokeColor="#122d60" strokeSize="3" text="每日领取上限：10/20"/>
+    <component id="n85_oc78" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="416,836"/>
+    <component id="n86_pfd4" name="btnFactory" src="t5gy3p" fileName="btn/FriendFactoryBtn.xml" xy="482,818"/>
+  </displayList>
+</component>

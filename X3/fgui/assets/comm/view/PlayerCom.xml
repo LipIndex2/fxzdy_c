@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="318,114">
+  <displayList>
+    <image id="n11_phyf" name="bgPower" src="gtlwvvv1hs" fileName="bgImage/zhandouli.png" xy="99,14" group="n12_phyf"/>
+    <text id="n6_6b29" name="T_power" xy="226,37" pivot="0.5,0.5" anchor="true" size="146,49" group="n12_phyf" fontSize="36" color="#fffefe" align="center" vAlign="middle" autoSize="shrink" singleLine="true" autoClearText="true" text="28312"/>
+    <group id="n12_phyf" name="n12" xy="99,12" size="208,49" advanced="true"/>
+    <component id="n8_6b29" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" xy="0,4" size="113,114"/>
+    <image id="n13_phyf" name="n13" src="gtlwvvv1ht" fileName="bgImage/dengji.png" xy="26,90" size="80,20" group="n16_phyf"/>
+    <text id="n15_phyf" name="lvContent" xy="103,101" pivot="1,0.5" anchor="true" size="43,26" group="n16_phyf" font="ui://38fa8c75ev7wvvv1k8" fontSize="22" color="#ffffff" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="120"/>
+    <text id="n21_ev7w" name="n21" xy="36,93" pivot="0.5,0.5" size="29,20" group="n16_phyf" font="ui://38fa8c75ev7wvvv1k8" fontSize="16" color="#ffffff" align="center" vAlign="middle" letterSpacing="-1" text="Lv.">
+      <relation target="n15_phyf" sidePair="right-left"/>
+    </text>
+    <group id="n16_phyf" name="n16" xy="26,88" size="80,26"/>
+    <text id="n17_gtlw" name="lbName" xy="115,74" pivot="0,0.5" size="189,34" fontSize="24" color="#fffefe" vAlign="middle" autoSize="shrink" strokeColor="#000000" strokeSize="3" singleLine="true" autoClearText="true" text=""/>
+    <component id="n22_tjmg" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="93,22" controller="type,5">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+</component>

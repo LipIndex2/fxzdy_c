@@ -1,0 +1,13 @@
+
+xiaoxiaoruan_zidang.png
+size: 41,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js07
+  rotate: false
+  xy: 2, 2
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

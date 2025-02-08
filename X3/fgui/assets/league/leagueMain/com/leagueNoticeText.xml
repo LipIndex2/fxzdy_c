@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="717,100" overflow="scroll">
+  <displayList>
+    <text id="n24_894b" name="notice" xy="5,6" size="703,32" fontSize="22" color="#92b4ed" autoSize="height" strokeColor="#000000" strokeSize="2" text="联盟公告：这个盟主很懒，什么都没留下"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,66">
+  <displayList>
+    <image id="n29_t1qh" name="bg" src="tml513f" fileName="bgImage/qipao2_frame.png" pkg="38fa8c75" xy="0,2" pivot="0,1"/>
+    <component id="n33_t1qh" name="spine" src="t1qha6" fileName="component/FactoryOtherBubbleSpineModel.xml" xy="8,-19"/>
+  </displayList>
+</component>

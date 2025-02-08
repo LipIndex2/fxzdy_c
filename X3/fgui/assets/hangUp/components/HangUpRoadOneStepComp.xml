@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,208">
+  <displayList>
+    <loader id="n180_tml5" name="bgTitle" xy="0,156" size="101,39" group="n177_tml5" visible="false" url="ui://38fa8c75tml513g" fill="scaleFree" color="#286ac4"/>
+    <text id="n150_8a38" name="labelLevelId" xy="13,160" size="73,32" group="n177_tml5" fontSize="22" color="#fef2ba" align="center" vAlign="middle" autoSize="none" singleLine="true" text="116"/>
+    <component id="n171_piwi" name="bar" src="piwi13a" fileName="components/HangUpRoadProgressBar.xml" xy="65,112" size="58,14" group="n177_tml5">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n174_rclc" name="challengeComp" src="tyxr13v" fileName="components/HangUpRoadIconComp.xml" xy="50,121" group="n177_tml5"/>
+    <group id="n177_tml5" name="all" xy="0,80" size="123,115"/>
+    <component id="n164_8a38" name="dialogComp" src="tyxr13u" fileName="components/HangUpRoadDialogComp.xml" xy="-54,1" visible="false"/>
+  </displayList>
+  <transition name="t1">
+    <item time="12" type="Scale" target="n174_rclc" tween="true" startValue="1,1" endValue="2,2" duration="7"/>
+    <item time="19" type="Scale" target="n174_rclc" tween="true" startValue="2,2" endValue="1,1" duration="11" ease="Back.Out"/>
+  </transition>
+</component>

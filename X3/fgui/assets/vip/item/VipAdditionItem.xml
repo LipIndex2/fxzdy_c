@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,60">
+  <displayList>
+    <image id="n18_f31f" name="n18" src="f31f13" fileName="img/v_lb.png" xy="0,0" size="686,60"/>
+    <text id="n20_f31f" name="n20" xy="253,14" size="57,34" visible="false" fontSize="24" color="#41fb7a" vAlign="middle" strokeColor="#125201" strokeSize="2" text="+3次"/>
+    <image id="n24_f31f" name="iconNew" src="f31f17" fileName="img/xin.png" xy="32,30" pivot="0.5,0.5" anchor="true"/>
+    <image id="n25_oc78" name="iconRaise" src="f31f15" fileName="img/jiantou.png" xy="32,33" pivot="0.5,0.5" anchor="true"/>
+    <image id="n26_oc78" name="iconOld" src="f31f16" fileName="img/lingxing.png" xy="32,33" pivot="0.5,0.5" anchor="true"/>
+    <richtext id="n27_oc78" name="lbDes" xy="56,14" pivot="0,0.5" size="194,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#431295" strokeSize="2" text="特权描述某某次数"/>
+  </displayList>
+</component>

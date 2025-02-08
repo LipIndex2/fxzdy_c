@@ -1,0 +1,237 @@
+
+skill01_start_lower.png
+size: 529,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_guangyun
+  rotate: false
+  xy: 407, 132
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+effect/skill01_huo1lower_00000
+  rotate: false
+  xy: 312, 686
+  size: 127, 69
+  orig: 320, 90
+  offset: 186, 4
+  index: -1
+effect/skill01_huo1lower_00001
+  rotate: false
+  xy: 170, 42
+  size: 134, 73
+  orig: 320, 90
+  offset: 180, 4
+  index: -1
+effect/skill01_huo1lower_00002
+  rotate: false
+  xy: 2, 761
+  size: 305, 76
+  orig: 320, 90
+  offset: 8, 4
+  index: -1
+effect/skill01_huo1lower_00003
+  rotate: false
+  xy: 2, 684
+  size: 308, 75
+  orig: 320, 90
+  offset: 6, 4
+  index: -1
+effect/skill01_huo1lower_00004
+  rotate: false
+  xy: 2, 535
+  size: 305, 71
+  orig: 320, 90
+  offset: 8, 4
+  index: -1
+effect/skill01_huo1lower_00005
+  rotate: false
+  xy: 2, 839
+  size: 306, 78
+  orig: 320, 90
+  offset: 7, 4
+  index: -1
+effect/skill01_huo1lower_00006
+  rotate: false
+  xy: 2, 919
+  size: 305, 79
+  orig: 320, 90
+  offset: 8, 4
+  index: -1
+effect/skill01_huo1lower_00007
+  rotate: false
+  xy: 2, 608
+  size: 304, 74
+  orig: 320, 90
+  offset: 8, 4
+  index: -1
+effect/skill01_quan_00000
+  rotate: true
+  xy: 410, 455
+  size: 93, 92
+  orig: 150, 150
+  offset: 30, 27
+  index: -1
+effect/skill01_quan_00001
+  rotate: false
+  xy: 2, 144
+  size: 113, 111
+  orig: 150, 150
+  offset: 20, 21
+  index: -1
+effect/skill01_quan_00002
+  rotate: false
+  xy: 312, 757
+  size: 115, 115
+  orig: 150, 150
+  offset: 19, 19
+  index: -1
+effect/skill01_quan_00003
+  rotate: false
+  xy: 310, 874
+  size: 124, 124
+  orig: 150, 150
+  offset: 18, 15
+  index: -1
+effect/skill01_quan_00004
+  rotate: true
+  xy: 309, 550
+  size: 132, 124
+  orig: 150, 150
+  offset: 11, 15
+  index: -1
+effect/skill01_quan_00005
+  rotate: true
+  xy: 278, 253
+  size: 140, 124
+  orig: 150, 150
+  offset: 5, 16
+  index: -1
+effect/skill01_quan_00006
+  rotate: true
+  xy: 285, 396
+  size: 137, 123
+  orig: 150, 150
+  offset: 6, 16
+  index: -1
+effect/skill01_quan_00007
+  rotate: true
+  xy: 276, 117
+  size: 134, 129
+  orig: 150, 150
+  offset: 7, 13
+  index: -1
+effect/skill01_quan_00008
+  rotate: false
+  xy: 141, 124
+  size: 133, 133
+  orig: 150, 150
+  offset: 8, 12
+  index: -1
+effect/skill01_quan_00009
+  rotate: false
+  xy: 141, 259
+  size: 135, 134
+  orig: 150, 150
+  offset: 7, 11
+  index: -1
+effect/skill01_quan_00010
+  rotate: true
+  xy: 2, 257
+  size: 136, 137
+  orig: 150, 150
+  offset: 7, 8
+  index: -1
+effect/skill01_quan_00011
+  rotate: true
+  xy: 144, 395
+  size: 138, 139
+  orig: 150, 150
+  offset: 6, 7
+  index: -1
+effect/skill01_quan_00012
+  rotate: true
+  xy: 2, 395
+  size: 138, 140
+  orig: 150, 150
+  offset: 5, 7
+  index: -1
+effect/skill01_zhongxinhuolower_00000
+  rotate: true
+  xy: 495, 802
+  size: 53, 32
+  orig: 240, 100
+  offset: 181, 4
+  index: -1
+effect/skill01_zhongxinhuolower_00001
+  rotate: true
+  xy: 465, 34
+  size: 96, 48
+  orig: 240, 100
+  offset: 134, 7
+  index: -1
+effect/skill01_zhongxinhuolower_00002
+  rotate: true
+  xy: 436, 857
+  size: 141, 58
+  orig: 240, 100
+  offset: 82, 13
+  index: -1
+effect/skill01_zhongxinhuolower_00003
+  rotate: false
+  xy: 2, 62
+  size: 166, 60
+  orig: 240, 100
+  offset: 44, 20
+  index: -1
+effect/skill01_zhongxinhuolower_00004
+  rotate: true
+  xy: 407, 228
+  size: 166, 57
+  orig: 240, 100
+  offset: 39, 23
+  index: -1
+effect/skill01_zhongxinhuolower_00005
+  rotate: false
+  xy: 306, 57
+  size: 157, 58
+  orig: 240, 100
+  offset: 31, 22
+  index: -1
+effect/skill01_zhongxinhuolower_00006
+  rotate: true
+  xy: 441, 703
+  size: 152, 52
+  orig: 240, 100
+  offset: 29, 22
+  index: -1
+effect/skill01_zhongxinhuolower_00007
+  rotate: true
+  xy: 441, 553
+  size: 148, 53
+  orig: 240, 100
+  offset: 27, 20
+  index: -1
+effect/skill01_zhongxinhuolower_00008
+  rotate: true
+  xy: 466, 307
+  size: 146, 53
+  orig: 240, 100
+  offset: 25, 21
+  index: -1
+effect/skill01_zhongxinhuolower_00009
+  rotate: false
+  xy: 306, 2
+  size: 145, 53
+  orig: 240, 100
+  offset: 23, 21
+  index: -1
+effect/skill01_zhongxinhuolower_00010
+  rotate: false
+  xy: 466, 254
+  size: 37, 51
+  orig: 240, 100
+  offset: 18, 23
+  index: -1

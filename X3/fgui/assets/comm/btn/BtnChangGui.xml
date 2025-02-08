@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,101" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n8_64f3" name="n8" src="gkgvvvv1a6" fileName="btn/img/changgui_btn.png" xy="0,0"/>
+    <text id="n9_64f3" name="title" xy="74,26" size="77,50" fontSize="37" color="#fef2ba" strokeColor="#5d2207" strokeSize="3" text="确认"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,148" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n50_8090" name="bg" src="r8pu16l" fileName="img/shalou.png" xy="0,0"/>
+    <text id="n51_8090" name="title" xy="6,116" pivot="0.5,0" size="105,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#0b0900" strokeSize="2" text="快速挂机"/>
+    <component id="n52_hqyb" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="94,12" controller="type,2"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

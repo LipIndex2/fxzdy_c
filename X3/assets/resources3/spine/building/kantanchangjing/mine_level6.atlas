@@ -1,0 +1,13 @@
+
+mine_level6.png
+size: 120,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_mine06
+  rotate: false
+  xy: 2, 2
+  size: 116, 111
+  orig: 138, 149
+  offset: 11, 9
+  index: -1

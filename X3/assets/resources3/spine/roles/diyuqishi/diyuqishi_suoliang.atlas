@@ -1,0 +1,20 @@
+
+diyuqishi_suoliang.png
+size: 240,27
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js027
+  rotate: false
+  xy: 205, 3
+  size: 32, 23
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+suolian
+  rotate: false
+  xy: 2, 14
+  size: 202, 11
+  orig: 202, 11
+  offset: 0, 0
+  index: -1

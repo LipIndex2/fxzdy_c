@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,156" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n25_6d8c" name="bgBar" src="116zs5g" fileName="img/zhengchangdi.png" xy="0,0"/>
+    <image id="n28_6d8c" name="fgItem" src="116zs5h" fileName="img/kelingqu.png" xy="12,12"/>
+    <image id="n29_6d8c" name="fgBar" src="116zs5i" fileName="img/jindu.png" xy="5,6" fillMethod="radial360" fillClockwise="false"/>
+    <image id="n31_6d8c" name="imageBox" src="116zs5j" fileName="img/baoxiang.png" xy="17,23" pivot="0.5,0.5">
+      <gearSize controller="button" pages="1" values="85,71,0.7,0.7" default="85,71,1,1" tween="true"/>
+    </image>
+    <text id="n30_6d8c" name="labelProgressCount" xy="13,124" pivot="0.5,0.5" size="94,32" fontSize="22" color="#5ffe5c" align="center" vAlign="middle" strokeColor="#0c0c0c" strokeSize="3" text="120/100"/>
+  </displayList>
+  <Button/>
+</component>

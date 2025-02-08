@@ -1,0 +1,13 @@
+
+Q_qiandaoshaoguang.png
+size: 44,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_guangtiaosi
+  rotate: false
+  xy: 2, 2
+  size: 40, 75
+  orig: 48, 86
+  offset: 4, 6
+  index: -1

@@ -1,0 +1,62 @@
+
+skill01_bullet_upper.png
+size: 132,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_quan_00002
+  rotate: false
+  xy: 72, 214
+  size: 58, 58
+  orig: 70, 70
+  offset: 6, 6
+  index: -1
+effect/attack_quan_00003
+  rotate: false
+  xy: 68, 4
+  size: 62, 62
+  orig: 70, 70
+  offset: 4, 4
+  index: -1
+effect/attack_quan_00004
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 70, 70
+  offset: 3, 3
+  index: -1
+effect/attack_quan_00005
+  rotate: false
+  xy: 2, 136
+  size: 66, 66
+  orig: 70, 70
+  offset: 2, 2
+  index: -1
+effect/attack_quan_00006
+  rotate: false
+  xy: 2, 68
+  size: 66, 66
+  orig: 70, 70
+  offset: 2, 2
+  index: -1
+effect/attack_quan_00007
+  rotate: false
+  xy: 2, 204
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+effect/skill01_zidan1
+  rotate: false
+  xy: 70, 112
+  size: 40, 90
+  orig: 42, 90
+  offset: 1, 0
+  index: -1
+effect/skill01_zidan2
+  rotate: false
+  xy: 70, 68
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

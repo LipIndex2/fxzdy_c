@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="330,125" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <controller name="tabIndex" exported="true" pages="0,普通招募,1,高级招募,3,武器" selected="0"/>
+  <displayList>
+    <loader id="n10_rxmb" name="n10" xy="165,62" pivot="0.5,0.5" anchor="true" size="330,125" url="ui://e93efac4830111" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="button" pages="3"/>
+      <gearIcon controller="tabIndex" pages="1,3" values="ui://e93efac4rxmb53|ui://e93efac4116zs5a" default="ui://e93efac4830111"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n11_rxmb" name="n11" xy="165,62" pivot="0.5,0.5" anchor="true" size="330,125" url="ui://e93efac4rxmb54" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="button" pages="2"/>
+      <gearIcon controller="tabIndex" pages="0,3" values="ui://e93efac4rxmb54|ui://e93efac4116zs60" default="ui://e93efac4830110"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n12_ivzm" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="317,16" controller="type,12"/>
+    <component id="n13_s0hy" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="303,100" pivot="0.5,0.5" anchor="true" size="41,34">
+      <relation target="" sidePair="middle-middle,right-right"/>
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

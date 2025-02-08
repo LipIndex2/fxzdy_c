@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1e79bd01">
+  <resources>
+    <image id="0b093" name="qd01_frame.png" path="/img/" scale="9grid" scale9grid="58,52,58,8"/>
+    <image id="0b0913" name="qd02_frame.png" path="/img/" scale="9grid" scale9grid="59,51,57,8"/>
+    <image id="0b0918" name="zhantai.png" path="/img/"/>
+    <image id="0b0919" name="tuoyuan1kaobei2.png" path="/img/"/>
+    <image id="0b0920" name="sszd_0015_it_baixing_00.png" path="/img/"/>
+    <image id="0b0921" name="jichuzhaomu-zhuazi.png" path="/img/"/>
+    <image id="0b0926" name="sd_Rrukoutubiao_rk0003_icon.png" path="/img/"/>
+    <image id="0b0929" name="sd_Cchouka_yilingqu.png" path="/img/"/>
+    <image id="0b0930" name="sd_Cchouka_weilingqu.png" path="/img/"/>
+    <image id="0b0937" name="qiandaocishu.png" path="/img/"/>
+    <image id="0b0938" name="sd_Cchouka_huangse.png" path="/img/"/>
+    <image id="0b0939" name="sd_Cchouka_hongse.png" path="/img/"/>
+    <component id="0b0950" name="GiveHeroView.xml" path="/"/>
+    <component id="v89151" name="GiveHeroItem1.xml" path="/item/"/>
+    <component id="v89152" name="GiveHeroItem2.xml" path="/item/"/>
+    <component id="v89153" name="btn1.xml" path="/btn/" exported="true"/>
+    <component id="v89154" name="GiveHeroAwardWin.xml" path="/"/>
+    <component id="v89158" name="AwardItem.xml" path="/item/"/>
+    <image id="g25659" name="lyx_bg.jpg" path="/img/" scale="9grid" scale9grid="185,815,374,14"/>
+    <component id="i83d5a" name="GiveHeroTopPanel.xml" path="/comp/"/>
+    <component id="i83d5c" name="GiveHeroBottomPanel.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,230 @@
+
+BOSS_naochongfeidie.png
+size: 263,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js0000
+  rotate: false
+  xy: 87, 33
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 105, 107
+  size: 12, 9
+  orig: 15, 9
+  offset: 3, 0
+  index: -1
+js0100
+  rotate: false
+  xy: 203, 136
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+js01000
+  rotate: true
+  xy: 197, 5
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 136, 5
+  size: 12, 9
+  orig: 16, 10
+  offset: 4, 1
+  index: -1
+js01100
+  rotate: true
+  xy: 137, 107
+  size: 175, 64
+  orig: 175, 64
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 137, 259
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+js01200
+  rotate: false
+  xy: 67, 25
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 137, 248
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+js01300
+  rotate: true
+  xy: 203, 215
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 88, 7
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+js01400
+  rotate: false
+  xy: 2, 4
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 105, 117
+  size: 37, 29
+  orig: 37, 31
+  offset: 0, 2
+  index: -1
+js01500
+  rotate: false
+  xy: 49, 7
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 225, 203
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+js01600
+  rotate: true
+  xy: 197, 61
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 106, 9
+  size: 11, 11
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 137, 252
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 142, 263
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+js020
+  rotate: false
+  xy: 244, 197
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+js0200
+  rotate: false
+  xy: 105, 22
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+js021
+  rotate: false
+  xy: 124, 5
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 113, 5
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+js023
+  rotate: false
+  xy: 187, 266
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+js027
+  rotate: false
+  xy: 186, 107
+  size: 10, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+js0300
+  rotate: false
+  xy: 67, 6
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+js0400
+  rotate: false
+  xy: 201, 136
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+js0500
+  rotate: false
+  xy: 137, 266
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+js0600
+  rotate: false
+  xy: 2, 147
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+js0800
+  rotate: true
+  xy: 2, 48
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+js0900
+  rotate: false
+  xy: 203, 202
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 132, 107
+  size: 13, 9
+  orig: 14, 11
+  offset: 0, 2
+  index: -1

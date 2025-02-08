@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n44_loj0" name="bgWear" xy="143,103" size="599,582" group="n48_loj0" url="ui://7cvz7rmmloj0vv2d"/>
+    <image id="n7_532a" name="n7" src="loj0136" fileName="img/sx01_di.png" xy="14,145" group="n48_loj0"/>
+    <image id="n12_532a" name="n12" src="loj0137" fileName="img/cangku_frame.png" xy="0,681" size="750,229" group="n48_loj0"/>
+    <image id="n13_532a" name="n13" src="loj012w" fileName="img/cell_1.png" xy="42,729" size="46,137" group="n48_loj0" alpha="0.2"/>
+    <image id="n14_532a" name="n14" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="139,721" size="571,168" group="n48_loj0" alpha="0.14"/>
+    <component id="n32_532a" name="btnBox" src="loj012q" fileName="component/PetDungeonToyBoxBtn.xml" xy="10,992" group="n48_loj0"/>
+    <component id="n34_532a" name="btnDel" src="loj012z" fileName="component/PetDungeonToyDelBtn.xml" xy="650,1035" group="n48_loj0"/>
+    <list id="n40_loj0" name="listToy" xy="149,676" size="550,240" group="n48_loj0" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="10" defaultItem="ui://390d39d8loj012r" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n46_loj0" name="listAttr" xy="24,161" size="150,200" group="n48_loj0" overflow="scroll" lineGap="6" defaultItem="ui://390d39d8loj012p" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n47_loj0" name="listCell" xy="257,159" size="372,372" group="n48_loj0" layout="flow_hz" overflow="scroll" scrollBarFlags="160" lineGap="3" colGap="3" defaultItem="ui://390d39d8loj012x">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n52_t1qh" name="cellContainer" src="t1qh13b" fileName="component/PetDungeonToyCellContainer.xml" xy="257,159" size="372,372" group="n48_loj0"/>
+    <text id="n31_532a" name="n31" xy="375,1034" pivot="0.5,0.5" anchor="true" size="321,29" group="n43_loj0" fontSize="20" color="#9edeff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="将玩具拖进补给箱，可获得玩具效果"/>
+    <text id="n41_loj0" name="n41" xy="375,1063" pivot="0.5,0.5" anchor="true" size="360,29" group="n43_loj0" fontSize="20" color="#9edeff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="将相同玩具拖进补给箱，可提升玩具等级"/>
+    <text id="n42_loj0" name="n42" xy="375,1092" pivot="0.5,0.5" anchor="true" size="321,29" group="n43_loj0" fontSize="20" color="#9edeff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="将玩具拖进右侧废弃区，可丢弃玩具"/>
+    <group id="n43_loj0" name="gTip" xy="195,1020" size="360,87" group="n48_loj0" advanced="true" layout="vt" excludeInvisibles="true"/>
+    <text id="n6_532a" name="n6" xy="440,113" pivot="0.5,0.5" anchor="true" size="147,64" group="n48_loj0" fontSize="48" color="#c6fcfc" align="center" vAlign="middle" strokeColor="#102963" strokeSize="3" text="补给箱"/>
+    <text id="n20_532a" name="n20" xy="64,798" pivot="0.5,0.5" anchor="true" size="30,136" group="n48_loj0" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" strokeColor="#0b127e" strokeSize="2" text="物资仓库"/>
+    <text id="n50_t1qh" name="lbNoneTip" xy="424,805" pivot="0.5,0.5" anchor="true" size="313,34" group="n48_loj0" fontSize="24" color="#ffffff" text="进行次元裂隙挑战可获得玩具"/>
+    <group id="n48_loj0" name="gAll" xy="0,81" size="750,1070" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n45_loj0" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n49_t1qh" name="dragComp" src="t1qh13a" fileName="component/PetDungeonToyDragComp.xml" xy="0,0">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+</component>

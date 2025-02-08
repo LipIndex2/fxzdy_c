@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334" designImage="ui://7q3fcj1kgvuzsa5">
+  <displayList>
+    <loader id="n45_jhsh" name="banner" xy="374,951" pivot="0.5,1" anchor="true" size="649,649" group="n41_e6dc" url="ui://7q3fcj1kgvuzsa2" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <component id="n66_gvuz" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,796" pivot="0.5,1" anchor="true" group="n65_gvuz"/>
+    <component id="n67_gvuz" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="374,833" pivot="0.5,0.5" anchor="true" size="226,96" group="n65_gvuz" aspect="true"/>
+    <text id="n68_gvuz" name="lbName" xy="374,901" pivot="0.5,0.5" anchor="true" size="170,34" group="n65_gvuz" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="玩家名字六个字"/>
+    <group id="n65_gvuz" name="gPlayer" xy="261,785" size="226,133" group="n41_e6dc" advanced="true"/>
+    <component id="n69_gvuz" name="bubble" src="gvuzf" fileName="component/ActivityAutoPopRankSettleBubble.xml" xy="471,565" pivot="0,1" anchor="true" size="84,84" group="n41_e6dc" visible="false"/>
+    <image id="n74_v93u" name="bgTitle" src="v93uh" fileName="img/bg_title.png" xy="379,386" pivot="0.5,0.5" anchor="true" size="436,79" group="n75_v93u"/>
+    <text id="n73_v93u" name="lbTitle" xy="379,387" pivot="0.5,0.5" anchor="true" size="360,79" group="n75_v93u" fontSize="60" color="#ffffff" vAlign="middle" strokeColor="#14cfd4" strokeSize="3" shadowColor="#f148f8" shadowOffset="3,3" text="挂机冲榜冠军"/>
+    <group id="n75_v93u" name="n75" xy="161,346" size="436,80" group="n41_e6dc"/>
+    <group id="n41_e6dc" name="gAll" xy="49,302" size="649,649" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n54_jhsh" name="lbClose" xy="380,1188" pivot="0.5,0.5" anchor="true" size="170,34" fontSize="24" color="#fffefe" align="center" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Scale" target="n69_gvuz" value="0,0"/>
+    <item time="6" type="Scale" target="n69_gvuz" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

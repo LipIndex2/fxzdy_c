@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n17_qr2a" name="n17" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="53,265" size="643,877" group="n15_h90v"/>
+    <image id="n18_qr2a" name="n18" src="8qld1y" fileName="img/sd_A_common_tc1_frame_31.png" xy="52,265" size="643,877" group="n15_h90v" pkg="u3k6kdot"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="img/sd_A_common_tc2_frame_30.png" xy="76,352" size="596,763" group="n15_h90v" pkg="38fa8c75"/>
+    <image id="n2_be1a" name="n2" src="be1a40" fileName="img/zu130438kaobei.png" xy="76,351" group="n15_h90v"/>
+    <image id="n3_be1a" name="n3" src="be1a49" fileName="img/sd_A_common_liaotian_frame_68.png" xy="188,808" group="n15_h90v" alpha="0.38"/>
+    <text id="n5_be1a" name="n5" xy="308,289" size="131,44" group="n15_h90v" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="创建联盟"/>
+    <component id="n6_be1a" name="createBtn" src="h90v10a" fileName="btn/leagueCreateBtn.xml" xy="252,927" group="n15_h90v"/>
+    <component id="n10_be1a" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="281,397" group="n15_h90v"/>
+    <component id="n12_be1a" name="flagBtn" src="h90v10h" fileName="btn/flagSelectBtn.xml" xy="307,642" group="n15_h90v"/>
+    <text id="n16_h90v" name="nameTxt" xy="203,815" size="351,36" group="n15_h90v" fontSize="26" color="#718fbb" align="center" vAlign="middle" autoSize="none" singleLine="true" text="" input="true" prompt="请输入联盟名称"/>
+    <group id="n15_h90v" name="n15" xy="52,265" size="644,877" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

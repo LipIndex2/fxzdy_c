@@ -1,0 +1,167 @@
+
+skill011_hit_upper.png
+size: 435,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_GLOW
+  rotate: false
+  xy: 251, 604
+  size: 114, 114
+  orig: 150, 150
+  offset: 20, 20
+  index: -1
+effect/skill011_hit_0
+  rotate: false
+  xy: 349, 9
+  size: 41, 74
+  orig: 120, 180
+  offset: 40, 41
+  index: -1
+effect/skill011_hit_1
+  rotate: false
+  xy: 269, 2
+  size: 78, 123
+  orig: 120, 180
+  offset: 23, 22
+  index: -1
+effect/skill011_hit_2
+  rotate: false
+  xy: 269, 127
+  size: 90, 137
+  orig: 120, 180
+  offset: 18, 18
+  index: -1
+effect/skill011_hit_3
+  rotate: false
+  xy: 249, 388
+  size: 93, 155
+  orig: 120, 180
+  offset: 11, 12
+  index: -1
+effect/skill011_hit_4
+  rotate: false
+  xy: 169, 51
+  size: 98, 160
+  orig: 120, 180
+  offset: 9, 10
+  index: -1
+effect/skill011_hit_5
+  rotate: false
+  xy: 147, 382
+  size: 100, 161
+  orig: 120, 180
+  offset: 7, 10
+  index: -1
+effect/skill011_hit_6
+  rotate: true
+  xy: 2, 144
+  size: 101, 165
+  orig: 120, 180
+  offset: 6, 8
+  index: -1
+effect/skill011_hit_7
+  rotate: false
+  xy: 169, 213
+  size: 95, 167
+  orig: 120, 180
+  offset: 4, 8
+  index: -1
+effect/skill011_hit_8
+  rotate: false
+  xy: 154, 545
+  size: 95, 168
+  orig: 120, 180
+  offset: 4, 7
+  index: -1
+effect/skill011_hit_lizi_0
+  rotate: false
+  xy: 367, 658
+  size: 50, 60
+  orig: 200, 200
+  offset: 70, 55
+  index: -1
+effect/skill011_hit_lizi_1
+  rotate: false
+  xy: 344, 415
+  size: 70, 82
+  orig: 200, 200
+  offset: 60, 45
+  index: -1
+effect/skill011_hit_lizi_10
+  rotate: false
+  xy: 399, 140
+  size: 34, 137
+  orig: 200, 200
+  offset: 148, 58
+  index: -1
+effect/skill011_hit_lizi_11
+  rotate: false
+  xy: 392, 11
+  size: 28, 72
+  orig: 200, 200
+  offset: 155, 124
+  index: -1
+effect/skill011_hit_lizi_12
+  rotate: false
+  xy: 251, 591
+  size: 10, 11
+  orig: 200, 200
+  offset: 161, 186
+  index: -1
+effect/skill011_hit_lizi_2
+  rotate: false
+  xy: 344, 499
+  size: 89, 103
+  orig: 200, 200
+  offset: 51, 36
+  index: -1
+effect/skill011_hit_lizi_3
+  rotate: false
+  xy: 266, 266
+  size: 105, 120
+  orig: 200, 200
+  offset: 43, 29
+  index: -1
+effect/skill011_hit_lizi_4
+  rotate: true
+  xy: 2, 22
+  size: 120, 136
+  orig: 200, 200
+  offset: 36, 22
+  index: -1
+effect/skill011_hit_lizi_5
+  rotate: true
+  xy: 2, 247
+  size: 133, 150
+  orig: 200, 200
+  offset: 29, 16
+  index: -1
+effect/skill011_hit_lizi_6
+  rotate: false
+  xy: 2, 382
+  size: 143, 163
+  orig: 200, 200
+  offset: 25, 11
+  index: -1
+effect/skill011_hit_lizi_7
+  rotate: false
+  xy: 2, 547
+  size: 150, 171
+  orig: 200, 200
+  offset: 23, 9
+  index: -1
+effect/skill011_hit_lizi_8
+  rotate: false
+  xy: 361, 85
+  size: 36, 179
+  orig: 200, 200
+  offset: 141, 7
+  index: -1
+effect/skill011_hit_lizi_9
+  rotate: false
+  xy: 373, 279
+  size: 36, 134
+  orig: 200, 200
+  offset: 144, 57
+  index: -1

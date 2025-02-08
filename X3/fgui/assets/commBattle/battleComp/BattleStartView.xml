@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n1_jy2z" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" xy="374,636" pkg="38fa8c75">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="t"/>
+</component>

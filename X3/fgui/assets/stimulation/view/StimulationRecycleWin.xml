@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n33_str8" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="34,299" size="682,690" group="n30_str8"/>
+    <image id="n0_4651" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="34,299" size="682,690" group="n30_str8"/>
+    <image id="n1_4651" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,391" size="638,406" group="n30_str8"/>
+    <image id="n7_4651" name="n7" src="465132" fileName="img/touxiang.png" xy="130,434" group="n30_str8"/>
+    <image id="n14_4651" name="n14" src="465136" fileName="img/shuliangdi.png" xy="234,707" group="n30_str8"/>
+    <image id="n12_4651" name="n12" src="str8vvv1hm" fileName="btnImage/jt01_icon.png" pkg="38fa8c75" xy="347,488" size="66,71" group="n30_str8"/>
+    <component id="n34_lupe" name="n34" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,992" group="n30_str8"/>
+    <text id="n2_4651" name="lbTitle" xy="375,344" pivot="0.5,0.5" anchor="true" size="131,44" group="n30_str8" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="矿石转换"/>
+    <text id="n13_4651" name="lbTip" xy="374,663" pivot="0.5,0.5" anchor="true" size="271,42" group="n30_str8" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="转换出瓦斯的数量："/>
+    <text id="n21_str8" name="inputCurCnt" xy="325,730" pivot="0.5,0.5" anchor="true" size="110,42" group="n30_str8" fontSize="30" color="#93c8ff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="100" input="true" maxLength="3" keyboardType="4"/>
+    <component id="n22_str8" name="btnSub" src="oetqs91" fileName="btn/BtnJian1.xml" pkg="72zq62ea" xy="219,728" pivot="0.5,0.5" anchor="true" group="n30_str8"/>
+    <component id="n23_str8" name="btnAdd" src="oetqs90" fileName="btn/BtnJia1.xml" pkg="72zq62ea" xy="432,728" pivot="0.5,0.5" anchor="true" group="n30_str8"/>
+    <component id="n26_str8" name="btnMax" src="str8vvv1e4" fileName="btn/BtnZuiDa2.xml" pkg="72zq62ea" xy="517,728" pivot="0.5,0.5" anchor="true" group="n30_str8"/>
+    <component id="n27_str8" name="btnRecycle" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="222,828" group="n30_str8" scale="0.9,0.9"/>
+    <component id="n28_str8" name="itemCost" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="211,472" group="n30_str8"/>
+    <component id="n29_str8" name="itemReward" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="438,472" group="n30_str8"/>
+    <group id="n30_str8" name="gAll" xy="34,299" size="682,783" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n31_str8" name="headerCost" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="438,38">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n32_str8" name="headerReward" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="579,38">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

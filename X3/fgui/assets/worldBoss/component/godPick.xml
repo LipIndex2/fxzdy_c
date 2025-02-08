@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="323,85" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n30_d6aa" name="n30" src="d6aa18" fileName="img/sd_A_common_liaotian_frame.png" xy="0,0" alpha="0.2"/>
+    <image id="n32_d6aa" name="n32" src="d6aa19" fileName="img/scale_80%_qian8_icon.png" xy="19,2"/>
+    <richtext id="n33_uug0" name="n33" xy="105,13" size="165,69" fontSize="22" color="#ffffff" ubb="true" autoSize="none" text="排名前8名玩家可进入[color=#00ff00]神选名单[/color]"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

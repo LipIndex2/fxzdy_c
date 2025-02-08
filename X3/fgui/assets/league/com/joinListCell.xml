@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,150">
+  <controller name="state" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="加入"/>
+    <remark page="1" value="申请"/>
+    <remark page="2" value="已满"/>
+    <remark page="3" value="已申请"/>
+  </controller>
+  <displayList>
+    <image id="n6_be1a" name="n6" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149" group="n21_h90v"/>
+    <text id="n7_be1a" name="nameLb" xy="224,37" size="143,39" group="n21_h90v" fontSize="28" color="#ffffff" strokeColor="#000000" strokeSize="2" text="天河小分队"/>
+    <text id="n8_be1a" name="lvLb" xy="132,40" size="80,39" group="n21_h90v" fontSize="28" color="#ffe57c" strokeColor="#000000" strokeSize="2" text="Lv.12"/>
+    <text id="n9_be1a" name="n9" xy="131,87" size="91,32" group="n21_h90v" fontSize="22" color="#ffffff" strokeColor="#000000" strokeSize="2" text="活跃度："/>
+    <text id="n10_be1a" name="activeLb" xy="224,89" size="57,32" group="n21_h90v" fontSize="22" color="#92ff87" strokeColor="#000000" strokeSize="2" text="3600"/>
+    <component id="n11_be1a" name="joinBtn" src="h90v10d" fileName="btn/joinBtn.xml" xy="494,56" size="161,73" group="n21_h90v">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <text id="n13_be1a" name="memberLab" xy="558,23" size="68,32" group="n21_h90v" fontSize="22" color="#ffffff" strokeColor="#112b6c" strokeSize="2" text="14/30"/>
+    <image id="n14_be1a" name="n14" src="be1a84" fileName="img/sd_A_common_jnmb_frame.png" xy="26,24" size="94,104" group="n21_h90v" alpha="0.4"/>
+    <image id="n17_be1a" name="n17" src="be1a88" fileName="img/duiwu_icon.png" xy="526,22" size="31,26" group="n21_h90v"/>
+    <component id="n16_be1a" name="apllyBtn" src="h90v10c" fileName="btn/applyBtn.xml" xy="494,56" group="n21_h90v">
+      <gearDisplay controller="state" pages="1"/>
+    </component>
+    <text id="n19_be1a" name="n19" xy="545,68" size="71,46" group="n21_h90v" fontSize="34" color="#abc6fd" strokeColor="#010a20" strokeSize="2" text="已满">
+      <gearDisplay controller="state" pages="2"/>
+    </text>
+    <component id="n20_h90v" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="32,30" size="188,214" group="n21_h90v" scale="0.45,0.45"/>
+    <component id="n22_h90v" name="hadApply" src="h90v10c" fileName="btn/applyBtn.xml" xy="494,56" group="n21_h90v" grayed="true">
+      <gearDisplay controller="state" pages="3"/>
+      <Button title="已申请"/>
+    </component>
+    <group id="n21_h90v" name="n21" xy="0,0" size="710,244" advanced="true"/>
+  </displayList>
+</component>

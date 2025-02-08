@@ -1,0 +1,76 @@
+
+attack_bullet.png
+size: 110,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xiaozhao_02_00000
+  rotate: false
+  xy: 2, 79
+  size: 105, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00001
+  rotate: false
+  xy: 2, 92
+  size: 106, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00002
+  rotate: false
+  xy: 2, 105
+  size: 105, 13
+  orig: 110, 16
+  offset: 3, 3
+  index: -1
+images/xiaozhao_02_00003
+  rotate: false
+  xy: 2, 27
+  size: 102, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00004
+  rotate: false
+  xy: 2, 53
+  size: 103, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00005
+  rotate: false
+  xy: 2, 66
+  size: 105, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00006
+  rotate: false
+  xy: 2, 120
+  size: 106, 14
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00007
+  rotate: false
+  xy: 2, 2
+  size: 105, 10
+  orig: 110, 16
+  offset: 3, 3
+  index: -1
+images/xiaozhao_02_00008
+  rotate: false
+  xy: 2, 14
+  size: 102, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1
+images/xiaozhao_02_00009
+  rotate: false
+  xy: 2, 40
+  size: 103, 11
+  orig: 110, 16
+  offset: 3, 2
+  index: -1

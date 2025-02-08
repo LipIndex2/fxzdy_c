@@ -1,0 +1,321 @@
+
+skill02_upper.png
+size: 578,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huofu_huo2_00000
+  rotate: false
+  xy: 357, 522
+  size: 30, 19
+  orig: 102, 52
+  offset: 2, 17
+  index: -1
+effect/huofu_huo2_00001
+  rotate: true
+  xy: 540, 214
+  size: 46, 36
+  orig: 102, 52
+  offset: 2, 7
+  index: -1
+effect/huofu_huo2_00002
+  rotate: true
+  xy: 509, 622
+  size: 70, 38
+  orig: 102, 52
+  offset: 3, 4
+  index: -1
+effect/huofu_huo2_00003
+  rotate: true
+  xy: 417, 638
+  size: 90, 41
+  orig: 102, 52
+  offset: 5, 3
+  index: -1
+effect/huofu_huo2_00004
+  rotate: false
+  xy: 388, 61
+  size: 91, 42
+  orig: 102, 52
+  offset: 8, 3
+  index: -1
+effect/huofu_huo2_00005
+  rotate: false
+  xy: 388, 15
+  size: 86, 44
+  orig: 102, 52
+  offset: 14, 4
+  index: -1
+effect/huofu_huo2_00006
+  rotate: true
+  xy: 481, 74
+  size: 72, 43
+  orig: 102, 52
+  offset: 28, 6
+  index: -1
+effect/huofu_huo2_00007
+  rotate: true
+  xy: 493, 148
+  size: 64, 46
+  orig: 102, 52
+  offset: 36, 4
+  index: -1
+effect/huofu_huo2_00008
+  rotate: false
+  xy: 526, 483
+  size: 43, 47
+  orig: 102, 52
+  offset: 49, 4
+  index: -1
+effect/huofu_huo2_00009
+  rotate: false
+  xy: 526, 532
+  size: 38, 45
+  orig: 102, 52
+  offset: 53, 5
+  index: -1
+effect/huofu_huo2_00010
+  rotate: false
+  xy: 389, 519
+  size: 15, 22
+  orig: 102, 52
+  offset: 58, 6
+  index: -1
+effect/huofu_huo2_00011
+  rotate: false
+  xy: 357, 513
+  size: 8, 7
+  orig: 102, 52
+  offset: 62, 7
+  index: -1
+effect/huofu_huo3_00000
+  rotate: false
+  xy: 541, 176
+  size: 10, 20
+  orig: 58, 80
+  offset: 44, 4
+  index: -1
+effect/huofu_huo3_00001
+  rotate: false
+  xy: 541, 130
+  size: 29, 44
+  orig: 58, 80
+  offset: 25, 4
+  index: -1
+effect/huofu_huo3_00002
+  rotate: false
+  xy: 526, 426
+  size: 41, 55
+  orig: 58, 80
+  offset: 14, 4
+  index: -1
+effect/huofu_huo3_00003
+  rotate: false
+  xy: 520, 279
+  size: 43, 59
+  orig: 58, 80
+  offset: 12, 4
+  index: -1
+effect/huofu_huo3_00004
+  rotate: false
+  xy: 493, 214
+  size: 45, 63
+  orig: 58, 80
+  offset: 10, 4
+  index: -1
+effect/huofu_huo3_00005
+  rotate: false
+  xy: 481, 8
+  size: 47, 64
+  orig: 58, 80
+  offset: 8, 5
+  index: -1
+effect/huofu_huo3_00006
+  rotate: false
+  xy: 477, 512
+  size: 47, 66
+  orig: 58, 80
+  offset: 8, 5
+  index: -1
+effect/huofu_huo3_00007
+  rotate: false
+  xy: 471, 372
+  size: 46, 69
+  orig: 58, 80
+  offset: 7, 6
+  index: -1
+effect/huofu_huo3_00008
+  rotate: false
+  xy: 460, 630
+  size: 47, 68
+  orig: 58, 80
+  offset: 6, 7
+  index: -1
+effect/huofu_huo3_00009
+  rotate: false
+  xy: 471, 302
+  size: 47, 68
+  orig: 58, 80
+  offset: 6, 8
+  index: -1
+effect/huofu_huo3_00010
+  rotate: false
+  xy: 477, 443
+  size: 47, 67
+  orig: 58, 80
+  offset: 5, 9
+  index: -1
+effect/huofu_huo3_00011
+  rotate: false
+  xy: 526, 74
+  size: 44, 54
+  orig: 58, 80
+  offset: 5, 22
+  index: -1
+effect/huofu_huo3_00012
+  rotate: false
+  xy: 530, 17
+  size: 40, 55
+  orig: 58, 80
+  offset: 5, 23
+  index: -1
+effect/huofu_huoquan1_00000
+  rotate: false
+  xy: 324, 515
+  size: 31, 26
+  orig: 250, 120
+  offset: 59, 40
+  index: -1
+effect/huofu_huoquan1_00001
+  rotate: false
+  xy: 477, 580
+  size: 70, 40
+  orig: 250, 120
+  offset: 60, 25
+  index: -1
+effect/huofu_huoquan1_00002
+  rotate: true
+  xy: 417, 482
+  size: 146, 58
+  orig: 250, 120
+  offset: 63, 21
+  index: -1
+effect/huofu_huoquan1_00003
+  rotate: true
+  xy: 415, 148
+  size: 152, 76
+  orig: 250, 120
+  offset: 55, 19
+  index: -1
+effect/huofu_huoquan1_00004
+  rotate: false
+  xy: 226, 2
+  size: 160, 79
+  orig: 250, 120
+  offset: 51, 17
+  index: -1
+effect/huofu_huoquan1_00005
+  rotate: true
+  xy: 324, 543
+  size: 185, 91
+  orig: 250, 120
+  offset: 38, 13
+  index: -1
+effect/huofu_huoquan1_00006
+  rotate: true
+  xy: 322, 105
+  size: 195, 91
+  orig: 250, 120
+  offset: 32, 12
+  index: -1
+effect/huofu_huoquan1_00007
+  rotate: true
+  xy: 322, 302
+  size: 204, 93
+  orig: 250, 120
+  offset: 27, 12
+  index: -1
+effect/huofu_huoquan1_00008
+  rotate: false
+  xy: 2, 9
+  size: 222, 96
+  orig: 250, 120
+  offset: 16, 10
+  index: -1
+effect/huofu_huoquan1_00009
+  rotate: false
+  xy: 2, 107
+  size: 223, 98
+  orig: 250, 120
+  offset: 16, 9
+  index: -1
+effect/huofu_huoquan1_00010
+  rotate: false
+  xy: 2, 310
+  size: 226, 100
+  orig: 250, 120
+  offset: 14, 8
+  index: -1
+effect/huofu_huoquan1_00011
+  rotate: false
+  xy: 2, 412
+  size: 224, 103
+  orig: 250, 120
+  offset: 17, 6
+  index: -1
+effect/huofu_huoquan1_00012
+  rotate: false
+  xy: 2, 622
+  size: 226, 106
+  orig: 250, 120
+  offset: 16, 6
+  index: -1
+effect/huofu_huoquan1_00013
+  rotate: false
+  xy: 2, 207
+  size: 222, 101
+  orig: 250, 120
+  offset: 19, 12
+  index: -1
+effect/huofu_huoquan1_00014
+  rotate: false
+  xy: 2, 517
+  size: 228, 103
+  orig: 250, 120
+  offset: 13, 12
+  index: -1
+effect/huofu_huoquan1_00015
+  rotate: true
+  xy: 227, 83
+  size: 225, 93
+  orig: 250, 120
+  offset: 14, 20
+  index: -1
+effect/huofu_huoquan1_00016
+  rotate: true
+  xy: 232, 508
+  size: 220, 90
+  orig: 250, 120
+  offset: 18, 20
+  index: -1
+effect/huofu_huoquan1_00017
+  rotate: true
+  xy: 230, 314
+  size: 192, 81
+  orig: 250, 120
+  offset: 41, 27
+  index: -1
+effect/huofu_huoquan1_00018
+  rotate: true
+  xy: 417, 302
+  size: 178, 52
+  orig: 250, 120
+  offset: 40, 58
+  index: -1
+effect/huofu_huoquan1_00019
+  rotate: false
+  xy: 519, 372
+  size: 49, 52
+  orig: 250, 120
+  offset: 42, 58
+  index: -1

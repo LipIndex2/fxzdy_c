@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="513,76" pivot="0.5,0.5" anchor="true" opaque="false">
+  <displayList>
+    <image id="n4_pf1a" name="n4" src="pf1aa" fileName="img/pztubiao_frame.png" xy="61,12" pivot="0.5,0.5" size="390,52" alpha="0.8"/>
+    <text id="n7_pf1a" name="T_item" xy="167,21" pivot="0,0.5" size="132,34" group="n10_pf1a" fontSize="24" color="#ffffff" vAlign="middle" autoClearText="true" text="金币             "/>
+    <text id="n8_pf1a" name="T_num" xy="326,20" pivot="0,0.5" size="51,36" group="n10_pf1a" fontSize="26" color="#19df51" vAlign="middle" autoClearText="true" text="+50"/>
+    <loader id="n11_pf1a" name="img_item" xy="128,18" pivot="0.5,0.5" size="38,38" group="n10_pf1a" url="ui://38fa8c75j6z934" fill="scale" clearOnPublish="true"/>
+    <group id="n10_pf1a" name="n10" xy="128,18" size="252,38" advanced="true"/>
+  </displayList>
+</component>

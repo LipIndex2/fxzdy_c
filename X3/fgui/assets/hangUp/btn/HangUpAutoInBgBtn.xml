@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="159,118" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n55_nl4g" name="n55" src="nl4g15d" fileName="img/bantou.png" xy="11,20"/>
+    <image id="n51_1366" name="n51" src="nl4g15b" fileName="img/xiaotanjikaobei.png" xy="32,0"/>
+    <image id="n52_1366" name="bg" src="nl4g15c" fileName="img/anniu.png" xy="0,76"/>
+    <text id="n54_1366" name="labelTips" xy="7,83" pivot="0.5,0" size="141,32" fontSize="22" color="#dfeeff" align="center" vAlign="middle" autoSize="none" strokeColor="#082e7b" strokeSize="2" text="启用挂机托管"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

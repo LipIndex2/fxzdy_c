@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="172,47">
+  <controller name="c1" pages="0,普通,1,高级" selected="0"/>
+  <displayList>
+    <image id="n84_b7b6" name="n84" src="xebibc" fileName="frameImage/lb_tag.png" pkg="38fa8c75" xy="0,21" color="#0adfff">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0,1" values="#0adfff|#fff1b0"/>
+    </image>
+    <text id="n88_b7b6" name="T_desc" xy="24,13" size="104,34" fontSize="24" color="#d8f1ff" vAlign="middle" text="获得10张">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0" values="#d8f1ff,#000000" default="#fff5c4,#000000"/>
+    </text>
+    <loader id="n90_bezo" name="img_icon" xy="129,0" pivot="0.5,0.5" size="43,46" visible="false" autoSize="true">
+      <relation target="n88_b7b6" sidePair="left-right"/>
+    </loader>
+  </displayList>
+</component>

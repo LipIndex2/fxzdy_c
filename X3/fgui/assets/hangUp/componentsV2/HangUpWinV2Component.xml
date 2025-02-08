@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="558,344">
+  <controller name="haveRewardFlag" exported="true" pages="0,f,1,t" selected="0"/>
+  <displayList>
+    <image id="n0_pocb" name="bg" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="0,0" size="558,330"/>
+    <image id="n11_pocb" name="bgTitle" src="pocb14a" fileName="imgV2/sd_A_common_biaoti1_msg_6.png" xy="177,46"/>
+    <text id="n12_pocb" name="labelTitle" xy="189,51" pivot="0.5,0.5" size="179,36" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" autoSize="none" text="获得奖励"/>
+    <component id="n13_pocb" name="btnData" src="pocb150" fileName="btnV2/BtnDataV2.xml" xy="458,33"/>
+    <image id="n16_pocb" name="bgRewardItems" src="pocb148" fileName="imgV2/bantoudi_7.png" xy="24,111"/>
+    <list id="n19_pocb" name="itemList" xy="35,134" size="489,122" group="n20_pocb" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n20_pocb" name="n20" xy="35,134" size="489,122" advanced="true">
+      <gearDisplay controller="haveRewardFlag" pages="1"/>
+    </group>
+    <list id="n21_pocb" name="hangUpItemList" xy="29,117" size="496,140" group="n22_pocb" touchable="false" layout="flow_hz" overflow="scroll" scroll="horizontal" colGap="30" defaultItem="ui://556f0e8bpiwi138" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n22_pocb" name="noBigReward" xy="29,117" size="496,140" advanced="true">
+      <gearDisplay controller="haveRewardFlag" pages="0"/>
+    </group>
+    <text id="n24_qs4g" name="labelTips" xy="36,282" size="278,44" group="n28_qs4g" fontSize="26" color="#faf3e5" align="right" ubb="true" vars="true" autoSize="none" singleLine="true" text="{levelCount=3}{desc=关之后可领取}"/>
+    <text id="n25_qs4g" name="labelRewardCount" xy="355,282" size="150,44" group="n27_qs4g" fontSize="26" color="#faf3e5" ubb="true" vars="true" autoSize="none" singleLine="true" autoClearText="true" text="x100"/>
+    <loader id="n26_qs4g" name="imageNextNLevelReward" xy="334,296" pivot="0.5,0.5" anchor="true" size="48,48" group="n27_qs4g" url="ui://7q3fcj1kt6mg9" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <group id="n27_qs4g" name="n27" xy="310,272" size="195,54" group="n28_qs4g" advanced="true">
+      <relation target="n24_qs4g" sidePair="left-right"/>
+    </group>
+    <group id="n28_qs4g" name="levelTips" xy="36,272" size="469,54"/>
+  </displayList>
+</component>

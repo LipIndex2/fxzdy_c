@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="687,380">
+  <controller name="parityType" exported="true" pages="0,偶数,1,奇数" selected="1"/>
+  <controller name="lvUpStep" exported="true" pages="0,上,1,1to2,2,2to3" selected="0"/>
+  <controller name="haveBigTalentFlag" exported="true" pages="0,false,1,true" selected="1"/>
+  <displayList>
+    <component id="n34_kp1o" name="barSmallUp1" src="kp1o2c" fileName="components/TalentSmallBarComp.xml" xy="159,351" size="400,20" group="n43_kp1o" rotation="-90">
+      <gearDisplay controller="parityType" pages="1"/>
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n59_kp1o" name="barSmallUp2" src="kp1o2c" fileName="components/TalentSmallBarComp.xml" xy="446,351" size="400,20" group="n43_kp1o" rotation="-90">
+      <gearDisplay controller="parityType" pages="0"/>
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n57_kp1o" name="barSmall1" src="kp1o2c" fileName="components/TalentSmallBarComp.xml" xy="232,166" size="158,20" group="n43_kp1o">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n58_kp1o" name="barSmall2" src="kp1o2c" fileName="components/TalentSmallBarComp.xml" xy="384,166" size="158,20" group="n43_kp1o">
+      <ProgressBar max="100"/>
+    </component>
+    <group id="n43_kp1o" name="smallBar" xy="-41,156" size="687,205"/>
+    <component id="n60_kp1o" name="barBig" src="kp1o2c" fileName="components/TalentSmallBarComp.xml" xy="600,651" size="987,20" group="n55_kp1o" visible="false" rotation="90">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <group id="n55_kp1o" name="big" xy="106,641" size="987,20"/>
+    <component id="n18_8528" name="tipsComp" src="kp1o28" fileName="components/TalentTipsComp.xml" xy="47,165" group="n56_kp1o"/>
+    <component id="n9_8528" name="talentSmall1" src="kp1o25" fileName="components/TalentSmallLvUpItemComp.xml" xy="160,162" group="n56_kp1o"/>
+    <component id="n36_kp1o" name="talentSmall2" src="kp1o25" fileName="components/TalentSmallLvUpItemComp.xml" xy="308,160" group="n56_kp1o"/>
+    <component id="n37_kp1o" name="talentSmall3" src="kp1o25" fileName="components/TalentSmallLvUpItemComp.xml" xy="450,162" group="n56_kp1o"/>
+    <component id="n15_8528" name="talentBig" src="kp1o29" fileName="components/TalentBigLvUpItemComp.xml" xy="600,158" group="n56_kp1o">
+      <gearDisplay controller="haveBigTalentFlag" pages="1"/>
+    </component>
+    <group id="n56_kp1o" name="talent" xy="4,81" size="663,154"/>
+  </displayList>
+</component>

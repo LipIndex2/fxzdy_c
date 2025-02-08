@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n58_loj0" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="63,143" size="619,1023" group="n57_loj0"/>
+    <image id="n0_f430" name="n0" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="63,143" size="619,1023" group="n57_loj0"/>
+    <image id="n1_f430" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="85,573" size="572,204" group="n57_loj0"/>
+    <image id="n2_f430" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="85,797" size="572,204" group="n57_loj0"/>
+    <image id="n3_f430" name="n3" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="248,584" size="247,41" group="n57_loj0" color="#2a3e71"/>
+    <image id="n7_f430" name="n7" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="248,810" size="246,39" group="n57_loj0" color="#2a3e71"/>
+    <text id="n8_f430" name="n8" xy="367,831" pivot="0.5,0.5" anchor="true" size="107,36" group="n57_loj0" fontSize="26" color="#fefefe" align="center" vAlign="middle" text="关卡奖励"/>
+    <text id="n27_f430" name="n27" xy="369,189" pivot="0.5,0.5" anchor="true" size="131,44" group="n57_loj0" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="关卡信息"/>
+    <list id="n34_loj0" name="listCond" xy="241,647" size="300,101" group="n57_loj0" overflow="scroll" scrollBarFlags="128" lineGap="7" defaultItem="ui://17246473loj011c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n36_loj0" name="bgEnemySchema" xy="87,239" size="570,313" group="n43_loj0" url="ui://7cvz7rmmwoygvv27"/>
+    <component id="n37_loj0" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="145,405" group="n43_loj0"/>
+    <component id="n38_loj0" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="236,459" group="n43_loj0"/>
+    <component id="n39_loj0" name="modelNode3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="326,406" group="n43_loj0"/>
+    <component id="n40_loj0" name="modelNode4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="416,459" group="n43_loj0"/>
+    <component id="n41_loj0" name="modelNode5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="506,406" group="n43_loj0"/>
+    <component id="n42_loj0" name="modelNode6" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="597,459" group="n43_loj0"/>
+    <group id="n43_loj0" name="hero" xy="87,239" size="570,313" group="n57_loj0"/>
+    <list id="n45_loj0" name="listReward" xy="125,864" size="500,120" group="n57_loj0" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://38fa8c75r58c12p" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n51_loj0" name="star1" src="loj011b" fileName="component/CollectiblesDungeonStar.xml" xy="303,586" group="n57_loj0"/>
+    <component id="n52_loj0" name="star2" src="loj011b" fileName="component/CollectiblesDungeonStar.xml" xy="354,586" group="n57_loj0"/>
+    <component id="n53_loj0" name="star3" src="loj011b" fileName="component/CollectiblesDungeonStar.xml" xy="405,586" group="n57_loj0"/>
+    <loader id="n54_loj0" name="bgPower" xy="264,513" size="361,75" group="n56_loj0" scale="0.6,0.6" url="ui://38fa8c75tml513a" fill="scaleFree"/>
+    <text id="n55_loj0" name="labelPower" xy="310,516" size="168,39" group="n56_loj0" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" singleLine="true" text="1234"/>
+    <group id="n56_loj0" name="power" xy="264,513" size="361,75" group="n57_loj0"/>
+    <component id="n47_loj0" name="btnChallenge" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="264,1030" size="219,94" group="n57_loj0">
+      <Button title="挑战" titleFontSize="34"/>
+    </component>
+    <group id="n57_loj0" name="gAll" xy="63,143" size="619,1023" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n50_loj0" name="n50" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="327,1171">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

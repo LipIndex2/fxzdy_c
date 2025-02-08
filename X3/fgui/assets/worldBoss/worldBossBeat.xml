@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_d6aa" name="n0" src="d6aa70" fileName="img/bantou_frame.png" xy="30,295" group="n51_e1fv"/>
+    <loader id="n37_uug0" name="bossSpine" xy="55,57" pivot="0.5,1" size="648,444" group="n51_e1fv" autoSize="true"/>
+    <image id="n2_d6aa" name="n2" src="d6aa72" fileName="img/sjboss3_frame.png" xy="29,501" group="n51_e1fv"/>
+    <image id="n3_d6aa" name="n3" src="d6aa73" fileName="img/sd_A_common_bossfydi_frame.png" xy="53,1038" group="n51_e1fv" alpha="0.54"/>
+    <image id="n54_h9s0" name="n54" src="h9s0156" fileName="img/icon_title.png" xy="374,505" pivot="0.5,0.5" anchor="true" group="n51_e1fv"/>
+    <text id="n14_d6aa" name="bossName" xy="302,162" pivot="0.5,0.5" size="162,54" group="n51_e1fv" fontSize="40" color="#ffdc50" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="蟑螂之主"/>
+    <list id="n36_uug0" name="playerList" xy="62,1055" size="621,185" group="n51_e1fv" layout="row" scroll="horizontal" colGap="19" defaultItem="ui://ee94a619uug013k">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n4_d6aa" name="n4" src="d6aa74" fileName="img/scale_90%_sd_A_common_biaoti1_msg.png" xy="176,114" group="n42_uug0"/>
+    <text id="n5_d6aa" name="n5" xy="228,119" size="153,42" group="n42_uug0" fontSize="30" color="#ffffff" text="击败时间："/>
+    <text id="n34_uug0" name="killTimeStr" xy="375,119" size="147,42" group="n42_uug0" fontSize="30" color="#ffffff" text="1天20小时"/>
+    <group id="n42_uug0" name="killTime" xy="176,114" size="402,46" group="n51_e1fv" advanced="true"/>
+    <component id="n15_d6aa" name="no2Com" src="e1fv14q" fileName="btn/No2Com.xml" xy="76,620" group="n51_e1fv"/>
+    <component id="n6_d6aa" name="no1Com" src="h90v151" fileName="btn/No1Com_1.xml" xy="301,602" group="n51_e1fv"/>
+    <component id="n21_d6aa" name="no3Com" src="e1fv14u" fileName="btn/No3Com.xml" xy="519,661" group="n51_e1fv"/>
+    <group id="n51_e1fv" name="n51" xy="29,57" size="691,1218" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

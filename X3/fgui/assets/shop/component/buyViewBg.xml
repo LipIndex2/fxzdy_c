@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="619,747" extention="Button">
+  <displayList>
+    <image id="n71_be41" name="n71" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="0,0" size="619,747" group="n101_uug0"/>
+    <image id="n72_be41" name="n72" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="22,89" size="572,441" group="n101_uug0"/>
+    <group id="n101_uug0" name="n101" xy="0,0" size="619,747" advanced="true"/>
+  </displayList>
+  <Button/>
+</component>

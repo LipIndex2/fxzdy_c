@@ -1,0 +1,69 @@
+
+yangjian_skill02_upper.png
+size: 1067,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_daoguang1_00000
+  rotate: true
+  xy: 715, 2
+  size: 174, 218
+  orig: 560, 560
+  offset: 19, 310
+  index: -1
+effect/skill02_daoguang1_00001
+  rotate: true
+  xy: 715, 2
+  size: 174, 218
+  orig: 560, 560
+  offset: 19, 310
+  index: -1
+effect/skill02_daoguang1_00002
+  rotate: true
+  xy: 310, 36
+  size: 125, 403
+  orig: 560, 560
+  offset: 6, 78
+  index: -1
+effect/skill02_daoguang1_00003
+  rotate: true
+  xy: 530, 558
+  size: 507, 450
+  orig: 560, 560
+  offset: 4, 6
+  index: -1
+effect/skill02_daoguang1_00004
+  rotate: false
+  xy: 2, 658
+  size: 526, 407
+  orig: 560, 560
+  offset: 21, 3
+  index: -1
+effect/skill02_daoguang1_00005
+  rotate: true
+  xy: 2, 137
+  size: 519, 306
+  orig: 560, 560
+  offset: 33, 108
+  index: -1
+effect/skill02_daoguang1_00006
+  rotate: true
+  xy: 2, 137
+  size: 519, 306
+  orig: 560, 560
+  offset: 33, 108
+  index: -1
+effect/skill02_daoguang1_00007
+  rotate: true
+  xy: 310, 163
+  size: 493, 215
+  orig: 560, 560
+  offset: 40, 212
+  index: -1
+effect/skill02_daoguang2
+  rotate: false
+  xy: 527, 178
+  size: 390, 378
+  orig: 400, 400
+  offset: 7, 5
+  index: -1

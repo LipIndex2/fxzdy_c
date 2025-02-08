@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="619,470">
+  <displayList>
+    <loader id="n0_8a38" name="bg" xy="0,0" size="619,470" group="n222_piwi" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <loader id="n1_8a38" name="fg" xy="22,89" size="572,204" group="n222_piwi" url="ui://38fa8c758qld1x" fill="scaleFree"/>
+    <richtext id="n2_8a38" name="labelContent" xy="26,151" size="563,36" group="n222_piwi" fontSize="26" color="#ddfbff" align="center" ubb="true" vars="true" autoSize="none" singleLine="true" text="是否开启[color=#66FF66]自动挑战[/color]模式"/>
+    <text id="n4_8a38" name="desc" xy="25,195" size="566,36" group="n222_piwi" fontSize="26" color="#ddfbff" align="center" ubb="true" vars="true" autoSize="none" singleLine="true" text="当前进度：{levelName=7-12}"/>
+    <text id="n9_8a38" name="title" xy="273,24" size="68,44" group="n222_piwi" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <component id="n223_wwsz" name="btnConfirm" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="343,323" group="n222_piwi">
+      <Button title="确认"/>
+    </component>
+    <component id="n224_wwsz" name="btnCancel" src="fsx56k" fileName="btn/BtnCancel.xml" pkg="38fa8c75" xy="54,324" group="n222_piwi">
+      <Button title="取消"/>
+    </component>
+    <group id="n222_piwi" name="n222" xy="0,0" size="619,470" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

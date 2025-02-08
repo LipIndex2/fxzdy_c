@@ -1,0 +1,69 @@
+
+chongwu_zhidangchong.png
+size: 400,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 340, 44
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 211, 49
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 300, 47
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 302, 236
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 2, 161
+  size: 220, 182
+  orig: 220, 185
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: 180
+  xy: 2, 3
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: 180
+  xy: 2, 80
+  size: 208, 87
+  orig: 209, 87
+  offset: 1, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 213, 133
+  size: 209, 87
+  orig: 209, 87
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 302, 81
+  size: 151, 97
+  orig: 151, 99
+  offset: 0, 1
+  index: -1

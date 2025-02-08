@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="558,344">
+  <displayList>
+    <image id="n0_pocb" name="bg" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="0,0" size="558,330"/>
+    <image id="n11_pocb" name="bgTitle" src="na348b" fileName="battle/img/sd_A_common_biaoti1_msg_6.png" xy="177,46"/>
+    <text id="n12_pocb" name="labelTitle" xy="189,51" pivot="0.5,0.5" size="179,36" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" autoSize="none" text="获得奖励"/>
+    <component id="n13_pocb" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="458,18"/>
+    <image id="n16_pocb" name="bgRewardItems" src="na348g" fileName="battle/img/bantoudi_7.png" xy="24,111"/>
+    <list id="n19_pocb" name="itemList" xy="35,134" size="489,122" group="n20_pocb" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n20_pocb" name="n20" xy="35,134" size="489,122" advanced="true"/>
+  </displayList>
+</component>

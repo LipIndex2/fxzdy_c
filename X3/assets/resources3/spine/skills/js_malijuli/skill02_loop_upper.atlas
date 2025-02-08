@@ -1,0 +1,258 @@
+
+skill02_loop_upper.png
+size: 992,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/02_bo_00000
+  rotate: false
+  xy: 2, 348
+  size: 111, 199
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00001
+  rotate: false
+  xy: 229, 349
+  size: 111, 198
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00002
+  rotate: false
+  xy: 685, 352
+  size: 110, 195
+  orig: 128, 200
+  offset: 4, 0
+  index: -1
+effect/02_bo_00003
+  rotate: false
+  xy: 644, 171
+  size: 113, 179
+  orig: 128, 200
+  offset: 3, 5
+  index: -1
+effect/02_bo_00004
+  rotate: false
+  xy: 179, 64
+  size: 113, 170
+  orig: 128, 200
+  offset: 3, 10
+  index: -1
+effect/02_bo_00005
+  rotate: true
+  xy: 456, 239
+  size: 112, 186
+  orig: 128, 200
+  offset: 3, 2
+  index: -1
+effect/02_bo_00006
+  rotate: false
+  xy: 570, 357
+  size: 113, 190
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00007
+  rotate: true
+  xy: 759, 127
+  size: 112, 177
+  orig: 128, 200
+  offset: 3, 6
+  index: -1
+effect/02_bo_00008
+  rotate: true
+  xy: 294, 52
+  size: 110, 155
+  orig: 128, 200
+  offset: 4, 17
+  index: -1
+effect/02_bo_00009
+  rotate: true
+  xy: 807, 15
+  size: 110, 165
+  orig: 128, 200
+  offset: 4, 12
+  index: -1
+effect/02_bo_00010
+  rotate: true
+  xy: 2, 122
+  size: 112, 175
+  orig: 128, 200
+  offset: 3, 7
+  index: -1
+effect/02_bo_00011
+  rotate: true
+  xy: 455, 125
+  size: 112, 177
+  orig: 128, 200
+  offset: 3, 6
+  index: -1
+effect/02_bo_00012
+  rotate: true
+  xy: 634, 14
+  size: 111, 171
+  orig: 128, 200
+  offset: 3, 9
+  index: -1
+effect/02_bo_00013
+  rotate: true
+  xy: 115, 236
+  size: 111, 187
+  orig: 128, 200
+  offset: 3, 1
+  index: -1
+effect/02_bo_00014
+  rotate: true
+  xy: 797, 241
+  size: 111, 191
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00015
+  rotate: false
+  xy: 342, 352
+  size: 112, 195
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00016
+  rotate: false
+  xy: 115, 350
+  size: 112, 197
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00017
+  rotate: false
+  xy: 456, 353
+  size: 112, 194
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00018
+  rotate: false
+  xy: 342, 164
+  size: 111, 186
+  orig: 128, 200
+  offset: 4, 2
+  index: -1
+effect/02_bo_00019
+  rotate: false
+  xy: 797, 354
+  size: 111, 193
+  orig: 128, 200
+  offset: 4, 0
+  index: -1
+effect/02_shandian_00000
+  rotate: false
+  xy: 294, 177
+  size: 45, 57
+  orig: 128, 80
+  offset: 39, 10
+  index: -1
+effect/02_shandian_00001
+  rotate: true
+  xy: 350, 3
+  size: 47, 61
+  orig: 128, 80
+  offset: 41, 8
+  index: -1
+effect/02_shandian_00002
+  rotate: false
+  xy: 574, 77
+  size: 57, 46
+  orig: 128, 80
+  offset: 44, 12
+  index: -1
+effect/02_shandian_00003
+  rotate: false
+  xy: 554, 6
+  size: 75, 58
+  orig: 128, 80
+  offset: 33, 12
+  index: -1
+effect/02_shandian_00004
+  rotate: false
+  xy: 759, 298
+  size: 30, 52
+  orig: 128, 80
+  offset: 24, 11
+  index: -1
+effect/02_shandian_00005
+  rotate: false
+  xy: 451, 2
+  size: 101, 62
+  orig: 128, 80
+  offset: 15, 10
+  index: -1
+effect/02_shandian_00006
+  rotate: false
+  xy: 2, 258
+  size: 58, 21
+  orig: 128, 80
+  offset: 33, 50
+  index: -1
+effect/02_shandian_00007
+  rotate: true
+  xy: 910, 443
+  size: 104, 61
+  orig: 128, 80
+  offset: 13, 10
+  index: -1
+effect/02_shandian_00008
+  rotate: false
+  xy: 2, 281
+  size: 109, 65
+  orig: 128, 80
+  offset: 8, 7
+  index: -1
+effect/02_shandian_00009
+  rotate: false
+  xy: 2, 61
+  size: 113, 59
+  orig: 128, 80
+  offset: 5, 12
+  index: -1
+effect/02_shandian_00010
+  rotate: false
+  xy: 2, 2
+  size: 94, 57
+  orig: 128, 80
+  offset: 27, 12
+  index: -1
+effect/02_shandian_00011
+  rotate: false
+  xy: 229, 3
+  size: 119, 47
+  orig: 128, 80
+  offset: 3, 13
+  index: -1
+effect/02_shandian_00012
+  rotate: true
+  xy: 938, 141
+  size: 98, 52
+  orig: 128, 80
+  offset: 25, 12
+  index: -1
+effect/02_shandian_00013
+  rotate: false
+  xy: 451, 66
+  size: 121, 57
+  orig: 128, 80
+  offset: 2, 13
+  index: -1
+effect/02_shandian_00014
+  rotate: false
+  xy: 117, 11
+  size: 110, 51
+  orig: 128, 80
+  offset: 4, 12
+  index: -1
+effect/02_ta
+  rotate: false
+  xy: 910, 366
+  size: 75, 75
+  orig: 80, 80
+  offset: 3, 2
+  index: -1

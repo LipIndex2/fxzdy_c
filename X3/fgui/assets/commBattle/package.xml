@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="u3tpmdwf">
+  <resources>
+    <component id="caj9vvv1d9" name="BattleBossHpBar.xml" path="/battleView/bar/" exported="true"/>
+    <component id="caj9vvv1de" name="BattleBossSmallPercentBar.xml" path="/battleView/bar/" exported="true"/>
+    <component id="qlkjvvv1eq" name="BattleBossHpBar2.xml" path="/battleView/bar/" exported="true"/>
+    <component id="ov08vvv1bu" name="CommonBattleAutoFightButton.xml" path="/battleView/btn/" exported="true"/>
+    <component id="ov08vvv1bl" name="CommonBattleLevelNameTipsComp.xml" path="/battleView/components/" exported="true"/>
+    <component id="ov08vvv1bx" name="CommonBattleUnitComp.xml" path="/battleView/components/" exported="true"/>
+    <component id="ov08vvv1by" name="CommonUpHeroMaskComp.xml" path="/battleView/components/" exported="true"/>
+    <component id="ov08vvv1c0" name="CommonBattleAutoTipsComp.xml" path="/battleView/components/" exported="true"/>
+    <component id="qjn0vvv1dn" name="CommonBattleTotalDamageComp.xml" path="/battleView/components/" exported="true"/>
+    <image id="caj9vvv1da" name="bossred_blood.png" path="/battleView/hp/img/" exported="true" scale="9grid" scale9grid="5,9,5,10" smoothing="false"/>
+    <image id="caj9vvv1db" name="mrboss_blood.png" path="/battleView/hp/img/" exported="true" scale="9grid" scale9grid="0,5,3,0"/>
+    <image id="caj9vvv1dh" name="qipao.png" path="/battleView/hp/img/" exported="true"/>
+    <image id="qlkjvvv1ep" name="sd_Gguajiguanqia_bossred_blood.png" path="/battleView/hp/img/" exported="true" scale="9grid" scale9grid="106,8,212,16"/>
+    <component id="caj9vvv1d3" name="BattleForDailyBossHpComp.xml" path="/battleView/hp/" exported="true"/>
+    <component id="caj9vvv1dg" name="BattleHpPercentDialogComp.xml" path="/battleView/hp/" exported="true"/>
+    <component id="qlkjvvv1eo" name="BattleCommonManyHpComp.xml" path="/battleView/hp/" exported="true"/>
+    <image id="ov08vvv1bm" name="sd_A_common_pz_frame_22.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bn" name="sd_A_common_pz_frame.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bp" name="gkndi_blood.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bq" name="gkndg_blood.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bs" name="gkndred_blood.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bt" name="VS_17.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bv" name="zidong_btn.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bw" name="zidongzhandou_frame.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1bz" name="tuceng877.png" path="/battleView/img/" exported="true"/>
+    <image id="ov08vvv1c1" name="zzidongtiaozhan.png" path="/battleView/img/" exported="true"/>
+    <image id="caj9vvv1d4" name="bossdi.png" path="/battleView/img/" exported="true"/>
+    <image id="caj9vvv1d5" name="bossyellow_blood.png" path="/battleView/img/" exported="true"/>
+    <image id="caj9vvv1d6" name="bossred_blood.png" path="/battleView/img/" exported="true"/>
+    <image id="caj9vvv1d7" name="bosstouxiang.png" path="/battleView/img/" exported="true"/>
+    <image id="caj9vvv1d8" name="tuceng757.png" path="/battleView/img/" exported="true"/>
+    <image id="qjn0vvv1dk" name="zsh_word.png" path="/battleView/img/" exported="true"/>
+    <image id="qjn0vvv1dl" name="zsh1_frame.png" path="/battleView/img/" exported="true"/>
+    <image id="qjn0vvv1dm" name="zsh_frame.png" path="/battleView/img/" exported="true"/>
+    <image id="f9dqvvv1gb" name="bt_frame.png" path="/battleView/img/"/>
+    <image id="f9dqvvv1gc" name="zu4kaobei.png" path="/battleView/img/"/>
+    <component id="ov08vvv1bo" name="CommonBattleLeftProgressBar.xml" path="/battleView/progressBar/" exported="true"/>
+    <component id="ov08vvv1br" name="CommonBattleRightProgressBar.xml" path="/battleView/progressBar/" exported="true"/>
+    <component id="ov08vvv1bk" name="CommonBattleView.xml" path="/battleView/" exported="true"/>
+    <component id="f9dqvvv1ga" name="CommonBattleBossComming.xml" path="/battleView/" exported="true"/>
+    <image id="jy2z14s" name="battleImage_shadow_big.png" path="/battleImage/" exported="true"/>
+    <image id="jy2z14t" name="battleImage_shadow_small.png" path="/battleImage/" exported="true"/>
+    <image id="jy2zv14z" name="battleImage_ellipse.png" path="/battleImage/" exported="true"/>
+    <image id="jy2zvvv18y" name="battleImage_rect.png" path="/battleImage/" exported="true" scale9grid="0,0,-15,-14"/>
+    <image id="w6zovvv1ea" name="battle_talk.png" path="/battleImage/" scale="9grid" scale9grid="57,16,9,9"/>
+    <image id="g840vvv1hu" name="battleImage_buff_img.png" path="/battleImage/" exported="true"/>
+    <image id="g840vvv1hv" name="battleImage_debuff_img.png" path="/battleImage/" exported="true"/>
+    <image id="12prhvvv1i8" name="battleImage_jiantou.png" path="/battleImage/"/>
+    <component id="jy2z14u" name="BattleShadowBigComp.xml" path="/battleComp/" exported="true"/>
+    <component id="jy2z14v" name="BattleShadowSmallComp.xml" path="/battleComp/" exported="true"/>
+    <component id="jy2zv14x" name="BattleChargeEllipseComp.xml" path="/battleComp/" exported="true"/>
+    <component id="jy2zv17p" name="BattleStartView.xml" path="/battleComp/"/>
+    <component id="jy2zvvv18z" name="BattleChargeRectComp.xml" path="/battleComp/"/>
+    <component id="n19gvvv1di" name="BattleDropIcon.xml" path="/battleComp/"/>
+    <component id="n19gvvv1dj" name="BattleDropNameComp.xml" path="/battleComp/"/>
+    <component id="w6zovvv1eb" name="BattleTalkComp.xml" path="/battleComp/"/>
+    <component id="pdp1vvv1fa" name="BattleBlackComp.xml" path="/battleComp/"/>
+    <component id="g840vvv1hw" name="BattleBuffAreaComp.xml" path="/battleComp/"/>
+    <component id="g840vvv1hx" name="BattleDebuffBuffAreaComp.xml" path="/battleComp/"/>
+    <component id="12prhvvv1i7" name="BattleChargeJianTou.xml" path="/battleComp/"/>
+    <component id="na3486" name="BtnBattleJump.xml" path="/battle/btn/" exported="true"/>
+    <component id="na348j" name="BtnContinueBattle.xml" path="/battle/btn/" exported="true"/>
+    <component id="na3485" name="CommonFailPanel.xml" path="/battle/components/" exported="true"/>
+    <component id="na348f" name="CommonWinPanel.xml" path="/battle/components/" exported="true"/>
+    <image id="na3487" name="sd_Ttubiao_zhujiemiantubiao_zhujiemian_0001.png" path="/battle/img/" exported="true"/>
+    <image id="na3488" name="zhujiemian_0002.png" path="/battle/img/" exported="true"/>
+    <image id="na3489" name="sd_Ttubiao_zhujiemiantubiao_zhujiemian_0003.png" path="/battle/img/" exported="true"/>
+    <image id="na348a" name="zhujiemian_0008.png" path="/battle/img/" exported="true"/>
+    <image id="na348b" name="sd_A_common_biaoti1_msg_6.png" path="/battle/img/" exported="true"/>
+    <image id="na348d" name="scale_80%_sd_Rrukoutubiao_rk0004_icon.png" path="/battle/img/" exported="true"/>
+    <image id="na348g" name="bantoudi_7.png" path="/battle/img/" exported="true"/>
+    <image id="na348i" name="icgoods_10002_39.png" path="/battle/img/" exported="true"/>
+    <image id="na348k" name="sd_A_common_changgui1_btn.png" path="/battle/img/" exported="true"/>
+    <image id="116zs8r" name="gk_bg.jpg" path="/battle/img/"/>
+    <component id="na3484" name="CommonBattleResultFailView.xml" path="/battle/" exported="true"/>
+    <component id="na348e" name="CommonBattleResultWinView.xml" path="/battle/" exported="true"/>
+    <component id="116zs8q" name="CommonChallengeView.xml" path="/battle/" exported="true"/>
+    <component id="qzovvvv1b4" name="BattleResultWin.xml" path="/battle/"/>
+    <image id="caj9vvv1dc" name="zu2.png" path="/battle/img/" exported="true"/>
+    <component id="oyzevvv1hy" name="BattleHeadMaskItem.xml" path="/battleComp/"/>
+    <component id="vet6vvv1hz" name="CommonBattleSkipFightButton.xml" path="/battleView/btn/"/>
+    <image id="vet6vvv1i0" name="ttiaoguoI.png" path="/battleView/img/"/>
+    <image id="vet6vvv1i1" name="tuceng877.png" path="/bgImage/"/>
+    <component id="vet6vvv1i2" name="CommonSkipBattleView.xml" path="/battleView/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

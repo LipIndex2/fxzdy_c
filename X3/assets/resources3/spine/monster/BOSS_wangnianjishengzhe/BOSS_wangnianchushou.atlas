@@ -1,0 +1,13 @@
+
+BOSS_wangnianchushou.png
+size: 54,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushou1
+  rotate: false
+  xy: 2, 3
+  size: 50, 175
+  orig: 50, 175
+  offset: 0, 0
+  index: -1

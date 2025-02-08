@@ -1,0 +1,20 @@
+
+zidan.png
+size: 52,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hj
+  rotate: false
+  xy: 2, 17
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+hjj
+  rotate: false
+  xy: 2, 2
+  size: 48, 13
+  orig: 50, 13
+  offset: 0, 0
+  index: -1

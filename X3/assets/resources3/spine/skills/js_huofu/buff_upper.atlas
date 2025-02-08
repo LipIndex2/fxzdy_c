@@ -1,0 +1,118 @@
+
+buff_upper.png
+size: 271,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/fire1_00000
+  rotate: false
+  xy: 77, 74
+  size: 37, 42
+  orig: 60, 60
+  offset: 12, 10
+  index: -1
+images/effect/fire1_00001
+  rotate: false
+  xy: 116, 74
+  size: 37, 42
+  orig: 60, 60
+  offset: 12, 11
+  index: -1
+images/effect/fire1_00002
+  rotate: false
+  xy: 2, 72
+  size: 36, 44
+  orig: 60, 60
+  offset: 13, 11
+  index: -1
+images/effect/fire1_00003
+  rotate: false
+  xy: 155, 72
+  size: 35, 44
+  orig: 60, 60
+  offset: 14, 12
+  index: -1
+images/effect/fire1_00004
+  rotate: false
+  xy: 192, 71
+  size: 34, 45
+  orig: 60, 60
+  offset: 14, 12
+  index: -1
+images/effect/fire1_00005
+  rotate: false
+  xy: 40, 71
+  size: 35, 45
+  orig: 60, 60
+  offset: 13, 12
+  index: -1
+images/effect/fire1_00006
+  rotate: true
+  xy: 124, 37
+  size: 33, 43
+  orig: 60, 60
+  offset: 14, 13
+  index: -1
+images/effect/fire1_00007
+  rotate: true
+  xy: 48, 6
+  size: 32, 42
+  orig: 60, 60
+  offset: 15, 12
+  index: -1
+images/effect/fire1_00008
+  rotate: true
+  xy: 2, 37
+  size: 32, 44
+  orig: 60, 60
+  offset: 15, 5
+  index: -1
+images/effect/fire1_00009
+  rotate: true
+  xy: 77, 40
+  size: 32, 45
+  orig: 60, 60
+  offset: 14, 4
+  index: -1
+images/effect/fire1_00010
+  rotate: true
+  xy: 2, 2
+  size: 33, 40
+  orig: 60, 60
+  offset: 13, 4
+  index: -1
+images/effect/fire1_00011
+  rotate: true
+  xy: 169, 35
+  size: 34, 40
+  orig: 60, 60
+  offset: 13, 5
+  index: -1
+images/effect/fire1_00012
+  rotate: true
+  xy: 211, 3
+  size: 32, 38
+  orig: 60, 60
+  offset: 15, 6
+  index: -1
+images/effect/fire1_00013
+  rotate: true
+  xy: 92, 2
+  size: 33, 39
+  orig: 60, 60
+  offset: 13, 7
+  index: -1
+images/effect/fire1_00014
+  rotate: true
+  xy: 228, 37
+  size: 35, 41
+  orig: 60, 60
+  offset: 12, 8
+  index: -1
+images/effect/fire1_00015
+  rotate: false
+  xy: 228, 74
+  size: 36, 42
+  orig: 60, 60
+  offset: 12, 9
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,240">
+  <displayList>
+    <graph id="n27_loj0" name="toyRect" xy="9,46" size="112,112"/>
+    <text id="n22_532a" name="lbLv" xy="82,128" pivot="1,1" size="39,29" fontSize="20" color="#ffffff" align="right" vAlign="middle" strokeColor="#011420" strokeSize="2" text="Lv1"/>
+    <richtext id="n26_loj0" name="lbAttr" xy="65,168" pivot="0.5,0" anchor="true" size="104,29" fontSize="20" color="#ffffff" align="center" ubb="true" strokeColor="#000000" strokeSize="2" text="暴击率[color=##1DE451]+1%[/color]"/>
+    <image id="n30_loj0" name="n30" src="loj012t" fileName="img/bg_bubble.png" xy="65,23" pivot="0.5,0.5" anchor="true" size="79,46" group="n33_loj0"/>
+    <text id="n32_loj0" name="lbTip" xy="64,18" pivot="0.5,0.5" anchor="true" size="63,29" group="n33_loj0" fontSize="20" color="#ce6c26" align="center" vAlign="middle" text="可升级"/>
+    <group id="n33_loj0" name="gTip" xy="25,0" size="79,46" advanced="true"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" tween="true" startValue="0" endValue="1" duration="18"/>
+  </transition>
+</component>

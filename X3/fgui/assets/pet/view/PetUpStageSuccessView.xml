@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kuvvcs80">
+  <displayList>
+    <loader id="n9_uvvc" name="bg" xy="-125,-146" size="1000,1626" url="ui://7cvz7rmmdclxx">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n25_lg0p" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="109,311" size="533,991" group="n24_lg0p"/>
+    <image id="n13_uvvc" name="n13" src="uvvc8i" fileName="img/sxcg_frame.png" xy="108,590" pivot="0.5,0" size="534,745" group="n24_lg0p"/>
+    <image id="n8_uvvc" name="n8" src="03e415" fileName="bgImage/gxhdbt_frame.png" pkg="38fa8c75" xy="235,90" group="n24_lg0p"/>
+    <image id="n10_uvvc" name="n10" src="6ihgvvv1e3" fileName="peiyang/dizuo.png" pkg="72zq62ea" xy="104,366" group="n24_lg0p"/>
+    <image id="n2_uvvc" name="n2" src="428343" fileName="img/dengji.png" xy="269,687" size="50,54" group="n24_lg0p"/>
+    <image id="n3_uvvc" name="n3" src="428343" fileName="img/dengji.png" xy="426,687" size="50,54" group="n24_lg0p"/>
+    <component id="n1_uvvc" name="close" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="231,997" size="304,122" group="n24_lg0p">
+      <Button title="太棒了"/>
+    </component>
+    <image id="n23_lg0p" name="n23" src="428372" fileName="img/map_building_305.png" xy="236,308" size="318,315" group="n24_lg0p" scale="0.8,0.8"/>
+    <text id="n4_uvvc" name="curLV" xy="276,696" pivot="0.5,0.5" size="35,36" group="n24_lg0p" fontSize="26" color="#ffffff" vAlign="middle" autoClearText="true" text="10"/>
+    <text id="n5_uvvc" name="nextLV" xy="433,696" pivot="0.5,0.5" size="35,36" group="n24_lg0p" fontSize="26" color="#ffffff" vAlign="middle" autoClearText="true" text="10"/>
+    <text id="n7_uvvc" name="name" xy="182,696" pivot="0.5,0.5" size="55,36" group="n24_lg0p" fontSize="26" color="#ffe792" vAlign="middle" text="等级"/>
+    <image id="n6_uvvc" name="n6" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="362,703" size="24,24" group="n24_lg0p"/>
+    <image id="n14_uvvc" name="n14" src="uvvc8j" fileName="img/shengJieChengGong.png" xy="248,83" group="n24_lg0p"/>
+    <list id="n21_uvvc" name="attUpList" xy="116,754" size="518,202" group="n24_lg0p" selectionMode="none" overflow="scroll" defaultItem="ui://00e7db15uvvc8l" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n24_lg0p" name="n24" xy="104,83" size="543,1252" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

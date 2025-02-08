@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="69,100" pivot="0.5,0.5" extention="Button" initName="lvUpTalentTips">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_db4z" name="n3" src="db4z4a" fileName="btn/img/keshengji.png" xy="2,-1"/>
+    <image id="n4_db4z" name="n4" src="db4z4b" fileName="btn/img/sd_Hhongdian_003_tag.png" xy="20,37"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="414,164">
+  <displayList>
+    <text id="n120_26a5" name="tipLabel1" xy="207,16" pivot="0.5,0.5" anchor="true" size="244,32" fontSize="22" color="#80e0ff" vAlign="middle" text="该阶段得满级强化效果："/>
+    <list id="n134_xwdv" name="attrList1" xy="0,45" size="414,124" lineGap="7" defaultItem="ui://69f29748xwdvvc8" align="center">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

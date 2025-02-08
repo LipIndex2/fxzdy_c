@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kkyqns8m">
+  <controller name="type" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <loader id="n63_kyqn" name="img_bg" xy="0,0" size="750,537" url="ui://d6f71f54kyqn4f" autoSize="true"/>
+    <image id="n65_kyqn" name="n65" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-154" size="750,232" color="#223f8f">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n1_523f" name="n1" src="523f1" fileName="img/sd_Kkaifuchongbang_hd_di01.png" xy="0,365" size="750,973">
+      <relation target="" sidePair="width-width,bottomext-bottom"/>
+    </image>
+    <text id="n25_523f" name="n25" xy="42,117" size="111,29" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <text id="n26_523f" name="T_restTime" xy="152,117" size="99,29" fontSize="20" color="#6aff63" vAlign="middle" text="5天30小时"/>
+    <text id="n56_kyqn" name="T_title1" xy="16,35" size="73,92" fontSize="70" color="#ffffff" vAlign="middle" italic="true" strokeColor="#46e8ed" shadowColor="#bb13b1" shadowOffset="3,3" text="道"/>
+    <text id="n55_kyqn" name="T_title2" xy="85,56" size="147,64" fontSize="48" color="#ffffff" vAlign="middle" italic="true" strokeColor="#46e8ed" shadowColor="#bb13b1" shadowOffset="4,4" text="具商店"/>
+    <component id="n33_523f" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="274,74"/>
+    <image id="n2_523f" name="n2" src="523f2" fileName="img/sd_Kkaifuchongbang_hd_di02.png" xy="10,404" size="729,779">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <list id="n54_kyqn" name="rowList" xy="31,424" size="705,734" overflow="scroll" lineGap="10" defaultItem="ui://d6f71f54kyqn46" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n66_kyqn" name="btn_jumpBlack" xy="488,308" size="243,42" group="n62_kyqn" url="ui://d6f71f54kyqn4e"/>
+    <group id="n62_kyqn" name="G_black" xy="488,308" size="243,42" advanced="true"/>
+    <component id="n64_kyqn" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="511,57"/>
+    <image id="n68_l63i" name="n68" src="l63i4g" fileName="img/wenzidi.png" xy="31,170"/>
+    <richtext id="n67_l63i" name="desLab1" xy="42,137" size="366,66" fontSize="50" color="#ffffff" vAlign="bottom" ubb="true" autoSize="height" text="[color=#23FDF1]黑市[/color][color=#FBEC75][size=50]不黑，[/size][/color]"/>
+    <richtext id="n69_l63i" name="desLab2" xy="124,204" size="300,66" fontSize="50" color="#ffffff" vAlign="bottom" ubb="true" autoSize="none" text="[color=#FBEC75][size=50]奇珍[/size][/color][color=#23FDF1]尽有！[/color]"/>
+  </displayList>
+</component>

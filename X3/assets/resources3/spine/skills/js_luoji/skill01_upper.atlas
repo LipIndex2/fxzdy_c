@@ -1,0 +1,230 @@
+
+skill01_upper.png
+size: 366,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 2, 612
+  size: 140, 140
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+effect/skill01_fadong2_0
+  rotate: false
+  xy: 278, 165
+  size: 72, 12
+  orig: 240, 80
+  offset: 67, 6
+  index: -1
+effect/skill01_fadong2_1
+  rotate: false
+  xy: 2, 2
+  size: 108, 45
+  orig: 240, 80
+  offset: 13, 7
+  index: -1
+effect/skill01_fadong2_2
+  rotate: false
+  xy: 2, 275
+  size: 153, 60
+  orig: 240, 80
+  offset: 12, 12
+  index: -1
+effect/skill01_fadong2_3
+  rotate: false
+  xy: 2, 275
+  size: 153, 60
+  orig: 240, 80
+  offset: 12, 12
+  index: -1
+effect/skill01_fadong2_4
+  rotate: false
+  xy: 2, 552
+  size: 218, 58
+  orig: 240, 80
+  offset: 12, 14
+  index: -1
+effect/skill01_fadong2_5
+  rotate: false
+  xy: 2, 434
+  size: 217, 56
+  orig: 240, 80
+  offset: 13, 17
+  index: -1
+effect/skill01_fadong2_6
+  rotate: false
+  xy: 2, 492
+  size: 213, 58
+  orig: 240, 80
+  offset: 17, 14
+  index: -1
+effect/skill01_fadong2_7
+  rotate: false
+  xy: 2, 385
+  size: 209, 47
+  orig: 240, 80
+  offset: 22, 12
+  index: -1
+effect/skill01_fadong2_8
+  rotate: false
+  xy: 2, 337
+  size: 207, 46
+  orig: 240, 80
+  offset: 22, 12
+  index: -1
+effect/skill01_fadong2_9
+  rotate: false
+  xy: 2, 227
+  size: 178, 46
+  orig: 240, 80
+  offset: 29, 11
+  index: -1
+effect/skill01_xishou_50_10
+  rotate: false
+  xy: 144, 612
+  size: 89, 89
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+effect/skill01_xishou_50_11
+  rotate: false
+  xy: 182, 246
+  size: 89, 89
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+effect/skill01_xishou_50_12
+  rotate: false
+  xy: 213, 337
+  size: 82, 94
+  orig: 100, 100
+  offset: 8, 4
+  index: -1
+effect/skill01_xishou_50_13
+  rotate: false
+  xy: 235, 622
+  size: 79, 94
+  orig: 100, 100
+  offset: 11, 5
+  index: -1
+effect/skill01_xishou_50_14
+  rotate: false
+  xy: 98, 133
+  size: 76, 92
+  orig: 100, 100
+  offset: 13, 6
+  index: -1
+effect/skill01_xishou_50_15
+  rotate: true
+  xy: 176, 87
+  size: 76, 88
+  orig: 100, 100
+  offset: 13, 8
+  index: -1
+effect/skill01_xishou_50_16
+  rotate: true
+  xy: 2, 69
+  size: 76, 88
+  orig: 100, 100
+  offset: 13, 8
+  index: -1
+effect/skill01_xishou_50_17
+  rotate: false
+  xy: 92, 49
+  size: 76, 82
+  orig: 100, 100
+  offset: 13, 10
+  index: -1
+effect/skill01_xishou_50_18
+  rotate: true
+  xy: 170, 9
+  size: 76, 77
+  orig: 100, 100
+  offset: 13, 12
+  index: -1
+effect/skill01_xishou_50_19
+  rotate: true
+  xy: 249, 9
+  size: 76, 75
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+effect/skill01_xishou_50_20
+  rotate: false
+  xy: 266, 88
+  size: 74, 75
+  orig: 100, 100
+  offset: 14, 13
+  index: -1
+effect/skill01_xishou_50_21
+  rotate: false
+  xy: 273, 262
+  size: 68, 73
+  orig: 100, 100
+  offset: 17, 14
+  index: -1
+effect/skill01_xishou_50_22
+  rotate: true
+  xy: 297, 363
+  size: 68, 67
+  orig: 100, 100
+  offset: 17, 17
+  index: -1
+effect/skill01_xishou_50_23
+  rotate: false
+  xy: 278, 192
+  size: 68, 68
+  orig: 100, 100
+  offset: 17, 16
+  index: -1
+effect/skill01_xishou_50_24
+  rotate: false
+  xy: 112, 21
+  size: 22, 26
+  orig: 100, 100
+  offset: 41, 40
+  index: -1
+effect/skill01_xishou_50_25
+  rotate: false
+  xy: 136, 27
+  size: 19, 20
+  orig: 100, 100
+  offset: 41, 42
+  index: -1
+effect/skill01_xishou_50_5
+  rotate: false
+  xy: 235, 524
+  size: 79, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+effect/skill01_xishou_50_6
+  rotate: false
+  xy: 235, 524
+  size: 79, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+effect/skill01_xishou_50_7
+  rotate: true
+  xy: 2, 147
+  size: 78, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+effect/skill01_xishou_50_8
+  rotate: true
+  xy: 182, 165
+  size: 79, 94
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+effect/skill01_xishou_50_9
+  rotate: false
+  xy: 221, 433
+  size: 86, 89
+  orig: 100, 100
+  offset: 2, 4
+  index: -1

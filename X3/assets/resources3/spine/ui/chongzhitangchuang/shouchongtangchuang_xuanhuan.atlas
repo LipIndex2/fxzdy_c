@@ -1,0 +1,55 @@
+
+shouchongtangchuang_xuanhuan.png
+size: 260,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_guangquan33
+  rotate: false
+  xy: 116, 27
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+baiguang1
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 132, 129
+  size: 78, 177
+  orig: 78, 177
+  offset: 0, 0
+  index: -1
+guangquanks05
+  rotate: false
+  xy: 2, 64
+  size: 112, 112
+  orig: 118, 118
+  offset: 3, 3
+  index: -1
+q2_00000
+  rotate: false
+  xy: 2, 308
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+szglow
+  rotate: false
+  xy: 2, 178
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xiaofk
+  rotate: false
+  xy: 64, 2
+  size: 27, 25
+  orig: 55, 25
+  offset: 28, 0
+  index: -1

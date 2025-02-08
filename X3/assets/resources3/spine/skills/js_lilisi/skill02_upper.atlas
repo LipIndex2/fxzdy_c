@@ -1,0 +1,258 @@
+
+skill02_upper.png
+size: 488,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_bianfu_00000
+  rotate: false
+  xy: 392, 8
+  size: 47, 30
+  orig: 50, 50
+  offset: 2, 17
+  index: -1
+effect/skill02_bianfu_00001
+  rotate: false
+  xy: 286, 6
+  size: 45, 34
+  orig: 50, 50
+  offset: 0, 16
+  index: -1
+effect/skill02_bianfu_00002
+  rotate: false
+  xy: 441, 7
+  size: 45, 31
+  orig: 50, 50
+  offset: 1, 16
+  index: -1
+effect/skill02_bianfu_00003
+  rotate: false
+  xy: 2, 9
+  size: 37, 25
+  orig: 50, 50
+  offset: 10, 8
+  index: -1
+effect/skill02_bianfu_00004
+  rotate: false
+  xy: 117, 161
+  size: 22, 36
+  orig: 50, 50
+  offset: 19, 1
+  index: -1
+effect/skill02_bianfu_00005
+  rotate: false
+  xy: 240, 2
+  size: 39, 37
+  orig: 50, 50
+  offset: 11, 0
+  index: -1
+effect/skill02_bianfu_00006
+  rotate: false
+  xy: 194, 6
+  size: 44, 33
+  orig: 50, 50
+  offset: 6, 6
+  index: -1
+effect/skill02_bianfu_00007
+  rotate: false
+  xy: 343, 5
+  size: 47, 36
+  orig: 50, 50
+  offset: 3, 6
+  index: -1
+effect/skill02_huo_00000
+  rotate: false
+  xy: 2, 36
+  size: 66, 30
+  orig: 100, 60
+  offset: 15, 2
+  index: -1
+effect/skill02_huo_00001
+  rotate: false
+  xy: 125, 16
+  size: 67, 27
+  orig: 100, 60
+  offset: 12, 2
+  index: -1
+effect/skill02_huo_00002
+  rotate: false
+  xy: 343, 43
+  size: 78, 33
+  orig: 100, 60
+  offset: 9, 2
+  index: -1
+effect/skill02_huo_00003
+  rotate: false
+  xy: 2, 68
+  size: 89, 37
+  orig: 100, 60
+  offset: 5, 2
+  index: -1
+effect/skill02_huo_00004
+  rotate: false
+  xy: 2, 107
+  size: 94, 39
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00005
+  rotate: false
+  xy: 98, 102
+  size: 94, 39
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00006
+  rotate: true
+  xy: 436, 136
+  size: 94, 40
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00007
+  rotate: true
+  xy: 445, 232
+  size: 94, 41
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00008
+  rotate: false
+  xy: 194, 97
+  size: 81, 44
+  orig: 100, 60
+  offset: 12, 2
+  index: -1
+effect/skill02_huo_00009
+  rotate: false
+  xy: 277, 97
+  size: 79, 44
+  orig: 100, 60
+  offset: 13, 2
+  index: -1
+effect/skill02_huo_00010
+  rotate: false
+  xy: 93, 56
+  size: 71, 44
+  orig: 100, 60
+  offset: 18, 2
+  index: -1
+effect/skill02_huo_00011
+  rotate: false
+  xy: 166, 45
+  size: 61, 50
+  orig: 100, 60
+  offset: 27, 2
+  index: -1
+effect/skill02_huo_00012
+  rotate: false
+  xy: 358, 85
+  size: 60, 56
+  orig: 100, 60
+  offset: 27, 2
+  index: -1
+effect/skill02_huo_00013
+  rotate: false
+  xy: 420, 78
+  size: 58, 56
+  orig: 100, 60
+  offset: 27, 2
+  index: -1
+effect/skill02_huo_00014
+  rotate: true
+  xy: 229, 41
+  size: 54, 55
+  orig: 100, 60
+  offset: 28, 2
+  index: -1
+effect/skill02_huo_00015
+  rotate: true
+  xy: 286, 42
+  size: 53, 55
+  orig: 100, 60
+  offset: 28, 2
+  index: -1
+effect/skill02_shou_00000
+  rotate: true
+  xy: 41, 6
+  size: 28, 23
+  orig: 150, 80
+  offset: 55, 5
+  index: -1
+effect/skill02_shou_00001
+  rotate: false
+  xy: 423, 40
+  size: 58, 36
+  orig: 150, 80
+  offset: 21, 5
+  index: -1
+effect/skill02_shou_00002
+  rotate: false
+  xy: 2, 148
+  size: 113, 49
+  orig: 150, 80
+  offset: 13, 5
+  index: -1
+effect/skill02_shou_00003
+  rotate: false
+  xy: 146, 143
+  size: 129, 55
+  orig: 150, 80
+  offset: 6, 5
+  index: -1
+effect/skill02_shou_00004
+  rotate: false
+  xy: 288, 201
+  size: 138, 60
+  orig: 150, 80
+  offset: 5, 5
+  index: -1
+effect/skill02_shou_00005
+  rotate: false
+  xy: 146, 200
+  size: 140, 61
+  orig: 150, 80
+  offset: 4, 5
+  index: -1
+effect/skill02_shou_00006
+  rotate: false
+  xy: 2, 199
+  size: 142, 62
+  orig: 150, 80
+  offset: 3, 6
+  index: -1
+effect/skill02_shou_00007
+  rotate: false
+  xy: 299, 263
+  size: 144, 63
+  orig: 150, 80
+  offset: 2, 7
+  index: -1
+effect/skill02_shou_00008
+  rotate: false
+  xy: 151, 263
+  size: 146, 63
+  orig: 150, 80
+  offset: 1, 8
+  index: -1
+effect/skill02_shou_00009
+  rotate: false
+  xy: 2, 263
+  size: 147, 63
+  orig: 150, 80
+  offset: 1, 9
+  index: -1
+effect/skill02_shou_00010
+  rotate: false
+  xy: 288, 143
+  size: 146, 56
+  orig: 150, 80
+  offset: 2, 18
+  index: -1
+effect/skill02_shou_00011
+  rotate: true
+  xy: 70, 19
+  size: 35, 53
+  orig: 150, 80
+  offset: 113, 19
+  index: -1

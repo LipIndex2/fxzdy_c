@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="997ef4d0">
+  <resources>
+    <image id="273c20" name="tuceng860.png" path="/img/"/>
+    <image id="273c24" name="NDA.png" path="/img/"/>
+    <image id="273c25" name="xingzhuang6.png" path="/img/"/>
+    <image id="273c28" name="zu130447.png" path="/img/"/>
+    <image id="273c32" name="duiwu_icon.png" path="/img/"/>
+    <component id="273c35" name="FriendMainWin.xml" path="/view/"/>
+    <component id="cjsd36" name="FriendRecommendPage.xml" path="/page/"/>
+    <component id="cjsd38" name="FriendTabBtn.xml" path="/btn/"/>
+    <component id="cjsd39" name="FriendApplyPage.xml" path="/page/"/>
+    <component id="cjsd3a" name="FriendListPage.xml" path="/page/"/>
+    <component id="cjsd3b" name="FriendBlackPage.xml" path="/page/"/>
+    <component id="cjsd3c" name="FriendItem.xml" path="/item/"/>
+    <component id="cjsd3d" name="FriendGiveOrDrawBtn.xml" path="/btn/"/>
+    <component id="cjsd3f" name="FriendBlackItem.xml" path="/item/"/>
+    <component id="cjsd3g" name="FriendApplyItem.xml" path="/item/"/>
+    <component id="cjsd3h" name="FriendCancelBtn.xml" path="/btn/"/>
+    <component id="cjsd3i" name="FriendOkBtn.xml" path="/btn/"/>
+    <component id="cjsd3l" name="FriendRecommendItem.xml" path="/item/"/>
+    <component id="sx4e3m" name="FriendPlayerInfoItem.xml" path="/item/"/>
+    <component id="lhcv3n" name="FriendBattleResultWin.xml" path="/view/"/>
+    <image id="t5gy3o" name="xjgc_icon.png" path="/img/"/>
+    <component id="t5gy3p" name="FriendFactoryBtn.xml" path="/btn/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

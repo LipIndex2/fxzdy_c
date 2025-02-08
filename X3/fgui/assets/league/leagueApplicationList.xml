@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n25_qr2a" name="n25" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="53,228" size="643,877" group="n24_wq7z"/>
+    <image id="n27_qr2a" name="n27" src="8qld1y" fileName="img/sd_A_common_tc1_frame_31.png" xy="53,228" size="643,877" group="n24_wq7z" pkg="u3k6kdot"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="img/sd_A_common_tc2_frame_30.png" xy="76,315" size="596,763" group="n24_wq7z" pkg="38fa8c75"/>
+    <text id="n2_be1a" name="n2" xy="309,252" size="131,44" group="n24_wq7z" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="申请列表"/>
+    <text id="n13_be1a" name="n13" xy="449,981" size="139,46" group="n24_wq7z" fontSize="34" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="一键确认"/>
+    <text id="n14_be1a" name="n14" xy="97,978" size="135,32" group="n24_wq7z" fontSize="22" color="#ffffff" text="自动通过申请"/>
+    <component id="n15_be1a" name="autoBtn" src="h90v10n" fileName="btn/isAutonApllyBtn.xml" xy="100,1013" group="n24_wq7z"/>
+    <component id="n18_h90v" name="onKey" src="h90v10k" fileName="btn/sureBtn.xml" xy="397,956" group="n24_wq7z">
+      <Button title="一键确认"/>
+    </component>
+    <list id="n23_h90v" name="list" xy="90,330" size="574,610" group="n24_wq7z" overflow="scroll" lineGap="20" defaultItem="ui://6be81224h90v10m" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n26_qr2a" name="noList" xy="314,646" size="123,42" group="n24_wq7z" visible="false" fontSize="30" color="#6180ca" text="暂无申请"/>
+    <group id="n24_wq7z" name="n24" xy="53,228" size="643,877" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

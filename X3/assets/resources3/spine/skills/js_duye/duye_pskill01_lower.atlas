@@ -1,0 +1,90 @@
+
+duye_pskill01_lower.png
+size: 500,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/pskill00
+  rotate: false
+  xy: 203, 15
+  size: 129, 68
+  orig: 256, 128
+  offset: 57, 27
+  index: -1
+images/effect/pskill01
+  rotate: false
+  xy: 2, 3
+  size: 143, 91
+  orig: 256, 128
+  offset: 52, 14
+  index: -1
+images/effect/pskill010
+  rotate: 180
+  xy: 331, 269
+  size: 167, 93
+  orig: 256, 128
+  offset: 45, 2
+  index: -1
+images/effect/pskill011
+  rotate: false
+  xy: 190, 124
+  size: 161, 96
+  orig: 256, 128
+  offset: 55, 0
+  index: -1
+images/effect/pskill02
+  rotate: false
+  xy: 293, 55
+  size: 153, 90
+  orig: 256, 128
+  offset: 45, 16
+  index: -1
+images/effect/pskill03
+  rotate: 180
+  xy: 78, 63
+  size: 154, 89
+  orig: 256, 128
+  offset: 57, 18
+  index: -1
+images/effect/pskill04
+  rotate: 180
+  xy: 2, 143
+  size: 160, 86
+  orig: 256, 128
+  offset: 46, 20
+  index: -1
+images/effect/pskill05
+  rotate: false
+  xy: 104, 216
+  size: 172, 80
+  orig: 256, 128
+  offset: 42, 20
+  index: -1
+images/effect/pskill06
+  rotate: 180
+  xy: 260, 200
+  size: 165, 95
+  orig: 256, 128
+  offset: 42, 16
+  index: -1
+images/effect/pskill07
+  rotate: 180
+  xy: 346, 126
+  size: 153, 99
+  orig: 256, 128
+  offset: 54, 10
+  index: -1
+images/effect/pskill08
+  rotate: false
+  xy: 2, 274
+  size: 182, 102
+  orig: 256, 128
+  offset: 32, 9
+  index: -1
+images/effect/pskill09
+  rotate: 180
+  xy: 162, 285
+  size: 181, 91
+  orig: 256, 128
+  offset: 39, 5
+  index: -1

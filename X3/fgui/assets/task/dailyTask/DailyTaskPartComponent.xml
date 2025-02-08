@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,963">
+  <displayList>
+    <image id="n55_eowx" name="bgTask" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="1,371" pivot="0,1" size="635,558"/>
+    <image id="n57_eowx" name="bgTitle" src="eowx7n" fileName="bgImage/xb1_frame.png" pkg="38fa8c75" xy="-1,316" size="637,45"/>
+    <text id="n28_c21f" name="labelDailyTaskTitle" xy="31,318" pivot="0.5,0.5" size="123,42" fontSize="30" color="#f0fffe" vAlign="middle" text="每日任务"/>
+    <text id="n29_c21f" name="labelTimeReset" xy="464,322" size="169,36" fontSize="24" color="#62ee79" align="right" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="{resetTime=11:30}{desc=后重置}"/>
+    <component id="n41_c21f" name="weekComp" src="eowx35" fileName="dailyTask/TaskWeekScoreRewardComponent.xml" xy="0,1"/>
+    <list id="n53_eowx" name="taskList" xy="16,390" pivot="0.5,0.5" size="598,526" selectionMode="none" overflow="scroll" lineGap="10" defaultItem="ui://6b9eb171eowx3a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n54_eowx" name="dailyComp" src="eowx3b" fileName="dailyTask/TaskDailyScoreRewardComponent.xml" xy="0,160"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n53_eowx" value="0"/>
+    <item time="0" type="Scale" target="n53_eowx" value="0.8,0.8"/>
+    <item time="0" type="Size" target="n55_eowx" tween="true" startValue="635,26" endValue="635,558" duration="8" ease="Circ.Out"/>
+    <item time="5" type="Alpha" target="n53_eowx" tween="true" startValue="0" endValue="1" duration="7"/>
+    <item time="5" type="Scale" target="n53_eowx" tween="true" startValue="0.8,0.8" endValue="1,1" duration="7" ease="Back.Out"/>
+  </transition>
+</component>

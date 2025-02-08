@@ -1,0 +1,132 @@
+
+skill01_upper.png
+size: 578,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_shifa1_00000
+  rotate: false
+  xy: 156, 140
+  size: 130, 127
+  orig: 160, 140
+  offset: 19, 4
+  index: -1
+effect/skill01_shifa1_00001
+  rotate: false
+  xy: 301, 144
+  size: 137, 130
+  orig: 160, 140
+  offset: 15, 3
+  index: -1
+effect/skill01_shifa1_00002
+  rotate: false
+  xy: 156, 269
+  size: 143, 133
+  orig: 160, 140
+  offset: 11, 3
+  index: -1
+effect/skill01_shifa1_00003
+  rotate: false
+  xy: 2, 267
+  size: 152, 135
+  orig: 160, 140
+  offset: 6, 3
+  index: -1
+effect/skill01_shifa1_00004
+  rotate: true
+  xy: 453, 256
+  size: 146, 123
+  orig: 160, 140
+  offset: 8, 3
+  index: -1
+effect/skill01_shifa1_00005
+  rotate: false
+  xy: 301, 276
+  size: 150, 126
+  orig: 160, 140
+  offset: 4, 3
+  index: -1
+effect/skill01_shifa2_00000
+  rotate: true
+  xy: 228, 10
+  size: 71, 91
+  orig: 100, 150
+  offset: 14, 42
+  index: -1
+effect/skill01_shifa2_00001
+  rotate: true
+  xy: 321, 8
+  size: 73, 88
+  orig: 100, 150
+  offset: 13, 49
+  index: -1
+effect/skill01_shifa2_00002
+  rotate: true
+  xy: 2, 67
+  size: 74, 110
+  orig: 100, 150
+  offset: 13, 27
+  index: -1
+effect/skill01_shifa2_00003
+  rotate: false
+  xy: 76, 151
+  size: 75, 114
+  orig: 100, 150
+  offset: 13, 21
+  index: -1
+effect/skill01_shifa2_00004
+  rotate: true
+  xy: 440, 112
+  size: 75, 113
+  orig: 100, 150
+  offset: 13, 21
+  index: -1
+effect/skill01_shifa2_00005
+  rotate: false
+  xy: 2, 143
+  size: 72, 122
+  orig: 100, 150
+  offset: 15, 11
+  index: -1
+effect/skill01_shifa2_00006
+  rotate: true
+  xy: 288, 83
+  size: 59, 138
+  orig: 100, 150
+  offset: 24, 6
+  index: -1
+effect/skill01_shifa2_00007
+  rotate: true
+  xy: 428, 55
+  size: 55, 140
+  orig: 100, 150
+  offset: 26, 8
+  index: -1
+effect/skill01_shifa2_00008
+  rotate: true
+  xy: 440, 189
+  size: 65, 134
+  orig: 100, 150
+  offset: 19, 12
+  index: -1
+effect/skill01_shifa2_00009
+  rotate: true
+  xy: 114, 66
+  size: 72, 112
+  orig: 100, 150
+  offset: 13, 25
+  index: -1
+effect/skill01_shifa2_00010
+  rotate: false
+  xy: 2, 3
+  size: 71, 62
+  orig: 100, 150
+  offset: 12, 44
+  index: -1
+effect/skill01_shifa2_00011
+  rotate: true
+  xy: 75, 2
+  size: 62, 69
+  orig: 100, 150
+  offset: 14, 40
+  index: -1

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n18_qr2a" name="n18" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,389" size="619,638" group="n16_wq7z"/>
+    <image id="n19_qr2a" name="n19" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,390" size="619,638" group="n16_wq7z"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,478" size="572,372" group="n16_wq7z"/>
+    <image id="n2_be1a" name="n2" src="be1a2" fileName="img/bossfydi_frame.png" xy="97,638" group="n16_wq7z" alpha="0.52"/>
+    <image id="n3_be1a" name="n3" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="103,639" size="540,192" group="n16_wq7z" alpha="0.3"/>
+    <component id="n22_nwvr" name="sendBtn" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="374,932" pivot="0.5,0.5" anchor="true" group="n16_wq7z" scale="0.8,0.8"/>
+    <text id="n5_be1a" name="n5" xy="115,498" size="118,36" group="n16_wq7z" fontSize="26" color="#ddfbff" text="发送方式:"/>
+    <text id="n6_be1a" name="n6" xy="116,593" size="118,36" group="n16_wq7z" fontSize="26" color="#ddfbff" text="发送内容:"/>
+    <text id="n7_be1a" name="n7" xy="115,538" size="287,32" group="n16_wq7z" fontSize="22" color="#e7c55e" text="通过聊天招募频道发送邀请贴"/>
+    <text id="n8_be1a" name="countLab" xy="577,801" size="55,32" group="n16_wq7z" fontSize="22" color="#708fbb" text="0/15"/>
+    <text id="n13_be1a" name="n13" xy="307,413" size="131,44" group="n16_wq7z" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="重要提示"/>
+    <text id="n15_h90v" name="mailTxt" xy="116,651" size="518,147" group="n16_wq7z" fontSize="22" color="#708fbb" autoSize="none" text="" input="true" prompt="请输入招募信息"/>
+    <group id="n16_wq7z" name="n16" xy="65,389" size="619,639" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

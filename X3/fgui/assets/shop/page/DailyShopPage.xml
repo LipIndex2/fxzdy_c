@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n1_be41" name="n1" src="fg1ivvv1b4" fileName="img/sd_bg.jpg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n86_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#5e73c2">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n87_fg1i" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1343" pivot="0.5,0.5" anchor="true" size="750,200" color="#2e3c69" flip="vt">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <text id="n42_be41" name="name1" xy="421,52" size="289,94" fontSize="72" color="#c62eff" text="日常商店"/>
+    <text id="n43_be41" name="name2" xy="416,48" size="289,94" fontSize="72" color="#00deff" text="日常商店"/>
+    <text id="n44_be41" name="name3" xy="419,50" size="289,94" fontSize="72" color="#ffffff" text="日常商店"/>
+    <component id="n45_be41" name="autoCom" src="uug05e" fileName="component/shopAutoCom.xml" xy="456,137"/>
+    <list id="n70_matv" name="goodsList" xy="21,446" size="709,632" overflow="scroll" defaultItem="ui://607146c5matv4u">
+      <relation target="" sidePair="width-width,height-height"/>
+    </list>
+    <component id="n60_be41" name="updateBtn" src="d3ep4w" fileName="btn/updateBtn.xml" xy="453,202"/>
+    <component id="n49_be41" name="cost0" src="uug052" fileName="component/shopCost.xml" xy="514,325"/>
+    <component id="n84_uug0" name="cost1" src="uug052" fileName="component/shopCost.xml" xy="320,325"/>
+    <richtext id="n85_uug0" name="updateTime" xy="442,287" size="10,34" fontSize="24" color="#ffffff" ubb="true" text=""/>
+  </displayList>
+</component>

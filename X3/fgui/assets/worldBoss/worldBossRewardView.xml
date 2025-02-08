@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="title" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_d6aa" name="n0" src="d6aa94" fileName="img/sd_A_common_gxhd_frame.png" xy="-6,491" group="n9_h90v"/>
+    <image id="n1_d6aa" name="n1" src="d6aa95" fileName="img/sd_A_common_gxhdbt_frame.png" xy="231,453" group="n9_h90v"/>
+    <image id="n2_d6aa" name="n2" src="d6aa96" fileName="img/paimingjiangli_4.png" xy="274,456" group="n9_h90v">
+      <gearDisplay controller="title" pages="0"/>
+    </image>
+    <image id="n3_d6aa" name="n3" src="d6aa97" fileName="img/quanfujiangli.png" xy="265,457" group="n9_h90v">
+      <gearDisplay controller="title" pages="1"/>
+    </image>
+    <image id="n4_d6aa" name="n4" src="d6aa98" fileName="img/sd_A_common_yellow_frame_2.png" xy="134,645" group="n9_h90v"/>
+    <text id="n5_d6aa" name="n5" xy="198,717" size="28,29" group="n9_h90v" fontSize="20" color="#fefefe" strokeColor="#000000" strokeSize="3" text="50"/>
+    <image id="n6_d6aa" name="n6" src="d6aa99" fileName="img/tuceng1131.png" xy="145,662" group="n9_h90v"/>
+    <list id="n8_uug0" name="rewardList" xy="132,645" size="484,108" group="n9_h90v" layout="row" overflow="scroll" scroll="horizontal" colGap="22" defaultItem="ui://38fa8c75dtss4j" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n9_h90v" name="n9" xy="-6,453" size="769,428" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

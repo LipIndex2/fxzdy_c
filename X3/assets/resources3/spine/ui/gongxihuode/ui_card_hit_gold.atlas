@@ -1,0 +1,125 @@
+
+ui_card_hit_gold.png
+size: 750,942
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_gold_00
+  rotate: false
+  xy: 254, 704
+  size: 30, 30
+  orig: 256, 256
+  offset: 113, 113
+  index: -1
+hit_gold_01
+  rotate: false
+  xy: 601, 87
+  size: 48, 55
+  orig: 256, 256
+  offset: 104, 104
+  index: -1
+hit_gold_02
+  rotate: false
+  xy: 601, 233
+  size: 80, 93
+  orig: 256, 256
+  offset: 88, 88
+  index: -1
+hit_gold_03
+  rotate: true
+  xy: 595, 388
+  size: 159, 153
+  orig: 256, 256
+  offset: 49, 48
+  index: -1
+hit_gold_04
+  rotate: true
+  xy: 232, 233
+  size: 218, 211
+  orig: 256, 256
+  offset: 31, 7
+  index: -1
+hit_gold_05
+  rotate: false
+  xy: 223, 4
+  size: 217, 217
+  orig: 256, 256
+  offset: 18, 21
+  index: -1
+hit_gold_06
+  rotate: false
+  xy: 2, 223
+  size: 228, 228
+  orig: 256, 256
+  offset: 11, 11
+  index: -1
+hit_gold_07
+  rotate: false
+  xy: 2, 690
+  size: 250, 250
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hit_gold_08
+  rotate: false
+  xy: 2, 453
+  size: 235, 235
+  orig: 256, 256
+  offset: 5, 5
+  index: -1
+hit_gold_09
+  rotate: false
+  xy: 2, 2
+  size: 219, 219
+  orig: 256, 256
+  offset: 12, 12
+  index: -1
+hit_gold_10
+  rotate: false
+  xy: 239, 478
+  size: 201, 210
+  orig: 256, 256
+  offset: 20, 20
+  index: -1
+hit_gold_11
+  rotate: false
+  xy: 254, 736
+  size: 185, 204
+  orig: 256, 256
+  offset: 27, 27
+  index: -1
+hit_gold_12
+  rotate: false
+  xy: 441, 742
+  size: 172, 198
+  orig: 256, 256
+  offset: 34, 34
+  index: -1
+hit_gold_13
+  rotate: false
+  xy: 442, 549
+  size: 164, 191
+  orig: 256, 256
+  offset: 41, 41
+  index: -1
+hit_gold_14
+  rotate: false
+  xy: 442, 48
+  size: 157, 183
+  orig: 256, 256
+  offset: 48, 48
+  index: -1
+hit_gold_15
+  rotate: false
+  xy: 445, 378
+  size: 148, 169
+  orig: 256, 256
+  offset: 55, 55
+  index: -1
+hit_gold_16
+  rotate: false
+  xy: 601, 144
+  size: 57, 87
+  orig: 256, 256
+  offset: 62, 62
+  index: -1

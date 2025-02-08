@@ -1,0 +1,202 @@
+
+chongwu_naochongjijia.png
+size: 795,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fag
+  rotate: false
+  xy: 490, 221
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+js00
+  rotate: true
+  xy: 490, 92
+  size: 270, 132
+  orig: 270, 132
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 623, 155
+  size: 156, 67
+  orig: 156, 67
+  offset: 0, 0
+  index: -1
+js010
+  rotate: true
+  xy: 720, 263
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+js011
+  rotate: true
+  xy: 432, 11
+  size: 29, 105
+  orig: 29, 105
+  offset: 0, 0
+  index: -1
+js012
+  rotate: true
+  xy: 666, 19
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 162, 100
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 719, 75
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+js015
+  rotate: true
+  xy: 260, 160
+  size: 201, 128
+  orig: 201, 128
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 2, 13
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 2, 347
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 490, 189
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 284, 4
+  size: 128, 17
+  orig: 128, 17
+  offset: 0, 0
+  index: -1
+js020
+  rotate: true
+  xy: 307, 60
+  size: 98, 71
+  orig: 98, 71
+  offset: 0, 0
+  index: -1
+js021
+  rotate: true
+  xy: 206, 64
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 2, 142
+  size: 257, 219
+  orig: 257, 219
+  offset: 0, 0
+  index: -1
+js024
+  rotate: true
+  xy: 623, 68
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+js025
+  rotate: false
+  xy: 2, 57
+  size: 193, 34
+  orig: 193, 34
+  offset: 0, 0
+  index: -1
+js026
+  rotate: false
+  xy: 284, 22
+  size: 146, 25
+  orig: 146, 25
+  offset: 0, 0
+  index: -1
+js027
+  rotate: true
+  xy: 490, 274
+  size: 88, 36
+  orig: 88, 36
+  offset: 0, 0
+  index: -1
+js028
+  rotate: false
+  xy: 196, 9
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+js029
+  rotate: true
+  xy: 623, 223
+  size: 139, 96
+  orig: 139, 99
+  offset: 0, 3
+  index: -1
+js03
+  rotate: false
+  xy: 2, 93
+  size: 158, 48
+  orig: 158, 48
+  offset: 0, 0
+  index: -1
+js030
+  rotate: false
+  xy: 381, 42
+  size: 169, 59
+  orig: 169, 59
+  offset: 0, 0
+  index: -1
+js05
+  rotate: true
+  xy: 390, 103
+  size: 258, 98
+  orig: 258, 98
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 552, 19
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 211, 347
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 712, 232
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1

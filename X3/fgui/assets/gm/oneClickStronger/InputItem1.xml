@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="213,50">
+  <displayList>
+    <image id="n570_v891" name="n570" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="107,0" size="106,50">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n571_v891" name="input_useCaptain" xy="121,9" size="78,36" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n572_v891" name="title" xy="-1,9" size="109,33" fontSize="23" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="战队科技6">
+      <relation target="" sidePair="height-height"/>
+    </text>
+  </displayList>
+</component>

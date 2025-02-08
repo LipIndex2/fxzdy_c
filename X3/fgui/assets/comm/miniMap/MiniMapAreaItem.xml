@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="默认"/>
+    <remark page="1" value="我方占领"/>
+    <remark page="2" value="敌方占领"/>
+  </controller>
+  <displayList/>
+</component>

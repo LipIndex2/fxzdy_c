@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="83,128">
+  <displayList>
+    <image id="n42_f430" name="n42" src="f430111" fileName="img/saodang_44.png" xy="0,0"/>
+    <text id="n43_f430" name="title" xy="41,111" pivot="0.5,0.5" anchor="true" size="52,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="扫荡"/>
+    <text id="n44_f430" name="lbCnt" xy="41,87" pivot="0.5,0.5" anchor="true" size="45,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="1/1"/>
+    <component id="n45_loj0" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="74,18" controller="type,2"/>
+  </displayList>
+</component>

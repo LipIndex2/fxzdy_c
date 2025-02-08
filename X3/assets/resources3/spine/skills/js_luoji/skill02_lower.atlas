@@ -1,0 +1,195 @@
+
+skill02_lower.png
+size: 598,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 2, 36
+  size: 140, 140
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+effect/skill02_lower1_0
+  rotate: false
+  xy: 269, 27
+  size: 69, 21
+  orig: 80, 26
+  offset: 7, 2
+  index: -1
+effect/skill02_lower1_1
+  rotate: false
+  xy: 73, 13
+  size: 68, 21
+  orig: 80, 26
+  offset: 8, 2
+  index: -1
+effect/skill02_lower1_2
+  rotate: false
+  xy: 491, 5
+  size: 68, 21
+  orig: 80, 26
+  offset: 8, 2
+  index: -1
+effect/skill02_lower1_3
+  rotate: false
+  xy: 269, 4
+  size: 68, 21
+  orig: 80, 26
+  offset: 8, 1
+  index: -1
+effect/skill02_lower1_4
+  rotate: false
+  xy: 491, 28
+  size: 69, 22
+  orig: 80, 26
+  offset: 7, 1
+  index: -1
+effect/skill02_lower1_5
+  rotate: true
+  xy: 555, 106
+  size: 70, 20
+  orig: 80, 26
+  offset: 6, 2
+  index: -1
+effect/skill02_lower1_6
+  rotate: true
+  xy: 577, 107
+  size: 69, 19
+  orig: 80, 26
+  offset: 7, 2
+  index: -1
+effect/skill02_lower1_7
+  rotate: false
+  xy: 2, 13
+  size: 69, 21
+  orig: 80, 26
+  offset: 7, 2
+  index: -1
+effect/skill02_lower2_0
+  rotate: true
+  xy: 367, 7
+  size: 44, 70
+  orig: 60, 100
+  offset: 7, 14
+  index: -1
+effect/skill02_lower2_1
+  rotate: true
+  xy: 367, 53
+  size: 47, 73
+  orig: 60, 100
+  offset: 6, 12
+  index: -1
+effect/skill02_lower2_10
+  rotate: false
+  xy: 300, 102
+  size: 49, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_11
+  rotate: true
+  xy: 144, 52
+  size: 48, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_12
+  rotate: false
+  xy: 144, 102
+  size: 50, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_13
+  rotate: true
+  xy: 295, 50
+  size: 50, 70
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_14
+  rotate: false
+  xy: 196, 102
+  size: 50, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_15
+  rotate: false
+  xy: 248, 103
+  size: 50, 73
+  orig: 60, 100
+  offset: 4, 13
+  index: -1
+effect/skill02_lower2_16
+  rotate: true
+  xy: 442, 52
+  size: 48, 71
+  orig: 60, 100
+  offset: 5, 14
+  index: -1
+effect/skill02_lower2_17
+  rotate: true
+  xy: 144, 7
+  size: 43, 70
+  orig: 60, 100
+  offset: 10, 14
+  index: -1
+effect/skill02_lower2_2
+  rotate: true
+  xy: 220, 52
+  size: 48, 73
+  orig: 60, 100
+  offset: 5, 12
+  index: -1
+effect/skill02_lower2_3
+  rotate: true
+  xy: 439, 2
+  size: 48, 50
+  orig: 60, 100
+  offset: 5, 16
+  index: -1
+effect/skill02_lower2_4
+  rotate: true
+  xy: 216, 2
+  size: 48, 51
+  orig: 60, 100
+  offset: 5, 23
+  index: -1
+effect/skill02_lower2_5
+  rotate: true
+  xy: 515, 52
+  size: 48, 70
+  orig: 60, 100
+  offset: 5, 12
+  index: -1
+effect/skill02_lower2_6
+  rotate: false
+  xy: 351, 102
+  size: 49, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_7
+  rotate: false
+  xy: 402, 102
+  size: 49, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_8
+  rotate: false
+  xy: 453, 102
+  size: 49, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1
+effect/skill02_lower2_9
+  rotate: false
+  xy: 504, 102
+  size: 49, 74
+  orig: 60, 100
+  offset: 4, 12
+  index: -1

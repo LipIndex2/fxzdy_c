@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kd299s7c">
+  <displayList>
+    <image id="n111_a9a7" name="fg" src="9gqu88" fileName="subView/img/xx_bg.png" xy="87,370"/>
+    <component id="n118_9gqu" name="hero" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,642" pivot="0.5,1" anchor="true" size="200,200"/>
+    <text id="n112_a9a7" name="labelName" xy="246,618" pivot="0.5,0" size="249,34" fontSize="24" color="#ffcd54" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="跳跳骑手"/>
+    <text id="n113_a9a7" name="labelDesc" xy="189,650" pivot="0.5,0" size="365,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="跳跳骑手10星后解锁"/>
+    <list id="n116_9gqu" name="itemList" xy="96,732" size="564,283" layout="flow_hz" overflow="scroll" lineGap="-4" colGap="-2" defaultItem="ui://d4f261269gqu87" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n117_9gqu" name="changeComp" src="d2997y" fileName="components/PlayerInfoChangeBtnGroupComp.xml" xy="172,1035"/>
+  </displayList>
+</component>

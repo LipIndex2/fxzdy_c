@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="50" infinite="0" nextlayerid="20" nextobjectid="318" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="34">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <tileset firstgid="171" source="../mapTilesets/masterMap_01.tsx" />
+ <tileset columns="6" firstgid="281" name="map_ground_2102" tilecount="42" tileheight="120" tilewidth="200">
+  <image height="840" source="../mapTilesets/masterMap_01/map_ground_2102.png" width="1200" />
+ </tileset>
+ <tileset columns="10" firstgid="323" name="newplayerMap_1001" tilecount="160" tileheight="120" tilewidth="200">
+  <image height="1920" source="../mapTilesets/masterMap_01/newplayerMap_1001.png" width="2000" />
+ </tileset>
+ <tileset columns="7" firstgid="483" name="map_ground_2112" tilecount="14" tileheight="120" tilewidth="200">
+  <image height="240" source="../mapTilesets/masterMap_01/map_ground_2112.png" width="1400" />
+ </tileset>
+ <tileset columns="0" firstgid="497" name="buliding" tilecount="25" tileheight="351" tilewidth="531">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="1">
+   <image height="127" source="../mapTilesets/building/teleport.png" width="203" />
+  </tile>
+  <tile id="14">
+   <image height="123" source="../mapTilesets/building/mis_unlocked.png" width="122" />
+  </tile>
+  <tile id="30">
+   <image height="187" source="../mapTilesets/building/map_wall_05.png" width="73" />
+  </tile>
+  <tile id="31">
+   <image height="149" source="../mapTilesets/building/map_wall_06.png" width="145" />
+  </tile>
+  <tile id="32">
+   <image height="120" source="../mapTilesets/building/map_wall_07.png" width="147" />
+  </tile>
+  <tile id="33">
+   <image height="216" source="../mapTilesets/building/map_wall_01.png" width="123" />
+  </tile>
+  <tile id="35">
+   <image height="211" source="../mapTilesets/building/map_wall_03.png" width="51" />
+  </tile>
+  <tile id="36">
+   <image height="155" source="../mapTilesets/building/map_wall_04.png" width="146" />
+  </tile>
+  <tile id="37">
+   <image height="248" source="../mapTilesets/building/map_wall_02.png" width="124" />
+  </tile>
+  <tile id="39">
+   <image height="167" source="../mapTilesets/building/map_unlock_201.png" width="164" />
+  </tile>
+  <tile id="41">
+   <image height="167" source="../mapTilesets/building/map_unlock_202.png" width="164" />
+  </tile>
+  <tile id="42">
+   <image height="324" source="../mapTilesets/building/map_scene_2101.png" width="531" />
+  </tile>
+  <tile id="43">
+   <image height="324" source="../mapTilesets/building/map_scene_2102.png" width="531" />
+  </tile>
+  <tile id="44">
+   <image height="146" source="../mapTilesets/building/map_wall_201.png" width="119" />
+  </tile>
+  <tile id="45">
+   <image height="159" source="../mapTilesets/building/map_wall_202.png" width="145" />
+  </tile>
+  <tile id="46">
+   <image height="163" source="../mapTilesets/building/map_wall_203.png" width="145" />
+  </tile>
+  <tile id="47">
+   <image height="318" source="../mapTilesets/building/map_door_202.png" width="375" />
+  </tile>
+  <tile id="48">
+   <image height="237" source="../mapTilesets/building/TP.png" width="248" />
+  </tile>
+  <tile id="49">
+   <image height="351" source="../mapTilesets/building/map_build_2102.png" width="389" />
+  </tile>
+  <tile id="50">
+   <image height="81" source="../mapTilesets/landscape/map_ground_2106.png" width="126" />
+  </tile>
+  <tile id="51">
+   <image height="136" source="../mapTilesets/landscape/map_ground_2107.png" width="217" />
+  </tile>
+  <tile id="52">
+   <image height="189" source="../mapTilesets/landscape/map_ground_2108.png" width="281" />
+  </tile>
+  <tile id="53">
+   <image height="218" source="../mapTilesets/landscape/map_ground_2103.png" width="364" />
+  </tile>
+  <tile id="54">
+   <image height="143" source="../mapTilesets/landscape/map_ground_2104.png" width="241" />
+  </tile>
+  <tile id="55">
+   <image height="283" source="../mapTilesets/landscape/map_ground_2105.png" width="435" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="553" name="buliding" tilecount="27" tileheight="351" tilewidth="531">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="1">
+   <image height="127" source="../mapTilesets/building/teleport.png" width="203" />
+  </tile>
+  <tile id="14">
+   <image height="123" source="../mapTilesets/building/mis_unlocked.png" width="122" />
+  </tile>
+  <tile id="30">
+   <image height="187" source="../mapTilesets/building/map_wall_05.png" width="73" />
+  </tile>
+  <tile id="31">
+   <image height="149" source="../mapTilesets/building/map_wall_06.png" width="145" />
+  </tile>
+  <tile id="32">
+   <image height="120" source="../mapTilesets/building/map_wall_07.png" width="147" />
+  </tile>
+  <tile id="33">
+   <image height="216" source="../mapTilesets/building/map_wall_01.png" width="123" />
+  </tile>
+  <tile id="35">
+   <image height="211" source="../mapTilesets/building/map_wall_03.png" width="51" />
+  </tile>
+  <tile id="36">
+   <image height="155" source="../mapTilesets/building/map_wall_04.png" width="146" />
+  </tile>
+  <tile id="37">
+   <image height="248" source="../mapTilesets/building/map_wall_02.png" width="124" />
+  </tile>
+  <tile id="39">
+   <image height="167" source="../mapTilesets/building/map_unlock_201.png" width="164" />
+  </tile>
+  <tile id="41">
+   <image height="167" source="../mapTilesets/building/map_unlock_202.png" width="164" />
+  </tile>
+  <tile id="42">
+   <image height="324" source="../mapTilesets/building/map_scene_2101.png" width="531" />
+  </tile>
+  <tile id="43">
+   <image height="324" source="../mapTilesets/building/map_scene_2102.png" width="531" />
+  </tile>
+  <tile id="44">
+   <image height="146" source="../mapTilesets/building/map_wall_201.png" width="119" />
+  </tile>
+  <tile id="45">
+   <image height="159" source="../mapTilesets/building/map_wall_202.png" width="145" />
+  </tile>
+  <tile id="46">
+   <image height="163" source="../mapTilesets/building/map_wall_203.png" width="145" />
+  </tile>
+  <tile id="47">
+   <image height="318" source="../mapTilesets/building/map_door_202.png" width="375" />
+  </tile>
+  <tile id="48">
+   <image height="237" source="../mapTilesets/building/TP.png" width="248" />
+  </tile>
+  <tile id="49">
+   <image height="351" source="../mapTilesets/building/map_build_2102.png" width="389" />
+  </tile>
+  <tile id="50">
+   <image height="81" source="../mapTilesets/landscape/map_ground_2106.png" width="126" />
+  </tile>
+  <tile id="51">
+   <image height="136" source="../mapTilesets/landscape/map_ground_2107.png" width="217" />
+  </tile>
+  <tile id="52">
+   <image height="189" source="../mapTilesets/landscape/map_ground_2108.png" width="281" />
+  </tile>
+  <tile id="53">
+   <image height="218" source="../mapTilesets/landscape/map_ground_2103.png" width="364" />
+  </tile>
+  <tile id="54">
+   <image height="143" source="../mapTilesets/landscape/map_ground_2104.png" width="241" />
+  </tile>
+  <tile id="55">
+   <image height="283" source="../mapTilesets/landscape/map_ground_2105.png" width="435" />
+  </tile>
+  <tile id="56">
+   <image height="274" source="../mapTilesets/building/map_ground_2109.png" width="363" />
+  </tile>
+  <tile id="57">
+   <image height="256" source="../mapTilesets/building/map_ground_2110.png" width="402" />
+  </tile>
+ </tileset>
+ <tileset firstgid="611" source="../mapTilesets/mainMap.tsx" />
+ <layer height="50" id="11" name="bottom_layer" width="34">
+  <data compression="zlib" encoding="base64">
+   eJztlr1OAzEQhB3BM1h00EMXrgRKBF2Ajp+Ony6CDkTHQyBdaEJ4UMaSV9oMtiPZbpB2pE86nx3v3N56L86Z/ot2wCPY7sAu2Kv0MQeryBg5LLCMyFiv/wKvlT62lI/vzP45fFznI2GPB/DW0Udg2DAWL9rHMfjo5MNTbA3HZ2/Bx2cnH4zEGumeT6xt8cG1l/PBcb1bz1m4fgI/lT421SXHl1yk3s0zeGnwoc8l15+nuSFep+p2UuFB+9CxuCZz7ypVI60+SrGEZeK+zlegpX/oGk3VovSrXO3o3LX0D+0j9ayjmtPPz7nwrr1/lHpm6b1xz+vpY8iMdZ44bzLf0j+kn+ozq/fnfsXnWb7TYa6lf6zcXy+pfsp5Er/io+V7OwULt/4fhL2kfDDy+ytXd14OwD64VxwVmIGzzNoLcAnuKnywTsA5OM3wDq4La2/AbQcfJpPJZDKZTCaTyWQy5fQLXv1u7g==
+  </data>
+ </layer>
+ <layer height="50" id="1" name="ship_layer" width="34">
+  <data compression="zlib" encoding="base64">
+   eJzt0jENAEAIwECCW96/gBfBQAh3Cjo0AgAAAACAayqnC9jk+YWmD+vWANg=
+  </data>
+ </layer>
+ <layer height="50" id="18" name="grass_layer" width="34">
+  <data compression="zlib" encoding="base64">
+   eJzt1MENwCAIQFFMo3N3PGaqFx3ANj0UgfS/AfCHGESA/2jFu+De5R1gqAbbe7ZdH4H2p94BH4t8E5DL013pmxpW/3l2nVbvvZ2thg0AAAAAACCPAREKCQ0=
+  </data>
+ </layer>
+ <layer height="50" id="9" name="road_layer" width="34">
+  <data compression="zlib" encoding="base64">
+   eJzt0ssNgCAABFG0DavQi8TPxf6LEgIHsAB3E+YlJN6Y4IYAAP97JnVBsdLRUXZc6e6tnrv5PoRNLv9lN+lQvEfeRWz28N1HFG7EZR909E6TDnhaZnUBAAAAAIzrBUAJBg4=
+  </data>
+ </layer>
+ <objectgroup id="3" name="player_layer">
+  <object id="61" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1207.88" y="1987.51">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700101" />
+   </properties>
+  </object>
+  <object id="62" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1379.39" y="1498.79">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700102" />
+   </properties>
+  </object>
+  <object id="63" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2280" y="1473.79">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700103" />
+   </properties>
+  </object>
+  <object id="275" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2568.48" y="2091.79">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700104" />
+   </properties>
+  </object>
+  <object id="181" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1063.96" y="1436.09">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700105" />
+   </properties>
+  </object>
+  <object id="187" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1867.27" y="957.21">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700106" />
+   </properties>
+  </object>
+  <object id="272" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2742.38" y="1123.19">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="700107" />
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="ornament_layer">
+  <object gid="188" height="134" id="175" width="101" x="2196" y="2252" />
+  <object gid="188" height="134" id="176" width="101" x="1440" y="720" />
+  <object gid="201" height="223" id="182" width="210" x="2760" y="600" />
+  <object gid="183" height="116" id="193" width="80" x="2495.97" y="2553.87" />
+  <object gid="184" height="88" id="195" width="56" x="2405.87" y="2547.47" />
+  <object gid="184" height="88" id="196" width="56" x="1282.8" y="470.2" />
+  <object gid="185" height="69" id="197" width="55" x="1353.9" y="474.1" />
+  <object gid="2147483833" height="69" id="198" width="55" x="716" y="620" />
+  <object gid="2147483829" height="120" id="200" width="101" x="3049.63" y="1249.03" />
+  <object gid="2147483831" height="116" id="201" width="80" x="3035.87" y="1349.47" />
+  <object gid="2147483833" height="69" id="202" width="55" x="3034.1" y="1131.9" />
+  <object gid="199" height="160" id="226" width="202" x="3000" y="2520" />
+  <object gid="200" height="55" id="227" width="90" x="3000" y="2400" />
+  <object gid="2147483848" height="55" id="228" width="90" x="2880" y="2520" />
+  <object gid="201" height="223" id="229" width="210" x="1080" y="2520" />
+  <object gid="190" height="145" id="230" width="172" x="960" y="2400" />
+  <object gid="2147483836" height="134" id="231" width="101" x="1129.7" y="2520.3" />
+  <object gid="2147483829" height="120" id="232" width="101" x="726.47" y="2473.87" />
+  <object gid="183" height="116" id="233" width="80" x="1065.47" y="2555.87" />
+  <object gid="203" height="215" id="234" width="186" x="2640" y="600" />
+  <object gid="186" height="115" id="235" width="49" x="2491.3" y="538.7" />
+  <object gid="232" height="30" id="254" width="34" x="2639" y="1907" />
+  <object gid="231" height="42" id="255" width="60" x="2348.4" y="1437.6" />
+  <object gid="231" height="42" id="256" width="60" x="1003.8" y="1342.2" />
+  <object gid="231" height="42" id="257" width="60" x="2601.6" y="2066.4" />
+  <object gid="230" height="85" id="258" width="114" x="1132.4" y="2093.6" />
+  <object gid="231" height="42" id="259" width="60" x="1449.4" y="1384.6" />
+  <object gid="231" height="42" id="260" width="60" x="1772.4" y="897.6" />
+  <object gid="232" height="30" id="261" width="34" x="2346.6" y="1307.4" />
+  <object gid="206" height="221" id="279" width="212" x="960" y="2520" />
+  <object gid="206" height="221" id="280" width="212" x="840" y="2520" />
+  <object gid="206" height="221" id="281" width="212" x="840" y="2400" />
+  <object gid="199" height="160" id="282" width="202" x="840" y="2280" />
+  <object gid="217" height="166" id="283" width="144" x="840" y="2160" />
+  <object gid="217" height="166" id="284" width="144" x="840" y="2040" />
+  <object gid="2147483829" height="120" id="285" width="101" x="720" y="2160" />
+  <object gid="2147483829" height="120" id="286" width="101" x="720" y="2040" />
+  <object gid="2147483831" height="116" id="289" width="80" x="707.6" y="1792.4" />
+  <object gid="2147483833" height="69" id="290" width="55" x="707.767" y="1691.57" />
+  <object gid="2147483830" height="302" id="291" width="200" x="3132.33" y="2292.33" />
+  <object gid="2147483843" height="495" id="292" width="366" x="1024.3" y="750.7" />
+  <object gid="197" height="360" id="293" width="443" x="960.8" y="993.2" />
+  <object gid="194" height="356" id="295" width="371" x="3053.13" y="793.533" />
+  <object gid="218" height="128" id="298" width="206" x="3000" y="960" />
+  <object gid="218" height="128" id="301" width="206" x="3000" y="1080" />
+  <object gid="186" height="115" id="302" width="49" x="2036.97" y="1300.37" />
+  <object gid="181" height="120" id="305" width="101" x="840" y="480" />
+  <object gid="181" height="120" id="306" width="101" x="960" y="480" />
+  <object gid="2147483829" height="120" id="308" width="101" x="720" y="960" />
+  <object gid="184" height="88" id="309" width="56" x="1897.07" y="470.267" />
+  <object gid="183" height="116" id="310" width="80" x="1982.87" y="472.467" />
+  <object gid="202" height="194" id="311" width="187" x="3006.63" y="1574.03" />
+  <object gid="181" height="120" id="312" width="101" x="2112.35" y="491.2" />
+  <object gid="217" height="166" id="313" width="144" x="840" y="1200" />
+  <object gid="217" height="166" id="314" width="144" x="840" y="1320" />
+ </objectgroup>
+ <objectgroup id="17" name="wormnest_layer">
+  <object gid="2147483870" height="234.961" id="250" width="260.399" x="1440" y="1440" />
+  <object gid="2147483870" height="234.961" id="253" width="260.399" x="2640" y="2040" />
+  <object gid="222" height="234.961" id="263" width="260.399" x="1200" y="2040" />
+  <object gid="2147483870" height="234.961" id="264" width="260.399" x="2819.68" y="1080" />
+  <object gid="222" height="234.961" id="265" width="260.399" x="996.867" y="1460.78" />
+  <object gid="2147483870" height="234.961" id="266" width="260.399" x="2338.16" y="1440" />
+  <object gid="2147483870" height="234.961" id="274" width="260.399" x="1926.1" y="909.7" />
+ </objectgroup>
+ <objectgroup id="7" name="role_layer" />
+ <objectgroup id="5" name="collider_layer">
+  <object id="276" x="1320" y="3360">
+   <polygon points="-120,120 431.867,-450.533 431.733,-601.067 431.234,-840 -240,-839.306 -240,-960 -360,-960 -360,-1080 -480,-1080 -480,-1200 -532.876,-1202.33 -531.98,-1457.92 -601.106,-1464.16 -600,-2040 -536.267,-2041.2 -538.417,-2324.52 -361.35,-2320.65 -360,-2880 1200,-2880 1200,-2760 1440,-2760 1440,-2640 1629.8,-2639.8 1633.3,-2275.05 1680,-2273.8 1680,-960 1560,-960 1560,-840 637.067,-843.733 632.667,-471.333 695.302,-420.977 850.324,-412.702 1032.95,-237.092 1360.4,-240.4 1555.2,-55.2 2160,-240 2040,-3120 -840,-3120 -840,120" />
+  </object>
+  <object id="277" x="720" y="3360">
+   <polygon points="0,-240 480,-480 1800,840 2127.02,486.655 2140.8,-100.8 2760,-360 2760,1080 0,1080" />
+  </object>
+ </objectgroup>
+ <objectgroup id="19" name="trigger_layer">
+  <object id="317" name="锁边" x="328" y="2152">
+   <properties>
+    <property name="triggerId" type="int" value="3" />
+   </properties>
+   <polygon points="955.2,916.8 2774.8,941.2 2891.2,2408.8 908.8,1847.2" />
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="ui_layer" />
+</map>

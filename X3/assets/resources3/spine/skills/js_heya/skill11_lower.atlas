@@ -1,0 +1,76 @@
+
+skill11_lower.png
+size: 387,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_guangyun
+  rotate: false
+  xy: 2, 2
+  size: 74, 74
+  orig: 80, 80
+  offset: 3, 3
+  index: -1
+effect/skill01_lowerquan_00000
+  rotate: false
+  xy: 78, 60
+  size: 73, 16
+  orig: 200, 60
+  offset: 63, 29
+  index: -1
+effect/skill01_lowerquan_00001
+  rotate: false
+  xy: 2, 128
+  size: 125, 27
+  orig: 200, 60
+  offset: 38, 22
+  index: -1
+effect/skill01_lowerquan_00002
+  rotate: false
+  xy: 193, 77
+  size: 165, 38
+  orig: 200, 60
+  offset: 20, 15
+  index: -1
+effect/skill01_lowerquan_00003
+  rotate: false
+  xy: 187, 117
+  size: 176, 44
+  orig: 200, 60
+  offset: 13, 10
+  index: -1
+effect/skill01_lowerquan_00004
+  rotate: false
+  xy: 2, 157
+  size: 183, 47
+  orig: 200, 60
+  offset: 10, 7
+  index: -1
+effect/skill01_lowerquan_00005
+  rotate: false
+  xy: 196, 206
+  size: 189, 50
+  orig: 200, 60
+  offset: 7, 5
+  index: -1
+effect/skill01_lowerquan_00006
+  rotate: false
+  xy: 2, 206
+  size: 192, 50
+  orig: 200, 60
+  offset: 5, 5
+  index: -1
+effect/skill01_lowerquan_00007
+  rotate: false
+  xy: 187, 163
+  size: 194, 41
+  orig: 200, 60
+  offset: 3, 5
+  index: -1
+effect/skill01_lowerquan_00008
+  rotate: false
+  xy: 2, 78
+  size: 189, 37
+  orig: 200, 60
+  offset: 3, 5
+  index: -1

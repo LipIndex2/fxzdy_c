@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n113_k045" name="n113" xy="0,0" size="750,1626" url="ui://7cvz7rmmk045vv1w" autoSize="true"/>
+    <image id="n116_s8ul" name="n116" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-163" size="750,253" color="#23254e">
+      <relation target="" sidePair="width-width,center-center"/>
+    </image>
+    <image id="n56_430e" name="n56" src="430e33" fileName="img/meishuzi.png" xy="117,178"/>
+    <image id="n50_430e" name="n50" src="jqxis99" fileName="chat/liaotian_frame.png" pkg="72zq62ea" xy="18,138" size="262,37" alpha="0.25"/>
+    <image id="n34_430e" name="n34" src="430e21" fileName="img/touxiangkuang_9.png" xy="19,258"/>
+    <component id="n1_430e" name="playerPage" src="k0455i" fileName="page/GirlGroupPlayerPage.xml" xy="0,285"/>
+    <text id="n37_430e" name="T_roomName" xy="133,280" pivot="0,0.5" size="126,29" fontSize="20" color="#ffe95a" vAlign="middle" strokeColor="#000000" strokeSize="2" text="KPA官方渠道"/>
+    <text id="n38_430e" name="T_peopleNum" xy="132,308" pivot="0,0.5" size="108,26" fontSize="18" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="观看：999人"/>
+    <text id="n53_430e" name="T_title" xy="18,51" size="226,76" fontSize="58" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="STK女团"/>
+    <richtext id="n114_k045" name="T_time" xy="43,143" pivot="0,0.5" size="207,29" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" text="活动倒计时:5天30小时"/>
+    <component id="n108_k045" name="n108" src="k0455l" fileName="item/headIconItem.xml" xy="28,268" pivot="0.5,0.5"/>
+    <component id="n110_k045" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="249,73">
+      <relation target="n53_430e" sidePair="middle-middle,left-right"/>
+    </component>
+    <image id="n17_430e" name="n17" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,753" size="750,581" group="n115_k045"/>
+    <image id="n18_430e" name="n18" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,790" size="730,420" group="n115_k045"/>
+    <component id="n45_430e" name="btn_award1" src="k04558" fileName="btn/GirlGroupBtn.xml" xy="623,511" group="n115_k045"/>
+    <component id="n101_k045" name="btn_award2" src="k04558" fileName="btn/GirlGroupBtn.xml" xy="623,627" group="n115_k045">
+      <Button title="全服成团礼" icon="ui://4e791994430e29"/>
+    </component>
+    <component id="n111_k045" name="dialogBoxPage" src="k0455g" fileName="page/DialogBoxPage.xml" xy="1,535" size="582,174" group="n115_k045"/>
+    <list id="n106_k045" name="list_tab" xy="182,718" size="390,55" group="n115_k045" layout="row" selectionMode="none" defaultItem="ui://4e791994k0455c">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n105_k045" name="list_award" xy="32,806" size="690,383" group="n115_k045" overflow="scroll" lineGap="3" defaultItem="ui://4e791994k0455b">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n115_k045" name="n115" xy="0,511" size="750,823" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n102_k045" name="footer" src="dusvvvv1fg" fileName="back/BackFooter3.xml" pkg="38fa8c75" xy="0,1215" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

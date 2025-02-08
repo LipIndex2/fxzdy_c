@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2cb2b961">
+  <resources>
+    <image id="85280" name="tuceng23.jpg" path="/img/"/>
+    <image id="85284" name="tiliang_frame1.jpg" path="/img/"/>
+    <image id="85285" name="tianfudi_blood1.png" path="/img/"/>
+    <image id="85286" name="tianfu_blood1.png" path="/img/"/>
+    <image id="85289" name="gongji.png" path="/img/" exported="true"/>
+    <image id="852811" name="xueliang.png" path="/img/" exported="true"/>
+    <image id="852812" name="fangyu.png" path="/img/" exported="true"/>
+    <image id="852814" name="gongjijineng.png" path="/img/"/>
+    <image id="852816" name="delete.png" path="/img/"/>
+    <image id="852821" name="icgoods_10001.png" path="/img/"/>
+    <component id="kp1o24" name="TalentConfirmLvUpView.xml" path="/"/>
+    <component id="kp1o25" name="TalentSmallLvUpItemComp.xml" path="/components/"/>
+    <image id="kp1o26" name="tianfu_blood.png" path="/img/" scale="9grid" scale9grid="3,3,5,5"/>
+    <image id="kp1o27" name="tianfudi_blood.png" path="/img/" scale="9grid" scale9grid="6,4,12,8"/>
+    <component id="kp1o28" name="TalentTipsComp.xml" path="/components/"/>
+    <component id="kp1o29" name="TalentBigLvUpItemComp.xml" path="/components/"/>
+    <component id="kp1o2a" name="TalentOneRowComp.xml" path="/components/"/>
+    <component id="kp1o2c" name="TalentSmallBarComp.xml" path="/components/"/>
+    <image id="kp1o2d" name="tiliang_frame.png" path="/img/" scale="9grid" scale9grid="7,7,14,14"/>
+    <image id="piwi2f" name="icon.png" path="/img/"/>
+    <component id="ual22r" name="TalentBgMaskComp.xml" path="/components/"/>
+    <component id="piwi2t" name="BgProgressBar.xml" path="/components/"/>
+    <component id="pwoe2v" name="TalentMainView.xml" path="/"/>
+    <image id="pwoe2w" name="beijing.jpg" path="/img/"/>
+    <image id="pwoe2x" name="tuceng46.jpg" path="/img/"/>
+    <image id="pwoe2y" name="ydc_frame.png" path="/img/"/>
+    <image id="pwoe2z" name="zu13kaobei2.png" path="/img/"/>
+    <image id="pwoe30" name="tuceng50.png" path="/img/"/>
+    <image id="pwoe31" name="sd_A_common_tianfujn1_frame.png" path="/img/"/>
+    <image id="pwoe32" name="henggan.png" path="/img/"/>
+    <image id="pwoe33" name="hui.png" path="/img/"/>
+    <image id="pwoe34" name="guolü.png" path="/img/"/>
+    <image id="pwoe36" name="fangyukaobei.png" path="/img/"/>
+    <image id="pwoe37" name="xueliangkaobei.png" path="/img/"/>
+    <image id="pwoe38" name="juxing20.png" path="/img/"/>
+    <image id="pwoe39" name="hengganhui.png" path="/img/"/>
+    <image id="pwoe3a" name="sd_A_common_tianfujn_frame.png" path="/img/"/>
+    <image id="pwoe3c" name="hengganda.png" path="/img/"/>
+    <image id="pwoe3d" name="sd_A_common_bossbt_frame.png" path="/img/"/>
+    <image id="pwoe3e" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="pwoe3f" name="sd_A_common_liaotian_frame_3.png" path="/img/"/>
+    <image id="pwoe3g" name="sd_A_common_liaotian_frame_2.png" path="/img/"/>
+    <image id="pwoe3h" name="sd_A_common_szdi1_frame.png" path="/img/"/>
+    <image id="pwoe3i" name="tuceng78kaobei.png" path="/img/"/>
+    <image id="pwoe3j" name="ziyuanlankaobei.png" path="/img/"/>
+    <image id="pwoe3k" name="sd_A_common_tianfuts_frame.png" path="/img/"/>
+    <image id="pwoe3l" name="scale_75%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="pwoe3m" name="scale_75%_icgoods_10007.png" path="/img/"/>
+    <image id="pwoe3o" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="pwoe3q" name="DNA_gray.png" path="/img/"/>
+    <image id="pwoe3r" name="DNA_blue.png" path="/img/"/>
+    <component id="pwoe3s" name="TalentDNAProgressBar.xml" path="/progressBar/"/>
+    <component id="pwoe3t" name="TalentOneLvComp.xml" path="/components/"/>
+    <image id="pwoe3v" name="sd_A_common_szdi1_frame(1).png" path="/img/"/>
+    <component id="pwoe3x" name="TalentFgProgressBar.xml" path="/progressBar/"/>
+    <component id="ov083y" name="TalentSmallV2Comp.xml" path="/components/"/>
+    <component id="ov083z" name="TalentBigV2Comp.xml" path="/components/"/>
+    <component id="db4z40" name="TalentDNABar.xml" path="/bar/"/>
+    <image id="db4z41" name="DNA_bg.png" path="/bar/img/"/>
+    <image id="db4z42" name="DNA_fg.png" path="/bar/img/"/>
+    <image id="db4z43" name="bar_bgL.png" path="/bar/img/" scale="9grid" scale9grid="0,6,34,5"/>
+    <image id="db4z44" name="bar_bgR.png" path="/bar/img/" scale="9grid" scale9grid="0,5,34,4"/>
+    <image id="db4z45" name="level_line_blue.png" path="/img/" scale="9grid" scale9grid="3,2,6,3"/>
+    <component id="db4z46" name="TalentBgBarL.xml" path="/bar/"/>
+    <component id="db4z47" name="TalentBgBarR.xml" path="/bar/"/>
+    <component id="db4z48" name="TalentOneKeyLvUpBtn.xml" path="/btn/"/>
+    <image id="db4z49" name="zu13040.png" path="/btn/img/"/>
+    <image id="db4z4a" name="keshengji.png" path="/btn/img/"/>
+    <image id="db4z4b" name="sd_Hhongdian_003_tag.png" path="/btn/img/"/>
+    <component id="db4z4c" name="TalentRedDotTipsBtn.xml" path="/btn/"/>
+    <component id="f3sk4d" name="TalentNewEffectTipsWin.xml" path="/"/>
+    <image id="f3sk4e" name="sd_A_common_gxhd_frame.png" path="/img/"/>
+    <image id="f3sk4f" name="sd_A_common_gxhdbt_frame_0.png" path="/img/"/>
+    <image id="f3sk4g" name="jibanshengji.png" path="/img/"/>
+    <image id="f3sk4h" name="gongnengjiesuo.png" path="/img/"/>
+    <image id="f3sk4i" name="guang.png" path="/img/"/>
+    <image id="f3sk4j" name="guang1.png" path="/img/"/>
+    <image id="f3sk4k" name="sd_Ttubiao_tubiao_zhujiemian_0001_2.png" path="/img/"/>
+    <image id="f3sk4l" name="tfgz_jb.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

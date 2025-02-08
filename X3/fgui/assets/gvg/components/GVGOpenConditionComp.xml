@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,34">
+  <controller name="isOpen" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n36_ac45" name="bg" src="ac4526" fileName="img/sd_A_common_liaotian_frame_29.png" xy="0,0" alpha="0.25"/>
+    <richtext id="n43_ac45" name="labelContent" xy="17,2" size="281,29" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="联盟人数达到15人"/>
+    <image id="n41_ac45" name="n41" src="ac4528" fileName="img/scale_60%_sd_A_common_cha_icon.png" xy="319,3">
+      <gearDisplay controller="isOpen" pages="0"/>
+    </image>
+    <image id="n42_ac45" name="n42" src="ac4529" fileName="img/scale_60%_sd_A_common_gou_icon.png" xy="315,2">
+      <gearDisplay controller="isOpen" pages="1"/>
+    </image>
+    <image id="n45_k3sy" name="n45" src="v891vvv1f3" fileName="img/boss_tag.png" pkg="38fa8c75" xy="3,2"/>
+  </displayList>
+</component>

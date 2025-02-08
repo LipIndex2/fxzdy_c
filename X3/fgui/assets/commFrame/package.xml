@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="u3k6kdot">
+  <resources>
+    <image id="s8ulvvv1hn" name="szhd_di1.png" path="/img/" exported="true" scale="9grid" scale9grid="209,54,50,16"/>
+    <image id="teoxvvv1ia" name="sjkj_bt.png" path="/img/" exported="true" scale="9grid" scale9grid="65,22,21,44"/>
+    <image id="x52evvv18p" name="jineng_frame.png" path="/img/" exported="true" scale="9grid" scale9grid="141,117,32,12"/>
+    <component id="woygvvv1ii" name="BtnConfirmOnceTodayWin.xml" path="/confirm/" exported="true"/>
+    <component id="47515" name="BtnConfirmView.xml" path="/confirm/" exported="true"/>
+    <component id="gkgvvvv19y" name="BuyInLimitTodayConfirmView.xml" path="/confirm/" exported="true"/>
+    <component id="8g0dvvv1i8" name="FormationDefendView.xml" path="/confirm/"/>
+    <component id="ckie30" name="ItemCostConfirmView.xml" path="/confirm/" exported="true"/>
+    <component id="ckie31" name="ItemExchangeConfirmView.xml" path="/confirm/" exported="true"/>
+    <image id="8qld1y" name="tc1_frame.png" path="/img/" exported="true" scale="9grid" scale9grid="156,110,27,19"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,125 @@
+
+skill02_lower.png
+size: 614,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/caodi
+  rotate: false
+  xy: 478, 254
+  size: 125, 124
+  orig: 128, 128
+  offset: 1, 4
+  index: -1
+effect/ring_00000
+  rotate: false
+  xy: 336, 18
+  size: 72, 72
+  orig: 180, 180
+  offset: 54, 54
+  index: -1
+effect/ring_00001
+  rotate: false
+  xy: 486, 584
+  size: 102, 102
+  orig: 180, 180
+  offset: 39, 39
+  index: -1
+effect/ring_00002
+  rotate: false
+  xy: 482, 406
+  size: 122, 124
+  orig: 180, 180
+  offset: 29, 28
+  index: -1
+effect/ring_00003
+  rotate: false
+  xy: 336, 92
+  size: 138, 140
+  orig: 180, 180
+  offset: 21, 20
+  index: -1
+effect/ring_00004
+  rotate: false
+  xy: 332, 532
+  size: 152, 154
+  orig: 180, 180
+  offset: 14, 13
+  index: -1
+effect/ring_00005
+  rotate: false
+  xy: 176, 530
+  size: 154, 156
+  orig: 180, 180
+  offset: 13, 12
+  index: -1
+effect/ring_00006
+  rotate: false
+  xy: 476, 94
+  size: 136, 138
+  orig: 180, 180
+  offset: 22, 21
+  index: -1
+effect/ring_00007
+  rotate: false
+  xy: 334, 234
+  size: 142, 144
+  orig: 180, 180
+  offset: 19, 18
+  index: -1
+effect/ring_00008
+  rotate: false
+  xy: 332, 380
+  size: 148, 150
+  orig: 180, 180
+  offset: 16, 15
+  index: -1
+effect/ring_00009
+  rotate: false
+  xy: 176, 372
+  size: 154, 156
+  orig: 180, 180
+  offset: 13, 12
+  index: -1
+effect/ring_00010
+  rotate: false
+  xy: 174, 178
+  size: 158, 160
+  orig: 180, 180
+  offset: 11, 10
+  index: -1
+effect/ring_00011
+  rotate: false
+  xy: 172, 4
+  size: 162, 164
+  orig: 180, 180
+  offset: 9, 8
+  index: -1
+effect/ring_00012
+  rotate: true
+  xy: 2, 2
+  size: 166, 168
+  orig: 180, 180
+  offset: 7, 6
+  index: -1
+effect/ring_00013
+  rotate: true
+  xy: 2, 170
+  size: 168, 170
+  orig: 180, 180
+  offset: 6, 5
+  index: -1
+effect/ring_00014
+  rotate: true
+  xy: 2, 340
+  size: 170, 172
+  orig: 180, 180
+  offset: 5, 4
+  index: -1
+effect/ring_00015
+  rotate: false
+  xy: 2, 512
+  size: 172, 174
+  orig: 180, 180
+  offset: 4, 3
+  index: -1

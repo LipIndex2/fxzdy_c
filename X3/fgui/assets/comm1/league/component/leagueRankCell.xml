@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,121">
+  <controller name="rank" exported="true" pages="0,,1,,2,,3,,4,,6,,7," selected="0">
+    <remark page="0" value="1"/>
+    <remark page="1" value="2"/>
+    <remark page="2" value="3"/>
+    <remark page="3" value="其他"/>
+    <remark page="4" value="我的"/>
+    <remark page="5" value="我的初始"/>
+    <remark page="6" value="其他初始"/>
+  </controller>
+  <controller name="noRank" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n9_bc8b" name="n9" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="19,0" size="599,121" group="n32_sh62"/>
+    <image id="n10_bc8b" name="n10" src="iuievvv1ca" fileName="bgImage/paimingframe.png" pkg="38fa8c75" xy="22,3" size="135,114" group="n32_sh62"/>
+    <group id="n32_sh62" name="n32" xy="19,0" size="599,121"/>
+    <image id="n24_bc8b" name="n24" src="j2wss9i" fileName="img/zjlb_frame.png" xy="0,0" size="638,120" group="n34_sh62"/>
+    <image id="n25_bc8b" name="n25" src="j2wss9j" fileName="img/zijipaiming_frame.png" xy="3,3" size="153,114" group="n34_sh62"/>
+    <text id="n39_qlkj" name="myRankNoRank" xy="28,47" pivot="0.5,0.5" size="93,42" group="n34_sh62" visible="false" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="未上榜">
+      <gearDisplay controller="rank" pages="4"/>
+    </text>
+    <text id="n29_bc8b" name="myRankTxt" xy="78,53" pivot="0.5,0.5" anchor="true" size="10,54" group="n38_qlkj" fontSize="40" color="#ffffff" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text=""/>
+    <text id="n30_bc8b" name="n30" xy="33,67" size="91,32" group="n38_qlkj" fontSize="22" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="我的排名">
+      <gearDisplay controller="noRank" pages=""/>
+    </text>
+    <group id="n38_qlkj" name="myRank" xy="33,26" size="91,73" group="n34_sh62" advanced="true">
+      <gearDisplay controller="noRank" pages="1"/>
+    </group>
+    <group id="n34_sh62" name="n34" xy="0,0" size="638,120" advanced="true">
+      <gearDisplay controller="rank" pages="4,6"/>
+    </group>
+    <image id="n11_bc8b" name="n11" src="gkgvvvv19j" fileName="rank/images/no1_icon.png" pkg="38fa8c75" xy="36,31" size="98,61">
+      <gearDisplay controller="rank" pages="0"/>
+    </image>
+    <image id="n18_bc8b" name="n18" src="gkgvvvv19k" fileName="rank/images/no2_icon.png" pkg="38fa8c75" xy="36,31" size="98,60">
+      <gearDisplay controller="rank" pages="1"/>
+    </image>
+    <image id="n20_bc8b" name="n20" src="gkgvvvv19l" fileName="rank/images/no3_icon.png" pkg="38fa8c75" xy="40,31" size="89,60">
+      <gearDisplay controller="rank" pages="2"/>
+    </image>
+    <text id="n31_sh62" name="rankTxt" xy="81,61" pivot="0.5,0.5" anchor="true" size="128,54" fontSize="40" color="#58c2ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="">
+      <gearDisplay controller="rank" pages="3"/>
+    </text>
+    <component id="n40_i83d" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" xy="273,49" size="168,72" group="n36_qlkj" aspect="true"/>
+    <text id="n14_bc8b" name="nameTxt" xy="273,20" size="10,34" group="n36_qlkj" fontSize="24" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text=""/>
+    <component id="n35_qlkj" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="164,9" group="n36_qlkj" scale="0.9,0.9"/>
+    <group id="n36_qlkj" name="n36" xy="164,9" size="277,112" advanced="true">
+      <gearDisplay controller="noRank" pages="1"/>
+    </group>
+    <text id="n37_qlkj" name="n37" xy="257,39" size="123,42" fontSize="30" color="#5e89d8" strokeColor="#010e16" strokeSize="2" text="虚位以待">
+      <gearDisplay controller="noRank" pages="0"/>
+      <gearDisplay2 controller="rank" pages="0,1,2,3" condition="0"/>
+    </text>
+    <text id="n16_bc8b" name="rankValue" xy="523,66" pivot="0.5,0.5" anchor="true" size="10,42" fontSize="30" color="#fee489" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="">
+      <gearDisplay controller="noRank" pages="1"/>
+    </text>
+  </displayList>
+</component>

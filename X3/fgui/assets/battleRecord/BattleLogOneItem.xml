@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="712,40">
+  <displayList>
+    <image id="n7_ee3z" name="n7" src="105pvv18f" fileName="bgImage/kppydi_blood.png" pkg="38fa8c75" xy="0,1" size="712,37"/>
+    <image id="n8_ee3z" name="img_jdt" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="3,4" size="705,31"/>
+    <text id="n2_ee3z" name="labelTitle" xy="9,-2" size="694,43" fontSize="26" color="#cccccc" vAlign="middle" vars="true" autoSize="none" strokeColor="#000000" singleLine="true" text="竞技场每周排行榜"/>
+  </displayList>
+</component>

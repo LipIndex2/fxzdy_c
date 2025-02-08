@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="284,57">
+  <controller name="isAdd" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n91_8090" name="imageItem" xy="28,26" pivot="0.5,0.5" anchor="true" size="48,48" align="center" vAlign="middle" clearOnPublish="true"/>
+    <richtext id="n90_8090" name="labelText" xy="53,9" size="175,34" fontSize="24" color="#fbf5ff" vAlign="middle" ubb="true" vars="true" strokeColor="#190701" strokeSize="2" singleLine="true" text="能量：12533/h"/>
+    <image id="n92_8090" name="imageAdd" src="r8pu176" fileName="img/shangshengjiantou.png" xy="237,11">
+      <gearDisplay controller="isAdd" pages="1"/>
+      <relation target="n90_8090" sidePair="left-right"/>
+    </image>
+  </displayList>
+</component>

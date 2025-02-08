@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,30">
+  <displayList>
+    <loader id="n4_jy2z" name="img" xy="0,-11" size="50,50" group="n3_jy2z" scale="0.8,0.8" autoSize="true"/>
+    <loader id="n6_jy2z" name="arrowImg" xy="108,-11" size="50,50" group="n3_jy2z" scale="0.8,0.8">
+      <relation target="n4_jy2z" sidePair="left-right"/>
+    </loader>
+    <group id="n3_jy2z" name="numText" xy="0,-11" size="158,50" advanced="true"/>
+  </displayList>
+  <transition name="t">
+    <item time="0" type="Alpha" target="n3_jy2z" value="1"/>
+    <item time="0" type="Alpha" target="n3_jy2z" value="1"/>
+    <item time="0" type="XY" target="n3_jy2z" value="-,-11"/>
+    <item time="0" type="XY" target="n3_jy2z" tween="true" startValue="-,15" endValue="-,-31" duration="20" ease="Sine.InOut"/>
+    <item time="19" type="Alpha" target="n3_jy2z" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="33" type="XY" target="n3_jy2z" value="-,-31"/>
+  </transition>
+  <transition name="d">
+    <item time="0" type="Alpha" target="n3_jy2z" value="1"/>
+    <item time="0" type="Alpha" target="n3_jy2z" value="1"/>
+    <item time="0" type="XY" target="n3_jy2z" value="-,-11"/>
+    <item time="0" type="XY" target="n3_jy2z" tween="true" startValue="-,15" endValue="-,46" duration="20" ease="Sine.InOut"/>
+    <item time="19" type="Alpha" target="n3_jy2z" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="33" type="XY" target="n3_jy2z" value="-,46"/>
+  </transition>
+</component>

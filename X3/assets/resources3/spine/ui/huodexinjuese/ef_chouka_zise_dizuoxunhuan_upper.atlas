@@ -1,0 +1,41 @@
+
+ef_chouka_zise_dizuoxunhuan_upper.png
+size: 713,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_chouka_chuxianguang
+  rotate: false
+  xy: 2, 2
+  size: 385, 336
+  orig: 450, 450
+  offset: 38, 29
+  index: -1
+images/effect/ef_chouka_fangkuai
+  rotate: false
+  xy: 389, 389
+  size: 86, 84
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+images/effect/ef_chouka_line
+  rotate: false
+  xy: 477, 389
+  size: 19, 134
+  orig: 26, 153
+  offset: 3, 9
+  index: -1
+images/effect/ef_chouka_wenli
+  rotate: true
+  xy: 389, 2
+  size: 385, 322
+  orig: 450, 450
+  offset: 38, 25
+  index: -1
+images/effect/ef_chouka_xunhuanguang
+  rotate: false
+  xy: 2, 340
+  size: 385, 367
+  orig: 450, 450
+  offset: 38, 25
+  index: -1

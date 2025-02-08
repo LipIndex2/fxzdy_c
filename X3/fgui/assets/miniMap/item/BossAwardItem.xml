@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="599,128">
+  <controller name="c1" pages="0,未解锁,1,已解锁" selected="1"/>
+  <displayList>
+    <image id="n35_96e1" name="n35" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="599,128"/>
+    <image id="n36_96e1" name="n36" src="iuievvv1ca" fileName="bgImage/paimingframe.png" pkg="38fa8c75" xy="6,6" size="146,116"/>
+    <loader id="n50_k045" name="img_icon" xy="6,6" size="147,116" url="ui://e477df1ck0458c" autoSize="true"/>
+    <list id="n51_k045" name="list_award" xy="177,18" size="453,106" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n52_k045" name="n52" src="k0458d" fileName="img/zhezhao.png" xy="0,1" alpha="0.4">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <loader id="n55_k045" name="img_get" xy="0,0" size="599,128">
+      <gearDisplay controller="c1" pages="1"/>
+    </loader>
+    <loader id="n54_k045" name="img_suo" xy="274,33" size="51,62" url="ui://38fa8c75v891vvv1ew" autoSize="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </loader>
+  </displayList>
+</component>

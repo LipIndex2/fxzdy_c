@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,240">
+  <displayList>
+    <component id="n4_894b" name="noticeCom" src="h90v2j" fileName="leagueMain/com/leagueNoticeCom.xml" xy="16,91"/>
+    <component id="n5_894b" name="chat" src="jqxis98" fileName="chat/ChatComp.xml" pkg="72zq62ea" xy="16,19" size="511,47"/>
+    <component id="n9_c9kw" name="btnLeagueBargain" src="c9kw122" fileName="btn/LeagueBargainEnterBtn.xml" xy="24,-110"/>
+    <component id="n6_e53p" name="shopBtn" src="h90v2b" fileName="leagueMain/btn/shopBtn.xml" xy="652,-37" group="n8_e53p"/>
+    <component id="n7_e53p" name="challengeBtn" src="h90v2a" fileName="leagueMain/btn/challengeBtn.xml" xy="645,-166" group="n8_e53p"/>
+    <group id="n8_e53p" name="n8" xy="645,-166" size="99,232" advanced="true"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n4_894b" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n5_894b" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n8_e53p" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n4_894b" tween="true" startValue="16,191" endValue="16,91" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n5_894b" tween="true" startValue="16,119" endValue="16,19" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n8_e53p" tween="true" startValue="745,-166" endValue="645,-166" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

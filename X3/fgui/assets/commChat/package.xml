@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="gq5ugm3u">
+  <resources>
+    <image id="lb790" name="qipao1.png" path="/skin/" exported="true" scale="9grid" scale9grid="80,54,40,4" disableTrim="true"/>
+    <image id="lb791" name="qipao2.png" path="/skin/" exported="true" scale="9grid" scale9grid="80,53,33,1" disableTrim="true"/>
+    <image id="lb792" name="qipao3.png" path="/skin/" exported="true" scale="9grid" scale9grid="80,52,27,2" disableTrim="true"/>
+    <image id="lb793" name="qipao4.png" path="/skin/" exported="true" scale="9grid" scale9grid="80,52,40,1" disableTrim="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

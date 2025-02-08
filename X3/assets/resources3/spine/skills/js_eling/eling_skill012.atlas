@@ -1,0 +1,209 @@
+
+eling_skill012.png
+size: 383,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_ep1_01
+  rotate: false
+  xy: 294, 7
+  size: 87, 19
+  orig: 170, 40
+  offset: 39, 10
+  index: -1
+effect/skill02_ep1_02
+  rotate: true
+  xy: 305, 64
+  size: 125, 27
+  orig: 170, 40
+  offset: 19, 6
+  index: -1
+effect/skill02_ep1_03
+  rotate: false
+  xy: 155, 28
+  size: 137, 30
+  orig: 170, 40
+  offset: 13, 5
+  index: -1
+effect/skill02_ep1_04
+  rotate: true
+  xy: 334, 71
+  size: 87, 32
+  orig: 170, 40
+  offset: 8, 4
+  index: -1
+effect/skill02_ep2_01
+  rotate: true
+  xy: 275, 403
+  size: 86, 19
+  orig: 170, 40
+  offset: 42, 11
+  index: -1
+effect/skill02_ep2_02
+  rotate: true
+  xy: 330, 365
+  size: 124, 27
+  orig: 170, 40
+  offset: 22, 7
+  index: -1
+effect/skill02_ep2_03
+  rotate: false
+  xy: 2, 23
+  size: 137, 30
+  orig: 170, 40
+  offset: 15, 5
+  index: -1
+effect/skill02_ep2_04
+  rotate: false
+  xy: 294, 28
+  size: 87, 32
+  orig: 170, 40
+  offset: 10, 4
+  index: -1
+effect/skill02_line1_01
+  rotate: true
+  xy: 334, 160
+  size: 120, 25
+  orig: 180, 30
+  offset: 60, 2
+  index: -1
+effect/skill02_line1_02
+  rotate: true
+  xy: 334, 160
+  size: 120, 25
+  orig: 180, 30
+  offset: 60, 2
+  index: -1
+effect/skill02_line1_03
+  rotate: true
+  xy: 305, 191
+  size: 139, 25
+  orig: 180, 30
+  offset: 37, 2
+  index: -1
+effect/skill02_line1_04
+  rotate: false
+  xy: 141, 2
+  size: 151, 24
+  orig: 180, 30
+  offset: 13, 4
+  index: -1
+effect/skill02_line1_05
+  rotate: true
+  xy: 305, 332
+  size: 157, 23
+  orig: 180, 30
+  offset: 5, 5
+  index: -1
+effect/skill02_line1_06
+  rotate: true
+  xy: 359, 385
+  size: 104, 20
+  orig: 180, 30
+  offset: 0, 7
+  index: -1
+effect/skill02_line1_07
+  rotate: true
+  xy: 361, 179
+  size: 101, 18
+  orig: 180, 30
+  offset: 1, 8
+  index: -1
+effect/skill02_line1_08
+  rotate: false
+  xy: 177, 358
+  size: 15, 15
+  orig: 180, 30
+  offset: 38, 10
+  index: -1
+effect/skill02_line2_01
+  rotate: false
+  xy: 2, 270
+  size: 162, 68
+  orig: 180, 80
+  offset: 5, 5
+  index: -1
+effect/skill02_line2_02
+  rotate: false
+  xy: 2, 55
+  size: 151, 68
+  orig: 180, 80
+  offset: 5, 7
+  index: -1
+effect/skill02_line2_03
+  rotate: true
+  xy: 166, 60
+  size: 146, 68
+  orig: 180, 80
+  offset: 5, 7
+  index: -1
+effect/skill02_line2_04
+  rotate: true
+  xy: 236, 62
+  size: 144, 67
+  orig: 180, 80
+  offset: 5, 7
+  index: -1
+effect/skill02_line2_05
+  rotate: false
+  xy: 2, 125
+  size: 162, 65
+  orig: 180, 80
+  offset: 5, 8
+  index: -1
+effect/skill02_shadow
+  rotate: false
+  xy: 2, 192
+  size: 144, 76
+  orig: 150, 80
+  offset: 4, 2
+  index: -1
+effect/skill02_wind1_01
+  rotate: false
+  xy: 332, 282
+  size: 41, 81
+  orig: 100, 180
+  offset: 10, 22
+  index: -1
+effect/skill02_wind1_02
+  rotate: false
+  xy: 243, 269
+  size: 60, 118
+  orig: 100, 180
+  offset: 5, 11
+  index: -1
+effect/skill02_wind1_03
+  rotate: false
+  xy: 166, 208
+  size: 75, 137
+  orig: 100, 180
+  offset: 3, 6
+  index: -1
+effect/skill02_wind1_04
+  rotate: false
+  xy: 93, 347
+  size: 82, 142
+  orig: 100, 180
+  offset: 1, 6
+  index: -1
+effect/skill02_wind1_05
+  rotate: false
+  xy: 2, 340
+  size: 89, 149
+  orig: 100, 180
+  offset: 3, 6
+  index: -1
+effect/skill02_wind1_06
+  rotate: false
+  xy: 177, 389
+  size: 96, 100
+  orig: 100, 180
+  offset: 4, 68
+  index: -1
+effect/skill02_wind1_07
+  rotate: false
+  xy: 177, 375
+  size: 23, 12
+  orig: 100, 180
+  offset: 28, 162
+  index: -1

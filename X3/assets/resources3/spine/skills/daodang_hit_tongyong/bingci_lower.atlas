@@ -1,0 +1,20 @@
+
+bingci_lower.png
+size: 147,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tongyong_bingci_dilie
+  rotate: false
+  xy: 2, 17
+  size: 143, 38
+  orig: 150, 40
+  offset: 5, 1
+  index: -1
+effect/tongyong_guangyun
+  rotate: false
+  xy: 2, 57
+  size: 88, 88
+  orig: 100, 100
+  offset: 7, 6
+  index: -1

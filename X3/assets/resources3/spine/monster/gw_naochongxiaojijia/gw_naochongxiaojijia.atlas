@@ -1,0 +1,258 @@
+
+gw_naochongxiaojijia.png
+size: 200,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 119, 66
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 153, 66
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 2, 6
+  size: 14, 11
+  orig: 17, 11
+  offset: 3, 0
+  index: -1
+js011
+  rotate: 180
+  xy: 49, 4
+  size: 13, 10
+  orig: 17, 11
+  offset: 4, 1
+  index: -1
+js012
+  rotate: false
+  xy: 113, 95
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 61, 98
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 116, 15
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+js015
+  rotate: true
+  xy: 61, 59
+  size: 41, 32
+  orig: 41, 34
+  offset: 0, 2
+  index: -1
+js016
+  rotate: true
+  xy: 106, 6
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 178, 54
+  size: 12, 12
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 153, 95
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 153, 73
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+js02
+  rotate: 180
+  xy: 109, 32
+  size: 35, 27
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+js020
+  rotate: false
+  xy: 143, 20
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+js021
+  rotate: 180
+  xy: 187, 4
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 164, 30
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+js023
+  rotate: false
+  xy: 186, 63
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+js027
+  rotate: false
+  xy: 80, 44
+  size: 11, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+js029
+  rotate: false
+  xy: 34, 21
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+js03
+  rotate: 180
+  xy: 61, 27
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+js030
+  rotate: false
+  xy: 34, 5
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+js031
+  rotate: true
+  xy: 20, 8
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+js032
+  rotate: true
+  xy: 187, 82
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+js033
+  rotate: false
+  xy: 96, 17
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+js034
+  rotate: false
+  xy: 76, 13
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+js035
+  rotate: false
+  xy: 56, 13
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+js036
+  rotate: 270
+  xy: 147, 41
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+js037
+  rotate: true
+  xy: 174, 24
+  size: 31, 24
+  orig: 32, 26
+  offset: 1, 0
+  index: -1
+js038
+  rotate: false
+  xy: 2, 18
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+js04
+  rotate: 180
+  xy: 167, 13
+  size: 30, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+js05
+  rotate: true
+  xy: 93, 4
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+js06
+  rotate: true
+  xy: 90, 39
+  size: 62, 27
+  orig: 62, 29
+  offset: 0, 2
+  index: -1
+js07
+  rotate: false
+  xy: 152, 3
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+js08
+  rotate: true
+  xy: 133, 4
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 2, 44
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 117, 55
+  size: 14, 10
+  orig: 16, 12
+  offset: 0, 2
+  index: -1

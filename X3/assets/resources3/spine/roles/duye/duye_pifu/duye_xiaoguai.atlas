@@ -1,0 +1,90 @@
+
+duye_xiaoguai.png
+size: 129,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 2, 12
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+js01
+  rotate: true
+  xy: 97, 41
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 2, 178
+  size: 80, 49
+  orig: 80, 49
+  offset: 0, 0
+  index: -1
+js02
+  rotate: true
+  xy: 86, 87
+  size: 59, 31
+  orig: 62, 31
+  offset: 3, 0
+  index: -1
+te/sw1
+  rotate: false
+  xy: 84, 184
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+te/sw2
+  rotate: true
+  xy: 51, 4
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+te/sw3
+  rotate: true
+  xy: 2, 25
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+te/sw4
+  rotate: false
+  xy: 67, 34
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+te/sw5
+  rotate: true
+  xy: 2, 55
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+te/sw6
+  rotate: true
+  xy: 2, 116
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+te/sw7
+  rotate: true
+  xy: 2, 87
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+te/sw8
+  rotate: true
+  xy: 2, 148
+  size: 29, 89
+  orig: 29, 89
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1bfd9c01">
+  <resources>
+    <image id="54220" name="guang.png" path="/img/"/>
+    <image id="54221" name="guang1.png" path="/img/"/>
+    <image id="54222" name="sd_Ttubiao_tubiao_zhujiemian_0001.png" path="/img/"/>
+    <image id="54224" name="sd_A_common_gxhdbt_frame.png" path="/img/"/>
+    <image id="54225" name="gongnengjiesuo.png" path="/img/"/>
+    <component id="54226" name="funcOpenView.xml" path="/"/>
+    <component id="dusv7" name="FuncOpenItem.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

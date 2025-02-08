@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="93,154" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1,,24," selected="1">
+    <remark page="0" value="可挑战"/>
+    <remark page="1" value="当前挑战"/>
+    <remark page="2" value="未解锁"/>
+  </controller>
+  <displayList>
+    <loader id="n36_loj0" name="iconLoader" xy="46,150" pivot="0.5,1" anchor="true" size="93,150" url="ui://17246473loj011p" align="center" vAlign="bottom" fill="scaleFree">
+      <gearIcon controller="state" pages="0,1,24" values="ui://17246473loj011o|ui://17246473loj011p|ui://17246473loj011q"/>
+    </loader>
+    <image id="n23_f430" name="n23" src="f43099" fileName="img/jiedianhui.png" xy="12,126">
+      <gearDisplay controller="state" pages="24"/>
+    </image>
+    <image id="n19_f430" name="n19" src="f43096" fileName="img/jiediandi.png" xy="12,126">
+      <gearDisplay controller="state" pages="0,1"/>
+    </image>
+    <text id="n20_f430" name="lbName" xy="46,140" pivot="0.5,0.5" anchor="true" size="49,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" text="11-1"/>
+    <component id="n31_loj0" name="star1" src="loj011b" fileName="component/CollectiblesDungeonStar.xml" xy="9,18" group="n35_loj0" scale="0.6,0.6"/>
+    <component id="n32_loj0" name="star2" src="loj011b" fileName="component/CollectiblesDungeonStar.xml" xy="35,6" group="n35_loj0" scale="0.6,0.6"/>
+    <component id="n33_loj0" name="star3" src="loj011b" fileName="component/CollectiblesDungeonStar.xml" xy="60,18" group="n35_loj0" scale="0.6,0.6"/>
+    <group id="n35_loj0" name="gStar" xy="9,6" size="89,48" advanced="true">
+      <gearDisplay controller="state" pages="0,1"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="curAni">
+    <item time="0" type="Size" target="n36_loj0" tween="true" startValue="93,150" endValue="80,175" duration="6"/>
+    <item time="6" type="Size" target="n36_loj0" tween="true" startValue="80,175" endValue="93,150" duration="6"/>
+    <item time="12" type="Size" target="n36_loj0" tween="true" startValue="93,150" endValue="93,150" duration="6"/>
+  </transition>
+</component>

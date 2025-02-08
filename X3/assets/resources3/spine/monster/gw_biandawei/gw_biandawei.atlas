@@ -1,0 +1,125 @@
+
+gw_biandawei.png
+size: 149,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jzd0
+  rotate: true
+  xy: 117, 47
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Jzd1
+  rotate: false
+  xy: 117, 10
+  size: 18, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Jzd10
+  rotate: false
+  xy: 137, 7
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+Jzd11
+  rotate: false
+  xy: 101, 16
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+Jzd12
+  rotate: false
+  xy: 23, 4
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+Jzd13
+  rotate: true
+  xy: 71, 3
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+Jzd14
+  rotate: false
+  xy: 117, 28
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Jzd16
+  rotate: false
+  xy: 62, 34
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+Jzd18
+  rotate: true
+  xy: 2, 14
+  size: 6, 68
+  orig: 6, 68
+  offset: 0, 0
+  index: -1
+Jzd2
+  rotate: false
+  xy: 2, 22
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+Jzd20
+  rotate: true
+  xy: 136, 28
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+Jzd3
+  rotate: false
+  xy: 71, 16
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+Jzd5
+  rotate: false
+  xy: 101, 44
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+Jzd6
+  rotate: false
+  xy: 39, 4
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Jzd7
+  rotate: true
+  xy: 2, 4
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+Jzd8
+  rotate: false
+  xy: 86, 34
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+jzd9
+  rotate: false
+  xy: 54, 4
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1

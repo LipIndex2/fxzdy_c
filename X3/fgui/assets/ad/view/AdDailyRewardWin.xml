@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n1_b0f1" name="n1" src="b0f110" fileName="img/tuceng880.png" xy="3,364" group="n14_lyzg"/>
+    <image id="n2_b0f1" name="n2" src="b0f111" fileName="img/xingxingdiandian.png" xy="109,375" group="n14_lyzg"/>
+    <image id="n10_b0f1" name="n10" src="b0f115" fileName="img/xiaohuanxiong.png" xy="430,608" group="n14_lyzg"/>
+    <image id="n16_v93u" name="n16" src="v93u17" fileName="img/jltb_frame.png" xy="374,589" pivot="0.5,0.5" anchor="true" size="372,128" group="n14_lyzg"/>
+    <list id="n12_loej" name="listReward" xy="375,588" pivot="0.5,0.5" anchor="true" size="352,104" group="n14_lyzg" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="20" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_b0f1" name="n3" xy="380,502" pivot="0.5,0.5" anchor="true" size="265,34" group="n14_lyzg" fontSize="24" color="#5fffee" align="center" vAlign="middle" text="距离领取奖励只差一步了"/>
+    <text id="n4_b0f1" name="n4" xy="385,691" pivot="0.5,0.5" anchor="true" size="261,36" group="n14_lyzg" fontSize="26" color="#faff73" align="center" vAlign="middle" text="购买终身卡可跳过广告"/>
+    <component id="n13_loej" name="btnPlay" src="loej1b" fileName="btn/BtnAd.xml" pkg="38fa8c75" xy="373,918" pivot="0.5,0.5" anchor="true" group="n14_lyzg">
+      <Button title="领取"/>
+    </component>
+    <image id="n17_v93u" name="n17" src="v93u18" fileName="img/jltb_title.png" xy="233,360" group="n14_lyzg"/>
+    <group id="n14_lyzg" name="gAll" xy="3,360" size="744,613" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n15_vdae" name="n15" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1016">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

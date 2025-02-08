@@ -1,0 +1,244 @@
+
+zhuchenghexin.png
+size: 700,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 664, 364
+  size: 69, 33
+  orig: 129, 203
+  offset: 5, 30
+  index: -1
+02
+  rotate: false
+  xy: 173, 29
+  size: 93, 29
+  orig: 129, 203
+  offset: 0, 43
+  index: -1
+03
+  rotate: false
+  xy: 303, 66
+  size: 91, 42
+  orig: 129, 203
+  offset: 8, 54
+  index: -1
+04
+  rotate: false
+  xy: 463, 61
+  size: 81, 41
+  orig: 129, 203
+  offset: 22, 77
+  index: -1
+05
+  rotate: false
+  xy: 396, 49
+  size: 65, 53
+  orig: 129, 203
+  offset: 30, 91
+  index: -1
+06
+  rotate: false
+  xy: 539, 15
+  size: 69, 39
+  orig: 129, 203
+  offset: 36, 110
+  index: -1
+07
+  rotate: true
+  xy: 63, 2
+  size: 63, 41
+  orig: 129, 203
+  offset: 47, 123
+  index: -1
+08
+  rotate: false
+  xy: 364, 6
+  size: 64, 41
+  orig: 129, 203
+  offset: 55, 139
+  index: -1
+09
+  rotate: false
+  xy: 173, 7
+  size: 67, 20
+  orig: 129, 203
+  offset: 62, 173
+  index: -1
+10
+  rotate: true
+  xy: 665, 305
+  size: 57, 30
+  orig: 129, 203
+  offset: 71, 173
+  index: -1
+J zd0
+  rotate: 180
+  xy: 130, 123
+  size: 140, 84
+  orig: 140, 84
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 636, 256
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 2, 10
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 2, 67
+  size: 108, 65
+  orig: 108, 65
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 463, 17
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 538, 114
+  size: 129, 57
+  orig: 129, 57
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 663, 242
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 341, 180
+  size: 219, 70
+  orig: 221, 70
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 2, 134
+  size: 126, 81
+  orig: 126, 85
+  offset: 0, 4
+  index: -1
+J zd17
+  rotate: true
+  xy: 200, 201
+  size: 232, 139
+  orig: 234, 139
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 517, 254
+  size: 34, 33
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 112, 12
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 210, 61
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: 180
+  xy: 561, 173
+  size: 132, 111
+  orig: 132, 111
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 549, 57
+  size: 148, 69
+  orig: 148, 69
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 304, 7
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 610, 5
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 517, 281
+  size: 153, 147
+  orig: 153, 153
+  offset: 0, 6
+  index: -1
+faguang
+  rotate: false
+  xy: 665, 271
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+faguang2
+  rotate: false
+  xy: 341, 252
+  size: 174, 181
+  orig: 174, 181
+  offset: 0, 0
+  index: -1
+gai1
+  rotate: false
+  xy: 410, 104
+  size: 126, 74
+  orig: 126, 75
+  offset: 0, 0
+  index: -1
+gai2
+  rotate: false
+  xy: 112, 69
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 271, 110
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+qiufaguang
+  rotate: false
+  xy: 2, 217
+  size: 196, 216
+  orig: 196, 216
+  offset: 0, 0
+  index: -1

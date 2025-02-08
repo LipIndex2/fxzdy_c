@@ -1,0 +1,13 @@
+
+dongkou.png
+size: 393,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_build_2102
+  rotate: false
+  xy: 2, 2
+  size: 389, 348
+  orig: 389, 351
+  offset: 0, 3
+  index: -1

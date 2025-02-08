@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="125,115" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n39_6b29" name="iconNormal" xy="60,57" pivot="0.5,0.5" anchor="true" size="119,107" group="n46_j6z9" url="ui://7q3fcj1kgtyg4l" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="0"/>
+    </loader>
+    <loader id="n48_phyf" name="iconPress" xy="58,58" pivot="0.5,0.5" anchor="true" size="119,107" group="n46_j6z9" url="ui://8982be53phyf4j" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="1"/>
+    </loader>
+    <image id="n47_dclx" name="redPoint" src="qoer4b" fileName="btnImage/gth_btn2.png" pkg="38fa8c75" xy="76,0" group="n46_j6z9" visible="false"/>
+    <text id="n44_6b29" name="title" xy="62,87" pivot="0.5,0.5" anchor="true" size="54,34" group="n46_j6z9" fontSize="24" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#201e1e" strokeSize="4" singleLine="true" text="召唤">
+      <relation target="n39_6b29" sidePair="center-center"/>
+    </text>
+    <group id="n46_j6z9" name="n46" xy="-1,0" size="121,111"/>
+  </displayList>
+  <Button/>
+</component>

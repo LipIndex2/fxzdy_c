@@ -1,0 +1,20 @@
+
+J_kelingqu.png
+size: 268,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_guangtiaosi
+  rotate: false
+  xy: 226, 17
+  size: 40, 75
+  orig: 48, 86
+  offset: 4, 6
+  index: -1
+mohu
+  rotate: false
+  xy: 2, 2
+  size: 222, 90
+  orig: 224, 92
+  offset: 1, 1
+  index: -1

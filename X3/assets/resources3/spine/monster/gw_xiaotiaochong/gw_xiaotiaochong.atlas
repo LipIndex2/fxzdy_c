@@ -1,0 +1,90 @@
+
+gw_xiaotiaochong.png
+size: 150,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 139, 35
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 76, 35
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 135, 11
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: 270
+  xy: 84, 4
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 119, 3
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 45, 10
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 78, 12
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 101, 19
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 104, 10
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: 180
+  xy: 123, 29
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 2, 8
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 29, 7
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1

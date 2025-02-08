@@ -1,0 +1,251 @@
+
+zhandoukaishi.png
+size: 1961,1941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ef_zhandoukaishi_TEXIAO1_00000
+  rotate: false
+  xy: 1306, 1221
+  size: 650, 357
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00001
+  rotate: false
+  xy: 1306, 1580
+  size: 650, 359
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00002
+  rotate: false
+  xy: 2, 1577
+  size: 650, 362
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00003
+  rotate: false
+  xy: 654, 1579
+  size: 650, 360
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00004
+  rotate: false
+  xy: 2, 1219
+  size: 650, 356
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00005
+  rotate: false
+  xy: 654, 1221
+  size: 596, 356
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00006
+  rotate: false
+  xy: 1107, 857
+  size: 413, 362
+  orig: 660, 400
+  offset: 0, 18
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00007
+  rotate: false
+  xy: 1522, 881
+  size: 214, 338
+  orig: 660, 400
+  offset: 0, 23
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00008
+  rotate: true
+  xy: 1507, 17
+  size: 192, 324
+  orig: 660, 400
+  offset: 0, 29
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00009
+  rotate: true
+  xy: 790, 40
+  size: 162, 292
+  orig: 660, 400
+  offset: 1, 42
+  index: -1
+images/ef_zhandoukaishi_TEXIAO1_00010
+  rotate: false
+  xy: 511, 983
+  size: 124, 234
+  orig: 660, 400
+  offset: 7, 67
+  index: -1
+images/ef_zhandoukaishi_glo_001
+  rotate: false
+  xy: 654, 868
+  size: 451, 351
+  orig: 515, 411
+  offset: 32, 30
+  index: -1
+images/ef_zhandoukaishi_kejiwenli
+  rotate: false
+  xy: 2, 738
+  size: 793, 128
+  orig: 793, 129
+  offset: 0, 1
+  index: -1
+images/ef_zhandoukaishi_tubiao_001
+  rotate: false
+  xy: 506, 2
+  size: 282, 204
+  orig: 282, 204
+  offset: 0, 0
+  index: -1
+images/ui_zhandoukaishiziti_00002
+  rotate: false
+  xy: 1016, 331
+  size: 500, 130
+  orig: 550, 200
+  offset: 36, 37
+  index: -1
+images/ui_zhandoukaishiziti_00003
+  rotate: false
+  xy: 2, 950
+  size: 507, 131
+  orig: 550, 200
+  offset: 34, 34
+  index: -1
+images/ui_zhandoukaishiziti_00004
+  rotate: true
+  xy: 1827, 719
+  size: 500, 132
+  orig: 550, 200
+  offset: 35, 33
+  index: -1
+images/ui_zhandoukaishiziti_00005
+  rotate: false
+  xy: 2, 611
+  size: 524, 125
+  orig: 550, 200
+  offset: 23, 39
+  index: -1
+images/ui_zhandoukaishiziti_00006
+  rotate: false
+  xy: 797, 727
+  size: 518, 128
+  orig: 550, 200
+  offset: 8, 47
+  index: -1
+images/ui_zhandoukaishiziti_00007
+  rotate: false
+  xy: 1317, 725
+  size: 508, 130
+  orig: 550, 200
+  offset: 19, 47
+  index: -1
+images/ui_zhandoukaishiziti_00008
+  rotate: true
+  xy: 1545, 220
+  size: 503, 129
+  orig: 550, 200
+  offset: 30, 38
+  index: -1
+images/ui_zhandoukaishiziti_00009
+  rotate: false
+  xy: 2, 1083
+  size: 500, 134
+  orig: 550, 200
+  offset: 35, 31
+  index: -1
+images/ui_zhandoukaishiziti_00010
+  rotate: false
+  xy: 510, 466
+  size: 509, 128
+  orig: 550, 200
+  offset: 32, 36
+  index: -1
+images/ui_zhandoukaishiziti_00011
+  rotate: false
+  xy: 1005, 204
+  size: 500, 125
+  orig: 550, 200
+  offset: 37, 38
+  index: -1
+images/ui_zhandoukaishiziti_00012
+  rotate: false
+  xy: 2, 221
+  size: 498, 126
+  orig: 550, 200
+  offset: 34, 36
+  index: -1
+images/ui_zhandoukaishiziti_00013
+  rotate: false
+  xy: 2, 82
+  size: 502, 124
+  orig: 550, 200
+  offset: 39, 37
+  index: -1
+images/ui_zhandoukaishiziti_00014
+  rotate: false
+  xy: 502, 208
+  size: 501, 125
+  orig: 550, 200
+  offset: 34, 37
+  index: -1
+images/ui_zhandoukaishiziti_00015
+  rotate: false
+  xy: 1021, 463
+  size: 505, 129
+  orig: 550, 200
+  offset: 36, 37
+  index: -1
+images/ui_zhandoukaishiziti_00016
+  rotate: false
+  xy: 528, 596
+  size: 507, 129
+  orig: 550, 200
+  offset: 35, 37
+  index: -1
+images/ui_zhandoukaishiziti_00019
+  rotate: false
+  xy: 1037, 594
+  size: 506, 129
+  orig: 550, 200
+  offset: 35, 37
+  index: -1
+images/ui_zhandoukaishiziti_00022
+  rotate: false
+  xy: 2, 349
+  size: 505, 129
+  orig: 550, 200
+  offset: 36, 37
+  index: -1
+images/ui_zhandoukaishiziti_00025
+  rotate: false
+  xy: 509, 335
+  size: 505, 129
+  orig: 550, 200
+  offset: 36, 37
+  index: -1
+images/ui_zhandoukaishiziti_00028
+  rotate: true
+  xy: 1676, 217
+  size: 506, 128
+  orig: 550, 200
+  offset: 35, 37
+  index: -1
+images/ui_zhandoukaishiziti_00030
+  rotate: true
+  xy: 1806, 211
+  size: 506, 126
+  orig: 550, 200
+  offset: 35, 37
+  index: -1
+images/ui_zhandoukaishiziti_00032
+  rotate: false
+  xy: 2, 480
+  size: 506, 129
+  orig: 550, 200
+  offset: 35, 37
+  index: -1

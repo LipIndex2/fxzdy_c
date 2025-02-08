@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kgkgv5p">
+  <displayList>
+    <image id="n2_64f3" name="n2" src="8qld1y" fileName="bgImage/tc1_frame.png" xy="66,429" size="619,471" group="n20_gkgv"/>
+    <image id="n3_64f3" name="n3" src="8qld1x" fileName="bgImage/tc2_frame.png" xy="88,518" size="574,203" group="n20_gkgv" pkg="38fa8c75"/>
+    <text id="n12_64f3" name="labelTitle" xy="345,453" size="67,44" group="n20_gkgv" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <text id="n4_64f3" name="labelContent1" xy="188,584" size="107,36" group="n16_gkgv" fontSize="26" color="#ddfbff" text="是否消耗"/>
+    <text id="n7_64f3" name="labelTips" xy="273,628" size="203,36" group="n16_gkgv" fontSize="26" color="#ddfbff" vars="true" singleLine="true" text="（今日可购{restCount=5}/{maxCount=8}）"/>
+    <text id="n17_gkgv" name="labelContent2" xy="399,584" size="158,36" group="n16_gkgv" fontSize="26" color="#ddfbff" text="购买一次次数">
+      <relation target="n18_gkgv" sidePair="left-right"/>
+    </text>
+    <loader id="n6_64f3" name="imageItem" xy="303,581" pivot="0.5,0.5" size="38,36" group="n18_gkgv" url="ui://38fa8c75j6z934" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n5_64f3" name="labelCostCount" xy="346,585" size="51,36" group="n18_gkgv" fontSize="26" color="#66ff66" text="300"/>
+    <group id="n18_gkgv" name="n18" xy="303,581" size="94,40" group="n16_gkgv" advanced="true">
+      <relation target="n4_64f3" sidePair="left-right"/>
+    </group>
+    <group id="n16_gkgv" name="contentP" xy="188,581" size="369,83" group="n20_gkgv" advanced="true"/>
+    <component id="n13_gkgv" name="btnOk" src="gkgvvvv1a5" fileName="btn/BtnChangGui.xml" xy="404,752" group="n19_gkgv" pkg="38fa8c75"/>
+    <component id="n15_gkgv" name="btnCancel" src="gkgvvvv1a7" fileName="btn/BtnChangGui2.xml" xy="120,752" group="n19_gkgv" pkg="38fa8c75"/>
+    <group id="n19_gkgv" name="btnP" xy="120,752" size="511,101" group="n20_gkgv"/>
+    <group id="n20_gkgv" name="n20" xy="66,429" size="619,471" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

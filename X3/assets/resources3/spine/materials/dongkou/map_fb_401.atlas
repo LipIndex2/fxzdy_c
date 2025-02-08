@@ -1,0 +1,13 @@
+
+map_fb_401.png
+size: 717,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_fb_301
+  rotate: false
+  xy: 2, 2
+  size: 713, 495
+  orig: 715, 496
+  offset: 2, 1
+  index: -1

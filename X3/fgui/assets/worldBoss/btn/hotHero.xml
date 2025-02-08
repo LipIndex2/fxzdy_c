@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="336,193" pivot="0.5,0.5">
+  <displayList>
+    <image id="n33_d6aa" name="n33" src="d6aa20" fileName="img/sd_MmeiriBOSS_zlzz_frame.png" xy="0,0"/>
+    <text id="n37_d6aa" name="n37" xy="23,34" size="147,49" fontSize="36" color="#feffff" strokeColor="#0b5bb5" strokeSize="2" text="热门英雄"/>
+    <text id="n38_d6aa" name="n38" xy="175,45" size="105,36" fontSize="26" color="#ffb22d" text="持续增伤"/>
+    <list id="n46_uug0" name="hotHeros" xy="23,86" size="295,86" layout="row" overflow="scroll" colGap="18" defaultItem="ui://ee94a619uug013c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

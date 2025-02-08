@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3cd69509">
+  <resources>
+    <component id="51a611" name="FactoryBuyPowerWin.xml" path="/view/"/>
+    <image id="51a618" name="sd_Yyoujian_youjian_icon.png" path="/img/"/>
+    <component id="51a621" name="FactoryRecordWin.xml" path="/view/"/>
+    <image id="51a624" name="xinxidi.png" path="/img/"/>
+    <component id="51a635" name="FactoryRecordDetailWin.xml" path="/view/"/>
+    <image id="51a644" name="touxian_di.png" path="/img/"/>
+    <component id="51a649" name="FactoryProductLineWin.xml" path="/view/"/>
+    <image id="51a659" name="gou_tag.png" path="/img/"/>
+    <image id="51a660" name="biaozhi_di.png" path="/img/" scale="9grid" scale9grid="20,15,2,2"/>
+    <image id="51a661" name="tanhao_tag.png" path="/img/"/>
+    <image id="51a665" name="no01.png" path="/img/" exported="true"/>
+    <image id="51a666" name="no02.png" path="/img/" exported="true"/>
+    <image id="51a667" name="no03.png" path="/img/" exported="true"/>
+    <image id="51a668" name="no04.png" path="/img/" exported="true"/>
+    <component id="51a670" name="FactoryOthersWin.xml" path="/view/"/>
+    <component id="51a671" name="FactoryOthersItem.xml" path="/item/"/>
+    <component id="51a680" name="FactoryMainView.xml" path="/view/"/>
+    <image id="czc681" name="bg.png" path="/img/" scale="9grid" scale9grid="200,680,350,14"/>
+    <component id="czc685" name="FactoryMainPanel.xml" path="/component/"/>
+    <image id="czc687" name="01.png" path="/img/" scale="9grid" scale9grid="20,12,6,6"/>
+    <component id="czc68t" name="FactoryProgressBar.xml" path="/component/"/>
+    <component id="czc68u" name="FactoryTransPanel.xml" path="/component/"/>
+    <component id="czc68v" name="FactoryOtherMainView.xml" path="/view/"/>
+    <component id="czc68w" name="FactoryOccupyItem.xml" path="/item/"/>
+    <component id="t5gy8x" name="FactoryTabBtn.xml" path="/component/"/>
+    <component id="t5gy8y" name="FactoryProductLineOwerPanel.xml" path="/component/"/>
+    <component id="t5gy8z" name="FactoryProductLineRewardPanel.xml" path="/component/"/>
+    <image id="t5gy90" name="jiaobiao.png" path="/img/"/>
+    <component id="t5gy91" name="FactoryHeroItem.xml" path="/item/"/>
+    <component id="t5gy9a" name="FactoryProductLineContent.xml" path="/component/"/>
+    <component id="t5gy9b" name="FactoryRecordItem.xml" path="/item/"/>
+    <image id="t5gy9c" name="youjian1_icon.png" path="/img/"/>
+    <component id="t5gy9i" name="FactoryBattleResultWin.xml" path="/view/"/>
+    <component id="t5gy9k" name="FactoryBoxBtn.xml" path="/component/"/>
+    <image id="t5gy9l" name="box_1.png" path="/img/" exported="true"/>
+    <image id="t5gy9m" name="box_2.png" path="/img/" exported="true"/>
+    <image id="t5gy9n" name="box_3.png" path="/img/" exported="true"/>
+    <image id="t5gy9o" name="box_open1.png" path="/img/" exported="true"/>
+    <image id="t5gy9p" name="box_open2.png" path="/img/" exported="true"/>
+    <image id="t5gy9q" name="box_open3.png" path="/img/" exported="true"/>
+    <image id="t5gy9r" name="trans_1.png" path="/img/"/>
+    <image id="t5gy9s" name="trans_2.png" path="/img/"/>
+    <image id="t5gy9t" name="trans_3.png" path="/img/"/>
+    <component id="t5gy9u" name="FactoryIcon.xml" path="/component/"/>
+    <image id="lb799v" name="light_1.png" path="/img/" exported="true"/>
+    <image id="lb799w" name="light_2.png" path="/img/" exported="true"/>
+    <image id="lb799x" name="light_3.png" path="/img/" exported="true"/>
+    <image id="lb799y" name="top_1.png" path="/img/" exported="true"/>
+    <image id="lb799z" name="top_2.png" path="/img/" exported="true"/>
+    <image id="lb79a0" name="top_3.png" path="/img/" exported="true"/>
+    <component id="lb79a1" name="FactoryBattlePanel.xml" path="/component/"/>
+    <component id="t1qha2" name="FactoryOtherBubble.xml" path="/component/"/>
+    <component id="t1qha4" name="FactoryOtherBubbleTip.xml" path="/component/"/>
+    <component id="t1qha5" name="FactoryOtherBubbleSpine.xml" path="/component/"/>
+    <component id="t1qha6" name="FactoryOtherBubbleSpineModel.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

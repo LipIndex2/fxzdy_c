@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="154,204" designImage="ui://7q3fcj1kdx6es9u" designImageOffsetX="-90" designImageOffsetY="-406">
+  <controller name="di" pages="0,,1,,2,,3,,4,,5,,6," selected="0">
+    <remark page="0" value="灰"/>
+    <remark page="1" value="绿"/>
+    <remark page="2" value="蓝"/>
+    <remark page="3" value="紫"/>
+    <remark page="4" value="橙"/>
+    <remark page="5" value="红"/>
+    <remark page="6" value="彩"/>
+  </controller>
+  <controller name="jia" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n10_bc0f" name="n10" xy="17,113" pivot="0.5,1" size="120,54" url="ui://kgeugj0mdx6e13" autoSize="true">
+      <gearIcon controller="di" pages="0,1,2,3,4,5,6" values="ui://kgeugj0mdx6e13|ui://kgeugj0mdx6e15|ui://kgeugj0mdx6e14|ui://kgeugj0mdx6ez|ui://kgeugj0mdx6e11|ui://kgeugj0mdx6e12|ui://kgeugj0mdx6e10"/>
+    </loader>
+    <component id="n22_dx6e" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="76,144" pivot="0.5,1" anchor="true" size="380,470" scale="0.3,0.3"/>
+    <image id="n18_bc0f" name="n18" src="dx6e6" fileName="img/xljb_mzd1_15.png" xy="8,172"/>
+    <text id="n21_bc0f" name="petName" xy="17,173" pivot="0.5,0.5" size="123,29" fontSize="20" color="#3eb0ff" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="星灵名字六字"/>
+    <image id="n23_dx6e" name="n23" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="158,72" scale="0.7,0.7">
+      <gearDisplay controller="jia" pages="1"/>
+    </image>
+    <component id="n24_dx6e" name="petBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="17,10" size="119,157"/>
+  </displayList>
+  <transition name="t0" autoPlay="true">
+    <item time="0" type="Alpha" target="n18_bc0f" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n21_bc0f" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n22_dx6e" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Scale" target="n22_dx6e" tween="true" startValue="0,0" endValue="0.3,0.3" duration="9"/>
+  </transition>
+</component>

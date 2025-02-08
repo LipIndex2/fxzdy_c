@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,36">
+  <displayList>
+    <text id="n24_d6aa" name="damage" xy="33,2" pivot="0,0.5" size="64,26" group="n61_e1fv" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#070110" strokeSize="3" text="4500万"/>
+    <image id="n58_e1fv" name="n58" src="e1fvvvv1ch" fileName="img/zd_icon.png" pkg="38fa8c75" xy="3,1" group="n61_e1fv" scale="0.8,0.8"/>
+    <group id="n61_e1fv" name="n61" xy="3,1" size="94,34" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

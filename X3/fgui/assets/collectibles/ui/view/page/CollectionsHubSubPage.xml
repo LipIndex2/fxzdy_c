@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_9d26" name="n0" src="xwdvvvv1kn" fileName="img/changjing.jpg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height,bottomext-bottom"/>
+    </image>
+    <image id="n11_9d26" name="n11" src="xwdvvvv1kp" fileName="img/sd_A_common_sjkj_bt.png" xy="7,81" size="365,91" group="n52_xwdv"/>
+    <image id="n12_9d26" name="n12" src="xwdvvvv1kq" fileName="img/biaoti.png" xy="39,72" size="251,63" group="n52_xwdv"/>
+    <group id="n52_xwdv" name="n52" xy="7,72" size="365,100" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n45_xwdv" name="baseLoader" src="xwdvvvv1kw" fileName="ui/cmp/CharactorComp.xml" xy="3,746" pivot="0,1" anchor="true" size="745,590">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <image id="n32_9d26" name="n32" src="xwdvvvv1ku" fileName="img/sd_A_common_liaotian_frame_1.png" xy="175,396" size="401,103" group="n50_xwdv" alpha="0.65"/>
+    <text id="n35_9d26" name="n35" xy="284,401" size="202,54" group="n50_xwdv" fontSize="40" color="#ffd368" vAlign="middle" strokeColor="#040100" strokeSize="3" text="免费时间！"/>
+    <text id="n36_9d26" name="tipCountLabel" xy="299,454" size="148,36" group="n50_xwdv" fontSize="26" color="#f0fbff" vAlign="middle" strokeColor="#040100" strokeSize="3" text="成功运输5次"/>
+    <group id="n50_xwdv" name="tipFree" xy="175,396" size="401,103" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <image id="n34_9d26" name="n34" src="xwdvvvv1kv" fileName="img/sd_A_common_liaotian_frame.png" xy="117,396" size="516,103" group="n51_xwdv" alpha="0.65"/>
+    <text id="n33_9d26" name="n33" xy="292,419" size="162,54" group="n51_xwdv" fontSize="40" color="#ffd368" vAlign="middle" strokeColor="#040100" strokeSize="3" text="运输结束"/>
+    <group id="n51_xwdv" name="tipNormal" xy="117,396" size="516,103" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <image id="n14_9d26" name="n14" src="xwdvvvv1kt" fileName="img/shiyong9gong.png" xy="53,861" size="644,207" group="n49_xwdv"/>
+    <text id="n15_9d26" name="freeTipLabel" xy="162,949" size="422,34" group="n49_xwdv" fontSize="24" color="#d6f4ff" vAlign="middle" text="成功运送6件货物后，可以免费再次运输"/>
+    <group id="n49_xwdv" name="freePopup" xy="53,861" size="644,207" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom%"/>
+    </group>
+    <component id="n5_9d26" name="costBtn" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="264,1110" size="306,117" group="n54_xwdv"/>
+    <list id="n44_xwdv" name="itemList" xy="114,845" size="592,242" group="n54_xwdv" layout="flow_hz" overflow="scroll" lineGap="20" colGap="18" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n1_9d26" name="n1" src="xwdvvvv1kr" fileName="img/xingzhuang20kaobei2.png" xy="265,741" size="267,64" group="n54_xwdv"/>
+    <component id="n13_9d26" name="btnMore" src="xwdvvc1" fileName="btn/infoBtn.xml" pkg="69f29748" xy="470,757" size="41,34" group="n54_xwdv"/>
+    <text id="n2_9d26" name="titleLabel" xy="358,745" size="83,54" group="n54_xwdv" fontSize="40" color="#0266c3" vAlign="middle" text="最终"/>
+    <group id="n54_xwdv" name="n54" xy="114,741" size="592,486" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom%"/>
+    </group>
+    <component id="n55_xwdv" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="2,1214">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

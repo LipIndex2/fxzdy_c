@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n21_loj0" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,395" size="619,544" group="n20_loj0"/>
+    <image id="n0_f430" name="n0" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="65,395" size="619,544" group="n20_loj0"/>
+    <image id="n1_f430" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,483" size="572,279" group="n20_loj0"/>
+    <image id="n2_f430" name="n2" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="138,506" size="463,47" group="n20_loj0" alpha="0.12"/>
+    <list id="n16_loj0" name="listReward" xy="375,678" pivot="0.5,0.5" anchor="true" size="470,104" group="n20_loj0" layout="row" overflow="scroll" scroll="horizontal" colGap="20" defaultItem="ui://38fa8c75dtss4k" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n18_loj0" name="btnSweep" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="252,813" size="245,94" group="n20_loj0">
+      <Button title="扫荡" titleFontSize="34"/>
+    </component>
+    <text id="n3_f430" name="n3" xy="368,530" pivot="0.5,0.5" anchor="true" size="339,36" group="n20_loj0" fontSize="26" color="#82cbf5" align="center" vAlign="middle" text="通关关卡数越大，奖励越丰富"/>
+    <text id="n4_f430" name="n4" xy="142,576" size="99,34" group="n20_loj0" fontSize="24" color="#ddfbff" vAlign="middle" text="扫荡奖励"/>
+    <text id="n15_f430" name="n15" xy="371,440" pivot="0.5,0.5" anchor="true" size="67,44" group="n20_loj0" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="扫荡"/>
+    <text id="n9_f430" name="n9" xy="279,776" size="178,32" group="n17_loj0" fontSize="22" color="#ddfbff" vAlign="middle" text="今日可扫荡次数：">
+      <relation target="n10_f430" sidePair="right-left"/>
+    </text>
+    <text id="n10_f430" name="lbTimes" xy="465,792" pivot="0.5,0.5" anchor="true" size="17,32" group="n17_loj0" fontSize="22" color="#50d385" vAlign="middle" text="1">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n17_loj0" name="n17" xy="279,776" size="195,32" group="n20_loj0" advanced="true"/>
+    <text id="n5_f430" name="n5" xy="426,576" size="123,34" group="n19_loj0" fontSize="24" color="#ddfbff" vAlign="middle" text="当前进度：">
+      <relation target="n6_f430" sidePair="right-left"/>
+    </text>
+    <text id="n6_f430" name="lbChapter" xy="545,576" pivot="1,0.5" size="58,34" group="n19_loj0" fontSize="24" color="#fbe266" vAlign="middle" text="7-11"/>
+    <group id="n19_loj0" name="n19" xy="426,576" size="177,34" group="n20_loj0"/>
+    <group id="n20_loj0" name="gAll" xy="65,395" size="619,544" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n22_loj0" name="n22" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,941">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

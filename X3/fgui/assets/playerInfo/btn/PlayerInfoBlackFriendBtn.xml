@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,61" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n36_5da5" name="n36" src="5da522" fileName="img/sd_A_common_grsz1_btn.png" xy="0,0"/>
+    <text id="n37_5da5" name="title" xy="38,12" pivot="0.5,0.5" size="55,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="拉黑"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

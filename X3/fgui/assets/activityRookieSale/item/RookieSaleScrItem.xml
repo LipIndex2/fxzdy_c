@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,984" overflow="scroll">
+  <displayList>
+    <component id="n6_49e1" name="item_7" src="cnp528" fileName="item/RookieSaleSpeItem.xml" xy="34,20" pivot="0.5,0.5" size="365,630" group="n50_cnp5"/>
+    <component id="n51_cnp5" name="item_5" src="cnp528" fileName="item/RookieSaleSpeItem.xml" xy="351,649" pivot="0.5,0.5" size="365,630" group="n50_cnp5"/>
+    <component id="n30_49e1" name="item_0" src="cnp525" fileName="item/RookieSaleItem.xml" xy="407,36" pivot="0.5,0.5" size="300,207" group="n50_cnp5"/>
+    <component id="n52_cnp5" name="item_1" src="cnp525" fileName="item/RookieSaleItem.xml" xy="407,241" pivot="0.5,0.5" size="300,207" group="n50_cnp5"/>
+    <component id="n53_cnp5" name="item_2" src="cnp525" fileName="item/RookieSaleItem.xml" xy="407,445" pivot="0.5,0.5" size="300,207" group="n50_cnp5"/>
+    <component id="n54_cnp5" name="item_3" src="cnp525" fileName="item/RookieSaleItem.xml" xy="43,664" pivot="0.5,0.5" size="300,207" group="n50_cnp5"/>
+    <component id="n55_cnp5" name="item_4" src="cnp525" fileName="item/RookieSaleItem.xml" xy="44,868" pivot="0.5,0.5" size="300,207" group="n50_cnp5"/>
+    <component id="n56_cnp5" name="item_6" src="cnp525" fileName="item/RookieSaleItem.xml" xy="43,1072" pivot="0.5,0.5" size="300,207" group="n50_cnp5"/>
+    <group id="n50_cnp5" name="n50" xy="34,20" size="682,1259" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" extention="ProgressBar">
+  <displayList>
+    <image id="n0_k3sy" name="n0" src="ac4585" fileName="bar/img/jindu_yuandi.png" xy="0,0" size="50,50"/>
+    <image id="n1_k3sy" name="bar" src="ac4586" fileName="bar/img/jindu_yuan.png" xy="0,0" size="50,50" fillMethod="radial360"/>
+    <text id="n3_k3sy" name="labelTitle" xy="-2,0" pivot="0.5,0.5" size="54,50" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" italic="true" singleLine="true" text="×3"/>
+  </displayList>
+  <ProgressBar/>
+</component>

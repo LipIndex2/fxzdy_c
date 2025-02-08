@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="541,200">
+  <displayList>
+    <loader id="n13_bezo" name="Img_bg" xy="0,0" size="541,200" autoSize="true"/>
+    <text id="n10_fd08" name="T_title" xy="243,50" pivot="0,0.5" size="281,74" fontSize="56" color="#ffffff" vAlign="middle" strokeColor="#7901b1" strokeSize="3" text="等级通行证"/>
+    <component id="n14_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="526,15" controller="type,0"/>
+  </displayList>
+</component>

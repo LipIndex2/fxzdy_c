@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <controller name="state" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="无人占领"/>
+    <remark page="1" value="我方占领"/>
+    <remark page="2" value="敌方占领"/>
+    <remark page="3" value="我占领"/>
+  </controller>
+  <displayList>
+    <image id="n14_woyg" name="bg" src="woygvwg" fileName="img/bg_chapter.png" xy="0,45" pivot="0.5,0.5" anchor="true" size="115,36" group="n15_gl0p">
+      <relation target="n13_woyg" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n13_woyg" name="lbChapter" xy="0,45" pivot="0.5,0.5" anchor="true" size="93,32" group="n15_gl0p" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="1-20000"/>
+    <group id="n15_gl0p" name="gChapter" xy="-57,27" size="115,36" advanced="true"/>
+  </displayList>
+</component>

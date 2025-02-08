@@ -1,0 +1,244 @@
+
+skill02_upper.png
+size: 393,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_yan_00000
+  rotate: true
+  xy: 330, 360
+  size: 62, 35
+  orig: 200, 100
+  offset: 13, 11
+  index: -1
+effect/attack_yan_00001
+  rotate: true
+  xy: 324, 171
+  size: 96, 47
+  orig: 200, 100
+  offset: 0, 11
+  index: -1
+effect/attack_yan_00002
+  rotate: false
+  xy: 2, 233
+  size: 151, 68
+  orig: 200, 100
+  offset: 0, 11
+  index: -1
+effect/attack_yan_00003
+  rotate: false
+  xy: 2, 303
+  size: 157, 70
+  orig: 200, 100
+  offset: 5, 12
+  index: -1
+effect/attack_yan_00004
+  rotate: false
+  xy: 2, 375
+  size: 155, 72
+  orig: 200, 100
+  offset: 15, 12
+  index: -1
+effect/attack_yan_00005
+  rotate: false
+  xy: 2, 525
+  size: 164, 73
+  orig: 200, 100
+  offset: 23, 13
+  index: -1
+effect/attack_yan_00006
+  rotate: false
+  xy: 2, 600
+  size: 162, 74
+  orig: 200, 100
+  offset: 29, 13
+  index: -1
+effect/attack_yan_00007
+  rotate: false
+  xy: 2, 449
+  size: 161, 74
+  orig: 200, 100
+  offset: 31, 13
+  index: -1
+effect/attack_yan_00008
+  rotate: false
+  xy: 2, 79
+  size: 130, 74
+  orig: 200, 100
+  offset: 62, 13
+  index: -1
+effect/attack_yan_00009
+  rotate: true
+  xy: 276, 142
+  size: 125, 46
+  orig: 200, 100
+  offset: 66, 13
+  index: -1
+effect/attack_yan_00010
+  rotate: true
+  xy: 296, 19
+  size: 121, 45
+  orig: 200, 100
+  offset: 70, 15
+  index: -1
+effect/skill02_quan_00000
+  rotate: false
+  xy: 343, 30
+  size: 28, 28
+  orig: 100, 100
+  offset: 37, 36
+  index: -1
+effect/skill02_quan_00001
+  rotate: false
+  xy: 333, 314
+  size: 43, 44
+  orig: 100, 100
+  offset: 29, 29
+  index: -1
+effect/skill02_quan_00002
+  rotate: false
+  xy: 322, 501
+  size: 69, 69
+  orig: 100, 100
+  offset: 17, 17
+  index: -1
+effect/skill02_quan_00003
+  rotate: true
+  xy: 253, 269
+  size: 80, 78
+  orig: 100, 100
+  offset: 11, 12
+  index: -1
+effect/skill02_quan_00004
+  rotate: true
+  xy: 168, 454
+  size: 93, 89
+  orig: 100, 100
+  offset: 4, 5
+  index: -1
+effect/skill02_quan_00005
+  rotate: true
+  xy: 161, 256
+  size: 93, 90
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+effect/skill02_quan_00006
+  rotate: true
+  xy: 134, 6
+  size: 96, 92
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+effect/skill02_quan_00007
+  rotate: true
+  xy: 161, 351
+  size: 96, 92
+  orig: 100, 100
+  offset: 2, 3
+  index: -1
+effect/skill02_yan_00000
+  rotate: false
+  xy: 373, 60
+  size: 13, 36
+  orig: 100, 140
+  offset: 15, 1
+  index: -1
+effect/skill02_yan_00001
+  rotate: false
+  xy: 343, 60
+  size: 18, 46
+  orig: 100, 140
+  offset: 15, 1
+  index: -1
+effect/skill02_yan_00002
+  rotate: false
+  xy: 343, 108
+  size: 26, 61
+  orig: 100, 140
+  offset: 14, 1
+  index: -1
+effect/skill02_yan_00003
+  rotate: false
+  xy: 330, 424
+  size: 37, 75
+  orig: 100, 140
+  offset: 14, 1
+  index: -1
+effect/skill02_yan_00004
+  rotate: false
+  xy: 316, 572
+  size: 52, 102
+  orig: 100, 140
+  offset: 14, 1
+  index: -1
+effect/skill02_yan_00005
+  rotate: false
+  xy: 259, 455
+  size: 61, 112
+  orig: 100, 140
+  offset: 14, 1
+  index: -1
+effect/skill02_yan_00006
+  rotate: false
+  xy: 228, 9
+  size: 66, 119
+  orig: 100, 140
+  offset: 14, 1
+  index: -1
+effect/skill02_yan_00007
+  rotate: false
+  xy: 228, 9
+  size: 66, 119
+  orig: 100, 140
+  offset: 14, 1
+  index: -1
+effect/skill02_yan_00008
+  rotate: false
+  xy: 208, 130
+  size: 66, 124
+  orig: 100, 140
+  offset: 16, 1
+  index: -1
+effect/skill02_yan_00009
+  rotate: false
+  xy: 168, 549
+  size: 70, 125
+  orig: 100, 140
+  offset: 14, 2
+  index: -1
+effect/skill02_yan_00010
+  rotate: false
+  xy: 134, 104
+  size: 72, 127
+  orig: 100, 140
+  offset: 14, 2
+  index: -1
+effect/skill02_yan_00011
+  rotate: true
+  xy: 2, 2
+  size: 75, 127
+  orig: 100, 140
+  offset: 14, 5
+  index: -1
+effect/skill02_yan_00012
+  rotate: true
+  xy: 2, 155
+  size: 76, 127
+  orig: 100, 140
+  offset: 14, 6
+  index: -1
+effect/skill02_yan_00013
+  rotate: false
+  xy: 240, 569
+  size: 74, 105
+  orig: 100, 140
+  offset: 16, 29
+  index: -1
+effect/skill02_yan_00014
+  rotate: false
+  xy: 255, 351
+  size: 73, 101
+  orig: 100, 140
+  offset: 18, 33
+  index: -1

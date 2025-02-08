@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="279,93">
+  <displayList>
+    <image id="n31_6b29" name="n31" src="6b2919" fileName="img/renwu_frame.png" xy="0,0"/>
+    <text id="n32_6b29" name="n32" xy="97,18" size="97,29" fontSize="20" color="#fffefe" strokeColor="#090909" strokeSize="3" text="击杀BOSS"/>
+    <text id="n33_6b29" name="n33" xy="98,48" size="147,29" fontSize="20" color="#fffefe" strokeColor="#090909" strokeSize="3" text="大法师（3/10）"/>
+    <image id="n53_6b29" name="n53" src="6b2932" fileName="img/icon.png" xy="23,22"/>
+  </displayList>
+</component>

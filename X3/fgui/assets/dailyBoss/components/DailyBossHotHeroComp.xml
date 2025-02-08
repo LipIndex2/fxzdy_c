@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="336,193">
+  <displayList>
+    <image id="n67_ae97" name="bg" src="ae9730" fileName="img/zlzz_frame.png" xy="0,0" group="n73_ffqt"/>
+    <text id="n71_ae97" name="labelTitle" xy="23,34" size="147,49" group="n73_ffqt" fontSize="36" color="#feffff" strokeColor="#0b5bb5" strokeSize="2" text="热门英雄"/>
+    <text id="n72_ae97" name="labelHeroTagDesc" xy="175,45" size="107,36" group="n73_ffqt" fontSize="26" color="#ffb22d" text="持续增伤"/>
+    <list id="n74_ffqt" name="heroList" xy="19,87" size="370,109" group="n73_ffqt" scale="0.8,0.8" layout="row" scroll="horizontal" colGap="20" defaultItem="ui://38fa8c75ffqtvvv1co" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n73_ffqt" name="n73" xy="0,0" size="389,196"/>
+  </displayList>
+</component>

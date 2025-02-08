@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,400">
+  <displayList>
+    <image id="n7_k045" name="n7" src="430e20" fileName="img/stknt_mzd.png" xy="260,399"/>
+    <text id="n9_k045" name="T_mainName" xy="278,401" pivot="0.5,0.5" size="193,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="2" text="灵魂主唱 - 特蕾莎"/>
+    <component id="n14_k045" name="modelNode0" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="94,400" pivot="0.5,1" anchor="true" size="291,400" group="n20_k045"/>
+    <component id="n15_k045" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="234,400" pivot="0.5,1" anchor="true" size="291,400" group="n20_k045"/>
+    <component id="n16_k045" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,400" pivot="0.5,1" anchor="true" size="291,400" group="n20_k045"/>
+    <component id="n17_k045" name="modelNode3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="514,400" pivot="0.5,1" anchor="true" size="291,400" group="n20_k045"/>
+    <component id="n18_k045" name="modelNode4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="654,400" pivot="0.5,1" anchor="true" size="291,400" group="n20_k045"/>
+    <component id="n19_k045" name="modelNode5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="904,400" pivot="0.5,1" anchor="true" size="291,400" group="n20_k045" visible="false"/>
+    <group id="n20_k045" name="n20" xy="-51,0" size="1101,400" visible="false" advanced="true"/>
+    <list id="n6_k045" name="list_mod" xy="-112,0" size="975,400" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="272" colGap="-120" defaultItem="ui://4e791994k0455e" vAlign="bottom" renderOrder="arch" apex="2">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n21_k045" name="dialogItem" src="k0455k" fileName="item/GirlGroupPlayerDialogItem.xml" xy="324,43" pivot="0,1"/>
+  </displayList>
+</component>

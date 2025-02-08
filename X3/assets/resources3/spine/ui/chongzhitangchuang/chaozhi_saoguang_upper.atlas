@@ -1,0 +1,118 @@
+
+chaozhi_saoguang_upper.png
+size: 288,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chaozhi01
+  rotate: false
+  xy: 58, 3
+  size: 4, 8
+  orig: 174, 81
+  offset: 9, 52
+  index: -1
+effect/chaozhi02
+  rotate: false
+  xy: 58, 3
+  size: 4, 8
+  orig: 174, 81
+  offset: 9, 52
+  index: -1
+effect/chaozhi03
+  rotate: false
+  xy: 248, 7
+  size: 24, 49
+  orig: 174, 81
+  offset: 0, 12
+  index: -1
+effect/chaozhi04
+  rotate: true
+  xy: 58, 13
+  size: 42, 55
+  orig: 174, 81
+  offset: 0, 6
+  index: -1
+effect/chaozhi05
+  rotate: false
+  xy: 117, 171
+  size: 112, 55
+  orig: 174, 81
+  offset: 0, 6
+  index: -1
+effect/chaozhi06
+  rotate: false
+  xy: 2, 114
+  size: 112, 55
+  orig: 174, 81
+  offset: 0, 6
+  index: -1
+effect/chaozhi07
+  rotate: false
+  xy: 116, 114
+  size: 108, 55
+  orig: 174, 81
+  offset: 4, 6
+  index: -1
+effect/chaozhi08
+  rotate: false
+  xy: 2, 171
+  size: 113, 55
+  orig: 174, 81
+  offset: 22, 6
+  index: -1
+effect/chaozhi09
+  rotate: true
+  xy: 231, 130
+  size: 96, 55
+  orig: 174, 81
+  offset: 39, 6
+  index: -1
+effect/chaozhi10
+  rotate: false
+  xy: 96, 57
+  size: 85, 55
+  orig: 174, 81
+  offset: 60, 6
+  index: -1
+effect/chaozhi11
+  rotate: false
+  xy: 2, 57
+  size: 92, 55
+  orig: 174, 81
+  offset: 74, 6
+  index: -1
+effect/chaozhi12
+  rotate: false
+  xy: 183, 58
+  size: 81, 54
+  orig: 174, 81
+  offset: 90, 7
+  index: -1
+effect/chaozhi13
+  rotate: false
+  xy: 183, 2
+  size: 63, 54
+  orig: 174, 81
+  offset: 108, 7
+  index: -1
+effect/chaozhi14
+  rotate: true
+  xy: 2, 9
+  size: 46, 54
+  orig: 174, 81
+  offset: 126, 7
+  index: -1
+effect/chaozhi15
+  rotate: false
+  xy: 115, 3
+  size: 41, 52
+  orig: 174, 81
+  offset: 130, 7
+  index: -1
+effect/chaozhi16
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

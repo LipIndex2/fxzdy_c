@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="273,148">
+  <displayList>
+    <list id="n70_q6dm" name="list_activity" xy="20,15" size="233,121" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="256" defaultItem="ui://8982be53q6dm5r">
+      <item/>
+      <item/>
+    </list>
+    <list id="n68_q6dm" name="list_tab" xy="136,114" pivot="0.5,0.5" anchor="true" size="273,20" scale="1.5,1.5" layout="row" colGap="2" defaultItem="ui://8982be53q6dm5t" align="center">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

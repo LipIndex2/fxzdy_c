@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="b20e1226">
+  <resources>
+    <image id="965b33" name="yuanjiaojuxing1_10.png" path="/img/"/>
+    <image id="965b38" name="qianwang_btn_8.png" path="/img/"/>
+    <component id="7wlx6a" name="ItemTipsItemButton.xml" path="/"/>
+    <component id="7wlx6b" name="ItemTipsView.xml" path="/"/>
+    <component id="7wlx6c" name="ItemTipsViewItem.xml" path="/"/>
+    <component id="musp6d" name="HeroItemTipsView.xml" path="/"/>
+    <component id="c8g76j" name="HeroItemTipsFdjBtn.xml" path="/"/>
+    <component id="c8g76m" name="WeaponTipsView.xml" path="/"/>
+    <component id="c8g76n" name="WeaponTipsAttrPanel.xml" path="/panel/"/>
+    <component id="c8g76o" name="WeaponTipsAttrItem.xml" path="/item/"/>
+    <component id="c8g76s" name="EquipTipsView.xml" path="/"/>
+    <image id="c8g76v" name="pz_frame.png" path="/img/"/>
+    <component id="c8g76w" name="EquipAttrPage.xml" path="/item/"/>
+    <component id="c8g76x" name="EquipAttrItem.xml" path="/item/"/>
+    <image id="c8g76y" name="sx_001.png" path="/img/" scale="9grid" scale9grid="25,9,5,20"/>
+    <image id="c8g76z" name="sx_002.png" path="/img/" scale="9grid" scale9grid="20,9,7,18"/>
+    <image id="c8g770" name="sx_001_3.png" path="/img/"/>
+    <component id="c8g771" name="EquipSkillPage.xml" path="/page/"/>
+    <component id="295225" name="ItemNotEnoughView.xml" path="/"/>
+    <component id="p04m29" name="ItemNotEnoughViewItem.xml" path="/"/>
+    <image id="p04m72" name="jiantoudiwen.png" path="/img/"/>
+    <image id="p04m73" name="sd_A_common_tisp4_frame.png" path="/img/"/>
+    <component id="p04m74" name="BoxTipsRewardView.xml" path="/"/>
+    <image id="ef210" name="libao_frame.png" path="/img/"/>
+    <image id="ef215" name="qianwangshangcheng_1.png" path="/img/"/>
+    <image id="ef216" name="jiantou.png" path="/img/"/>
+    <image id="ef217" name="chaozhiyeqian.png" path="/img/"/>
+    <component id="ef218" name="ItemNotEnoughGift.xml" path="/panel/"/>
+    <component id="e53p75" name="ItemGotoShopBtn.xml" path="/"/>
+    <component id="e53p77" name="ItemNotEnoughPanel.xml" path="/panel/"/>
+    <component id="e53p78" name="ItemNotEnoughContainer.xml" path="/panel/"/>
+    <component id="f9dq79" name="ItemNotEnoughBuyBtn.xml" path="/btn/" exported="true"/>
+    <component id="k0457a" name="EquipSuitAttrTextItem.xml" path="/item/"/>
+    <component id="uk3p7b" name="ItemFrameItem.xml" path="/"/>
+    <component id="uk3p7c" name="ItemFrameTipsView.xml" path="/"/>
+    <component id="vdae7d" name="PetTipsView.xml" path="/"/>
+    <image id="vdae7e" name="pifu.png" path="/img/"/>
+    <image id="vdae7f" name="pet.png" path="/img/"/>
+    <component id="vdae7g" name="SkinTipsView.xml" path="/"/>
+    <component id="sv0c7h" name="WeaponTipsSkillItem.xml" path="/panel/"/>
+    <image id="295215" name="zybz_frame.png" path="/img/" scale="9grid" scale9grid="119,197,9,9"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

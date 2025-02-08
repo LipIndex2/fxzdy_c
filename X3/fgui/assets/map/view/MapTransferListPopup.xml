@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n1_a59d" name="n1" xy="67,227" size="616,840" group="n17_ikiz" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n2_a59d" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="90,315" size="570,647" group="n17_ikiz"/>
+    <text id="n11_a59d" name="T_title" xy="308,252" size="131,44" group="n17_ikiz" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="传送列表"/>
+    <list id="n20_r58c" name="listTab" xy="85,973" size="580,68" group="n17_ikiz" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://ojwi06iar58cvw1" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n19_ikiz" name="list" xy="112,336" size="526,603" group="n17_ikiz" overflow="scroll" lineGap="10" defaultItem="ui://ojwi06iaqoerp" renderOrder="descent">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n17_ikiz" name="n3" xy="67,227" size="616,840" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n21_vdae" name="n21" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1094">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

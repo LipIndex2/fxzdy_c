@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="145,179">
+  <displayList>
+    <loader id="n1_3283" name="img_quality" xy="21,21" pivot="0.5,0.5" size="104,104" group="n18_uelq" scale="1.2,1.2" url="ui://1e21f0a632831"/>
+    <loader id="n2_3283" name="img_hero" xy="73,73" pivot="0.5,0.5" anchor="true" size="112,112" group="n18_uelq" url="ui://1e21f0a632832"/>
+    <group id="n18_uelq" name="n18" xy="17,17" size="112,112"/>
+    <image id="n9_3283" name="n9" src="uelqv9a" fileName="img/sd_A_common_black2_msg.png" xy="11,11" group="n17_uelq" alpha="0.5"/>
+    <image id="n10_3283" name="n10" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="48,50" group="n17_uelq"/>
+    <group id="n17_uelq" name="grp_use" xy="11,11" size="124,124" advanced="true"/>
+    <text id="n5_3283" name="lb_name" xy="75,162" pivot="0.5,0.5" anchor="true" size="75,34" fontSize="24" color="#ffcd54" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="英雄名"/>
+    <image id="n19_8ixj" name="n19" src="2ce224" fileName="bgImage/xz__frame.png" pkg="38fa8c75" xy="0,0" size="145,146" group="n16_uelq"/>
+    <group id="n16_uelq" name="grp_select" xy="0,0" size="145,146" advanced="true"/>
+    <component id="n20_e53p" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="127,17" controller="type,2"/>
+  </displayList>
+</component>

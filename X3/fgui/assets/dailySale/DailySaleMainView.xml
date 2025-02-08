@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImageAlpha="70">
+  <displayList>
+    <component id="n2_7095" name="ui" src="htcc31" fileName="page/DailySalePage.xml" xy="18,47" size="699,1143" group="n5_vmbs"/>
+    <component id="n4_7095" name="btnBack" src="htcc30" fileName="btn/RedCloseBtn.xml" xy="354,1268" group="n5_vmbs"/>
+    <group id="n5_vmbs" name="n5" xy="18,47" size="699,1266" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

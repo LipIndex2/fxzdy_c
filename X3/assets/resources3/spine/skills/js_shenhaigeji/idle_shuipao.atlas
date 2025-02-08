@@ -1,0 +1,13 @@
+
+idle_shuipao.png
+size: 44,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/shuipao01
+  rotate: false
+  xy: 2, 2
+  size: 40, 46
+  orig: 64, 64
+  offset: 11, 8
+  index: -1

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="3a135130">
+  <resources>
+    <image id="c30b1" name="juxing3.png" path="/img/" exported="true"/>
+    <image id="c30b2" name="sd_A_common_baise_msg_35.jpg" path="/img/" exported="true"/>
+    <image id="c30b3" name="sheng_frame.png" path="/img/" exported="true"/>
+    <image id="c30b4" name="sheng.png" path="/img/" exported="true"/>
+    <image id="c30b5" name="sd_A_common_zjtx_frame.png" path="/img/" exported="true"/>
+    <image id="c30b6" name="scale_80%.png" path="/img/" exported="true"/>
+    <image id="c30b7" name="sd_A_common_baise_msg_33.jpg" path="/img/" exported="true"/>
+    <image id="c30b8" name="scale_50%_sd_A_common_pmd_msg.jpg" path="/img/" exported="true"/>
+    <image id="c30b9" name="scale_50%_sd_A_common_baise_msg.jpg" path="/img/" exported="true"/>
+    <image id="c30b17" name="sd_A_common_baise_msg_31.jpg" path="/img/" exported="true"/>
+    <image id="c30b18" name="bai_frame.png" path="/img/" exported="true"/>
+    <image id="c30b19" name="fu.png" path="/img/" exported="true"/>
+    <image id="c30b20" name="sd_A_common_baise_msg.jpg" path="/img/" exported="true"/>
+    <image id="c30b24" name="zhandoutongji.png" path="/img/" exported="true"/>
+    <component id="c30b27" name="BattleRecordView.xml" path="/"/>
+    <component id="n19g28" name="BattleRecordItem.xml" path="/"/>
+    <component id="n19g29" name="BattleLogOneItem.xml" path="/"/>
+    <image id="n19g2g" name="juxing2.jpg" path="/img/"/>
+    <image id="n19g2h" name="scale_50%_tx_001.png" path="/img/"/>
+    <image id="n19g2i" name="sd_A_common_fh2_btn_30.png" path="/img/"/>
+    <image id="n19g2j" name="sd_A_common_scale_60%_.png" path="/img/"/>
+    <component id="cth02k" name="BattleRecordPanel.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

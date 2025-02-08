@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2s913nbp">
+  <resources>
+    <component id="ger40" name="NoticeWin.xml" path="/"/>
+    <image id="ger41" name="server_frame.png" path="/img/" scale="9grid" scale9grid="247,117,13,30"/>
+    <component id="ger4b" name="TitleItem.xml" path="/item/"/>
+    <image id="ger4c" name="page_btn1.png" path="/img/" scale="9grid" scale9grid="20,19,10,10"/>
+    <image id="ger4d" name="page_btn2.png" path="/img/" scale="9grid" scale9grid="69,18,5,7"/>
+    <image id="ger4e" name="frame_line.png" path="/img/" scale="9grid" scale9grid="136,0,10,64"/>
+    <component id="ger4f" name="NoticeCom.xml" path="/com/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

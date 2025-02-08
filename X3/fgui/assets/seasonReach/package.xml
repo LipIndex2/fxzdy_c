@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="54da9fd9">
+  <resources>
+    <image id="74e50" name="banner.png" path="/img/"/>
+    <image id="74e51" name="shuzidi.png" path="/img/"/>
+    <image id="74e54" name="di.png" path="/img/"/>
+    <image id="74e55" name="jifenguize_5.png" path="/img/"/>
+    <image id="74e57" name="hd_yeqian02.png" path="/img/" scale="9grid" scale9grid="83,14,166,28"/>
+    <image id="74e58" name="hd_yeqian01.png" path="/img/"/>
+    <image id="74e59" name="liebiao.png" path="/img/"/>
+    <image id="74e520" name="ylq_tag.png" path="/img/"/>
+    <image id="74e521" name="huodongyijieshu.png" path="/img/"/>
+    <component id="74e531" name="SeasonReachView.xml" path="/"/>
+    <component id="pkn932" name="SeasonReachScoreItem.xml" path="/com/"/>
+    <component id="pkn9193" name="SeasonReachTab.xml" path="/com/"/>
+    <component id="pkn93c" name="SeasonReachBtn.xml" path="/btn/"/>
+    <image id="hz6e194" name="sjkj_bt2.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

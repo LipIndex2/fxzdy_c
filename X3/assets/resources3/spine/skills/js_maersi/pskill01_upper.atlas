@@ -1,0 +1,20 @@
+
+pskill01_upper.png
+size: 72,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/pskill01_tubiaoadd
+  rotate: false
+  xy: 2, 66
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_tubiaodake
+  rotate: false
+  xy: 2, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1

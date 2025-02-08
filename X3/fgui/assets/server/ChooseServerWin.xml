@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n54_mr0b" name="n54" src="cs7d2q" fileName="img/server_frame.png" xy="36,226" size="677,876" group="n57_mr0b"/>
+    <list id="n51_mr0b" name="serverList" xy="278,339" size="404,716" group="n57_mr0b" visible="false" overflow="scroll" lineGap="4" defaultItem="ui://9809a2d2mr0b2e" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n53_mr0b" name="myList" xy="278,339" size="404,738" group="n57_mr0b" visible="false" overflow="scroll" lineGap="1" defaultItem="ui://9809a2d2mr0b28" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n52_mr0b" name="areaList" xy="59,340" size="196,736" group="n57_mr0b" overflow="scroll" lineGap="2" defaultItem="ui://9809a2d2mr0b29" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n58_cs7d" name="n58" xy="289,259" size="172,46" group="n57_mr0b" fontSize="34" color="#414163" vAlign="middle" text="选择服务器"/>
+    <image id="n59_cs7d" name="n59" src="cs7d2r" fileName="img/frame_line.png" xy="43,1044" size="661,64" group="n57_mr0b"/>
+    <group id="n57_mr0b" name="n57" xy="36,226" size="677,882" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

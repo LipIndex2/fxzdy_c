@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="338,34">
+  <displayList>
+    <text id="n6_03e4" name="lbDes" xy="0,1" pivot="0,0.5" size="338,32" fontSize="22" color="#fbfdfd" vAlign="middle" text="攻        击                                 +10%"/>
+    <text id="n7_03e4" name="lbValue" xy="337,17" pivot="1,0.5" anchor="true" size="62,32" fontSize="22" color="#6ef96a" align="right" vAlign="middle" text="+10%"/>
+  </displayList>
+</component>

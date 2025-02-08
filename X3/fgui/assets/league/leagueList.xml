@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n1_be1a" name="adapt_bg" src="be1a80" fileName="img/tuceng709.png" xy="0,0" customData="top">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <image id="n32_g256" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#0a3b73">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n2_be1a" name="n2" src="lhcvvvv1et" fileName="bgImage/bossxxd_frame.png" pkg="38fa8c75" xy="0,281" size="750,1121">
+      <relation target="" sidePair="width-width,height-height,top-top"/>
+    </image>
+    <component id="n24_be1a" name="createBtn" src="h90v10e" fileName="btn/createBtn.xml" xy="222,1049">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <list id="n26_h90v" name="list" xy="20,321" size="725,646" overflow="scroll" lineGap="13" defaultItem="ui://6be81224h90v10f" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n30_h90v" name="noList" xy="285,646" size="182,42" visible="false" fontSize="30" color="#6180ca" text="暂无联盟信息">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <image id="n3_be1a" name="n3" src="be1a76" fileName="img/sd_A_common_bossbt_frame.png" xy="168,52" group="n31_wq7z"/>
+    <text id="n4_be1a" name="n4" xy="278,66" size="194,64" group="n31_wq7z" fontSize="48" color="#052664" text="联盟列表"/>
+    <image id="n20_be1a" name="n20" src="be1a89" fileName="img/sd_A_common_liaotian_frame_120.png" xy="20,199" group="n31_wq7z" alpha="0.5"/>
+    <component id="n22_be1a" name="searchBtn" src="h90v10g" fileName="btn/noLabelBtn.xml" xy="539,196" group="n31_wq7z"/>
+    <text id="n27_h90v" name="searchTxt" xy="28,206" size="492,36" group="n31_wq7z" fontSize="26" color="#dbe9ff" autoSize="none" singleLine="true" text="" input="true" prompt="请输入联盟名称或编号"/>
+    <component id="n28_h90v" name="refreshBtn" src="h90v10g" fileName="btn/noLabelBtn.xml" xy="606,194" group="n31_wq7z">
+      <Button icon="ui://6be81224be1a91"/>
+    </component>
+    <component id="n29_h90v" name="n29" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="468,77" group="n31_wq7z"/>
+    <group id="n31_wq7z" name="n31" xy="20,52" size="643,202" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

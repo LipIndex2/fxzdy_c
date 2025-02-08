@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="159,390" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <image id="n31_be1a" name="n31" src="be1a107" fileName="img/sd_A_common_no2_icon.png" xy="26,0">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n36_h90v" name="n36" src="be1a105" fileName="img/sd_A_common_no3_icon_128.png" xy="30,0" pivot="0.5,0.5">
+      <gearDisplay controller="state" pages="2"/>
+    </image>
+    <image id="n37_h90v" name="n37" src="be1a106" fileName="img/sd_A_common_no3_icon.png" xy="25,0" pivot="0.5,0.5">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <text id="n34_be1a" name="nameLab" xy="79,307" pivot="0.5,0.5" anchor="true" size="10,34" group="n39_h90v" fontSize="24" color="#ffd557" align="center" vAlign="middle" strokeColor="#2c0b54" strokeSize="3" text="">
+      <gearColor controller="state" pages="1,2" values="#d563ff,#2c0b54|#58c2ff,#2c0b54" default="#ffd557,#2c0b54"/>
+    </text>
+    <text id="n35_be1a" name="fightLab" xy="78,337" pivot="0.5,0.5" anchor="true" size="10,34" group="n39_h90v" fontSize="24" color="#ffe57c" align="center" vAlign="middle" strokeColor="#070110" strokeSize="3" text=""/>
+    <component id="n38_h90v" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" xy="-14,70" pivot="0.5,0.5" group="n39_h90v" scale="0.8,0.8" pkg="72zq62ea"/>
+    <group id="n39_h90v" name="n39" xy="-14,70" size="188,284" advanced="true">
+      <gearXY controller="state" pages="0,2" values="-14,70|-14,70" default="-14,106"/>
+    </group>
+    <text id="n40_h90v" name="noRank" xy="26,174" size="123,42" fontSize="30" color="#6ff1f1" text="虚位以待"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

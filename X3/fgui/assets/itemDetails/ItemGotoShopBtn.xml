@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,43" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n10_ef21" name="n10" src="ef215" fileName="img/qianwangshangcheng_1.png" xy="0,0"/>
+    <text id="n11_ef21" name="n11" xy="49,23" pivot="0.5,0.5" anchor="true" size="83,29" fontSize="20" color="#fdfeff" vAlign="middle" strokeColor="#000105" strokeSize="2" text="前往商城"/>
+    <image id="n12_ef21" name="n12" src="ef216" fileName="img/jiantou.png" xy="97,13"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

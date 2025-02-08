@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="当前关卡"/>
+    <remark page="1" value="非当前关卡"/>
+  </controller>
+  <displayList>
+    <image id="n102_af67" name="n102" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149"/>
+    <image id="n103_af67" name="n103" src="iuievvv1ca" fileName="bgImage/paimingframe.png" pkg="38fa8c75" xy="3,3"/>
+    <text id="n117_af67" name="T_rank" xy="29,38" pivot="0.5,0.5" size="69,72" fontSize="54" color="#eae67c" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="30">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0" values="#eae67c,#010e16" default="#58c2ff,#010e16"/>
+    </text>
+    <list id="n118_iuie" name="list_award" xy="150,22" size="531,104" layout="row" overflow="scroll" scroll="horizontal" colGap="14" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

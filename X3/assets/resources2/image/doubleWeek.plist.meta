@@ -1,0 +1,109 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "a51f929b-71bc-479f-bf47-724260e74e7e",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "85761": {
+      "importer": "sprite-frame",
+      "uuid": "a51f929b-71bc-479f-bf47-724260e74e7e@85761",
+      "displayName": "",
+      "id": "85761",
+      "name": "qianwangzhaomu",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 753,
+        "trimY": 1,
+        "width": 240,
+        "height": 43,
+        "rawWidth": 240,
+        "rawHeight": 43,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3bfb26dc-1c20-43ee-a64b-352788f14567@6c48a",
+        "atlasUuid": "a51f929b-71bc-479f-bf47-724260e74e7e"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e902c": {
+      "importer": "sprite-frame",
+      "uuid": "a51f929b-71bc-479f-bf47-724260e74e7e@e902c",
+      "displayName": "",
+      "id": "e902c",
+      "name": "szhd_beijing",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 750,
+        "height": 493,
+        "rawWidth": 750,
+        "rawHeight": 493,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3bfb26dc-1c20-43ee-a64b-352788f14567@6c48a",
+        "atlasUuid": "a51f929b-71bc-479f-bf47-724260e74e7e"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "doubleWeek.png",
+    "format": 3,
+    "uuid": "a51f929b-71bc-479f-bf47-724260e74e7e",
+    "textureUuid": "3bfb26dc-1c20-43ee-a64b-352788f14567@6c48a"
+  }
+}

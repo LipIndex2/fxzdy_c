@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="132,58" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n18_91d6" name="bg" src="91d613" fileName="img/tuceng22.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n19_91d6" name="labelName" xy="19,11" pivot="0.5,0.5" size="91,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#df6b1e" strokeSize="3" text="发送">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

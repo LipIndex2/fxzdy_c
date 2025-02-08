@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,114" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,4,over,5,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n52_ifld" name="iconDown" xy="10,0" pivot="0.5,0.5" size="100,100" align="center" vAlign="middle" fill="scale" autoSize="true" clearOnPublish="true">
+      <gearDisplay controller="button" pages="1,5"/>
+    </loader>
+    <loader id="n47_c3a6" name="iconUp" xy="10,0" pivot="0.5,0.5" size="100,100" align="center" vAlign="middle" fill="scale" autoSize="true" color="#cccccc" clearOnPublish="true">
+      <gearDisplay controller="button" pages="0,4"/>
+    </loader>
+    <text id="n49_c3a6" name="title" xy="60,98" pivot="0.5,0.5" anchor="true" size="91,32" fontSize="22" color="#3fadfe" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" text="活动名字">
+      <gearColor controller="button" pages="1,5" values="#ffed77,#000000|#ffed77,#000000" default="#3fadfe,#000000"/>
+    </text>
+    <component id="n54_oc78" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="95,15"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

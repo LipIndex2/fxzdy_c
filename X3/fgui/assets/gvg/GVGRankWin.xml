@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="type" pages="0,我,1,敌" selected="0"/>
+  <displayList>
+    <image id="n78_ac45" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="35,143" size="682,1049" group="n111_hd60"/>
+    <image id="n109_k3sy" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="57,229" size="638,841" group="n111_hd60"/>
+    <text id="n80_ac45" name="labelTitle" xy="340,169" size="67,44" group="n111_hd60" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="贡献"/>
+    <list id="n108_k3sy" name="itemList" xy="71,251" size="618,683" group="n111_hd60" overflow="scroll" lineGap="10" defaultItem="ui://8da0bf52k3sy11g" autoClearItems="true">
+      <gearSize controller="type" pages="1" values="608,803,1,1" default="618,683,1,1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n100_ac45" name="myRank" src="k3sy11s" fileName="components/GVGMyRankNumComp.xml" xy="57,939" group="n111_hd60">
+      <gearDisplay controller="type" pages="0"/>
+    </component>
+    <list id="n110_k3sy" name="btnList" xy="60,1091" size="644,83" group="n111_hd60" layout="row" colGap="10" defaultItem="ui://8da0bf52k3sy11h" selectionController="type" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <group id="n111_hd60" name="n111" xy="35,143" size="682,1049" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

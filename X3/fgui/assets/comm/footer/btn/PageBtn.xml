@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,107" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n39_6b29" name="iconNormal" xy="60,54" pivot="0.5,0.5" anchor="true" size="119,107" group="n46_j6z9" url="ui://7q3fcj1kgtyg4l" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="0"/>
+    </loader>
+    <loader id="n48_phyf" name="iconPress" xy="60,54" pivot="0.5,0.5" anchor="true" size="119,107" group="n46_j6z9" url="ui://38fa8c75pocbv16y" align="center" vAlign="middle">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="n39_6b29" sidePair="left-left,right-left,top-top,bottom-top"/>
+    </loader>
+    <text id="n44_6b29" name="title" xy="59,97" pivot="0.5,0.5" anchor="true" size="52,34" group="n46_j6z9" fontSize="24" color="#3fadfe" align="center" vAlign="middle" leading="0" strokeColor="#201e1e" strokeSize="3" singleLine="true" text="召唤">
+      <relation target="n39_6b29" sidePair="center-center"/>
+    </text>
+    <component id="n50_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="85,33" group="n46_j6z9" controller="type,2"/>
+    <image id="n49_wq7z" name="lock" src="wq7zvvv1e2" fileName="btnImage/suo3_icon.png" xy="48,42" pivot="0.5,0.5" group="n46_j6z9" color="#8dcbf8"/>
+    <group id="n46_j6z9" name="n46" xy="0,0" size="119,113" advanced="true"/>
+  </displayList>
+  <Button/>
+</component>

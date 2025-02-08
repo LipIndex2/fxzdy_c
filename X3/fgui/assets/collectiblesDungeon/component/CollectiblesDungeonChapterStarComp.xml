@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,160">
+  <displayList>
+    <component id="n46_loj0" name="starBar" src="loj011k" fileName="component/CollectiblesDungeonProgressBar.xml" xy="80,63">
+      <ProgressBar value="30" max="30"/>
+    </component>
+    <image id="n44_loj0" name="n44" src="f430104" fileName="img/xingxing.png" xy="0,7"/>
+    <text id="n45_loj0" name="lbTotal" xy="60,129" pivot="0.5,0.5" anchor="true" size="95,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" letterSpacing="1" strokeColor="#222222" strokeSize="3" text="21/30"/>
+    <list id="n48_loj0" name="listStar" xy="186,0" size="479,160" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="60" defaultItem="ui://17246473loj011l" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

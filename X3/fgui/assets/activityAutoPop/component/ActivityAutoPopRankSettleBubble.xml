@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="255,84">
+  <displayList>
+    <image id="n69_gvuz" name="n69" src="gvuzvvv1l2" fileName="bgImage/qipao_bai2.png" pkg="38fa8c75" xy="0,0" size="262,84">
+      <relation target="n70_gvuz" sidePair="width-width"/>
+    </image>
+    <richtext id="n70_gvuz" name="lbTip" xy="10,36" pivot="0,0.5" anchor="true" size="242,34" fontSize="24" color="#004788" vAlign="middle" autoSize="none" text="招星纳月，统帅万千！"/>
+  </displayList>
+</component>

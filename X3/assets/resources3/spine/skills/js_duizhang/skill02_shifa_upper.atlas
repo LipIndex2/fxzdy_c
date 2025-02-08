@@ -1,0 +1,41 @@
+
+skill02_shifa_upper.png
+size: 132,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_shifa_kejixulie_0
+  rotate: false
+  xy: 2, 308
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+images/effect/skill02_shifa_kejixulie_1
+  rotate: false
+  xy: 2, 231
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+images/effect/skill02_shifa_kejixulie_2
+  rotate: false
+  xy: 2, 154
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+images/effect/skill02_shifa_kejixulie_3
+  rotate: false
+  xy: 2, 77
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+images/effect/skill02_shifa_tou
+  rotate: false
+  xy: 2, 2
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1

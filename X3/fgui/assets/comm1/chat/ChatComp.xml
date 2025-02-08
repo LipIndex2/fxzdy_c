@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="504,42" initName="chat">
+  <controller name="isHaveNew" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n34_gtyg" name="bg" src="jqxis99" fileName="chat/liaotian_frame.png" xy="0,0" size="504,42" group="n35_gtyg" alpha="0.3"/>
+    <image id="n32_gtyg" name="imageMsg" src="jqxis9a" fileName="chat/liaotian_btn.png" xy="10,3" group="n35_gtyg"/>
+    <richtext id="n29_6b29" name="labelMessage" xy="61,5" size="418,32" group="n35_gtyg" fontSize="22" color="#ffffff" vAlign="middle" ubb="true" autoSize="ellipsis" strokeColor="#031012" strokeSize="2" autoClearText="true" text="[color=#0099ff][世界][/color] 大哥: 我怎么抽才能打得过去?"/>
+    <image id="n27_6b29" name="n27" src="pocb5g" fileName="redDotImage/shuzi_msg.png" pkg="38fa8c75" xy="39,2" group="n33_gtyg"/>
+    <text id="n28_6b29" name="labelMsgCount" xy="42,0" pivot="0.5,0" size="25,24" group="n33_gtyg" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#050505" strokeSize="2" singleLine="true" autoClearText="true" text="16"/>
+    <group id="n33_gtyg" name="G_redDot" xy="39,0" size="30,24" group="n35_gtyg" advanced="true">
+      <gearDisplay controller="isHaveNew" pages="1"/>
+    </group>
+    <group id="n35_gtyg" name="all" xy="0,0" size="504,42"/>
+  </displayList>
+</component>

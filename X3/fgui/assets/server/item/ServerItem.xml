@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="404,110">
+  <displayList>
+    <image id="n5_93ec" name="n5" src="cs7d2h" fileName="img/server_btn.png" xy="9,9" size="385,100"/>
+    <text id="n6_93ec" name="serverName" xy="30,59" pivot="0,0.5" anchor="true" size="133,34" fontSize="24" color="#f4faff" vAlign="middle" leading="0" strokeColor="#001337" strokeSize="2" autoClearText="true" text="服务器H-06"/>
+    <component id="n8_93ec" name="state" src="mr0b2c" fileName="com/StateCom.xml" xy="312,17" pivot="0,0.5" anchor="true"/>
+  </displayList>
+</component>

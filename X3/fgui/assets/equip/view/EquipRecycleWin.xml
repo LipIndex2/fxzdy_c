@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n44_q6dm" name="n44" xy="34,161" size="682,1022" group="n33_q6dm" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n9_bb7a" name="n9" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,248" size="638,377" group="n33_q6dm"/>
+    <image id="n10_bb7a" name="n10" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,638" size="638,359" group="n33_q6dm"/>
+    <image id="n18_bb7a" name="n18" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="70,702" size="610,142" group="n33_q6dm"/>
+    <loader id="n43_q6dm" name="n43" xy="79,662" size="281,28" group="n33_q6dm" scale="0.7,0.7" url="ui://38fa8c75q6dmvvv1gd" fill="scaleFree"/>
+    <loader id="n42_q6dm" name="n42" xy="674,662" size="281,28" group="n33_q6dm" scale="-0.7,0.7" url="ui://38fa8c75q6dmvvv1gd" fill="scaleFree"/>
+    <text id="n15_bb7a" name="n15" xy="315,649" pivot="0.5,0.5" size="123,42" group="n33_q6dm" fontSize="30" color="#83aeff" align="center" vAlign="middle" text="回收可得"/>
+    <text id="n32_bb7a" name="n32" xy="307,189" pivot="0.5,0.5" size="131,44" group="n33_q6dm" fontSize="32" color="#ffffff" align="center" vAlign="middle" text="装备回收"/>
+    <list id="n35_q6dm" name="list_equip" xy="83,268" size="600,323" group="n33_q6dm" layout="flow_hz" overflow="scroll" lineGap="6" colGap="6" defaultItem="ui://38fa8c75pf1a144">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n38_q6dm" name="list_item" xy="83,719" size="583,112" group="n33_q6dm" layout="row" overflow="scroll" scroll="horizontal" colGap="16" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n41_q6dm" name="list_sel" xy="83,879" size="600,103" group="n33_q6dm" layout="flow_hz" overflow="scroll" lineGap="17" colGap="26" defaultItem="ui://0850c61eq6dmv3j" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n40_q6dm" name="btn_recycle" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="201,1023" size="345,122" group="n33_q6dm" scale="0.85,0.85">
+      <Button title="一键回收"/>
+    </component>
+    <group id="n33_q6dm" name="n33" xy="34,161" size="921,1022" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n45_vdae" name="n45" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1207">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

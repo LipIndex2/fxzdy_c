@@ -1,0 +1,109 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "94767eca-c006-45d7-9c29-a083019b3ff7",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "7797b": {
+      "importer": "sprite-frame",
+      "uuid": "94767eca-c006-45d7-9c29-a083019b3ff7@7797b",
+      "displayName": "",
+      "id": "7797b",
+      "name": "chonghou_death",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 602,
+        "height": 444,
+        "rawWidth": 604,
+        "rawHeight": 444,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2e305d8d-3de7-4746-bb7e-8971cd8a9abd@6c48a",
+        "atlasUuid": "94767eca-c006-45d7-9c29-a083019b3ff7"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5f5f": {
+      "importer": "sprite-frame",
+      "uuid": "94767eca-c006-45d7-9c29-a083019b3ff7@a5f5f",
+      "displayName": "",
+      "id": "a5f5f",
+      "name": "chonghou_live",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 0,
+        "trimX": 605,
+        "trimY": 1,
+        "width": 602,
+        "height": 444,
+        "rawWidth": 604,
+        "rawHeight": 444,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2e305d8d-3de7-4746-bb7e-8971cd8a9abd@6c48a",
+        "atlasUuid": "94767eca-c006-45d7-9c29-a083019b3ff7"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "worldboss.png",
+    "format": 3,
+    "uuid": "94767eca-c006-45d7-9c29-a083019b3ff7",
+    "textureUuid": "2e305d8d-3de7-4746-bb7e-8971cd8a9abd@6c48a"
+  }
+}

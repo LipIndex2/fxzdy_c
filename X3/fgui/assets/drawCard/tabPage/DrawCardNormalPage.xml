@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kgsa5s7w">
+  <displayList>
+    <image id="n58_phyf" name="bg" src="kp3w50" fileName="img/bgV2.jpg" xy="0,180" group="n61_phyf">
+      <relation target="" sidePair="middle-middle"/>
+    </image>
+    <component id="n74_v891" name="anim0" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="219,622" pivot="0.5,0.5" size="312,10" group="n61_phyf">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n62_phyf" name="spineAnimNode" xy="390,598" pivot="0.5,0.5" anchor="true" size="322,223" group="n61_phyf" fontSize="24" autoSize="none" text="">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n59_phyf" name="fg" src="kp3w4z" fileName="img/fgV2.png" xy="0,-146" group="n61_phyf">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n72_e6dc" name="anim" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="225,270" pivot="0.5,1" size="312,364" group="n61_phyf" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n60_phyf" name="fgItem1" src="phyf4n" fileName="img/viewBaseFgItem1.png" xy="302,-146" size="156,515" group="n61_phyf"/>
+    <image id="n75_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-56" pivot="0.5,1" anchor="true" size="750,250" group="n61_phyf" color="#20232b">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n73_v891" name="anim1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="325,594" pivot="0.5,0.5" size="100,100" group="n61_phyf" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n76_gsa5" name="btnJumpShop" src="gsa5s6k" fileName="btn/DrawCardJumpShopBtn.xml" xy="625,271" group="n61_phyf"/>
+    <component id="n64_phyf" name="d1" src="phyf4s" fileName="components/DrawCardFloatHeadComp.xml" xy="169,795" group="n44_n9t5" controller="reachFlag,1"/>
+    <component id="n67_phyf" name="d2" src="phyf4s" fileName="components/DrawCardFloatHeadComp.xml" xy="313,794" group="n44_n9t5" controller="reachFlag,1"/>
+    <component id="n68_phyf" name="d3" src="phyf4s" fileName="components/DrawCardFloatHeadComp.xml" xy="458,795" group="n44_n9t5" controller="reachFlag,1"/>
+    <component id="n69_phyf" name="d4" src="phyf4s" fileName="components/DrawCardFloatHeadComp.xml" xy="604,826" group="n44_n9t5" controller="reachFlag,1"/>
+    <component id="n77_gsa5" name="btnDrawCountBox" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="31,865" size="107,104" group="n44_n9t5"/>
+    <group id="n44_n9t5" name="reward" xy="31,794" size="691,175" group="n71_pwoe" advanced="true"/>
+    <text id="n46_n9t5" name="labelDrawCardCount" xy="39,874" size="96,64" group="n48_n9t5" fontSize="48" color="#f3f3f5" align="center" vAlign="middle" autoSize="none" singleLine="true" text="0"/>
+    <text id="n47_n9t5" name="labelTitleDrawCardCount" xy="37,933" size="98,29" group="n48_n9t5" fontSize="20" color="#f3f3f5" align="center" vAlign="middle" autoSize="none" singleLine="true" text="招募次数"/>
+    <group id="n48_n9t5" name="drawCount" xy="37,874" size="98,88" group="n71_pwoe" advanced="true"/>
+    <component id="n57_sgpf" name="barComp" src="sgpf2x" fileName="progressbar/DrawCardCountProgressBar.xml" xy="148,925" size="563,45" group="n56_n9t5">
+      <ProgressBar value="42" max="100"/>
+    </component>
+    <component id="n53_n9t5" name="tips1" src="n9t526" fileName="components/DrawCardProgressTitleComp.xml" xy="205,950" group="n56_n9t5"/>
+    <component id="n52_n9t5" name="tips2" src="n9t526" fileName="components/DrawCardProgressTitleComp.xml" xy="339,950" group="n56_n9t5"/>
+    <component id="n54_n9t5" name="tips3" src="n9t526" fileName="components/DrawCardProgressTitleComp.xml" xy="471,952" group="n56_n9t5"/>
+    <component id="n55_n9t5" name="tips4" src="n9t526" fileName="components/DrawCardProgressTitleComp.xml" xy="630,980" group="n56_n9t5"/>
+    <group id="n56_n9t5" name="tips" xy="148,925" size="563,90" group="n71_pwoe" advanced="true"/>
+    <group id="n71_pwoe" name="fgTips" xy="31,794" size="691,221" group="n61_phyf" advanced="true">
+      <relation target="n59_phyf" sidePair="bottom-bottom"/>
+    </group>
+    <group id="n61_phyf" name="bgPart" xy="0,-306" size="750,1786" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

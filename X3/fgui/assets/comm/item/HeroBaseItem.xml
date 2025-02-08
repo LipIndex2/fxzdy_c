@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,130">
+  <displayList>
+    <loader id="n120_odo5" name="img_frame" xy="6,6" pivot="0.5,0.5" size="124,124" url="ui://38fa8c75f0d84" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n121_odo5" name="img_item" xy="13,13" pivot="0.5,0.5" size="110,110" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n111_kkiq" name="img_career" xy="-12,-12" pivot="0.5,0.5" size="64,64" scale="0.6,0.6" touchable="false" url="ui://38fa8c75cni66y" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n112_kkiq" name="img_camp" xy="-3,30" pivot="0.5,0.5" size="46,51" scale="0.6,0.6" touchable="false" url="ui://38fa8c75cni66x" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n19_4928" name="n19" src="dtss5p" fileName="frameImage/black2_msg.png" xy="8,101" size="121,28" alpha="0.5"/>
+    <list id="n118_kkiq" name="list_star" xy="18,103" size="171,32" scale="0.6,0.6" layout="row" colGap="-1" defaultItem="ui://38fa8c75dclx138" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n18_4928" name="T_level" xy="87,13" size="34,28" font="ui://38fa8c75ger4vvv1in" fontSize="22" color="#ffffff" align="right" autoClearText="true" text="80">
+      <relation target="" sidePair="right-right"/>
+    </text>
+  </displayList>
+  <transition name="t0"/>
+</component>

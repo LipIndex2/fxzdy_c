@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="413,33" extention="ProgressBar">
+  <displayList>
+    <image id="n1_caj9" name="bg" src="caj9vvv1da" fileName="battleView/hp/img/bossred_blood.png" xy="0,0" size="413,33" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_qlkj" name="bar" src="caj9vvv1da" fileName="battleView/hp/img/bossred_blood.png" xy="0,0" size="413,33">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar reverse="true"/>
+</component>

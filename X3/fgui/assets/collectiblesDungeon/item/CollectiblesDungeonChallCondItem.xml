@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,29">
+  <displayList>
+    <image id="n45_loj0" name="n45" src="xebibc" fileName="frameImage/lb_tag.png" pkg="38fa8c75" xy="0,4" group="n47_loj0" color="#3dc1ff"/>
+    <text id="n46_loj0" name="lbCond" xy="33,0" size="183,29" group="n47_loj0" fontSize="20" color="#ffffff" vAlign="middle" text="通关时保持血量60%"/>
+    <group id="n47_loj0" name="n47" xy="0,0" size="216,29"/>
+  </displayList>
+</component>

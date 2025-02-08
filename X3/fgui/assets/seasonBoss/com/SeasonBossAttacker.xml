@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,200">
+  <controller name="rank" pages="0,,1,,3," selected="0"/>
+  <displayList>
+    <component id="n8_oyze" name="spineNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="78,189" pivot="0.5,1"/>
+    <loader id="n2_hz6e" name="imgTop" xy="-10,30" size="45,42" url="ui://38fa8c75gkgvvvv19j" fill="scale">
+      <gearDisplay controller="rank" pages="1"/>
+    </loader>
+    <text id="n4_hz6e" name="lbName" xy="41,24" pivot="0,0.5" size="46,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" text="ads"/>
+    <image id="n7_oyze" name="n7" src="qlkjs8s" fileName="img/shadow.png" pkg="72zq62ea" xy="32,174" alpha="0.5"/>
+    <image id="n9_oyze" name="n9" src="oyze6e" fileName="img/di4.png" xy="-7,22" size="35,38" group="n11_oyze"/>
+    <text id="n10_oyze" name="lbRank" xy="-4,24" pivot="0.5,0.5" size="29,34" group="n11_oyze" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="8"/>
+    <group id="n11_oyze" name="rankG" xy="-7,22" size="35,38" advanced="true">
+      <gearDisplay controller="rank" pages="3"/>
+    </group>
+  </displayList>
+</component>

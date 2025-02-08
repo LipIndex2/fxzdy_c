@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n56_ae97" name="n56" src="ae9724" fileName="img/tianchongyanse.png" xy="362,-101"/>
+    <loader id="n65_9zn0" name="n65" xy="34,95" size="682,1143" group="n59_caj9" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n3_ae97" name="bg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,500" size="638,617" group="n59_caj9"/>
+    <text id="n5_ae97" name="labelTitle" xy="277,120" size="194,44" group="n59_caj9" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="每日结算奖励"/>
+    <text id="n6_ae97" name="labelRankTitle" xy="295,200" size="158,36" group="n59_caj9" fontSize="26" color="#ffffff" text="当前本服排名"/>
+    <text id="n14_ae97" name="labelMyRank" xy="327,246" size="94,48" group="n59_caj9" fontSize="35" color="#ffc051" text="第1名"/>
+    <image id="n4_ae97" name="bgReward" src="ae974" fileName="img/jianglidi_frame.png" xy="54,293" group="n60_caj9"/>
+    <image id="n7_ae97" name="bgRewardTitle" src="ae975" fileName="img/scale_75%_sd_A_common_biaoti1_msg_60.png" xy="146,305" group="n60_caj9"/>
+    <text id="n8_ae97" name="labelRewardTitle" xy="203,311" size="344,32" group="n60_caj9" fontSize="22" color="#5946c4" text="今日保持排名至0点可获得以下奖励"/>
+    <group id="n60_caj9" name="n60" xy="54,293" size="641,189" group="n59_caj9"/>
+    <list id="n61_caj9" name="rowList" xy="64,517" size="619,587" group="n59_caj9" overflow="scroll" lineGap="10" defaultItem="ui://410b0b71caj910m" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n63_caj9" name="myRewardComp" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="145,361" size="459,109" group="n59_caj9"/>
+    <group id="n59_caj9" name="n59" xy="34,95" size="682,1143" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n64_vdae" name="n64" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1247">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

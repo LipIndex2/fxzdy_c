@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="341,165" extention="ProgressBar">
+  <displayList>
+    <image id="n5_na34" name="bg" src="na342g" fileName="bar/image/racialGod2.png" xy="0,-2" pivot="0,0.5" size="341,169">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n6_na34" name="bar" src="na342f" fileName="bar/image/racialGod1.png" xy="0,-2" pivot="0,0.5" size="341,169">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

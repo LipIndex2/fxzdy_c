@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="1,,2,,3,,4,,5,,6," selected="0"/>
+  <displayList>
+    <loader id="n111_xebi" name="bg" xy="0,0" size="750,1334" alpha="0.65" url="ui://38fa8c75j6z92h" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n77_4928" name="n77" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="57,248" size="637,880" group="n104_kkiq"/>
+    <image id="n90_4928" name="n90" src="xebibd" fileName="bgImage/3j_line.png" pkg="38fa8c75" xy="87,433" size="575,8" group="n104_kkiq" flip="hz"/>
+    <loader id="n107_xebi" name="img_icon" xy="146,506" pivot="0.5,0.5" anchor="true" size="64,64" group="n109_xebi" url="ui://38fa8c75cni66z" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n84_4928" name="n84" xy="192,487" size="99,34" group="n109_xebi" fontSize="24" color="#fcf0d2" align="center" vAlign="middle" text="羁绊效果"/>
+    <text id="n85_4928" name="T_allNum" xy="292,487" size="45,34" group="n109_xebi" fontSize="24" color="#75ff7b" vAlign="middle" text="2/3"/>
+    <group id="n109_xebi" name="n109" xy="114,474" size="219,64" group="n104_kkiq"/>
+    <list id="n106_xebi" name="list_tab" xy="100,271" size="564,159" group="n104_kkiq" layout="row" colGap="11" defaultItem="ui://4hj3fle9xebi1v" selectionController="c1">
+      <item title="守护" icon="ui://38fa8c75cni66y"/>
+      <item title="格斗" icon="ui://38fa8c75cni66w"/>
+      <item title="异能" icon="ui://38fa8c75cni672"/>
+      <item title="射击" icon="ui://38fa8c75cni66z"/>
+      <item title="重骑" icon="ui://38fa8c75cni673"/>
+      <item title="辅助" icon="ui://38fa8c75cni66v"/>
+    </list>
+    <list id="n108_xebi" name="list_tips" xy="123,582" size="528,248" group="n104_kkiq" overflow="scroll" lineGap="30" defaultItem="ui://4hj3fle9xebi1w">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n110_xebi" name="list_hero" xy="93,851" size="795,265" group="n104_kkiq" scale="0.72,0.72" layout="flow_hz" overflow="scroll" lineGap="-31" colGap="1" lineItemCount="6" defaultItem="ui://38fa8c75odo57g">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n112_woyg" name="n112" xy="329,1082" pivot="0.5,0.5" anchor="true" size="364,39" group="n114_woyg" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="升级职业科技可强化羁绊效果">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n113_woyg" name="btnGoto" src="woyg2o" fileName="view/FormationGotoBtn.xml" xy="521,1064" group="n114_woyg">
+      <relation target="n112_woyg" sidePair="left-right"/>
+    </component>
+    <group id="n114_woyg" name="n114" xy="147,1062" size="456,41" group="n104_kkiq" advanced="true"/>
+    <group id="n104_kkiq" name="n104" xy="57,248" size="831,880" advanced="true"/>
+  </displayList>
+</component>

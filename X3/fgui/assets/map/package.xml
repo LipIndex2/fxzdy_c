@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ojwi06ia">
+  <resources>
+    <component id="8qld0" name="Unlock_item.xml" path="/item/"/>
+    <image id="8qld5" name="suobig_icon.png" path="/img/"/>
+    <component id="8qld7" name="ConditionalPopup.xml" path="/view/"/>
+    <image id="8qld9" name="chengse_tag.png" path="/img/"/>
+    <image id="8qlda" name="lanse_tag.png" path="/img/"/>
+    <component id="8qldc" name="Conditional_item.xml" path="/item/"/>
+    <image id="mc6yj" name="gth1_btn.png" path="/img/"/>
+    <component id="mc6yn" name="TransferDoor_item.xml" path="/item/"/>
+    <component id="qoero" name="MapTransferListPopup.xml" path="/view/"/>
+    <component id="qoerp" name="TransferList_item.xml" path="/item/"/>
+    <component id="105pvs" name="MapBackgroundView.xml" path="/view/"/>
+    <image id="105pvvu" name="zhuangshi.png" path="/img/"/>
+    <image id="105pvvv" name="yishuzi.png" path="/img/"/>
+    <image id="105pvvw" name="tubiaokuang.png" path="/img/"/>
+    <component id="105pvvx" name="MapBoosFirstKill.xml" path="/view/"/>
+    <image id="rurqvvy" name="unlock_icon.png" path="/img/"/>
+    <image id="rurqvvz" name="lock_icon.png" path="/img/"/>
+    <component id="dusvvw0" name="MapBossKillTitle.xml" path="/view/"/>
+    <component id="r58cvw1" name="MapTransferTabBtn.xml" path="/component/"/>
+    <component id="str8vw2" name="MapStimulationProgress.xml" path="/component/"/>
+    <component id="str8vw3" name="MapStimulation.xml" path="/item/"/>
+    <image id="8g0dvw4" name="bg_lv1.png" path="/img/"/>
+    <image id="8g0dvw5" name="bg_lv2.png" path="/img/"/>
+    <image id="8g0dvw6" name="bg_lv3.png" path="/img/"/>
+    <image id="8g0dvw7" name="bg_lv4.png" path="/img/"/>
+    <image id="8g0dvw8" name="dianzuan_icon.png" path="/img/"/>
+    <component id="8g0dvw9" name="MapOccupyHeroItem.xml" path="/item/"/>
+    <component id="8g0dvwa" name="MapFactory.xml" path="/item/"/>
+    <component id="8g0dvwb" name="MapMine.xml" path="/item/"/>
+    <image id="woygvwc" name="light1.png" path="/img/"/>
+    <image id="woygvwd" name="light2.png" path="/img/"/>
+    <image id="woygvwg" name="bg_chapter.png" path="/img/" scale="9grid" scale9grid="20,14,22,2"/>
+    <component id="woygvwh" name="MapPetDungeon.xml" path="/item/"/>
+    <font id="ger4vwi" name="Font_white.fnt" path="/img/" exported="true"/>
+    <image id="ger4vwj" name="cj0_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwk" name="cj1_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwl" name="cj2_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwm" name="cj3_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwn" name="cj4_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwo" name="cj5_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwp" name="cj6_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwq" name="cj7_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwr" name="cj8_word.png" path="/img/" exported="true"/>
+    <image id="ger4vws" name="cj9_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwt" name="cjexp_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwu" name="cjjia_word.png" path="/img/" exported="true"/>
+    <image id="ger4vwv" name="cjjian_word.png" path="/img/" exported="true"/>
+    <component id="dx6evvv1ko" name="boxBar.xml" path="/item/"/>
+    <image id="dx6evvv1kq" name="boss_huang.png" path="/img/"/>
+    <image id="dx6evvv1kr" name="jdu_di.png" path="/img/" scale="9grid" scale9grid="7,10,7,5"/>
+    <image id="dx6evvv1ks" name="jdu1_di.png" path="/img/" scale="9grid" scale9grid="10,11,3,4"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

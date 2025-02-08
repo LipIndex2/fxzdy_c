@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="396,244" pivot="0.5,0.5" extention="Button">
+  <controller name="isLeft" exported="true" pages="0,,1," selected="0"/>
+  <controller name="isPass" pages="0,,1," selected="0"/>
+  <controller name="isCurrent" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n22_ac40" name="bgLevel" src="ac4017" fileName="img/cengji_0.png" xy="108,112" pivot="0.5,0.5" group="n49_116zs" scale="-1,1">
+      <gearSize controller="isLeft" pages="0" values="223,67,-1,1" default="223,67,1,1"/>
+    </image>
+    <image id="n48_116zs" name="n48" src="116zs30" fileName="img/bgCurrentGS.png" xy="108,112" pivot="0.5,0.5" group="n49_116zs" scale="-1,1">
+      <gearDisplay controller="isCurrent" pages="1"/>
+      <gearSize controller="isLeft" pages="0" values="223,67,-1,1" default="223,67,1,1"/>
+    </image>
+    <group id="n49_116zs" name="G_bg" xy="108,112" size="223,67" group="n47_zbph" advanced="true"/>
+    <loader id="n16_ac40" name="imageHero" xy="259,122" pivot="0.5,1" anchor="true" size="180,158" group="n47_zbph" scale="-1,1" url="ui://7q3fcj1k116zs6o" align="center" vAlign="bottom" clearOnPublish="true">
+      <gearDisplay controller="isPass" pages="0"/>
+      <gearXY controller="isLeft" pages="0,1" values="259,122|168,122"/>
+      <gearSize controller="isLeft" pages="0,1" values="180,158,-1,1|180,148,1,1"/>
+    </loader>
+    <text id="n23_ac40" name="labelContent" xy="204,131" pivot="0.5,0.5" size="109,36" group="n47_zbph" fontSize="26" color="#95d6ff" align="center" vAlign="middle" autoSize="none" strokeColor="#032688" strokeSize="3" text="已校验">
+      <gearDisplay controller="isLeft" pages=""/>
+      <gearXY controller="isLeft" pages="0,1" values="204,131|124,131"/>
+    </text>
+    <text id="n24_ac40" name="labelNum" xy="111,122" pivot="0.5,0.5" size="75,46" group="n47_zbph" fontSize="34" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="100">
+      <gearXY controller="isLeft" pages="0,1" values="111,122|259,124"/>
+    </text>
+    <text id="n28_ac40" name="labelLv" xy="101,83" size="87,32" group="n47_zbph" fontSize="22" color="#ffffff" strokeColor="#000000" strokeSize="3" text="等级200">
+      <gearDisplay controller="isPass" pages="0"/>
+      <gearXY controller="isLeft" pages="0,1" values="101,83|243,83"/>
+    </text>
+    <component id="n44_qr2y" name="dialog" src="tl0c2a" fileName="components/GodSequenceDialog.xml" xy="75,16" size="136,66" group="n47_zbph" controller="isLeft,0">
+      <gearDisplay controller="isPass" pages="0"/>
+      <gearXY controller="isLeft" pages="0,1" values="75,16|225,16"/>
+      <gearSize controller="isLeft" pages="0,1" values="136,66,1,1|138,66,1,1"/>
+    </component>
+    <image id="n19_ac40" name="gou" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="292,132" group="n47_zbph" scale="0.8,0.8">
+      <gearDisplay controller="isPass" pages="1"/>
+      <gearXY controller="isLeft" pages="0,1" values="292,132|100,132"/>
+    </image>
+    <group id="n47_zbph" name="G_content" xy="75,-36" size="275,215" group="n45_qr2y"/>
+    <image id="n46_qr2y" name="n46" src="ac4021" fileName="img/yindaoxian.png" xy="218,187" group="n45_qr2y" scale="-1,1">
+      <gearSize controller="isLeft" pages="0" values="161,33,-1,1" default="161,33,1,1"/>
+    </image>
+    <group id="n45_qr2y" name="n45" xy="75,-36" size="304,256"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

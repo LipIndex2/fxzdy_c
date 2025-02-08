@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400">
+  <displayList>
+    <loader id="n105_gl0p" name="n105" xy="200,454" pivot="0.5,0.5" anchor="true" size="573,302" group="n110_gl0p" url="ui://7cvz7rmmgl0pvv28" autoSize="true"/>
+    <loader id="n106_gl0p" name="n106" xy="200,461" pivot="0.5,1" anchor="true" size="337,238" group="n110_gl0p" url="ui://7cvz7rmmgl0pvv29" autoSize="true"/>
+    <loader id="n109_gl0p" name="iconLoader" xy="0,0" size="400,400" group="n110_gl0p" align="center" vAlign="middle" fill="scale"/>
+    <group id="n110_gl0p" name="n110" xy="-86,0" size="573,605" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n100_dusv" name="aniNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="199,262">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="t0"/>
+</component>

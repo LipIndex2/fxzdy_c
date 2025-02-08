@@ -1,0 +1,132 @@
+
+gw_bianyifeiyu.png
+size: 134,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 76, 12
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 91, 13
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 78, 93
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 123, 75
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 76, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 78, 47
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 109, 44
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 53, 10
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: true
+  xy: 78, 30
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 106, 30
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 21, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 38, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 105, 5
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 105, 18
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 2, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 78, 70
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 15
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+zhuang
+  rotate: false
+  xy: 2, 41
+  size: 74, 74
+  orig: 75, 74
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1,,2," selected="0">
+    <remark page="0" value="觉醒/刷新确认"/>
+    <remark page="1" value="首次词条展示"/>
+    <remark page="2" value="替换词条"/>
+  </controller>
+  <displayList>
+    <image id="n0_xwdv" name="n0" src="xwdvvce" fileName="img/sd_A_common_tc1_frame_20.png" xy="65,417" group="n34_xwdv"/>
+    <image id="n1_xwdv" name="n1" src="xwdvvcf" fileName="img/sd_A_common_tc2_frame_10.png" xy="87,506" group="n34_xwdv">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </image>
+    <text id="n11_xwdv" name="title" xy="339,442" size="67,44" group="n34_xwdv" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <image id="n15_xwdv" name="n15" src="xwdvvck" fileName="img/sd_A_common_tc2_frame_19.png" xy="88,506" group="n20_xwdv"/>
+    <text id="n16_xwdv" name="tipLabel1" xy="132,548" size="478,109" group="n20_xwdv" fontSize="26" color="#ddfbff" autoSize="none" text="刷新觉醒属性消耗1个觉醒石，探险家可以选择是否保留刷新后得属性，是否使用？"/>
+    <component id="n17_xwdv" name="tipBtn" src="xwdvvcn" fileName="btn/HeroTipBtn.xml" xy="271,729" group="n20_xwdv"/>
+    <text id="n19_xwdv" name="n19" xy="317,734" size="147,34" group="n20_xwdv" fontSize="24" color="#f3f3f5" vAlign="middle" text="本日不再弹出"/>
+    <component id="n32_xwdv" name="btnNoUse" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="235,837" pivot="0.5,0.5" anchor="true" group="n20_xwdv" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="0,2"/>
+      <Button title="取消"/>
+    </component>
+    <component id="n33_xwdv" name="btnUse" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="518,837" pivot="0.5,0.5" anchor="true" size="268,122" group="n20_xwdv" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="0,2"/>
+      <Button title="确定" titleColor="#effbff" titleFontSize="40" icon="ui://38fa8c75pf1a147"/>
+    </component>
+    <group id="n20_xwdv" name="view1" xy="88,506" size="572,392" group="n34_xwdv" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n3_xwdv" name="n3" src="xwdvvcg" fileName="img/scale_65%_sd_A_common_biaoti1_msg2.png" xy="275,568" group="n14_xwdv"/>
+    <text id="n5_xwdv" name="stageLabel" xy="373,589" pivot="0.5,0.5" anchor="true" size="158,36" group="n14_xwdv" fontSize="26" color="#0079b1" vAlign="middle" text="阶段一已觉醒"/>
+    <text id="n2_xwdv" name="AttrLabel" xy="373,644" pivot="0.5,0.5" anchor="true" size="236,36" group="n14_xwdv" fontSize="26" color="#fbe266" vAlign="middle" autoClearText="true" text="护甲穿透提升12.3%"/>
+    <text id="n6_xwdv" name="n6" xy="204,668" size="339,36" group="n14_xwdv" fontSize="26" color="#ddfbff" vAlign="middle" text="将要替换当前觉醒，是否确认"/>
+    <component id="n31_xwdv" name="btnClose" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="368,836" pivot="0.5,0.5" anchor="true" size="268,122" group="n14_xwdv" scale="0.8,0.8">
+      <Button title="确定" titleColor="#effbff" titleFontSize="40" icon="ui://38fa8c75pf1a147"/>
+    </component>
+    <group id="n14_xwdv" name="view2" xy="204,568" size="339,329" group="n34_xwdv" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <image id="n23_xwdv" name="n23" src="xwdvvco" fileName="img/scale_65%_sd_A_common_biaoti1_msg2biaoti1_msg2_7.png" xy="279,621" group="n28_xwdv"/>
+    <image id="n24_xwdv" name="n24" src="xwdvvco" fileName="img/scale_65%_sd_A_common_biaoti1_msg2biaoti1_msg2_7.png" xy="279,519" group="n28_xwdv"/>
+    <text id="n26_xwdv" name="n26" xy="349,522" size="55,36" group="n28_xwdv" fontSize="26" color="#0079b1" vAlign="middle" text="当前"/>
+    <text id="n25_xwdv" name="n25" xy="336,623" size="81,36" group="n28_xwdv" fontSize="26" color="#0079b1" vAlign="middle" text="刷新后"/>
+    <text id="n22_xwdv" name="curAttrLabel" xy="377,591" pivot="0.5,0.5" anchor="true" size="236,36" group="n28_xwdv" fontSize="26" color="#ddfbff" vAlign="middle" text="护甲穿透提升12.3%"/>
+    <text id="n21_xwdv" name="newAttrLabel" xy="377,688" pivot="0.5,0.5" anchor="true" size="236,36" group="n28_xwdv" fontSize="26" color="#fbe266" vAlign="middle" text="护甲穿透提升12.3%"/>
+    <text id="n27_xwdv" name="n27" xy="208,712" size="339,36" group="n28_xwdv" fontSize="26" color="#ddfbff" vAlign="middle" text="将要替换当前觉醒，是否确认"/>
+    <component id="n29_xwdv" name="btnNo" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="235,837" pivot="0.5,0.5" anchor="true" group="n28_xwdv" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="0,2"/>
+      <Button title="取消"/>
+    </component>
+    <component id="n30_xwdv" name="btnYes" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="518,837" pivot="0.5,0.5" anchor="true" size="268,122" group="n28_xwdv" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="0,2"/>
+      <Button title="确定" titleColor="#effbff" titleFontSize="40" icon="ui://38fa8c75pf1a147"/>
+    </component>
+    <group id="n28_xwdv" name="view3" xy="101,519" size="551,379" group="n34_xwdv" advanced="true">
+      <gearDisplay controller="c1" pages="2"/>
+    </group>
+    <group id="n34_xwdv" name="n34" xy="65,417" size="619,500" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

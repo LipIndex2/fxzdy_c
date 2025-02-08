@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4hj3fle9">
+  <resources>
+    <component id="odo50" name="FormationMainView.xml" path="/view/"/>
+    <image id="odo54" name="sz.png" path="/img/"/>
+    <image id="odo55" name="szh.png" path="/img/"/>
+    <image id="odo5n" name="zysm1_icon.png" path="/img/"/>
+    <image id="odo5o" name="zyrz1_icon.png" path="/img/"/>
+    <image id="odo5p" name="zyzx1_icon.png" path="/img/"/>
+    <image id="odo5q" name="zyym1_icon.png" path="/img/"/>
+    <image id="odo5r" name="zyym2_icon.png" path="/img/"/>
+    <image id="odo5s" name="zyzx2_icon.png" path="/img/"/>
+    <image id="odo5t" name="zyrz2_icon.png" path="/img/"/>
+    <image id="odo5u" name="zysm2_icon.png" path="/img/"/>
+    <component id="odo51f" name="FormationHeroListPage.xml" path="/page/"/>
+    <component id="odo51i" name="CampHaloWin.xml" path="/view/"/>
+    <component id="odo51k" name="BtnItem1.xml" path="/btn/"/>
+    <component id="odo51n" name="FormationBtn.xml" path="/btn/"/>
+    <component id="odo51r" name="FormationItemPage.xml" path="/page/"/>
+    <component id="xebi1s" name="CampAmountItem.xml" path="/item/"/>
+    <component id="xebi1t" name="CampAttrItem.xml" path="/item/"/>
+    <component id="xebi1u" name="Attritem1.xml" path="/item/"/>
+    <component id="xebi1v" name="SelectBtn.xml" path="/btn/"/>
+    <component id="xebi1w" name="CareerItem.xml" path="/item/"/>
+    <component id="xebi1x" name="CareerFetterWin.xml" path="/view/"/>
+    <image id="fxoc22" name="sd_A_common_lb_tag_0.png" path="/img/"/>
+    <image id="fxoc24" name="bantoudi.png" path="/img/" scale="9grid" scale9grid="74,11,148,22"/>
+    <image id="fxoc27" name="daojukuang.png" path="/img/"/>
+    <image id="fxoc28" name="feichuantubiao.png" path="/img/"/>
+    <image id="fxoc29" name="jiaobiao.png" path="/img/"/>
+    <image id="fxoc2a" name="sd_A_common_shuaxin_btn.png" path="/img/"/>
+    <component id="fxoc2e" name="FormationSkillDescItemComp.xml" path="/skill/"/>
+    <image id="fxoc2f" name="jia_btn.png" path="/img/"/>
+    <image id="cgjd2g" name="beijing.jpg" path="/img/" scale="9grid" scale9grid="0,671,750,53"/>
+    <component id="95cd26" name="FormationRecView.xml" path="/view/"/>
+    <component id="ssxx2b" name="FormationRecHeroItem.xml" path="/item/"/>
+    <component id="ssxx27" name="FormationRecTab.xml" path="/btn/"/>
+    <component id="ssxx28" name="FormationRecUseBtn.xml" path="/item/"/>
+    <component id="ssxx29" name="FromationRecItem.xml" path="/item/"/>
+    <component id="ssxx2a" name="FromationRecTypeItem.xml" path="/item/"/>
+    <image id="95cd25" name="jiaobiao_he.png" path="/img/"/>
+    <image id="95cd9" name="sd_A_common_black2_msg_23.png" path="/img/"/>
+    <image id="95cd22" name="sd_A_common_jt01_icon.png" path="/img/"/>
+    <image id="95cd13" name="sd_A_common_jt01_icon_11.png" path="/img/"/>
+    <image id="95cd24" name="sd_A_common_wxz_tab_2.png" path="/img/"/>
+    <image id="95cd23" name="sd_A_common_xz_tab.png" path="/img/"/>
+    <image id="95cd0" name="sd_Rrukoutubiao_rk0010_icon.png" path="/img/"/>
+    <image id="95cd1" name="tuceng845.jpg" path="/img/"/>
+    <image id="95cd5" name="xingzhuang2.png" path="/img/"/>
+    <image id="95cd16" name="zhankai.png" path="/img/"/>
+    <component id="ssxx2h" name="btnRec.xml" path="/btn/"/>
+    <component id="ssxx2i" name="btnRecMore.xml" path="/btn/"/>
+    <component id="mz6j2j" name="FormationSkillChooseComp.xml" path="/skill/"/>
+    <image id="ig8t2k" name="kuang.png" path="/img/"/>
+    <image id="k6be2l" name="sd_A_common_dakai1_btn.png" path="/img/"/>
+    <image id="vipi2m" name="sd_A_common_black1_msg_1.png" path="/img/"/>
+    <image id="woyg2n" name="icon_goto.png" path="/img/"/>
+    <component id="woyg2o" name="FormationGotoBtn.xml" path="/view/"/>
+    <component id="loj02p" name="FormationStarComp.xml" path="/view/"/>
+    <image id="loj02q" name="yuanjiaojuxing3.png" path="/img/"/>
+    <component id="loj02r" name="FormationStarItem.xml" path="/view/"/>
+    <image id="ta4f2s" name="mask_career.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

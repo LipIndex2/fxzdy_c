@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,30">
+  <displayList>
+    <text id="n8_532a" name="lbTitle" xy="0,14" pivot="0,0.5" anchor="true" size="83,29" fontSize="20" color="#f1ffff" vAlign="middle" autoSize="shrink" strokeColor="#000000" strokeSize="2" text="命中率命"/>
+    <text id="n9_532a" name="lbValue" xy="81,15" pivot="0,0.5" anchor="true" size="69,29" fontSize="20" color="#18dc50" vAlign="middle" strokeColor="#000000" strokeSize="2" text="+100%"/>
+  </displayList>
+</component>

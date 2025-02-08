@@ -1,0 +1,69 @@
+
+zhanyi_shengji_upper.png
+size: 117,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhanyi_shengji_00000
+  rotate: false
+  xy: 65, 122
+  size: 24, 16
+  orig: 64, 64
+  offset: 27, 12
+  index: -1
+effect/zhanyi_shengji_00001
+  rotate: false
+  xy: 63, 61
+  size: 35, 30
+  orig: 64, 64
+  offset: 16, 12
+  index: -1
+effect/zhanyi_shengji_00002
+  rotate: true
+  xy: 61, 4
+  size: 55, 54
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+effect/zhanyi_shengji_00003
+  rotate: false
+  xy: 2, 2
+  size: 57, 57
+  orig: 64, 64
+  offset: 4, 3
+  index: -1
+effect/zhanyi_shengji_00004
+  rotate: false
+  xy: 2, 61
+  size: 59, 59
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+effect/zhanyi_shengji_00005
+  rotate: false
+  xy: 2, 122
+  size: 61, 61
+  orig: 64, 64
+  offset: 2, 1
+  index: -1
+effect/zhanyi_shengji_00006
+  rotate: false
+  xy: 2, 185
+  size: 63, 63
+  orig: 64, 64
+  offset: 1, 0
+  index: -1
+effect/zhanyi_shengji_00007
+  rotate: false
+  xy: 65, 93
+  size: 26, 27
+  orig: 64, 64
+  offset: 14, 35
+  index: -1
+effect/zhanyi_shengji_00008
+  rotate: false
+  xy: 93, 93
+  size: 22, 18
+  orig: 64, 64
+  offset: 18, 44
+  index: -1

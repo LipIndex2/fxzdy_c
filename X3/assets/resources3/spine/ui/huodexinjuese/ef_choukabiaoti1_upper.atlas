@@ -1,0 +1,13 @@
+
+ef_choukabiaoti1_upper.png
+size: 431,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chouka_biaoti
+  rotate: false
+  xy: 2, 2
+  size: 427, 83
+  orig: 428, 84
+  offset: 0, 1
+  index: -1

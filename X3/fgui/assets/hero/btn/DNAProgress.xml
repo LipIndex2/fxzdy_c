@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="70,36" mask="n4_xwdv">
+  <displayList>
+    <loader id="n3_xwdv" name="progressBg" xy="35,18" pivot="0.5,0.5" anchor="true" size="70,36" url="ui://69f29748xwdvvac"/>
+    <graph id="n4_xwdv" name="progressBar" xy="0,0" size="70,36" type="rect"/>
+  </displayList>
+</component>

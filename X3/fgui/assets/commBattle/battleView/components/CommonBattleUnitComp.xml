@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="108,124">
+  <controller name="inCdFlag" pages="0,false,1,true" selected="0"/>
+  <displayList>
+    <loader id="n35_8a38" name="bg" xy="55,62" pivot="0.5,0.5" anchor="true" size="124,124" url="ui://7q3fcj1ko8vgc" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <loader id="n48_o8vg" name="fg" xy="55,62" pivot="0.5,0.5" anchor="true" size="124,124" url="ui://7q3fcj1ko8vgb" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <component id="n43_8a38" name="heroComp" src="ov08vvv1by" fileName="components/HangUpHeroMaskComp.xml" xy="-12,38" rotation="-45"/>
+    <image id="n45_8a38" name="bgMask" src="ov08vvv1bz" fileName="img/tuceng877.png" xy="5,2" size="100,111" group="n47_wwsz" fillMethod="radial360" fillClockwise="false"/>
+    <text id="n46_8a38" name="title" xy="14,33" size="80,58" group="n47_wwsz" fontSize="43" color="#ffffff" align="center" autoSize="none" strokeColor="#000000" strokeSize="2" text="2"/>
+    <group id="n47_wwsz" name="n47" xy="5,2" size="100,111" advanced="true">
+      <gearDisplay controller="inCdFlag" pages="1"/>
+    </group>
+  </displayList>
+</component>

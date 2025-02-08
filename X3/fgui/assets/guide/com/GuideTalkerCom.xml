@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1" mask="n2_ut0g">
+  <displayList>
+    <graph id="n2_ut0g" name="mask" xy="1,1" pivot="0.5,1" anchor="true" size="300,217" touchable="false" type="rect" lineColor="#ffffffff"/>
+    <component id="n0_ut0g" name="talkerModel" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="0,25" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n1_ut0g" name="talkerLoader" xy="1,26" pivot="0.5,1" anchor="true" size="165,180" url="ui://89bef6e1a3e912" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

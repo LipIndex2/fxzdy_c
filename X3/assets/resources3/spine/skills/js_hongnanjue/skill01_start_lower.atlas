@@ -1,0 +1,55 @@
+
+skill01_start_lower.png
+size: 379,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01diceng_00012
+  rotate: false
+  xy: 213, 66
+  size: 102, 60
+  orig: 120, 70
+  offset: 6, 5
+  index: -1
+images/effect/skill01diceng_00013
+  rotate: false
+  xy: 2, 66
+  size: 104, 60
+  orig: 120, 70
+  offset: 5, 5
+  index: -1
+images/effect/skill01diceng_00014
+  rotate: false
+  xy: 108, 66
+  size: 103, 60
+  orig: 120, 70
+  offset: 4, 5
+  index: -1
+images/effect/skill01diceng_00015
+  rotate: true
+  xy: 317, 26
+  size: 100, 60
+  orig: 120, 70
+  offset: 7, 5
+  index: -1
+images/effect/skill01diceng_00016
+  rotate: false
+  xy: 2, 4
+  size: 96, 60
+  orig: 120, 70
+  offset: 11, 5
+  index: -1
+images/effect/skill01diceng_00017
+  rotate: false
+  xy: 100, 5
+  size: 97, 59
+  orig: 120, 70
+  offset: 10, 5
+  index: -1
+images/effect/skilldiceng1
+  rotate: false
+  xy: 199, 2
+  size: 92, 62
+  orig: 110, 70
+  offset: 2, 4
+  index: -1

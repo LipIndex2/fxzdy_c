@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,159">
+  <controller name="c1" pages="0,不可领取,1,可领取,2,已领取" selected="2"/>
+  <displayList>
+    <image id="n196_6b61" name="n196" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="611,159"/>
+    <image id="n197_6b61" name="n197" src="k0452h" fileName="img/1.png" xy="5,5"/>
+    <image id="n204_6b61" name="n204" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="467,82" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <text id="n205_6b61" name="T_name" xy="121,74" pivot="0,0.5" size="135,32" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#0d0800" strokeSize="2" text="玩家名字六字">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </text>
+    <text id="n206_6b61" name="T_time" xy="121,105" pivot="0,0.5" size="129,32" fontSize="22" color="#ffe572" vAlign="middle" strokeColor="#0d0800" strokeSize="2" text="2024-03-09">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </text>
+    <richtext id="n216_k045" name="T_title" xy="17,14" pivot="0,0.5" size="356,34" fontSize="24" color="#91c0ff" vAlign="middle" ubb="true" vars="true" strokeColor="#000000" strokeSize="2" text="本服[color=#07DC1C]首位通关[/color]挂机关卡100的玩家"/>
+    <component id="n218_k045" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="10,53" scale="0.8,0.8"/>
+    <component id="n219_k045" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="384,39" scale="0.45,0.45">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="领取" titleFontSize="58"/>
+    </component>
+    <component id="n220_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="574,81" size="30,30" touchable="false" controller="type,3"/>
+    <component id="n221_k045" name="item2" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="262,53" scale="0.8,0.8"/>
+    <component id="n223_s8ul" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="352,53" scale="0.8,0.8"/>
+    <richtext id="n222_s8ul" name="n222" xy="114,88" pivot="0,0.5" size="99,34" fontSize="24" color="#91c0ff" vAlign="middle" ubb="true" vars="true" strokeColor="#000000" strokeSize="2" text="虚位以待">
+      <gearDisplay controller="c1" pages="0"/>
+    </richtext>
+  </displayList>
+</component>

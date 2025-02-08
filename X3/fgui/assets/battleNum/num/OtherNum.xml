@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,30" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <loader id="n1_jy2z" name="img" xy="56,22" pivot="0.5,0.5" anchor="true" size="50,50" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <transition name="t">
+    <item time="0" type="Alpha" target="n1_jy2z" value="1"/>
+    <item time="0" type="Scale" target="n1_jy2z" tween="true" startValue="0.8,0.8" endValue="1,1" duration="6" ease="Circ.InOut"/>
+    <item time="10" type="Alpha" target="n1_jy2z" tween="true" startValue="1" endValue="0" duration="14"/>
+    <item time="24" type="Scale" target="n1_jy2z" value="1,1"/>
+  </transition>
+</component>

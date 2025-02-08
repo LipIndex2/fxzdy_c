@@ -1,0 +1,90 @@
+
+skill01_lower.png
+size: 791,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_xia
+  rotate: true
+  xy: 604, 258
+  size: 282, 143
+  orig: 300, 200
+  offset: 9, 21
+  index: -1
+images/effect/skill01_xia_ring
+  rotate: true
+  xy: 506, 2
+  size: 273, 136
+  orig: 273, 136
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00000
+  rotate: true
+  xy: 644, 28
+  size: 239, 129
+  orig: 300, 200
+  offset: 41, 26
+  index: -1
+images/effect/skill01_xia_xulie_00001
+  rotate: true
+  xy: 506, 533
+  size: 276, 157
+  orig: 300, 200
+  offset: 8, 16
+  index: -1
+images/effect/skill01_xia_xulie_00002
+  rotate: false
+  xy: 2, 608
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00004
+  rotate: false
+  xy: 2, 406
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00005
+  rotate: false
+  xy: 2, 204
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00007
+  rotate: false
+  xy: 2, 2
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00009
+  rotate: true
+  xy: 304, 2
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00011
+  rotate: true
+  xy: 304, 508
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01_xia_xulie_00013
+  rotate: false
+  xy: 304, 315
+  size: 300, 192
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+images/effect/skill01glo
+  rotate: false
+  xy: 660, 680
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

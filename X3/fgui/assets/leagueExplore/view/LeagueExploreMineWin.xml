@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="state" pages="0,,1,,9,,3,,10,,4,,7,,8," selected="0">
+    <remark page="0" value="无人占领"/>
+    <remark page="1" value="我占领"/>
+    <remark page="2" value="同盟有空位"/>
+    <remark page="3" value="同盟占领可互换"/>
+    <remark page="4" value="同盟占领不可互换"/>
+    <remark page="5" value="敌方占领"/>
+    <remark page="6" value="前往"/>
+    <remark page="7" value="未初始化"/>
+  </controller>
+  <displayList>
+    <component id="n58_gtlw" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="32,118" size="682,1053" group="n59_gtlw"/>
+    <image id="n0_fdf1" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,118" size="682,1053" group="n59_gtlw"/>
+    <image id="n1_fdf1" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,205" size="638,783" group="n59_gtlw"/>
+    <image id="n2_fdf1" name="n2" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="69,539" size="608,222" group="n59_gtlw" alpha="0.14"/>
+    <image id="n13_fdf1" name="n13" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="185,801" pivot="0.5,0.5" anchor="true" size="224,28" group="n59_gtlw"/>
+    <image id="n14_fdf1" name="n14" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="563,801" pivot="0.5,0.5" anchor="true" size="224,28" group="n59_gtlw" flip="hz"/>
+    <image id="n66_gtlw" name="n66" src="fdf1100" fileName="img/beijing_74.png" xy="69,221" group="n59_gtlw"/>
+    <loader id="n68_gtlw" name="iconLoader" xy="374,471" pivot="0.5,1" anchor="true" size="200,200" group="n59_gtlw" align="center" vAlign="middle" fill="scale"/>
+    <component id="n49_gtlw" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="477,147" group="n59_gtlw">
+      <relation target="n22_fdf1" sidePair="left-right"/>
+    </component>
+    <component id="n54_gtlw" name="btnSure" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="240,1000" group="n59_gtlw" scale="0.8,0.8">
+      <gearDisplay controller="state" pages="0,1,9,3,10,4,7"/>
+      <gearText controller="state" pages="0,1,9,3,10,4,7" values="占领|退出|驻守|互换|抢占|抢占|前往" default=""/>
+      <Button title="占领"/>
+    </component>
+    <component id="n55_gtlw" name="btnBuzhen" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="576,1044" size="115,58" group="n59_gtlw">
+      <gearDisplay controller="state" pages="0,3,10,4"/>
+      <Button title="布阵"/>
+    </component>
+    <component id="n57_gtlw" name="btnZuan" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="576,1044" size="115,58" group="n59_gtlw">
+      <gearDisplay controller="state" pages="1"/>
+      <Button title="钻头"/>
+    </component>
+    <component id="n56_gtlw" name="btnShare" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="74,1020" group="n59_gtlw">
+      <gearDisplay controller="state" pages="0,1,9,3,10,4"/>
+      <Button title="分享" icon="ui://38fa8c75lhcvvvv1f4"/>
+    </component>
+    <list id="n50_gtlw" name="listDefend" xy="69,808" size="628,165" group="n59_gtlw" overflow="scroll" scrollBarFlags="128" lineGap="-16" defaultItem="ui://78d1ed1agtlw126" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n51_gtlw" name="listIncome" xy="204,557" size="480,48" group="n59_gtlw" layout="flow_hz" overflow="scroll" scrollBarFlags="128" defaultItem="ui://78d1ed1agtlw127" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n60_gtlw" name="n60" xy="374,800" pivot="0.5,0.5" anchor="true" size="123,42" group="n59_gtlw" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="驻守信息"/>
+    <text id="n15_fdf1" name="n15" xy="86,564" size="123,34" group="n59_gtlw" fontSize="24" color="#83d0fc" vAlign="middle" text="预计收益："/>
+    <text id="n19_fdf1" name="n19" xy="86,612" size="123,34" group="n59_gtlw" fontSize="24" color="#83d0fc" vAlign="middle" text="所属联盟："/>
+    <text id="n69_woyg" name="lbOccupyPlayerTitle" xy="86,660" size="123,34" group="n59_gtlw" fontSize="24" color="#83d0fc" vAlign="middle" text="协助玩家："/>
+    <text id="n20_fdf1" name="lbTimeTitle" xy="87,708" size="123,34" group="n59_gtlw" fontSize="24" color="#83d0fc" vAlign="middle" text="剩余时间："/>
+    <text id="n22_fdf1" name="lbTitle" xy="375,165" pivot="0.5,0.5" anchor="true" size="194,44" group="n59_gtlw" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="二级巨型工厂">
+      <relation target="" sidePair=""/>
+    </text>
+    <text id="n40_fdf1" name="lbOccupyName" xy="205,612" size="10,34" group="n59_gtlw" fontSize="24" color="#ffffff" vAlign="middle" text="">
+      <gearColor controller="state" pages="0,4" values="#ffffff,#000000|#f65a5c,#000000" default="#2eaeff,#000000"/>
+    </text>
+    <text id="n70_woyg" name="lbOccupyPlayer" xy="205,660" size="10,34" group="n59_gtlw" fontSize="24" color="#ffffff" vAlign="middle" text=""/>
+    <text id="n52_gtlw" name="lbTime" xy="205,708" size="111,34" group="n59_gtlw" fontSize="24" color="#ffffff" vAlign="middle" text="00:00:00"/>
+    <text id="n73_gl0p" name="lbStateTime" xy="375,1134" pivot="0.5,0.5" anchor="true" size="10,34" group="n59_gtlw" fontSize="24" color="#f2f6fe" align="center" vAlign="middle" text=""/>
+    <group id="n59_gtlw" name="gAll" xy="32,118" size="682,1053" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n72_woyg" name="n72" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="336,1172">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

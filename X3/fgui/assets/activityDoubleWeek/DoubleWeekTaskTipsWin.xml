@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="c1" pages="0,未完成,1,已完成" selected="0"/>
+  <displayList>
+    <image id="n36_230d" name="n36" src="230d26" fileName="img/tiao.png" xy="81,32" group="n45_s8ul"/>
+    <image id="n37_230d" name="n37" src="230d27" fileName="img/lihe.png" xy="101,47" group="n45_s8ul"/>
+    <image id="n38_230d" name="n38" src="230d28" fileName="img/zhezhao.png" xy="101,47" group="n45_s8ul" alpha="0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n39_230d" name="n39" src="230d29" fileName="img/yiwancheng.png" xy="112,81" group="n45_s8ul">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n43_230d" name="T_name" xy="325,64" pivot="0,0.5" size="170,39" group="n45_s8ul" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#100900" strokeSize="3" text="超武招募达标"/>
+    <text id="n44_230d" name="T_desc" xy="323,101" pivot="0,0.5" size="199,34" group="n45_s8ul" fontSize="24" color="#6d349d" vAlign="middle" text="进行10次超武招募"/>
+    <component id="n51_s8ul" name="bar" src="s8ul35" fileName="item/awardBar2.xml" xy="327,136" group="n45_s8ul" touchable="false">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <group id="n45_s8ul" name="n45" xy="81,32" size="589,143" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+  <transition name="anim">
+    <item time="0" type="XY" target="n45_s8ul" tween="true" startValue="70,-269,0.093,-0.202" endValue="70,32,0.093,0.024" duration="18"/>
+    <item time="55" type="XY" target="n45_s8ul" tween="true" startValue="70,32" endValue="70,-231,0.093,-0.173" duration="17"/>
+  </transition>
+</component>

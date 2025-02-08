@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="603,128">
+  <controller name="topN" pages="0,4+,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n85_ac45" name="n85" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="603,128"/>
+    <image id="n106_k3sy" name="n106" src="ac4552" fileName="img/scale_85%_sd_A_common_paimingframe.png" xy="3,2"/>
+    <image id="n95_ac45" name="n95" src="gkgvvvv19j" fileName="rank/images/no1_icon.png" pkg="38fa8c75" xy="22,32" group="n111_k3sy" scale="0.8,0.8">
+      <gearDisplay controller="topN" pages="1"/>
+    </image>
+    <image id="n108_k3sy" name="n108" src="gkgvvvv19k" fileName="rank/images/no2_icon.png" pkg="38fa8c75" xy="22,32" group="n111_k3sy" scale="0.8,0.8">
+      <gearDisplay controller="topN" pages="2"/>
+    </image>
+    <image id="n109_k3sy" name="n109" src="gkgvvvv19l" fileName="rank/images/no3_icon.png" pkg="38fa8c75" xy="26,32" group="n111_k3sy" scale="0.8,0.8">
+      <gearDisplay controller="topN" pages="3"/>
+    </image>
+    <text id="n110_k3sy" name="labelRankNum" xy="49,28" pivot="0.5,0.5" size="32,62" group="n111_k3sy" fontSize="46" color="#58c2ff" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="4">
+      <gearDisplay controller="topN" pages="0"/>
+    </text>
+    <group id="n111_k3sy" name="n111" xy="22,28" size="109,72"/>
+    <component id="n112_k3sy" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="130,12" scale="0.8,0.8"/>
+    <component id="n118_woyg" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="234,56" size="168,72" aspect="true"/>
+    <text id="n114_k3sy" name="labelPlayerName" xy="234,27" size="135,32" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n115_k3sy" name="labelHaveChallengeCount" xy="417,48" pivot="1,0.5" size="39,32" fontSize="22" color="#f7f9fd" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="3次"/>
+    <text id="n116_k3sy" name="labelStarCount" xy="505,48" pivot="1,0.5" size="30,32" fontSize="22" color="#f7f9fd" align="right" vAlign="middle" strokeColor="#010e16" strokeSize="2" singleLine="true" text="30"/>
+    <image id="n117_k3sy" name="n117" src="ac4511" fileName="img/scale_80%_sd_A_common_xinghuang1_icon_39.png" xy="537,49"/>
+  </displayList>
+</component>

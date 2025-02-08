@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="17246473">
+  <resources>
+    <image id="f4307" name="wanmeitongguan.png" path="/img/"/>
+    <image id="f4308" name="tuceng62.png" path="/img/"/>
+    <component id="f43015" name="CollectiblesDungeonChapterWin.xml" path="/view/"/>
+    <component id="f43036" name="CollectiblesDungeonChallengeWin.xml" path="/view/"/>
+    <component id="f43067" name="CollectiblesDungeonBattleWinView.xml" path="/view/"/>
+    <component id="f43078" name="CollectiblesDungeonBattleFailView.xml" path="/view/"/>
+    <component id="f43086" name="CollectiblesDungeonSweepWin.xml" path="/view/"/>
+    <image id="f43096" name="jiediandi.png" path="/img/"/>
+    <image id="f43099" name="jiedianhui.png" path="/img/"/>
+    <image id="f430104" name="xingxing.png" path="/img/"/>
+    <image id="f430111" name="saodang_44.png" path="/img/"/>
+    <component id="f430112" name="CollectiblesDungeonMainView.xml" path="/view/"/>
+    <component id="loj0113" name="CollectiblesDungeonBattleFailComp.xml" path="/component/"/>
+    <component id="loj0118" name="CollectiblesDungeonBattleWinComp.xml" path="/component/"/>
+    <component id="loj011a" name="CollectiblesDungeonBattleCondItem.xml" path="/item/"/>
+    <component id="loj011b" name="CollectiblesDungeonStar.xml" path="/component/"/>
+    <component id="loj011c" name="CollectiblesDungeonChallCondItem.xml" path="/item/"/>
+    <component id="loj011d" name="CollectiblesDungeonChapterItem.xml" path="/item/"/>
+    <component id="loj011f" name="CollectiblesDungeonRewardTip.xml" path="/component/"/>
+    <component id="loj011g" name="CollectiblesDungeonRewardItem.xml" path="/item/"/>
+    <component id="loj011h" name="CollectiblesDungeonRewardTipView.xml" path="/view/"/>
+    <component id="loj011i" name="CollectiblesDungeonLevelItem.xml" path="/item/"/>
+    <component id="loj011j" name="CollectiblesDungeonChapterStarComp.xml" path="/component/"/>
+    <component id="loj011k" name="CollectiblesDungeonProgressBar.xml" path="/component/"/>
+    <component id="loj011l" name="CollectiblesDungeonChapterStarBtn.xml" path="/component/"/>
+    <component id="loj011m" name="CollectiblesDungeonSweepBtn.xml" path="/component/"/>
+    <image id="loj011o" name="level1.png" path="/img/"/>
+    <image id="loj011p" name="level2.png" path="/img/"/>
+    <image id="loj011q" name="level3.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

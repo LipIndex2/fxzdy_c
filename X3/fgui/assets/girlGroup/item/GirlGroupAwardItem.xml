@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,190">
+  <controller name="c1" pages="0,未解锁,1,已解锁,2,已售罄" selected="0"/>
+  <displayList>
+    <image id="n20_430e" name="n20" src="430e14" fileName="img/liebiao_11.png" xy="0,6" size="686,184"/>
+    <text id="n27_430e" name="T_name" xy="40,20" pivot="0,0.5" size="158,36" fontSize="26" color="#fbf5ff" vAlign="middle" text="成团打赏礼包"/>
+    <richtext id="n38_k045" name="T_tips" xy="492,55" pivot="0.5,0.5" size="156,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" strokeColor="#000000" strokeSize="3" text="购买首充后解锁">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+    </richtext>
+    <image id="n34_k045" name="n34" src="dusvvvv1fl" fileName="bgImage/v_zgbq.png" pkg="38fa8c75" xy="208,13" group="n33_k045" scale="0.65,0.65"/>
+    <text id="n30_430e" name="T_discounts" xy="211,-4" size="85,35" group="n33_k045" fontSize="25" color="#ffffff" vAlign="middle" italic="true" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <text id="n32_k045" name="n32" xy="212,22" size="40,26" group="n33_k045" fontSize="18" color="#fffe80" vAlign="middle" italic="true" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+    <group id="n33_k045" name="gp_discounts" xy="208,-4" size="144,66" advanced="true"/>
+    <list id="n35_k045" name="list_item" xy="23,74" size="434,107" layout="row" overflow="scroll" scroll="horizontal" colGap="13" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n36_k045" name="btn_buy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="436,65" scale="0.6,0.6">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <Button title="6元" titleFontSize="46"/>
+    </component>
+    <image id="n37_k045" name="n37" src="v891vvv1dr" fileName="frameImage/ygm_tag.png" pkg="38fa8c75" xy="502,97">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+  </displayList>
+</component>

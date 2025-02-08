@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="328,149">
+  <displayList>
+    <component id="n32_htcc" name="btnBuyPack" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="50,56" size="245,93"/>
+    <image id="n25_7095" name="tip1_bg_img" src="nja52p" fileName="img/sd_A_common_qipao-_huang.png" xy="160,8"/>
+    <component id="n26_7095" name="packShowBtn" src="htcc32" fileName="btn/packGiftBtn.xml" xy="255,-9" size="68,64"/>
+    <text id="n27_7095" name="lbTip2" xy="171,18" size="83,29" fontSize="20" color="#3e0101" vAlign="middle" text="额外再送"/>
+    <image id="n28_7095" name="tip12_bg_img" src="nja52c" fileName="img/jiagebiaoqian.png" xy="0,6"/>
+    <text id="n29_7095" name="lbTip1" xy="15,22" size="50,54" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#b63d13" strokeSize="2" text="原价17元"/>
+    <image id="n30_7095" name="tip2_image" src="nja52d" fileName="img/jiagebiaoqianhengxian.png" xy="14,20"/>
+  </displayList>
+</component>

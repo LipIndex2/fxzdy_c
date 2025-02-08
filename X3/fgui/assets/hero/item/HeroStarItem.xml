@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="580,32">
+  <controller name="c1" exported="true" pages="1,升星展示,0,星级展示" selected="0"/>
+  <displayList>
+    <image id="n46_dtss" name="icon" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="278,4">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <list id="n48_dtss" name="list_star1" xy="60,0" size="200,32" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1,0" values="60,0|190,1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n49_dtss" name="list_star2" xy="320,0" size="200,32" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

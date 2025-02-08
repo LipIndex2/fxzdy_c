@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="199,22" extention="Slider">
+  <displayList>
+    <image id="n0_972a" name="bg" src="972a4s" fileName="progressBarImage/tianjiadi_blood.png" xy="0,0" size="199,22">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_972a" name="bar" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" xy="5,3" size="187,16"/>
+    <component id="n2_972a" name="grip" src="972a4v" fileName="progressBar/components/ProgressBar_button.xml" xy="179,-12">
+      <relation target="n1_972a" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Slider/>
+</component>

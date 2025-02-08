@@ -1,0 +1,216 @@
+
+UI_BOSSshousha_upper.png
+size: 1171,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/saoguang1add_00000
+  rotate: false
+  xy: 417, 103
+  size: 191, 140
+  orig: 280, 180
+  offset: 15, 20
+  index: -1
+effect/saoguang1add_00001
+  rotate: false
+  xy: 861, 148
+  size: 210, 148
+  orig: 280, 180
+  offset: 38, 18
+  index: -1
+effect/saoguang1add_00002
+  rotate: false
+  xy: 2, 225
+  size: 212, 149
+  orig: 280, 180
+  offset: 60, 19
+  index: -1
+effect/saoguang1add_00003
+  rotate: false
+  xy: 216, 96
+  size: 199, 147
+  orig: 280, 180
+  offset: 75, 21
+  index: -1
+effect/saoguang1add_00004
+  rotate: false
+  xy: 315, 402
+  size: 164, 129
+  orig: 280, 180
+  offset: 110, 39
+  index: -1
+effect/saoguang1add_00005
+  rotate: false
+  xy: 610, 105
+  size: 152, 129
+  orig: 280, 180
+  offset: 122, 39
+  index: -1
+effect/saoguang1add_00006
+  rotate: false
+  xy: 2, 94
+  size: 143, 129
+  orig: 280, 180
+  offset: 131, 39
+  index: -1
+effect/saoguang2add_00000
+  rotate: false
+  xy: 2, 21
+  size: 105, 71
+  orig: 280, 160
+  offset: 7, 13
+  index: -1
+effect/saoguang2add_00001
+  rotate: false
+  xy: 610, 29
+  size: 147, 74
+  orig: 280, 160
+  offset: 14, 13
+  index: -1
+effect/saoguang2add_00002
+  rotate: true
+  xy: 1073, 183
+  size: 181, 91
+  orig: 280, 160
+  offset: 41, 27
+  index: -1
+effect/saoguang2add_00003
+  rotate: true
+  xy: 1071, 366
+  size: 181, 98
+  orig: 280, 160
+  offset: 92, 54
+  index: -1
+effect/saoguang2add_00004
+  rotate: false
+  xy: 764, 48
+  size: 154, 98
+  orig: 280, 160
+  offset: 119, 54
+  index: -1
+effect/saoguang2add_00005
+  rotate: true
+  xy: 481, 400
+  size: 131, 98
+  orig: 280, 160
+  offset: 142, 54
+  index: -1
+effect/saoguang2add_00006
+  rotate: false
+  xy: 417, 3
+  size: 110, 98
+  orig: 280, 160
+  offset: 163, 54
+  index: -1
+effect/saoguang2add_00007
+  rotate: false
+  xy: 764, 185
+  size: 57, 49
+  orig: 280, 160
+  offset: 216, 103
+  index: -1
+effect/saoguang2add_00008
+  rotate: false
+  xy: 861, 355
+  size: 39, 37
+  orig: 280, 160
+  offset: 234, 115
+  index: -1
+effect/shousha_duichen_add_00000
+  rotate: false
+  xy: 920, 39
+  size: 136, 107
+  orig: 360, 180
+  offset: 7, 31
+  index: -1
+effect/shousha_duichen_add_00001
+  rotate: false
+  xy: 588, 394
+  size: 326, 144
+  orig: 360, 180
+  offset: 13, 25
+  index: -1
+effect/shousha_duichen_add_00002
+  rotate: false
+  xy: 315, 245
+  size: 308, 147
+  orig: 360, 180
+  offset: 39, 23
+  index: -1
+effect/shousha_duichen_add_00003
+  rotate: false
+  xy: 2, 376
+  size: 311, 150
+  orig: 360, 180
+  offset: 40, 20
+  index: -1
+effect/shousha_duichen_add_00004
+  rotate: true
+  xy: 916, 298
+  size: 249, 153
+  orig: 360, 180
+  offset: 104, 17
+  index: -1
+effect/shousha_duichen_add_00005
+  rotate: false
+  xy: 625, 236
+  size: 234, 156
+  orig: 360, 180
+  offset: 120, 14
+  index: -1
+effect/shousha_duichen_add_00006
+  rotate: true
+  xy: 1073, 42
+  size: 139, 93
+  orig: 360, 180
+  offset: 130, 12
+  index: -1
+effect/shousha_duichen_add_00007
+  rotate: false
+  xy: 147, 2
+  size: 113, 92
+  orig: 360, 180
+  offset: 169, 10
+  index: -1
+effect/shousha_duichen_add_00008
+  rotate: false
+  xy: 262, 22
+  size: 128, 72
+  orig: 360, 180
+  offset: 170, 27
+  index: -1
+effect/shousha_sanjiao_add_00000
+  rotate: true
+  xy: 216, 256
+  size: 118, 95
+  orig: 320, 240
+  offset: 100, 89
+  index: -1
+effect/shousha_sanjiao_add_00001
+  rotate: false
+  xy: 2, 528
+  size: 293, 219
+  orig: 320, 240
+  offset: 15, 8
+  index: -1
+effect/shousha_sanjiao_add_00002
+  rotate: false
+  xy: 297, 533
+  size: 289, 214
+  orig: 320, 240
+  offset: 17, 12
+  index: -1
+effect/shousha_sanjiao_add_00003
+  rotate: false
+  xy: 588, 540
+  size: 287, 207
+  orig: 320, 240
+  offset: 18, 16
+  index: -1
+effect/shousha_sanjiao_add_00004
+  rotate: false
+  xy: 877, 549
+  size: 284, 198
+  orig: 320, 240
+  offset: 19, 20
+  index: -1

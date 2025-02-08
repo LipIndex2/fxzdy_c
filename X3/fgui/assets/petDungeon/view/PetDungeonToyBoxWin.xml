@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n24_loj0" name="n24" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="325,948">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n25_loj0" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,413" size="619,536" group="n26_loj0"/>
+    <image id="n0_532a" name="n0" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="65,413" size="619,536" group="n26_loj0"/>
+    <image id="n1_532a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,502" size="572,258" group="n26_loj0"/>
+    <component id="n21_loj0" name="btnRefresh" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="407,784" size="245,94" group="n26_loj0">
+      <Button titleFontSize="34"/>
+    </component>
+    <component id="n22_loj0" name="btnAd" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="109,784" size="245,94" group="n26_loj0">
+      <Button title="广告刷新" titleFontSize="34"/>
+    </component>
+    <list id="n23_loj0" name="listToy" xy="100,509" size="550,240" group="n26_loj0" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="10" defaultItem="ui://390d39d8loj012r" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n6_532a" name="n6" xy="373,459" pivot="0.5,0.5" anchor="true" size="131,44" group="n26_loj0" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="暂存宝箱"/>
+    <text id="n29_t1qh" name="lbTimes" xy="374,904" pivot="0.5,0.5" anchor="true" size="185,34" group="n26_loj0" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" text="剩余刷新次数：1"/>
+    <group id="n26_loj0" name="gAll" xy="65,413" size="619,536" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n28_t1qh" name="btnDel" src="loj012z" fileName="component/PetDungeonToyDelBtn.xml" xy="650,1035">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <component id="n30_t1qh" name="btnBox" src="loj012q" fileName="component/PetDungeonToyBoxBtn.xml" xy="10,992">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </component>
+    <component id="n27_t1qh" name="dragComp" src="t1qh13a" fileName="component/PetDungeonToyDragComp.xml" xy="0,0">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n26_loj0" tween="true" startValue="1" endValue="0.2" duration="12"/>
+    <item time="12" type="Alpha" target="n26_loj0" tween="true" startValue="0.2" endValue="1" duration="24"/>
+  </transition>
+</component>

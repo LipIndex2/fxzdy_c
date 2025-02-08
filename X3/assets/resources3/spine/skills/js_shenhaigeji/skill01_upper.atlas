@@ -1,0 +1,216 @@
+
+skill01_upper.png
+size: 2035,968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/shui01
+  rotate: false
+  xy: 1725, 84
+  size: 70, 70
+  orig: 170, 170
+  offset: 40, 17
+  index: -1
+images/effect/shui02
+  rotate: false
+  xy: 1376, 50
+  size: 99, 104
+  orig: 170, 170
+  offset: 32, 16
+  index: -1
+images/effect/shui03
+  rotate: false
+  xy: 640, 6
+  size: 130, 148
+  orig: 170, 170
+  offset: 22, 15
+  index: -1
+images/effect/shui04
+  rotate: true
+  xy: 484, 7
+  size: 147, 154
+  orig: 170, 170
+  offset: 17, 14
+  index: -1
+images/effect/shui05
+  rotate: true
+  xy: 163, 2
+  size: 152, 158
+  orig: 170, 170
+  offset: 16, 12
+  index: -1
+images/effect/shui06
+  rotate: true
+  xy: 2, 2
+  size: 152, 159
+  orig: 170, 170
+  offset: 18, 11
+  index: -1
+images/effect/shui07
+  rotate: true
+  xy: 323, 7
+  size: 147, 159
+  orig: 170, 170
+  offset: 23, 10
+  index: -1
+images/effect/shui08
+  rotate: true
+  xy: 772, 38
+  size: 116, 155
+  orig: 170, 170
+  offset: 54, 7
+  index: -1
+images/effect/shui09
+  rotate: false
+  xy: 929, 14
+  size: 114, 140
+  orig: 170, 170
+  offset: 56, 8
+  index: -1
+images/effect/shuihua01
+  rotate: true
+  xy: 1919, 118
+  size: 36, 101
+  orig: 256, 256
+  offset: 109, 22
+  index: -1
+images/effect/shuihua03
+  rotate: true
+  xy: 1797, 115
+  size: 39, 120
+  orig: 256, 256
+  offset: 105, 23
+  index: -1
+images/effect/shuihua05
+  rotate: false
+  xy: 1573, 5
+  size: 58, 149
+  orig: 256, 256
+  offset: 95, 26
+  index: -1
+images/effect/shuihua07
+  rotate: false
+  xy: 1304, 3
+  size: 70, 151
+  orig: 256, 256
+  offset: 88, 29
+  index: -1
+images/effect/shuihua09
+  rotate: false
+  xy: 1045, 14
+  size: 81, 140
+  orig: 256, 256
+  offset: 85, 39
+  index: -1
+images/effect/shuihua11
+  rotate: false
+  xy: 1218, 25
+  size: 84, 129
+  orig: 256, 256
+  offset: 85, 45
+  index: -1
+images/effect/shuihua13
+  rotate: false
+  xy: 1128, 30
+  size: 88, 124
+  orig: 256, 256
+  offset: 83, 44
+  index: -1
+images/effect/shuihua15
+  rotate: false
+  xy: 1477, 48
+  size: 94, 106
+  orig: 256, 256
+  offset: 78, 28
+  index: -1
+images/effect/shuihua17
+  rotate: false
+  xy: 1633, 75
+  size: 90, 79
+  orig: 256, 256
+  offset: 80, 23
+  index: -1
+images/effect/shuihua19
+  rotate: false
+  xy: 1919, 70
+  size: 76, 46
+  orig: 256, 256
+  offset: 92, 15
+  index: -1
+images/effect/shuipao01
+  rotate: false
+  xy: 1993, 920
+  size: 40, 46
+  orig: 64, 64
+  offset: 11, 8
+  index: -1
+images/effect/wuxianpu01
+  rotate: false
+  xy: 2, 156
+  size: 658, 391
+  orig: 681, 512
+  offset: 23, 60
+  index: -1
+images/effect/wuxianpu03
+  rotate: false
+  xy: 667, 156
+  size: 658, 396
+  orig: 681, 512
+  offset: 23, 57
+  index: -1
+images/effect/wuxianpu19
+  rotate: false
+  xy: 667, 156
+  size: 658, 396
+  orig: 681, 512
+  offset: 23, 57
+  index: -1
+images/effect/wuxianpu05
+  rotate: false
+  xy: 1331, 156
+  size: 660, 402
+  orig: 681, 512
+  offset: 21, 53
+  index: -1
+images/effect/wuxianpu17
+  rotate: false
+  xy: 1331, 156
+  size: 660, 402
+  orig: 681, 512
+  offset: 21, 53
+  index: -1
+images/effect/wuxianpu07
+  rotate: false
+  xy: 1331, 560
+  size: 660, 406
+  orig: 681, 512
+  offset: 21, 52
+  index: -1
+images/effect/wuxianpu15
+  rotate: false
+  xy: 1331, 560
+  size: 660, 406
+  orig: 681, 512
+  offset: 21, 52
+  index: -1
+images/effect/wuxianpu09
+  rotate: false
+  xy: 667, 554
+  size: 662, 412
+  orig: 681, 512
+  offset: 19, 48
+  index: -1
+images/effect/wuxianpu13
+  rotate: false
+  xy: 667, 554
+  size: 662, 412
+  orig: 681, 512
+  offset: 19, 48
+  index: -1
+images/effect/wuxianpu11
+  rotate: false
+  xy: 2, 549
+  size: 663, 417
+  orig: 681, 512
+  offset: 18, 45
+  index: -1

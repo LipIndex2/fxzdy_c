@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="291,400" pivot="0.5,0.5" opaque="false" extention="Button">
+  <displayList>
+    <component id="n2_k045" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="145,400" touchable="false"/>
+    <loader id="n4_k045" name="n4" xy="60,0" size="170,400"/>
+  </displayList>
+  <Button/>
+</component>

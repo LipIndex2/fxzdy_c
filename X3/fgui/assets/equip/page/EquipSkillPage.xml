@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="301,226">
+  <displayList>
+    <image id="n56_d205" name="n56" src="gkgvvvv19v" fileName="bg/tisp3_frame.png" pkg="38fa8c75" xy="0,0" size="301,226" group="n77_pf1a"/>
+    <text id="n57_d205" name="T_suitName" xy="17,18" size="160,34" group="n77_pf1a" fontSize="24" color="#19df51" text="虫王套装(2/6)"/>
+    <list id="n78_q6dm" name="list_attr" xy="18,63" size="259,153" group="n77_pf1a" overflow="scroll" defaultItem="ui://0850c61eq6dmv3l">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n77_pf1a" name="n77" xy="0,0" size="301,226"/>
+  </displayList>
+</component>

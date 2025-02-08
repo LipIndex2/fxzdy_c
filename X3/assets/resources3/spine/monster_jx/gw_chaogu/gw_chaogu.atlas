@@ -1,0 +1,90 @@
+
+gw_chaogu.png
+size: 100,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 37
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+it_baixing_00
+  rotate: false
+  xy: 70, 21
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: true
+  xy: 2, 25
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+it_baixing_010
+  rotate: 270
+  xy: 34, 15
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+it_baixing_011
+  rotate: 270
+  xy: 50, 39
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: true
+  xy: 76, 37
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: false
+  xy: 45, 4
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: false
+  xy: 2, 3
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: false
+  xy: 14, 19
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+it_baixing_07
+  rotate: true
+  xy: 76, 59
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: true
+  xy: 22, 8
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: 270
+  xy: 68, 5
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1

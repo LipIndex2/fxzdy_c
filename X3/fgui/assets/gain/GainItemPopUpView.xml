@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n1_c1af" name="bg" src="c1af1" fileName="img/sd_A_common_gxhd_frame.png" xy="-9,438" group="n5_dusv"/>
+    <component id="n6_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="391,434" size="0,1" group="n5_dusv"/>
+    <image id="n3_c1af" name="imageTitle" src="c1af3" fileName="img/gxhd_word.png" xy="391,434" pivot="0.5,0.5" anchor="true" group="n5_dusv"/>
+    <list id="n4_fsx5" name="itemList" xy="80,485" size="593,322" group="n5_dusv" layout="flow_hz" overflow="scroll" margin="10,10,10,10" lineGap="10" colGap="10" defaultItem="ui://38fa8c75gvuzvvv1kz" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n5_dusv" name="n5" xy="-9,400" size="769,428" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n7_loej" name="btnDraw" src="gvuzvvv1l0" fileName="btn/BtnDrawClose.xml" pkg="38fa8c75" xy="375,1054" group="n9_loej"/>
+    <component id="n8_loej" name="btnPlay" src="loej1b" fileName="btn/BtnAd.xml" pkg="38fa8c75" xy="375,960" pivot="0.5,0.5" anchor="true" size="306,121" group="n9_loej">
+      <Button title="双倍奖励"/>
+    </component>
+    <component id="n10_gvuz" name="n10" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1180" group="n9_loej"/>
+    <group id="n9_loej" name="gAd" xy="222,899" size="306,370" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

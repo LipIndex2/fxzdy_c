@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n19_qr2a" name="n19" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="53,264" size="643,963" group="n18_h90v"/>
+    <image id="n20_qr2a" name="n20" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="52,263" size="643,963" group="n18_h90v"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="76,790" size="596,250" group="n18_h90v"/>
+    <image id="n2_be1a" name="n2" src="be1a40" fileName="img/zu130438kaobei.png" xy="76,350" group="n18_h90v"/>
+    <component id="n3_be1a" name="n3" src="h90v10j" fileName="btn/flagTagBtn.xml" xy="88,729" group="n18_h90v"/>
+    <text id="n9_be1a" name="n9" xy="308,288" size="131,44" group="n18_h90v" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="联盟旗帜"/>
+    <component id="n10_be1a" name="sureBtn" src="h90v10a" fileName="btn/leagueCreateBtn.xml" xy="251,1078" group="n18_h90v">
+      <Button title="确定"/>
+    </component>
+    <list id="n15_h90v" name="tab" xy="88,729" size="379,62" group="n18_h90v" layout="row" colGap="12" defaultItem="ui://6be81224h90v10j">
+      <item title="图标"/>
+      <item title="旗帜"/>
+    </list>
+    <list id="n16_h90v" name="list" xy="107,821" size="533,197" group="n18_h90v" layout="flow_hz" overflow="scroll" lineGap="20" colGap="10" lineItemCount="5" defaultItem="ui://6be81224h90v10i" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n17_h90v" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="375,503" pivot="0.5,0.5" anchor="true" group="n18_h90v"/>
+    <group id="n18_h90v" name="n18" xy="52,263" size="644,964" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="682,1053">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="未占领"/>
+    <remark page="1" value="占领"/>
+  </controller>
+  <controller name="times" pages="0,,1," selected="0">
+    <remark page="0" value="有剩余次数"/>
+    <remark page="1" value="无剩余次数"/>
+  </controller>
+  <displayList>
+    <image id="n4_fdf1" name="n4" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="0,0" size="682,1053" visible="false"/>
+    <image id="n5_fdf1" name="n5" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="22,87" size="638,842" visible="false"/>
+    <image id="n13_fdf1" name="n13" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="37,591" size="608,192" alpha="0.14"/>
+    <image id="n14_fdf1" name="n14" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="37,319" size="608,188" alpha="0.14"/>
+    <image id="n77_gtlw" name="n77" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="153,283" pivot="0.5,0.5" anchor="true" size="224,28"/>
+    <image id="n78_gtlw" name="n78" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="531,283" pivot="0.5,0.5" anchor="true" size="224,28" flip="hz"/>
+    <image id="n80_gtlw" name="n80" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="153,556" pivot="0.5,0.5" anchor="true" size="224,28"/>
+    <image id="n81_gtlw" name="n81" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="531,556" pivot="0.5,0.5" anchor="true" size="224,28" flip="hz"/>
+    <list id="n83_gtlw" name="listIncome" xy="352,437" pivot="0.5,0.5" anchor="true" size="480,48" layout="flow_hz" overflow="scroll" scrollBarFlags="128" defaultItem="ui://78d1ed1agtlw127" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n84_gtlw" name="listReward" xy="53,636" size="580,104" layout="row" overflow="scroll" scroll="horizontal" colGap="20" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <gearDisplay controller="state" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n36_fdf1" name="btnBuyCard" src="gtlw128" fileName="component/LeagueExploreCardBtn.xml" xy="304,161"/>
+    <component id="n75_gtlw" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="414,29"/>
+    <component id="n32_fdf1" name="btnGoto" src="gtlw129" fileName="component/LeagueExploreGotoBtn.xml" xy="539,114">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <component id="n85_gtlw" name="btnDraw" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="208,794" scale="0.8,0.8">
+      <Button title="领取"/>
+    </component>
+    <loader id="n86_gtlw" name="iconBuilding" xy="219,111" size="40,40" group="n88_gtlw" align="center" vAlign="middle" fill="scale"/>
+    <text id="n87_gtlw" name="lbBuildingName" xy="262,114" size="75,34" group="n88_gtlw" fontSize="24" color="#83d0fc" vAlign="middle" text="建筑名">
+      <relation target="n86_gtlw" sidePair="left-right"/>
+    </text>
+    <group id="n88_gtlw" name="gBuilding" xy="219,111" size="118,40" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <text id="n23_fdf1" name="n23" xy="338,353" pivot="0.5,0.5" anchor="true" size="341,29" fontSize="20" color="#83d0fc" align="center" vAlign="middle" text="部分奖励概率产出，请以实际产出为主"/>
+    <text id="n25_fdf1" name="n25" xy="342,47" pivot="0.5,0.5" anchor="true" size="131,44" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="占领收益"/>
+    <text id="n29_fdf1" name="lbNoneTip" xy="341,688" pivot="0.5,0.5" anchor="true" size="280,34" fontSize="24" color="#5a73b3" align="center" vAlign="middle" text="当前暂无收益请耐心等待~"/>
+    <text id="n30_fdf1" name="n30" xy="56,114" size="123,34" fontSize="24" color="#83d0fc" vAlign="middle" text="占领建筑："/>
+    <text id="n31_fdf1" name="n31" xy="225,114" size="28,34" fontSize="24" color="#83d0fc" vAlign="middle" text="无">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <text id="n33_fdf1" name="n33" xy="54,162" size="123,34" fontSize="24" color="#83d0fc" vAlign="middle" text="剩余时间："/>
+    <text id="n34_fdf1" name="n34" xy="54,210" size="218,34" fontSize="24" color="#83d0fc" vAlign="middle" text="今日进攻奖励次数："/>
+    <text id="n35_fdf1" name="lbTime" xy="180,162" size="111,34" fontSize="24" color="#ffffff" vAlign="middle" text="06:10:20"/>
+    <text id="n76_gtlw" name="lbAttkTimes" xy="274,210" size="18,34" fontSize="24" color="#83d0fc" vAlign="middle" text="0">
+      <gearColor controller="times" pages="1" values="#ff5555,#000000" default="#83d0fc,#000000"/>
+    </text>
+    <text id="n79_gtlw" name="n79" xy="342,282" pivot="0.5,0.5" anchor="true" size="123,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="预计收益"/>
+    <text id="n82_gtlw" name="n82" xy="342,555" pivot="0.5,0.5" anchor="true" size="123,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="累计收益"/>
+    <component id="n89_woyg" name="btnZuan" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="526,102" size="115,58">
+      <gearDisplay controller="state" pages="1"/>
+      <Button title="钻头"/>
+    </component>
+  </displayList>
+</component>

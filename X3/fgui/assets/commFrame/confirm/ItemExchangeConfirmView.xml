@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n0_ckie" name="bg" xy="72,423" size="621,472" group="n6_ckie" aspect="true" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n1_ckie" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" xy="97,532" size="571,202" group="n6_ckie" pkg="38fa8c75"/>
+    <component id="n2_ckie" name="btnNo" src="fsx56k" fileName="btn/BtnCancel.xml" xy="124,768" group="n6_ckie" pkg="38fa8c75">
+      <Button title="取消"/>
+    </component>
+    <component id="n3_ckie" name="btnYes" src="fsx56i" fileName="btn/BtnConfirm.xml" xy="407,767" group="n6_ckie" pkg="38fa8c75">
+      <Button title="确认"/>
+    </component>
+    <text id="n5_ckie" name="labelTitle" xy="257,446" size="255,48" group="n6_ckie" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="提示"/>
+    <text id="n4_ckie" name="labelContent1" xy="168,600" size="108,48" group="n12_ckie" fontSize="26" color="#ddfbff" align="right" vAlign="middle" autoSize="none" singleLine="true" text="是否消耗"/>
+    <component id="n11_ckie" name="imageItemText1" src="ckiev14w" fileName="item/ItemTextComp.xml" xy="280,600" size="97,48" group="n12_ckie" pkg="38fa8c75">
+      <relation target="n4_ckie" sidePair="left-right"/>
+    </component>
+    <text id="n8_ckie" name="labelContent2" xy="388,600" size="56,48" group="n12_ckie" fontSize="26" color="#ddfbff" align="center" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="购买">
+      <relation target="n11_ckie" sidePair="left-right"/>
+    </text>
+    <component id="n13_ckie" name="imageItemText2" src="ckiev14w" fileName="item/ItemTextComp.xml" xy="447,600" size="97,48" group="n12_ckie" pkg="38fa8c75">
+      <relation target="n8_ckie" sidePair="left-right"/>
+    </component>
+    <text id="n14_ckie" name="labelContent3" xy="546,600" size="56,48" group="n12_ckie" fontSize="26" color="#ddfbff" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="?">
+      <relation target="n13_ckie" sidePair="left-right"/>
+    </text>
+    <group id="n12_ckie" name="n12" xy="168,600" size="434,48" group="n6_ckie" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <group id="n6_ckie" name="n6" xy="72,423" size="621,472" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

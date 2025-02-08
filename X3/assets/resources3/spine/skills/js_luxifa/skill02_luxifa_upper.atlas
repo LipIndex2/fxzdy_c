@@ -1,0 +1,146 @@
+
+skill02_luxifa_upper.png
+size: 700,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_kaiqiang_00000
+  rotate: false
+  xy: 574, 416
+  size: 68, 66
+  orig: 400, 170
+  offset: 100, 47
+  index: -1
+images/effect/skill02_kaiqiang_00001
+  rotate: 180
+  xy: 2, 349
+  size: 142, 142
+  orig: 400, 170
+  offset: 61, 9
+  index: -1
+images/effect/skill02_kaiqiang_00002
+  rotate: 180
+  xy: 451, 4
+  size: 247, 136
+  orig: 400, 170
+  offset: 53, 6
+  index: -1
+images/effect/skill02_kaiqiang_00003
+  rotate: 180
+  xy: 415, 171
+  size: 283, 163
+  orig: 400, 170
+  offset: 61, 2
+  index: -1
+images/effect/skill02_kaiqiang_00004
+  rotate: 180
+  xy: 2, 187
+  size: 321, 167
+  orig: 400, 170
+  offset: 40, 3
+  index: -1
+images/effect/skill02_kaiqiang_00005
+  rotate: 180
+  xy: 245, 324
+  size: 349, 169
+  orig: 400, 170
+  offset: 12, 0
+  index: -1
+images/effect/skill02_kaiqiang_00007
+  rotate: false
+  xy: 2, 484
+  size: 359, 168
+  orig: 400, 170
+  offset: 11, 2
+  index: -1
+images/effect/skill02_kaiqiang_00009
+  rotate: false
+  xy: 358, 482
+  size: 333, 169
+  orig: 400, 170
+  offset: 48, 1
+  index: -1
+images/effect/skill02_kaiqiang_00010
+  rotate: 180
+  xy: 219, 29
+  size: 239, 168
+  orig: 400, 170
+  offset: 148, 0
+  index: -1
+images/effect/skill02_kaiqiang_00012
+  rotate: false
+  xy: 32, 15
+  size: 187, 170
+  orig: 400, 170
+  offset: 192, 0
+  index: -1
+images/effect/skill02_ring1
+  rotate: false
+  xy: 324, 256
+  size: 75, 68
+  orig: 80, 80
+  offset: 4, 1
+  index: -1
+images/effect/skill02_ring2
+  rotate: false
+  xy: 143, 403
+  size: 86, 80
+  orig: 96, 96
+  offset: 5, 8
+  index: -1
+images/effect/skill02_smoke_00000
+  rotate: false
+  xy: 325, 493
+  size: 64, 17
+  orig: 68, 20
+  offset: 3, 0
+  index: -1
+images/effect/skill02_smoke_00002
+  rotate: false
+  xy: 124, 354
+  size: 65, 20
+  orig: 68, 20
+  offset: 1, 0
+  index: -1
+images/effect/skill02_smoke_00004
+  rotate: false
+  xy: 144, 381
+  size: 65, 20
+  orig: 68, 20
+  offset: 2, 0
+  index: -1
+images/effect/skill02_smoke_00005
+  rotate: false
+  xy: 379, 234
+  size: 65, 20
+  orig: 68, 20
+  offset: 2, 0
+  index: -1
+images/effect/skill02_smoke_00007
+  rotate: false
+  xy: 555, 335
+  size: 65, 20
+  orig: 68, 20
+  offset: 2, 0
+  index: -1
+images/effect/skill02_tishi_00000
+  rotate: false
+  xy: 379, 201
+  size: 30, 31
+  orig: 55, 55
+  offset: 13, 11
+  index: -1
+images/effect/skill02_tishi_00001
+  rotate: false
+  xy: 324, 202
+  size: 53, 52
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+images/effect/skill02_tishi_00002
+  rotate: false
+  xy: 211, 371
+  size: 34, 30
+  orig: 55, 55
+  offset: 12, 12
+  index: -1

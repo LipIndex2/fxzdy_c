@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="69,85" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n8_kkiq" name="n8" src="kkiq6t" fileName="img/buzhen_icon.png" xy="0,0" group="n10_kkiq"/>
+    <text id="n9_kkiq" name="n9" xy="8,49" size="56,36" group="n10_kkiq" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#00050b" strokeSize="2" text="布阵"/>
+    <group id="n10_kkiq" name="n10" xy="0,0" size="69,85"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

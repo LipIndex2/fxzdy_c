@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,200" restrictSize="17,0,0,0">
+  <controller name="isGain" pages="0,,1," selected="0"/>
+  <controller name="isLast" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n66_hcpc" name="bar" src="hcpc1v" fileName="bar/SevenDayProgressBar.xml" xy="8,117" pivot="1,0.5" size="80,23">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <image id="n34_6950" name="bgProgress" src="hcpc1y" fileName="img/shuzidi.png" xy="61,156" group="n67_hcpc"/>
+    <text id="n35_6950" name="labelProgress" xy="70,152" pivot="0.5,0.5" size="38,39" group="n67_hcpc" fontSize="28" color="#ffffff" align="center" vAlign="middle" singleLine="true" text="15"/>
+    <image id="n65_hcpc" name="imgPoint" src="hcpc21" fileName="img/dian.png" xy="75,114" group="n67_hcpc"/>
+    <component id="n73_gsa5" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="37,1" pivot="0.5,1" group="n67_hcpc" scale="0.7,0.7">
+      <gearSize controller="isLast" pages="0,1" values="104,104,0.7,0.7|104,104,1,1"/>
+    </component>
+    <group id="n67_hcpc" name="n67" xy="37,1" size="104,190"/>
+    <component id="n78_f3sk" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="89,69" size="86,86" group="n79_f3sk"/>
+    <group id="n79_f3sk" name="G_isNoLast" xy="46,26" size="86,86" advanced="true">
+      <gearDisplay controller="isLast" pages="0"/>
+    </group>
+    <image id="n69_hcpc" name="n69" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="51,32" size="76,73" group="n70_hcpc" alpha="0.3"/>
+    <image id="n68_hcpc" name="n68" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="64,44" group="n70_hcpc"/>
+    <group id="n70_hcpc" name="G_isGain" xy="51,32" size="76,73" advanced="true">
+      <gearDisplay controller="isGain" pages="1"/>
+      <gearDisplay2 controller="isLast" pages="0" condition="0"/>
+    </group>
+    <image id="n74_gsa5" name="n74" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="39,3" size="101,100" group="n76_gsa5" alpha="0.3"/>
+    <image id="n75_gsa5" name="n75" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="60,30" group="n76_gsa5"/>
+    <group id="n76_gsa5" name="G_isGainLast" xy="39,3" size="101,100" advanced="true">
+      <gearDisplay controller="isGain" pages="1"/>
+      <gearDisplay2 controller="isLast" pages="1" condition="0"/>
+    </group>
+    <component id="n71_hcpc" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="89,52" size="110,110" group="n77_f3sk"/>
+    <group id="n77_f3sk" name="G_isLast" xy="34,-3" size="110,110" advanced="true">
+      <gearDisplay controller="isLast" pages="1"/>
+    </group>
+    <component id="n72_gsa5" name="btnGain" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="35,6" size="95,99"/>
+  </displayList>
+</component>

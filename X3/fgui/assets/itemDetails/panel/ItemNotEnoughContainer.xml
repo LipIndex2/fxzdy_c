@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="646,1117" opaque="false">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="没有礼包"/>
+    <remark page="1" value="有礼包"/>
+  </controller>
+  <displayList>
+    <component id="n15_e53p" name="pGift" src="ef218" fileName="panel/ItemNotEnoughGift.xml" xy="43,0">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n0_2952" name="pCenter" src="e53p77" fileName="panel/ItemNotEnoughPanel.xml" xy="0,166">
+      <gearXY controller="c1" pages="0,1" values="0,166|0,331"/>
+    </component>
+    <component id="n16_l63i" name="n16" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="287,934">
+      <relation target="" sidePair="center-center"/>
+      <relation target="n0_2952" sidePair="top-bottom"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="99,105" pivot="0.5,0.5" extention="Button">
+  <controller name="isUnlock" exported="true" pages="0,,1," selected="0"/>
+  <controller name="isChoose" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n21_6950" name="n21" src="hcpc1q" fileName="img/dangqian.png" xy="2,0" group="n29_hcpc">
+      <gearDisplay controller="isChoose" pages="1"/>
+      <gearDisplay2 controller="isUnlock" pages="1" condition="0"/>
+    </image>
+    <image id="n23_6950" name="n23" src="hcpc1r" fileName="img/changgui.png" xy="8,4" group="n29_hcpc">
+      <gearDisplay controller="isUnlock" pages="1"/>
+      <gearDisplay2 controller="isChoose" pages="0" condition="0"/>
+    </image>
+    <image id="n25_6950" name="n25" src="hcpc1s" fileName="img/weijiesuo.png" xy="8,4" group="n29_hcpc">
+      <gearDisplay controller="isUnlock" pages="0"/>
+    </image>
+    <text id="n22_6950" name="labelTitle" xy="17,19" pivot="0.5,0.5" size="70,66" group="n29_hcpc" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#1f1e1e" strokeSize="3" text="1"/>
+    <image id="n28_6950" name="n28" src="hcpc1t" fileName="img/scale_60%_sd_A_common_suo1_icon.png" xy="75,2" group="n29_hcpc">
+      <gearDisplay controller="isUnlock" pages="0"/>
+    </image>
+    <group id="n29_hcpc" name="n29" xy="2,0" size="104,109"/>
+    <component id="n30_lnj7" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="88,21" controller="type,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

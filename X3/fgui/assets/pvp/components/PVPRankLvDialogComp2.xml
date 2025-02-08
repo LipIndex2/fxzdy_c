@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,80">
+  <displayList>
+    <image id="n59_b6a2" name="bg" src="qhevvvv1gj" fileName="bgImage/qipao_bai.png" pkg="38fa8c75" xy="156,0" size="156,80" scale="-1,1"/>
+    <text id="n60_b6a2" name="labelCount" xy="59,17" size="79,30" group="n62_t1qh" fontSize="21" color="#0266c3" vAlign="middle" autoSize="none" text="x100"/>
+    <loader id="n61_b6a2" name="imageIcon" xy="19,14" size="38,36" group="n62_t1qh" url="ui://7b03f641b6a235" align="center" vAlign="middle"/>
+    <group id="n62_t1qh" name="n62" xy="19,14" size="119,36"/>
+  </displayList>
+</component>

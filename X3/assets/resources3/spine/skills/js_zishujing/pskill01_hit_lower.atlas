@@ -1,0 +1,104 @@
+
+pskill01_hit_lower.png
+size: 218,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_GLOW
+  rotate: false
+  xy: 2, 254
+  size: 114, 114
+  orig: 150, 150
+  offset: 20, 20
+  index: -1
+effect/pskill01_xue2_0
+  rotate: true
+  xy: 129, 194
+  size: 53, 18
+  orig: 140, 50
+  offset: 50, 13
+  index: -1
+effect/pskill01_xue2_1
+  rotate: false
+  xy: 128, 6
+  size: 88, 30
+  orig: 140, 50
+  offset: 29, 7
+  index: -1
+effect/pskill01_xue2_10
+  rotate: false
+  xy: 2, 169
+  size: 125, 40
+  orig: 140, 50
+  offset: 9, 4
+  index: -1
+effect/pskill01_xue2_11
+  rotate: false
+  xy: 2, 127
+  size: 124, 40
+  orig: 140, 50
+  offset: 9, 4
+  index: -1
+effect/pskill01_xue2_12
+  rotate: false
+  xy: 2, 211
+  size: 125, 41
+  orig: 140, 50
+  offset: 9, 4
+  index: -1
+effect/pskill01_xue2_2
+  rotate: true
+  xy: 169, 38
+  size: 101, 33
+  orig: 140, 50
+  offset: 21, 6
+  index: -1
+effect/pskill01_xue2_3
+  rotate: true
+  xy: 169, 141
+  size: 110, 35
+  orig: 140, 50
+  offset: 16, 5
+  index: -1
+effect/pskill01_xue2_4
+  rotate: true
+  xy: 168, 253
+  size: 115, 37
+  orig: 140, 50
+  offset: 12, 5
+  index: -1
+effect/pskill01_xue2_5
+  rotate: true
+  xy: 129, 249
+  size: 119, 37
+  orig: 140, 50
+  offset: 9, 5
+  index: -1
+effect/pskill01_xue2_6
+  rotate: true
+  xy: 128, 45
+  size: 122, 39
+  orig: 140, 50
+  offset: 8, 4
+  index: -1
+effect/pskill01_xue2_7
+  rotate: false
+  xy: 2, 2
+  size: 124, 39
+  orig: 140, 50
+  offset: 8, 4
+  index: -1
+effect/pskill01_xue2_8
+  rotate: false
+  xy: 2, 43
+  size: 123, 40
+  orig: 140, 50
+  offset: 9, 4
+  index: -1
+effect/pskill01_xue2_9
+  rotate: false
+  xy: 2, 85
+  size: 124, 40
+  orig: 140, 50
+  offset: 9, 4
+  index: -1

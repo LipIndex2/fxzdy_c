@@ -1,0 +1,111 @@
+
+zhanglang1_1.png
+size: 291,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: false
+  xy: 216, 91
+  size: 68, 45
+  orig: 75, 56
+  offset: 6, 8
+  index: -1
+1_02
+  rotate: false
+  xy: 2, 89
+  size: 69, 46
+  orig: 75, 56
+  offset: 5, 8
+  index: -1
+1_04
+  rotate: false
+  xy: 216, 138
+  size: 69, 46
+  orig: 75, 56
+  offset: 5, 9
+  index: -1
+1_06
+  rotate: false
+  xy: 2, 137
+  size: 69, 47
+  orig: 75, 56
+  offset: 5, 9
+  index: -1
+1_08
+  rotate: false
+  xy: 73, 138
+  size: 70, 47
+  orig: 75, 56
+  offset: 4, 8
+  index: -1
+1_10
+  rotate: false
+  xy: 73, 187
+  size: 70, 48
+  orig: 75, 56
+  offset: 4, 6
+  index: -1
+1_12
+  rotate: false
+  xy: 147, 186
+  size: 70, 50
+  orig: 75, 56
+  offset: 4, 3
+  index: -1
+1_14
+  rotate: false
+  xy: 147, 238
+  size: 70, 51
+  orig: 75, 56
+  offset: 3, 1
+  index: -1
+1_16
+  rotate: false
+  xy: 75, 237
+  size: 70, 52
+  orig: 75, 56
+  offset: 3, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 2, 237
+  size: 71, 52
+  orig: 75, 56
+  offset: 3, 1
+  index: -1
+1_20
+  rotate: false
+  xy: 219, 238
+  size: 70, 51
+  orig: 75, 56
+  offset: 4, 3
+  index: -1
+1_22
+  rotate: false
+  xy: 219, 186
+  size: 70, 50
+  orig: 75, 56
+  offset: 4, 6
+  index: -1
+1_24
+  rotate: false
+  xy: 2, 186
+  size: 69, 49
+  orig: 75, 56
+  offset: 5, 6
+  index: -1
+1_26
+  rotate: false
+  xy: 145, 137
+  size: 69, 47
+  orig: 75, 56
+  offset: 5, 7
+  index: -1
+1_28
+  rotate: false
+  xy: 73, 89
+  size: 69, 47
+  orig: 75, 56
+  offset: 5, 7
+  index: -1

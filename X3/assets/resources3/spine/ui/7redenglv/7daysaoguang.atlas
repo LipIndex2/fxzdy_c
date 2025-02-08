@@ -1,0 +1,118 @@
+
+7daysaoguang.png
+size: 995,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/7day_00000
+  rotate: false
+  xy: 965, 301
+  size: 23, 35
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00001
+  rotate: false
+  xy: 944, 83
+  size: 39, 55
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00002
+  rotate: true
+  xy: 896, 21
+  size: 52, 74
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00003
+  rotate: true
+  xy: 793, 2
+  size: 71, 101
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00004
+  rotate: false
+  xy: 876, 213
+  size: 87, 123
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00005
+  rotate: true
+  xy: 793, 75
+  size: 107, 149
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00006
+  rotate: false
+  xy: 662, 30
+  size: 129, 152
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00007
+  rotate: false
+  xy: 510, 30
+  size: 150, 152
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00008
+  rotate: false
+  xy: 180, 30
+  size: 174, 152
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00009
+  rotate: false
+  xy: 688, 184
+  size: 186, 152
+  orig: 300, 160
+  offset: 22, 4
+  index: -1
+effect/7day_00010
+  rotate: false
+  xy: 262, 184
+  size: 228, 152
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00011
+  rotate: false
+  xy: 2, 184
+  size: 258, 152
+  orig: 300, 160
+  offset: 8, 4
+  index: -1
+effect/7day_00012
+  rotate: false
+  xy: 492, 184
+  size: 194, 152
+  orig: 300, 160
+  offset: 99, 4
+  index: -1
+effect/7day_00013
+  rotate: false
+  xy: 2, 30
+  size: 176, 152
+  orig: 300, 160
+  offset: 117, 4
+  index: -1
+effect/7day_00014
+  rotate: false
+  xy: 356, 30
+  size: 152, 152
+  orig: 300, 160
+  offset: 141, 4
+  index: -1
+effect/7day_00015
+  rotate: false
+  xy: 944, 140
+  size: 49, 71
+  orig: 300, 160
+  offset: 244, 85
+  index: -1

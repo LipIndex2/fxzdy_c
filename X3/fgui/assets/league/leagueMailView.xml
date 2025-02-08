@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n17_qr2a" name="n17" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,389" size="619,638" group="n16_wq7z"/>
+    <image id="n18_qr2a" name="n18" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,388" size="619,638" group="n16_wq7z"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,478" size="572,372" group="n16_wq7z"/>
+    <image id="n3_be1a" name="n3" src="be1a3" fileName="img/sd_A_common_liaotian_frame_18.png" xy="103,639" size="540,192" group="n16_wq7z" alpha="0.3"/>
+    <text id="n5_be1a" name="n5" xy="115,498" size="92,36" group="n16_wq7z" fontSize="26" color="#ddfbff" text="收件人:"/>
+    <text id="n6_be1a" name="n6" xy="116,593" size="118,36" group="n16_wq7z" fontSize="26" color="#ddfbff" text="发送内容:"/>
+    <text id="n7_be1a" name="n7" xy="115,538" size="113,32" group="n16_wq7z" fontSize="22" color="#e7c55e" text="全联盟成员"/>
+    <text id="n8_be1a" name="countLab" xy="540,801" pivot="1,0" size="94,32" group="n16_wq7z" fontSize="22" color="#708fbb" vAlign="bottom" text="20/2000"/>
+    <text id="n13_be1a" name="mailTitle" xy="309,413" pivot="0.5,0.5" size="131,44" group="n16_wq7z" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="重要提示"/>
+    <component id="n14_h90v" name="sendBtn" src="h90v10a" fileName="btn/leagueCreateBtn.xml" xy="252,885" group="n16_wq7z">
+      <Button title="发送"/>
+    </component>
+    <text id="n15_h90v" name="mailTxt" xy="116,651" size="518,146" group="n16_wq7z" fontSize="22" color="#708fbb" autoSize="shrink" text="" input="true" prompt="请输入邮件内容"/>
+    <group id="n16_wq7z" name="n16" xy="65,388" size="619,639" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

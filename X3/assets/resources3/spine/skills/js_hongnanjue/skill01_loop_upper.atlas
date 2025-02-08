@@ -1,0 +1,41 @@
+
+skill01_loop_upper.png
+size: 396,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01hudun_00007
+  rotate: false
+  xy: 272, 150
+  size: 122, 126
+  orig: 170, 170
+  offset: 16, 29
+  index: -1
+images/effect/skill01hudun_00008
+  rotate: false
+  xy: 140, 2
+  size: 130, 135
+  orig: 170, 170
+  offset: 10, 25
+  index: -1
+images/effect/skill01hudun_00011
+  rotate: false
+  xy: 2, 137
+  size: 134, 139
+  orig: 170, 170
+  offset: 7, 24
+  index: -1
+images/effect/skill01hudun_00013
+  rotate: false
+  xy: 138, 139
+  size: 132, 137
+  orig: 170, 170
+  offset: 9, 24
+  index: -1
+images/effect/skill01hudun_00014
+  rotate: true
+  xy: 2, 5
+  size: 130, 136
+  orig: 170, 170
+  offset: 10, 24
+  index: -1

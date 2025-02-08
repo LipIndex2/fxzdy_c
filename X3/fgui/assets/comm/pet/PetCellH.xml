@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="208,103" extention="Button">
+  <displayList>
+    <loader id="n23_4db4" name="bg" xy="19,5" size="178,98" url="ui://7q3fcj1kdbz0s8i" clearOnPublish="true"/>
+    <loader id="n31_lg0p" name="petIcon" xy="58,-6" pivot="0.5,0.5" size="100,100" url="ui://7q3fcj1kbpcis88" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <image id="n27_4db4" name="iconRefresh" src="e6dcvvv1dp" fileName="btnImage/shuaxin_btn.png" xy="167,1"/>
+    <list id="n30_lg0p" name="stars" xy="0,71" pivot="0.5,0.5" size="200,32" scale="0.5,0.5" layout="row" overflow="scroll" colGap="8" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <Button/>
+</component>

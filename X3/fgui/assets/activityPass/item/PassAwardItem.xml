@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="93,93">
+  <displayList>
+    <component id="n26_bezo" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="-9,0" scale="0.8,0.8"/>
+    <image id="n23_6217" name="img_suo" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="57,2" size="36,43" visible="false"/>
+  </displayList>
+</component>

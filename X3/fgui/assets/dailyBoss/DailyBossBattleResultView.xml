@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kejy364">
+  <controller name="isNewRecord" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <text id="n19_6575" name="labelExitTips" xy="303,1158" size="143,29" group="n25_caj9" fontSize="20" color="#fffefe" text="点击空白处关闭"/>
+    <component id="n26_caj9" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="566,1127" group="n25_caj9" scale="0.8,0.8"/>
+    <component id="n28_ejy3" name="btnBackpack" src="ejy3vvv1dp" fileName="btn/BtnBeiBao.xml" pkg="38fa8c75" xy="570,999" group="n25_caj9"/>
+    <group id="n25_caj9" name="footer" xy="303,999" size="353,218" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n20_caj9" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,670" pivot="0.5,1" anchor="true" size="880,742">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n36_ejy3" name="flyPos1" xy="558,688" size="40,34" group="n27_caj9" visible="false" fontSize="24" color="#ffffff" text=""/>
+    <text id="n13_6575" name="labelTitle" xy="314,558" size="123,42" group="n34_ejy3" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="数据统计"/>
+    <image id="n16_6575" name="n16" src="caj9110" fileName="img/sd_A_common_word_tag.png" xy="88,564" group="n34_ejy3"/>
+    <group id="n34_ejy3" name="n34" xy="88,558" size="574,42" group="n27_caj9"/>
+    <text id="n15_6575" name="labelDamage" xy="310,609" pivot="0.5,0.5" size="124,66" group="n33_ejy3" fontSize="50" color="#f6d860" align="center" vAlign="middle" text="1000"/>
+    <image id="n17_6575" name="imageNewDamage" src="caj9111" fileName="img/sd_A_common_xjl_word.png" xy="421,610" group="n33_ejy3">
+      <gearDisplay controller="isNewRecord" pages="1"/>
+      <relation target="n15_6575" sidePair="left-right"/>
+    </image>
+    <text id="n35_ejy3" name="n35" xy="425,608" size="34,34" group="n33_ejy3" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <group id="n33_ejy3" name="n33" xy="310,608" size="195,67" group="n27_caj9"/>
+    <text id="n14_6575" name="labelDamageTips" xy="301,673" size="147,34" group="n23_caj9" fontSize="24" color="#88c8ff" align="center" vAlign="middle" text="本轮造成伤害"/>
+    <image id="n4_6575" name="n4" src="caj910t" fileName="img/scale_80%_sd_A_common_biaoti1_msg.png" xy="275,730" group="n23_caj9"/>
+    <text id="n5_6575" name="labelRewardTitle" xy="296,735" size="158,36" group="n23_caj9" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" text="达成奖励阶段"/>
+    <group id="n23_caj9" name="n23" xy="275,673" size="200,103" group="n27_caj9"/>
+    <image id="n3_6575" name="bgReward" src="caj910s" fileName="img/sd_A_common_tisp_frame.png" xy="97,792" size="558,196" group="n24_caj9"/>
+    <list id="n32_ejy3" name="gridList" xy="140,822" size="500,141" group="n24_caj9" layout="row" overflow="scroll" scroll="horizontal" colGap="3" defaultItem="ui://410b0b71ejy311o" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n24_caj9" name="rewardP" xy="97,792" size="558,196" group="n27_caj9"/>
+    <group id="n27_caj9" name="body" xy="88,558" size="574,430" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n25_caj9" value="0"/>
+    <item time="0" type="Alpha" target="n27_caj9" value="0"/>
+    <item time="0" type="XY" target="n25_caj9" value="303,1050"/>
+    <item time="54" type="Alpha" target="n27_caj9" tween="true" startValue="0" endValue="1" duration="17"/>
+    <item time="54" type="XY" target="n27_caj9" tween="true" startValue="88,600" endValue="88,558" duration="17"/>
+    <item time="60" type="Alpha" target="n25_caj9" tween="true" startValue="0" endValue="1" duration="17"/>
+    <item time="60" type="XY" target="n25_caj9" tween="true" startValue="303,1050" endValue="303,1000" duration="17"/>
+  </transition>
+</component>

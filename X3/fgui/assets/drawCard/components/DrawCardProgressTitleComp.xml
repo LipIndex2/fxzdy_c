@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="66,35">
+  <controller name="fillFlag" pages="0,f,1,t" selected="0"/>
+  <displayList>
+    <image id="n30_8301" name="n30" src="830119" fileName="img/weilingqu.png" xy="0,0" size="66,31">
+      <gearDisplay controller="fillFlag" pages="0"/>
+    </image>
+    <image id="n28_8301" name="n28" src="830118" fileName="img/yilingqu.png" xy="0,2">
+      <gearDisplay controller="fillFlag" pages="1"/>
+    </image>
+    <text id="n31_8301" name="labelTitle" xy="10,4" size="46,29" fontSize="20" color="#f3f3f5" align="center" vAlign="middle" autoSize="none" singleLine="true" text="50">
+      <gearColor controller="fillFlag" pages="1" values="#000000,#000000" default="#f3f3f5,#000000"/>
+    </text>
+  </displayList>
+</component>

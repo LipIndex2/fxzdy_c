@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="546,50">
+  <displayList>
+    <image id="n0_ig8t" name="n0" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="0,7" size="544,37" color="#4b75c5"/>
+    <text id="n1_ig8t" name="title" xy="30,7" size="10,36" fontSize="26" color="#ffffff" vAlign="middle" text=""/>
+  </displayList>
+</component>

@@ -1,0 +1,76 @@
+
+buff_xiaoshandian_upper.png
+size: 256,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/t_1
+  rotate: false
+  xy: 2, 2
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+images/t_10
+  rotate: true
+  xy: 2, 130
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+images/t_2
+  rotate: false
+  xy: 80, 4
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+images/t_3
+  rotate: false
+  xy: 96, 131
+  size: 106, 44
+  orig: 106, 44
+  offset: 0, 0
+  index: -1
+images/t_4
+  rotate: true
+  xy: 204, 74
+  size: 102, 41
+  orig: 102, 41
+  offset: 0, 0
+  index: -1
+images/t_5
+  rotate: true
+  xy: 170, 10
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+images/t_6
+  rotate: false
+  xy: 176, 178
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+images/t_7
+  rotate: false
+  xy: 96, 177
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+images/t_8
+  rotate: true
+  xy: 87, 38
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+images/t_9
+  rotate: true
+  xy: 2, 33
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="193,80" extention="Button">
+  <controller name="button" pages="4,up,5,down,6,over,7,selectedOver" selected="2"/>
+  <displayList>
+    <image id="n23_3755" name="n23" src="375513" fileName="img/scyq_btn.png" xy="0,11">
+      <gearDisplay controller="button" pages="5,7"/>
+    </image>
+    <image id="n25_3755" name="n25" src="375514" fileName="img/scyq1_btn.png" xy="0,11">
+      <gearDisplay controller="button" pages="4,6"/>
+    </image>
+    <text id="n24_3755" name="title" xy="96,45" pivot="0.5,0.5" anchor="true" size="111,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="6元赠礼">
+      <gearColor controller="button" pages="4,6" values="#ffffff,#000000|#ffffff,#000000" default="#000000,#000000"/>
+    </text>
+    <component id="n26_wcla" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="176,17" controller="type,0"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

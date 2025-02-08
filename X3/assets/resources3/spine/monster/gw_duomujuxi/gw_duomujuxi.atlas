@@ -1,0 +1,286 @@
+
+gw_duomujuxi.png
+size: 230,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 126, 21
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 94, 45
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 116, 31
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 59, 67
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 156, 57
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 216, 19
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 70, 53
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 222, 105
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: 180
+  xy: 2, 21
+  size: 96, 16
+  orig: 96, 22
+  offset: 0, 6
+  index: -1
+J zd19
+  rotate: false
+  xy: 131, 8
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 12, 38
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 141, 67
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: false
+  xy: 95, 6
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: false
+  xy: 212, 94
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: false
+  xy: 86, 101
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: false
+  xy: 12, 4
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: false
+  xy: 38, 44
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+J zd26
+  rotate: false
+  xy: 13, 45
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+J zd27
+  rotate: false
+  xy: 84, 89
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+J zd28
+  rotate: false
+  xy: 195, 27
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+J zd29
+  rotate: false
+  xy: 186, 8
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 115
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+J zd30
+  rotate: false
+  xy: 2, 52
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+J zd31
+  rotate: true
+  xy: 33, 4
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+J zd32
+  rotate: false
+  xy: 55, 3
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+J zd33
+  rotate: false
+  xy: 212, 81
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+J zd34
+  rotate: false
+  xy: 215, 71
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+J zd35
+  rotate: false
+  xy: 163, 14
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+J zd36
+  rotate: false
+  xy: 2, 43
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+J zd37
+  rotate: false
+  xy: 104, 43
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+J zd38
+  rotate: false
+  xy: 27, 41
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+J zd39
+  rotate: false
+  xy: 214, 60
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 204, 110
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+J zd40
+  rotate: true
+  xy: 158, 23
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 183, 55
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 172, 111
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 2, 53
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 171, 61
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 49, 33
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 174, 14
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="432,39">
+  <displayList>
+    <image id="n33_6d8c" name="n33" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="432,37" alpha="0.2"/>
+    <text id="n35_6d8c" name="labelLeft" xy="90,2" size="183,36" fontSize="26" color="#ffffff" vAlign="middle" text="攻击                   "/>
+    <text id="n36_6d8c" name="labelRight" xy="275,2" size="111,36" fontSize="26" color="#0bdd1e" vAlign="middle" autoSize="none" text="+100"/>
+  </displayList>
+</component>

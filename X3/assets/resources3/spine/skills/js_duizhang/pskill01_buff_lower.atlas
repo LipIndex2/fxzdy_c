@@ -1,0 +1,13 @@
+
+pskill01_buff_lower.png
+size: 60,39
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/pskill01_buff_lower
+  rotate: false
+  xy: 2, 2
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+skill02_loop_upper.png
+size: 290,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_huo_00000
+  rotate: true
+  xy: 239, 4
+  size: 66, 30
+  orig: 100, 60
+  offset: 15, 2
+  index: -1
+effect/skill02_huo_00001
+  rotate: false
+  xy: 82, 2
+  size: 67, 27
+  orig: 100, 60
+  offset: 12, 2
+  index: -1
+effect/skill02_huo_00002
+  rotate: false
+  xy: 2, 13
+  size: 78, 33
+  orig: 100, 60
+  offset: 9, 2
+  index: -1
+effect/skill02_huo_00003
+  rotate: false
+  xy: 83, 100
+  size: 89, 37
+  orig: 100, 60
+  offset: 5, 2
+  index: -1
+effect/skill02_huo_00004
+  rotate: false
+  xy: 194, 186
+  size: 94, 39
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00005
+  rotate: false
+  xy: 194, 145
+  size: 94, 39
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00006
+  rotate: false
+  xy: 98, 185
+  size: 94, 40
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00007
+  rotate: false
+  xy: 2, 184
+  size: 94, 41
+  orig: 100, 60
+  offset: 3, 2
+  index: -1
+effect/skill02_huo_00008
+  rotate: false
+  xy: 98, 139
+  size: 81, 44
+  orig: 100, 60
+  offset: 12, 2
+  index: -1
+effect/skill02_huo_00009
+  rotate: false
+  xy: 2, 138
+  size: 79, 44
+  orig: 100, 60
+  offset: 13, 2
+  index: -1
+effect/skill02_huo_00010
+  rotate: true
+  xy: 243, 72
+  size: 71, 44
+  orig: 100, 60
+  offset: 18, 2
+  index: -1
+effect/skill02_huo_00011
+  rotate: false
+  xy: 62, 48
+  size: 61, 50
+  orig: 100, 60
+  offset: 27, 2
+  index: -1
+effect/skill02_huo_00012
+  rotate: false
+  xy: 181, 87
+  size: 60, 56
+  orig: 100, 60
+  offset: 27, 2
+  index: -1
+effect/skill02_huo_00013
+  rotate: false
+  xy: 2, 80
+  size: 58, 56
+  orig: 100, 60
+  offset: 27, 2
+  index: -1
+effect/skill02_huo_00014
+  rotate: true
+  xy: 125, 31
+  size: 54, 55
+  orig: 100, 60
+  offset: 28, 2
+  index: -1
+effect/skill02_huo_00015
+  rotate: true
+  xy: 182, 32
+  size: 53, 55
+  orig: 100, 60
+  offset: 28, 2
+  index: -1

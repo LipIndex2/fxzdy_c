@@ -1,0 +1,209 @@
+
+BOSS_zhanglang.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it_baixing_00
+  rotate: true
+  xy: 162, 179
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: true
+  xy: 2, 124
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+it_baixing_010
+  rotate: false
+  xy: 64, 123
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+it_baixing_011
+  rotate: true
+  xy: 25, 74
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+it_baixing_012
+  rotate: true
+  xy: 158, 154
+  size: 23, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+it_baixing_013
+  rotate: true
+  xy: 138, 69
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+it_baixing_014
+  rotate: false
+  xy: 77, 81
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+it_baixing_015
+  rotate: true
+  xy: 193, 54
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+it_baixing_016
+  rotate: false
+  xy: 250, 222
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+it_baixing_017
+  rotate: false
+  xy: 2, 97
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+it_baixing_018
+  rotate: false
+  xy: 98, 179
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+it_baixing_019
+  rotate: false
+  xy: 106, 46
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: false
+  xy: 247, 16
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+it_baixing_020
+  rotate: false
+  xy: 248, 73
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+it_baixing_021
+  rotate: false
+  xy: 100, 207
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+it_baixing_022
+  rotate: false
+  xy: 2, 164
+  size: 97, 115
+  orig: 97, 115
+  offset: 0, 0
+  index: -1
+it_baixing_023
+  rotate: false
+  xy: 70, 23
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+it_baixing_024
+  rotate: false
+  xy: 45, 28
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+it_baixing_025
+  rotate: 270
+  xy: 69, 137
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+it_baixing_026
+  rotate: true
+  xy: 219, 98
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+it_baixing_027
+  rotate: false
+  xy: 70, 51
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+it_baixing_028
+  rotate: true
+  xy: 2, 45
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: true
+  xy: 147, 116
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: true
+  xy: 207, 24
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+it_baixing_05
+  rotate: true
+  xy: 162, 42
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: false
+  xy: 228, 190
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+it_baixing_07
+  rotate: 270
+  xy: 88, 195
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: false
+  xy: 202, 144
+  size: 75, 65
+  orig: 75, 65
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: 180
+  xy: 159, 246
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1

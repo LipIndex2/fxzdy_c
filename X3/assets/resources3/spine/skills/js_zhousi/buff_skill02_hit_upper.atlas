@@ -1,0 +1,111 @@
+
+buff_skill02_hit_upper.png
+size: 699,786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_hitshang_00000
+  rotate: false
+  xy: 579, 172
+  size: 118, 123
+  orig: 250, 220
+  offset: 66, 4
+  index: -1
+images/effect/skill02_hitshang_00001
+  rotate: true
+  xy: 551, 297
+  size: 136, 121
+  orig: 250, 220
+  offset: 50, 20
+  index: -1
+images/effect/skill02_hitshang_00002
+  rotate: true
+  xy: 232, 588
+  size: 196, 161
+  orig: 250, 220
+  offset: 16, 12
+  index: -1
+images/effect/skill02_hitshang_00003
+  rotate: false
+  xy: 2, 581
+  size: 228, 203
+  orig: 250, 220
+  offset: 11, 5
+  index: -1
+images/effect/skill02_hitshang_00004
+  rotate: false
+  xy: 2, 401
+  size: 237, 178
+  orig: 250, 220
+  offset: 8, 18
+  index: -1
+images/effect/skill02_hitshang_00005
+  rotate: false
+  xy: 2, 232
+  size: 236, 167
+  orig: 250, 220
+  offset: 10, 21
+  index: -1
+images/effect/skill02_hitshang_00006
+  rotate: false
+  xy: 2, 63
+  size: 222, 167
+  orig: 250, 220
+  offset: 11, 30
+  index: -1
+images/effect/skill02_hitshang_00007
+  rotate: true
+  xy: 240, 180
+  size: 219, 159
+  orig: 250, 220
+  offset: 15, 34
+  index: -1
+images/effect/skill02_hitshang_00008
+  rotate: false
+  xy: 241, 401
+  size: 195, 158
+  orig: 250, 220
+  offset: 29, 41
+  index: -1
+images/effect/skill02_hitshang_00009
+  rotate: true
+  xy: 401, 203
+  size: 196, 148
+  orig: 250, 220
+  offset: 27, 52
+  index: -1
+images/effect/skill02_hitshang_00010
+  rotate: false
+  xy: 226, 35
+  size: 211, 143
+  orig: 250, 220
+  offset: 20, 54
+  index: -1
+images/effect/skill02_hitshang_00011
+  rotate: true
+  xy: 395, 567
+  size: 217, 137
+  orig: 250, 220
+  offset: 16, 55
+  index: -1
+images/effect/skill02_hitshang_00012
+  rotate: true
+  xy: 439, 2
+  size: 199, 138
+  orig: 250, 220
+  offset: 27, 58
+  index: -1
+images/effect/skill02_hitshang_00013
+  rotate: true
+  xy: 534, 590
+  size: 194, 125
+  orig: 250, 220
+  offset: 28, 62
+  index: -1
+images/effect/skill02_hitshang_00014
+  rotate: false
+  xy: 438, 435
+  size: 210, 130
+  orig: 250, 220
+  offset: 20, 67
+  index: -1

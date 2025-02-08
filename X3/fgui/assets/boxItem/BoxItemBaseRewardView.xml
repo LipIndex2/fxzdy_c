@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kvdaes8q">
+  <displayList>
+    <component id="n53_smh7" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="37,159" size="674,1010" group="n56_vdae"/>
+    <image id="n42_972a" name="background" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="37,159" size="675,1007" group="n56_vdae"/>
+    <image id="n25_3cd6" name="imageDetailsBackground" src="3cd619" fileName="bgImage/tisp2_frame.png" pkg="38fa8c75" xy="61,357" size="625,569" group="n56_vdae"/>
+    <text id="n28_3cd6" name="labelTitle" xy="226,210" size="202,54" group="n56_vdae" fontSize="40" color="#db83ff" strokeColor="#000000" strokeSize="2" text="大量钻石箱"/>
+    <list id="n38_972a" name="rewardItemList" xy="74,381" size="505,434" group="n56_vdae" scale="1.2,1.2" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" margin="0,0,10,10" lineGap="18" colGap="22" lineItemCount="4" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n44_972a" name="progressCountView" src="972a4z" fileName="progressBar/ProgressBarCommonView.xml" pkg="38fa8c75" xy="198,870" size="373,46" group="n56_vdae" visible="false"/>
+    <text id="n46_vdkj" name="labelChooseCount" xy="230,918" size="314,32" group="n56_vdae" visible="false" fontSize="22" color="#ffd879" align="center" vAlign="middle" vars="true" autoSize="none" text="{title=当前数量}: {useCount=0}"/>
+    <component id="n50_wfol" name="itemPreviewIconView" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="90,210" size="102,104" group="n56_vdae" scale="1.2,1.2"/>
+    <component id="n52_c3wz" name="desc" src="9gqus9b" fileName="text/CommonScrollText.xml" pkg="72zq62ea" xy="226,264" size="415,54" group="n56_vdae"/>
+    <component id="n54_vdae" name="buttonUse" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="225,1025" size="304,122" group="n56_vdae" scale="0.9,0.9">
+      <Button title="使用" titleFontSize="56"/>
+    </component>
+    <component id="n55_vdae" name="chooseItem" src="vdaevvv1hw" fileName="progressBar/ButtonBoxChooseCountView2.xml" pkg="38fa8c75" xy="112,951" group="n56_vdae"/>
+    <group id="n56_vdae" name="n56" xy="37,159" size="675,1010" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

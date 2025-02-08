@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="313,415" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n51_qr2a" name="n51" xy="0,37" size="303,378" url="ui://7cvz7rmmqr2a11b" autoSize="true"/>
+    <component id="n34_894b" name="centerBtn" src="h90v2i" fileName="leagueMain/btn/leagueComBtn.xml" xy="78,0" touchable="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

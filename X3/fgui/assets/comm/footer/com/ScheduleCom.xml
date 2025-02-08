@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="144,139" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n49_phyf" name="n49" src="pocbv174" fileName="img/guanqiadi.png" xy="0,-57" scale="1.5,1.5"/>
+    <text id="n48_6b29" name="labelDesc" xy="6,89" size="76,34" fontSize="24" color="#ffffff" align="center" ubb="true" vars="true" autoSize="none" strokeColor="#201e1e" strokeSize="4" singleLine="true" text="{title=进度: }"/>
+    <text id="n50_phyf" name="labelTitle" xy="85,79" size="145,54" fontSize="36" color="#ffffff" vAlign="middle" ubb="true" vars="true" autoSize="none" strokeColor="#201e1e" strokeSize="4" singleLine="true" text="{levelName=12-3}">
+      <relation target="n48_6b29" sidePair="left-right"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

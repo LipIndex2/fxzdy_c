@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="740,327">
+  <displayList>
+    <image id="n15_c65a" name="n15" src="c65a9" fileName="img/zu130455.png" xy="0,0" group="n122_teox"/>
+    <component id="n123_teox" name="heroItem0" src="tkxdvvv1c2" fileName="hero/components/CommonHeroItemComp.xml" pkg="38fa8c75" xy="175,28" group="n122_teox"/>
+    <component id="n124_teox" name="heroItem1" src="tkxdvvv1c2" fileName="hero/components/CommonHeroItemComp.xml" pkg="38fa8c75" xy="448,28" group="n122_teox"/>
+    <component id="n125_teox" name="heroItem2" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="179,180" group="n122_teox" scale="0.83,0.83"/>
+    <component id="n126_teox" name="heroItem3" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="303,180" group="n122_teox" scale="0.83,0.83"/>
+    <component id="n127_teox" name="heroItem4" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="429,181" group="n122_teox" scale="0.83,0.83"/>
+    <component id="n128_teox" name="heroItem5" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="550,180" group="n122_teox" scale="0.83,0.83"/>
+    <text id="n24_c65a" name="n24" xy="48,58" pivot="0.5,0.5" size="49,207" group="n122_teox" fontSize="50" color="#fff695" align="center" vAlign="middle" autoSize="none" strokeColor="#b73806" strokeSize="3" text="终极阵容"/>
+    <image id="n25_c65a" name="n25" src="dusvvvv1fj" fileName="bgImage/stjl_frame.png" pkg="38fa8c75" xy="327,40" group="n122_teox" visible="false"/>
+    <text id="n26_c65a" name="n26" xy="330,30" pivot="0.5,0.5" size="59,39" group="n122_teox" visible="false" fontSize="28" color="#ffee5b" vAlign="middle" strokeColor="#000000" strokeSize="3" text="核心"/>
+    <group id="n122_teox" name="n122" xy="0,0" size="740,343"/>
+  </displayList>
+</component>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kgkgv5o">
+  <controller name="subType" pages="0,default,1,每日boss,8,神之序列,9,秘境副本" selected="1"/>
+  <displayList>
+    <image id="n17_qt2o" name="bgHeader" src="qt2o2h" fileName="phb_bg.jpg" xy="-111,0" size="1000,1334" group="n7_om4n"/>
+    <image id="n23_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" group="n7_om4n" color="#253455">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <component id="n1_om4n" name="rank1" src="gkgvvvv19h" fileName="rank/RankTop3Comp.xml" pkg="38fa8c75" xy="266,149" size="217,378" group="n7_om4n" controller="top3,1"/>
+    <component id="n2_om4n" name="rank2" src="gkgvvvv19h" fileName="rank/RankTop3Comp.xml" pkg="38fa8c75" xy="19,233" size="217,378" group="n7_om4n" controller="top3,2"/>
+    <component id="n3_om4n" name="rank3" src="gkgvvvv19h" fileName="rank/RankTop3Comp.xml" pkg="38fa8c75" xy="523,233" size="217,378" group="n7_om4n" controller="top3,3"/>
+    <image id="n4_om4n" name="n4" src="c3a69" fileName="img/sd_A_common_bossbt_frame.png" xy="168,53" size="414,89" group="n6_om4n"/>
+    <text id="n5_om4n" name="labelTitle" xy="218,64" pivot="0.5,0.5" size="320,64" group="n6_om4n" fontSize="48" color="#052664" align="center" vAlign="middle" autoSize="shrink" singleLine="true" text="排行榜"/>
+    <group id="n6_om4n" name="titleP" xy="168,53" size="414,89" group="n7_om4n"/>
+    <group id="n7_om4n" name="header" xy="-111,-160" size="1000,1494" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n8_om4n" name="bgRank" src="c3a61" fileName="img/sd_A_common_bossxxd_frame.png" xy="0,628">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n9_om4n" name="rankList" xy="18,761" size="716,286" overflow="scroll" lineGap="10" defaultItem="ui://7b03f635ipjz2c" autoClearItems="true">
+      <gearXY controller="subType" pages="1" values="18,761" default="18,667"/>
+      <gearSize controller="subType" pages="0,1" values="716,373,1,1|716,286,1,1" default="716,373,1,1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n11_om4n" name="myRank" src="ipjz2d" fileName="components/RankForMeComp.xml" xy="0,1052" group="n15_om4n"/>
+    <group id="n15_om4n" name="footerP" xy="0,1052" size="750,188" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n12_om4n" name="bgFooter" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <list id="n14_om4n" name="tabList" xy="120,1241" size="598,87" layout="row" overflow="scroll" scroll="horizontal" colGap="54" defaultItem="ui://7b03f635om4n2e" align="right" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="subType" pages="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n22_y5sw" name="subTypeTabList" xy="120,1241" size="598,87" layout="row" overflow="scroll" scroll="horizontal" colGap="54" defaultItem="ui://7b03f635om4n2e" align="right" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="subType" pages="8"/>
+      <relation target="" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n19_caj9" name="subTypeDailyBossComp" src="caj9vvv1cw" fileName="rank/CommonSubTabListComp.xml" pkg="38fa8c75" xy="0,667" group="n20_caj9">
+      <gearDisplay controller="subType" pages="1"/>
+    </component>
+    <group id="n20_caj9" name="subTypeP" xy="0,667" size="750,68"/>
+    <component id="n21_ejy3" name="topRewardBtn" src="ffqtvvv1ci" fileName="btn/RightTabBtn.xml" pkg="38fa8c75" xy="644,40">
+      <gearDisplay controller="subType" pages="1"/>
+      <Button icon="ui://38fa8c75ffqtvvv1cj"/>
+    </component>
+    <component id="n24_8g0d" name="btnReward" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="643,100">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="奖励" icon="ui://38fa8c75gs9kvvv1fy"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="228,102" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n3_rqzt" name="icon" src="rqztvy" fileName="img/changgui_btn.png" xy="113,50" pivot="0.5,0.5" anchor="true" size="227,101">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n4_rqzt" name="title" xy="113,50" pivot="0.5,0.5" anchor="true" size="209,81" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="labelTitle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <relation target="n3_rqzt" sidePair="width-width,height-height"/>
+</component>

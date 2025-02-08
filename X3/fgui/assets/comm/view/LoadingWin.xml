@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n13_qkm5" name="n13" xy="0,0" size="750,1334" type="rect" lineColor="#ff282b3c" fillColor="#ff282b3c">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n12_ia0o" name="loadingCom" src="ia0ov17r" fileName="view/LoadingCom.xml" xy="375,667" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n8_ia0o" name="tipsTxt" xy="375,1219" pivot="0.5,0.5" anchor="true" size="210,36" fontSize="26" color="#ffffff" text="正在连接战斗前线">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

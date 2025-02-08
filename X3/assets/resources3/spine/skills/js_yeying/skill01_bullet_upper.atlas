@@ -1,0 +1,48 @@
+
+skill01_bullet_upper.png
+size: 260,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_zidan_00000
+  rotate: false
+  xy: 172, 34
+  size: 86, 26
+  orig: 100, 40
+  offset: 7, 7
+  index: -1
+effect/skill01_zidan_00001
+  rotate: false
+  xy: 90, 31
+  size: 80, 29
+  orig: 100, 40
+  offset: 13, 6
+  index: -1
+effect/skill01_zidan_00002
+  rotate: false
+  xy: 172, 4
+  size: 77, 28
+  orig: 100, 40
+  offset: 17, 6
+  index: -1
+effect/skill01_zidan_00003
+  rotate: false
+  xy: 88, 2
+  size: 75, 27
+  orig: 100, 40
+  offset: 19, 7
+  index: -1
+effect/skill01_zidan_00004
+  rotate: false
+  xy: 2, 33
+  size: 86, 27
+  orig: 100, 40
+  offset: 8, 7
+  index: -1
+effect/skill01_zidan_00005
+  rotate: false
+  xy: 2, 6
+  size: 84, 25
+  orig: 100, 40
+  offset: 8, 8
+  index: -1

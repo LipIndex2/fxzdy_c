@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,36">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="满足条件"/>
+    <remark page="1" value="不满足条件"/>
+  </controller>
+  <displayList>
+    <image id="n43_loj0" name="n43" src="273c16" fileName="bgImage/cha_icon.png" pkg="38fa8c75" xy="0,4" size="27,27" aspect="true">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n44_loj0" name="n44" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="0,4" size="35,27" aspect="true">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <text id="n40_loj0" name="lbCond" xy="36,0" size="251,36" fontSize="26" color="#cbe0fa" vAlign="middle" text="至少上阵2名人族英雄"/>
+  </displayList>
+</component>

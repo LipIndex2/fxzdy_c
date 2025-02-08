@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,68">
+  <displayList>
+    <image id="n0_ta4f" name="n0" src="rsg0vvv1gl" fileName="img/sd_A_common_qipao-_huang.png" pkg="38fa8c75" xy="0,0" size="110,68"/>
+    <text id="n1_ta4f" name="demoRewardLab" xy="56,28" pivot="0.5,0.5" anchor="true" size="75,34" fontSize="24" color="#ca6b25" align="center" vAlign="middle" text="未占领"/>
+  </displayList>
+</component>

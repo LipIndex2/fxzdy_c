@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klupes92">
+  <controller name="upBtnState" pages="0,,1,,2," selected="1">
+    <remark page="0" value="不显示"/>
+    <remark page="1" value="选升星"/>
+    <remark page="2" value="选升级"/>
+    <action type="change_page" fromPage="" toPage="2" objectId="n218_lupe" controller="button" targetPage="3"/>
+    <action type="change_page" fromPage="" toPage="2" objectId="n217_lupe" controller="button" targetPage="2"/>
+    <action type="change_page" fromPage="" toPage="1" objectId="n217_lupe" controller="button" targetPage="3"/>
+    <action type="change_page" fromPage="" toPage="1" objectId="n218_lupe" controller="button" targetPage="2"/>
+  </controller>
+  <controller name="viewState" pages="0,,2," selected="0">
+    <remark page="0" value="信息显示"/>
+    <remark page="1" value="升星升级"/>
+  </controller>
+  <controller name="maxState" pages="0,,1,,2,,14," selected="0">
+    <remark page="1" value="满星"/>
+    <remark page="2" value="满级"/>
+    <remark page="3" value="未激活"/>
+  </controller>
+  <controller name="quality" pages="0,,1,,2,,3,,4,,5," selected="0">
+    <remark page="1" value="蓝"/>
+    <remark page="2" value="紫"/>
+    <remark page="3" value="橙"/>
+    <remark page="4" value="红"/>
+    <remark page="5" value="彩"/>
+  </controller>
+  <displayList>
+    <component id="n232_6v98" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="101,203" size="553,943" group="n211_lupe"/>
+    <image id="n212_lupe" name="n212" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="98,205" size="552,857" group="n211_lupe"/>
+    <loader id="n238_6v98" name="n238" xy="125,281" pivot="0.5,0.5" size="498,256" group="n211_lupe" url="ui://tkr2g69t6v98vvv1kh" align="center" vAlign="middle" autoSize="true">
+      <gearIcon controller="quality" pages="2,3,4,5" values="ui://tkr2g69t6v98vvv1kl|ui://tkr2g69t6v98vvv1kk|ui://tkr2g69t6v98vvv1kj|ui://tkr2g69t6v98vvv1ki" default="ui://tkr2g69t6v98vvv1kh"/>
+    </loader>
+    <image id="n95_a01c" name="n95" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="128,538" size="490,8" group="n211_lupe"/>
+    <text id="n227_pmhw" name="spTip" xy="234,979" size="277,34" group="n211_lupe" visible="false" fontSize="24" color="#ffffff" text="特殊收藏品无法升级/升星"/>
+    <text id="n115_a01c" name="collectionName" xy="264,235" pivot="0.5,0.5" size="218,49" group="n211_lupe" fontSize="36" color="#24bbff" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="道具名称六字"/>
+    <component id="n220_lupe" name="collectionItem" src="lupe14" fileName="ui/cmp/item/CollectionItem2.xml" xy="262,320" group="n211_lupe" controller="showDi,1"/>
+    <loader id="n117_a01c" name="rarityIcon" xy="179,308" pivot="0.5,0.5" size="100,47" group="n211_lupe" url="ui://7q3fcj1k6v98s9e" fill="scale" clearOnPublish="true"/>
+    <component id="n216_lupe" name="ActBtn" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="221,939" group="n211_lupe" scale="0.8,0.8">
+      <gearDisplay controller="viewState" pages="2"/>
+      <gearText controller="upBtnState" pages="1,2" values="升星|升级" default=""/>
+      <gearDisplay2 controller="maxState" pages="0" condition="0"/>
+      <Button title="升星"/>
+    </component>
+    <text id="n122_a01c" name="lbNoActive" xy="307,969" pivot="0.5,0.5" size="135,59" group="n211_lupe" fontSize="44" color="#ff3434" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="未激活">
+      <gearDisplay controller="maxState" pages="14"/>
+    </text>
+    <text id="n226_lupe" name="lbMaxTip" xy="307,969" size="135,59" group="n211_lupe" fontSize="44" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="未激活">
+      <gearDisplay controller="maxState" pages="1,2"/>
+      <gearText controller="maxState" pages="1,2" values="已满星|已满级" default="未激活"/>
+    </text>
+    <component id="n217_lupe" name="upStarBtn" src="lupe13" fileName="ui/cmp/btn/CollectionsUpTabBtn.xml" xy="195,1059" group="n211_lupe">
+      <gearDisplay controller="upBtnState" pages="1,2"/>
+      <gearDisplay2 controller="viewState" pages="2" condition="0"/>
+      <Button title="升星"/>
+    </component>
+    <component id="n218_lupe" name="upLvBtn" src="lupe13" fileName="ui/cmp/btn/CollectionsUpTabBtn.xml" xy="382,1059" group="n211_lupe">
+      <gearDisplay controller="upBtnState" pages="1,2"/>
+      <gearDisplay2 controller="viewState" pages="2" condition="0"/>
+      <Button title="升级"/>
+    </component>
+    <component id="n233_6v98" name="battleSkill" src="lupevvv1ie" fileName="hero/components/CommonCollectionSkillItem.xml" pkg="38fa8c75" xy="508,389" group="n211_lupe"/>
+    <image id="n235_tafm" name="n235" src="tafmvvv1ke" fileName="bgImage/djs_tag.png" pkg="38fa8c75" xy="145,472" group="n237_tafm">
+      <relation target="n236_tafm" sidePair="right-left"/>
+    </image>
+    <text id="n236_tafm" name="lbTime" xy="249,486" pivot="1,0.5" anchor="true" size="72,26" group="n237_tafm" fontSize="18" color="#5fff8c" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="8天16时"/>
+    <group id="n237_tafm" name="gTime" xy="145,472" size="104,27" group="n211_lupe" advanced="true" layout="hz" colGap="10" excludeInvisibles="true"/>
+    <component id="n225_lupe" name="pContent" src="tafmvvv1kg" fileName="ui/win/CollectionInfoContent.xml" xy="126,559" group="n211_lupe"/>
+    <group id="n211_lupe" name="root" xy="98,203" size="556,943" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle%"/>
+    </group>
+    <list id="n242_dx6e" name="RTList" xy="561,71" size="153,131" lineGap="-9" defaultItem="ui://38fa8c75j6z944" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="right-right,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

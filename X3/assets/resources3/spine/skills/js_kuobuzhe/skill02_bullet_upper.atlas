@@ -1,0 +1,13 @@
+
+skill02_bullet_upper.png
+size: 140,18
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_zidan
+  rotate: false
+  xy: 2, 2
+  size: 136, 14
+  orig: 140, 16
+  offset: 2, 1
+  index: -1

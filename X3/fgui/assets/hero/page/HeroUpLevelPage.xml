@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="589,486">
+  <controller name="c1" pages="0,升级,1,进阶,2,不可升级,3,共享等级,4,满级,5,满级属性预览,6,玩家信息" selected="6"/>
+  <displayList>
+    <image id="n104_105pv" name="n104" src="105pvv184" fileName="bgImage/dengji_frame.png" pkg="38fa8c75" xy="1,1" size="291,67"/>
+    <image id="n105_105pv" name="n105" src="105pvv184" fileName="bgImage/dengji_frame.png" pkg="38fa8c75" xy="296,1" size="291,67" flip="hz"/>
+    <image id="n111_105pv" name="n111" src="105pvv187" fileName="bgImage/shuxingdi_frame.png" pkg="38fa8c75" xy="0,115" size="173,42" color="#153177"/>
+    <image id="n112_105pv" name="n112" src="105pvv187" fileName="bgImage/shuxingdi_frame.png" pkg="38fa8c75" xy="206,115" size="173,42" color="#153177"/>
+    <image id="n113_105pv" name="n113" src="105pvv187" fileName="bgImage/shuxingdi_frame.png" pkg="38fa8c75" xy="413,115" size="173,42" color="#153177"/>
+    <image id="n114_105pv" name="n114" src="105pvv188" fileName="iconImage/gongji_icon.png" pkg="38fa8c75" xy="8,121" color="#4bc1fa"/>
+    <image id="n115_105pv" name="n115" src="105pvv189" fileName="iconImage/xueliang_icon.png" pkg="38fa8c75" xy="215,121" size="32,32" color="#4bc1fa"/>
+    <image id="n117_105pv" name="n117" src="105pvv18a" fileName="iconImage/fangyu_icon.png" pkg="38fa8c75" xy="422,121" color="#4bc1fa"/>
+    <image id="n118_105pv" name="n118" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="1,193" size="588,135" alpha="0.45" flip="hz"/>
+    <loader id="n96_dtss" name="img_zy" xy="22,1" pivot="0.5,0.5" size="64,64" url="ui://38fa8c75cni66w" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n59_b419" name="T_zy" xy="92,19" pivot="0,0.5" size="63,42" fontSize="30" color="#ffffff" vAlign="middle" text="射击">
+      <relation target="n96_dtss" sidePair=""/>
+    </text>
+    <text id="n60_b419" name="T_level" xy="412,22" pivot="1,0.5" size="86,42" fontSize="30" color="#aabff1" align="right" vAlign="middle" text="Lv.80">
+      <relation target="" sidePair="right-right"/>
+    </text>
+    <text id="n58_b419" name="T_tips" xy="86,384" size="397,42" fontSize="30" color="#fadb90" align="center" vAlign="middle" text="上阵英雄等级差不可超过10级">
+      <gearDisplay controller="c1" pages="2"/>
+    </text>
+    <text id="n103_t0xc" name="n103" xy="183,384" size="212,42" fontSize="30" color="#fadb90" align="center" vAlign="middle" text="已共享共鸣等级">
+      <gearDisplay controller="c1" pages="3"/>
+    </text>
+    <component id="n94_dtss" name="btn_upLevel" src="dtss5g" fileName="btn/UpBtn2.xml" xy="141,369">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n95_dtss" name="btn_upStage" src="dtss5f" fileName="btn/UpBtn1.xml" xy="141,369">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="升级"/>
+    </component>
+    <component id="n97_dtss" name="btn_tips" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="521,21" size="41,34">
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <list id="n98_dtss" name="list_skill" xy="-18,199" pivot="0.5,0.5" size="626,124" layout="row" scroll="horizontal" colGap="26" defaultItem="ui://38fa8c75c8g7vvv1fo" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n71_b419" name="T_attack" xy="102,118" pivot="1,0.5" size="71,39" fontSize="28" color="#ffffff" align="right" vAlign="middle" text="8562"/>
+    <text id="n72_b419" name="T_blood" xy="308,118" pivot="1,0.5" size="71,39" fontSize="28" color="#ffffff" align="right" vAlign="middle" text="8562"/>
+    <text id="n73_b419" name="T_defense" xy="514,118" pivot="1,0.5" size="71,39" fontSize="28" color="#ffffff" vAlign="middle" text="8562"/>
+    <text id="n119_lhcv" name="T_preview" xy="284,405" pivot="0.5,0.5" anchor="true" size="182,42" fontSize="30" color="#fadb90" align="center" vAlign="middle" text="满级属性预览">
+      <gearDisplay controller="c1" pages="5"/>
+    </text>
+    <component id="n120_vet6" name="btnPlayerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="242,357" group="n122_vet6" touchable="false"/>
+    <text id="n121_vet6" name="labelPlayerName" xy="300,484" pivot="0.5,0.5" anchor="true" size="406,36" group="n122_vet6" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" singleLine="true" autoClearText="true" text="玩家名"/>
+    <loader id="n124_vet6" name="n124" xy="220,351" size="150,111" group="n122_vet6" alpha="0" url="ui://38fa8c75uvvcvvv1gh" fill="scaleFree"/>
+    <group id="n122_vet6" name="n122" xy="97,351" size="406,151" advanced="true">
+      <gearDisplay controller="c1" pages="6"/>
+      <relation target="n98_dtss" sidePair="top-bottom"/>
+    </group>
+  </displayList>
+</component>

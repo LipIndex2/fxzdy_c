@@ -1,0 +1,111 @@
+
+choujianghuodong_upper3.png
+size: 776,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect_choujianghuodong1/choujianghuodong_heidong_0
+  rotate: false
+  xy: 2, 1034
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_1
+  rotate: false
+  xy: 2, 776
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_10
+  rotate: false
+  xy: 2, 518
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_11
+  rotate: false
+  xy: 2, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_12
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_13
+  rotate: false
+  xy: 260, 1034
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_14
+  rotate: false
+  xy: 260, 776
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_2
+  rotate: false
+  xy: 260, 518
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_3
+  rotate: false
+  xy: 260, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_4
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_5
+  rotate: false
+  xy: 518, 1034
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_6
+  rotate: false
+  xy: 518, 776
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_7
+  rotate: false
+  xy: 518, 518
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_8
+  rotate: false
+  xy: 518, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_heidong_9
+  rotate: false
+  xy: 518, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

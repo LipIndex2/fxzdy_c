@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ad479770">
+  <resources>
+    <image id="f31f0" name="vip_bg.jpg" path="/img/"/>
+    <image id="f31f13" name="v_lb.png" path="/img/" scale="9grid" scale9grid="20,20,8,2"/>
+    <image id="f31f15" name="jiantou.png" path="/img/"/>
+    <image id="f31f16" name="lingxing.png" path="/img/"/>
+    <image id="f31f17" name="xin.png" path="/img/"/>
+    <image id="f31f18" name="tongyongxiangoushangcheng.png" path="/img/"/>
+    <component id="f31f24" name="VipPage.xml" path="/page/"/>
+    <component id="oc7825" name="VipPageBtn.xml" path="/component/"/>
+    <image id="oc7826" name="btn_page.png" path="/img/"/>
+    <component id="oc7829" name="VipGoodsItem.xml" path="/item/"/>
+    <component id="oc782a" name="VipBuyBtn.xml" path="/component/"/>
+    <component id="oc782b" name="VipAdditionItem.xml" path="/item/"/>
+    <component id="oc782d" name="VipContentPanel.xml" path="/page/"/>
+    <component id="oc782e" name="VipExpProgressBar.xml" path="/component/"/>
+    <image id="oc782f" name="sd_Kkaifuchongbang_liebiao.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

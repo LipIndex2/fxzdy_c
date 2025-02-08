@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="191,80" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n45_93ec" name="n45" xy="0,8" size="191,68" url="ui://9809a2d2cs7d2j" fill="scaleFree">
+      <gearIcon controller="button" pages="0,1" values="ui://9809a2d2cs7d2j|ui://9809a2d2cs7d2k"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n46_93ec" name="areaName" xy="95,42" pivot="0.5,0.5" anchor="true" size="107,36" fontSize="26" color="#acaedd" vAlign="middle" leading="0" strokeColor="#3a3d73" strokeSize="3" autoClearText="true" text="我的区服">
+      <gearColor controller="button" pages="0,1" values="#acaedd,#3a3d73|#ffffff,#a75402"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

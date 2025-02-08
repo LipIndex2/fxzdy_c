@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="rank"/>
+    <remark page="1" value="myRank"/>
+    <remark page="2" value="noRank"/>
+  </controller>
+  <displayList>
+    <image id="n17_be1a" name="n17" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149" group="n29_wq7z"/>
+    <image id="n27_h90v" name="n27" src="be1a101" fileName="img/sd_A_common_paimingframe.png" xy="3,3" group="n29_wq7z"/>
+    <group id="n29_wq7z" name="n29" xy="0,0" size="710,149" group="n28_h90v" advanced="true">
+      <gearDisplay controller="state" pages="0,2,10"/>
+    </group>
+    <group id="n28_h90v" name="bg" xy="0,0" size="710,149" advanced="true"/>
+    <text id="n22_be1a" name="rankLab" xy="56,74" pivot="0.5,0.5" anchor="true" size="107,72" fontSize="54" color="#58c2ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text=""/>
+    <text id="n25_be1a" name="noRank" xy="294,54" size="123,42" fontSize="30" color="#5e89d8" strokeColor="#010e16" strokeSize="2" text="虚位以待">
+      <gearDisplay controller="state" pages="2"/>
+    </text>
+    <text id="n19_be1a" name="leagueName" xy="265,38" size="10,39" group="n30_qr2a" fontSize="28" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text=""/>
+    <text id="n20_be1a" name="leaderName" xy="264,82" size="10,39" group="n30_qr2a" fontSize="28" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text=""/>
+    <text id="n21_be1a" name="fightLab" xy="580,77" pivot="0.5,0.5" anchor="true" size="240,42" group="n30_qr2a" fontSize="30" color="#ffe57c" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text=""/>
+    <image id="n23_be1a" name="n23" src="be1a84" fileName="img/sd_A_common_jnmb_frame.png" xy="154,25" group="n30_qr2a" alpha="0.4"/>
+    <component id="n26_h90v" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="160,34" group="n30_qr2a" scale="0.45,0.45"/>
+    <group id="n30_qr2a" name="n30" xy="154,25" size="546,223" advanced="true">
+      <gearDisplay controller="state" pages="0,1"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

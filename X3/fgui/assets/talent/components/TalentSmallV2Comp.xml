@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="281,119">
+  <displayList>
+    <image id="n24_pwoe" name="n24" src="pwoe32" fileName="img/henggan.png" xy="93,7" size="188,95" group="n33_kp3w"/>
+    <component id="n25_pwoe" name="talentComp" src="kp1o25" fileName="components/TalentSmallLvUpItemComp.xml" xy="51,57" size="103,113" group="n33_kp3w"/>
+    <component id="n34_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="51,57" group="n33_kp3w" scale="2,2"/>
+    <group id="n33_kp3w" name="n33" xy="0,0" size="281,113"/>
+  </displayList>
+</component>

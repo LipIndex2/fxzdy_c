@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="513,76" pivot="0.5,0.5" anchor="true" opaque="false">
+  <displayList>
+    <image id="n15_pf1a" name="area_bg1" src="pf1ae" fileName="img/sd_A_common_pz_frame.png" xy="256,-1" pivot="0,0.5" size="249,78"/>
+    <image id="n16_pf1a" name="area_bg2" src="pf1ae" fileName="img/sd_A_common_pz_frame.png" xy="6,-1" pivot="0,0.5" size="250,78" flip="hz"/>
+    <text id="n17_pf1a" name="T_area" xy="128,17" pivot="0.5,0.5" size="255,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="蟑螂之主-地狱难度"/>
+  </displayList>
+</component>

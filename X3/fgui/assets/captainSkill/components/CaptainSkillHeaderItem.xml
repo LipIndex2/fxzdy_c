@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,42" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n19_06d7" name="bg" src="woyg3k" fileName="img/tiao.png" xy="21,6"/>
+    <text id="n24_06d7" name="labelValue" xy="85,21" pivot="0.5,0.5" anchor="true" size="10,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" singleLine="true" text=""/>
+    <loader id="n59_kp3w" name="imageIcon" xy="21,21" pivot="0.5,0.5" anchor="true" size="42,42" align="center" vAlign="middle" fill="scale"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

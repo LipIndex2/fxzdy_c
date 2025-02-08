@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cb0a7c04">
+  <resources>
+    <image id="ed862" name="leinuo.png" path="/img/"/>
+    <image id="ed863" name="jiangli_8.png" path="/img/"/>
+    <image id="ed864" name="jiantou_tag_7.png" path="/img/"/>
+    <image id="ed865" name="jiantou_tag.png" path="/img/"/>
+    <image id="ed8610" name="sd_A_common_kppydi_blood.png" path="/img/"/>
+    <image id="ed8616" name="sd_A_common_lbmb_frame.png" path="/img/"/>
+    <image id="ed8617" name="sd_A_common_gou_icon_3.png" path="/img/"/>
+    <image id="ed8619" name="sd_A_common_czzl_blood.png" path="/img/"/>
+    <image id="ed8620" name="jindutiaoditianchongyanse.png" path="/img/"/>
+    <image id="ed8621" name="sd_A_common_kppy_blood.png" path="/img/"/>
+    <image id="ed8624" name="sd_A_common_dilan1_frame.png" path="/img/"/>
+    <image id="ed8626" name="dilantubiao.png" path="/img/"/>
+    <image id="ed8627" name="sd_Rrukoutubiao_rk0003_icon.png" path="/img/"/>
+    <image id="ed8628" name="xiaotanji.png" path="/img/"/>
+    <image id="ed8629" name="shuijiao.png" path="/img/"/>
+    <image id="ed8633" name="sd_A_common_bossfydi_frame.png" path="/img/"/>
+    <image id="ed8634" name="sd_A_common_bossfgx_line.png" path="/img/"/>
+    <component id="ed8641" name="GrowthPathMainView.xml" path="/"/>
+    <component id="tl0c42" name="GrowthPathRewardView.xml" path="/"/>
+    <component id="tl0c43" name="GrowthPathOneRowRewardComp.xml" path="/components/"/>
+    <component id="tl0c44" name="GrowthPathTaskRowComp.xml" path="/components/"/>
+    <component id="tl0c46" name="GrowthPathBarKppy.xml" path="/bar/"/>
+    <component id="tl0c47" name="GrowthPathGainButton.xml" path="/btn/"/>
+    <component id="tl0c48" name="GrowthPathTaskGoButton.xml" path="/btn/"/>
+    <component id="tl0c49" name="GrowthPathPanelComp.xml" path="/components/"/>
+    <component id="tl0c4b" name="GrowthPathRewardButton.xml" path="/btn/"/>
+    <image id="g2564c" name="czzl_bg.jpg" path="/img/" scale="9grid" scale9grid="0,789,749,39"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

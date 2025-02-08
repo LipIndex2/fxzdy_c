@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n1_6ff8" name="n1" xy="66,402" size="618,529" group="n13_8qld" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n2_6ff8" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="90,490" size="570,407" group="n13_8qld"/>
+    <text id="n11_6ff8" name="n11" xy="307,428" size="132,44" group="n13_8qld" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="解锁条件"/>
+    <list id="n16_8qld" name="list" xy="113,513" size="525,375" group="n13_8qld" overflow="scroll" lineGap="11" defaultItem="ui://ojwi06ia8qldc">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n13_8qld" name="n13" xy="66,402" size="618,529" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

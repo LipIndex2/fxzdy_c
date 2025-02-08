@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="isTwoRow" pages="0,,1," selected="1"/>
+  <displayList>
+    <loader id="n0_ckie" name="bg" xy="72,423" size="621,472" group="n6_ckie" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n1_ckie" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" xy="97,532" size="571,202" group="n6_ckie" pkg="38fa8c75"/>
+    <component id="n2_ckie" name="btnNo" src="fsx56k" fileName="btn/BtnCancel.xml" xy="124,768" group="n6_ckie" pkg="38fa8c75">
+      <Button title="取消"/>
+    </component>
+    <component id="n3_ckie" name="btnYes" src="fsx56i" fileName="btn/BtnConfirm.xml" xy="407,767" group="n6_ckie" pkg="38fa8c75">
+      <Button title="确认"/>
+    </component>
+    <text id="n5_ckie" name="labelTitle" xy="257,446" size="255,48" group="n6_ckie" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="提示"/>
+    <text id="n4_ckie" name="labelContent1" xy="178,565" pivot="1,0.5" size="130,67" group="n12_ckie" fontSize="26" color="#ddfbff" align="right" vAlign="middle" autoSize="none" singleLine="true" text="是否消耗"/>
+    <component id="n11_ckie" name="imageItemText1" src="ckiev14w" fileName="item/ItemTextComp.xml" xy="313,565" size="97,66" group="n12_ckie" pkg="38fa8c75">
+      <relation target="n4_ckie" sidePair="left-right"/>
+    </component>
+    <text id="n8_ckie" name="labelContent2" xy="434,565" pivot="0,0.5" size="232,67" group="n12_ckie" fontSize="26" color="#ddfbff" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="进行一次招募?">
+      <relation target="n11_ckie" sidePair="left-right"/>
+    </text>
+    <group id="n12_ckie" name="G_1" xy="178,565" size="488,67" group="n6_ckie" advanced="true">
+      <gearXY controller="isTwoRow" pages="0,1" values="177,600|178,565"/>
+    </group>
+    <text id="n13_crtt" name="labelContent3" xy="107,623" pivot="0.5,0.5" size="548,67" group="n14_crtt" fontSize="26" color="#ddfbff" align="center" vAlign="middle" ubb="true" autoSize="none" singleLine="true" autoClearText="true" text="(建议xxxxxxxxxxxxxx)"/>
+    <group id="n14_crtt" name="G_2" xy="107,623" size="548,67" group="n6_ckie" advanced="true">
+      <gearDisplay controller="isTwoRow" pages="1"/>
+    </group>
+    <group id="n6_ckie" name="n6" xy="72,423" size="621,472" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

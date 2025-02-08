@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="99,106" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n9_894b" name="n9" src="894b15" fileName="leagueMain/img/sd_rukoutubiao_rk0008_icon.png" xy="8,0"/>
+    <text id="n10_894b" name="n10" xy="0,72" size="99,34" fontSize="24" color="#f2f4f4" strokeColor="#000000" strokeSize="3" text="联盟挑战"/>
+    <component id="n11_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="76,19"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

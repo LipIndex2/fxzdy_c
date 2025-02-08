@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,500">
+  <displayList>
+    <image id="n121_uelq" name="n121" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="12,124" size="585,240" alpha="0.45" flip="hz"/>
+    <text id="n122_uelq" name="n122" xy="124,10" pivot="0.5,0.5" size="352,32" fontSize="22" color="#b4e0fe" align="center" vAlign="middle" text="收集皮肤会为全体英雄提供属性加成"/>
+    <list id="n111_fhn9" name="list_attr" xy="307,81" pivot="0.5,0.5" anchor="true" size="600,42" layout="row" overflow="scroll" colGap="34" defaultItem="ui://69f29748fhn9v8v">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n109_fhn9" name="list_skin" xy="301,244" pivot="0.5,0.5" anchor="true" size="515,236" layout="flow_hz" overflow="scroll" lineGap="1" colGap="37" lineItemCount="3" defaultItem="ui://69f29748fhn9v8w">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n110_fhn9" name="btn_waer" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="302,439" pivot="0.5,0.5" anchor="true" size="306,121">
+      <Button title="确定" titleFontSize="42" selectedTitle="da"/>
+    </component>
+    <image id="n114_uelq" name="n114" src="uelqv9e" fileName="img/sd_A_common_word_tag.png" xy="62,419" group="n116_uelq"/>
+    <text id="n115_uelq" name="n115" xy="248,411" pivot="0.5,0.5" size="111,49" group="n116_uelq" fontSize="36" color="#8db2ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="已穿戴"/>
+    <group id="n116_uelq" name="grp_use" xy="62,411" size="483,49" advanced="true"/>
+    <component id="n123_ko81" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="551,5"/>
+  </displayList>
+</component>

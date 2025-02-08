@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,170" pivot="0.5,0.5">
+  <controller name="itemType" pages="0,item,1,hero,4,weapon" selected="2"/>
+  <displayList>
+    <loader id="n0_heph" name="bg" xy="64,68" pivot="0.5,0.5" anchor="true" size="124,124" group="n7_heph" url="ui://7q3fcj1kpocb4x" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n1_heph" name="imageItem" xy="13,12" size="104,112" group="n7_heph" url="ui://e93efac495375" fill="scaleFree" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n3_heph" name="labelName" xy="0,132" size="125,32" group="n7_heph" fontSize="22" color="#ce55ff" align="center" vAlign="bottom" autoSize="shrink" strokeColor="#000000" strokeSize="3" singleLine="true" text="雷诺碎片"/>
+    <loader id="n4_heph" name="imageHeroJob" xy="0,0" size="46,51" group="n6_heph" url="ui://e93efac495377" align="center" vAlign="middle" clearOnPublish="true"/>
+    <component id="n5_heph" name="starComp" src="ckie34" fileName="components/DrawCardHeroStarList.xml" xy="6,102" group="n6_heph"/>
+    <group id="n6_heph" name="hero" xy="0,0" size="126,130" group="n7_heph" advanced="true">
+      <gearDisplay controller="itemType" pages="1"/>
+    </group>
+    <text id="n2_heph" name="labelItemCount" xy="7,98" size="116,29" group="n10_pwoe" fontSize="20" color="#fefefe" align="right" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" autoClearText="true" text="50">
+      <gearDisplay controller="itemType" pages="0"/>
+      <relation target="n1_heph" sidePair="bottom-bottom"/>
+    </text>
+    <group id="n10_pwoe" name="item" xy="7,98" size="116,29" group="n7_heph" advanced="true">
+      <gearDisplay controller="itemType" pages="0"/>
+    </group>
+    <group id="n7_heph" name="n7" xy="0,0" size="126,164" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <component id="n8_heph" name="modelNodePopUp" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="64,68" size="124,124"/>
+    <component id="n9_pwoe" name="modelNodeSweep" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="64,68" size="124,124"/>
+  </displayList>
+</component>

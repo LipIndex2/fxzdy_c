@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="650,62">
+  <controller name="c1" pages="0,部分,1,全部" selected="0"/>
+  <displayList>
+    <list id="n40_kkiq" name="listCareer" xy="154,0" size="484,62" layout="row" colGap="2" defaultItem="ui://390d39d8woyg129" vAlign="middle">
+      <item icon="ui://38fa8c75cni66y" name="sh"/>
+      <item icon="ui://38fa8c75cni66w" name="gd"/>
+      <item icon="ui://38fa8c75cni672" name="yn"/>
+      <item icon="ui://38fa8c75cni66z" name="sj"/>
+      <item icon="ui://38fa8c75cni673" name="zq"/>
+      <item icon="ui://38fa8c75cni66v" name="fz"/>
+    </list>
+    <component id="n45_woyg" name="btnAll" src="woyg129" fileName="component/PetDungeonCareerSelectBtn.xml" xy="38,0">
+      <Button icon="ui://38fa8c75woygvvv1ig"/>
+    </component>
+  </displayList>
+</component>

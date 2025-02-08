@@ -1,0 +1,146 @@
+
+idle_upper.png
+size: 829,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chuansongmen_01_00000
+  rotate: false
+  xy: 2, 662
+  size: 166, 165
+  orig: 180, 180
+  offset: 10, 2
+  index: -1
+effect/chuansongmen_01_00001
+  rotate: true
+  xy: 336, 494
+  size: 166, 163
+  orig: 180, 180
+  offset: 10, 2
+  index: -1
+effect/chuansongmen_01_00002
+  rotate: false
+  xy: 2, 162
+  size: 166, 164
+  orig: 180, 180
+  offset: 10, 2
+  index: -1
+effect/chuansongmen_01_00003
+  rotate: true
+  xy: 170, 661
+  size: 166, 164
+  orig: 180, 180
+  offset: 10, 3
+  index: -1
+effect/chuansongmen_01_00004
+  rotate: true
+  xy: 170, 493
+  size: 166, 164
+  orig: 180, 180
+  offset: 10, 3
+  index: -1
+effect/chuansongmen_01_00005
+  rotate: true
+  xy: 170, 325
+  size: 166, 164
+  orig: 180, 180
+  offset: 10, 3
+  index: -1
+effect/chuansongmen_01_00006
+  rotate: true
+  xy: 170, 157
+  size: 166, 164
+  orig: 180, 180
+  offset: 10, 4
+  index: -1
+effect/chuansongmen_01_00007
+  rotate: true
+  xy: 501, 158
+  size: 165, 163
+  orig: 180, 180
+  offset: 10, 4
+  index: -1
+effect/chuansongmen_01_00008
+  rotate: false
+  xy: 2, 18
+  size: 165, 142
+  orig: 180, 180
+  offset: 10, 25
+  index: -1
+effect/chuansongmen_01_00009
+  rotate: true
+  xy: 666, 161
+  size: 165, 143
+  orig: 180, 180
+  offset: 10, 24
+  index: -1
+effect/chuansongmen_01_00010
+  rotate: true
+  xy: 666, 497
+  size: 165, 145
+  orig: 180, 180
+  offset: 10, 23
+  index: -1
+effect/chuansongmen_01_00011
+  rotate: false
+  xy: 336, 662
+  size: 164, 165
+  orig: 180, 180
+  offset: 10, 3
+  index: -1
+effect/chuansongmen_01_00012
+  rotate: false
+  xy: 336, 326
+  size: 163, 166
+  orig: 180, 180
+  offset: 11, 3
+  index: -1
+effect/chuansongmen_01_00013
+  rotate: false
+  xy: 336, 158
+  size: 163, 166
+  orig: 180, 180
+  offset: 11, 3
+  index: -1
+effect/chuansongmen_01_00014
+  rotate: false
+  xy: 501, 325
+  size: 162, 167
+  orig: 180, 180
+  offset: 11, 3
+  index: -1
+effect/chuansongmen_01_00015
+  rotate: false
+  xy: 501, 494
+  size: 163, 166
+  orig: 180, 180
+  offset: 10, 3
+  index: -1
+effect/chuansongmen_01_00016
+  rotate: false
+  xy: 502, 664
+  size: 163, 163
+  orig: 180, 180
+  offset: 10, 2
+  index: -1
+effect/chuansongmen_01_00017
+  rotate: false
+  xy: 665, 328
+  size: 162, 164
+  orig: 180, 180
+  offset: 10, 2
+  index: -1
+effect/chuansongmen_01_00018
+  rotate: false
+  xy: 2, 495
+  size: 166, 165
+  orig: 180, 180
+  offset: 10, 2
+  index: -1
+effect/chuansongmen_01_00019
+  rotate: false
+  xy: 2, 328
+  size: 166, 165
+  orig: 180, 180
+  offset: 10, 2
+  index: -1

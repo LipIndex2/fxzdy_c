@@ -1,0 +1,391 @@
+
+gw_sangqiguai.png
+size: 250,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01.jpg
+  rotate: false
+  xy: 83, 47
+  size: 77, 30
+  orig: 165, 120
+  offset: 48, 48
+  index: -1
+02
+  rotate: false
+  xy: 2, 50
+  size: 79, 31
+  orig: 165, 120
+  offset: 49, 47
+  index: -1
+03.jpg
+  rotate: false
+  xy: 96, 112
+  size: 82, 33
+  orig: 165, 120
+  offset: 47, 45
+  index: -1
+04.jpg
+  rotate: false
+  xy: 2, 83
+  size: 86, 31
+  orig: 165, 120
+  offset: 47, 48
+  index: -1
+05.jpg
+  rotate: false
+  xy: 97, 147
+  size: 89, 33
+  orig: 165, 120
+  offset: 46, 45
+  index: -1
+06.jpg
+  rotate: false
+  xy: 2, 116
+  size: 92, 30
+  orig: 165, 120
+  offset: 45, 48
+  index: -1
+07
+  rotate: false
+  xy: 2, 148
+  size: 93, 32
+  orig: 165, 120
+  offset: 45, 46
+  index: -1
+08
+  rotate: false
+  xy: 90, 79
+  size: 84, 31
+  orig: 165, 120
+  offset: 47, 47
+  index: -1
+Gas
+  rotate: 270
+  xy: 207, 51
+  size: 66, 40
+  orig: 71, 40
+  offset: 5, 0
+  index: -1
+Larm1
+  rotate: false
+  xy: 113, 25
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 2, 23
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Larm3
+  rotate: true
+  xy: 73, 4
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 188, 168
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: false
+  xy: 216, 90
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+Leyeclose
+  rotate: false
+  xy: 199, 175
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+Leyeclose1
+  rotate: false
+  xy: 240, 114
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 162, 51
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Lfoot2
+  rotate: true
+  xy: 237, 161
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: false
+  xy: 180, 137
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 206, 33
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Lhand3
+  rotate: false
+  xy: 186, 10
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Lhand4
+  rotate: false
+  xy: 163, 4
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+Lhand5
+  rotate: false
+  xy: 48, 15
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 25, 9
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 162, 62
+  size: 13, 16
+  orig: 13, 88
+  offset: 0, 0
+  index: -1
+Lleg3
+  rotate: false
+  xy: 239, 140
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 56, 10
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 57, 26
+  size: 26, 23
+  orig: 73, 57
+  offset: 47, 34
+  index: -1
+Rarm3
+  rotate: false
+  xy: 149, 10
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+Rarm4
+  rotate: false
+  xy: 239, 148
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 202, 5
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: false
+  xy: 218, 4
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 168, 11
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Rfoot2
+  rotate: false
+  xy: 2, 13
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 126, 10
+  size: 22, 18
+  orig: 22, 19
+  offset: 0, 1
+  index: -1
+Rightclose1
+  rotate: false
+  xy: 15, 6
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+Rigntclose
+  rotate: false
+  xy: 84, 6
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: true
+  xy: 144, 26
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 236, 120
+  size: 12, 18
+  orig: 15, 31
+  offset: 3, 13
+  index: -1
+body2
+  rotate: true
+  xy: 177, 54
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 136, 38
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 180, 127
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+finger3
+  rotate: true
+  xy: 86, 36
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+finger4
+  rotate: false
+  xy: 214, 103
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+finger5
+  rotate: true
+  xy: 96, 5
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+finger6
+  rotate: false
+  xy: 2, 6
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 220, 28
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 81, 21
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+helmet1
+  rotate: false
+  xy: 73, 14
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+holl
+  rotate: false
+  xy: 107, 11
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+holl1
+  rotate: false
+  xy: 238, 4
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+holl2
+  rotate: true
+  xy: 188, 111
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 27, 25
+  size: 29, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+tube1
+  rotate: 270
+  xy: 172, 22
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+tube2
+  rotate: false
+  xy: 209, 14
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1

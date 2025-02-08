@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_ea91" name="bg" src="vipi1e" fileName="bg/bg4.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n48_vipi" name="n48" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-278" size="750,232" color="#31224e">
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </image>
+    <component id="n3_ea91" name="scoreComp" src="vipi1f" fileName="component/ActivityFlipCardScoreComp.xml" xy="103,787"/>
+    <image id="n9_ea91" name="n9" src="vipi1k" fileName="img/jiemianshiyuanshou.png" xy="221,245"/>
+    <image id="n36_vipi" name="n36" src="rgtg19" fileName="bg/bt_frame.png" xy="45,46" group="n43_vipi"/>
+    <text id="n37_vipi" name="T_restTimeTitle" xy="84,122" size="111,29" group="n43_vipi" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <text id="n38_vipi" name="T_restTime" xy="194,122" size="99,29" group="n43_vipi" fontSize="20" color="#6aff63" vAlign="middle" singleLine="true" autoClearText="true" text="5天30小时"/>
+    <text id="n39_vipi" name="T_title1" xy="58,40" size="73,92" group="n43_vipi" fontSize="70" color="#fdee9f" vAlign="middle" italic="true" strokeColor="#46e8ed" shadowColor="#bb13b1" shadowOffset="3,3" text="抽"/>
+    <text id="n40_vipi" name="T_title2" xy="127,61" size="147,64" group="n43_vipi" fontSize="48" color="#ffffff" vAlign="middle" italic="true" strokeColor="#46e8ed" shadowColor="#bb13b1" shadowOffset="4,4" text="奖活动"/>
+    <component id="n41_vipi" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="316,79" group="n43_vipi"/>
+    <component id="n42_vipi" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="546,83" group="n43_vipi" controller="isTop,1"/>
+    <group id="n43_vipi" name="G_header" xy="45,40" size="654,112" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n1_ea91" name="n1" src="vipi1m" fileName="img/di.png" xy="153,667" group="n46_vipi"/>
+    <text id="n2_ea91" name="lebalTurnCount" xy="245,667" pivot="0.5,0.5" size="265,49" group="n46_vipi" fontSize="36" color="#fff280" align="center" vAlign="middle" strokeColor="#006092" strokeSize="3" singleLine="true" autoClearText="true" text="完成轮次：1/12"/>
+    <group id="n46_vipi" name="G_turnText" xy="153,667" size="448,49"/>
+    <image id="n11_ea91" name="n11" src="vipi1n" fileName="img/shiyong9gongtu.png" xy="12,933" group="n47_vipi"/>
+    <text id="n16_ea91" name="T_preview" xy="29,939" size="47,152" group="n47_vipi" fontSize="28" color="#fdf09e" vAlign="middle" autoSize="none" strokeColor="#8208c8" strokeSize="3" text="奖励预览"/>
+    <component id="n49_jks2" name="itemList2" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="90,966" size="600,109" group="n47_vipi" visible="false"/>
+    <component id="n44_vipi" name="itemList" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="89,966" size="416,109" group="n47_vipi"/>
+    <component id="n45_vipi" name="btnGain" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="528,981" size="159,72" group="n47_vipi">
+      <Button title="领取" titleFontSize="32"/>
+    </component>
+    <group id="n47_vipi" name="G_reward" xy="12,933" size="724,166"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n53_v891" name="bg" xy="45,99" size="660,1035">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n65_c3wz" name="pContent" src="c3wz2o" fileName="component/FirstChargeContent.xml" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="379b6aca">
+  <resources>
+    <image id="16e76" name="shiyong9gong.png" path="/img/"/>
+    <image id="16e79" name="zu130433.png" path="/img/"/>
+    <image id="16e721" name="zu130435.png" path="/img/"/>
+    <image id="oc7823" name="mrte_bg.jpg" path="/img/"/>
+    <image id="nja528" name="anniukaobei10.png" path="/img/"/>
+    <image id="nja529" name="biaoti.png" path="/img/"/>
+    <image id="nja52a" name="diban.png" path="/img/" scale="9grid" scale9grid="174,330,348,660"/>
+    <image id="nja52b" name="guanbi.png" path="/img/"/>
+    <image id="nja52c" name="jiagebiaoqian.png" path="/img/"/>
+    <image id="nja52d" name="jiagebiaoqianhengxian.png" path="/img/"/>
+    <image id="nja52f" name="jiaweilibao648kaobei_1.png" path="/img/"/>
+    <image id="nja52g" name="jiaweilibao68kaobei.png" path="/img/"/>
+    <image id="nja52h" name="liebiao1.png" path="/img/"/>
+    <image id="nja52i" name="liebiao3.png" path="/img/"/>
+    <image id="nja52j" name="liebiao3_0.png" path="/img/"/>
+    <image id="nja52k" name="mianfeilibao_2.png" path="/img/"/>
+    <image id="nja52l" name="scale_40%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="nja52m" name="scale_80%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="nja52n" name="item_bg.png" path="/img/"/>
+    <image id="nja52o" name="scale_85%_sd_Ttubiao_daojutubiao.png" path="/img/"/>
+    <image id="nja52p" name="sd_A_common_qipao-_huang.png" path="/img/"/>
+    <image id="nja52t" name="tuceng2.jpg" path="/img/"/>
+    <image id="nja52u" name="zu7kaobei.png" path="/img/"/>
+    <image id="nja52v" name="zu7kaobei3.png" path="/img/"/>
+    <component id="nja52x" name="DailySaleMainView.xml" path="/"/>
+    <component id="htcc2y" name="DailySaleItem.xml" path="/item/"/>
+    <component id="htcc30" name="RedCloseBtn.xml" path="/btn/"/>
+    <component id="htcc31" name="DailySalePage.xml" path="/page/"/>
+    <component id="htcc32" name="packGiftBtn.xml" path="/btn/"/>
+    <component id="htcc33" name="DailySalePackItem.xml" path="/item/"/>
+    <component id="htcc34" name="emptyBg.xml" path="/btn/"/>
+    <component id="htcc37" name="shopBtn.xml" path="/btn/"/>
+    <image id="htcc3x" name="sd_A_common_zuida_btn.png" path="/img/"/>
+    <image id="71c51" name="tuceng66.jpg" path="/img/"/>
+    <image id="jis349" name="mryh_rukou.png" path="/img/"/>
+    <image id="vmbs4a" name="diban_test.png" path="/img/"/>
+    <component id="vmbs4b" name="buyBtn.xml" path="/btn/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

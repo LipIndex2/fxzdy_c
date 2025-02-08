@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="151,589">
+  <displayList>
+    <image id="n8_7095" name="list_bg_img" src="nja528" fileName="img/anniukaobei10.png" xy="0,0" size="151,589"/>
+    <image id="n13_7095" name="gift_img" src="nja52g" fileName="img/jiaweilibao68kaobei.png" xy="31,28" size="89,98"/>
+    <list id="n16_htcc" name="listReward" xy="21,170" size="110,328" overflow="scroll" lineGap="1" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n12_7095" name="lbLimit" xy="29,130" size="90,34" fontSize="24" color="#fffde2" vAlign="middle" text="限购1次"/>
+    <image id="n21_htcc" name="iconBuy" src="v891vvv1dr" fileName="frameImage/ygm_tag.png" pkg="38fa8c75" xy="17,513" size="119,43"/>
+    <component id="n20_htcc" name="btnDraw" src="vmbs4b" fileName="btn/buyBtn.xml" xy="14,512" size="123,47"/>
+  </displayList>
+</component>

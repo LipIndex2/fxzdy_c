@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="202,297">
+  <displayList>
+    <text id="n76_ejy3" name="rootForSpine" xy="101,248" pivot="0.5,1" anchor="true" size="174,244" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <list id="n75_ejy3" name="list_star1" xy="0,245" size="200,38" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

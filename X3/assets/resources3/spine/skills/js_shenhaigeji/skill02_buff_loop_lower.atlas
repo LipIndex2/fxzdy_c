@@ -1,0 +1,146 @@
+
+skill02_buff_loop_lower.png
+size: 757,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/loopqian02
+  rotate: true
+  xy: 659, 59
+  size: 159, 90
+  orig: 256, 256
+  offset: 48, 81
+  index: -1
+images/effect/loopqian03
+  rotate: false
+  xy: 494, 96
+  size: 161, 92
+  orig: 256, 256
+  offset: 48, 80
+  index: -1
+images/effect/loopqian04
+  rotate: true
+  xy: 660, 220
+  size: 162, 95
+  orig: 256, 256
+  offset: 47, 78
+  index: -1
+images/effect/loopqian05
+  rotate: false
+  xy: 332, 285
+  size: 162, 97
+  orig: 256, 256
+  offset: 48, 77
+  index: -1
+images/effect/loopqian06
+  rotate: false
+  xy: 2, 283
+  size: 162, 99
+  orig: 256, 256
+  offset: 48, 76
+  index: -1
+images/effect/loopqian07
+  rotate: false
+  xy: 496, 286
+  size: 162, 96
+  orig: 256, 256
+  offset: 48, 78
+  index: -1
+images/effect/loopqian08
+  rotate: false
+  xy: 496, 190
+  size: 161, 94
+  orig: 256, 256
+  offset: 48, 79
+  index: -1
+images/effect/loopqian09
+  rotate: false
+  xy: 330, 95
+  size: 161, 92
+  orig: 256, 256
+  offset: 48, 80
+  index: -1
+images/effect/loopqian10
+  rotate: false
+  xy: 328, 3
+  size: 158, 90
+  orig: 256, 256
+  offset: 49, 81
+  index: -1
+images/effect/loopqian12
+  rotate: false
+  xy: 2, 2
+  size: 158, 90
+  orig: 256, 256
+  offset: 49, 81
+  index: -1
+images/effect/loopqian13
+  rotate: false
+  xy: 2, 94
+  size: 161, 92
+  orig: 256, 256
+  offset: 48, 80
+  index: -1
+images/effect/loopqian14
+  rotate: false
+  xy: 165, 94
+  size: 161, 92
+  orig: 256, 256
+  offset: 48, 81
+  index: -1
+images/effect/loopqian15
+  rotate: false
+  xy: 330, 189
+  size: 162, 94
+  orig: 256, 256
+  offset: 48, 80
+  index: -1
+images/effect/loopqian16
+  rotate: false
+  xy: 166, 285
+  size: 164, 97
+  orig: 256, 256
+  offset: 47, 77
+  index: -1
+images/effect/loopqian17
+  rotate: false
+  xy: 166, 188
+  size: 162, 95
+  orig: 256, 256
+  offset: 48, 78
+  index: -1
+images/effect/loopqian18
+  rotate: false
+  xy: 2, 188
+  size: 161, 93
+  orig: 256, 256
+  offset: 48, 80
+  index: -1
+images/effect/loopqian19
+  rotate: false
+  xy: 493, 4
+  size: 159, 90
+  orig: 256, 256
+  offset: 48, 81
+  index: -1
+images/effect/loopqian20
+  rotate: false
+  xy: 162, 8
+  size: 156, 84
+  orig: 256, 256
+  offset: 49, 84
+  index: -1
+images/effect/loopqian01
+  rotate: false
+  xy: 162, 8
+  size: 156, 84
+  orig: 256, 256
+  offset: 49, 84
+  index: -1
+images/effect/loopqian11
+  rotate: false
+  xy: 162, 8
+  size: 156, 84
+  orig: 256, 256
+  offset: 49, 84
+  index: -1

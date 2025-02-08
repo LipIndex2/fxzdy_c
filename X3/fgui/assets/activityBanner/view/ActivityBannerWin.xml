@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334">
+  <displayList>
+    <image id="n11_bbeb" name="n11" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="65,246" size="619,842" group="n41_e6dc"/>
+    <image id="n12_bbeb" name="n12" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="88,341" size="572,520" group="n41_e6dc"/>
+    <loader id="n45_jhsh" name="banner" xy="374,601" pivot="0.5,0.5" anchor="true" size="500,500" group="n41_e6dc" align="center" vAlign="middle"/>
+    <component id="n46_jhsh" name="btnGoto" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="374,956" pivot="0.5,0.5" anchor="true" group="n41_e6dc" scale="0.8,0.8">
+      <Button title="前往"/>
+    </component>
+    <text id="n26_bbeb" name="lbTitle" xy="309,271" pivot="0.5,0.5" size="131,44" group="n41_e6dc" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="心愿英雄">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n48_jhsh" name="lbTime" xy="374,884" pivot="0.5,0.5" anchor="true" size="102,36" group="n41_e6dc" fontSize="26" color="#5fff8c" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="8天16时"/>
+    <text id="n51_jhsh" name="lbAutoTime" xy="398,1041" pivot="0.5,0.5" anchor="true" size="147,34" group="n53_jhsh" fontSize="24" color="#f3f3f5" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="本日不再弹出">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n52_jhsh" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="276,1021" group="n53_jhsh">
+      <relation target="n51_jhsh" sidePair="right-left"/>
+    </component>
+    <group id="n53_jhsh" name="gTodayOnce" xy="276,1021" size="196,40" group="n41_e6dc" advanced="true"/>
+    <group id="n41_e6dc" name="gAll" xy="65,246" size="619,842" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n44_vdae" name="n44" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="331,1089">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n54_jhsh" name="lbClose" xy="374,1191" pivot="0.5,0.5" anchor="true" size="143,29" fontSize="20" color="#fffefe" align="center" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,237 @@
+
+hailazhikui_upper.png
+size: 796,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/faguang
+  rotate: true
+  xy: 197, 67
+  size: 134, 156
+  orig: 256, 256
+  offset: 74, 67
+  index: -1
+images/effect/fangkuang
+  rotate: false
+  xy: 2, 507
+  size: 214, 217
+  orig: 256, 256
+  offset: 22, 19
+  index: -1
+images/effect/glow
+  rotate: false
+  xy: 374, 92
+  size: 152, 152
+  orig: 256, 256
+  offset: 52, 52
+  index: -1
+images/effect/guangshu
+  rotate: false
+  xy: 218, 534
+  size: 176, 190
+  orig: 256, 256
+  offset: 40, 35
+  index: -1
+images/effect/huan1
+  rotate: false
+  xy: 550, 549
+  size: 175, 175
+  orig: 256, 256
+  offset: 41, 41
+  index: -1
+images/effect/shandian1
+  rotate: true
+  xy: 199, 203
+  size: 152, 173
+  orig: 265, 256
+  offset: 41, 35
+  index: -1
+images/effect/shandian10
+  rotate: true
+  xy: 639, 23
+  size: 18, 50
+  orig: 265, 256
+  offset: 214, 100
+  index: -1
+images/effect/shandian11
+  rotate: true
+  xy: 727, 553
+  size: 19, 54
+  orig: 265, 256
+  offset: 214, 98
+  index: -1
+images/effect/shandian12
+  rotate: false
+  xy: 550, 398
+  size: 203, 149
+  orig: 265, 256
+  offset: 30, 47
+  index: -1
+images/effect/shandian13
+  rotate: false
+  xy: 727, 629
+  size: 49, 95
+  orig: 265, 256
+  offset: 32, 71
+  index: -1
+images/effect/shandian14
+  rotate: false
+  xy: 2, 205
+  size: 165, 148
+  orig: 265, 256
+  offset: 34, 47
+  index: -1
+images/effect/shandian15
+  rotate: false
+  xy: 589, 235
+  size: 167, 161
+  orig: 265, 256
+  offset: 30, 32
+  index: -1
+images/effect/shandian2
+  rotate: false
+  xy: 755, 520
+  size: 26, 31
+  orig: 265, 256
+  offset: 117, 35
+  index: -1
+images/effect/shandian3
+  rotate: false
+  xy: 218, 357
+  size: 185, 161
+  orig: 265, 256
+  offset: 30, 39
+  index: -1
+images/effect/shandian4
+  rotate: false
+  xy: 2, 6
+  size: 97, 80
+  orig: 265, 256
+  offset: 122, 42
+  index: -1
+images/effect/shandian5
+  rotate: false
+  xy: 2, 355
+  size: 195, 150
+  orig: 265, 256
+  offset: 24, 45
+  index: -1
+images/effect/shandian6
+  rotate: true
+  xy: 396, 520
+  size: 204, 152
+  orig: 265, 256
+  offset: 24, 36
+  index: -1
+images/effect/shandian7
+  rotate: false
+  xy: 405, 413
+  size: 132, 105
+  orig: 265, 256
+  offset: 96, 36
+  index: -1
+images/effect/shandian8
+  rotate: false
+  xy: 405, 246
+  size: 182, 150
+  orig: 265, 256
+  offset: 37, 36
+  index: -1
+images/effect/shandian9
+  rotate: false
+  xy: 2, 88
+  size: 193, 115
+  orig: 265, 256
+  offset: 39, 44
+  index: -1
+images/effect/yanchen1
+  rotate: true
+  xy: 727, 574
+  size: 53, 51
+  orig: 128, 128
+  offset: 7, 10
+  index: -1
+images/effect/yanchen10
+  rotate: true
+  xy: 755, 480
+  size: 38, 21
+  orig: 128, 128
+  offset: 79, 53
+  index: -1
+images/effect/yanchen11
+  rotate: true
+  xy: 778, 710
+  size: 14, 10
+  orig: 128, 128
+  offset: 101, 63
+  index: -1
+images/effect/yanchen12
+  rotate: true
+  xy: 790, 718
+  size: 6, 4
+  orig: 128, 128
+  offset: 107, 68
+  index: -1
+images/effect/yanchen2
+  rotate: false
+  xy: 555, 5
+  size: 82, 76
+  orig: 128, 128
+  offset: 10, 14
+  index: -1
+images/effect/yanchen3
+  rotate: false
+  xy: 101, 4
+  size: 89, 82
+  orig: 128, 128
+  offset: 12, 19
+  index: -1
+images/effect/yanchen4
+  rotate: false
+  xy: 680, 43
+  size: 96, 87
+  orig: 128, 128
+  offset: 14, 23
+  index: -1
+images/effect/yanchen5
+  rotate: true
+  xy: 680, 132
+  size: 101, 88
+  orig: 128, 128
+  offset: 15, 26
+  index: -1
+images/effect/yanchen6
+  rotate: false
+  xy: 355, 7
+  size: 99, 83
+  orig: 128, 128
+  offset: 18, 33
+  index: -1
+images/effect/yanchen7
+  rotate: false
+  xy: 456, 2
+  size: 97, 79
+  orig: 128, 128
+  offset: 22, 39
+  index: -1
+images/effect/yanchen8
+  rotate: true
+  xy: 192, 9
+  size: 56, 72
+  orig: 128, 128
+  offset: 63, 46
+  index: -1
+images/effect/yanchen9
+  rotate: false
+  xy: 266, 38
+  size: 50, 27
+  orig: 128, 128
+  offset: 67, 50
+  index: -1
+images/effect/yuan
+  rotate: false
+  xy: 528, 83
+  size: 150, 150
+  orig: 256, 256
+  offset: 53, 53
+  index: -1

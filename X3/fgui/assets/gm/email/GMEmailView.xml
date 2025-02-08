@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <richtext id="n53_fsx5" name="labelTitle" xy="18,4" size="586,132" fontSize="62" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="GM 发送邮件"/>
+    <component id="n41_m43k" name="inputBoxTitle" src="fsx5n" fileName="common/inputBoxComp.xml" xy="1,131" size="547,67"/>
+    <component id="n50_fsx5" name="inputBoxContent" src="ukhso" fileName="common/inputEditBoxComp.xml" xy="3,447" size="547,237"/>
+    <component id="n51_fsx5" name="inputBoxSendTimeMs" src="fsx5n" fileName="common/inputBoxComp.xml" xy="1,206" size="547,67"/>
+    <component id="n52_fsx5" name="inputBoxExpireTimeMs" src="fsx5n" fileName="common/inputBoxComp.xml" xy="1,292" size="547,67"/>
+    <component id="n54_fsx5" name="inputBoxRewardText" src="fsx5n" fileName="common/inputBoxComp.xml" xy="2,371" size="547,67"/>
+    <component id="n46_qj7y" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="208,687" size="189,68"/>
+  </displayList>
+</component>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kpocb57" designImageAlpha="0">
+  <displayList>
+    <component id="n25_6b29" name="chat" src="jqxis98" fileName="chat/ChatComp.xml" pkg="72zq62ea" xy="7,1142">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n56_6b29" name="tipsForBattle" src="j6z94c" fileName="com/TipsCom.xml" xy="120,430" visible="false"/>
+    <component id="n17_6b29" name="storeBtn" src="j6z947" fileName="btn/storeBtn.xml" xy="-275,-322"/>
+    <component id="n19_6b29" name="fuliBtn" src="j6z94a" fileName="btn/FuliBtn.xml" xy="-277,-229"/>
+    <component id="n9_6b29" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="328,25" group="n81_j6z9"/>
+    <component id="n70_j6z9" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="486,25" group="n81_j6z9"/>
+    <component id="n76_j6z9" name="headerItem3" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="166,80" group="n81_j6z9"/>
+    <component id="n77_j6z9" name="headerItem4" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="306,81" size="143,41" group="n81_j6z9"/>
+    <component id="n78_j6z9" name="headerItem5" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="444,80" size="143,41" group="n81_j6z9"/>
+    <group id="n81_j6z9" name="n81" xy="166,25" size="473,103" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n3_6b29" name="headPlayer" src="gtlwvvv1hr" fileName="view/PlayerCom.xml" pkg="38fa8c75" xy="8,8"/>
+    <component id="n58_6b29" name="sideShowAd" src="j6z943" fileName="com/ActivityCom.xml" xy="478,145" size="273,148" visible="false">
+      <relation target="" sidePair="right-right"/>
+    </component>
+    <component id="n109_wu6b" name="listLeftTab" src="wu6b5z" fileName="components/MainPageTabList.xml" xy="6,196">
+      <relation target="" sidePair="left-left"/>
+    </component>
+    <component id="n110_wu6b" name="listRightTab" src="wu6b5z" fileName="components/MainPageTabList.xml" xy="744,306">
+      <relation target="" sidePair="right-right"/>
+    </component>
+    <component id="n111_wu6b" name="listCenterTab" src="wu6b5z" fileName="components/MainPageTabList.xml" xy="466,160">
+      <relation target="" sidePair="right-right"/>
+    </component>
+    <component id="n85_cskp" name="buildingBtn" src="rr185" fileName="building/BuildingBtn.xml" pkg="38fa8c75" xy="313,698" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n75_j6z9" name="btn_backHome" src="j6z94e" fileName="btn/BackHomeBtn.xml" xy="645,1094" group="n97_kp3w">
+      <Button title="回城" icon="ui://8982be536b2930"/>
+    </component>
+    <group id="n97_kp3w" name="footerFloat" xy="645,1094" size="92,87" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n96_pwoe" name="trunkTask" src="iydi5p" fileName="btn/TrunkTaskBtn.xml" xy="-1,804" pivot="0,0.5">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n98_ky4d" name="footer" src="pocbv16w" fileName="footer/CommonFooterView.xml" pkg="38fa8c75" xy="0,1215" controller="footerType,1">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n99_v891" name="MiniMap" src="v891vvv1er" fileName="miniMap/MiniMapItem.xml" pkg="38fa8c75" xy="494,126" visible="false"/>
+    <image id="n100_k045" name="n100" src="k045vvv1gh" fileName="bgImage/qipao4_frame.png" pkg="38fa8c75" xy="139,113" size="199,74" group="n103_k045"/>
+    <richtext id="n102_k045" name="T_resource1" xy="154,135" pivot="0.5,0.5" size="170,42" group="n103_k045" fontSize="14" color="#333333" vAlign="middle" ubb="true" vars="true" autoClearText="true" text="当前区域资源已达获取上限&#xA;上限值：99/100"/>
+    <group id="n103_k045" name="gp_resource1" xy="139,113" size="199,74" visible="false" advanced="true"/>
+    <image id="n104_k045" name="n104" src="k045vvv1gh" fileName="bgImage/qipao4_frame.png" pkg="38fa8c75" xy="328,113" size="199,74" group="n106_k045"/>
+    <richtext id="n105_k045" name="T_resource2" xy="343,135" pivot="0.5,0.5" size="170,42" group="n106_k045" fontSize="14" color="#333333" vAlign="middle" ubb="true" vars="true" autoClearText="true" text="当前区域资源已达获取上限&#xA;上限值：99/100"/>
+    <group id="n106_k045" name="gp_resource2" xy="328,113" size="199,74" visible="false" advanced="true"/>
+    <component id="n107_str8" name="aniPoint" src="str85w" fileName="components/MainPageAniPoint.xml" xy="0,0">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n108_ksmg" name="btnHangUpLevel" src="pocbv179" fileName="footer/btn/HangUpEntryBtn.xml" pkg="38fa8c75" xy="1,1190" pivot="0,1" size="171,139" scale="0.8,0.8">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n113_tjmg" name="trunkTaskTipsBtn" src="tjmgvvv1l9" fileName="btn/LabelBtn.xml" pkg="38fa8c75" xy="146,927" size="137,40">
+      <relation target="n96_pwoe" sidePair="left-left,top-bottom"/>
+      <Button title="查看经验来源"/>
+    </component>
+  </displayList>
+</component>

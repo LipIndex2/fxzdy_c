@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <image id="n39_m43k" name="n39" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="366,6" size="247,69"/>
+    <image id="n41_m43k" name="n41" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="135,82" size="204,72"/>
+    <list id="n28_t6mg" name="itemList" xy="2,165" size="607,599" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" margin="0,0,10,10" lineGap="10" colGap="10" defaultItem="ui://t846cdz6m43k3" autoClearItems="true">
+      <item title="item1"/>
+      <item title="item2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n40_m43k" name="n40" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="131,6" size="226,67"/>
+    <text id="n32_m43k" name="titleItemId" xy="11,9" size="108,58" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="道具id"/>
+    <text id="n42_972a" name="inputItemId" xy="142,11" size="212,56" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]道具id[/color]" maxLength="20"/>
+    <text id="n34_m43k" name="titleItemCount" xy="10,91" size="108,56" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="数量"/>
+    <text id="n44_972a" name="inputItemCount" xy="145,93" size="186,54" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="1" input="true" prompt="[color=#494654]道具数量[/color]" maxLength="20"/>
+    <text id="n43_972a" name="inputItemName" xy="383,13" size="222,57" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]过滤的道具名[/color]" maxLength="20"/>
+    <component id="n33_m43k" name="buttonAddItem" src="m43k9" fileName="buttonAddItem.xml" xy="348,87" size="128,68"/>
+    <component id="n45_wwsz" name="btnSwitchItemIconSize" src="m43k9" fileName="buttonAddItem.xml" xy="478,87" size="134,68">
+      <Button title="大/小图标"/>
+    </component>
+    <component id="n46_ee3z" name="gotoFight" src="m43k9" fileName="buttonAddItem.xml" xy="481,-74" size="128,68"/>
+    <component id="n47_vet6" name="gotoBianQiang" src="m43k9" fileName="buttonAddItem.xml" xy="345,-74" size="128,68">
+      <Button title="去变强"/>
+    </component>
+  </displayList>
+</component>

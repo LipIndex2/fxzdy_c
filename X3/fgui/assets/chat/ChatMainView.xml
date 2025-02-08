@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1knl4gs6v">
+  <controller name="pageType" pages="0,chat,1,settings" selected="0"/>
+  <displayList>
+    <loader id="n1_91d6" name="bg" xy="25,132" size="698,1064" group="n63_buys" url="ui://6bce377291d61"/>
+    <component id="n14_91d6" name="pageChat" src="buys3f" fileName="page/ChatContentPage.xml" xy="168,159" group="n62_buys">
+      <gearDisplay controller="pageType" pages="0"/>
+    </component>
+    <component id="n66_buys" name="pageSetting" src="buys3a" fileName="page/ChatSettingsPage.xml" xy="177,138" group="n62_buys">
+      <gearDisplay controller="pageType" pages="1"/>
+    </component>
+    <group id="n62_buys" name="G_right" xy="168,138" size="560,1063" group="n63_buys"/>
+    <image id="n61_buys" name="fgTab" src="91d63" fileName="img/tuceng47.png" xy="32,146" group="n63_buys"/>
+    <list id="n57_buys" name="tabList" xy="33,156" size="128,907" group="n65_buys" overflow="scroll" defaultItem="ui://6bce3772buys3k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n5_91d6" name="btnSetting" src="buys3c" fileName="btn/ChatSettingBtn.xml" xy="30,1065" size="141,130" group="n65_buys" controller="isChoose,1"/>
+    <group id="n65_buys" name="G_left" xy="30,156" size="141,1039" group="n63_buys" advanced="true"/>
+    <group id="n63_buys" name="G_all" xy="25,132" size="703,1069" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n67_vdae" name="n67" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1223">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

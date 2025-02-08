@@ -1,0 +1,118 @@
+
+skill02_hit_upper.png
+size: 377,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/glo
+  rotate: false
+  xy: 305, 297
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_up_0
+  rotate: true
+  xy: 303, 427
+  size: 72, 72
+  orig: 150, 125
+  offset: 40, 27
+  index: -1
+images/effect/skill02_hit_up_1
+  rotate: true
+  xy: 288, 14
+  size: 93, 86
+  orig: 150, 125
+  offset: 28, 19
+  index: -1
+images/effect/skill02_hit_up_10
+  rotate: true
+  xy: 154, 463
+  size: 136, 94
+  orig: 150, 125
+  offset: 3, 11
+  index: -1
+images/effect/skill02_hit_up_11
+  rotate: 270
+  xy: 232, 215
+  size: 126, 72
+  orig: 150, 125
+  offset: 9, 23
+  index: -1
+images/effect/skill02_hit_up_12
+  rotate: 270
+  xy: 240, 354
+  size: 122, 71
+  orig: 150, 125
+  offset: 11, 27
+  index: -1
+images/effect/skill02_hit_up_13
+  rotate: true
+  xy: 248, 480
+  size: 120, 68
+  orig: 150, 125
+  offset: 14, 30
+  index: -1
+images/effect/skill02_hit_up_14
+  rotate: 270
+  xy: 266, 104
+  size: 113, 69
+  orig: 150, 125
+  offset: 18, 31
+  index: -1
+images/effect/skill02_hit_up_2
+  rotate: false
+  xy: 2, 473
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_up_3
+  rotate: false
+  xy: 2, 346
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_up_4
+  rotate: false
+  xy: 2, 219
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+images/effect/skill02_hit_up_5
+  rotate: 180
+  xy: 43, 3
+  size: 150, 113
+  orig: 150, 125
+  offset: 0, 8
+  index: -1
+images/effect/skill02_hit_up_6
+  rotate: false
+  xy: 2, 104
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 9
+  index: -1
+images/effect/skill02_hit_up_7
+  rotate: true
+  xy: 151, 138
+  size: 141, 91
+  orig: 150, 125
+  offset: 0, 14
+  index: -1
+images/effect/skill02_hit_up_8
+  rotate: true
+  xy: 154, 329
+  size: 134, 90
+  orig: 150, 125
+  offset: 3, 16
+  index: -1
+images/effect/skill02_hit_up_9
+  rotate: true
+  xy: 195, 5
+  size: 132, 92
+  orig: 150, 125
+  offset: 3, 14
+  index: -1

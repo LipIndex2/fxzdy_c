@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ee5b35f6">
+  <resources>
+    <image id="b7b62" name="zu25.png" path="/img/"/>
+    <image id="b7b65" name="dengjidi.png" path="/img/"/>
+    <image id="b7b66" name="diban.png" path="/img/"/>
+    <image id="b7b612" name="dengji_di.png" path="/img/"/>
+    <image id="b7b613" name="dengji_di2.png" path="/img/"/>
+    <image id="b7b616" name="kelingqu.png" path="/img/"/>
+    <image id="b7b619" name="weijiesuo.png" path="/img/"/>
+    <image id="b7b636" name="2jiyeqian.png" path="/img/"/>
+    <image id="b7b638" name="2jiyeqian_xuanzhong.png" path="/img/"/>
+    <image id="b7b642" name="xingjitongxingzheng_6.png" path="/img/"/>
+    <image id="b7b650" name="zu26.png" path="/img/"/>
+    <image id="b7b653" name="zu27.png" path="/img/"/>
+    <component id="b7b659" name="BattlePassMainWin.xml" path="/"/>
+    <component id="bezo5a" name="BattlePassPreviewWin.xml" path="/"/>
+    <image id="bezo5b" name="bg.png" path="/img/" scale="9grid" scale9grid="148,266,298,8"/>
+    <component id="bezo5c" name="BattlePassTaskItem.xml" path="/item/"/>
+    <component id="bezo5d" name="BattlePassTaskBar.xml" path="/bar/"/>
+    <component id="bezo5e" name="TaskSelBtn.xml" path="/btn/" exported="true"/>
+    <component id="bezo5f" name="BattlePassTabBtn.xml" path="/btn/" exported="true"/>
+    <component id="bezo5g" name="BattlePassLevelBar.xml" path="/bar/"/>
+    <component id="bezo5h" name="BattlePassAwardItem1.xml" path="/item/"/>
+    <component id="bezo5k" name="BattlePassAwardItem2.xml" path="/item/"/>
+    <image id="bezo5l" name="list.png" path="/img/" scale="9grid" scale9grid="24,29,6,58"/>
+    <component id="bezo5m" name="BattlePassTextItem.xml" path="/item/"/>
+    <image id="bezo5n" name="awardbg.png" path="/img/" scale="9grid" scale9grid="26,25,6,8"/>
+    <image id="bezo5o" name="tab1.png" path="/img/" scale="9grid" scale9grid="13,13,6,6"/>
+    <image id="bezo5p" name="tab2.png" path="/img/" scale="9grid" scale9grid="12,12,8,5"/>
+    <image id="bezo5q" name="bg1.jpg" path="/img/" scale="9grid" scale9grid="187,431,374,18"/>
+    <image id="bezo5r" name="dengji_10.png" path="/img/"/>
+    <image id="bezo5s" name="yeqianxuanzhong.png" path="/img/"/>
+    <image id="bezo5t" name="tabdi.png" path="/img/" scale="9grid" scale9grid="30,18,9,36"/>
+    <image id="bezo5u" name="txz_lb.png" path="/img/" scale="9grid" scale9grid="151,37,9,74"/>
+    <image id="bezo5v" name="txz_lb2.png" path="/img/" scale="9grid" scale9grid="19,45,16,5"/>
+    <image id="bezo5w" name="txz_lb3.png" path="/img/" scale="9grid" scale9grid="19,46,10,5"/>
+    <image id="bezo5x" name="txz_lb4.png" path="/img/" scale="9grid" scale9grid="17,35,8,70"/>
+    <image id="bezo5y" name="tuceng111.png" path="/img/"/>
+    <image id="bezo5z" name="tuceng113.png" path="/img/"/>
+    <component id="bezo60" name="BattlePassAwardItem3.xml" path="/item/"/>
+    <image id="bezo61" name="txz_yq.png" path="/img/" scale="9grid" scale9grid="27,17,11,34"/>
+    <image id="bezo62" name="txz_yq1.png" path="/img/" scale="9grid" scale9grid="27,17,7,34"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="107,107" pivot="0.5,0.5" extention="Button" designImageLayer="1">
+  <controller name="isOpen" exported="true" pages="0,,1," selected="1"/>
+  <controller name="isNotGain" pages="0,,1,普通奖励,2,大奖" selected="2"/>
+  <displayList>
+    <loader id="n24_teox" name="n24" xy="0,0" size="107,107" url="ui://a0405d99teox1p" autoSize="true"/>
+    <image id="n6_37cf" name="imgCardShadow" src="37cf4" fileName="img/touying.png" xy="6,81" group="n8_rgtg" alpha="0.27"/>
+    <image id="n7_37cf" name="imgCardBack" src="vipi1o" fileName="imgExport/z_woNiu.png" xy="10,11" group="n8_rgtg"/>
+    <group id="n8_rgtg" name="G_hide" xy="6,11" size="95,93" advanced="true">
+      <gearDisplay controller="isOpen" pages="0"/>
+    </group>
+    <loader id="n2_37cf" name="imageItem" xy="13,13" pivot="0.5,0.5" size="80,80" group="n9_rgtg" url="ui://a0405d9937cf2" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n5_37cf" name="T_count" xy="42,62" size="52,29" group="n9_rgtg" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" autoClearText="true" text="×100"/>
+    <group id="n9_rgtg" name="G_r1" xy="13,13" size="81,80" advanced="true">
+      <gearDisplay controller="isOpen" pages="1"/>
+      <gearDisplay2 controller="isNotGain" pages="1" condition="0"/>
+    </group>
+    <image id="n19_vipi" name="n19" src="37cf4" fileName="img/touying.png" xy="6,80" group="n21_vipi" alpha="0.27"/>
+    <loader id="n20_vipi" name="imageBigReward" xy="3,1" pivot="0.5,0.5" size="100,100" group="n21_vipi" url="ui://a0405d9937cf5" align="center" vAlign="middle" fill="scale"/>
+    <group id="n21_vipi" name="G_r2" xy="3,1" size="100,102" advanced="true">
+      <gearDisplay controller="isOpen" pages="1"/>
+      <gearDisplay2 controller="isNotGain" pages="2" condition="0"/>
+    </group>
+    <component id="n22_jks2" name="modelNodeSweep" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="52,55" size="100,100"/>
+    <component id="n23_ummk" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="90,16" controller="type,3"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

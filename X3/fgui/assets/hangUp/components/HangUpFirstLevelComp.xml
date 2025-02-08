@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="81,208" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n171_piwi" name="bar" src="piwi13a" fileName="components/HangUpRoadProgressBar.xml" xy="46,109" size="37,14" group="n177_tml5" visible="false">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <image id="n181_hqyb" name="n181" src="r8pu166" fileName="imgV3/jianglidi.png" xy="-3,80" group="n177_tml5"/>
+    <image id="n182_hqyb" name="n182" src="r8pu169" fileName="imgV3/jianglibaoxiang.png" xy="-1,89" group="n177_tml5"/>
+    <image id="n184_hqyb" name="n184" src="hqybs9c" fileName="btn/img/common_004_tag.png" pkg="72zq62ea" xy="41,77" group="n177_tml5"/>
+    <group id="n177_tml5" name="all" xy="-3,77" size="86,75"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="t1"/>
+</component>

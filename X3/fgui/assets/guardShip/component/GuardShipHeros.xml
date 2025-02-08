@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,274">
+  <displayList>
+    <image id="n88_czc6" name="shadow1" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="50,104" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <image id="n90_czc6" name="shadow2" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="102,229" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <image id="n91_czc6" name="shadow3" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="266,272" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <image id="n92_czc6" name="shadow4" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="425,274" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <image id="n93_czc6" name="shadow5" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="603,227" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <image id="n94_czc6" name="shadow6" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="631,100" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <component id="n82_gs9k" name="pos1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="50,104" pivot="0.5,1" anchor="true" size="10,10" scale="1.6,1.6"/>
+    <component id="n87_gs9k" name="pos6" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="631,100" pivot="0.5,1" anchor="true" size="10,10" scale="-1.6,1.6"/>
+    <component id="n83_gs9k" name="pos2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="102,229" pivot="0.5,1" anchor="true" size="10,10" scale="1.6,1.6"/>
+    <component id="n84_gs9k" name="pos3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="266,272" pivot="0.5,1" anchor="true" size="10,10" scale="1.6,1.6"/>
+    <component id="n85_gs9k" name="pos4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="425,274" pivot="0.5,1" anchor="true" size="10,10" scale="-1.6,1.6"/>
+    <component id="n86_gs9k" name="pos5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="603,227" pivot="0.5,1" anchor="true" size="10,10" scale="-1.6,1.6"/>
+  </displayList>
+</component>

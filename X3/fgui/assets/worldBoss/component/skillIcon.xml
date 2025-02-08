@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,110" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n9_d6aa" name="n9" src="d6aa5" fileName="img/sd_A_common_jineng2_frame.png" xy="0,0"/>
+    <image id="n10_d6aa" name="n10" src="d6aa6" fileName="img/tuceng570.png" xy="5,5"/>
+    <component id="n17_wq7z" name="skillCom" src="wq7z154" fileName="component/skillMask.xml" xy="11,8" size="80,94"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

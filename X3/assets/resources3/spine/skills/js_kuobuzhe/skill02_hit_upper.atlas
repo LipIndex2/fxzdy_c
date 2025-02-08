@@ -1,0 +1,83 @@
+
+skill02_hit_upper.png
+size: 264,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_hit1
+  rotate: true
+  xy: 53, 17
+  size: 18, 78
+  orig: 20, 80
+  offset: 1, 1
+  index: -1
+effect/skill02_hit2_00000
+  rotate: false
+  xy: 137, 79
+  size: 74, 107
+  orig: 150, 180
+  offset: 25, 46
+  index: -1
+effect/skill02_hit2_00001
+  rotate: false
+  xy: 2, 37
+  size: 133, 126
+  orig: 150, 180
+  offset: 11, 45
+  index: -1
+effect/skill02_hit2_00002
+  rotate: true
+  xy: 134, 188
+  size: 136, 118
+  orig: 150, 180
+  offset: 13, 25
+  index: -1
+effect/skill02_hit2_00003
+  rotate: false
+  xy: 137, 2
+  size: 80, 75
+  orig: 150, 180
+  offset: 25, 55
+  index: -1
+effect/skill02_hit2_00004
+  rotate: false
+  xy: 2, 165
+  size: 130, 159
+  orig: 150, 180
+  offset: 3, 9
+  index: -1
+effect/skill02_hit2_00005
+  rotate: false
+  xy: 213, 79
+  size: 49, 68
+  orig: 150, 180
+  offset: 40, 70
+  index: -1
+effect/skill02_hit3_00000
+  rotate: false
+  xy: 219, 11
+  size: 24, 20
+  orig: 56, 40
+  offset: 23, 12
+  index: -1
+effect/skill02_hit3_00001
+  rotate: false
+  xy: 213, 149
+  size: 49, 36
+  orig: 56, 40
+  offset: 2, 2
+  index: -1
+effect/skill02_hit3_00002
+  rotate: false
+  xy: 2, 3
+  size: 49, 32
+  orig: 56, 40
+  offset: 6, 5
+  index: -1
+effect/skill02_hit3_00003
+  rotate: true
+  xy: 219, 33
+  size: 44, 34
+  orig: 56, 40
+  offset: 7, 3
+  index: -1

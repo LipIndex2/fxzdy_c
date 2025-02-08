@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6be81224">
+  <resources>
+    <image id="be1a2" name="bossfydi_frame.png" path="/img/"/>
+    <image id="be1a3" name="sd_A_common_liaotian_frame_18.png" path="/img/"/>
+    <image id="be1a4" name="scale_80%_sd_A_common_changgui1_btn_17.png" path="/img/"/>
+    <component id="be1a6" name="leagueInviteView.xml" path="/"/>
+    <image id="be1a12" name="weixuanze.png" path="/img/"/>
+    <image id="be1a13" name="xuanze.png" path="/img/"/>
+    <image id="be1a16" name="jinzhi.png" path="/img/"/>
+    <component id="be1a17" name="memberMgrView.xml" path="/"/>
+    <image id="be1a20" name="sd_A_common_bossfydi_frame.png" path="/img/"/>
+    <image id="be1a21" name="sd_A_common_buzhen_btn_50.png" path="/img/"/>
+    <image id="be1a22" name="sd_A_common_grsz1_btn.png" path="/img/"/>
+    <image id="be1a27" name="sd_A_common_liaotian_frame_33.png" path="/img/"/>
+    <image id="be1a28" name="sd_A_common_bossfgx_line.png" path="/img/"/>
+    <image id="be1a30" name="sd_A_common_shuru_btn.png" path="/img/"/>
+    <image id="be1a31" name="sd_A_common_kppydi_blood.png" path="/img/"/>
+    <image id="be1a32" name="sd_A_common_kppy_blood.png" path="/img/" scale="9grid" scale9grid="56,4,112,8"/>
+    <image id="be1a34" name="sd_A_common_xiangqing_icon.png" path="/img/"/>
+    <image id="be1a35" name="sd_A_common_youjian_icon.png" path="/img/"/>
+    <image id="be1a36" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <component id="be1a37" name="leagueCenterView.xml" path="/"/>
+    <image id="be1a40" name="zu130438kaobei.png" path="/img/"/>
+    <image id="be1a41" name="sd_A_common_lmkj_btn.png" path="/img/"/>
+    <image id="be1a42" name="sd_A_common_lmkj1_btn.png" path="/img/"/>
+    <image id="be1a43" name="sd_A_common_gray_frame.png" path="/img/"/>
+    <image id="be1a46" name="xingzhuang1030kaobei2.png" path="/img/"/>
+    <component id="be1a48" name="leagueFlagView.xml" path="/"/>
+    <image id="be1a49" name="sd_A_common_liaotian_frame_68.png" path="/img/"/>
+    <image id="be1a50" name="qizhi_62.png" path="/img/" exported="true"/>
+    <image id="be1a51" name="lianmeng001_icom.png" path="/img/" exported="true"/>
+    <component id="be1a52" name="leagueCreateView.xml" path="/"/>
+    <image id="be1a53" name="sd_A_common_gou_icon.png" path="/img/"/>
+    <image id="be1a54" name="sd_A_common_cha_icon.png" path="/img/"/>
+    <image id="be1a56" name="sd_A_common_dakai1_btn.png" path="/img/"/>
+    <image id="be1a57" name="sd_A_common_dakai_btn.png" path="/img/"/>
+    <component id="be1a58" name="leagueApplicationList.xml" path="/"/>
+    <component id="be1a62" name="leagueCompletedList.xml" path="/"/>
+    <image id="be1a63" name="tiankong.png" path="/img/" scale9grid="186,1229,374,82"/>
+    <image id="be1a64" name="weidacheng.png" path="/img/"/>
+    <image id="be1a65" name="sd_A_common_tianjiadi_blood_118.png" path="/img/"/>
+    <image id="be1a66" name="sd_A_common_jdt_blood_117.png" path="/img/" scale="9grid" scale9grid="53,4,106,8"/>
+    <image id="be1a67" name="yellow_frame_116.png" path="/img/"/>
+    <image id="be1a69" name="sd_A_common_liaotian_frame_111.png" path="/img/"/>
+    <image id="be1a71" name="liaotian_frame.png" path="/img/"/>
+    <image id="be1a72" name="kelingqu.png" path="/img/"/>
+    <image id="be1a73" name="sd_A_common_jdt_blood.png" path="/img/"/>
+    <image id="be1a74" name="sd_A_common_ylq_tag.png" path="/img/"/>
+    <image id="be1a76" name="sd_A_common_bossbt_frame.png" path="/img/" exported="true"/>
+    <component id="be1a78" name="leagueTaskView.xml" path="/"/>
+    <image id="be1a79" name="juxing1.png" path="/img/" exported="true"/>
+    <image id="be1a80" name="tuceng709.png" path="/img/" exported="true"/>
+    <image id="be1a81" name="sd_A_common_bossxxd_frame.png" path="/img/" exported="true"/>
+    <image id="be1a84" name="sd_A_common_jnmb_frame.png" path="/img/" exported="true"/>
+    <image id="be1a87" name="scale_60%_sd_A_common_changgui3_btn.png" path="/img/" exported="true"/>
+    <image id="be1a88" name="duiwu_icon.png" path="/img/" exported="true"/>
+    <image id="be1a89" name="sd_A_common_liaotian_frame_120.png" path="/img/" exported="true"/>
+    <image id="be1a90" name="fangdajing.png" path="/img/" exported="true"/>
+    <image id="be1a91" name="zu130437.png" path="/img/" exported="true"/>
+    <image id="be1a92" name="sd_A_common_changgui1_btn.png" path="/img/" exported="true"/>
+    <component id="be1a93" name="leagueList.xml" path="/" exported="true"/>
+    <image id="be1a94" name="zu13030.jpg" path="/img/"/>
+    <image id="be1a95" name="sd_A_common_bossxxd_frame_142.png" path="/img/"/>
+    <image id="be1a96" name="sd_A_common_wdpm1_framekaobei.png" path="/img/"/>
+    <image id="be1a98" name="sd_A_common_bossbt_framefh1_btnkaobei.png" path="/img/"/>
+    <image id="be1a100" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+    <image id="be1a101" name="sd_A_common_paimingframe.png" path="/img/"/>
+    <image id="be1a105" name="sd_A_common_no3_icon_128.png" path="/img/"/>
+    <image id="be1a106" name="sd_A_common_no3_icon.png" path="/img/"/>
+    <image id="be1a107" name="sd_A_common_no2_icon.png" path="/img/"/>
+    <component id="be1a108" name="leagueRankView.xml" path="/"/>
+    <component id="h90v10a" name="leagueCreateBtn.xml" path="/btn/"/>
+    <component id="h90v10b" name="flagBtn.xml" path="/btn/"/>
+    <component id="h90v10c" name="applyBtn.xml" path="/btn/" exported="true"/>
+    <component id="h90v10d" name="joinBtn.xml" path="/btn/" exported="true"/>
+    <component id="h90v10e" name="createBtn.xml" path="/btn/" exported="true"/>
+    <component id="h90v10f" name="joinListCell.xml" path="/com/" exported="true"/>
+    <component id="h90v10g" name="noLabelBtn.xml" path="/btn/" exported="true"/>
+    <component id="h90v10h" name="flagSelectBtn.xml" path="/btn/"/>
+    <component id="h90v10i" name="flagIconCell.xml" path="/btn/"/>
+    <component id="h90v10j" name="flagTagBtn.xml" path="/btn/"/>
+    <component id="h90v10k" name="sureBtn.xml" path="/btn/"/>
+    <component id="h90v10l" name="rejectBtn.xml" path="/btn/"/>
+    <component id="h90v10m" name="applyCell.xml" path="/com/"/>
+    <component id="h90v10n" name="isAutonApllyBtn.xml" path="/btn/"/>
+    <component id="h90v10o" name="applyEnterBtn.xml" path="/btn/"/>
+    <component id="h90v10p" name="leagueExpBar.xml" path="/com/"/>
+    <component id="h90v10q" name="memberCell.xml" path="/com/"/>
+    <component id="h90v10r" name="appointBtn.xml" path="/btn/"/>
+    <component id="h90v10s" name="manageCell.xml" path="/com/"/>
+    <component id="h90v10t" name="leagueRankCell.xml" path="/com/"/>
+    <component id="h90v10u" name="leagueTop3.xml" path="/btn/"/>
+    <component id="h90v10v" name="leagueTaskCom.xml" path="/com/"/>
+    <component id="h90v10w" name="taskCellBar.xml" path="/com/"/>
+    <component id="h90v10x" name="leagueNewNameView.xml" path="/"/>
+    <component id="wq7z10y" name="centerBg.xml" path="/com/"/>
+    <component id="wq7z10z" name="leagueMailView.xml" path="/"/>
+    <image id="qr2a111" name="xuanzhong_frame.png" path="/img/" scale="9grid" scale9grid="23,41,9,10"/>
+    <component id="h90v2a" name="challengeBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2b" name="shopBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2c" name="leagueBoxBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2d" name="leagueTechBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2e" name="leagueBossBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2f" name="leagueGameBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2i" name="leagueComBtn.xml" path="/leagueMain/btn/"/>
+    <component id="h90v2g" name="myLeagueCom.xml" path="/leagueMain/com/"/>
+    <component id="h90v2h" name="myLeagueRank.xml" path="/leagueMain/com/"/>
+    <component id="h90v2j" name="leagueNoticeCom.xml" path="/leagueMain/com/"/>
+    <component id="h90v2l" name="leagueMenu.xml" path="/leagueMain/com/"/>
+    <image id="894b2" name="scale_60%_sd_A_common_jnmb_frame.png" path="/leagueMain/img/"/>
+    <image id="894b3" name="scale_70%_sd_A_common_suo1_icon.png" path="/leagueMain/img/"/>
+    <image id="894b4" name="sd_A_common_liaotian_frame.png" path="/leagueMain/img/"/>
+    <image id="894b5" name="sd_A_common_liaotian_btn.png" path="/leagueMain/img/"/>
+    <image id="894b6" name="sd_A_common_shuzi_msg.png" path="/leagueMain/img/"/>
+    <image id="894b7" name="sd_A_common_liaotian_framekaobei.png" path="/leagueMain/img/"/>
+    <image id="894b14" name="lmdi_frame.png" path="/leagueMain/img/" scale="9grid" scale9grid="186,545,374,34"/>
+    <image id="894b15" name="sd_rukoutubiao_rk0008_icon.png" path="/leagueMain/img/"/>
+    <image id="894b16" name="sd_rukoutubiao_rk0001_icon.png" path="/leagueMain/img/"/>
+    <image id="894b17" name="lan.png" path="/leagueMain/img/"/>
+    <image id="894b18" name="hui.png" path="/leagueMain/img/"/>
+    <image id="894b20" name="baoxiang.png" path="/leagueMain/img/" exported="true"/>
+    <image id="894b24" name="lianmengmingzi.png" path="/leagueMain/img/"/>
+    <image id="894b25" name="paimign.png" path="/leagueMain/img/"/>
+    <image id="894b27" name="duiwu_icon.png" path="/leagueMain/img/"/>
+    <image id="894b28" name="rukoudi.png" path="/leagueMain/img/"/>
+    <component id="h90v2k" name="LeagueMainView.xml" path="/leagueMain/"/>
+    <component id="894b29" name="leagueMain1.xml" path="/leagueMain/"/>
+    <component id="894b12" name="leagueMain2.xml" path="/leagueMain/"/>
+    <component id="qr2a112" name="backBtn.xml" path="/back/"/>
+    <component id="qr2a113" name="bgBtn.xml" path="/btn/"/>
+    <component id="qr2a115" name="leagueNoticeCom.xml" path="/com/"/>
+    <image id="qr2a116" name="icon_lmjz01.png" path="/img/"/>
+    <image id="qr2a117" name="icon_lmjz02.png" path="/img/"/>
+    <image id="qr2a118" name="icon_lmjz03.png" path="/img/"/>
+    <image id="qr2a119" name="icon_lmjz04.png" path="/img/"/>
+    <image id="qr2a11a" name="tiankong1.png" path="/img/"/>
+    <component id="qr2a11e" name="centerBtn.xml" path="/leagueMain/btn/"/>
+    <component id="qr2a11g" name="centerBtn_small.xml" path="/leagueMain/btn/"/>
+    <component id="qr2a11h" name="btnPanel1.xml" path="/leagueMain/"/>
+    <component id="qr2a11i" name="btnPanel2.xml" path="/leagueMain/"/>
+    <image id="qr2a11k" name="build_boss.png" path="/leagueMain/img/" exported="true"/>
+    <image id="qr2a11l" name="build_box.png" path="/leagueMain/img/" exported="true"/>
+    <image id="qr2a11m" name="build_tec.png" path="/leagueMain/img/" exported="true"/>
+    <image id="qr2a11n" name="build_war.png" path="/leagueMain/img/" exported="true"/>
+    <image id="qr2a11o" name="ship.png" path="/leagueMain/img/"/>
+    <component id="qr2a11r" name="build_tech.xml" path="/leagueMain/btn/"/>
+    <component id="qr2a11s" name="build_game.xml" path="/leagueMain/btn/"/>
+    <component id="qr2a11t" name="build_box.xml" path="/leagueMain/btn/"/>
+    <component id="qr2a11u" name="build_boss.xml" path="/leagueMain/btn/"/>
+    <component id="e53p11x" name="leagueNoticeText.xml" path="/leagueMain/com/"/>
+    <component id="e53p11y" name="leagueNotic.xml" path="/com/"/>
+    <component id="e53p11z" name="leagueMenuItem2.xml" path="/leagueMain/com/"/>
+    <component id="e53p120" name="leagueMenuItem1.xml" path="/leagueMain/com/"/>
+    <image id="c9kw121" name="lmkj_rukou.png" path="/img/"/>
+    <component id="c9kw122" name="LeagueBargainEnterBtn.xml" path="/btn/"/>
+    <image id="gtlw123" name="build_game.png" path="/leagueMain/img/" exported="true"/>
+    <component id="gtlw124" name="LeagueGameModeItem.xml" path="/item/"/>
+    <image id="gtlw125" name="liebiao.png" path="/img/"/>
+    <image id="gtlw126" name="bt_frame.png" path="/img/"/>
+    <image id="gtlw127" name="sd_Ttequanka_t_shijiandi.png" path="/img/"/>
+    <image id="gtlw128" name="jingqingqidaidi.png" path="/img/"/>
+    <component id="gtlw129" name="LeagueGameModeWin.xml" path="/"/>
+    <component id="ta4f12a" name="LeagueBubble.xml" path="/com/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,300" opaque="false">
+  <displayList>
+    <graph id="n60_9h0a" name="n60" xy="0,0" size="750,300" group="n61_9h0a" alpha="0.6" touchable="false" type="rect" fillColor="#ff000000">
+      <relation target="" sidePair=""/>
+    </graph>
+    <component id="n62_9h0a" name="closeBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="655,8" size="86,87" group="n61_9h0a">
+      <Button titleFontSize="20" icon="ui://38fa8c75j6z92u"/>
+    </component>
+    <component id="n69_vx1g" name="frameRate30Btn" src="rqztvz" fileName="common/yellowBtn.xml" xy="-28,214" group="n73_m2go" scale="0.6,0.6">
+      <Button title="30fps" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n70_m2go" name="frameRate60Btn" src="rqztvz" fileName="common/yellowBtn.xml" xy="129,214" group="n73_m2go" scale="0.6,0.6">
+      <Button title="60fps" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n71_m2go" name="showframeRateBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="287,214" group="n73_m2go" scale="0.6,0.6">
+      <Button title="显示帧率" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n72_m2go" name="logBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="445,214" group="n73_m2go" scale="0.6,0.6">
+      <Button title="开/关log" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <group id="n73_m2go" name="n73" xy="-28,214" size="702,102" group="n61_9h0a" advanced="true" layout="hz" colGap="-70" excludeInvisibles="true">
+      <relation target="" sidePair=""/>
+    </group>
+    <component id="n74_m2go" name="hideRoleBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="-28,145" group="n78_m2go" scale="0.6,0.6">
+      <Button title="隐藏单位" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n75_m2go" name="hideEffectBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="129,145" group="n78_m2go" scale="0.6,0.6">
+      <Button title="隐藏特效" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n76_m2go" name="hideMapBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="287,145" group="n78_m2go" scale="0.6,0.6">
+      <Button title="隐藏地图" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n77_m2go" name="removeOrnamentBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="445,145" group="n78_m2go" scale="0.6,0.6">
+      <Button title="移除装饰物" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <group id="n78_m2go" name="n78" xy="-28,145" size="702,102" group="n61_9h0a" advanced="true" layout="hz" colGap="-70" excludeInvisibles="true"/>
+    <component id="n84_m2go" name="areaTreeBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="-30,1" group="n61_9h0a" scale="0.6,0.6">
+      <Button title="范围树" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n79_m2go" name="hideMainBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="-28,76" group="n83_m2go" scale="0.6,0.6">
+      <Button title="隐藏主界面" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n80_m2go" name="gcBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="129,76" group="n83_m2go" scale="0.6,0.6">
+      <Button title="关闭GC" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n81_m2go" name="resourceBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="287,76" group="n83_m2go" scale="0.6,0.6">
+      <Button title="关闭刷怪" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <component id="n82_m2go" name="aiBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="445,76" group="n83_m2go" scale="0.6,0.6">
+      <Button title="关闭AI" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <group id="n83_m2go" name="n83" xy="-28,76" size="702,102" group="n61_9h0a" advanced="true" layout="hz" colGap="-70" excludeInvisibles="true"/>
+    <component id="n85_m2go" name="pointTreeBtn" src="rqztvz" fileName="common/yellowBtn.xml" xy="127,2" group="n61_9h0a" scale="0.6,0.6">
+      <Button title="点树" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <group id="n61_9h0a" name="gp" xy="-30,0" size="780,316" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+</component>

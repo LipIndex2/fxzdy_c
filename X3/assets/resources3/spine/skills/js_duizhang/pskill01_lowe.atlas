@@ -1,0 +1,111 @@
+
+pskill01_lowe.png
+size: 783,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/pskill01_dawujiao_0
+  rotate: false
+  xy: 252, 255
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_1
+  rotate: false
+  xy: 429, 255
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_11
+  rotate: false
+  xy: 226, 3
+  size: 154, 114
+  orig: 175, 135
+  offset: 11, 14
+  index: -1
+images/effect/pskill01_dawujiao_13
+  rotate: 180
+  xy: 69, 11
+  size: 159, 120
+  orig: 175, 135
+  offset: 9, 11
+  index: -1
+images/effect/pskill01_dawujiao_15
+  rotate: false
+  xy: 2, 113
+  size: 168, 123
+  orig: 175, 135
+  offset: 5, 10
+  index: -1
+images/effect/pskill01_dawujiao_17
+  rotate: false
+  xy: 2, 237
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_19
+  rotate: false
+  xy: 606, 255
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_3
+  rotate: false
+  xy: 179, 118
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_5
+  rotate: false
+  xy: 356, 118
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_7
+  rotate: false
+  xy: 533, 118
+  size: 175, 135
+  orig: 175, 135
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_dawujiao_9
+  rotate: false
+  xy: 381, 15
+  size: 141, 102
+  orig: 175, 135
+  offset: 18, 20
+  index: -1
+images/effect/pskill01_guangzhu1
+  rotate: false
+  xy: 252, 392
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_guangzhu2
+  rotate: false
+  xy: 469, 392
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+images/effect/pskill01_ring
+  rotate: true
+  xy: 523, 6
+  size: 110, 171
+  orig: 206, 206
+  offset: 0, 35
+  index: -1
+images/effect/pskill01_ring1
+  rotate: false
+  xy: 2, 374
+  size: 248, 183
+  orig: 248, 183
+  offset: 0, 0
+  index: -1

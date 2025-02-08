@@ -1,0 +1,160 @@
+
+jiemian_ciyuanshou_dun.png
+size: 786,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 362, 269
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+js01
+  rotate: true
+  xy: 600, 144
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 517, 218
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+js011
+  rotate: 270
+  xy: 257, 3
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+js012
+  rotate: true
+  xy: 385, 117
+  size: 185, 100
+  orig: 185, 100
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 109, 5
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 2, 11
+  size: 92, 52
+  orig: 92, 52
+  offset: 0, 0
+  index: -1
+js015
+  rotate: 270
+  xy: 593, 25
+  size: 115, 124
+  orig: 115, 124
+  offset: 0, 0
+  index: -1
+js016
+  rotate: true
+  xy: 729, 220
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 611, 132
+  size: 123, 170
+  orig: 123, 170
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 2, 65
+  size: 207, 237
+  orig: 207, 237
+  offset: 0, 0
+  index: -1
+js019
+  rotate: true
+  xy: 736, 141
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 2, 261
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+js020
+  rotate: true
+  xy: 340, 36
+  size: 79, 159
+  orig: 79, 159
+  offset: 0, 0
+  index: -1
+js021
+  rotate: false
+  xy: 487, 101
+  size: 125, 201
+  orig: 125, 201
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 716, 98
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 487, 195
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 604, 166
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+js06
+  rotate: true
+  xy: 143, 28
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+js07
+  rotate: 270
+  xy: 204, 81
+  size: 222, 180
+  orig: 224, 182
+  offset: 0, 2
+  index: -1
+js08
+  rotate: false
+  xy: 501, 19
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 203, 282
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1

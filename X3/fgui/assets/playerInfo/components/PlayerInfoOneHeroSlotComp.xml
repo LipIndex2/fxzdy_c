@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="136,207">
+  <controller name="isHave" exported="true" homePageType="specific" homePage="1" pages="0,,1," selected="0"/>
+  <controller name="isDna" homePageType="specific" homePage="0" pages="0,默认,1,展示dna" selected="0"/>
+  <displayList>
+    <loader id="n74_ejy3" name="imageDi" xy="67,140" pivot="0.5,0.5" anchor="true" size="108,48" group="n76_ejy3" url="ui://d4f261265da54"/>
+    <component id="n80_ejy3" name="rootForSpine" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="69,152" pivot="0.5,1" anchor="true" size="174,244" group="n81_ejy3" scale="-0.6,0.6">
+      <gearDisplay controller="isHave" pages="1"/>
+    </component>
+    <component id="n82_xwdv" name="dnaShow" src="xwdv8q" fileName="components/HeroDnaLittleComp.xml" xy="69,150" group="n81_ejy3">
+      <gearDisplay controller="isDna" pages="1"/>
+    </component>
+    <list id="n79_ejy3" name="starList" xy="65,155" pivot="0.5,0.5" anchor="true" size="200,38" group="n81_ejy3" scale="0.6,0.6" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center">
+      <gearDisplay controller="isDna" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n78_ejy3" name="labelHeroName" xy="14,163" pivot="0.5,0.5" size="107,32" group="n81_ejy3" fontSize="22" color="#31b4ff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="英雄名">
+      <gearDisplay controller="isHave" pages="1"/>
+    </text>
+    <group id="n81_ejy3" name="n81" xy="-35,-92" size="200,287" group="n76_ejy3" advanced="true"/>
+    <group id="n76_ejy3" name="n76" xy="-35,-92" size="200,287"/>
+  </displayList>
+</component>

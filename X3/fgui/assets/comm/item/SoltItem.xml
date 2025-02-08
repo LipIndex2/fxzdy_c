@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="146,192">
+  <controller name="c1" pages="0,未解锁,1,已解锁未上阵,2,已上阵" selected="2"/>
+  <displayList>
+    <loader id="n30_kkiq" name="img_quality" xy="13,138" pivot="0.5,0.5" size="120,54" url="ui://38fa8c75cni675" autoSize="true" clearOnPublish="true"/>
+    <image id="n27_kkiq" name="imgAdd" src="odo57o" fileName="btnImage/jia1_btn.png" xy="36,68">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n28_kkiq" name="n28" src="mu0uvvv19d" fileName="bgImage/suobig1_icon.png" xy="32,63">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <text id="n26_4928" name="T_level" xy="0,191" pivot="0.5,0.5" size="146,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" strokeColor="#000000" strokeSize="3" text="Lv.80">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </text>
+    <text id="n29_kkiq" name="T_unlockLevel" xy="42,106" pivot="0.5,0.5" size="61,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="Lv50">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n31_bezo" name="anim" src="ffzcv16x" fileName="node/ModelNode.xml" xy="28,58" pivot="0.5,1" size="90,100" scale="1.6,1.6"/>
+  </displayList>
+</component>

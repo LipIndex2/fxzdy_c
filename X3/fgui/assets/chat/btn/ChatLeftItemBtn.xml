@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="126,135" extention="Button">
+  <controller name="type" pages="0,tab,1,player" selected="0"/>
+  <displayList>
+    <component id="n0_buys" name="tabItem" src="buys3b" fileName="btn/ChatTabBtn.xml" xy="0,0" size="126,135">
+      <gearDisplay controller="type" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n1_buys" name="avatar" src="buys3i" fileName="components/ChatPlayerAvatarComp.xml" xy="0,0" size="126,135">
+      <gearDisplay controller="type" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

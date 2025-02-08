@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="112,100">
+  <controller name="choose" pages="0,noChoose,1,choose" selected="0"/>
+  <displayList>
+    <image id="n17_cb8c" name="bgChoose" src="cb8c7" fileName="img/sd_A_common_hqtj_tab.png" xy="0,3">
+      <gearDisplay controller="choose" pages="1"/>
+    </image>
+    <loader id="n20_pr9t" name="iconItem" xy="2,0" pivot="0.5,0.5" size="100,100" url="ui://7q3fcj1kt6mg9" autoSize="true"/>
+  </displayList>
+</component>

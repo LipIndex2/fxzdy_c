@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,50">
+  <displayList>
+    <image id="n21_k045" name="n21" src="tml513c" fileName="bgImage/qipao_frame.png" pkg="38fa8c75" xy="0,0" pivot="0,0.5" size="62,50" visible="false" flip="hz"/>
+    <loader id="n12_k045" name="img_dialog" xy="-62,0" pivot="1,0.5" size="62,50" scale="-1,1" url="ui://38fa8c75tml513c" align="right" fill="scaleFree"/>
+    <text id="n11_k045" name="T_dialog" xy="5,1" pivot="0,0.5" size="52,34" fontSize="24" color="#ffffff" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="2" text="对话"/>
+  </displayList>
+</component>

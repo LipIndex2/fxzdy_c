@@ -1,0 +1,209 @@
+
+skill01_lower.png
+size: 878,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Effect/huan_1
+  rotate: false
+  xy: 344, 386
+  size: 194, 188
+  orig: 256, 256
+  offset: 42, 36
+  index: -1
+images/Effect/shuihuan1xia_01
+  rotate: false
+  xy: 669, 43
+  size: 121, 112
+  orig: 256, 256
+  offset: 59, 67
+  index: -1
+images/Effect/shuihuan1xia_02
+  rotate: false
+  xy: 356, 247
+  size: 162, 137
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+images/Effect/shuihuan1xia_03
+  rotate: true
+  xy: 540, 391
+  size: 183, 153
+  orig: 256, 256
+  offset: 50, 50
+  index: -1
+images/Effect/shuihuan1xia_04
+  rotate: true
+  xy: 695, 393
+  size: 181, 148
+  orig: 256, 256
+  offset: 56, 51
+  index: -1
+images/Effect/shuihuan1xia_05
+  rotate: false
+  xy: 695, 245
+  size: 181, 146
+  orig: 256, 256
+  offset: 61, 51
+  index: -1
+images/Effect/shuihuan1xia_06
+  rotate: false
+  xy: 2, 265
+  size: 181, 147
+  orig: 256, 256
+  offset: 62, 49
+  index: -1
+images/Effect/shuihuan1xia_07
+  rotate: false
+  xy: 185, 244
+  size: 169, 140
+  orig: 256, 256
+  offset: 74, 52
+  index: -1
+images/Effect/shuihuan1xia_08
+  rotate: false
+  xy: 520, 133
+  size: 147, 123
+  orig: 256, 256
+  offset: 82, 59
+  index: -1
+images/Effect/shuihuan1xia_09
+  rotate: false
+  xy: 356, 128
+  size: 131, 117
+  orig: 256, 256
+  offset: 93, 60
+  index: -1
+images/Effect/shuihuan1xia_10
+  rotate: false
+  xy: 489, 37
+  size: 110, 94
+  orig: 256, 256
+  offset: 103, 70
+  index: -1
+images/Effect/shuihuan1xia_11
+  rotate: true
+  xy: 792, 52
+  size: 103, 82
+  orig: 256, 256
+  offset: 102, 76
+  index: -1
+images/Effect/shuihuan1xia_12
+  rotate: false
+  xy: 295, 13
+  size: 92, 56
+  orig: 256, 256
+  offset: 103, 88
+  index: -1
+images/Effect/shuihuan1xia_13
+  rotate: false
+  xy: 2, 58
+  size: 98, 66
+  orig: 256, 256
+  offset: 97, 86
+  index: -1
+images/Effect/shuihuan1xia_14
+  rotate: false
+  xy: 2, 17
+  size: 92, 39
+  orig: 256, 256
+  offset: 102, 89
+  index: -1
+images/Effect/shuihuan1xia_15
+  rotate: false
+  xy: 96, 12
+  size: 86, 39
+  orig: 256, 256
+  offset: 108, 89
+  index: -1
+images/Effect/shuihuan3
+  rotate: false
+  xy: 2, 414
+  size: 340, 160
+  orig: 512, 256
+  offset: 87, 47
+  index: -1
+images/Effect/shuitiao_01
+  rotate: false
+  xy: 389, 22
+  size: 92, 47
+  orig: 256, 256
+  offset: 141, 165
+  index: -1
+images/Effect/shuitiao_02
+  rotate: false
+  xy: 389, 22
+  size: 92, 47
+  orig: 256, 256
+  offset: 141, 165
+  index: -1
+images/Effect/shuitiao_03
+  rotate: false
+  xy: 669, 157
+  size: 174, 86
+  orig: 256, 256
+  offset: 52, 130
+  index: -1
+images/Effect/shuitiao_04
+  rotate: false
+  xy: 520, 258
+  size: 163, 126
+  orig: 256, 256
+  offset: 42, 86
+  index: -1
+images/Effect/shuitiao_05
+  rotate: false
+  xy: 2, 126
+  size: 145, 137
+  orig: 256, 256
+  offset: 44, 75
+  index: -1
+images/Effect/shuitiao_06
+  rotate: true
+  xy: 149, 141
+  size: 101, 148
+  orig: 256, 256
+  offset: 47, 62
+  index: -1
+images/Effect/shuitiao_07
+  rotate: true
+  xy: 149, 141
+  size: 101, 148
+  orig: 256, 256
+  offset: 47, 62
+  index: -1
+images/Effect/shuitiao_08
+  rotate: true
+  xy: 149, 53
+  size: 86, 144
+  orig: 256, 256
+  offset: 44, 56
+  index: -1
+images/Effect/shuitiao_09
+  rotate: true
+  xy: 295, 71
+  size: 55, 136
+  orig: 256, 256
+  offset: 44, 49
+  index: -1
+images/Effect/shuitiao_10
+  rotate: false
+  xy: 601, 34
+  size: 63, 97
+  orig: 256, 256
+  offset: 47, 47
+  index: -1
+images/Effect/shuitiao_11
+  rotate: false
+  xy: 184, 2
+  size: 60, 49
+  orig: 256, 256
+  offset: 57, 48
+  index: -1
+images/Effect/shuitiao_12
+  rotate: false
+  xy: 184, 2
+  size: 60, 49
+  orig: 256, 256
+  offset: 57, 48
+  index: -1

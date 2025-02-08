@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="315,68" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n83_ac45" name="bg" src="ac4547" fileName="img/sd_A_common_wxz_tab.png" xy="0,0"/>
+    <image id="n81_ac45" name="bgChose" src="ac4546" fileName="img/sd_A_common_xz_tab.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <text id="n82_ac45" name="title" xy="36,16" pivot="0.5,0.5" size="243,36" fontSize="26" color="#ffffff" align="center" autoSize="none" strokeColor="#162241" strokeSize="3" text="我方联盟"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

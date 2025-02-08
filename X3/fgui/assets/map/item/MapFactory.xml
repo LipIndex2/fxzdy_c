@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <controller name="state" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="无人占领"/>
+    <remark page="1" value="我方占领"/>
+    <remark page="2" value="敌方占领"/>
+    <remark page="3" value="我占领"/>
+  </controller>
+  <displayList>
+    <loader id="n8_8g0d" name="bgLv" xy="0,0" pivot="0.5,0.5" anchor="true" size="30,31" url="ui://ojwi06ia8g0dvw7" align="center" vAlign="middle" autoSize="true">
+      <gearIcon controller="state" pages="0,1,2,3" values="ui://ojwi06ia8g0dvw4|ui://ojwi06ia8g0dvw5|ui://ojwi06ia8g0dvw6|ui://ojwi06ia8g0dvw7"/>
+    </loader>
+    <text id="n9_8g0d" name="lbLv" xy="0,-1" pivot="0.5,0.5" anchor="true" size="10,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" text=""/>
+    <image id="n10_8g0d" name="bgName" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="0,36" pivot="0.5,0.5" anchor="true" size="149,26" group="n12_8g0d"/>
+    <text id="n11_8g0d" name="lbName" xy="1,36" pivot="0.5,0.5" anchor="true" size="10,26" group="n12_8g0d" fontSize="18" color="#1de756" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="">
+      <gearColor controller="state" pages="1,3" values="#2eaeff,#000000|#1de756,#000000" default="#f65a5c,#000000"/>
+    </text>
+    <group id="n12_8g0d" name="gOccupy" xy="-74,23" size="149,26" advanced="true">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </group>
+  </displayList>
+</component>

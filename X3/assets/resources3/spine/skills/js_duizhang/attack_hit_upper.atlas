@@ -1,0 +1,55 @@
+
+attack_hit_upper.png
+size: 572,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack_hit_0
+  rotate: false
+  xy: 446, 23
+  size: 64, 66
+  orig: 110, 90
+  offset: 20, 12
+  index: -1
+images/effect/attack_hit_1
+  rotate: true
+  xy: 510, 18
+  size: 71, 59
+  orig: 110, 90
+  offset: 14, 17
+  index: -1
+images/effect/attack_hit_2
+  rotate: 180
+  xy: 281, 14
+  size: 92, 76
+  orig: 110, 90
+  offset: 2, 8
+  index: -1
+images/effect/attack_hit_3
+  rotate: false
+  xy: 185, 10
+  size: 97, 79
+  orig: 110, 90
+  offset: 0, 7
+  index: -1
+images/effect/attack_hit_4
+  rotate: 180
+  xy: 98, 10
+  size: 97, 80
+  orig: 110, 90
+  offset: 0, 6
+  index: -1
+images/effect/attack_hit_6
+  rotate: false
+  xy: 2, 3
+  size: 99, 86
+  orig: 110, 90
+  offset: 0, 2
+  index: -1
+images/effect/attack_hit_8
+  rotate: 270
+  xy: 369, 4
+  size: 84, 77
+  orig: 110, 90
+  offset: 14, 7
+  index: -1

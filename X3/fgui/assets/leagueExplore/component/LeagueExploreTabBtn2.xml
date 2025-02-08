@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="314,68" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_cjsd" name="n0" src="eowx7m" fileName="bgImage/wxz_tab.png" pkg="38fa8c75" xy="0,0" size="314,68">
+      <gearDisplay controller="button" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_cjsd" name="n1" src="eowx7o" fileName="bgImage/xz_tab.png" pkg="38fa8c75" xy="0,0" size="314,68">
+      <gearDisplay controller="button" pages="1,3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_cjsd" name="title" xy="156,34" pivot="0.5,0.5" anchor="true" size="107,36" fontSize="26" color="#aac0eb" align="center" vAlign="middle" strokeColor="#162241" strokeSize="3" text="游戏好友">
+      <gearColor controller="button" pages="1,3" values="#ffffff,#162241|#ffffff,#162241" default="#aac0eb,#162241"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n4_oc78" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="140,10"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="69,88" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n7_q5rm" name="icon" xy="0,0" size="69,88" url="ui://yx9tq9scqumz8" fill="scaleFree" autoSize="true"/>
+    <text id="n6_k5m5" name="title" xy="34,44" pivot="0.5,0.5" anchor="true" size="10,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+  <relation target="n7_q5rm" sidePair="width-width,height-height"/>
+</component>

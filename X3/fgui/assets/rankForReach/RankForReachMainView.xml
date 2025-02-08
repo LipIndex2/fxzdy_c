@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageAlpha="57">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n0_1a16" name="n0" src="ksmg1" fileName="img/tgcb_bg.jpg" xy="0,0" group="n64_uazn"/>
+    <image id="n65_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,89" pivot="0.5,1" anchor="true" size="750,250" group="n64_uazn" color="#464e63">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n1_1a16" name="n1" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,629" size="750,726" group="n64_uazn">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n2_1a16" name="n2" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,739" size="732,304" group="n64_uazn">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n70_s8ul" name="n70" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,739" size="732,441" group="n64_uazn">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n30_1a16" name="n30" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="22,167" size="264,37" group="n64_uazn" alpha="0.25"/>
+    <text id="n31_1a16" name="endTimeTxt" xy="32,172" pivot="0,0.5" size="111,29" group="n64_uazn" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <image id="n67_k045" name="n67" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="22,208" size="264,37" group="n71_s8ul" alpha="0.25"/>
+    <text id="n68_k045" name="endTimeTxt2" xy="32,213" pivot="0,0.5" size="151,29" group="n71_s8ul" fontSize="20" color="#ffffff" vAlign="middle" text="本轮活动倒计时:"/>
+    <group id="n71_s8ul" name="gp_time2" xy="22,208" size="264,37" group="n64_uazn" advanced="true"/>
+    <text id="n33_1a16" name="T_title" xy="19,58" pivot="0,0.5" size="194,64" group="n64_uazn" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="推关冲榜"/>
+    <text id="n35_1a16" name="T_desc" xy="69,118" pivot="0,0.5" size="374,46" group="n64_uazn" fontSize="34" color="#ffec6c" vAlign="middle" strokeColor="#000000" strokeSize="4" text="推挂机关卡，赢丰厚奖励"/>
+    <component id="n52_uazn" name="top2" src="ksmg2" fileName="com/RankTop3Comp.xml" xy="21,247" group="n64_uazn" controller="top3,2,havePersonFlag,1"/>
+    <component id="n53_uazn" name="top1" src="ksmg2" fileName="com/RankTop3Comp.xml" xy="267,191" group="n64_uazn" controller="top3,1,havePersonFlag,1"/>
+    <component id="n54_uazn" name="top3" src="ksmg2" fileName="com/RankTop3Comp.xml" xy="510,247" group="n64_uazn" controller="top3,3,havePersonFlag,1"/>
+    <list id="n55_uazn" name="tabList" xy="19,666" size="712,60" group="n64_uazn" pageController="c1" layout="row" colGap="40" defaultItem="ui://bxsu8l61ksmg3" selectionController="c1">
+      <item title="榜单"/>
+      <item title="奖励"/>
+    </list>
+    <list id="n59_uazn" name="rewardList" xy="9,749" size="716,409" group="n64_uazn" overflow="scroll" defaultItem="ui://bxsu8l61ksmg6" autoClearItems="true">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n57_uazn" name="rankList" xy="9,759" size="715,255" group="n64_uazn" overflow="scroll" lineGap="10" defaultItem="ui://bxsu8l61ksmga" autoClearItems="true">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n34_1a16" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,76" group="n64_uazn"/>
+    <component id="n66_s0hy" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="526,79" group="n64_uazn"/>
+    <group id="n64_uazn" name="n64" xy="0,-161" size="750,1516" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n56_uazn" name="myRankCom" src="ksmga" fileName="com/rushRankRankCell.xml" xy="8,1048" group="n61_uazn" controller="state,8"/>
+    <image id="n22_1a16" name="n22" src="ksmge" fileName="img/sd_A_common_wdpm_frame.png" xy="0,1022" group="n61_uazn"/>
+    <text id="n23_1a16" name="myRankTxt" xy="36,1031" size="91,32" group="n61_uazn" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="我的奖励">
+      <gearText controller="c1" pages="1" values="我的奖励" default="我的排名"/>
+    </text>
+    <group id="n61_uazn" name="n61" xy="0,1022" size="738,175" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

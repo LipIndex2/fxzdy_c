@@ -1,0 +1,48 @@
+
+skill02_loop1_upper.png
+size: 266,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_chuxian_00000
+  rotate: false
+  xy: 90, 29
+  size: 82, 32
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+effect/skill02_chuxian_00001
+  rotate: false
+  xy: 2, 11
+  size: 86, 50
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+effect/skill02_chuxian_00002
+  rotate: false
+  xy: 178, 2
+  size: 86, 60
+  orig: 100, 100
+  offset: 7, 8
+  index: -1
+effect/skill02_chuxian_00003
+  rotate: false
+  xy: 2, 63
+  size: 86, 65
+  orig: 100, 100
+  offset: 7, 12
+  index: -1
+effect/skill02_chuxian_00004
+  rotate: false
+  xy: 90, 63
+  size: 86, 65
+  orig: 100, 100
+  offset: 7, 19
+  index: -1
+effect/skill02_chuxian_00005
+  rotate: false
+  xy: 178, 64
+  size: 86, 64
+  orig: 100, 100
+  offset: 7, 23
+  index: -1

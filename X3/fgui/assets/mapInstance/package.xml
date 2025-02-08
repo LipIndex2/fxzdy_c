@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="895aa054">
+  <resources>
+    <image id="e4e53" name="zu4kaobei.png" path="/img/"/>
+    <component id="e4e55" name="BossArriveView.xml" path="/view/"/>
+    <component id="qzov6" name="MapInstanceView.xml" path="/view/"/>
+    <image id="qzov8" name="beijing.png" path="/img/"/>
+    <image id="qzov9" name="tuceng5kaobei.png" path="/img/"/>
+    <image id="qzovd" name="bt_frame.png" path="/img/"/>
+    <component id="alpbo" name="BattleWinResultWin.xml" path="/view/"/>
+    <component id="alpbp" name="AwardItem.xml" path="/item/"/>
+    <image id="v891q" name="ditu.png" path="/img/"/>
+    <image id="v891r" name="duobianxing798.png" path="/img/"/>
+    <image id="v891s" name="mj4_blood.png" path="/img/"/>
+    <image id="v891t" name="shalou.png" path="/img/"/>
+    <image id="v891u" name="xiaoguaiwutouxiang.png" path="/img/"/>
+    <image id="bezov" name="mj_xdt 1.png" path="/img/"/>
+    <component id="bezow" name="miniMapItem.xml" path="/item/"/>
+    <image id="bezox" name="mj_xdt 3.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

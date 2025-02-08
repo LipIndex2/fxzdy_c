@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5ae153ad">
+  <resources>
+    <image id="07340" name="beijing.jpg" path="/img/"/>
+    <image id="073412" name="xinxi_di.png" path="/img/"/>
+    <image id="073418" name="sd_A_common_boss_tag.png" path="/img/"/>
+    <image id="073420" name="bantou_di.png" path="/img/" scale="9grid" scale9grid="29,28,58,56"/>
+    <image id="073423" name="scale_60%_sd_A_common_jineng2_frame.png" path="/img/"/>
+    <image id="073424" name="tuceng570.png" path="/img/"/>
+    <image id="073431" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="073442" name="1_8.png" path="/img/"/>
+    <image id="073456" name="getiao_1.png" path="/img/"/>
+    <image id="073458" name="shanghaidi.png" path="/img/" scale="9grid" scale9grid="38,5,11,10"/>
+    <image id="073459" name="sd_A_common_xjl_word_0.png" path="/img/"/>
+    <image id="073461" name="sd_A_common_word_tag.png" path="/img/"/>
+    <component id="073437" name="SeasonBossView.xml" path="/"/>
+    <component id="v5mw64" name="SeasonBossChallengeBtn.xml" path="/btn/"/>
+    <component id="v5mw65" name="SeasonBossSkillItem.xml" path="/com/"/>
+    <component id="v5mw66" name="SeasonBossRewardView.xml" path="/"/>
+    <component id="v5mw67" name="SeasonBossRewardItem.xml" path="/com/"/>
+    <component id="u8y269" name="SeasonBossResultView.xml" path="/"/>
+    <component id="v5mw68" name="SeasonBossProCom.xml" path="/com/"/>
+    <component id="hz6e6b" name="SeasonBossAttacker.xml" path="/com/"/>
+    <image id="hz6e6d" name="scale_40%_beimian.png" path="/img/"/>
+    <image id="oyze6e" name="di4.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="331,93" pivot="0,0.5" anchor="true" extention="Button">
+  <controller name="taskState" pages="0,NOT_FINISH,1,FINISH" selected="0"/>
+  <displayList>
+    <loader id="n5_dbe9" name="bgTaskDone" xy="0,53" pivot="0,0.5" anchor="true" size="253,106" group="n10_gtyg" url="ui://6b9eb171gtyg3j">
+      <gearDisplay controller="taskState" pages="1"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </loader>
+    <text id="n8_dbe9" name="labelRewardTitle" xy="93,36" size="100,34" group="n10_gtyg" fontSize="24" color="#fff5a0" strokeColor="#693213" strokeSize="3" singleLine="true" text="获得奖励">
+      <gearDisplay controller="taskState" pages="1"/>
+    </text>
+    <text id="n12_gtyg" name="doneSpineRoot" xy="0,0" pivot="0.5,0.5" size="253,106" group="n10_gtyg" fontSize="24" autoSize="none" text="">
+      <gearDisplay controller="taskState" pages="1"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </text>
+    <loader id="n6_dbe9" name="imageReward" xy="49,50" pivot="0.5,0.5" anchor="true" size="64,64" group="n10_gtyg" url="ui://6b9eb171dbe93" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true" clearOnPublish="true">
+      <gearDisplay controller="taskState" pages="1"/>
+    </loader>
+    <text id="n7_dbe9" name="labelRewardCount" xy="34,57" pivot="0.5,0.5" size="28,29" group="n10_gtyg" fontSize="20" color="#fefefe" align="center" strokeColor="#000000" strokeSize="3" singleLine="true" text="10">
+      <gearDisplay controller="taskState" pages="1"/>
+    </text>
+    <group id="n10_gtyg" name="done" xy="0,0" size="253,106"/>
+    <loader id="n0_dbe9" name="bgTaskDoing" xy="0,52" pivot="0,0.5" anchor="true" size="253,105" group="n11_gtyg" url="ui://6b9eb171gtyg3i" fill="scaleFree">
+      <gearDisplay controller="taskState" pages="0"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </loader>
+    <loader id="n1_dbe9" name="imageTaskTarget" xy="49,50" pivot="0.5,0.5" anchor="true" size="64,64" group="n11_gtyg" url="ui://6b9eb171dbe91" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true" clearOnPublish="true">
+      <gearDisplay controller="taskState" pages="0"/>
+    </loader>
+    <text id="n4_dbe9" name="labelTaskProgress" xy="50,73" pivot="0.5,0.5" anchor="true" size="67,29" group="n11_gtyg" visible="false" fontSize="20" color="#fffefe" align="center" vAlign="middle" vars="true" autoSize="shrink" strokeColor="#010918" strokeSize="3" singleLine="true" text="{currentCount=0}/{maxCount=0}"/>
+    <text id="n2_dbe9" name="labelTaskTitle" xy="93,16" size="148,73" group="n11_gtyg" fontSize="20" color="#fffefe" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#022663" strokeSize="3" autoClearText="true" text="击杀超级BOSS 大法师">
+      <gearDisplay controller="taskState" pages="0"/>
+    </text>
+    <group id="n11_gtyg" name="doing" xy="0,0" size="253,105"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+  <transition name="appearAnim">
+    <item time="0" type="Alpha" target="n0_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n1_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n2_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n4_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n5_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n6_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n7_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n8_dbe9" tween="true" startValue="0" endValue="1" duration="12"/>
+  </transition>
+</component>

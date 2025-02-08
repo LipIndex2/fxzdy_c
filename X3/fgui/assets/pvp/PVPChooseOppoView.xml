@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1koqeb5k">
+  <displayList>
+    <image id="n173_b6a2" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,226" size="643,867" group="n190_oqeb"/>
+    <image id="n174_b6a2" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,313" size="596,763" group="n190_oqeb"/>
+    <text id="n175_b6a2" name="labelTitle" xy="309,250" size="131,44" group="n190_oqeb" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="选择对手"/>
+    <component id="n177_b6a2" name="btnRefresh" src="gkgv15s" fileName="btn/PVPRefreshOppoBtn.xml" xy="501,345" group="n190_oqeb"/>
+    <text id="n179_b6a2" name="labelMyPowerNum" xy="89,359" size="336,36" group="n190_oqeb" fontSize="26" color="#ffe57c" vars="true" autoSize="none" strokeColor="#000201" strokeSize="2" singleLine="true" text="我的战力：{value=56800}"/>
+    <list id="n191_gkgv" name="oppoList" xy="81,426" size="577,632" group="n190_oqeb" overflow="scroll" defaultItem="ui://7b03f641gkgv15p" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n190_oqeb" name="n190" xy="54,226" size="643,867" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

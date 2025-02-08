@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n54_kvs3" name="page" src="qlkj68" fileName="leagueBoxPage.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height,top-top"/>
+    </component>
+    <component id="n14_583b" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215" group="n55_kvs3"/>
+    <component id="n53_kvs3" name="giftListBtn" src="qlkj67" fileName="btn/leagueBoxPageTab.xml" xy="650,1247" group="n55_kvs3"/>
+    <group id="n55_kvs3" name="n55" xy="0,1215" size="750,119" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <text id="n56_qhev" name="lbTip" xy="374,419" pivot="0.5,0.5" anchor="true" size="563,29" fontSize="20" color="#a1bcff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="联盟宝箱每周一0:00结算，每位成员均可领取当前等级宝箱奖励"/>
+  </displayList>
+</component>

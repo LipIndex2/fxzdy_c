@@ -1,0 +1,55 @@
+
+skill02_upper.png
+size: 186,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_shifa1
+  rotate: false
+  xy: 110, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+effect/skill02_shifa2_00000
+  rotate: true
+  xy: 120, 34
+  size: 54, 64
+  orig: 100, 100
+  offset: 28, 20
+  index: -1
+effect/skill02_shifa2_00001
+  rotate: false
+  xy: 58, 80
+  size: 60, 81
+  orig: 100, 100
+  offset: 17, 14
+  index: -1
+effect/skill02_shifa2_00002
+  rotate: false
+  xy: 2, 71
+  size: 54, 90
+  orig: 100, 100
+  offset: 16, 6
+  index: -1
+effect/skill02_shifa2_00003
+  rotate: false
+  xy: 120, 90
+  size: 63, 71
+  orig: 100, 100
+  offset: 14, 14
+  index: -1
+effect/skill02_shifa2_00004
+  rotate: true
+  xy: 58, 30
+  size: 48, 50
+  orig: 100, 100
+  offset: 27, 23
+  index: -1
+effect/skill02_shifa2_00005
+  rotate: true
+  xy: 2, 26
+  size: 43, 50
+  orig: 100, 100
+  offset: 32, 25
+  index: -1

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,66">
+  <controller name="isLeft" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n40_ac40" name="bg" src="ac4027" fileName="img/sd_A_common_qipao2_frame.png" xy="0,4" pivot="0.5,0.5" size="138,60" scale="-1,1" skew="0,1" flip="vt">
+      <gearSize controller="isLeft" pages="0,1" values="138,60,1,1|138,60,-1,1"/>
+    </image>
+    <loader id="n43_tl0c" name="imageItem" xy="46,12" size="38,41" group="n44_116zs" url="ui://f57ea91dac402">
+      <gearXY controller="isLeft" pages="0,1" values="21,12|46,12"/>
+    </loader>
+    <text id="n42_ac40" name="labelItemCount" xy="62,24" pivot="0.5,0" size="58,32" group="n44_116zs" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" text="x521">
+      <gearXY controller="isLeft" pages="0,1" values="42,26|62,24"/>
+    </text>
+    <group id="n44_116zs" name="G_c" xy="46,12" size="74,44" advanced="true"/>
+  </displayList>
+</component>

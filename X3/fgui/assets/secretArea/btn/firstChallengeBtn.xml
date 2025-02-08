@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="406,122" pivot="0.5,0.5" extention="Button" designImage="ui://7q3fcj1ktiub156" designImageOffsetX="-173" designImageOffsetY="-1123">
+  <controller name="canPayFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <displayList>
+    <image id="n8_dtss" name="icon" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="2,0" pivot="0.5,0.5" size="399,119">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_dtss" name="title" xy="12,46" pivot="0.5,0.5" size="382,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="进入秘境">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n10_tiub" name="n10" xy="13,6" pivot="0.5,0.5" size="380,36" fontSize="26" color="#d16c00" align="center" vAlign="middle" autoSize="none" text="本次挑战不消耗门票"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

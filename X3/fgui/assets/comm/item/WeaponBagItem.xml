@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,150">
+  <displayList>
+    <component id="n25_abqc" name="baseItem" src="abqcvvv1ek" fileName="item/WeaponBaseItem.xml" xy="10,12" group="n30_dbz0"/>
+    <image id="n26_cjsd" name="iconUser" src="cjsda0" fileName="bgImage/zp_tag.png" xy="18,132" pivot="0.5,0.5" anchor="true" group="n29_cjsd">
+      <relation target="n27_cjsd" sidePair="right-left"/>
+    </image>
+    <text id="n27_cjsd" name="lbUser" xy="76,132" pivot="0.5,0.5" anchor="true" size="87,30" group="n29_cjsd" fontSize="21" color="#ffffff" align="center" vAlign="middle" strokeColor="#042169" strokeSize="3" text="深海歌姬"/>
+    <group id="n29_cjsd" name="n29" xy="4,117" size="115,30" group="n30_dbz0"/>
+    <group id="n30_dbz0" name="n30" xy="4,12" size="115,135"/>
+  </displayList>
+</component>

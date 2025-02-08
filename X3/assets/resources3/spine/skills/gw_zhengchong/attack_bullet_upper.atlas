@@ -1,0 +1,48 @@
+
+attack_bullet_upper.png
+size: 52,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/zhenchong2_00000
+  rotate: false
+  xy: 2, 32
+  size: 48, 29
+  orig: 60, 46
+  offset: 6, 5
+  index: -1
+images/effect/zhenchong2_00003
+  rotate: false
+  xy: 2, 32
+  size: 48, 29
+  orig: 60, 46
+  offset: 6, 5
+  index: -1
+images/effect/zhenchong2_00001
+  rotate: false
+  xy: 2, 63
+  size: 48, 31
+  orig: 60, 46
+  offset: 6, 7
+  index: -1
+images/effect/zhenchong2_00004
+  rotate: false
+  xy: 2, 63
+  size: 48, 31
+  orig: 60, 46
+  offset: 6, 7
+  index: -1
+images/effect/zhenchong2_00005
+  rotate: false
+  xy: 2, 2
+  size: 48, 28
+  orig: 60, 46
+  offset: 6, 10
+  index: -1
+images/effect/zhenchong2_00002
+  rotate: false
+  xy: 2, 2
+  size: 48, 28
+  orig: 60, 46
+  offset: 6, 10
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <controller name="isChoose" exported="true" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n0_buys" name="n0" src="91d65" fileName="img/xingzhuang1.png" xy="18,25" pivot="0.5,0.5" size="55,55">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n1_nl4g" name="n1" src="91d64" fileName="img/xuanzhong.png" xy="-3,1" pivot="0.5,0.5" size="103,100">
+      <gearDisplay controller="isChoose" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

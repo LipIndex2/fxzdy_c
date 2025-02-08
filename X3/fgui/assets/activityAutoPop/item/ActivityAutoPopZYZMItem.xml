@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="105,105">
+  <displayList>
+    <loader id="n65_gvuz" name="bgLoader" xy="52,52" pivot="0.5,0.5" anchor="true" size="80,80" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n62_gvuz" name="iconItem" src="gvuzg" fileName="item/ActivityAutoPopZYZMIconItem.xml" xy="52,52" pivot="0.5,0.5" anchor="true" size="70,70">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n59_gvuz" name="n59" src="gvuz9" fileName="img/hdtc_zyzm5.png" xy="52,52" pivot="0.5,0.5" anchor="true" size="105,105" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+</component>

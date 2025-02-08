@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="258,59">
+  <controller name="c1" pages="0,收起,1,打开" selected="0"/>
+  <displayList>
+    <image id="n22_773e" name="n22" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="258,59" alpha="0.54"/>
+    <image id="n23_773e" name="n23" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,63" size="258,148" alpha="0.54">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n24_773e" name="T_name" xy="17,14" size="99,34" fontSize="24" color="#ffffff" vAlign="middle" text="齿轮星球"/>
+    <list id="n32_v891" name="list_star" xy="17,67" size="230,123" overflow="scroll" lineGap="1" defaultItem="ui://e477df1cv89179">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n33_v891" name="n33" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="201,1" size="57,58">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button icon="ui://e477df1c773e22" controller="c1" page="0"/>
+    </component>
+    <component id="n34_v891" name="btn_open" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="200,1" size="57,58">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button icon="ui://e477df1c773e23" controller="c1" page="1"/>
+    </component>
+  </displayList>
+</component>

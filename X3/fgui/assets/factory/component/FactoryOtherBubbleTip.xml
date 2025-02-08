@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,64">
+  <displayList>
+    <image id="n29_t1qh" name="bg" src="tml513f" fileName="bgImage/qipao2_frame.png" pkg="38fa8c75" xy="0,0" pivot="0,1" size="314,64">
+      <relation target="n35_t1qh" sidePair="width-width,height-height"/>
+    </image>
+    <richtext id="n35_t1qh" name="lbTip" xy="37,32" pivot="0,0.5" anchor="true" size="265,32" fontSize="22" color="#0073df" vAlign="middle" text="哈哈马上就能拿走奖励辣！"/>
+  </displayList>
+</component>

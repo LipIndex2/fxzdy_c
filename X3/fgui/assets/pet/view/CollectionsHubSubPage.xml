@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_9d26" name="n0" src="xwdva1" fileName="img/bg3.png" xy="0,0" group="n70_xwdv">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n66_xwdv" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,220" group="n70_xwdv" color="#0b174a"/>
+    <image id="n68_xwdv" name="n68" src="xwdv9z" fileName="img/bg2.png" xy="0,0" size="750,1626" group="n70_xwdv">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n69_xwdv" name="n69" src="xwdva0" fileName="img/light.png" xy="499,550" group="n70_xwdv">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <group id="n70_xwdv" name="n70" xy="0,-130" size="750,1756"/>
+    <image id="n11_9d26" name="n11" src="xwdvvvv1kp" fileName="img/sd_A_common_sjkj_bt.png" xy="7,81" size="365,91" group="n52_xwdv"/>
+    <image id="n12_9d26" name="n12" src="xwdvvvv1kq" fileName="img/biaoti.png" xy="39,72" size="251,63" group="n52_xwdv"/>
+    <component id="n67_xwdv" name="infoBtn" src="xwdv9r" fileName="com/infoBtn.xml" xy="298,86" group="n52_xwdv"/>
+    <group id="n52_xwdv" name="n52" xy="7,72" size="365,100" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n64_xwdv" name="baseComp" src="xwdv9p" fileName="com/PetHubComp.xml" xy="0,760" pivot="0,1" anchor="true" size="750,500">
+      <relation target="" sidePair="width-width,top-top"/>
+    </component>
+    <image id="n63_xwdv" name="n63" src="xwdvvvv1kr" fileName="img/xingzhuang20kaobei2.png" xy="262,744" group="n65_xwdv"/>
+    <text id="n57_xwdv" name="titleLabel" xy="361,746" size="72,54" group="n65_xwdv" fontSize="40" color="#ffffff" strokeColor="#000000" autoClearText="true" text="0/0"/>
+    <group id="n65_xwdv" name="n65" xy="262,744" size="267,64" advanced="true">
+      <relation target="" sidePair="center-center,bottom-top"/>
+    </group>
+    <image id="n32_9d26" name="n32" src="xwdvvvv1ku" fileName="img/sd_A_common_liaotian_frame_1.png" xy="175,396" size="401,103" group="n50_xwdv" alpha="0.65"/>
+    <text id="n35_9d26" name="n35" xy="284,401" size="202,54" group="n50_xwdv" fontSize="40" color="#ffd368" vAlign="middle" strokeColor="#040100" strokeSize="3" text="免费时间！"/>
+    <text id="n36_9d26" name="tipCountLabel" xy="299,454" size="148,36" group="n50_xwdv" fontSize="26" color="#f0fbff" vAlign="middle" strokeColor="#040100" strokeSize="3" autoClearText="true" text="成功运输5次"/>
+    <group id="n50_xwdv" name="tipFree" xy="175,396" size="401,103" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <image id="n34_9d26" name="n34" src="xwdvvvv1kv" fileName="img/sd_A_common_liaotian_frame.png" xy="117,396" size="516,103" group="n51_xwdv" alpha="0.65"/>
+    <text id="n33_9d26" name="n33" xy="292,419" size="162,54" group="n51_xwdv" fontSize="40" color="#ffd368" vAlign="middle" strokeColor="#040100" strokeSize="3" text="招募结束"/>
+    <group id="n51_xwdv" name="tipNormal" xy="117,396" size="516,103" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <image id="n14_9d26" name="n14" src="xwdvvvv1kt" fileName="img/shiyong9gong.png" xy="53,861" size="644,207" group="n49_xwdv"/>
+    <text id="n15_9d26" name="freeTipLabel" xy="162,949" size="422,34" group="n49_xwdv" fontSize="24" color="#d6f4ff" vAlign="middle" autoClearText="true" text="成功运送6件货物后，可以免费再次运输"/>
+    <group id="n49_xwdv" name="freePopup" xy="53,861" size="644,207" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <list id="n62_xwdv" name="itemList" xy="79,846" size="592,242" layout="flow_hz" overflow="scroll" lineGap="20" colGap="18" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <relation target="" sidePair="center-center,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n61_xwdv" name="costShowBtn" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="588,82" touchable="false">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n60_xwdv" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1214">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n59_xwdv" name="costBtn" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="31,1091">
+      <relation target="" sidePair="center-center,bottom-bottom%"/>
+    </component>
+    <component id="n71_xwdv" name="costBtn2" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="416,1091">
+      <relation target="" sidePair="center-center,bottom-bottom%"/>
+    </component>
+  </displayList>
+</component>

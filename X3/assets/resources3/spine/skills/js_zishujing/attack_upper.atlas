@@ -1,0 +1,139 @@
+
+attack_upper.png
+size: 487,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_qizhao_add
+  rotate: false
+  xy: 2, 182
+  size: 125, 113
+  orig: 200, 140
+  offset: 32, 14
+  index: -1
+effect/attack_quan
+  rotate: false
+  xy: 2, 99
+  size: 153, 81
+  orig: 160, 100
+  offset: 3, 10
+  index: -1
+effect/attack_quan_0
+  rotate: false
+  xy: 129, 255
+  size: 14, 40
+  orig: 50, 180
+  offset: 19, 68
+  index: -1
+effect/attack_quan_1
+  rotate: true
+  xy: 141, 18
+  size: 29, 93
+  orig: 50, 180
+  offset: 14, 40
+  index: -1
+effect/attack_quan_2
+  rotate: true
+  xy: 2, 15
+  size: 39, 137
+  orig: 50, 180
+  offset: 9, 19
+  index: -1
+effect/attack_quan_3
+  rotate: false
+  xy: 356, 135
+  size: 43, 156
+  orig: 50, 180
+  offset: 5, 11
+  index: -1
+effect/attack_quan_4
+  rotate: false
+  xy: 311, 135
+  size: 43, 160
+  orig: 50, 180
+  offset: 4, 10
+  index: -1
+effect/attack_quan_5
+  rotate: false
+  xy: 401, 134
+  size: 41, 161
+  orig: 50, 180
+  offset: 4, 10
+  index: -1
+effect/attack_quan_6
+  rotate: true
+  xy: 311, 51
+  size: 36, 161
+  orig: 50, 180
+  offset: 6, 10
+  index: -1
+effect/attack_xian_0
+  rotate: false
+  xy: 157, 90
+  size: 28, 23
+  orig: 200, 60
+  offset: 167, 9
+  index: -1
+effect/attack_xian_1
+  rotate: false
+  xy: 412, 2
+  size: 69, 47
+  orig: 200, 60
+  offset: 130, 4
+  index: -1
+effect/attack_xian_2
+  rotate: true
+  xy: 157, 115
+  size: 180, 50
+  orig: 200, 60
+  offset: 17, 4
+  index: -1
+effect/attack_xian_3
+  rotate: true
+  xy: 209, 138
+  size: 157, 50
+  orig: 200, 60
+  offset: 14, 5
+  index: -1
+effect/attack_xian_4
+  rotate: true
+  xy: 261, 140
+  size: 155, 48
+  orig: 200, 60
+  offset: 13, 6
+  index: -1
+effect/attack_xian_5
+  rotate: false
+  xy: 209, 89
+  size: 155, 44
+  orig: 200, 60
+  offset: 10, 9
+  index: -1
+effect/attack_xian_6
+  rotate: true
+  xy: 444, 142
+  size: 153, 41
+  orig: 200, 60
+  offset: 10, 10
+  index: -1
+effect/attack_xian_7
+  rotate: false
+  xy: 2, 56
+  size: 152, 41
+  orig: 200, 60
+  offset: 10, 10
+  index: -1
+effect/attack_xian_8
+  rotate: false
+  xy: 156, 49
+  size: 153, 38
+  orig: 200, 60
+  offset: 9, 12
+  index: -1
+effect/attack_xian_9
+  rotate: false
+  xy: 311, 12
+  size: 99, 37
+  orig: 200, 60
+  offset: 10, 12
+  index: -1

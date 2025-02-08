@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="346,159" pivot="0.5,0.5" extention="Button">
+  <controller name="lock" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n17_h90v" name="n17" src="894b18" fileName="leagueMain/img/hui.png" xy="0,0">
+      <gearDisplay controller="lock" pages="1"/>
+    </image>
+    <image id="n12_894b" name="n12" src="894b17" fileName="leagueMain/img/lan.png" xy="0,0">
+      <gearDisplay controller="lock" pages="0"/>
+    </image>
+    <text id="n14_894b" name="title" xy="163,38" size="131,44" fontSize="32" color="#ffffff" strokeColor="#000000" strokeSize="3" text="星际争霸"/>
+    <text id="n18_h90v" name="lbUnlock" xy="164,98" size="63,29" fontSize="20" color="#ddebff" strokeColor="#000000" strokeSize="2" text="未解锁">
+      <gearDisplay controller="lock" pages="1"/>
+    </text>
+    <richtext id="n19_h90v" name="labelTips" xy="163,96" size="172,29" group="n21_h90v" fontSize="20" color="#ffffff" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="准备中: [color=#00ff00]00:00:00[/color]"/>
+    <group id="n21_h90v" name="gTip" xy="163,96" size="172,29" advanced="true">
+      <gearDisplay controller="lock" pages="0"/>
+    </group>
+    <loader id="n23_qr2a" name="imageLogo" xy="73,68" pivot="0.5,0.5" anchor="true" size="180,180" url="ui://6be81224gtlw123" align="center" vAlign="middle" fill="scale"/>
+    <component id="n24_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="330,36" controller="type,12"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

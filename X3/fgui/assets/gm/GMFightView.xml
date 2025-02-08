@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,800">
+  <displayList>
+    <component id="n48_dclx" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="414,732" size="202,60" group="n44_dclx"/>
+    <text id="n422_ee3z" name="n422" xy="97,16" size="65,29" group="n44_dclx" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="英雄ID">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n423_ee3z" name="n423" xy="212,16" size="71,29" group="n44_dclx" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="怪物ID">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <text id="n425_ee3z" name="n425" xy="380,16" size="142,29" group="n44_dclx" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="屏蔽技能ID&#xA;">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <component id="n468_ee3z" name="item1_1" src="ee3zw2" fileName="GMFightItem.xml" xy="16,54" group="n474_ee3z"/>
+    <component id="n469_ee3z" name="item1_2" src="ee3zw2" fileName="GMFightItem.xml" xy="16,109" group="n474_ee3z"/>
+    <component id="n470_ee3z" name="item1_3" src="ee3zw2" fileName="GMFightItem.xml" xy="16,164" group="n474_ee3z"/>
+    <component id="n471_ee3z" name="item1_4" src="ee3zw2" fileName="GMFightItem.xml" xy="16,219" group="n474_ee3z"/>
+    <component id="n472_ee3z" name="item1_5" src="ee3zw2" fileName="GMFightItem.xml" xy="16,274" group="n474_ee3z"/>
+    <component id="n473_ee3z" name="item1_6" src="ee3zw2" fileName="GMFightItem.xml" xy="16,329" group="n474_ee3z"/>
+    <group id="n474_ee3z" name="n474" xy="16,54" size="595,325" group="n44_dclx"/>
+    <component id="n475_ee3z" name="item2_1" src="ee3zw2" fileName="GMFightItem.xml" xy="16,400" group="n481_ee3z"/>
+    <component id="n476_ee3z" name="item2_2" src="ee3zw2" fileName="GMFightItem.xml" xy="16,455" group="n481_ee3z"/>
+    <component id="n477_ee3z" name="item2_3" src="ee3zw2" fileName="GMFightItem.xml" xy="16,510" group="n481_ee3z"/>
+    <component id="n478_ee3z" name="item2_4" src="ee3zw2" fileName="GMFightItem.xml" xy="16,565" group="n481_ee3z"/>
+    <component id="n479_ee3z" name="item2_5" src="ee3zw2" fileName="GMFightItem.xml" xy="16,620" group="n481_ee3z"/>
+    <component id="n480_ee3z" name="item2_6" src="ee3zw2" fileName="GMFightItem.xml" xy="16,675" group="n481_ee3z"/>
+    <group id="n481_ee3z" name="n481" xy="16,400" size="595,325" group="n44_dclx"/>
+    <image id="n483_ee3z" name="n483" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="18,739" size="284,50" group="n485_ee3z"/>
+    <text id="n484_ee3z" name="jsonInput" xy="42,748" size="246,36" group="n485_ee3z" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <group id="n485_ee3z" name="n485" xy="18,739" size="284,50" group="n44_dclx"/>
+    <component id="n486_ee3z" name="copyBtn" src="b1chc" fileName="common/BtnGm.xml" xy="314,732" size="90,60" group="n44_dclx"/>
+    <group id="n44_dclx" name="heroAttr" xy="16,16" size="600,776" advanced="true"/>
+  </displayList>
+</component>

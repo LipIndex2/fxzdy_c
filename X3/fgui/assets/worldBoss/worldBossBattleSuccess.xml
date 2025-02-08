@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n22_e1fv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,582" pivot="0.5,1" anchor="true" size="880,742" group="n23_e1fv"/>
+    <image id="n2_d6aa" name="n2" src="d6aa104" fileName="img/sd_A_common_tisp_frame.png" xy="97,789" group="n24_e1fv"/>
+    <image id="n3_d6aa" name="n3" src="d6aa105" fileName="img/scale_80%_sd_A_common_biaoti1_msg.png" xy="203,727" group="n24_e1fv"/>
+    <text id="n4_d6aa" name="n4" xy="240,737" size="158,36" group="n24_e1fv" fontSize="26" color="#8bb4e7" text="获得并开启了"/>
+    <image id="n5_d6aa" name="n5" src="d6aa106" fileName="img/tubiao_1.png" xy="404,734" group="n24_e1fv"/>
+    <text id="n10_d6aa" name="n10" xy="301,555" size="123,42" group="n24_e1fv" fontSize="30" color="#ffffff" text="数据统计"/>
+    <text id="n11_d6aa" name="n11" xy="148,670" size="147,34" group="n24_e1fv" fontSize="24" color="#88c8ff" text="本轮造成伤害"/>
+    <text id="n12_d6aa" name="totalDamage" xy="222,645" pivot="0.5,0.5" anchor="true" size="245,66" group="n24_e1fv" fontSize="50" color="#f6d860" vAlign="bottom" text="10000000"/>
+    <text id="n13_d6aa" name="n13" xy="483,670" size="52,34" group="n24_e1fv" fontSize="24" color="#88c8ff" text="排名"/>
+    <text id="n14_d6aa" name="rank" xy="510,645" pivot="0.5,0.5" anchor="true" size="64,66" group="n24_e1fv" fontSize="50" color="#f6d860" text="72"/>
+    <image id="n15_d6aa" name="n15" src="d6aa111" fileName="img/sd_A_common_word_tag.png" xy="80,561" group="n24_e1fv"/>
+    <image id="n16_d6aa" name="newRank" src="d6aa112" fileName="img/sd_A_common_xjl_word_0.png" xy="532,611" group="n24_e1fv"/>
+    <image id="n17_d6aa" name="newDamage" src="d6aa112" fileName="img/sd_A_common_xjl_word_0.png" xy="275,607" group="n24_e1fv"/>
+    <text id="n20_uug0" name="boxNum" xy="452,737" size="52,36" group="n24_e1fv" fontSize="26" color="#8bb4e7" text="x10"/>
+    <list id="n21_uug0" name="rewards" xy="142,818" size="468,104" group="n24_e1fv" layout="row" overflow="scroll" scroll="horizontal" colGap="8" defaultItem="ui://38fa8c75dtss4j">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n24_e1fv" name="n24" xy="80,555" size="575,393" group="n23_e1fv" advanced="true"/>
+    <component id="n18_d6aa" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="586,1141" size="70,70" group="n25_e1fv"/>
+    <text id="n19_d6aa" name="n19" xy="302,1155" size="143,29" group="n25_e1fv" fontSize="20" color="#fffefe" text="点击空白处关闭"/>
+    <group id="n25_e1fv" name="n25" xy="302,1141" size="354,70" group="n23_e1fv" advanced="true"/>
+    <group id="n23_e1fv" name="n23" xy="-65,-160" size="880,1371" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="ani">
+    <item time="0" type="Alpha" target="n24_e1fv" value="0"/>
+    <item time="0" type="Alpha" target="n25_e1fv" value="0"/>
+    <item time="0" type="XY" target="n24_e1fv" value="80,1000"/>
+    <item time="42" type="Alpha" target="n24_e1fv" tween="true" startValue="0" endValue="1" duration="15"/>
+    <item time="42" type="Alpha" target="n25_e1fv" tween="true" startValue="0" endValue="1" duration="15"/>
+    <item time="42" type="XY" target="n24_e1fv" tween="true" startValue="80,1000" endValue="80,610" duration="15"/>
+  </transition>
+</component>

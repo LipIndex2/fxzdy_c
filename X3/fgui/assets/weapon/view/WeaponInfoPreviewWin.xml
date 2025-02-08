@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n28_ni07" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="113,423" size="496,516" group="n26_cjsd"/>
+    <image id="n2_03e4" name="n2" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="113,423" size="496,516" group="n26_cjsd">
+      <relation target="n25_cjsd" sidePair="height-height"/>
+    </image>
+    <image id="n13_03e4" name="n13" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="151,602" size="421,8" group="n26_cjsd"/>
+    <image id="n22_03e4" name="n22" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="290,540" size="117,32" group="n26_cjsd" color="#3da3ff"/>
+    <component id="n25_cjsd" name="attrPanel" src="sxwp94" fileName="panel/WeaponAttrPanel.xml" xy="149,627" size="430,284" group="n26_cjsd"/>
+    <component id="n27_cjsd" name="baseItem" src="abqcvvv1ek" fileName="item/WeaponBaseItem.xml" pkg="38fa8c75" xy="150,465" group="n26_cjsd" scale="1.1,1.1"/>
+    <text id="n21_03e4" name="lbName" xy="286,467" size="182,49" group="n26_cjsd" fontSize="36" color="#db83ff" vAlign="middle" strokeColor="#280931" strokeSize="2" text="帅爆狙击枪"/>
+    <text id="n24_03e4" name="lbType" xy="302,540" pivot="0.5,0.5" size="91,32" group="n26_cjsd" fontSize="22" color="#feffff" align="center" vAlign="middle" strokeColor="#084daa" strokeSize="2" text="专属武器"/>
+    <group id="n26_cjsd" name="gCenter" xy="113,423" size="496,516" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

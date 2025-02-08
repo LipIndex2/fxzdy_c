@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kbuyss6t">
+  <controller name="tabIndex" pages="0,普通招募,1,高级招募,2,专武" selected="0"/>
+  <displayList>
+    <component id="n58_phyf" name="normalPage" src="rxmb51" fileName="tabPage/DrawCardNormalPage.xml" xy="0,0">
+      <gearDisplay controller="tabIndex" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n73_rxmb" name="advancedPage" src="rxmb55" fileName="tabPage/DrawCardAdvancedPage.xml" xy="0,0">
+      <gearDisplay controller="tabIndex" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n77_116zs" name="pageEquip" src="116zs5b" fileName="tabPage/DrawCardEquipPage.xml" xy="0,0">
+      <gearDisplay controller="tabIndex" pages="2,3"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n1_8301" name="drawComp" src="n9t525" fileName="components/DrawStateComp.xml" xy="43,981">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n37_n9t5" name="headItem1" src="n9t52a" fileName="components/DrawCardHeadItemComp.xml" xy="274,20" group="n39_n9t5"/>
+    <component id="n16_8301" name="headItem2" src="n9t52a" fileName="components/DrawCardHeadItemComp.xml" xy="500,20" group="n39_n9t5"/>
+    <group id="n39_n9t5" name="head" xy="274,20" size="431,54" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n14_8301" name="tab2" src="830110" fileName="img/xzzm_btn.png" xy="-187,120" group="n38_n9t5"/>
+    <image id="n15_8301" name="tab1" src="830111" fileName="img/yxzmxz_btn.png" xy="219,120" group="n38_n9t5"/>
+    <group id="n38_n9t5" name="tab" xy="-187,120" size="736,125" visible="false" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <list id="n72_rxmb" name="list_tab" xy="0,92" pivot="0.5,0.5" size="750,183" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="35" defaultItem="ui://e93efac4rxmb52" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n74_e6dc" name="skipAnimButton" src="sgpf2y" fileName="components/DrawCardSkipWithTitleComp.xml" xy="586,719">
+      <gearXY controller="tabIndex" pages="2" values="573,965" default="586,719"/>
+      <relation target="" sidePair="middle-middle"/>
+    </component>
+    <component id="n75_n19g" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,677"/>
+    <component id="n76_n19g" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,677"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n1_8301" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n39_n9t5" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n72_rxmb" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n74_e6dc" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n1_8301" tween="true" startValue="33,1071" endValue="33,971" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n39_n9t5" tween="true" startValue="274,-80" endValue="274,20" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n72_rxmb" tween="true" startValue="-1,-8" endValue="-1,92" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n74_e6dc" tween="true" startValue="686,719" endValue="586,719" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

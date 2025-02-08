@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="016cb3f9">
+  <resources>
+    <image id="583b3" name="zllb_frame.png" path="/img/"/>
+    <image id="583b4" name="scale_55%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="583b5" name="scale_55%_baoxiang.png" path="/img/"/>
+    <component id="583b7" name="leagueBoxGiftView.xml" path="/"/>
+    <image id="583b8" name="sd_A_common_gxhdbt_frame.png" path="/img/"/>
+    <image id="583b9" name="lianmengbaoxiang_1.png" path="/img/"/>
+    <image id="583b10" name="tuceng2kaobei.png" path="/img/"/>
+    <image id="583b11" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="583b12" name="sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="583b13" name="sd_A_common_yellow_frame.png" path="/img/"/>
+    <image id="583b15" name="sd_A_common_dq1_frame.png" path="/img/"/>
+    <image id="583b16" name="scale_55%_icon_10017.png" path="/img/"/>
+    <component id="583b17" name="leagueBoxPreview.xml" path="/"/>
+    <image id="583b18" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="583b19" name="sd_A_common_gxhdbt_frame_4.png" path="/img/"/>
+    <image id="583b20" name="baoxiangjiesuan_3.png" path="/img/"/>
+    <image id="583b21" name="guang2.png" path="/img/"/>
+    <image id="583b22" name="tuceng1136.png" path="/img/"/>
+    <image id="583b23" name="baoxiang.png" path="/img/"/>
+    <image id="583b26" name="baoxiang_7.png" path="/img/"/>
+    <image id="583b27" name="xingzhuang8kaobei.png" path="/img/"/>
+    <image id="583b28" name="gth_btn.png" path="/img/"/>
+    <image id="583b30" name="sd_A_common_jnmb_frame.png" path="/img/"/>
+    <image id="583b31" name="baoxiang_6.png" path="/img/"/>
+    <image id="583b32" name="scale_90%_icgoods_10018.png" path="/img/"/>
+    <image id="583b38" name="tuceng1135.jpg" path="/img/"/>
+    <image id="583b39" name="tuceng2.png" path="/img/"/>
+    <image id="583b40" name="sd_A_common_black1_msg.png" path="/img/"/>
+    <image id="583b41" name="sd_A_common_kppydi_blood_19.png" path="/img/"/>
+    <image id="583b42" name="sd_A_common_kppy_blood_18.png" path="/img/" scale="9grid" scale9grid="69,4,138,8"/>
+    <image id="583b44" name="icon_10017.png" path="/img/"/>
+    <image id="583b45" name="sd_A_common_bossxxd_frame.png" path="/img/" scale="9grid" scale9grid="187,223,374,446"/>
+    <image id="583b46" name="sd_A_common_bossbt_frame.png" path="/img/"/>
+    <image id="583b47" name="sd_A_common_dilan1_frame.png" path="/img/"/>
+    <image id="583b49" name="sd_A_common_purple_frame.png" path="/img/"/>
+    <image id="583b51" name="sd_A_common_kppydi_blood.png" path="/img/"/>
+    <image id="583b52" name="sd_A_common_kppy_blood.png" path="/img/"/>
+    <image id="583b58" name="sd_A_common_lbmb_frame.png" path="/img/"/>
+    <image id="583b59" name="sd_A_common_gou_icon.png" path="/img/"/>
+    <image id="583b60" name="sd_A_common_lmlb_frame.png" path="/img/"/>
+    <image id="583b61" name="sd_A_common_lmlb1_frame.png" path="/img/"/>
+    <component id="qlkj63" name="leagueBoxGiftCell.xml" path="/com/"/>
+    <component id="qlkj64" name="leagueBoxMainView.xml" path="/"/>
+    <component id="qlkj65" name="leagueBoxExpBar.xml" path="/com/"/>
+    <component id="qlkj66" name="LeagueBoxTab.xml" path="/btn/"/>
+    <component id="qlkj67" name="leagueBoxPageTab.xml" path="/btn/"/>
+    <component id="qlkj68" name="leagueBoxPage.xml" path="/"/>
+    <component id="qlkj69" name="leagueBoxTaskCell.xml" path="/com/"/>
+    <component id="kvs36a" name="leagueTaskBar.xml" path="/com/"/>
+    <component id="kvs36b" name="giftListCell.xml" path="/com/"/>
+    <component id="kvs36d" name="leagueBoxBtn.xml" path="/btn/"/>
+    <component id="kvs36e" name="leaugeBoxLimitCom.xml" path="/com/"/>
+    <component id="qhev6f" name="leagueBoxGiftTip.xml" path="/com/"/>
+    <image id="qhev6g" name="yaoshi.png" path="/img/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

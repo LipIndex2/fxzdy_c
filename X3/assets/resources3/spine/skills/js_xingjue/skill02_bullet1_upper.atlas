@@ -1,0 +1,48 @@
+
+skill02_bullet1_upper.png
+size: 211,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_zidanhuo_00000
+  rotate: false
+  xy: 2, 74
+  size: 187, 38
+  orig: 220, 50
+  offset: 6, 3
+  index: -1
+effect/skill02_zidanhuo_00001
+  rotate: false
+  xy: 2, 192
+  size: 200, 40
+  orig: 220, 50
+  offset: 4, 3
+  index: -1
+effect/skill02_zidanhuo_00002
+  rotate: false
+  xy: 2, 114
+  size: 204, 37
+  orig: 220, 50
+  offset: 4, 6
+  index: -1
+effect/skill02_zidanhuo_00003
+  rotate: false
+  xy: 2, 38
+  size: 204, 34
+  orig: 220, 50
+  offset: 6, 7
+  index: -1
+effect/skill02_zidanhuo_00004
+  rotate: false
+  xy: 2, 153
+  size: 207, 37
+  orig: 220, 50
+  offset: 5, 6
+  index: -1
+effect/skill02_zidanhuo_00005
+  rotate: false
+  xy: 2, 2
+  size: 199, 34
+  orig: 220, 50
+  offset: 5, 9
+  index: -1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n5_105pv" name="item" src="105pv14s" fileName="item/IconItem.xml" xy="351,643" visible="false"/>
+  </displayList>
+</component>

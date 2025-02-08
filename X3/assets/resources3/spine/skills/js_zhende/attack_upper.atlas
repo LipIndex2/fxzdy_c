@@ -1,0 +1,41 @@
+
+attack_upper.png
+size: 879,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_ATTACK_00000
+  rotate: false
+  xy: 310, 2
+  size: 217, 166
+  orig: 350, 175
+  offset: 13, 6
+  index: -1
+images/effect/ef_ATTACK_00002
+  rotate: false
+  xy: 2, 2
+  size: 306, 166
+  orig: 350, 175
+  offset: 17, 9
+  index: -1
+images/effect/ef_ATTACK_00004
+  rotate: false
+  xy: 529, 12
+  size: 211, 156
+  orig: 350, 175
+  offset: 19, 15
+  index: -1
+images/effect/ef_ATTACK_00005
+  rotate: false
+  xy: 742, 59
+  size: 69, 109
+  orig: 350, 175
+  offset: 20, 59
+  index: -1
+images/effect/ef_ATTACK_00007
+  rotate: false
+  xy: 813, 62
+  size: 64, 106
+  orig: 350, 175
+  offset: 24, 60
+  index: -1

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="89bef6e1">
+  <resources>
+    <image id="a3e91" name="bantou_frame.png" path="/img/" scale="9grid" scale9grid="6,120,12,784"/>
+    <image id="a3e94" name="sd_A_common_zhishi_tag.png" path="/img/"/>
+    <image id="a3e910" name="mingzidi.png" path="/img/"/>
+    <image id="a3e911" name="lliaotian_frame.png" path="/img/" scale="9grid" scale9grid="54,72,15,6"/>
+    <image id="a3e912" name="sszd_0014_leinuochaifen.png" path="/img/"/>
+    <component id="a3e915" name="GuideMainView.xml" path="/view/"/>
+    <component id="105pv16" name="GuideDialogItem.xml" path="/item/"/>
+    <component id="105pv17" name="GuideSmallDialogItem.xml" path="/item/"/>
+    <component id="105pv18" name="GuideTeachView.xml" path="/view/"/>
+    <component id="105pv19" name="GuideMaskItem.xml" path="/item/"/>
+    <component id="n6ekv1a" name="GuideEmptyView.xml" path="/view/"/>
+    <component id="n6ekv1b" name="GuideDialogView.xml" path="/view/"/>
+    <component id="9a3xv1c" name="GuideDialogSmallView.xml" path="/view/"/>
+    <image id="ut0gv1d" name="selectBox.png" path="/img/" scale="9grid" scale9grid="45,44,5,5"/>
+    <image id="ut0gv1e" name="selecetBoxAnim.png" path="/img/" scale="9grid" scale9grid="44,43,4,5"/>
+    <image id="ut0gv1f" name="ltan_frame.png" path="/img/" scale="9grid" scale9grid="66,71,12,6"/>
+    <component id="ut0gv1g" name="GuideTouchRangeItem.xml" path="/item/"/>
+    <component id="ut0gv1h" name="GuideTalkerCom.xml" path="/com/"/>
+    <component id="ut0gv1i" name="GuideWeakTouchView.xml" path="/view/"/>
+    <image id="mdoav1j" name="pass_frame.png" path="/img/" scale="9grid" scale9grid="17,18,4,3"/>
+    <image id="mdoav1k" name="pass.png" path="/img/"/>
+    <component id="mdoav1l" name="PassBtn.xml" path="/com/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

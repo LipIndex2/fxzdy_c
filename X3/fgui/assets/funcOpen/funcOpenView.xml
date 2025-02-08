@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n11_dusv" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,578" group="n7_wq7z"/>
+    <image id="n5_5422" name="n5" src="54224" fileName="img/sd_A_common_gxhdbt_frame.png" xy="212,552" group="n7_wq7z"/>
+    <image id="n6_5422" name="n6" src="54225" fileName="img/gongnengjiesuo.png" xy="375,578" pivot="0.5,0.5" anchor="true" group="n7_wq7z"/>
+    <component id="n13_dusv" name="openItem" src="dusv7" fileName="FuncOpenItem.xml" xy="375,727" pivot="0.5,0.5" anchor="true" group="n7_wq7z"/>
+    <group id="n7_wq7z" name="n7" xy="212,552" size="326,225" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n13_dusv" tween="true" startValue="0,0" endValue="1,1" duration="8"/>
+  </transition>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,30" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <text id="n0_lqg6" name="numText" xy="50,15" pivot="0.5,0.5" anchor="true" size="154,24" font="ui://rdjzh7h2pdp1v176" fontSize="10" color="#ffffff" leading="0" letterSpacing="-7" autoClearText="true" text="B123456789K"/>
+  </displayList>
+  <transition name="t" frameRate="30">
+    <item time="0" type="Alpha" target="n0_lqg6" value="1"/>
+    <item time="0" type="XY" target="n0_lqg6" tween="true" startValue="50,15" endValue="100,-40" duration="15"/>
+    <item time="9" type="Alpha" target="n0_lqg6" tween="true" startValue="1" endValue="0" duration="21"/>
+    <item time="15" type="XY" target="n0_lqg6" tween="true" startValue="100,-40" endValue="119.222,-24.356" duration="8" ease="Quad.In"/>
+    <item time="23" type="XY" target="n0_lqg6" tween="true" startValue="119.222,-24.356" endValue="155,15" duration="7"/>
+  </transition>
+</component>

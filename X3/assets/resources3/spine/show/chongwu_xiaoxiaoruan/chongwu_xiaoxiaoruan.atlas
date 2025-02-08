@@ -1,0 +1,97 @@
+
+chongwu_xiaoxiaoruan.png
+size: 194,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 126, 3
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 154, 314
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 134, 184
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 120, 42
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 2, 105
+  size: 181, 89
+  orig: 181, 89
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 155, 247
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 151, 563
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 2, 548
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 155, 272
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 2, 196
+  size: 166, 181
+  orig: 166, 181
+  offset: 0, 0
+  index: -1
+js07
+  rotate: 180
+  xy: 2, 3
+  size: 123, 109
+  orig: 123, 119
+  offset: 0, 10
+  index: -1
+js08
+  rotate: false
+  xy: 129, 351
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 2, 378
+  size: 158, 200
+  orig: 158, 200
+  offset: 0, 0
+  index: -1

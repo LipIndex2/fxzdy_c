@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n8_105pv" name="img_bg" xy="0,0" size="750,1334" alpha="0.6" url="ui://38fa8c75j6z92h" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n2_f23e" name="title" src="dusvvw0" fileName="view/MapBossKillTitle.xml" xy="376,122" pivot="0.5,0" anchor="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n9_loej" name="n9" xy="375,877" pivot="0.5,0.5" anchor="true" size="456,34" group="n11_loej" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="观看广告可以使得本次掉落的装备品质提升"/>
+    <component id="n10_loej" name="btnPlay" src="loej1b" fileName="btn/BtnAd.xml" pkg="38fa8c75" xy="375,972" pivot="0.5,0.5" anchor="true" size="306,117" group="n11_loej">
+      <Button title="提升品质"/>
+    </component>
+    <component id="n13_gvuz" name="btnDraw" src="gvuzvvv1l0" fileName="btn/BtnDrawClose.xml" pkg="38fa8c75" xy="375,1074" group="n11_loej"/>
+    <component id="n12_gvuz" name="n12" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1166" group="n11_loej"/>
+    <group id="n11_loej" name="gAd" xy="147,860" size="456,396" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n2_f23e" tween="true" startValue="0,0" endValue="1.1,1.1" duration="4"/>
+    <item time="4" type="Scale" target="n2_f23e" tween="true" startValue="1.1,1.1" endValue="1,1" duration="5"/>
+  </transition>
+</component>

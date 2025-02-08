@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kqjn062">
+  <controller name="autoBattleFlag" exported="true" pages="0,false,1,true" selected="0"/>
+  <controller name="battleType" pages="0,default,1,dailyBoss,2,leagueBoss,4,guardShip,15,leagueExplore" selected="0"/>
+  <displayList>
+    <text id="n5_8a38" name="labelRestTime" xy="271,180" size="204,36" group="n70_wwsz" fontSize="26" color="#ffeea1" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="1:29 ">
+      <gearDisplay controller="battleType" pages="0,1,2,15"/>
+    </text>
+    <text id="n20_8a38" name="labelLevelTitle" xy="100,25" size="550,34" group="n70_wwsz" fontSize="24" color="#ffffff" align="center" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="挂机关卡地狱难度"/>
+    <component id="n80_qjn0" name="damageComp" src="qjn0vvv1dn" fileName="battleView/components/CommonBattleTotalDamageComp.xml" xy="2,353" group="n70_wwsz">
+      <gearDisplay controller="battleType" pages="1,2"/>
+    </component>
+    <component id="n22_8a38" name="compLevelNameTips" src="ov08vvv1bl" fileName="battleView/components/CommonBattleLevelNameTipsComp.xml" xy="171,257" group="n70_wwsz"/>
+    <component id="n69_wwsz" name="progressBar1" src="ov08vvv1bo" fileName="battleView/progressBar/CommonBattleLeftProgressBar.xml" xy="88,97" group="n76_e1fv">
+      <ProgressBar value="96" max="100"/>
+    </component>
+    <component id="n67_wwsz" name="progressBar2" src="ov08vvv1br" fileName="battleView/progressBar/CommonBattleRightProgressBar.xml" xy="439,98" group="n76_e1fv">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n55_8a38" name="imageVs" src="ov08vvv1bt" fileName="battleView/img/VS_17.png" xy="293,83" group="n76_e1fv"/>
+    <group id="n76_e1fv" name="pvpHp" xy="88,83" size="581,70" group="n70_wwsz" advanced="true">
+      <gearDisplay controller="battleType" pages="0,15"/>
+    </group>
+    <text id="n82_woyg" name="lbMyName" xy="213,149" pivot="0.5,0.5" anchor="true" size="40,34" group="n84_woyg" fontSize="24" color="#1de756" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text=""/>
+    <text id="n83_woyg" name="lbEnemyName" xy="557,149" pivot="0.5,0.5" anchor="true" size="40,34" group="n84_woyg" fontSize="24" color="#f65a5c" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text=""/>
+    <group id="n84_woyg" name="gName" xy="193,132" size="384,34" group="n70_wwsz" advanced="true">
+      <gearDisplay controller="battleType" pages="15"/>
+    </group>
+    <component id="n77_caj9" name="bossHpComp" src="caj9vvv1d3" fileName="battleView/hp/BattleForDailyBossHpComp.xml" xy="80,51" group="n78_caj9">
+      <gearDisplay controller="battleType" pages="1"/>
+    </component>
+    <component id="n81_qlkj" name="manyHpbar" src="qlkjvvv1eo" fileName="battleView/hp/BattleCommonManyHpComp.xml" xy="79,51" group="n78_caj9">
+      <gearDisplay controller="battleType" pages="2"/>
+    </component>
+    <group id="n78_caj9" name="bossP" xy="79,51" size="592,132" group="n70_wwsz" advanced="true"/>
+    <group id="n70_wwsz" name="headP" xy="2,25" size="669,469" group="n74_kqho" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n57_8a38" name="btnAutoFight" src="ov08vvv1bu" fileName="battleView/btn/CommonBattleAutoFightButton.xml" xy="636,1095" group="n63_wwsz" visible="false"/>
+    <component id="n73_wwsz" name="btnBack" src="d4rvvvv1e9" fileName="back/BtnBack75.xml" pkg="38fa8c75" xy="1,1089" group="n63_wwsz"/>
+    <list id="n64_wwsz" name="heroList" xy="23,1196" size="716,129" group="n63_wwsz" touchable="false" layout="row" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75qzovvvv1ay">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n59_8a38" name="tipsAutoBattle" src="ov08vvv1c0" fileName="battleView/components/CommonBattleAutoTipsComp.xml" xy="262,984" group="n63_wwsz">
+      <gearDisplay controller="autoBattleFlag" pages="1"/>
+    </component>
+    <component id="n75_fxoc" name="captainSkillComp" src="fxocvvv18y" fileName="captainSkill/CaptionSkillCommonBattleComp.xml" pkg="38fa8c75" xy="3,865" group="n63_wwsz" controller="inCdFlag,1"/>
+    <component id="n85_vet6" name="btnSkipFight" src="vet6vvv1hz" fileName="battleView/btn/CommonBattleSkipFightButton.xml" xy="632,1086" group="n63_wwsz">
+      <Button title="跳过"/>
+    </component>
+    <group id="n63_wwsz" name="footP" xy="1,865" size="738,460" group="n74_kqho" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <group id="n74_kqho" name="all" xy="1,25" size="738,1300" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+  <transition name="animTitle">
+    <item time="0" type="Alpha" target="n22_8a38" tween="true" startValue="1" endValue="0" duration="36"/>
+    <item time="0" type="XY" target="n22_8a38" tween="true" startValue="170,365" endValue="170,259" duration="36"/>
+  </transition>
+</component>

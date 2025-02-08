@@ -1,0 +1,111 @@
+
+gw_longqiuchong.png
+size: 100,51
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 92, 30
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 92, 35
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 2, 15
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 73, 20
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 53, 21
+  size: 28, 19
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: 180
+  xy: 54, 6
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 84, 9
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 15, 5
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 27, 5
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 84, 3
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 92, 40
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 73, 46
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 91, 24
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 2, 4
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 39, 5
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1

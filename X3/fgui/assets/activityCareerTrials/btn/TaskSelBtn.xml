@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="325,69" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n3_bezo" name="n3" src="teox7x" fileName="img/txz_yq.png" xy="0,0" size="325,69">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n0_j6z9" name="bg" xy="162,34" pivot="0.5,0.5" anchor="true" size="325,69" url="ui://6db1f71ateox7y" align="center" vAlign="middle" fill="scaleFree">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n6_bezo" name="T_tips1" xy="100,11" pivot="0.5,0.5" size="123,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#180d00" strokeSize="2" text="每日任务">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n7_bezo" name="T_tips2" xy="100,11" pivot="0.5,0.5" size="123,42" fontSize="30" color="#a6a6b2" align="center" vAlign="middle" strokeColor="#180d00" strokeSize="2" text="每日任务">
+      <gearDisplay controller="button" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n8_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="315,10" size="20,20" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

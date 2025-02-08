@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="518,49">
+  <displayList>
+    <image id="n19_uvvc" name="bg" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="0,0" size="518,49" color="#2d313d"/>
+    <text id="n15_uvvc" name="txName" xy="15,7" pivot="0.5,0.5" size="107,36" fontSize="26" color="#ffe792" vAlign="middle" autoClearText="true" text="等级上限"/>
+    <text id="n16_uvvc" name="txCurNum" xy="130,7" pivot="0.5,0.5" size="115,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" autoClearText="true" text="60"/>
+    <text id="n17_uvvc" name="txLastNum" xy="369,7" pivot="0.5,0.5" size="82,36" fontSize="26" color="#19df51" vAlign="middle" autoClearText="true" text="50464"/>
+    <image id="n18_uvvc" name="n18" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="254,12"/>
+  </displayList>
+</component>

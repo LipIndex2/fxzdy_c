@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="269,141">
+  <displayList>
+    <image id="n80_qjn0" name="bg" src="qjn0vvv1dl" fileName="battleView/img/zsh1_frame.png" xy="0,38" group="n84_qjn0"/>
+    <text id="n82_qjn0" name="labelDamage" xy="3,63" size="196,64" group="n84_qjn0" rotation="-3" fontSize="48" color="#ffffff" align="right" vAlign="middle" autoSize="shrink" singleLine="true" text="0"/>
+    <group id="n84_qjn0" name="n84" xy="0,38" size="238,96"/>
+    <image id="n81_qjn0" name="bgTitle" src="qjn0vvv1dm" fileName="battleView/img/zsh_frame.png" xy="0,24" group="n83_qjn0"/>
+    <loader id="n79_qjn0" name="imageDamageTitle" xy="1,39" size="82,26" group="n83_qjn0" url="ui://u3tpmdwfqjn0vvv1dk"/>
+    <group id="n83_qjn0" name="n83" xy="0,24" size="158,58"/>
+  </displayList>
+</component>

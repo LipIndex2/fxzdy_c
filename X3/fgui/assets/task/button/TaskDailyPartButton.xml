@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,85" pivot="0.5,0.5">
+  <controller name="taskState" exported="true" pages="0,doing,1,complete,2,finish" selected="2"/>
+  <displayList>
+    <component id="n55_eowx" name="btnGo" src="eu7e3k" fileName="button/TaskDailyGoBtn.xml" xy="5,6">
+      <gearDisplay controller="taskState" pages="0"/>
+    </component>
+    <component id="n19_c21f" name="btnComplete" src="eu7e3l" fileName="button/TaskDailyCompleteBtn.xml" xy="5,5">
+      <gearDisplay controller="taskState" pages="1"/>
+    </component>
+    <component id="n61_eowx" name="btnFinish" src="eu7e3m" fileName="button/TaskDailyDoneBtn.xml" xy="20,21">
+      <gearDisplay controller="taskState" pages="2"/>
+    </component>
+  </displayList>
+</component>

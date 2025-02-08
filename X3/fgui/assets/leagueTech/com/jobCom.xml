@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="133,137" pivot="0.5,0.5">
+  <controller name="job" pages="0,,1,,2,,3,,4,,5," selected="5"/>
+  <displayList>
+    <image id="n21_lqng" name="n21" src="lqng2c" fileName="img/job1.png" xy="0,0" size="133,137">
+      <gearDisplay controller="job" pages="0"/>
+    </image>
+    <image id="n22_lqng" name="n22" src="lqng2f" fileName="img/job2.png" xy="0,0" size="133,137">
+      <gearDisplay controller="job" pages="1"/>
+    </image>
+    <image id="n23_lqng" name="n23" src="lqng2e" fileName="img/job3.png" xy="0,0" size="133,137">
+      <gearDisplay controller="job" pages="2"/>
+    </image>
+    <image id="n24_lqng" name="n24" src="lqng2d" fileName="img/job4.png" xy="0,0" size="133,137">
+      <gearDisplay controller="job" pages="3"/>
+    </image>
+    <image id="n25_lqng" name="n25" src="lqng2i" fileName="img/job5.png" xy="0,0" size="133,137">
+      <gearDisplay controller="job" pages="4"/>
+    </image>
+    <image id="n26_lqng" name="n26" src="lqng2h" fileName="img/job6.png" xy="0,0" size="133,137">
+      <gearDisplay controller="job" pages="5"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="107,36" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n32_c65a" name="title" xy="0,0" size="107,36" fontSize="26" color="#31f61c" vAlign="middle" underline="true" strokeColor="#000000" strokeSize="3" text="阵容试玩"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

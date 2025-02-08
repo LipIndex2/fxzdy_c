@@ -1,0 +1,63 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "1256db24-3771-4d38-a5bf-903d6f5b4cac",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "5c348": {
+      "importer": "sprite-frame",
+      "uuid": "1256db24-3771-4d38-a5bf-903d6f5b4cac@5c348",
+      "displayName": "",
+      "id": "5c348",
+      "name": "bg1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 135,
+        "height": 46,
+        "rawWidth": 135,
+        "rawHeight": 46,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f3f1f5b2-f970-4dac-b895-0a9d2572d615@6c48a",
+        "atlasUuid": "1256db24-3771-4d38-a5bf-903d6f5b4cac"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "chatBg.png",
+    "format": 3,
+    "uuid": "1256db24-3771-4d38-a5bf-903d6f5b4cac",
+    "textureUuid": "f3f1f5b2-f970-4dac-b895-0a9d2572d615@6c48a"
+  }
+}

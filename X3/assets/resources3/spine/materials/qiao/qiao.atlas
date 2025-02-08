@@ -1,0 +1,27 @@
+
+qiao.png
+size: 373,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 270, 173
+  orig: 270, 173
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 206, 23
+  size: 249, 164
+  orig: 249, 164
+  offset: 0, 0
+  index: -1
+6
+  rotate: 270
+  xy: 107, 23
+  size: 249, 160
+  orig: 249, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+chongwu_tiaotiaochong.png
+size: 120,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 85, 6
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 76, 44
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 104, 38
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: 270
+  xy: 18, 3
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 2, 4
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 45, 19
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 78, 21
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 89, 15
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: 270
+  xy: 67, 7
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: 270
+  xy: 29, 14
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 2, 17
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 46, 5
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+by
+  rotate: true
+  xy: 103, 3
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

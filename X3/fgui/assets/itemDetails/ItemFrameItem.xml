@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="412,90">
+  <displayList>
+    <image id="n31_m3sn" name="n31" src="gkgvvvv19v" fileName="bg/tisp3_frame.png" pkg="38fa8c75" xy="0,0" size="412,90"/>
+    <text id="n33_m3sn" name="nameLab" xy="15,16" pivot="0,0.5" size="204,62" fontSize="22" color="#8bf3ff" vAlign="middle" autoSize="none" text="挂机获取"/>
+    <component id="n47_v5mw" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="291,-8" scale="0.72,0.72"/>
+  </displayList>
+</component>

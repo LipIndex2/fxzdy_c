@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n0_cc67" name="n0" src="i4ei2a" fileName="SystemSettingBaseView.xml" xy="0,-1"/>
+    <image id="n26_cc67" name="n26" src="cc6717" fileName="img/fengexiantianchongyanse.png" xy="997,925" group="n47_i4ei"/>
+    <image id="n17_cc67" name="n17" src="cc6711" fileName="img/xiaobiaotiditianchongyanse.png" xy="786,345" group="n47_i4ei"/>
+    <image id="n34_cc67" name="n34" src="cc6721" fileName="img/biaotiditianchongyanse.png" xy="774,-195" group="n47_i4ei"/>
+    <group id="n47_i4ei" name="n47" xy="774,-195" size="511,1146"/>
+  </displayList>
+</component>

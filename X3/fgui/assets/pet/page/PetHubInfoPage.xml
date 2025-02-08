@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <loader id="n0_xwdv" name="n0" xy="39,122" size="682,1014" group="n4_xwdv" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n1_xwdv" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="61,209" size="638,902" group="n4_xwdv"/>
+    <text id="n2_xwdv" name="title" xy="330,142" size="131,44" group="n4_xwdv" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="星灵招募"/>
+    <list id="n6_xwdv" name="infoList" xy="87,294" size="593,782" group="n4_xwdv" overflow="scroll" lineGap="12" defaultItem="ui://00e7db15xwdv9u" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n7_xwdv" name="nameLabel" xy="215,229" size="71,46" group="n4_xwdv" fontSize="34" color="#e36d6d" align="center" vAlign="middle" strokeColor="#000000" text="物品"/>
+    <text id="n8_xwdv" name="nameLabel2" xy="390,229" size="139,46" group="n4_xwdv" fontSize="34" color="#e36d6d" align="center" vAlign="middle" strokeColor="#000000" text="展示概率"/>
+    <text id="n9_xwdv" name="nameLabel3" xy="546,229" size="139,46" group="n4_xwdv" fontSize="34" color="#e36d6d" align="center" vAlign="middle" strokeColor="#000000" text="获得概率"/>
+    <group id="n4_xwdv" name="n4" xy="39,122" size="682,1014" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

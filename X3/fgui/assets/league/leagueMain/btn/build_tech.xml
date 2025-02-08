@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="235,288" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1," selected="0"/>
+  <controller name="lock" exported="true" pages="0,,1,,3," selected="0"/>
+  <displayList>
+    <loader id="n19_qr2a" name="icon" xy="48,112" size="203,238" scale="0.7,0.7" url="ui://6be81224qr2a11m" align="center" vAlign="middle"/>
+    <component id="n12_qr2a" name="techBtn" src="h90v2i" fileName="leagueMain/btn/leagueComBtn.xml" xy="0,0">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="联盟科技"/>
+    </component>
+    <image id="n20_lqng" name="n20" src="894b2" fileName="leagueMain/img/scale_60%_sd_A_common_jnmb_frame.png" xy="87,168" group="n22_lqng"/>
+    <image id="n21_lqng" name="n21" src="894b3" fileName="leagueMain/img/scale_70%_sd_A_common_suo1_icon.png" xy="99,179" group="n22_lqng"/>
+    <group id="n22_lqng" name="lock" xy="87,168" size="60,66" advanced="true">
+      <gearDisplay controller="lock" pages="1"/>
+    </group>
+    <text id="n23_lqng" name="tips" xy="44,83" pivot="0.5,0.5" size="147,42" fontSize="30" color="#9ad3ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="1天23小时">
+      <gearDisplay controller="lock" pages="1,3"/>
+      <gearColor controller="lock" pages="3" values="#5ffb6a,#000000" default="#9ad3ff,#000000"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,118 @@
+
+chongwu_wuzeiqiuqiu.png
+size: 111,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jzd0
+  rotate: 270
+  xy: 84, 11
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Jzd1
+  rotate: false
+  xy: 2, 12
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Jzd10
+  rotate: 270
+  xy: 31, 5
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+Jzd11
+  rotate: false
+  xy: 2, 34
+  size: 52, 44
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Jzd12
+  rotate: true
+  xy: 55, 18
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+Jzd13
+  rotate: false
+  xy: 77, 38
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+Jzd14
+  rotate: false
+  xy: 2, 4
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Jzd15
+  rotate: true
+  xy: 100, 19
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Jzd2
+  rotate: false
+  xy: 45, 5
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Jzd3
+  rotate: false
+  xy: 74, 3
+  size: 9, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+Jzd4
+  rotate: false
+  xy: 94, 5
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Jzd5
+  rotate: true
+  xy: 95, 41
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Jzd6
+  rotate: true
+  xy: 72, 18
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+Jzd7
+  rotate: true
+  xy: 2, 20
+  size: 23, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+Jzd8
+  rotate: false
+  xy: 49, 49
+  size: 29, 29
+  orig: 30, 29
+  offset: 1, 0
+  index: -1
+Jzd9
+  rotate: false
+  xy: 91, 63
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1

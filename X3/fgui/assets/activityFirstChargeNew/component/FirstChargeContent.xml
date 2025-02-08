@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="state" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="未购买"/>
+    <remark page="1" value="未领取"/>
+    <remark page="2" value="今日已领取"/>
+    <remark page="3" value="全部领取"/>
+  </controller>
+  <controller name="tab" pages="0,,1,,2," selected="0">
+    <remark page="0" value="6元"/>
+    <remark page="1" value="30元"/>
+    <remark page="2" value="68元"/>
+  </controller>
+  <displayList>
+    <component id="n75_wcla" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="8,195" size="743,710"/>
+    <image id="n45_wcla" name="n45" src="37551" fileName="img/juesedi.png" xy="47,118"/>
+    <component id="n48_wcla" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="355,670" pivot="0.5,1" anchor="true" scale="1.1,1.1"/>
+    <list id="n58_wcla" name="listTab" xy="374,1200" pivot="0.5,0.5" anchor="true" size="663,80" layout="row" overflow="scroll" scroll="horizontal" colGap="17" defaultItem="ui://99fee131pfd418" align="center" vAlign="middle" selectionController="tab" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n63_wcla" name="btnDemo" src="wcla1a" fileName="component/FirstChargeDemoBtn.xml" xy="564,420"/>
+    <image id="n47_wcla" name="n47" src="37556" fileName="img/mingzidi.png" xy="78,242" size="76,280" group="n70_wcla"/>
+    <text id="n51_wcla" name="lbName" xy="106,296" size="35,137" group="n70_wcla" fontSize="36" align="center" leading="0" autoSize="height" autoClearText="true" text="夜莺"/>
+    <richtext id="n80_z7ud" name="lbDes" xy="157,291" size="24,266" group="n70_wcla" fontSize="24" color="#11f7ff" leading="0" autoSize="height" strokeColor="#000000" strokeSize="3" autoClearText="true" text="强力输出 推图必备"/>
+    <list id="n57_wcla" name="listStar" xy="69,335" size="38,195" group="n70_wcla" scale="0.7,0.7" lineGap="2" defaultItem="ui://38fa8c75105pvv182" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n62_wcla" name="campLoader" xy="93,221" pivot="0.5,0.5" size="64,64" group="n70_wcla" align="center" vAlign="middle" fill="scale"/>
+    <component id="n82_rjyq" name="spineStar" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="83,395" group="n70_wcla"/>
+    <group id="n70_wcla" name="gTitle" xy="69,221" size="112,336" advanced="true"/>
+    <image id="n46_wcla" name="n46" src="37553" fileName="img/jianglizu.png" xy="8,670" group="n71_wcla"/>
+    <image id="n77_lb79" name="n77" src="lb791h" fileName="img/bg_tip.png" xy="456,621" group="n71_wcla"/>
+    <image id="n76_lb79" name="n76" src="lb791g" fileName="img/6.png" xy="6,561" group="n71_wcla">
+      <gearDisplay controller="tab" pages="0"/>
+    </image>
+    <image id="n78_lb79" name="n78" src="lb791e" fileName="img/30.png" xy="-8,557" group="n71_wcla">
+      <gearDisplay controller="tab" pages="1"/>
+    </image>
+    <image id="n79_lb79" name="n79" src="lb791i" fileName="img/68.png" xy="-7,557" group="n71_wcla">
+      <gearDisplay controller="tab" pages="2"/>
+    </image>
+    <text id="n53_wcla" name="lbTip2" xy="572,637" pivot="0.5,0.5" anchor="true" size="191,34" group="n71_wcla" fontSize="24" vAlign="middle" text="连送3日 豪礼不断"/>
+    <text id="n54_wcla" name="lbDay1" xy="174,760" pivot="0.5,0.5" anchor="true" size="66,34" group="n71_wcla" fontSize="24" color="#fefefe" align="center" vAlign="middle" autoClearText="true" text="第1天"/>
+    <text id="n55_wcla" name="lbDay2" xy="419,760" pivot="0.5,0.5" anchor="true" size="66,34" group="n71_wcla" fontSize="24" color="#fefefe" align="center" vAlign="middle" autoClearText="true" text="第1天"/>
+    <text id="n56_wcla" name="lbDay3" xy="620,760" pivot="0.5,0.5" anchor="true" size="66,34" group="n71_wcla" fontSize="24" color="#fefefe" align="center" vAlign="middle" autoClearText="true" text="第1天"/>
+    <list id="n59_wcla" name="listReward1" xy="45,784" size="323,104" group="n71_wcla" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="6" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n60_wcla" name="listReward2" xy="333,784" size="218,104" group="n71_wcla" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="6" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n61_wcla" name="listReward3" xy="533,784" size="218,104" group="n71_wcla" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="6" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n71_wcla" name="gContent" xy="-8,557" size="759,354" advanced="true"/>
+    <component id="n64_wcla" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="375,995" pivot="0.5,0.5" anchor="true" size="230,88" group="n72_wcla">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="6元" titleFontSize="40"/>
+    </component>
+    <component id="n73_wcla" name="spineBtnLight" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,994" group="n72_wcla">
+      <gearDisplay controller="state" pages="0"/>
+    </component>
+    <component id="n65_wcla" name="btnDraw" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="375,995" pivot="0.5,0.5" anchor="true" size="230,88" group="n72_wcla">
+      <gearDisplay controller="state" pages="1"/>
+      <Button title="领取" titleFontSize="40"/>
+    </component>
+    <text id="n66_wcla" name="lbTime" xy="374,944" pivot="0.5,0.5" anchor="true" size="71,36" group="n72_wcla" fontSize="26" color="#fefefe" align="center" vAlign="middle" strokeColor="#000000" text="第1天">
+      <gearDisplay controller="state" pages="2"/>
+    </text>
+    <text id="n67_wcla" name="lbTip" xy="374,944" pivot="0.5,0.5" anchor="true" size="81,36" group="n72_wcla" fontSize="26" color="#fefefe" align="center" vAlign="middle" strokeColor="#000000" text="已领取">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <group id="n72_wcla" name="gBtns" xy="260,926" size="230,113" advanced="true"/>
+    <text id="n81_vdae" name="n81" xy="375,1081" pivot="0.5,0.5" anchor="true" size="170,34" fontSize="24" color="#fefefe" align="center" vAlign="middle" text="点击空白处关闭"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n45_wcla" value="0"/>
+    <item time="0" type="Alpha" target="n58_wcla" value="0"/>
+    <item time="0" type="Alpha" target="n63_wcla" value="0"/>
+    <item time="0" type="Alpha" target="n70_wcla" value="0"/>
+    <item time="0" type="Alpha" target="n71_wcla" value="0"/>
+    <item time="0" type="Alpha" target="n72_wcla" value="0"/>
+    <item time="0" type="Alpha" target="n81_vdae" value="0"/>
+    <item time="0" type="XY" target="n72_wcla" value="260,926"/>
+    <item time="0" type="XY" target="n81_vdae" value="375,1081"/>
+    <item time="9" type="Alpha" target="n45_wcla" value="0"/>
+    <item time="9" type="Alpha" target="n58_wcla" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="9" type="Alpha" target="n63_wcla" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="9" type="Alpha" target="n70_wcla" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="9" type="Alpha" target="n71_wcla" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="9" type="Alpha" target="n72_wcla" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="9" type="Alpha" target="n81_vdae" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="9" type="XY" target="n45_wcla" value="47,128"/>
+    <item time="9" type="XY" target="n58_wcla" tween="true" startValue="374,1307" endValue="374,1207" duration="12" ease="Back.Out"/>
+    <item time="9" type="XY" target="n63_wcla" tween="true" startValue="564,486" endValue="564,386" duration="12" ease="Back.Out"/>
+    <item time="9" type="XY" target="n70_wcla" tween="true" startValue="69,325" endValue="69,225" duration="12" ease="Back.Out"/>
+    <item time="9" type="XY" target="n71_wcla" tween="true" startValue="8,586" endValue="8,536" duration="12" ease="Back.Out"/>
+    <item time="9" type="XY" target="n72_wcla" tween="true" startValue="260,1026" endValue="260,926" duration="12" ease="Back.Out"/>
+    <item time="9" type="XY" target="n81_vdae" tween="true" startValue="375,1181" endValue="375,1081" duration="12" ease="Back.Out"/>
+    <item time="15" type="Alpha" target="n45_wcla" tween="true" startValue="0.2" endValue="1" duration="12"/>
+    <item time="18" type="XY" target="n45_wcla" tween="true" startValue="47,128" endValue="47,118" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

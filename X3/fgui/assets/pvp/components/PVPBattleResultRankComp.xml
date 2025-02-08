@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,186">
+  <displayList>
+    <richtext id="n258_oqeb" name="labelRankScore" xy="389,16" pivot="1,0.5" size="286,34" group="n265_oqeb" fontSize="24" color="#ffffff" align="right" vAlign="middle" ubb="true" vars="true" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="[color=#00ff00]{score=1151}[/color]/{maxScore=1300}"/>
+    <text id="n260_oqeb" name="labelTitle" xy="184,10" size="153,42" group="n265_oqeb" fontSize="30" color="#ffcd54" strokeColor="#000000" strokeSize="2" text="黄金指挥官"/>
+    <text id="n261_oqeb" name="labelAddRankScore" xy="536,77" pivot="1,0.5" size="136,34" group="n265_oqeb" fontSize="24" color="#4dfa4d" align="right" vAlign="middle" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="2" text="+45"/>
+    <component id="n266_oqeb" name="barRankScore" src="oqeb157" fileName="bar/PVPRankScoreBar.xml" xy="177,52" group="n265_oqeb">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n270_gkgv" name="logo" src="gkgv15q" fileName="logo/PVPRankBigLogoComp.xml" xy="0,0" group="n265_oqeb" scale="0.6,0.6"/>
+    <group id="n265_oqeb" name="n265" xy="0,0" size="680,186"/>
+  </displayList>
+</component>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="72zq62ea">
+  <resources>
+    <image id="be1a24" name="scale_50%_sd_A_common_biaoti1_msg3.png" path="/league/i/" exported="true"/>
+    <image id="be1a23" name="scale_50%_sd_A_common_biaoti1_msg3_41.png" path="/league/i/" exported="true"/>
+    <image id="be1a70" name="scale_50%_sd_A_common_fdj_icon.png" path="/league/i/" exported="true"/>
+    <image id="be1a83" name="scale_60%_sd_A_common_changgui1_btn.png" path="/league/i/" exported="true"/>
+    <image id="sh628l" name="szdi1_frame.png" path="/img/" exported="true" scale="9grid" scale9grid="62,9,6,18"/>
+    <component id="tqjl8m" name="RaceLogoComp.xml" path="/race/" exported="true"/>
+    <image id="sh628n" name="BOSStouxiang.png" path="/league/i/" exported="true"/>
+    <image id="sh628o" name="bossxt1_blood.png" path="/league/i/" exported="true"/>
+    <image id="sh628p" name="bossxt_blood.png" path="/league/i/" exported="true"/>
+    <image id="qlkjs8s" name="shadow.png" path="/img/" exported="true"/>
+    <image id="583b54" name="scale_50%_sd_A_common_changgui3_btn.png" path="/league/i/" exported="true"/>
+    <component id="kvs3s8t" name="changgui3.xml" path="/league/btn/" exported="true"/>
+    <image id="oetqs8v" name="jia2_btn.png" path="/btn/img/" exported="true"/>
+    <image id="oetqs8w" name="jian1_btn.png" path="/btn/img/" exported="true"/>
+    <image id="oetqs8x" name="jjia10_btn.png" path="/btn/img/" exported="true"/>
+    <image id="oetqs8y" name="jjian10_btn.png" path="/btn/img/" exported="true"/>
+    <image id="oetqs8z" name="jzuida_btn.png" path="/btn/img/" exported="true"/>
+    <component id="oetqs90" name="BtnJia1.xml" path="/btn/" exported="true"/>
+    <component id="oetqs91" name="BtnJian1.xml" path="/btn/" exported="true"/>
+    <component id="oetqs92" name="BtnJia10.xml" path="/btn/" exported="true"/>
+    <component id="oetqs93" name="BtnJian10.xml" path="/btn/" exported="true"/>
+    <component id="oetqs94" name="BtnZuiDa.xml" path="/btn/" exported="true"/>
+    <component id="oetqs95" name="BtnUse.xml" path="/btn/" exported="true"/>
+    <component id="sh628c" name="leagueRankCell.xml" path="/league/component/" exported="true"/>
+    <component id="ikw9s96" name="PlayerTitleSmallComp.xml" path="/player/" exported="true"/>
+    <image id="jqxis97" name="tianfu_blood.png" path="/img_bar/" exported="true"/>
+    <component id="jqxi4n" name="CommonSlider1.xml" path="/slider/" exported="true"/>
+    <component id="jqxi4m" name="CommonSlider1_grip.xml" path="/slider/" exported="true"/>
+    <component id="jqxi4o" name="CommonCountSliderComp.xml" path="/chat/countSlider/" exported="true"/>
+    <component id="jqxis98" name="ChatComp.xml" path="/chat/" exported="true"/>
+    <image id="jqxis99" name="liaotian_frame.png" path="/chat/" exported="true" scale="9grid" scale9grid="6,6,12,12"/>
+    <image id="jqxis9a" name="liaotian_btn.png" path="/chat/" exported="true"/>
+    <component id="9gqus9b" name="CommonScrollText.xml" path="/text/" exported="true"/>
+    <image id="hqybs9c" name="common_004_tag.png" path="/btn/img/" exported="true"/>
+    <image id="e53ps9d" name="bg_post.png" path="/chat/" scale="9grid" scale9grid="23,9,46,18"/>
+    <component id="e53ps9e" name="PostView.xml" path="/chat/" exported="true"/>
+    <component id="e53ps9g" name="PostTextComp.xml" path="/chat/"/>
+    <image id="l2wis9h" name="dakai1_btn.png" path="/img/" exported="true" scale="9grid" scale9grid="21,0,6,38"/>
+    <component id="wq7z110" name="LeagueFlagComp.xml" path="/league/" exported="true"/>
+    <image id="6ihgvvv1e3" name="dizuo.png" path="/peiyang/" exported="true"/>
+    <image id="j2wss9i" name="zjlb_frame.png" path="/img/" exported="true" scale="9grid" scale9grid="12,15,24,14"/>
+    <image id="j2wss9j" name="zijipaiming_frame.png" path="/img/" exported="true" scale="9grid" scale9grid="49,82,19,20"/>
+    <component id="str8vvv1e4" name="BtnZuiDa2.xml" path="/btn/" exported="true"/>
+    <image id="str8vvv1e5" name="zuida_btn.png" path="/btn/img/" exported="true"/>
+    <image id="jqxi4j" name="huadong.png" path="/img_bar/"/>
+    <component id="dx6evvv1e6" name="BtnStyle1.xml" path="/btn/" exported="true"/>
+    <component id="p3xcvvv1e8" name="ItemTipsItemButton.xml" path="/btn/" exported="true"/>
+    <image id="p3xcvvv1e9" name="qianwang_btn.png" path="/btn/img/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

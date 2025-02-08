@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n149_uvvc" name="n149" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="67,189" size="616,882" group="n148_uvvc"/>
+    <image id="n150_uvvc" name="n150" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="90,276" size="570,625" group="n148_uvvc"/>
+    <component id="n159_dx6e" name="n159" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1099" group="n148_uvvc"/>
+    <image id="n77_4283" name="n77" src="428343" fileName="img/dengji.png" xy="269,542" size="50,54" group="n148_uvvc"/>
+    <image id="n154_uvvc" name="n154" src="428343" fileName="img/dengji.png" xy="426,542" size="50,54" group="n148_uvvc"/>
+    <image id="n80_4283" name="n80" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="362,558" size="24,24" group="n148_uvvc"/>
+    <image id="n158_lg0p" name="n158" src="428372" fileName="img/map_building_305.png" xy="243,292" size="318,315" group="n148_uvvc" scale="0.8,0.8"/>
+    <text id="n55_4283" name="n55" xy="308,214" size="131,44" group="n148_uvvc" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="星灵进阶"/>
+    <text id="n78_4283" name="curLV" xy="276,551" pivot="0.5,0.5" size="35,36" group="n148_uvvc" fontSize="26" color="#ffffff" vAlign="middle" autoClearText="true" text="10"/>
+    <text id="n153_uvvc" name="nextLV" xy="433,551" pivot="0.5,0.5" size="35,36" group="n148_uvvc" fontSize="26" color="#ffffff" vAlign="middle" autoClearText="true" text="10"/>
+    <component id="n152_uvvc" name="upBtn" src="lg0pvvv1gi" fileName="btn/BtnChangGui1WithItemList1.xml" pkg="38fa8c75" xy="219,921" size="306,117" group="n148_uvvc"/>
+    <list id="n157_uvvc" name="attUpList" xy="114,624" size="521,232" group="n148_uvvc" overflow="scroll" lineGap="1" defaultItem="ui://00e7db15uvvc8f" autoItemSize="false" align="center" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n148_uvvc" name="root" xy="67,189" size="616,1000" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

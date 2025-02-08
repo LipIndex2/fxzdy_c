@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="142,36" pivot="0.5,0.5">
+  <displayList>
+    <image id="n58_e1fv" name="n58" src="e1fvvvv1ch" fileName="img/zd_icon.png" pkg="38fa8c75" xy="27,4" group="n61_e1fv" scale="0.85,0.85">
+      <relation target="n24_d6aa" sidePair="left-left"/>
+    </image>
+    <text id="n24_d6aa" name="damage" xy="62,4" pivot="0.5,0.5" size="52,29" group="n61_e1fv" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#070110" strokeSize="3" text="7950"/>
+    <group id="n61_e1fv" name="n61" xy="27,4" size="87,34" advanced="true" layout="hz">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <text id="n62_e1fv" name="n62" xy="29,-26" size="83,29" fontSize="20" color="#58c2ff" strokeColor="#000000" strokeSize="2" text="最高伤害"/>
+  </displayList>
+</component>

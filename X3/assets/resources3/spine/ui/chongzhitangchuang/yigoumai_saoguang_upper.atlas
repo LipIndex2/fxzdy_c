@@ -1,0 +1,139 @@
+
+yigoumai_saoguang_upper.png
+size: 419,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/yigoumai01
+  rotate: false
+  xy: 343, 312
+  size: 26, 57
+  orig: 256, 128
+  offset: 15, 50
+  index: -1
+effect/yigoumai02
+  rotate: false
+  xy: 343, 371
+  size: 45, 87
+  orig: 256, 128
+  offset: 15, 20
+  index: -1
+effect/yigoumai03
+  rotate: false
+  xy: 340, 20
+  size: 64, 89
+  orig: 256, 128
+  offset: 15, 18
+  index: -1
+effect/yigoumai04
+  rotate: true
+  xy: 248, 2
+  size: 83, 89
+  orig: 256, 128
+  offset: 15, 18
+  index: -1
+effect/yigoumai05
+  rotate: true
+  xy: 250, 203
+  size: 102, 89
+  orig: 256, 128
+  offset: 15, 18
+  index: -1
+effect/yigoumai06
+  rotate: true
+  xy: 159, 203
+  size: 120, 89
+  orig: 256, 128
+  offset: 15, 18
+  index: -1
+effect/yigoumai07
+  rotate: true
+  xy: 157, 46
+  size: 139, 89
+  orig: 256, 128
+  offset: 15, 18
+  index: -1
+effect/yigoumai08
+  rotate: false
+  xy: 2, 96
+  size: 153, 89
+  orig: 256, 128
+  offset: 20, 18
+  index: -1
+effect/yigoumai09
+  rotate: false
+  xy: 2, 369
+  size: 155, 89
+  orig: 256, 128
+  offset: 37, 18
+  index: -1
+effect/yigoumai10
+  rotate: false
+  xy: 2, 278
+  size: 155, 89
+  orig: 256, 128
+  offset: 56, 18
+  index: -1
+effect/yigoumai11
+  rotate: false
+  xy: 2, 187
+  size: 155, 89
+  orig: 256, 128
+  offset: 75, 18
+  index: -1
+effect/yigoumai12
+  rotate: false
+  xy: 2, 4
+  size: 151, 90
+  orig: 256, 128
+  offset: 94, 17
+  index: -1
+effect/yigoumai13
+  rotate: true
+  xy: 159, 325
+  size: 133, 90
+  orig: 256, 128
+  offset: 113, 17
+  index: -1
+effect/yigoumai14
+  rotate: true
+  xy: 248, 87
+  size: 114, 90
+  orig: 256, 128
+  offset: 132, 17
+  index: -1
+effect/yigoumai15
+  rotate: true
+  xy: 251, 307
+  size: 95, 90
+  orig: 256, 128
+  offset: 151, 17
+  index: -1
+effect/yigoumai16
+  rotate: false
+  xy: 340, 111
+  size: 77, 90
+  orig: 256, 128
+  offset: 169, 17
+  index: -1
+effect/yigoumai17
+  rotate: false
+  xy: 341, 215
+  size: 58, 90
+  orig: 256, 128
+  offset: 188, 17
+  index: -1
+effect/yigoumai18
+  rotate: true
+  xy: 251, 419
+  size: 39, 83
+  orig: 256, 128
+  offset: 207, 17
+  index: -1
+effect/yigoumai19
+  rotate: false
+  xy: 371, 307
+  size: 19, 39
+  orig: 256, 128
+  offset: 227, 22
+  index: -1

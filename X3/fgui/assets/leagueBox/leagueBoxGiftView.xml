@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n1_583b" name="n1" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,227" size="643,877" group="n11_kvs3"/>
+    <image id="n2_583b" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,314" size="596,763" group="n11_kvs3"/>
+    <text id="n3_583b" name="n3" xy="309,252" size="131,44" group="n11_kvs3" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="赠礼列表"/>
+    <list id="n10_kvs3" name="list" xy="92,330" size="577,730" group="n11_kvs3" layout="flow_hz" overflow="scroll" lineGap="16" colGap="12" defaultItem="ui://016cb3f9kvs36b" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n12_kvs3" name="noList" xy="284,646" pivot="0.5,0.5" size="182,42" group="n11_kvs3" visible="false" fontSize="30" color="#6180ca" align="center" vAlign="middle" text="暂无赠礼道具"/>
+    <group id="n11_kvs3" name="n11" xy="54,227" size="643,877" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

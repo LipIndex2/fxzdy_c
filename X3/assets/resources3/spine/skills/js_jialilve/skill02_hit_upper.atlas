@@ -1,0 +1,104 @@
+
+skill02_hit_upper.png
+size: 849,966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_glow
+  rotate: false
+  xy: 2, 2
+  size: 152, 152
+  orig: 160, 160
+  offset: 4, 4
+  index: -1
+effect/skill02_hitupper_00000
+  rotate: true
+  xy: 711, 139
+  size: 187, 136
+  orig: 290, 220
+  offset: 37, 40
+  index: -1
+effect/skill02_hitupper_00001
+  rotate: false
+  xy: 503, 139
+  size: 206, 192
+  orig: 290, 220
+  offset: 32, 5
+  index: -1
+effect/skill02_hitupper_00002
+  rotate: false
+  xy: 279, 134
+  size: 222, 204
+  orig: 290, 220
+  offset: 21, 4
+  index: -1
+effect/skill02_hitupper_00003
+  rotate: false
+  xy: 547, 333
+  size: 246, 210
+  orig: 290, 220
+  offset: 12, 2
+  index: -1
+effect/skill02_hitupper_00004
+  rotate: false
+  xy: 279, 340
+  size: 266, 203
+  orig: 290, 220
+  offset: 7, 0
+  index: -1
+effect/skill02_hitupper_00005
+  rotate: false
+  xy: 2, 547
+  size: 275, 207
+  orig: 290, 220
+  offset: 5, 0
+  index: -1
+effect/skill02_hitupper_00006
+  rotate: false
+  xy: 560, 757
+  size: 280, 207
+  orig: 290, 220
+  offset: 3, 3
+  index: -1
+effect/skill02_hitupper_00007
+  rotate: false
+  xy: 2, 756
+  size: 280, 208
+  orig: 290, 220
+  offset: 4, 3
+  index: -1
+effect/skill02_hitupper_00008
+  rotate: false
+  xy: 560, 545
+  size: 274, 210
+  orig: 290, 220
+  offset: 10, 5
+  index: -1
+effect/skill02_hitupper_00009
+  rotate: false
+  xy: 284, 752
+  size: 274, 212
+  orig: 290, 220
+  offset: 10, 5
+  index: -1
+effect/skill02_hitupper_00010
+  rotate: false
+  xy: 279, 545
+  size: 275, 205
+  orig: 290, 220
+  offset: 9, 10
+  index: -1
+effect/skill02_hitupper_00011
+  rotate: false
+  xy: 2, 344
+  size: 275, 199
+  orig: 290, 220
+  offset: 9, 10
+  index: -1
+effect/skill02_hitupper_00012
+  rotate: false
+  xy: 2, 156
+  size: 275, 182
+  orig: 290, 220
+  offset: 9, 16
+  index: -1

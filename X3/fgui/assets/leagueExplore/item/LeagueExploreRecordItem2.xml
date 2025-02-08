@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="626,112">
+  <displayList>
+    <image id="n29_fdf1" name="n29" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="8,5" size="610,107" alpha="0.14"/>
+    <text id="n31_fdf1" name="lbTime" xy="601,81" pivot="1,0" anchor="true" size="225,29" fontSize="20" color="#bcf4fc" vAlign="middle" text="2024/10/28   22:20:12"/>
+    <richtext id="n32_gtlw" name="lbDes" xy="20,18" size="581,61" fontSize="20" color="#bcf4fc" autoSize="none" text="您占领了2级矿洞"/>
+  </displayList>
+</component>

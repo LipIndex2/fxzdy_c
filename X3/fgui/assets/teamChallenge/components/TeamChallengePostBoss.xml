@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <component id="n133_gwdp" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="50,57" size="100,100"/>
+    <image id="n134_gwdp" name="shadow" src="bbe32" fileName="img/touying.png" xy="3,50" size="94,23" alpha="0.3">
+      <relation target="n133_gwdp" sidePair="center-center,bottom-bottom"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="335,59" restrictSize="0,335,0,59">
+  <displayList>
+    <image id="n7_pkn9" name="n7" src="74e57" fileName="img/hd_yeqian02.png" xy="0,0"/>
+    <image id="n8_pkn9" name="img" src="74e58" fileName="img/hd_yeqian01.png" xy="0,0"/>
+    <text id="n9_pkn9" name="lb" xy="106,0" size="131,54" fontSize="32" color="#d0f0ff" align="center" vAlign="middle" autoSize="none" strokeColor="#033d94" strokeSize="3" text="星际勘探"/>
+    <component id="n10_hz6e" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="321,16" controller="type,0"/>
+  </displayList>
+</component>

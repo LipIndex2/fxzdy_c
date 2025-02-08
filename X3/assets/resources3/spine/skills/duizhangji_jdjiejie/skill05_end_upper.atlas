@@ -1,0 +1,20 @@
+
+skill05_end_upper.png
+size: 104,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/leaderskill05_start1_00009
+  rotate: false
+  xy: 2, 77
+  size: 100, 84
+  orig: 110, 90
+  offset: 5, 2
+  index: -1
+effect/leaderskill05_start2
+  rotate: false
+  xy: 2, 2
+  size: 99, 73
+  orig: 110, 90
+  offset: 6, 2
+  index: -1

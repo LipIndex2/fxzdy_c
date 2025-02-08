@@ -1,0 +1,20 @@
+
+skill01_01_upper.png
+size: 118,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_guang
+  rotate: false
+  xy: 82, 23
+  size: 34, 48
+  orig: 40, 50
+  offset: 3, 0
+  index: -1
+effect/skill01_zhi
+  rotate: false
+  xy: 2, 2
+  size: 78, 69
+  orig: 80, 80
+  offset: 1, 3
+  index: -1

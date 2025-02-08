@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334" designImage="ui://7q3fcj1kt93es7l">
+  <displayList>
+    <image id="n126_ac45" name="adapt_bg" src="k3sy11c" fileName="bg/bg_gvg.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n128_ac45" name="labelTitle" xy="17,35" size="194,64" group="n166_k3sy" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="4" text="联盟对决"/>
+    <component id="n168_k3sy" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="225,49" group="n166_k3sy"/>
+    <group id="n166_k3sy" name="G_top" xy="17,35" size="249,64" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <list id="n165_k3sy" name="itemList" xy="78,107" size="646,1094" layout="flow_hz" overflow="scroll" lineGap="-200" colGap="50" defaultItem="ui://8da0bf52k3sy118" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n167_k3sy" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1213" group="n169_hd60"/>
+    <component id="n156_ac45" name="scorePanel" src="k3sy11b" fileName="components/GVGChallengeScorePanelComp.xml" xy="494,1213" group="n169_hd60"/>
+    <group id="n169_hd60" name="G_footer" xy="0,1213" size="728,119" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

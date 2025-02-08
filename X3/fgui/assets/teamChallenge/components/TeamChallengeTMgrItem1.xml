@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="568,128">
+  <displayList>
+    <image id="n8_ig8t" name="n8" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="568,128"/>
+    <text id="n1_ig8t" name="lbName" xy="135,31" size="135,32" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n4_ig8t" name="lbScore" xy="134,68" size="136,32" fontSize="22" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <component id="n5_ig8t" name="avatar" src="ig8t179" fileName="components/TeamChallengeAvatarCom.xml" xy="6,4" size="120,120"/>
+    <component id="n10_k6be" name="btnYes" src="k6be18q" fileName="btn/TeamChallengeYesBtn.xml" xy="473,37"/>
+    <component id="n11_k6be" name="btnNo" src="k6be18r" fileName="btn/TeamChallengeNoBtn.xml" xy="375,40"/>
+  </displayList>
+</component>

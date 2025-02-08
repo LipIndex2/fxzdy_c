@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="531,286">
+  <displayList>
+    <image id="n37_91d6" name="bg" src="91d623" fileName="img/zu5.png" xy="0,0"/>
+    <list id="n45_nl4g" name="typeList" xy="29,7" size="488,49" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://6bce3772nl4g3m" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n44_nl4g" name="emojiList" xy="19,77" size="491,183" layout="flow_hz" colGap="1" defaultItem="ui://6bce3772buys3h" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kejy366">
+  <controller name="c1" pages="0,免费,1,收费" selected="0"/>
+  <displayList>
+    <loader id="n0_7f45" name="bg" xy="66,468" size="619,469" group="n12_ejy3" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n1_7f45" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="88,557" size="572,203" group="n12_ejy3"/>
+    <text id="n8_7f45" name="labelTitle" xy="308,493" size="131,44" group="n12_ejy3" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="角色改名"/>
+    <component id="n13_s0hy" name="btnFree" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="371,860" pivot="0.5,0.5" anchor="true" size="306,117" group="n12_ejy3" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n14_s0hy" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="490,820" group="n12_ejy3" controller="type,3"/>
+    <component id="n9_ejy3" name="btnOk" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="371,859" pivot="0.5,0.5" anchor="true" group="n12_ejy3" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="修改"/>
+    </component>
+    <image id="n2_7f45" name="bgInput" src="ejy36u" fileName="img/sd_A_common_liaotian_frame(1).png" xy="184,634" group="n11_ejy3" alpha="0.38"/>
+    <text id="n3_7f45" name="labelInput" xy="193,641" pivot="0.5,0.5" size="360,36" group="n11_ejy3" fontSize="26" color="#718fbb" align="center" vAlign="middle" autoSize="none" singleLine="true" text="" input="true" prompt="请输入角色名字"/>
+    <group id="n11_ejy3" name="n11" xy="184,634" size="382,50" group="n12_ejy3"/>
+    <group id="n12_ejy3" name="n12" xy="66,468" size="619,469" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n15_vdae" name="n15" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,964">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

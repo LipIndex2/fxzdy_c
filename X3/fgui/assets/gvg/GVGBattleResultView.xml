@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n203_k3sy" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,740" pivot="0.5,1" anchor="true" size="880,742" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n170_ac45" name="bgReward" src="ac4598" fileName="img/sd_A_common_tisp_frame.png" xy="96,836" group="n204_k3sy"/>
+    <text id="n183_ac45" name="tips" xy="301,1194" size="143,29" group="n204_k3sy" fontSize="20" color="#fffefe" vAlign="middle" text="点击空白处关闭"/>
+    <component id="n198_k3sy" name="playerL" src="k3sy115" fileName="components/GVGPlayerBalanceComp.xml" xy="116,568" group="n204_k3sy"/>
+    <component id="n184_ac45" name="playerR" src="k3sy115" fileName="components/GVGPlayerBalanceComp.xml" xy="464,566" group="n204_k3sy"/>
+    <text id="n205_hd60" name="labelChangeStar" xy="339,690" pivot="1,0.5" size="33,34" group="n204_k3sy" fontSize="24" color="#ffffff" align="right" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" text="+0"/>
+    <image id="n190_ac45" name="star" src="ac45108" fileName="img/scale_80%_sd_A_common_xinghuang1_icon.png" xy="379,692" group="n204_k3sy"/>
+    <image id="n191_ac45" name="imgVs" src="ac45109" fileName="img/VS.png" xy="327,593" group="n204_k3sy"/>
+    <image id="n196_k3sy" name="n196" src="ac4599" fileName="img/scale_80%_sd_A_common_biaoti1_msg.png" xy="270,778" group="n204_k3sy"/>
+    <text id="n197_k3sy" name="labelRewardTitle" xy="315,785" size="107,36" group="n204_k3sy" fontSize="26" color="#8bb4e7" vAlign="middle" text="获得奖励"/>
+    <component id="n201_k3sy" name="itemListComp" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="123,866" size="489,109" group="n204_k3sy"/>
+    <component id="n202_k3sy" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="566,1158" group="n204_k3sy"/>
+    <group id="n204_k3sy" name="G_all" xy="96,566" size="560,682" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n204_k3sy" value="0"/>
+    <item time="0" type="XY" target="n204_k3sy" value="96,566"/>
+    <item time="36" type="Alpha" target="n204_k3sy" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="36" type="XY" target="n204_k3sy" tween="true" startValue="96,647" endValue="96,566" duration="12"/>
+  </transition>
+</component>

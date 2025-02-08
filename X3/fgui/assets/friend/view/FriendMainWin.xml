@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="tab" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <component id="n96_lhcv" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="374,665" pivot="0.5,0.5" anchor="true" size="682,1191" group="n93_cjsd">
+      <relation target="" sidePair=""/>
+    </component>
+    <image id="n0_273c" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,68" size="682,1191" group="n93_cjsd"/>
+    <image id="n1_273c" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,155" size="638,980" group="n93_cjsd"/>
+    <text id="n2_273c" name="lbTitle" xy="337,93" pivot="0.5,0.5" size="67,44" group="n93_cjsd" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="好友"/>
+    <component id="n84_cjsd" name="tab0" src="cjsd38" fileName="btn/FriendTabBtn.xml" xy="55,1155" size="152,68" group="n93_cjsd">
+      <Button checked="true" title="游戏好友" controller="tab" page="0"/>
+    </component>
+    <component id="n85_cjsd" name="tab1" src="cjsd38" fileName="btn/FriendTabBtn.xml" xy="218,1155" size="152,68" group="n93_cjsd">
+      <Button title="好友推荐" controller="tab" page="1"/>
+    </component>
+    <component id="n86_cjsd" name="tab2" src="cjsd38" fileName="btn/FriendTabBtn.xml" xy="378,1155" size="152,68" group="n93_cjsd">
+      <Button title="好友申请" controller="tab" page="2"/>
+    </component>
+    <component id="n87_cjsd" name="tab3" src="cjsd38" fileName="btn/FriendTabBtn.xml" xy="540,1155" size="152,68" group="n93_cjsd">
+      <Button title="黑名单" controller="tab" page="3"/>
+    </component>
+    <component id="n61_273c" name="pageList" src="cjsd3a" fileName="page/FriendListPage.xml" xy="69,170" size="607,956" group="n93_cjsd">
+      <gearDisplay controller="tab" pages="0"/>
+    </component>
+    <component id="n3_273c" name="pageRecommend" src="cjsd36" fileName="page/FriendRecommendPage.xml" xy="69,170" size="607,956" group="n93_cjsd">
+      <gearDisplay controller="tab" pages="1"/>
+    </component>
+    <component id="n34_273c" name="pageApply" src="cjsd39" fileName="page/FriendApplyPage.xml" xy="69,170" size="607,956" group="n93_cjsd">
+      <gearDisplay controller="tab" pages="2"/>
+    </component>
+    <component id="n92_cjsd" name="pageBlack" src="cjsd3b" fileName="page/FriendBlackPage.xml" xy="69,170" size="607,956" group="n93_cjsd">
+      <gearDisplay controller="tab" pages="3"/>
+    </component>
+    <image id="n88_cjsd" name="n88" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="537,172" size="137,36" group="n91_cjsd" color="#5272b0"/>
+    <image id="n89_cjsd" name="n89" src="273c32" fileName="img/duiwu_icon.png" xy="553,177" size="31,26" group="n91_cjsd"/>
+    <text id="n90_cjsd" name="lbNum" xy="589,174" pivot="0.5,0.5" size="68,32" group="n91_cjsd" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#112b6c" strokeSize="2" text="14/30"/>
+    <group id="n91_cjsd" name="gNum" xy="537,172" size="137,36" group="n93_cjsd" advanced="true"/>
+    <group id="n93_cjsd" name="n93" xy="32,68" size="683,1192" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n97_vdae" name="n97" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1267">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

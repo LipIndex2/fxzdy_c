@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="50" infinite="0" nextlayerid="12" nextobjectid="164" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="50">
+ <tileset columns="10" firstgid="1" name="map_ground_5101" tilecount="110" tileheight="120" tilewidth="200">
+  <image height="1320" source="../mapTilesets/masterMap_04/map_ground_5101.png" width="2000" />
+ </tileset>
+ <tileset columns="0" firstgid="111" name="masterMap_04" tilecount="47" tileheight="996" tilewidth="611">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="766" source="../mapTilesets/masterMap_04/map_building_501.png" width="611" />
+  </tile>
+  <tile id="1">
+   <image height="742" source="../mapTilesets/masterMap_04/map_building_502.png" width="605" />
+  </tile>
+  <tile id="2">
+   <image height="452" source="../mapTilesets/masterMap_04/map_building_503.png" width="586" />
+  </tile>
+  <tile id="3">
+   <image height="996" source="../mapTilesets/masterMap_04/map_building_504.png" width="590" />
+  </tile>
+  <tile id="4">
+   <image height="477" source="../mapTilesets/masterMap_04/map_fb_501.png" width="513" />
+  </tile>
+  <tile id="5">
+   <image height="133" source="../mapTilesets/masterMap_04/map_mountain_501.png" width="201" />
+  </tile>
+  <tile id="6">
+   <image height="201" source="../mapTilesets/masterMap_04/map_mountain_502.png" width="224" />
+  </tile>
+  <tile id="7">
+   <image height="316" source="../mapTilesets/masterMap_04/map_mountain_503.png" width="230" />
+  </tile>
+  <tile id="8">
+   <image height="379" source="../mapTilesets/masterMap_04/map_mountain_504.png" width="213" />
+  </tile>
+  <tile id="9">
+   <image height="462" source="../mapTilesets/masterMap_04/map_mountain_505.png" width="233" />
+  </tile>
+  <tile id="10">
+   <image height="143" source="../mapTilesets/masterMap_04/map_mountain_506.png" width="200" />
+  </tile>
+  <tile id="11">
+   <image height="203" source="../mapTilesets/masterMap_04/map_mountain_507.png" width="215" />
+  </tile>
+  <tile id="12">
+   <image height="272" source="../mapTilesets/masterMap_04/map_mountain_508.png" width="224" />
+  </tile>
+  <tile id="13">
+   <image height="377" source="../mapTilesets/masterMap_04/map_mountain_509.png" width="229" />
+  </tile>
+  <tile id="14">
+   <image height="446" source="../mapTilesets/masterMap_04/map_mountain_510.png" width="234" />
+  </tile>
+  <tile id="15">
+   <image height="126" source="../mapTilesets/masterMap_04/map_scene_501.png" width="130" />
+  </tile>
+  <tile id="16">
+   <image height="97" source="../mapTilesets/masterMap_04/map_scene_502.png" width="149" />
+  </tile>
+  <tile id="17">
+   <image height="154" source="../mapTilesets/masterMap_04/map_scene_503.png" width="174" />
+  </tile>
+  <tile id="18">
+   <image height="112" source="../mapTilesets/masterMap_04/map_scene_504.png" width="177" />
+  </tile>
+  <tile id="19">
+   <image height="131" source="../mapTilesets/masterMap_04/map_scene_505.png" width="163" />
+  </tile>
+  <tile id="20">
+   <image height="176" source="../mapTilesets/masterMap_04/map_scene_506.png" width="153" />
+  </tile>
+  <tile id="21">
+   <image height="140" source="../mapTilesets/masterMap_04/map_scene_507.png" width="162" />
+  </tile>
+  <tile id="22">
+   <image height="86" source="../mapTilesets/masterMap_04/map_scene_508.png" width="138" />
+  </tile>
+  <tile id="23">
+   <image height="90" source="../mapTilesets/masterMap_04/map_scene_509.png" width="102" />
+  </tile>
+  <tile id="24">
+   <image height="101" source="../mapTilesets/masterMap_04/map_scene_510.png" width="115" />
+  </tile>
+  <tile id="25">
+   <image height="71" source="../mapTilesets/masterMap_04/map_scene_511.png" width="100" />
+  </tile>
+  <tile id="26">
+   <image height="91" source="../mapTilesets/masterMap_04/map_scene_512.png" width="76" />
+  </tile>
+  <tile id="27">
+   <image height="83" source="../mapTilesets/masterMap_04/map_scene_513.png" width="137" />
+  </tile>
+  <tile id="28">
+   <image height="84" source="../mapTilesets/masterMap_04/map_scene_514.png" width="111" />
+  </tile>
+  <tile id="29">
+   <image height="81" source="../mapTilesets/masterMap_04/map_scene_515.png" width="138" />
+  </tile>
+  <tile id="30">
+   <image height="87" source="../mapTilesets/masterMap_04/map_scene_516.png" width="119" />
+  </tile>
+  <tile id="31">
+   <image height="403" source="../mapTilesets/masterMap_04/map_scene_517.png" width="575" />
+  </tile>
+  <tile id="32">
+   <image height="99" source="../mapTilesets/masterMap_04/map_scene_518.png" width="182" />
+  </tile>
+  <tile id="33">
+   <image height="202" source="../mapTilesets/masterMap_04/map_scene_519.png" width="154" />
+  </tile>
+  <tile id="34">
+   <image height="108" source="../mapTilesets/masterMap_04/map_scene_520.png" width="146" />
+  </tile>
+  <tile id="35">
+   <image height="82" source="../mapTilesets/masterMap_04/map_scene_521.png" width="166" />
+  </tile>
+  <tile id="36">
+   <image height="253" source="../mapTilesets/masterMap_04/map_scene_522.png" width="114" />
+  </tile>
+  <tile id="37">
+   <image height="200" source="../mapTilesets/masterMap_04/map_scene_523.png" width="158" />
+  </tile>
+  <tile id="38">
+   <image height="154" source="../mapTilesets/masterMap_04/map_scene_524.png" width="103" />
+  </tile>
+  <tile id="39">
+   <image height="176" source="../mapTilesets/masterMap_04/map_scene_525.png" width="182" />
+  </tile>
+  <tile id="40">
+   <image height="131" source="../mapTilesets/masterMap_04/map_scene_526.png" width="136" />
+  </tile>
+  <tile id="41">
+   <image height="455" source="../mapTilesets/masterMap_04/map_scene_527.png" width="401" />
+  </tile>
+  <tile id="42">
+   <image height="392" source="../mapTilesets/masterMap_04/map_scene_528.png" width="286" />
+  </tile>
+  <tile id="43">
+   <image height="70" source="../mapTilesets/masterMap_04/map_scene_529.png" width="114" />
+  </tile>
+  <tile id="44">
+   <image height="93" source="../mapTilesets/masterMap_04/map_scene_530.png" width="120" />
+  </tile>
+  <tile id="45">
+   <image height="94" source="../mapTilesets/masterMap_04/map_scene_531.png" width="125" />
+  </tile>
+  <tile id="46">
+   <image height="91" source="../mapTilesets/masterMap_04/map_scene_532.png" width="125" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="158" name="explorationMap" tilecount="18" tileheight="456" tilewidth="456">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory01.png" width="456" />
+  </tile>
+  <tile id="1">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory02.png" width="456" />
+  </tile>
+  <tile id="2">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory03.png" width="456" />
+  </tile>
+  <tile id="3">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory04.png" width="456" />
+  </tile>
+  <tile id="4">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory05.png" width="456" />
+  </tile>
+  <tile id="5">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory06.png" width="456" />
+  </tile>
+  <tile id="6">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory07.png" width="456" />
+  </tile>
+  <tile id="7">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory08.png" width="456" />
+  </tile>
+  <tile id="8">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory09.png" width="456" />
+  </tile>
+  <tile id="9">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine01.png" width="138" />
+  </tile>
+  <tile id="10">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine02.png" width="138" />
+  </tile>
+  <tile id="11">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine03.png" width="138" />
+  </tile>
+  <tile id="12">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine04.png" width="138" />
+  </tile>
+  <tile id="13">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine05.png" width="138" />
+  </tile>
+  <tile id="14">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine06.png" width="138" />
+  </tile>
+  <tile id="15">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine07.png" width="138" />
+  </tile>
+  <tile id="16">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine08.png" width="138" />
+  </tile>
+  <tile id="17">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine09.png" width="138" />
+  </tile>
+ </tileset>
+ <layer height="50" id="1" name="bottom_layer" width="50">
+  <data compression="zlib" encoding="base64">
+   eJztwwEJAAAMBKGD7995OQYKrpqqqqqqqqqqqqo+f7eMHU0=
+  </data>
+ </layer>
+ <layer height="50" id="2" name="grassland_layer" width="50">
+  <data compression="zlib" encoding="base64">
+   eJzt0bENgDAMRcGMl4gKBsj+Y8AGUDjYoDvJ/X9yawAAwAoje0CQI3tAEB216KhFx3v6dfvNzbR1sb7wjyd01KKjlr90bNkDAAAAgFAny30H7Q==
+  </data>
+ </layer>
+ <layer height="50" id="4" name="water_layer" width="50">
+  <data compression="zlib" encoding="base64">
+   eJztmMsKwjAUBfM/4soXPhfWtbrTb/D/P8C7cROIbeikvWnPwKwUToZSCgnhPx/zZj5b/ucddfhCHb5Qhy/m0HE1D7DNCB2/30hLPfcuHS9z39O7gw5iu/R7qA5uh0Ad3A6BOrgdAnVwOwTq4HYI1MHtEKiD2yFQB7dDoA5uh0Ad3A7BnDoeof/929tBR+33cKfQ//4t9jhCR02kOjbmOXI57NGySHXszEXkZdijZTH1jrW5jVwNe7Qspv6e1wb5zS5p1w7vtlHim11CIUSaL9wZmrQ=
+  </data>
+ </layer>
+ <layer height="50" id="3" name="mountain_layer" width="50">
+  <data compression="zlib" encoding="base64">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAAADg3wAnEAAB
+  </data>
+ </layer>
+ <objectgroup id="6" name="ornament_layer">
+  <object gid="148" height="200" id="112" width="158" x="2196" y="900" />
+  <object gid="148" height="200" id="113" width="158" x="2331.2" y="3588.8" />
+  <object gid="148" height="200" id="123" width="158" x="2456.8" y="3815.2" />
+  <object gid="148" height="200" id="114" width="158" x="2952" y="4536" />
+  <object gid="154" height="70" id="118" width="114" x="2979" y="1707" />
+  <object gid="154" height="70" id="119" width="114" x="4593.4" y="796.6" />
+  <object gid="148" height="200" id="127" width="158" x="1730.6" y="1570.4" />
+  <object gid="148" height="200" id="130" width="158" x="4138.33" y="829.33" />
+  <object gid="148" height="200" id="135" width="158" x="1682.6" y="2602.4" />
+  <object gid="148" height="200" id="136" width="158" x="2308.71" y="1515.93" />
+  <object gid="157" height="91" id="137" width="125" x="4764.29" y="718.02" />
+  <object gid="157" height="91" id="138" width="125" x="1643.9" y="4288.1" />
+  <object gid="148" height="200" id="159" width="158" x="4832.2" y="1844.8" />
+  <object gid="148" height="200" id="160" width="158" x="4745.8" y="3083.2" />
+  <object gid="154" height="70" id="161" width="114" x="5025.4" y="2546.6" />
+  <object gid="154" height="70" id="162" width="114" x="4911" y="3661" />
+  <object gid="148" height="200" id="163" width="158" x="4482.6" y="4586.4" />
+ </objectgroup>
+ <objectgroup id="5" name="player_layer">
+  <object height="456" id="1" type="4级" visible="0" width="456" x="2935.07" y="3222.27">
+   <properties>
+    <property name="building_type" value="factories" />
+    <property name="object_id" type="int" value="1003201" />
+   </properties>
+  </object>
+  <object height="456" id="2" type="4级" visible="0" width="456" x="2931.87" y="2069.47">
+   <properties>
+    <property name="building_type" value="factories" />
+    <property name="object_id" type="int" value="1003202" />
+   </properties>
+  </object>
+  <object height="149" id="5" type="4级" visible="0" width="138" x="3272.4" y="2943.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032008" />
+   </properties>
+  </object>
+  <object height="149" id="6" type="4级" visible="0" width="138" x="2549.2" y="2030.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032016" />
+   </properties>
+  </object>
+  <object height="149" id="7" type="4级" visible="0" width="138" x="2552.4" y="2943.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032005" />
+   </properties>
+  </object>
+  <object height="149" id="8" type="4级" visible="0" width="138" x="2549.2" y="2270.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032015" />
+   </properties>
+  </object>
+  <object height="149" id="9" type="4级" visible="0" width="138" x="3392.4" y="3303.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032010" />
+   </properties>
+  </object>
+  <object height="149" id="10" type="4级" visible="0" width="138" x="3032.4" y="2943.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032007" />
+   </properties>
+  </object>
+  <object height="149" id="11" type="4级" visible="0" width="138" x="3392.4" y="3063.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032009" />
+   </properties>
+  </object>
+  <object height="149" id="12" type="4级" visible="0" width="138" x="2792.4" y="2943.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032006" />
+   </properties>
+  </object>
+  <object height="149" id="13" type="4级" visible="0" width="138" x="2669.2" y="2390.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032014" />
+   </properties>
+  </object>
+  <object height="149" id="14" type="4级" visible="0" width="138" x="3152.4" y="3543.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032011" />
+   </properties>
+  </object>
+  <object height="149" id="15" type="4级" visible="0" width="138" x="2909.2" y="2390.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032013" />
+   </properties>
+  </object>
+  <object height="149" id="16" type="4级" visible="0" width="138" x="3392.4" y="3543.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032012" />
+   </properties>
+  </object>
+  <object height="149" id="18" type="4级" visible="0" width="138" x="2549.2" y="1790.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032017" />
+   </properties>
+  </object>
+  <object height="149" id="21" type="4级" visible="0" width="138" x="2789.2" y="1790.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032018" />
+   </properties>
+  </object>
+  <object height="149" id="22" type="4级" visible="0" width="138" x="3029.2" y="1790.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032019" />
+   </properties>
+  </object>
+  <object height="149" id="23" type="4级" visible="0" width="138" x="3269.2" y="1790.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032020" />
+   </properties>
+  </object>
+  <object height="149" id="24" type="4级" visible="0" width="138" x="3389.2" y="1910.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032021" />
+   </properties>
+  </object>
+  <object height="149" id="26" type="4级" visible="0" width="138" x="3389.2" y="2390.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032023" />
+   </properties>
+  </object>
+  <object height="149" id="27" type="4级" visible="0" width="138" x="3389.2" y="2150.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032022" />
+   </properties>
+  </object>
+  <object height="149" id="28" type="4级" visible="0" width="138" x="3149.2" y="2390.8">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032024" />
+   </properties>
+  </object>
+  <object height="149" id="41" type="4级" visible="0" width="138" x="2672.4" y="3543.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032002" />
+   </properties>
+  </object>
+  <object height="149" id="42" type="4级" visible="0" width="138" x="2552.4" y="3423.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032003" />
+   </properties>
+  </object>
+  <object height="149" id="47" type="4级" visible="0" width="138" x="2552.4" y="3183.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032004" />
+   </properties>
+  </object>
+  <object height="149" id="49" type="4级" visible="0" width="138" x="2912.4" y="3543.6">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10032001" />
+   </properties>
+  </object>
+  <object id="139" visible="0" x="3754.8" y="3661.2">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10032901" />
+   </properties>
+   <point />
+  </object>
+  <object id="140" visible="0" x="3754.8" y="1621.2">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10032902" />
+   </properties>
+   <point />
+  </object>
+  <object id="141" visible="0" x="2794.02" y="2645.37">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10032903" />
+   </properties>
+   <point />
+  </object>
+  <object id="156" visible="0" x="2414.32" y="3684.72">
+   <properties>
+    <property name="building_type" value="factories_area" />
+    <property name="factory_id" type="int" value="1003201" />
+   </properties>
+   <polygon points="0,0 1200,0 1200,-840 0,-840" />
+  </object>
+  <object id="157" visible="0" x="2411.52" y="2539.52">
+   <properties>
+    <property name="building_type" value="factories_area" />
+    <property name="factory_id" type="int" value="1003202" />
+   </properties>
+   <polygon points="0,0 1200,0 1200,-840 0,-840" />
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="role_layer" />
+ <objectgroup id="8" locked="1" name="collider_layer" visible="0">
+  <object id="149" x="1320" y="0">
+   <polygon points="0,0 0,5160 0,5640 -600,5640 -360,0" />
+  </object>
+  <object id="150" x="1200" y="5160">
+   <polygon points="0,0 3600,0 3600,360 -120,360" />
+  </object>
+  <object id="151" x="2037.6" y="3962.4">
+   <polygon points="0,0 2522.4,-2.4 2522.4,357.6 -360,360 -360,0" />
+  </object>
+  <object id="152" x="1800" y="4320">
+   <polygon points="0,0 0,-3360 360,-3360 360,0" />
+  </object>
+  <object id="153" x="1800" y="1320">
+   <polygon points="0,0 2760,0 2760,-360 0,-360" />
+  </object>
+  <object id="154" x="4080" y="960">
+   <polygon points="0,0 0,3360 360,3360 360,0" />
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="ui_layer" />
+</map>

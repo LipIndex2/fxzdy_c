@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,40" pivot="0.5,0.5" anchor="true" extention="Button">
+  <displayList>
+    <text id="n7_loej" name="title" xy="49,20" pivot="0.5,0.5" anchor="true" size="91,32" fontSize="22" color="#c1c7d0" align="center" vAlign="middle" underline="true" singleLine="true" text="直接领取">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="337,242" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <loader id="n23_8528" name="bg" xy="0,0" size="337,242" url="ui://38fa8c75kp1obe" fill="scaleFree"/>
+    <text id="n29_8528" name="labelTitle" xy="32,9" size="279,49" fontSize="36" color="#2867e6" align="center" autoSize="none" singleLine="true" text="暴击"/>
+    <text id="n24_8528" name="desc" xy="15,71" size="314,61" fontSize="24" color="#fffef6" align="center" vAlign="middle" vars="true" autoSize="shrink" text="全体暴击率+5%"/>
+    <component id="n33_piwi" name="btnUnlock" src="piwibl" fileName="btn/UnlockByCostItemBtn.xml" pkg="38fa8c75" xy="61,145"/>
+  </displayList>
+</component>

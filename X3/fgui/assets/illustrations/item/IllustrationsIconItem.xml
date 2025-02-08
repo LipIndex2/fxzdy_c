@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104" extention="Button">
+  <displayList>
+    <loader id="n2_f0d8" name="bg" xy="52,52" pivot="0.5,0.5" anchor="true" size="104,104" url="ui://38fa8c75f0d84"/>
+    <loader id="n9_f0d8" name="itemIcon" xy="51,53" pivot="0.5,0.5" anchor="true" size="100,100" align="center" vAlign="middle"/>
+    <text id="n12_f0d8" name="itemCount" xy="102,77" pivot="1,0" anchor="true" size="52,29" fontSize="20" color="#fefefe" strokeColor="#000000" strokeSize="3" text="1000"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

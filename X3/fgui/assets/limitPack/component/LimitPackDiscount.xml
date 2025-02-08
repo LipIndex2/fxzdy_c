@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="167,41" designImage="ui://7q3fcj1k97dis7v" designImageOffsetX="-118" designImageOffsetY="-546">
+  <displayList>
+    <image id="n21_cae0" name="n21" src="dusvvvv1fl" fileName="bgImage/v_zgbq.png" pkg="38fa8c75" xy="1,8" size="164,32">
+      <relation target="n42_ohdt" sidePair="rightext-right"/>
+    </image>
+    <text id="n23_cae0" name="n23" xy="5,2" size="48,32" fontSize="22" color="#fffe80" vAlign="bottom" italic="true" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+    <text id="n42_ohdt" name="lbDiscount" xy="55,-4" size="98,40" fontSize="29" color="#fffe80" vAlign="bottom" strokeColor="#cf411a" strokeSize="3" autoClearText="true" text="3000%"/>
+  </displayList>
+</component>

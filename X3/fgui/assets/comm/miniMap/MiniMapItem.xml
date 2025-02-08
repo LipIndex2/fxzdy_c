@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="241,161">
+  <displayList>
+    <image id="n6_773e" name="n6" src="v891vvv1es" fileName="miniMap/xiaoditu_frame.png" xy="0,0" size="241,161" group="n103_v891">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n7_773e" name="map" src="v891vvv1ev" fileName="miniMap/MaskItem.xml" xy="10,10" size="221,141" group="n103_v891" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n104_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="231,10" size="20,20" group="n103_v891" touchable="false" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <group id="n103_v891" name="n103" xy="0,0" size="241,161"/>
+  </displayList>
+</component>

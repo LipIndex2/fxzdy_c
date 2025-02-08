@@ -1,0 +1,125 @@
+
+skill02_upper.png
+size: 1145,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/dici01
+  rotate: false
+  xy: 1028, 2
+  size: 115, 115
+  orig: 128, 256
+  offset: 8, 0
+  index: -1
+images/effect/dici02
+  rotate: false
+  xy: 256, 88
+  size: 125, 213
+  orig: 128, 256
+  offset: 2, 0
+  index: -1
+images/effect/dici03
+  rotate: false
+  xy: 2, 47
+  size: 128, 254
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+images/effect/dici04
+  rotate: false
+  xy: 132, 76
+  size: 122, 225
+  orig: 128, 256
+  offset: 0, 31
+  index: -1
+images/effect/dici05
+  rotate: false
+  xy: 383, 92
+  size: 117, 209
+  orig: 128, 256
+  offset: 5, 47
+  index: -1
+images/effect/dici06
+  rotate: false
+  xy: 1028, 119
+  size: 87, 182
+  orig: 128, 256
+  offset: 18, 74
+  index: -1
+images/effect/yanhuan01
+  rotate: false
+  xy: 132, 34
+  size: 113, 40
+  orig: 256, 128
+  offset: 73, 42
+  index: -1
+images/effect/yanhuan02
+  rotate: false
+  xy: 579, 13
+  size: 122, 48
+  orig: 256, 128
+  offset: 72, 38
+  index: -1
+images/effect/yanhuan03
+  rotate: false
+  xy: 433, 3
+  size: 144, 59
+  orig: 256, 128
+  offset: 58, 33
+  index: -1
+images/effect/yanhuan04
+  rotate: false
+  xy: 859, 8
+  size: 159, 67
+  orig: 256, 128
+  offset: 44, 29
+  index: -1
+images/effect/yanhuan05
+  rotate: false
+  xy: 256, 12
+  size: 175, 74
+  orig: 256, 128
+  offset: 32, 25
+  index: -1
+images/effect/yanhuan06
+  rotate: true
+  xy: 946, 100
+  size: 201, 80
+  orig: 256, 128
+  offset: 22, 21
+  index: -1
+images/effect/yanhuan07
+  rotate: true
+  xy: 859, 77
+  size: 224, 85
+  orig: 256, 128
+  offset: 13, 17
+  index: -1
+images/effect/yanhuan08
+  rotate: true
+  xy: 502, 64
+  size: 237, 88
+  orig: 256, 128
+  offset: 7, 15
+  index: -1
+images/effect/yanhuan09
+  rotate: true
+  xy: 592, 64
+  size: 237, 88
+  orig: 256, 128
+  offset: 7, 15
+  index: -1
+images/effect/yanhuan10
+  rotate: true
+  xy: 682, 63
+  size: 238, 87
+  orig: 256, 128
+  offset: 7, 15
+  index: -1
+images/effect/yanhuan11
+  rotate: true
+  xy: 771, 62
+  size: 239, 86
+  orig: 256, 128
+  offset: 7, 16
+  index: -1

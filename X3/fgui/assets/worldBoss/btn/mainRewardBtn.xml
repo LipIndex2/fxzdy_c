@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="94,29" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n8_d6aa" name="damageReward" xy="0,0" size="94,29" fontSize="20" color="#1dff3d" autoSize="none" underline="true" text="查看奖励"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

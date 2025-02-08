@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="101,64" pivot="0.5,0.5" anchor="true" initName="cornerMark">
+  <displayList>
+    <image id="n0_mz6j" name="bg" src="mz6jvvv1h3" fileName="btnImage/bg_cornermark.png" xy="50,32" pivot="0.5,0.5" anchor="true" size="101,64" group="n2_mz6j">
+      <relation target="n1_mz6j" sidePair="width-width"/>
+    </image>
+    <text id="n1_mz6j" name="lbTip" xy="42,32" pivot="0.5,0.5" anchor="true" size="63,42" group="n2_mz6j" fontSize="30" color="#ffffff" align="center" vAlign="bottom" strokeColor="#bf0a0a" strokeSize="3" text="超值">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n2_mz6j" name="gAll" xy="0,0" size="101,64" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="271,148">
+  <controller name="c1" exported="true" pages="0,属性,1,职业" selected="0"/>
+  <displayList>
+    <image id="n74_bezo" name="n74" src="bezov8s" fileName="img/tips_frame.png" xy="0,0" size="271,148">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearSize controller="c1" pages="1" values="271,85,1,1" default="271,148,1,1"/>
+    </image>
+    <image id="n75_bezo" name="n75" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="12,53" size="247,3" color="#29313f">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <text id="n76_bezo" name="T_name" xy="98,11" pivot="0.5,0.5" size="75,34" fontSize="24" color="#f6d860" align="center" vAlign="middle" text="属性名">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n78_bezo" name="T_desc" xy="13,68" size="245,29" fontSize="20" color="#b9e4ff" vAlign="middle" autoSize="height" text="角色攻击时，忽视地方防御">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="13,44" default="13,68"/>
+    </text>
+    <text id="n79_bezo" name="T_career" xy="13,13" size="245,29" fontSize="20" color="#b9e4ff" vAlign="middle" autoSize="height" text="职业：射击">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,159">
+  <displayList>
+    <loader id="n22_7b5e" name="imageHero" xy="17,0" pivot="0.5,0.5" size="92,87" url="ui://e93efac4gsa5s6f" align="center" vAlign="middle"/>
+    <text id="n26_7b5e" name="labelTitle" xy="0,100" pivot="0.5,0.5" size="127,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" singleLine="true" text="累计招募30次"/>
+    <text id="n27_7b5e" name="labelContent" xy="2,130" pivot="0.5,0.5" size="123,29" fontSize="20" color="#37affc" align="center" vAlign="middle" singleLine="true" text="自选史诗英雄"/>
+  </displayList>
+</component>

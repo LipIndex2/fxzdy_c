@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,270" opaque="false">
+  <controller name="haveBigTalentFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <controller name="isSkipLv" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n41_db4z" name="lineLv" src="kp1o26" fileName="img/tianfu_blood.png" xy="-28,75" size="800,10" group="n37_kp3w" visible="false"/>
+    <component id="n40_db4z" name="bar" src="db4z40" fileName="bar/TalentDNABar.xml" xy="301,75" pivot="0.5,0.5" group="n37_kp3w">
+      <ProgressBar value="60" max="100"/>
+    </component>
+    <component id="n38_ov08" name="small1" src="ov083y" fileName="components/TalentSmallV2Comp.xml" xy="50,27" group="n37_kp3w"/>
+    <component id="n19_e3a2" name="big1" src="ov083z" fileName="components/TalentBigV2Comp.xml" xy="415,3" group="n37_kp3w">
+      <gearDisplay controller="haveBigTalentFlag" pages="1"/>
+    </component>
+    <image id="n28_pwoe" name="bgLv" src="pwoe3g" fileName="img/sd_A_common_liaotian_frame_2.png" xy="337,66" size="65,30" group="n42_db4z"/>
+    <text id="n29_pwoe" name="labelLv" xy="339,60" pivot="0.5,0.5" size="62,42" group="n42_db4z" fontSize="30" color="#4ca7f5" align="center" vAlign="middle" autoSize="none" singleLine="true" text="12"/>
+    <group id="n42_db4z" name="G_title" xy="337,60" size="65,42" group="n37_kp3w" advanced="true">
+      <gearDisplay controller="isSkipLv" pages="0"/>
+    </group>
+    <component id="n43_jqxi" name="barFirst" src="db4z40" fileName="bar/TalentDNABar.xml" xy="301,217" pivot="0.5,0.5" group="n37_kp3w" visible="false">
+      <ProgressBar value="60" max="100"/>
+    </component>
+    <group id="n37_kp3w" name="all" xy="-28,3" size="800,358" advanced="true"/>
+  </displayList>
+</component>

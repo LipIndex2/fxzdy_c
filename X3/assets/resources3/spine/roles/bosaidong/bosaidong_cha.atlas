@@ -1,0 +1,13 @@
+
+bosaidong_cha.png
+size: 61,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/js02
+  rotate: false
+  xy: 2, 2
+  size: 57, 140
+  orig: 57, 141
+  offset: 0, 0
+  index: -1

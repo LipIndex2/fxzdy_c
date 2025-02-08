@@ -1,0 +1,13 @@
+
+mine_level7.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_mine07
+  rotate: false
+  xy: 2, 2
+  size: 124, 124
+  orig: 138, 149
+  offset: 7, 3
+  index: -1

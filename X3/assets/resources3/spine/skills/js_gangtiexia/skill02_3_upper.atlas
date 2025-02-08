@@ -1,0 +1,83 @@
+
+skill02_3_upper.png
+size: 640,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_jiguang_00000
+  rotate: false
+  xy: 459, 2
+  size: 151, 43
+  orig: 500, 70
+  offset: 349, 14
+  index: -1
+effect/skill02_jiguang_00001
+  rotate: true
+  xy: 504, 68
+  size: 404, 49
+  orig: 500, 70
+  offset: 96, 11
+  index: -1
+effect/skill02_jiguang_00002
+  rotate: false
+  xy: 2, 186
+  size: 497, 70
+  orig: 500, 70
+  offset: 3, 0
+  index: -1
+effect/skill02_jiguang_00003
+  rotate: false
+  xy: 2, 116
+  size: 457, 68
+  orig: 500, 70
+  offset: 43, 0
+  index: -1
+effect/skill02_jiguang_00004
+  rotate: false
+  xy: 2, 402
+  size: 500, 70
+  orig: 500, 70
+  offset: 0, 0
+  index: -1
+effect/skill02_jiguang_00005
+  rotate: false
+  xy: 2, 330
+  size: 500, 70
+  orig: 500, 70
+  offset: 0, 0
+  index: -1
+effect/skill02_jiguang_00006
+  rotate: false
+  xy: 2, 258
+  size: 500, 70
+  orig: 500, 70
+  offset: 0, 0
+  index: -1
+effect/skill02_jiguang_00007
+  rotate: false
+  xy: 2, 61
+  size: 500, 53
+  orig: 500, 70
+  offset: 0, 7
+  index: -1
+effect/skill02_jiguang_00008
+  rotate: false
+  xy: 2, 13
+  size: 455, 46
+  orig: 500, 70
+  offset: 45, 11
+  index: -1
+effect/skill02_jiguang_00009
+  rotate: true
+  xy: 555, 47
+  size: 425, 43
+  orig: 500, 70
+  offset: 67, 12
+  index: -1
+effect/skill02_jiguang_00010
+  rotate: true
+  xy: 600, 47
+  size: 399, 38
+  orig: 500, 70
+  offset: 84, 15
+  index: -1

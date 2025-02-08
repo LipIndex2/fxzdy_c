@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0260141f">
+  <resources>
+    <image id="26e00" name="lmkj_bg.png" path="/img/"/>
+    <image id="26e01" name="diban.png" path="/img/"/>
+    <image id="26e02" name="lmkj_tiaowen_5.jpg" path="/img/"/>
+    <image id="26e03" name="scale_80%_sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="26e04" name="scale_60%_sd_A_common_icgoods_10032_4.png" path="/img/"/>
+    <image id="26e05" name="scale_66%_sd_A_common_ygm_tag.png" path="/img/"/>
+    <image id="26e06" name="zi_2.png" path="/img/"/>
+    <image id="26e07" name="scale_110%_sd_A_common_ygm_tag.png" path="/img/"/>
+    <image id="26e08" name="scale_62%_sd_A_common_changgui3_btn.png" path="/img/"/>
+    <image id="26e09" name="daojudi.png" path="/img/"/>
+    <image id="26e010" name="daoju.png" path="/img/"/>
+    <image id="26e011" name="zu130420kaobei9.png" path="/img/"/>
+    <image id="26e012" name="scale_70%_sd_A_common_icgoods_10032_1.png" path="/img/"/>
+    <image id="26e013" name="xiaobiao.png" path="/img/"/>
+    <image id="26e014" name="hongtiao.jpg" path="/img/"/>
+    <image id="26e015" name="sd_A_common_qipao_bai.png" path="/img/"/>
+    <image id="26e016" name="zi.png" path="/img/"/>
+    <image id="26e017" name="sd_A_common_004_tag.png" path="/img/"/>
+    <image id="26e018" name="tuceng42kaobei.jpg" path="/img/"/>
+    <image id="26e019" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="26e020" name="scale_55%_sd_A_common_word_tag_0.png" path="/img/"/>
+    <image id="26e021" name="scale_55%_sd_A_common_word_tag.png" path="/img/"/>
+    <component id="26e022" name="LeagueBargainMainView.xml" path="/"/>
+    <component id="mki723" name="LeagueBargainInfoWin.xml" path="/"/>
+    <component id="mki724" name="LeagueBargainRowItemComp.xml" path="/item/"/>
+    <component id="mki725" name="LeagueBargainBuyItemComp.xml" path="/item/"/>
+    <component id="mki726" name="LeagueBargainBuyBtn.xml" path="/btn/"/>
+    <component id="mki727" name="LeagueBargainRewardComp.xml" path="/components/"/>
+    <component id="eu7e28" name="LeagueBargainFloatComp.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

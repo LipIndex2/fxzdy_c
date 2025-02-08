@@ -1,0 +1,174 @@
+
+skill02_shifa_upper.png
+size: 552,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack_shandian_01
+  rotate: true
+  xy: 412, 302
+  size: 19, 15
+  orig: 260, 128
+  offset: 237, 58
+  index: -1
+images/effect/attack_shandian_02
+  rotate: false
+  xy: 187, 11
+  size: 140, 36
+  orig: 260, 128
+  offset: 120, 55
+  index: -1
+images/effect/attack_shandian_03
+  rotate: true
+  xy: 429, 97
+  size: 224, 61
+  orig: 260, 128
+  offset: 27, 38
+  index: -1
+images/effect/attack_shandian_04
+  rotate: false
+  xy: 158, 295
+  size: 252, 67
+  orig: 260, 128
+  offset: 4, 32
+  index: -1
+images/effect/attack_shandian_05
+  rotate: false
+  xy: 158, 233
+  size: 253, 60
+  orig: 260, 128
+  offset: 3, 36
+  index: -1
+images/effect/attack_shandian_06
+  rotate: true
+  xy: 492, 44
+  size: 225, 58
+  orig: 260, 128
+  offset: 26, 38
+  index: -1
+images/effect/attack_shandian_07
+  rotate: false
+  xy: 190, 493
+  size: 216, 57
+  orig: 260, 128
+  offset: 30, 40
+  index: -1
+images/effect/attack_shandian_08
+  rotate: false
+  xy: 2, 6
+  size: 183, 38
+  orig: 260, 128
+  offset: 57, 43
+  index: -1
+images/effect/skill02_glo_01
+  rotate: false
+  xy: 2, 364
+  size: 186, 186
+  orig: 192, 192
+  offset: 3, 3
+  index: -1
+images/effect/skill02_shifa01_00009
+  rotate: true
+  xy: 444, 48
+  size: 47, 32
+  orig: 175, 175
+  offset: 64, 72
+  index: -1
+images/effect/skill02_shifa01_00010
+  rotate: false
+  xy: 412, 323
+  size: 101, 70
+  orig: 175, 175
+  offset: 37, 53
+  index: -1
+images/effect/skill02_shifa01_00011
+  rotate: true
+  xy: 313, 76
+  size: 155, 108
+  orig: 175, 175
+  offset: 10, 34
+  index: -1
+images/effect/skill02_shifa01_00012
+  rotate: false
+  xy: 190, 430
+  size: 175, 61
+  orig: 175, 175
+  offset: 0, 57
+  index: -1
+images/effect/skill02_shifa01_00013
+  rotate: false
+  xy: 190, 367
+  size: 175, 61
+  orig: 175, 175
+  offset: 0, 57
+  index: -1
+images/effect/skill02_shifa01_00014
+  rotate: true
+  xy: 412, 395
+  size: 155, 109
+  orig: 175, 175
+  offset: 10, 32
+  index: -1
+images/effect/skill02_shifa01_00015
+  rotate: true
+  xy: 2, 46
+  size: 156, 153
+  orig: 175, 175
+  offset: 10, 9
+  index: -1
+images/effect/skill02_shifa01_00016
+  rotate: true
+  xy: 2, 204
+  size: 158, 154
+  orig: 175, 175
+  offset: 9, 8
+  index: -1
+images/effect/skill02_shifa01_00017
+  rotate: true
+  xy: 157, 49
+  size: 153, 126
+  orig: 175, 175
+  offset: 12, 9
+  index: -1
+images/effect/skill02_shifa01_00018
+  rotate: false
+  xy: 255, 216
+  size: 56, 15
+  orig: 175, 175
+  offset: 78, 12
+  index: -1
+images/effect/skill02_smoke_UP_00000
+  rotate: false
+  xy: 158, 209
+  size: 95, 22
+  orig: 150, 100
+  offset: 8, 35
+  index: -1
+images/effect/skill02_smoke_UP_00004
+  rotate: false
+  xy: 329, 44
+  size: 113, 30
+  orig: 150, 100
+  offset: 9, 35
+  index: -1
+images/effect/skill02_smoke_UP_00007
+  rotate: true
+  xy: 367, 367
+  size: 124, 33
+  orig: 150, 100
+  offset: 9, 35
+  index: -1
+images/effect/skill02_smoke_UP_00010
+  rotate: false
+  xy: 329, 6
+  size: 124, 36
+  orig: 150, 100
+  offset: 10, 34
+  index: -1
+images/effect/skill02_smoke_UP_00013
+  rotate: true
+  xy: 515, 271
+  size: 122, 35
+  orig: 150, 100
+  offset: 11, 35
+  index: -1

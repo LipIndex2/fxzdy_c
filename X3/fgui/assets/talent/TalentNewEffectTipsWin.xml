@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="type" pages="0,升级,1,功能" selected="0"/>
+  <displayList>
+    <image id="n8_d360" name="n8" src="f3sk4e" fileName="img/sd_A_common_gxhd_frame.png" xy="-9,551"/>
+    <image id="n9_d360" name="n9" src="f3sk4f" fileName="img/sd_A_common_gxhdbt_frame_0.png" xy="224,514" group="n22_f3sk"/>
+    <image id="n10_d360" name="n10" src="f3sk4g" fileName="img/jibanshengji.png" xy="263,514" group="n22_f3sk"/>
+    <group id="n22_f3sk" name="G_lvUp" xy="224,514" size="326,68" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <image id="n23_f3sk" name="n23" src="f3sk4f" fileName="img/sd_A_common_gxhdbt_frame_0.png" xy="223,512" group="n25_f3sk"/>
+    <image id="n24_f3sk" name="n24" src="f3sk4h" fileName="img/gongnengjiesuo.png" xy="263,509" group="n25_f3sk"/>
+    <group id="n25_f3sk" name="G_unlockFunc" xy="223,509" size="326,71" advanced="true">
+      <gearDisplay controller="type" pages="1"/>
+    </group>
+    <richtext id="n21_f3sk" name="labelTips" xy="96,800" pivot="0.5,0.5" size="523,44" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" text="布阵[color=#83cfff]2个同职业[/color]英雄激活额外加成"/>
+    <image id="n17_f3sk" name="bg1" src="f3sk4i" fileName="img/guang.png" xy="231,535" group="n20_f3sk"/>
+    <image id="n18_f3sk" name="bg2" src="f3sk4j" fileName="img/guang1.png" xy="263,555" group="n20_f3sk"/>
+    <image id="n19_f3sk" name="bgLogo" src="f3sk4k" fileName="img/sd_Ttubiao_tubiao_zhujiemian_0001_2.png" xy="326,614" group="n20_f3sk"/>
+    <loader id="n12_d360" name="imageLogo" xy="335,635" pivot="0.5,0.5" size="75,67" group="n20_f3sk" url="ui://2cb2b961f3sk4l" autoSize="true">
+      <relation target="n19_f3sk" sidePair="center-center,middle-middle"/>
+    </loader>
+    <text id="n13_d360" name="labelTitle" xy="319,724" pivot="0.5,0.5" size="104,32" group="n20_f3sk" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="职业羁绊2"/>
+    <group id="n20_f3sk" name="n20" xy="231,535" size="281,259"/>
+  </displayList>
+</component>

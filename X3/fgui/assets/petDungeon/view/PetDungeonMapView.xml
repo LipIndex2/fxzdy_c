@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="有下一关"/>
+    <remark page="1" value="已通关"/>
+  </controller>
+  <displayList>
+    <component id="n44_woyg" name="btnGo" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="215,1122" size="306,117">
+      <gearLook controller="state" pages="1" values="1,0,1,1" default="1,0,0,1"/>
+      <gearText controller="state" pages="1" values="已完成探索" default="探索"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="探索" titleFontSize="46"/>
+    </component>
+    <component id="n45_woyg" name="btnReset" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="615,1155" size="109,52">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="重置"/>
+    </component>
+    <component id="n46_woyg" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n47_woyg" name="btnShop" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="642,292" visible="false">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="商店" icon="ui://38fa8c75ffqtvvv1cj"/>
+    </component>
+    <component id="n48_woyg" name="btnRank" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="642,170">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="排行" icon="ui://38fa8c75gs9kvvv1fx"/>
+    </component>
+    <image id="n2_bfe7" name="n2" src="bfe713" fileName="img/xinxi_di.png" xy="12,820" group="n50_woyg"/>
+    <image id="n14_bfe7" name="n14" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="34,847" size="671,37" group="n50_woyg" color="#457bfc"/>
+    <text id="n15_bfe7" name="n15" xy="118,867" pivot="0.5,0.5" anchor="true" size="123,42" group="n50_woyg" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="上阵英雄"/>
+    <list id="n41_woyg" name="listHero" xy="25,905" size="700,130" group="n50_woyg" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" defaultItem="ui://390d39d8woyg121" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n43_woyg" name="btnEdit" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="615,837" size="109,52" group="n50_woyg"/>
+    <component id="n58_t1qh" name="btnBox" src="woyg123" fileName="component/PetDungeonBoxBtn.xml" xy="620,906" group="n50_woyg"/>
+    <group id="n50_woyg" name="gHero" xy="12,820" size="724,240" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n51_woyg" name="tilteComp" src="woyg124" fileName="component/PetDungeonTitleComp.xml" xy="6,68">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n53_gl0p" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="407,70" group="n57_gl0p"/>
+    <component id="n54_gl0p" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="568,70" group="n57_gl0p"/>
+    <component id="n55_gl0p" name="headerItem3" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="390,124" size="143,41" group="n57_gl0p"/>
+    <component id="n56_gl0p" name="headerItem4" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="530,123" size="143,41" group="n57_gl0p"/>
+    <group id="n57_gl0p" name="gHeader" xy="390,70" size="331,95" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

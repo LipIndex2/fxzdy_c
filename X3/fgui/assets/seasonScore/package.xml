@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="abaf6768">
+  <resources>
+    <image id="8cb834" name="beijing2.jpg" path="/img/"/>
+    <image id="8cb835" name="shuzidi.png" path="/img/"/>
+    <image id="8cb838" name="di.png" path="/img/"/>
+    <image id="8cb839" name="jifenguize_4.png" path="/img/"/>
+    <image id="8cb840" name="hd_yeqian02.png" path="/img/"/>
+    <image id="8cb841" name="dian.png" path="/img/"/>
+    <image id="8cb842" name="hd_yeqian01.png" path="/img/"/>
+    <image id="8cb843" name="liebiao.png" path="/img/"/>
+    <image id="8cb854" name="ylq_tag.png" path="/img/"/>
+    <component id="pkn934" name="SeasonScoreBtn.xml" path="/btn/"/>
+    <component id="pkn935" name="SeasonScoreView.xml" path="/"/>
+    <component id="pkn933" name="SeasonScoreSItem.xml" path="/com/"/>
+    <component id="pkn936" name="SeasonScoreTab.xml" path="/com/"/>
+    <image id="hz6e63" name="sjkj_bt1.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

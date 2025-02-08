@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="326,378" pivot="0.5,0.5" extention="Button">
+  <controller name="isCurrent" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n192_qlui" name="curComp" src="c7h6161" fileName="logo/PVPCurrentTitleComp.xml" xy="128,12" pivot="0.5,0.5" group="n194_qlui"/>
+    <group id="n194_qlui" name="curP" xy="128,12" size="68,39" advanced="true">
+      <gearDisplay controller="isCurrent" pages="1"/>
+    </group>
+    <component id="n195_qlui" name="logo" src="gkgv15q" fileName="logo/PVPRankBigLogoComp.xml" xy="0,80" pivot="0.5,0.5"/>
+  </displayList>
+  <Button mode="Radio"/>
+  <transition name="t0"/>
+</component>

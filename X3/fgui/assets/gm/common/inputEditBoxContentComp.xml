@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="350,301">
+  <displayList>
+    <image id="n41_m43k" name="bg" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="0,0" size="350,301">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n44_972a" name="inputName" xy="24,30" size="304,239" fontSize="26" color="#494654" leading="0" autoSize="none" text="" input="true" maxLength="500">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,160 @@
+
+BOSS_chongchao.png
+size: 291,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it_baixing_00
+  rotate: false
+  xy: 240, 144
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: false
+  xy: 160, 155
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+it_baixing_010
+  rotate: true
+  xy: 33, 8
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+it_baixing_011
+  rotate: 270
+  xy: 156, 10
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+it_baixing_012
+  rotate: true
+  xy: 2, 13
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+it_baixing_013
+  rotate: false
+  xy: 2, 211
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+it_baixing_014
+  rotate: false
+  xy: 2, 156
+  size: 127, 54
+  orig: 127, 54
+  offset: 0, 0
+  index: -1
+it_baixing_015
+  rotate: 270
+  xy: 246, 194
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+it_baixing_016
+  rotate: false
+  xy: 144, 221
+  size: 53, 87
+  orig: 53, 87
+  offset: 0, 0
+  index: -1
+it_baixing_017
+  rotate: true
+  xy: 127, 176
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+it_baixing_019
+  rotate: true
+  xy: 123, 65
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: false
+  xy: 234, 49
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+it_baixing_020
+  rotate: false
+  xy: 117, 9
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+it_baixing_021
+  rotate: false
+  xy: 194, 230
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: false
+  xy: 144, 290
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: false
+  xy: 249, 268
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+it_baixing_05
+  rotate: false
+  xy: 221, 3
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: true
+  xy: 208, 188
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+it_baixing_07
+  rotate: false
+  xy: 212, 92
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: true
+  xy: 2, 75
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: 180
+  xy: 78, 61
+  size: 79, 92
+  orig: 80, 92
+  offset: 1, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 187, 135
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1

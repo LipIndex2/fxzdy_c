@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kbuyss6s" designImageOffsetY="-144">
+  <displayList>
+    <image id="n0_6d8c" name="bg" src="buyss62" fileName="img/bgWeapon.jpg" xy="0,-146" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n46_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-57" pivot="0.5,1" anchor="true" size="750,250" color="#101922">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n44_buys" name="armL" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="0,0" pivot="0.5,1" size="750,1334">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </component>
+    <component id="n45_buys" name="armR" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="0,0" pivot="0.5,1" size="750,1334">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <component id="n21_6d8c" name="boxLeft" src="116zs5d" fileName="components/DrawCardEquipBoxBarComp.xml" xy="8,308" group="n42_116zs" controller="isShowDialog,0"/>
+    <group id="n42_116zs" name="G_left" xy="8,308" size="300,160" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n39_116zs" name="rightTab1" src="ffqtvvv1ci" fileName="btn/RightTabBtn.xml" pkg="38fa8c75" xy="646,311" group="n43_116zs"/>
+    <group id="n43_116zs" name="G_rightTab" xy="646,311" size="83,107" advanced="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </group>
+  </displayList>
+</component>

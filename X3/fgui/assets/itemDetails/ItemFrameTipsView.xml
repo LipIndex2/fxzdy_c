@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n16_m3sn" name="bg" xy="137,377" size="475,580" group="n20_m3sn" url="ui://38fa8c753cd618" fill="scaleFree">
+      <relation target="n7_965b" sidePair="height-height"/>
+    </loader>
+    <image id="n1_965b" name="n1" src="965b33" fileName="img/yuanjiaojuxing1_10.png" xy="144,385" group="n20_m3sn"/>
+    <loader id="n23_musp" name="numBg" xy="172,489" size="123,33" group="n20_m3sn" url="ui://38fa8c75tml513g" fill="scaleFree" color="#1d2332">
+      <relation target="n6_965b" sidePair="rightext-right"/>
+    </loader>
+    <text id="n3_965b" name="nameLab" xy="180,408" size="86,49" group="n20_m3sn" fontSize="36" color="#31b4ff" leading="0" strokeColor="#000000" strokeSize="2" text="DNA"/>
+    <text id="n6_965b" name="numLab" xy="188,492" size="93,26" group="n20_m3sn" fontSize="18" color="#ffffff" vAlign="middle" vars="true" text="拥有数量：{num}"/>
+    <text id="n7_965b" name="desLab" xy="175,535" size="415,69" restrictSize="0,0,69,0" group="n20_m3sn" fontSize="22" color="#d5f7fb" leading="10" ubb="true" autoSize="height" text="普通道具，可用升级英雄普通道升级英雄普通道普通道升级英雄普通道"/>
+    <list id="n19_m3sn" name="itemList" xy="168,644" size="419,289" group="n28_c8g7" overflow="scroll" lineGap="7" defaultItem="ui://b20e1226uk3p7b" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n18_m3sn" name="n18" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="294,614" size="294,3" group="n27_c8g7" color="#4c5b75"/>
+    <text id="n15_965b" name="n15" xy="173,601" size="113,32" group="n27_c8g7" fontSize="22" color="#d5f7fb" vAlign="middle" text="头像框预览"/>
+    <group id="n27_c8g7" name="n27" xy="173,601" size="415,32" group="n28_c8g7"/>
+    <group id="n28_c8g7" name="otherBox" xy="168,601" size="420,332" group="n20_m3sn" advanced="true">
+      <relation target="n7_965b" sidePair="top-bottom"/>
+    </group>
+    <group id="n20_m3sn" name="n20" xy="137,377" size="475,580" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

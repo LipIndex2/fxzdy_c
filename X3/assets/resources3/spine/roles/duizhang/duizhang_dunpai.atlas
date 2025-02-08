@@ -1,0 +1,20 @@
+
+duizhang_dunpai.png
+size: 45,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js017
+  rotate: true
+  xy: 2, 2
+  size: 34, 41
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 2, 38
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1

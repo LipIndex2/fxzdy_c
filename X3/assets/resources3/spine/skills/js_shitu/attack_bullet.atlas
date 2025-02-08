@@ -1,0 +1,48 @@
+
+attack_bullet.png
+size: 121,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/zidan01
+  rotate: false
+  xy: 2, 66
+  size: 115, 62
+  orig: 128, 64
+  offset: 4, 2
+  index: -1
+images/effect/zidan02
+  rotate: false
+  xy: 2, 322
+  size: 117, 62
+  orig: 128, 64
+  offset: 4, 2
+  index: -1
+images/effect/zidan03
+  rotate: false
+  xy: 2, 194
+  size: 116, 62
+  orig: 128, 64
+  offset: 4, 2
+  index: -1
+images/effect/zidan04
+  rotate: false
+  xy: 2, 2
+  size: 115, 62
+  orig: 128, 64
+  offset: 4, 2
+  index: -1
+images/effect/zidan05
+  rotate: false
+  xy: 2, 258
+  size: 117, 62
+  orig: 128, 64
+  offset: 4, 2
+  index: -1
+images/effect/zidan06
+  rotate: false
+  xy: 2, 130
+  size: 116, 62
+  orig: 128, 64
+  offset: 4, 2
+  index: -1

@@ -1,0 +1,41 @@
+
+skill02_hit_upper.png
+size: 593,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_hitupper_00000
+  rotate: false
+  xy: 2, 36
+  size: 119, 146
+  orig: 240, 240
+  offset: 46, 15
+  index: -1
+effect/skill02_hitupper_00001
+  rotate: false
+  xy: 410, 185
+  size: 181, 207
+  orig: 240, 240
+  offset: 30, 19
+  index: -1
+effect/skill02_hitupper_00002
+  rotate: true
+  xy: 216, 2
+  size: 181, 207
+  orig: 240, 240
+  offset: 30, 19
+  index: -1
+effect/skill02_hitupper_00003
+  rotate: false
+  xy: 217, 185
+  size: 191, 207
+  orig: 240, 240
+  offset: 28, 19
+  index: -1
+effect/skill02_hitupper_00004
+  rotate: false
+  xy: 2, 184
+  size: 213, 208
+  orig: 240, 240
+  offset: 18, 22
+  index: -1

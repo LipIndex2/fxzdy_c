@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="87,114">
+  <displayList>
+    <image id="n3_fff6" name="n3" src="j6z929" fileName="btnImage/gntb_default.png" pkg="38fa8c75" xy="-1,-1" group="n25_qoer"/>
+    <text id="n4_fff6" name="T_name" xy="17,78" size="56,36" group="n25_qoer" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="4" text="装备">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <loader id="n26_qoer" name="img_icon" xy="-1,-2" size="92,102" group="n25_qoer" url="ui://074a5358qoer19" align="center" vAlign="middle" fill="scaleFree" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <group id="n25_qoer" name="n25" xy="-1,-2" size="92,116"/>
+  </displayList>
+</component>

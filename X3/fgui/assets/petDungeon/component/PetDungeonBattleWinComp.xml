@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,500">
+  <displayList>
+    <component id="n40_woyg" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="300,108" pivot="0.5,1" anchor="true" size="880,742"/>
+    <image id="n2_bfe7" name="n2" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="21,0" size="558,281" group="n41_woyg"/>
+    <image id="n4_bfe7" name="n4" src="na348b" fileName="battle/img/sd_A_common_biaoti1_msg_6.png" pkg="u3tpmdwf" xy="198,40" size="200,46" group="n41_woyg"/>
+    <image id="n3_bfe7" name="n3" src="bfe775" fileName="img/bantoudi_49.png" xy="45,111" group="n41_woyg"/>
+    <text id="n5_bfe7" name="n5" xy="292,64" pivot="0.5,0.5" anchor="true" size="107,36" group="n41_woyg" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" text="获得奖励"/>
+    <component id="n34_woyg" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="513,65" pivot="0.5,0.5" anchor="true" group="n41_woyg" scale="0.8,0.8"/>
+    <list id="n35_woyg" name="itemList" xy="56,133" size="489,104" group="n41_woyg" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n49_gl0p" name="lbNoneRewardTip" xy="300,185" pivot="0.5,0.5" anchor="true" size="184,36" group="n41_woyg" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="已获得本关奖励"/>
+    <group id="n41_woyg" name="gInfo" xy="21,0" size="558,281" advanced="true"/>
+    <component id="n42_woyg" name="heroComp" src="woyg12a" fileName="component/PetDungeonBattleHeroList.xml" xy="0,320"/>
+    <component id="n43_woyg" name="btnNext" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="140,560" size="306,117" group="n47_woyg">
+      <Button title="下一关"/>
+    </component>
+    <text id="n44_woyg" name="lbAutoTime" xy="339,714" pivot="0.5,0.5" anchor="true" size="146,34" group="n46_woyg" fontSize="24" color="#f3f3f5" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="自动战斗(3s)">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n45_woyg" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="217,692" group="n46_woyg">
+      <relation target="n44_woyg" sidePair="right-left"/>
+    </component>
+    <group id="n46_woyg" name="n46" xy="217,692" size="195,40" group="n47_woyg"/>
+    <group id="n47_woyg" name="gNext" xy="140,560" size="306,172" advanced="true"/>
+    <text id="n48_woyg" name="lbClose" xy="299,794" pivot="0.5,0.5" anchor="true" size="143,29" fontSize="20" color="#fffefe" align="center" vAlign="middle" text="点击空白处关闭"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n41_woyg" value="0"/>
+    <item time="0" type="Alpha" target="n42_woyg" value="0"/>
+    <item time="0" type="Alpha" target="n47_woyg" value="0"/>
+    <item time="0" type="Alpha" target="n48_woyg" value="0"/>
+    <item time="0" type="XY" target="n41_woyg" value="21,30"/>
+    <item time="0" type="XY" target="n42_woyg" value="0,350"/>
+    <item time="0" type="XY" target="n47_woyg" value="140,560"/>
+    <item time="0" type="XY" target="n48_woyg" value="299,864"/>
+    <item time="54" type="Alpha" target="n41_woyg" tween="true" startValue="0" endValue="1" duration="13"/>
+    <item time="54" type="XY" target="n41_woyg" tween="true" startValue="21,30" endValue="21,0" duration="13"/>
+    <item time="56" type="Alpha" target="n42_woyg" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="56" type="Alpha" target="n47_woyg" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="56" type="XY" target="n42_woyg" tween="true" startValue="0,350" endValue="0,320" duration="11"/>
+    <item time="56" type="XY" target="n47_woyg" tween="true" startValue="140,590" endValue="140,560" duration="11"/>
+    <item time="62" type="Alpha" target="n48_woyg" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="XY" target="n48_woyg" tween="true" startValue="299,864" endValue="299,794" duration="5"/>
+  </transition>
+</component>

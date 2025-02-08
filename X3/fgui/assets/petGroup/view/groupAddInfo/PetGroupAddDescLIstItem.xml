@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="439,138" designImage="ui://7q3fcj1kdx6es9t" designImageOffsetX="-161" designImageOffsetY="-474">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="未激活"/>
+    <remark page="1" value="激活"/>
+  </controller>
+  <controller name="c2" pages="0,,1,,2," selected="0">
+    <remark page="1" value="不足"/>
+    <remark page="2" value="足够"/>
+  </controller>
+  <displayList>
+    <image id="n87_dx6e" name="n87" src="xebibc" fileName="frameImage/lb_tag.png" pkg="38fa8c75" xy="0,5" color="#4c6eaa"/>
+    <text id="n45_bc0f" name="lblLVName" xy="30,0" pivot="0,0.5" size="204,32" fontSize="22" color="#969aa5" vAlign="middle" autoClearText="true" text="LV1 集齐该组合星灵">
+      <gearColor controller="c1" pages="0" values="#969aa5,#000000" default="#defbfd,#000000"/>
+    </text>
+    <text id="n39_bc0f" name="lblProgress" xy="341,0" pivot="1,0.5" size="98,32" fontSize="22" color="#969aa5" vAlign="middle" autoClearText="true" text="（0/10）">
+      <gearColor controller="c2" pages="0,1,2" values="#969aa5,#000000|#ff5151,#000000|#4af392,#000000"/>
+    </text>
+    <text id="n46_bc0f" name="lbladdDesc" xy="29,35" size="156,32" fontSize="22" color="#969aa5" vAlign="middle" text="羁绊激活加成：">
+      <gearColor controller="c1" pages="0" values="#969aa5,#000000" default="#defbfd,#000000"/>
+    </text>
+    <list id="n88_dx6e" name="list" xy="29,68" size="400,69" layout="flow_hz" overflow="hidden" defaultItem="ui://kgeugj0mdx6e16" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

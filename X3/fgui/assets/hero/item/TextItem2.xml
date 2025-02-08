@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="177,32" opaque="false">
+  <displayList>
+    <text id="n92_bezo" name="T_name" xy="0,0" pivot="0,0.5" size="69,32" fontSize="22" color="#fbfdfd" vAlign="middle" text="攻击力"/>
+    <text id="n93_bezo" name="T_count" xy="107,0" pivot="1,0.5" size="70,32" fontSize="22" color="#6ef96a" align="right" vAlign="middle" text="12044"/>
+    <loader id="n94_bezo" name="n94" xy="0,0" size="69,32">
+      <relation target="n92_bezo" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+</component>

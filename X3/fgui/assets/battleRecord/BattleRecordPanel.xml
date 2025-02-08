@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="762,1424">
+  <controller name="style" pages="0,,1,,5," selected="2">
+    <remark page="0" value="展示双方"/>
+    <remark page="1" value="展示胜方"/>
+    <remark page="2" value="展示负方"/>
+  </controller>
+  <displayList>
+    <image id="n1_c30b" name="n1" src="c30b1" fileName="img/juxing3.png" xy="0,0"/>
+    <image id="n30_c30b" name="n30" src="c30b24" fileName="img/zhandoutongji.png" xy="171,44" group="n43_frvn"/>
+    <text id="n31_c30b" name="n31" xy="371,92" pivot="0.5,0.5" anchor="true" size="123,42" group="n43_frvn" fontSize="30" color="#fffffd" vAlign="middle" leading="0" autoSize="none" text="战斗详情"/>
+    <group id="n43_frvn" name="G_title" xy="171,44" size="414,75"/>
+    <image id="n22_c30b" name="n22" src="c30b17" fileName="img/sd_A_common_baise_msg_31.jpg" xy="64,249" group="n42_frvn"/>
+    <image id="n23_c30b" name="n23" src="c30b18" fileName="img/bai_frame.png" xy="168,148" group="n42_frvn"/>
+    <image id="n25_c30b" name="n25" src="c30b19" fileName="img/fu.png" xy="608,132" group="n42_frvn"/>
+    <text id="n24_c30b" name="loseNameLab" xy="197,160" size="397,34" group="n42_frvn" fontSize="24" color="#e4eefc" vAlign="middle" leading="0" autoSize="none" text="美少女战士"/>
+    <text id="n34_n19g" name="n34" xy="228,210" size="48,32" group="n42_frvn" fontSize="22" color="#f7d688" autoSize="none" text="输出"/>
+    <text id="n35_n19g" name="n35" xy="407,211" size="48,32" group="n42_frvn" fontSize="22" color="#f7d688" autoSize="none" text="治疗"/>
+    <text id="n36_n19g" name="n36" xy="587,211" size="48,32" group="n42_frvn" fontSize="22" color="#f7d688" autoSize="none" text="承伤"/>
+    <component id="n49_pdp1" name="G_avatar2" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="63,134" group="n42_frvn"/>
+    <list id="n40_n19g" name="loseList" xy="64,250" size="633,420" group="n42_frvn" overflow="scroll" defaultItem="ui://3a135130n19g28">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n42_frvn" name="gFailed" xy="63,132" size="639,542" advanced="true">
+      <gearDisplay controller="style" pages="0,5"/>
+      <gearXY controller="style" pages="5" values="63,132" default="63,699"/>
+    </group>
+    <image id="n2_c30b" name="n2" src="c30b2" fileName="img/sd_A_common_baise_msg_35.jpg" xy="64,249" group="n50_cth0"/>
+    <image id="n3_c30b" name="n3" src="c30b3" fileName="img/sheng_frame.png" xy="167,148" group="n50_cth0"/>
+    <image id="n5_c30b" name="n5" src="c30b4" fileName="img/sheng.png" xy="606,132" group="n50_cth0"/>
+    <text id="n4_c30b" name="winNameLab" xy="197,158" size="390,34" group="n50_cth0" fontSize="24" color="#ffffff" vAlign="middle" leading="0" autoSize="none" text="美少女战士"/>
+    <text id="n16_c30b" name="n16" xy="228,211" size="48,32" group="n50_cth0" fontSize="22" color="#f7d688" autoSize="none" text="输出"/>
+    <text id="n17_c30b" name="n17" xy="407,212" size="48,32" group="n50_cth0" fontSize="22" color="#f7d688" autoSize="none" text="治疗"/>
+    <text id="n18_c30b" name="n18" xy="587,212" size="48,32" group="n50_cth0" fontSize="22" color="#f7d688" autoSize="none" text="承伤"/>
+    <component id="n48_pdp1" name="G_avatar1" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="63,134" group="n50_cth0"/>
+    <list id="n37_n19g" name="winList" xy="64,251" size="633,420" group="n50_cth0" overflow="scroll" defaultItem="ui://3a135130n19g28">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n50_cth0" name="GWin" xy="63,132" size="637,542" advanced="true">
+      <gearDisplay controller="style" pages="0,1"/>
+    </group>
+  </displayList>
+</component>

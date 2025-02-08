@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="360,32" extention="ProgressBar">
+  <displayList>
+    <image id="n39_d6aa" name="n39" src="sh628o" fileName="league/bossxt1_blood.png" pkg="72zq62ea" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n40_d6aa" name="bar" src="sh628p" fileName="league/bossxt_blood.png" pkg="72zq62ea" xy="2,2">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n41_d6aa" name="title" xy="73,-4" pivot="0.5,0.5" size="214,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="100000/200000000"/>
+  </displayList>
+  <ProgressBar/>
+</component>

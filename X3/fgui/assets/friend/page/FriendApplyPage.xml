@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,956">
+  <displayList>
+    <list id="n56_cjsd" name="list" xy="0,48" size="607,755" overflow="scroll" lineGap="12" defaultItem="ui://997ef4d0cjsd3g" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n51_cjsd" name="n51" src="273c20" fileName="img/tuceng860.png" xy="184,374" group="n57_cjsd" alpha="0.7"/>
+    <text id="n52_cjsd" name="n52" xy="242,561" pivot="0.5,0.5" size="135,32" group="n57_cjsd" fontSize="22" color="#99b6ff" align="center" vAlign="middle" text="暂无好友申请"/>
+    <group id="n57_cjsd" name="gNone" xy="184,374" size="253,219" advanced="true"/>
+    <component id="n58_cjsd" name="btnCancel" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="38,836" size="245,94">
+      <Button title="全部忽略" titleFontSize="34"/>
+    </component>
+    <component id="n59_cjsd" name="btnSure" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="327,836" size="245,94">
+      <Button title="一键接受" titleFontSize="34"/>
+    </component>
+  </displayList>
+</component>

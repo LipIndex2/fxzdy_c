@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,100" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n10_cae0" name="n10" src="cae08" fileName="img/sd_A_common_jiantou4_btn_20.png" xy="18,19"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,76 @@
+
+skill02_shifa_lower.png
+size: 260,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_shifa_1
+  rotate: false
+  xy: 147, 213
+  size: 111, 73
+  orig: 185, 160
+  offset: 43, 64
+  index: -1
+images/effect/skill02_shifa_11
+  rotate: 180
+  xy: 127, 4
+  size: 107, 88
+  orig: 185, 160
+  offset: 47, 24
+  index: -1
+images/effect/skill02_shifa_13
+  rotate: true
+  xy: 160, 453
+  size: 109, 91
+  orig: 185, 160
+  offset: 48, 14
+  index: -1
+images/effect/skill02_shifa_2
+  rotate: true
+  xy: 155, 83
+  size: 128, 83
+  orig: 185, 160
+  offset: 33, 62
+  index: -1
+images/effect/skill02_shifa_3
+  rotate: true
+  xy: 148, 300
+  size: 153, 96
+  orig: 185, 160
+  offset: 16, 53
+  index: -1
+images/effect/skill02_shifa_4
+  rotate: false
+  xy: 2, 151
+  size: 161, 96
+  orig: 185, 160
+  offset: 12, 54
+  index: -1
+images/effect/skill02_shifa_5
+  rotate: 180
+  xy: 2, 51
+  size: 162, 99
+  orig: 185, 160
+  offset: 12, 51
+  index: -1
+images/effect/skill02_shifa_7
+  rotate: false
+  xy: 2, 472
+  size: 162, 102
+  orig: 185, 160
+  offset: 11, 48
+  index: -1
+images/effect/skill02_shifa_8
+  rotate: false
+  xy: 2, 362
+  size: 160, 109
+  orig: 185, 160
+  offset: 12, 41
+  index: -1
+images/effect/skill02_shifa_9
+  rotate: false
+  xy: 2, 248
+  size: 163, 115
+  orig: 185, 160
+  offset: 12, 33
+  index: -1

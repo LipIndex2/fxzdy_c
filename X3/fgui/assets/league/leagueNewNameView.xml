@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n0_be1a" name="n0" src="qr2a113" fileName="btn/bgBtn.xml" xy="79,438" group="n12_wq7z"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="101,527" size="540,196" group="n12_wq7z"/>
+    <image id="n2_be1a" name="n2" src="be1a49" fileName="img/sd_A_common_liaotian_frame_68.png" xy="197,629" group="n12_wq7z" alpha="0.38"/>
+    <text id="n4_be1a" name="n4" xy="269,578" size="207,36" group="n12_wq7z" fontSize="26" color="#ddfbff" text="请输入联盟新名字"/>
+    <text id="n9_be1a" name="n9" xy="352,463" size="67,44" group="n12_wq7z" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <component id="n10_h90v" name="sureBtn" src="h90v10a" fileName="btn/leagueCreateBtn.xml" xy="268,764" group="n12_wq7z">
+      <Button title="确认"/>
+    </component>
+    <text id="n11_h90v" name="newName" xy="225,636" pivot="0.5,0.5" size="323,36" group="n12_wq7z" fontSize="26" color="#718fbb" align="center" vAlign="middle" autoSize="none" singleLine="true" text="" input="true" prompt="请输入联盟名称"/>
+    <group id="n12_wq7z" name="n12" xy="79,438" size="592,458" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" overflow="scroll" scrollBarFlags="160">
+  <displayList>
+    <loader id="n44_8g0d" name="bg1" xy="0,0" size="750,2048" url="ui://7cvz7rmm8g0dvv20" autoSize="true"/>
+    <loader id="n45_8g0d" name="bg2" xy="0,2048" size="750,1629" url="ui://7cvz7rmm8g0dvv21" autoSize="true"/>
+  </displayList>
+</component>

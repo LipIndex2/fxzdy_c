@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n41_ifld" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n42_q855" name="footer" src="dusvvvv1fg" fileName="back/BackFooter3.xml" pkg="38fa8c75" xy="0,1215">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="width-width,top-bottom"/>
+    </component>
+    <list id="n43_q855" name="tabList" xy="137,1210" size="600,114" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://xkk6qvr2v8911" align="right" autoClearItems="true">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n44_teox" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

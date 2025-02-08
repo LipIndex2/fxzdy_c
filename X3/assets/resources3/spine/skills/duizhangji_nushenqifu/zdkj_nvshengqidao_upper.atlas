@@ -1,0 +1,279 @@
+
+zdkj_nvshengqidao_upper.png
+size: 728,860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack_fangkuai
+  rotate: false
+  xy: 625, 150
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/effect/attack_glo
+  rotate: false
+  xy: 2, 602
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect/attack_guangzhu_0
+  rotate: false
+  xy: 370, 349
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+images/effect/attack_guangzhu_1
+  rotate: false
+  xy: 399, 718
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+images/effect/attack_guangzhu_2
+  rotate: false
+  xy: 424, 207
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+images/effect/attack_guangzhu_3
+  rotate: false
+  xy: 441, 65
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+images/effect/attack_guangzhu_4
+  rotate: false
+  xy: 483, 491
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+images/effect/attack_guangzhu_5
+  rotate: true
+  xy: 492, 369
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+images/effect/attack_line1_0
+  rotate: false
+  xy: 437, 522
+  size: 29, 42
+  orig: 50, 128
+  offset: 11, 6
+  index: -1
+images/effect/attack_line1_1
+  rotate: false
+  xy: 649, 607
+  size: 50, 99
+  orig: 50, 128
+  offset: 0, 9
+  index: -1
+images/effect/attack_line1_2
+  rotate: false
+  xy: 655, 706
+  size: 50, 84
+  orig: 50, 128
+  offset: 0, 30
+  index: -1
+images/effect/attack_line1_3
+  rotate: false
+  xy: 480, 649
+  size: 33, 67
+  orig: 50, 128
+  offset: 8, 53
+  index: -1
+images/effect/attack_renwu_29
+  rotate: false
+  xy: 234, 286
+  size: 137, 168
+  orig: 140, 200
+  offset: 1, 20
+  index: -1
+images/effect/attack_renwu_30
+  rotate: false
+  xy: 234, 455
+  size: 138, 164
+  orig: 140, 200
+  offset: 2, 22
+  index: -1
+images/effect/attack_renwu_31
+  rotate: false
+  xy: 165, 27
+  size: 137, 167
+  orig: 140, 200
+  offset: 3, 25
+  index: -1
+images/effect/attack_renwu_32
+  rotate: true
+  xy: 2, 54
+  size: 139, 163
+  orig: 140, 200
+  offset: 1, 29
+  index: -1
+images/effect/attack_renwu_33
+  rotate: false
+  xy: 260, 701
+  size: 138, 158
+  orig: 140, 200
+  offset: 2, 36
+  index: -1
+images/effect/attack_renwu_34
+  rotate: 270
+  xy: 268, 150
+  size: 138, 155
+  orig: 140, 200
+  offset: 2, 44
+  index: -1
+images/effect/attack_renwu_35
+  rotate: false
+  xy: 301, 3
+  size: 138, 147
+  orig: 140, 200
+  offset: 2, 50
+  index: -1
+images/effect/attack_renwu_36
+  rotate: 270
+  xy: 338, 565
+  size: 137, 144
+  orig: 140, 200
+  offset: 3, 53
+  index: -1
+images/effect/attack_renwu_37
+  rotate: false
+  xy: 514, 634
+  size: 137, 141
+  orig: 140, 200
+  offset: 3, 57
+  index: -1
+images/effect/attack_ring1_0
+  rotate: false
+  xy: 521, 775
+  size: 141, 60
+  orig: 230, 100
+  offset: 44, 26
+  index: -1
+images/effect/attack_ring1_1
+  rotate: true
+  xy: 562, 26
+  size: 166, 69
+  orig: 230, 100
+  offset: 33, 15
+  index: -1
+images/effect/attack_ring1_2
+  rotate: true
+  xy: 556, 191
+  size: 177, 76
+  orig: 230, 100
+  offset: 26, 14
+  index: -1
+images/effect/attack_ring1_3
+  rotate: false
+  xy: 2, 500
+  size: 230, 100
+  orig: 230, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack_ring1_4
+  rotate: false
+  xy: 2, 398
+  size: 230, 100
+  orig: 230, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack_ring1_5
+  rotate: false
+  xy: 2, 296
+  size: 230, 100
+  orig: 230, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack_ring1_6
+  rotate: false
+  xy: 2, 194
+  size: 230, 100
+  orig: 230, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack_star_0
+  rotate: false
+  xy: 234, 259
+  size: 39, 39
+  orig: 64, 64
+  offset: 12, 11
+  index: -1
+images/effect/attack_star_1
+  rotate: false
+  xy: 369, 289
+  size: 46, 45
+  orig: 64, 64
+  offset: 7, 11
+  index: -1
+images/effect/attack_star_2
+  rotate: false
+  xy: 260, 635
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/effect/attack_star_3
+  rotate: false
+  xy: 371, 496
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/effect/attack_xinglian1
+  rotate: true
+  xy: 605, 480
+  size: 127, 107
+  orig: 128, 128
+  offset: 1, 17
+  index: -1
+images/effect/attack_xinglian2
+  rotate: true
+  xy: 623, 304
+  size: 116, 103
+  orig: 128, 128
+  offset: 4, 9
+  index: -1
+images/effect/attack_xinglian3
+  rotate: true
+  xy: 629, 41
+  size: 108, 96
+  orig: 128, 128
+  offset: 6, 17
+  index: -1
+images/effect/line2_0
+  rotate: false
+  xy: 625, 17
+  size: 53, 32
+  orig: 128, 32
+  offset: 4, 0
+  index: -1
+images/effect/line2_1
+  rotate: false
+  xy: 2, 20
+  size: 106, 32
+  orig: 128, 32
+  offset: 4, 0
+  index: -1
+images/effect/line2_2
+  rotate: false
+  xy: 441, 31
+  size: 102, 32
+  orig: 128, 32
+  offset: 25, 0
+  index: -1
+images/effect/line2_3
+  rotate: false
+  xy: 109, 13
+  size: 63, 32
+  orig: 128, 32
+  offset: 65, 0
+  index: -1

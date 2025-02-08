@@ -1,0 +1,13 @@
+
+dianji.png
+size: 125,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhishi_tag
+  rotate: false
+  xy: 2, 3
+  size: 112, 121
+  orig: 112, 122
+  offset: 0, 1
+  index: -1

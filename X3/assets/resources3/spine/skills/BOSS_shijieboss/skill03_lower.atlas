@@ -1,0 +1,83 @@
+
+skill03_lower.png
+size: 256,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill03_epdown1
+  rotate: false
+  xy: 2, 78
+  size: 174, 86
+  orig: 200, 100
+  offset: 15, 8
+  index: -1
+images/effect/skill03_epdown2_01
+  rotate: false
+  xy: 184, 11
+  size: 34, 12
+  orig: 230, 120
+  offset: 119, 76
+  index: -1
+images/effect/skill03_epdown2_02
+  rotate: true
+  xy: 218, 289
+  size: 94, 36
+  orig: 230, 120
+  offset: 90, 61
+  index: -1
+images/effect/skill03_epdown2_03
+  rotate: true
+  xy: 203, 166
+  size: 121, 50
+  orig: 230, 120
+  offset: 74, 51
+  index: -1
+images/effect/skill03_epdown2_04
+  rotate: true
+  xy: 184, 25
+  size: 139, 57
+  orig: 230, 120
+  offset: 64, 47
+  index: -1
+images/effect/skill03_epdown2_05
+  rotate: false
+  xy: 2, 2
+  size: 180, 74
+  orig: 230, 120
+  offset: 37, 36
+  index: -1
+images/effect/skill03_epdown2_06
+  rotate: false
+  xy: 2, 166
+  size: 199, 83
+  orig: 230, 120
+  offset: 22, 30
+  index: -1
+images/effect/skill03_epdown2_07
+  rotate: false
+  xy: 2, 348
+  size: 214, 97
+  orig: 230, 120
+  offset: 12, 18
+  index: -1
+images/effect/skill03_epdown2_08
+  rotate: false
+  xy: 2, 447
+  size: 219, 100
+  orig: 230, 120
+  offset: 8, 14
+  index: -1
+images/effect/skill03_epdown2_09
+  rotate: false
+  xy: 2, 549
+  size: 221, 103
+  orig: 230, 120
+  offset: 4, 6
+  index: -1
+images/effect/skill03_epdown2_10
+  rotate: false
+  xy: 2, 251
+  size: 183, 95
+  orig: 230, 120
+  offset: 2, 9
+  index: -1

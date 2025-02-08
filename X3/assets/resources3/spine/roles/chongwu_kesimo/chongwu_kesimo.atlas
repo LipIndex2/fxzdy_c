@@ -1,0 +1,237 @@
+
+chongwu_kesimo.png
+size: 200,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 138, 31
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+js01
+  rotate: true
+  xy: 59, 32
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 158, 51
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 154, 73
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 146, 7
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 54, 14
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 2, 30
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+js015
+  rotate: true
+  xy: 60, 5
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 149, 43
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 97, 6
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 100, 14
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 15, 4
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 59, 76
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+js020
+  rotate: 270
+  xy: 144, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+js021
+  rotate: false
+  xy: 2, 7
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 180, 19
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+js023
+  rotate: false
+  xy: 168, 22
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+js024
+  rotate: false
+  xy: 32, 4
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+js025
+  rotate: true
+  xy: 31, 15
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+js026
+  rotate: false
+  xy: 112, 5
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+js027
+  rotate: 180
+  xy: 78, 3
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 193, 58
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 188, 11
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+js05
+  rotate: true
+  xy: 190, 63
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 99, 72
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 193, 50
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 139, 48
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+js09
+  rotate: true
+  xy: 103, 40
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 191, 39
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 132, 7
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 48, 6
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 163, 9
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 2, 16
+  size: 28, 13
+  orig: 31, 14
+  offset: 1, 0
+  index: -1

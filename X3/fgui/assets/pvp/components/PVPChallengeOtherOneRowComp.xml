@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="578,160" designImage="ui://7q3fcj1koqeb5k" designImageOffsetX="-80" designImageOffsetY="-418">
+  <controller name="c1" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n180_b6a2" name="bg" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="10,12" size="568,148"/>
+    <component id="n181_b6a2" name="avatarComp" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="22,37" scale="0.8,0.8"/>
+    <text id="n183_b6a2" name="labelName" xy="125,57" size="135,32" fontSize="22" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n184_b6a2" name="labelPower" xy="126,88" size="136,32" fontSize="22" color="#db3333" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="战力：52000">
+      <gearColor controller="c1" pages="1" values="#db3333,#010e16" default="#ffe57c,#010e16"/>
+    </text>
+    <component id="n186_b6a2" name="btnChallenge" src="gkgv15n" fileName="btn/PVPChallengeOtherBtn.xml" xy="424,56"/>
+    <component id="n188_b6a2" name="btnShowInfoTips" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="0,0"/>
+    <text id="n185_b6a2" name="labelRankScore" xy="340,73" size="57,32" group="n191_gkgv" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="2500"/>
+    <loader id="n189_b6a2" name="imagePvpRank" xy="276,62" pivot="0.5,0.5" size="64,38" group="n191_gkgv" url="ui://7b03f641b6a2106" align="center" vAlign="middle"/>
+    <component id="n190_gkgv" name="rankStarList" src="oqeb153" fileName="components/PVPRankStarListComp.xml" xy="283,97" size="165,35" group="n191_gkgv" scale="0.3,0.3"/>
+    <group id="n191_gkgv" name="n191" xy="276,62" size="172,70"/>
+    <component id="n192_qlui" name="btnShowInfo" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="126,18" size="289,132"/>
+  </displayList>
+</component>

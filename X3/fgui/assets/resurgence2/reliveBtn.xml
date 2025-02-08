@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="244,93">
+  <displayList>
+    <image id="n25_e788" name="n25" src="e78817" fileName="img/scale_80%_sd_A_common_changgui1_btn.png" xy="0,0"/>
+    <text id="n26_e788" name="n26" xy="53,37" size="137,46" fontSize="34" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="立即复活"/>
+    <loader id="n37_wq7z" name="imLoader" xy="79,4" size="38,36" group="n36_wq7z" fill="scale"/>
+    <text id="n28_e788" name="T_num" xy="123,5" pivot="0.5,0.5" size="40,41" group="n36_wq7z" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="10"/>
+    <group id="n36_wq7z" name="img_icon" xy="79,4" size="84,42" advanced="true" layout="hz" colGap="6" excludeInvisibles="true">
+      <relation target="n25_e788" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

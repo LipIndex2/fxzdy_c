@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,112">
+  <displayList>
+    <loader id="n37_cnp5" name="img_frame" xy="0,8" pivot="0.5,0.5" size="104,104" group="n44_cnp5" scale="0.8,0.8" url="ui://38fa8c75f0d84" autoSize="true"/>
+    <loader id="n38_cnp5" name="img_item" xy="6,14" pivot="0.5,0.5" size="92,92" group="n44_cnp5" scale="0.8,0.8" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <image id="n18_49e1" name="btn_show" src="49e112" fileName="img/sousuo.png" xy="63,0" group="n44_cnp5"/>
+    <group id="n44_cnp5" name="n44" xy="0,0" size="110,112" advanced="true"/>
+  </displayList>
+</component>

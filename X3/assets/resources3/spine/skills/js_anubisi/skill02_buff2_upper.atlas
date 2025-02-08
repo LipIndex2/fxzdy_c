@@ -1,0 +1,111 @@
+
+skill02_buff2_upper.png
+size: 176,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_buff1_00000
+  rotate: false
+  xy: 123, 238
+  size: 51, 43
+  orig: 80, 80
+  offset: 15, 20
+  index: -1
+effect/skill02_buff1_00001
+  rotate: true
+  xy: 118, 71
+  size: 52, 45
+  orig: 80, 80
+  offset: 14, 19
+  index: -1
+effect/skill02_buff1_00002
+  rotate: false
+  xy: 64, 4
+  size: 54, 46
+  orig: 80, 80
+  offset: 13, 19
+  index: -1
+effect/skill02_buff1_00003
+  rotate: true
+  xy: 67, 171
+  size: 56, 48
+  orig: 80, 80
+  offset: 12, 18
+  index: -1
+effect/skill02_buff1_00004
+  rotate: true
+  xy: 67, 112
+  size: 57, 49
+  orig: 80, 80
+  offset: 12, 17
+  index: -1
+effect/skill02_buff1_00005
+  rotate: true
+  xy: 65, 52
+  size: 58, 51
+  orig: 80, 80
+  offset: 11, 16
+  index: -1
+effect/skill02_buff1_00006
+  rotate: false
+  xy: 2, 2
+  size: 60, 53
+  orig: 80, 80
+  offset: 10, 15
+  index: -1
+effect/skill02_buff1_00007
+  rotate: false
+  xy: 2, 57
+  size: 61, 53
+  orig: 80, 80
+  offset: 10, 15
+  index: -1
+effect/skill02_buff1_00008
+  rotate: false
+  xy: 2, 226
+  size: 63, 55
+  orig: 80, 80
+  offset: 9, 14
+  index: -1
+effect/skill02_buff1_00009
+  rotate: false
+  xy: 2, 169
+  size: 63, 55
+  orig: 80, 80
+  offset: 9, 14
+  index: -1
+effect/skill02_buff1_00010
+  rotate: false
+  xy: 2, 112
+  size: 63, 55
+  orig: 80, 80
+  offset: 9, 14
+  index: -1
+effect/skill02_buff1_00011
+  rotate: true
+  xy: 120, 16
+  size: 53, 44
+  orig: 80, 80
+  offset: 14, 20
+  index: -1
+effect/skill02_buff1_00012
+  rotate: true
+  xy: 117, 180
+  size: 53, 45
+  orig: 80, 80
+  offset: 14, 19
+  index: -1
+effect/skill02_buff1_00013
+  rotate: true
+  xy: 118, 125
+  size: 53, 45
+  orig: 80, 80
+  offset: 14, 19
+  index: -1
+effect/skill02_buff1_00014
+  rotate: false
+  xy: 67, 235
+  size: 54, 46
+  orig: 80, 80
+  offset: 13, 19
+  index: -1

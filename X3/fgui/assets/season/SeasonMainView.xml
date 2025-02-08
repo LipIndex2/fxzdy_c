@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n75_hz6e" name="n75" src="hz6evvv1b8" fileName="img/zhujiemianbeijing.png" xy="0,-151">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n29_eab5" name="n29" src="eab518" fileName="img/1_1.png" xy="22,690" size="330,69" group="n58_uk3p"/>
+    <image id="n32_eab5" name="n32" src="eab519" fileName="img/guangdian.png" xy="22,649" size="16,28" group="n58_uk3p">
+      <relation target="n29_eab5" sidePair="bottom-top"/>
+    </image>
+    <richtext id="n77_hz6e" name="lbN" xy="40,648" size="50,33" group="n58_uk3p" fontSize="23" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="赛季">
+      <relation target="n29_eab5" sidePair="bottom-top"/>
+    </richtext>
+    <text id="n37_eab5" name="n37" xy="28,468" size="131,52" group="n58_uk3p" fontSize="38" color="#fff552" vAlign="middle" strokeColor="#2f1081" strokeSize="4" text="新赛季!">
+      <relation target="n65_hz6e" sidePair="bottom-top"/>
+    </text>
+    <component id="n39_uk3p" name="btnGo" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="238,1121" size="276,122" group="n58_uk3p"/>
+    <image id="n22_eab5" name="n22" src="eab515" fileName="img/1_3.png" xy="281,874" size="177,123" group="n40_uk3p"/>
+    <text id="n23_eab5" name="n23" xy="304,999" size="143,39" group="n40_uk3p" fontSize="28" color="#c6e3ff" vAlign="middle" strokeColor="#2b70ae" strokeSize="3" text="赛季已开启"/>
+    <group id="n40_uk3p" name="lbOpenTips" xy="281,874" size="177,164" group="n58_uk3p" advanced="true"/>
+    <image id="n24_eab5" name="n24" src="eab516" fileName="img/#216599_sd_A_common_word_tag.png" xy="150,1160" size="463,28" group="n63_v5mw"/>
+    <text id="n25_eab5" name="lbTips" xy="318,1143" size="135,59" group="n63_v5mw" fontSize="44" color="#4fc5ff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="已报名"/>
+    <group id="n63_v5mw" name="tipsG" xy="150,1143" size="463,59" group="n58_uk3p" advanced="true"/>
+    <image id="n1_eab5" name="n1" src="eab51" fileName="img/sd_A_common_bossjl_frame.png" xy="19,806" size="716,286" group="n64_v5mw"/>
+    <component id="n74_hz6e" name="bar2" src="uk3p192" fileName="btn/SeasonBar.xml" xy="404,989" group="n64_v5mw">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n73_hz6e" name="bar" src="uk3p192" fileName="btn/SeasonBar.xml" xy="120,989" group="n64_v5mw">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n48_uk3p" name="reward1" src="uk3p86" fileName="com/SeasonRewardCom.xml" xy="57,824" size="108,264" group="n64_v5mw"/>
+    <component id="n49_uk3p" name="reward2" src="uk3p86" fileName="com/SeasonRewardCom.xml" xy="321,824" size="108,262" group="n64_v5mw"/>
+    <component id="n50_uk3p" name="reward3" src="uk3p86" fileName="com/SeasonRewardCom.xml" xy="583,825" size="108,254" group="n64_v5mw"/>
+    <group id="n64_v5mw" name="rewardsG" xy="19,806" size="716,286" group="n58_uk3p" advanced="true"/>
+    <image id="n78_9zn0" name="n78" src="woygvvv1il" fileName="bgImage/sjkj_bt.png" pkg="38fa8c75" xy="14,537" group="n65_hz6e"/>
+    <image id="n36_eab5" name="imgN" src="eab521" fileName="img/jijiekaobei.png" xy="24,523" size="307,67" group="n65_hz6e"/>
+    <richtext id="n62_v5mw" name="lbCd" xy="39,590" size="254,38" group="n65_hz6e" fontSize="24" color="#3cfe37" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="5天30小时"/>
+    <group id="n65_hz6e" name="n65" xy="14,523" size="365,105" group="n58_uk3p" advanced="true"/>
+    <group id="n58_uk3p" name="n58" xy="14,468" size="720,775" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n60_v5mw" name="n60" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,1742" size="750,350" scale="1,-1" color="#1f2732">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n41_uk3p" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n70_hz6e" name="n70" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-389" size="750,320" color="#514797">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

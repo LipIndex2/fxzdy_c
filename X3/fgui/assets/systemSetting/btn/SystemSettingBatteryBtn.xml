@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="132,40" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,selected" selected="0"/>
+  <displayList>
+    <image id="n20_cc67" name="bg" src="830116" fileName="bgImage/gouxuan_frame.png" pkg="38fa8c75" xy="0,0"/>
+    <image id="n21_cc67" name="n21" src="03e462" fileName="bgImage/gou_btn.png" pkg="38fa8c75" xy="6,3">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <text id="n22_cc67" name="textTitle" xy="61,2" size="71,36" fontSize="26" color="#8cb5ff" vAlign="middle" text="5分钟"/>
+  </displayList>
+  <Button mode="Check"/>
+</component>

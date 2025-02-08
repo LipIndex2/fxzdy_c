@@ -1,0 +1,97 @@
+
+skill01_2_upper.png
+size: 258,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/shifaquan_00000
+  rotate: true
+  xy: 237, 188
+  size: 25, 12
+  orig: 100, 50
+  offset: 38, 20
+  index: -1
+effect/shifaquan_00001
+  rotate: true
+  xy: 237, 215
+  size: 41, 19
+  orig: 100, 50
+  offset: 30, 16
+  index: -1
+effect/shifaquan_00002
+  rotate: true
+  xy: 233, 71
+  size: 51, 23
+  orig: 100, 50
+  offset: 25, 14
+  index: -1
+effect/shifaquan_00003
+  rotate: false
+  xy: 158, 29
+  size: 67, 30
+  orig: 100, 50
+  offset: 17, 10
+  index: -1
+effect/shifaquan_00004
+  rotate: false
+  xy: 85, 27
+  size: 71, 32
+  orig: 100, 50
+  offset: 15, 9
+  index: -1
+effect/shifaquan_00005
+  rotate: false
+  xy: 2, 24
+  size: 81, 35
+  orig: 100, 50
+  offset: 10, 7
+  index: -1
+effect/shifaquan_00006
+  rotate: true
+  xy: 198, 173
+  size: 83, 37
+  orig: 100, 50
+  offset: 9, 6
+  index: -1
+effect/shifaquan_00007
+  rotate: false
+  xy: 156, 124
+  size: 87, 39
+  orig: 100, 50
+  offset: 7, 5
+  index: -1
+effect/shifaquan_00008
+  rotate: true
+  xy: 156, 165
+  size: 91, 40
+  orig: 100, 50
+  offset: 5, 5
+  index: -1
+effect/shifaquan_00009
+  rotate: false
+  xy: 97, 61
+  size: 91, 41
+  orig: 100, 50
+  offset: 5, 4
+  index: -1
+effect/shifaquan_00010
+  rotate: false
+  xy: 2, 61
+  size: 93, 41
+  orig: 100, 50
+  offset: 4, 4
+  index: -1
+effect/skill01_glow
+  rotate: false
+  xy: 2, 104
+  size: 152, 152
+  orig: 160, 160
+  offset: 4, 4
+  index: -1
+effect/skill01_jiantoou
+  rotate: false
+  xy: 190, 61
+  size: 41, 61
+  orig: 45, 64
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageLayer="1">
+  <controller name="innerView" pages="1,none,0,item,2,oneKeyButton,6,addServerTime,3,assetChecker,4,spineChecker,5,email,7,task,8,heroAttr,9,drawCardGainNewHero,10,guide,11,level,12,fight,13,map,14,jjc,15,trunkTask,16,unlockBuilding,17,item,18,oneClick" selected="0">
+    <remark page="0" value="未知"/>
+    <remark page="1" value="道具GM"/>
+    <remark page="2" value="一键按钮"/>
+    <remark page="3" value="修改服务器时间"/>
+    <remark page="4" value="图片资源检查"/>
+    <remark page="5" value="Spine检查"/>
+    <remark page="6" value="邮件"/>
+    <remark page="7" value="任务GM"/>
+    <remark page="8" value="获取英雄属性"/>
+    <remark page="9" value="抽到新英雄"/>
+    <remark page="10" value="跳过引导"/>
+    <remark page="11" value="关卡设置"/>
+    <remark page="12" value="战斗"/>
+    <remark page="13" value="地图传送"/>
+    <remark page="14" value="竞技场"/>
+    <remark page="15" value="主线任务"/>
+    <remark page="16" value="解锁建筑"/>
+    <remark page="17" value="道具"/>
+    <remark page="18" value="一键变强"/>
+  </controller>
+  <displayList>
+    <loader id="n0_f0d8" name="background" xy="33,278" size="682,1014" group="n48_ipjz" url="ui://t846cdz6m43k1"/>
+    <image id="n1_f0d8" name="foreground" src="m43k2" fileName="img/bagpackBackground.png" xy="55,363" size="638,803" group="n48_ipjz"/>
+    <list id="n30_t6mg" name="gmTypeList" xy="58,1184" size="634,77" group="n48_ipjz" layout="row" overflow="scroll" scroll="horizontal" margin="5,5,5,5" colGap="10" defaultItem="ui://t846cdz6m43k6" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n17_f0d8" name="title" xy="339,304" size="56,44" group="n48_ipjz" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="GM"/>
+    <text id="n69_caj9" name="labelServerOpenTime" xy="45,50" size="662,44" group="n48_ipjz" fontSize="32" color="#ffffff" align="right" vAlign="middle" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="2024-01-01 00:00:00"/>
+    <text id="n36_r9gz" name="labelServerTime" xy="45,109" size="662,44" group="n48_ipjz" fontSize="32" color="#ffffff" align="right" vAlign="middle" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="2024-01-01 00:00:00"/>
+    <text id="n39_b2sd" name="labelPlayerId" xy="45,211" size="662,44" group="n48_ipjz" fontSize="32" color="#ffffff" align="right" vAlign="middle" vars="true" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="[点击复制] playerId = {playerId=0}"/>
+    <text id="n40_b2sd" name="labelServerId" xy="45,159" size="662,44" group="n48_ipjz" fontSize="32" color="#ffffff" align="right" vAlign="middle" vars="true" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="serverId = {serverId=0}"/>
+    <component id="n28_t6mg" name="gmItenView" src="m43ka" fileName="GMItemView.xml" xy="70,377" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="0"/>
+    </component>
+    <component id="n31_b1ch" name="gmOneKeyButtonChildView" src="b1chb" fileName="oneKey/GMOneKeyButtonChildView.xml" xy="72,379" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="2"/>
+      <relation target="" sidePair=""/>
+    </component>
+    <component id="n32_qj7y" name="gmAssetCheckerChildView" src="qj7yf" fileName="assetChecker/GMAssetCheckerChildView.xml" xy="65,378" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="3"/>
+    </component>
+    <component id="n34_fsx5" name="gmSpineChecker" src="fsx5g" fileName="spineChecker/GMSpineCheckerView.xml" xy="71,379" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="4"/>
+    </component>
+    <component id="n35_fsx5" name="gmEmailView" src="fsx5m" fileName="email/GMEmailView.xml" xy="67,385" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="5"/>
+    </component>
+    <component id="n37_l0ie" name="gmServerTimeView" src="l0ieq" fileName="serverTime/GMAddServerTimeView.xml" xy="68,373" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="6"/>
+    </component>
+    <component id="n38_l0ie" name="gmTask" src="l0ier" fileName="task/GMTaskView.xml" xy="69,377" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="7"/>
+    </component>
+    <component id="n45_dclx" name="labelTitle" src="dclxs" fileName="GMHeroAttrView.xml" xy="101,460" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="8"/>
+    </component>
+    <component id="n46_phyf" name="dradCardGainNewHero" src="phyfu" fileName="drawCard/DrawCardTestNewHeroComp.xml" xy="65,389" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="9"/>
+    </component>
+    <component id="n47_105pv" name="n47" src="105pvw" fileName="GMGuideView.xml" xy="101,441" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="10"/>
+    </component>
+    <component id="n49_gkgv" name="level" src="gkgvw0" fileName="level/GMLevelView.xml" xy="75,379" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="11"/>
+    </component>
+    <component id="n51_ee3z" name="n51" src="ee3zw1" fileName="GMFightView.xml" xy="58,366" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="12"/>
+    </component>
+    <component id="n52_aqfj" name="n52" src="aqfj15c" fileName="GMTransferMapView.xml" xy="101,441" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="13"/>
+    </component>
+    <component id="n68_ffqt" name="jjc" src="ffqt15d" fileName="pvp/GMPVPScoreView.xml" xy="75,380" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="14"/>
+    </component>
+    <component id="n71_f2nq" name="n71" src="f2nq15f" fileName="task/GMTrunkTaskView.xml" xy="67,378" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="15"/>
+    </component>
+    <component id="n72_v891" name="n72" src="v89115e" fileName="GMUnlockBuildingView.xml" xy="101,477" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="16"/>
+    </component>
+    <component id="n73_tqjl" name="n73" src="tqjl15h" fileName="item/GMAddItemTextView.xml" xy="60,378" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="17"/>
+    </component>
+    <component id="n74_v891" name="n74" src="v89115i" fileName="oneClickStronger/GMOneClickStrongerView.xml" xy="60,365" size="630,798" group="n41_kp1o">
+      <gearDisplay controller="innerView" pages="18"/>
+    </component>
+    <group id="n41_kp1o" name="innerViewGroup" xy="58,365" size="632,801" group="n48_ipjz"/>
+    <group id="n48_ipjz" name="all" xy="33,50" size="682,1242" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

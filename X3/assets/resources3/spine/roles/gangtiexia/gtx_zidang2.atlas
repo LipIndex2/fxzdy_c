@@ -1,0 +1,27 @@
+
+gtx_zidang2.png
+size: 89,17
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidang2
+  rotate: false
+  xy: 65, 2
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+zidang2_1
+  rotate: false
+  xy: 34, 3
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+zidang2_2
+  rotate: false
+  xy: 2, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+BOSS_cishe.png
+size: 496,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cishe_0
+  rotate: false
+  xy: 301, 106
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+cishe_1
+  rotate: true
+  xy: 440, 38
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+cishe_10
+  rotate: true
+  xy: 275, 18
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+cishe_11
+  rotate: true
+  xy: 2, 9
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+cishe_12
+  rotate: true
+  xy: 440, 14
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+cishe_13
+  rotate: false
+  xy: 106, 67
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1
+cishe_14
+  rotate: false
+  xy: 181, 15
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+cishe_15
+  rotate: true
+  xy: 282, 49
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+cishe_16
+  rotate: false
+  xy: 144, 200
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+cishe_17
+  rotate: false
+  xy: 264, 98
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+cishe_18
+  rotate: true
+  xy: 476, 113
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+cishe_19
+  rotate: false
+  xy: 197, 198
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+cishe_2
+  rotate: false
+  xy: 213, 112
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+cishe_20
+  rotate: false
+  xy: 476, 173
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+cishe_21
+  rotate: true
+  xy: 57, 68
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+cishe_22
+  rotate: true
+  xy: 174, 10
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+cishe_23
+  rotate: true
+  xy: 41, 5
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+cishe_24
+  rotate: false
+  xy: 476, 132
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+cishe_25
+  rotate: false
+  xy: 217, 96
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cishe_26
+  rotate: false
+  xy: 384, 16
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+cishe_27
+  rotate: 180
+  xy: 141, 15
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+cishe_28
+  rotate: false
+  xy: 2, 41
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+cishe_29
+  rotate: false
+  xy: 339, 58
+  size: 99, 47
+  orig: 99, 47
+  offset: 0, 0
+  index: -1
+cishe_3
+  rotate: true
+  xy: 369, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+cishe_30
+  rotate: false
+  xy: 99, 39
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+cishe_31
+  rotate: false
+  xy: 331, 18
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+cishe_32
+  rotate: 180
+  xy: 102, 4
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+cishe_33
+  rotate: false
+  xy: 476, 153
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+cishe_34
+  rotate: false
+  xy: 476, 96
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+cishe_35
+  rotate: false
+  xy: 434, 98
+  size: 40, 115
+  orig: 40, 115
+  offset: 0, 0
+  index: -1
+cishe_36
+  rotate: false
+  xy: 56, 22
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+cishe_37
+  rotate: false
+  xy: 368, 108
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+cishe_4
+  rotate: false
+  xy: 476, 195
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+cishe_5
+  rotate: false
+  xy: 106, 95
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+cishe_6
+  rotate: false
+  xy: 475, 79
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+cishe_7
+  rotate: false
+  xy: 85, 70
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cishe_8
+  rotate: false
+  xy: 475, 63
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+cishe_9
+  rotate: false
+  xy: 2, 86
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1

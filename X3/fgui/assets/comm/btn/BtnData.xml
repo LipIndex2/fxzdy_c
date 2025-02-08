@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,90" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n1_lhcv" name="icon" xy="0,0" size="90,90" url="ui://38fa8c75qluivvv1c4"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

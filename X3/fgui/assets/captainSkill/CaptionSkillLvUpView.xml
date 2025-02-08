@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kkp3w5b">
+  <displayList>
+    <loader id="n105_woyg" name="bg" xy="0,-146" size="750,1626" url="ui://7cvz7rmmwoygvv23" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n106_woyg" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-190" pivot="0.5,0.5" anchor="true" size="750,250" color="#132239">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n107_woyg" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1589" pivot="0.5,0.5" anchor="true" size="750,400" color="#3a4968" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n96_n19g" name="modelComp" src="woyg3m" fileName="CaptionSkillModelComp.xml" xy="175,30" size="400,400">
+      <relation target="" sidePair="topext-top%,bottomext-bottom%"/>
+    </component>
+    <image id="n4_06d7" name="bgTitle" src="06d73" fileName="img/sd_A_common_bossbt_frame.png" xy="162,20" group="n85_kp3w"/>
+    <text id="n6_06d7" name="labelTitle" xy="236,31" size="269,64" group="n85_kp3w" fontSize="48" color="#052664" align="center" vAlign="middle" autoSize="none" singleLine="true" text="职业专精"/>
+    <component id="n99_oc78" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="482,45" group="n85_kp3w"/>
+    <group id="n85_kp3w" name="titlePart" xy="162,20" size="414,89" group="n86_kp3w"/>
+    <group id="n86_kp3w" name="header" xy="162,20" size="414,89" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n36_06d7" name="contentComp" src="kp3w39" fileName="components/CaptainSkillDescPanelComp.xml" xy="0,377" group="n84_kp3w"/>
+    <image id="n93_ipjz" name="n93" src="ipjz3e" fileName="sd_A_common_fengexian_line_7.png" xy="450,997" group="n108_ta4f"/>
+    <image id="n94_ipjz" name="n94" src="ipjz3f" fileName="sd_A_common_fengexian_line.png" xy="45,997" group="n108_ta4f"/>
+    <text id="n14_06d7" name="labelTitleTab" xy="372,997" pivot="0.5,0.5" anchor="true" size="123,42" group="n108_ta4f" fontSize="30" color="#ffffff" align="center" vAlign="middle" singleLine="true" text="职业专精"/>
+    <group id="n108_ta4f" name="gTitle" xy="45,976" size="656,42" group="n84_kp3w" advanced="true"/>
+    <list id="n82_kp3w" name="skillList" xy="10,1049" size="740,167" group="n84_kp3w" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="-10" defaultItem="ui://07ac155bkp3w38" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n84_kp3w" name="footer" xy="0,377" size="750,839" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n89_kp3w" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <list id="n103_woyg" name="listHeaderItem" xy="592,86" size="140,150" lineGap="6" defaultItem="ui://07ac155bwoyg3l" autoClearItems="true">
+      <relation target="" sidePair="right-right,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n104_woyg" name="btnReset" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="634,292">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button title="科技重置" icon="ui://07ac155bwoyg3j"/>
+    </component>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n84_kp3w" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n86_kp3w" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n84_kp3w" tween="true" startValue="16,438" endValue="16,338" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n86_kp3w" tween="true" startValue="162,-240" endValue="162,20" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

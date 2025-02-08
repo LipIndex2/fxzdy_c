@@ -1,0 +1,125 @@
+
+attack_hit_lower.png
+size: 494,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_hit5_00000
+  rotate: false
+  xy: 466, 101
+  size: 17, 11
+  orig: 150, 80
+  offset: 47, 37
+  index: -1
+effect/attack_hit5_00001
+  rotate: false
+  xy: 203, 32
+  size: 34, 19
+  orig: 150, 80
+  offset: 41, 33
+  index: -1
+effect/attack_hit5_00002
+  rotate: false
+  xy: 151, 23
+  size: 50, 28
+  orig: 150, 80
+  offset: 32, 28
+  index: -1
+effect/attack_hit5_00003
+  rotate: false
+  xy: 430, 16
+  size: 62, 36
+  orig: 150, 80
+  offset: 26, 24
+  index: -1
+effect/attack_hit5_00004
+  rotate: false
+  xy: 80, 13
+  size: 69, 38
+  orig: 150, 80
+  offset: 23, 23
+  index: -1
+effect/attack_hit5_00005
+  rotate: false
+  xy: 2, 9
+  size: 76, 42
+  orig: 150, 80
+  offset: 22, 21
+  index: -1
+effect/attack_hit5_00006
+  rotate: false
+  xy: 342, 6
+  size: 86, 46
+  orig: 150, 80
+  offset: 18, 19
+  index: -1
+effect/attack_hit5_00007
+  rotate: false
+  xy: 245, 2
+  size: 95, 50
+  orig: 150, 80
+  offset: 15, 16
+  index: -1
+effect/attack_hit5_00008
+  rotate: true
+  xy: 434, 183
+  size: 105, 54
+  orig: 150, 80
+  offset: 11, 13
+  index: -1
+effect/attack_hit5_00009
+  rotate: false
+  xy: 355, 54
+  size: 109, 58
+  orig: 150, 80
+  offset: 11, 11
+  index: -1
+effect/attack_hit5_00010
+  rotate: true
+  xy: 371, 177
+  size: 111, 61
+  orig: 150, 80
+  offset: 12, 9
+  index: -1
+effect/attack_hit5_00011
+  rotate: false
+  xy: 245, 112
+  size: 108, 61
+  orig: 150, 80
+  offset: 18, 9
+  index: -1
+effect/attack_hit5_00012
+  rotate: false
+  xy: 371, 114
+  size: 111, 61
+  orig: 150, 80
+  offset: 18, 9
+  index: -1
+effect/attack_hit5_00013
+  rotate: true
+  xy: 245, 175
+  size: 113, 61
+  orig: 150, 80
+  offset: 18, 9
+  index: -1
+effect/attack_hit5_00014
+  rotate: true
+  xy: 308, 175
+  size: 113, 61
+  orig: 150, 80
+  offset: 18, 9
+  index: -1
+effect/attack_hit5_00015
+  rotate: false
+  xy: 245, 54
+  size: 107, 56
+  orig: 150, 80
+  offset: 18, 10
+  index: -1
+effect/attack_hit6
+  rotate: false
+  xy: 2, 53
+  size: 241, 235
+  orig: 256, 256
+  offset: 1, 15
+  index: -1

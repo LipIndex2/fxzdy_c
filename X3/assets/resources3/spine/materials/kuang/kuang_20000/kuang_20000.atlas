@@ -1,0 +1,48 @@
+
+kuang_20000.png
+size: 413,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 284, 3
+  size: 16, 20
+  orig: 125, 81
+  offset: 109, 16
+  index: -1
+3
+  rotate: true
+  xy: 340, 23
+  size: 133, 29
+  orig: 133, 29
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 340, 158
+  size: 149, 70
+  orig: 149, 70
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 2
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 2, 108
+  size: 182, 200
+  orig: 345, 200
+  offset: 163, 0
+  index: -1
+map_geyser_2101
+  rotate: true
+  xy: 185, 95
+  size: 212, 153
+  orig: 213, 153
+  offset: 0, 0
+  index: -1

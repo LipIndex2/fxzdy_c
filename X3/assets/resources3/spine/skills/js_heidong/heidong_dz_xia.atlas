@@ -1,0 +1,97 @@
+
+heidong_dz_xia.png
+size: 350,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill2heidong_20
+  rotate: false
+  xy: 132, 224
+  size: 28, 28
+  orig: 128, 128
+  offset: 50, 50
+  index: -1
+images/effect/skill2heidong_21
+  rotate: false
+  xy: 294, 80
+  size: 46, 46
+  orig: 128, 128
+  offset: 41, 41
+  index: -1
+images/effect/skill2heidong_22
+  rotate: false
+  xy: 290, 20
+  size: 58, 58
+  orig: 128, 128
+  offset: 35, 35
+  index: -1
+images/effect/skill2heidong_23
+  rotate: false
+  xy: 228, 274
+  size: 74, 74
+  orig: 128, 128
+  offset: 27, 27
+  index: -1
+images/effect/skill2heidong_24
+  rotate: false
+  xy: 212, 80
+  size: 80, 80
+  orig: 128, 128
+  offset: 24, 24
+  index: -1
+images/effect/skill2heidong_25
+  rotate: false
+  xy: 212, 162
+  size: 90, 90
+  orig: 128, 128
+  offset: 19, 19
+  index: -1
+images/effect/skill2heidong_26
+  rotate: false
+  xy: 132, 254
+  size: 94, 94
+  orig: 128, 128
+  offset: 17, 17
+  index: -1
+images/effect/skill2heidong_27
+  rotate: false
+  xy: 112, 120
+  size: 98, 98
+  orig: 128, 128
+  offset: 15, 15
+  index: -1
+images/effect/skill2heidong_28
+  rotate: false
+  xy: 108, 6
+  size: 102, 102
+  orig: 128, 128
+  offset: 13, 13
+  index: -1
+images/effect/skill2heidong_29
+  rotate: false
+  xy: 2, 4
+  size: 104, 104
+  orig: 128, 128
+  offset: 12, 12
+  index: -1
+images/effect/skill2heidong_30
+  rotate: false
+  xy: 2, 110
+  size: 108, 108
+  orig: 128, 128
+  offset: 10, 10
+  index: -1
+images/effect/skill2heidong_31
+  rotate: false
+  xy: 212, 2
+  size: 76, 76
+  orig: 128, 128
+  offset: 26, 26
+  index: -1
+images/effect/skill2heidong_53
+  rotate: false
+  xy: 2, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

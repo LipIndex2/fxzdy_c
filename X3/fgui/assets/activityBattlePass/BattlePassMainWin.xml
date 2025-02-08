@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,奖励,1,任务" selected="1"/>
+  <displayList>
+    <loader id="n108_bezo" name="n108" xy="0,0" size="750,1334" url="ui://ee5b35f6bezo5q" fill="scaleFree">
+      <relation target="" sidePair="height-height,center-center"/>
+    </loader>
+    <image id="n116_bezo" name="n116" src="bezo5t" fileName="img/tabdi.png" xy="15,432" size="719,74"/>
+    <image id="n117_bezo" name="n117" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="34,519" size="682,50" color="#8c5636">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <component id="n100_bezo" name="bar_level" src="bezo5g" fileName="bar/BattlePassLevelBar.xml" xy="153,309" size="310,23">
+      <relation target="" sidePair="center-center,top-top"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n5_b7b6" name="n5" src="bezo5r" fileName="img/dengji_10.png" xy="45,245" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <list id="n94_bezo" name="list_task" xy="32,520" size="685,593" overflow="scroll" lineGap="16" defaultItem="ui://ee5b35f6bezo5c">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="top-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n95_bezo" name="list_taskBtn" xy="22,1127" size="706,72" layout="row" colGap="20" defaultItem="ui://ee5b35f6bezo5e" align="center">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n97_bezo" name="list_tab" xy="15,432" size="722,74" pageController="c1" layout="row" defaultItem="ui://ee5b35f6bezo5f" selectionController="c1">
+      <relation target="" sidePair="center-center,top-top"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n98_bezo" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="303,1100" size="183,70" visible="false">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="一键领取" titleFontSize="32"/>
+    </component>
+    <list id="n102_bezo" name="list_award" xy="32,579" size="685,449" overflow="scroll" lineGap="16" defaultItem="ui://ee5b35f6bezo5h">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n103_bezo" name="btn_buy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="499,272" size="214,82">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="激活通行证" titleFontSize="34"/>
+    </component>
+    <component id="n107_r58c" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="436,366" size="41,34" visible="false">
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <text id="n109_bezo" name="n109" xy="55,140" pivot="0.5,0.5" size="92,29" fontSize="20" color="#fabc7f" align="center" vAlign="middle" text="剩余时间:">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n110_bezo" name="T_time" xy="155,140" pivot="0,0.5" size="99,29" fontSize="20" color="#f2d5a7" vAlign="middle" text="5天30小时">
+      <relation target="n109_bezo" sidePair="middle-middle,left-right"/>
+    </text>
+    <text id="n111_bezo" name="n111" xy="18,61" size="242,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="星际通行证">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n112_bezo" name="T_level" xy="99,273" pivot="0.5,0.5" size="29,56" fontSize="42" color="#fffde6" align="center" vAlign="middle" strokeColor="#8b3800" strokeSize="3" text="4">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n113_bezo" name="n113" xy="86,332" size="55,36" fontSize="26" color="#f7ecb0" vAlign="middle" strokeColor="#000000" strokeSize="3" text="等级">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n114_bezo" name="T_bar" xy="295,276" pivot="0.5,0.5" size="74,29" fontSize="20" color="#f7ecb0" vAlign="middle" strokeColor="#180d00" strokeSize="2" text="90/100">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <loader id="n115_bezo" name="img_item" xy="265,276" pivot="0.5,0.5" size="29,29" autoSize="true">
+      <relation target="n114_bezo" sidePair="middle-middle,right-left"/>
+    </loader>
+    <text id="n118_bezo" name="n118" xy="206,527" pivot="0.5,0.5" size="133,36" fontSize="26" color="#ffdfa2" vAlign="middle" text="基础通行证">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n119_bezo" name="n119" xy="478,527" pivot="0.5,0.5" size="133,36" fontSize="26" color="#ffe65b" vAlign="middle" text="豪华通行证">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n120_bezo" name="footer" src="dusvvvv1fg" fileName="back/BackFooter3.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <component id="n121_bezo" name="bigAwardItem" src="bezo60" fileName="item/BattlePassAwardItem3.xml" xy="5,1041">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

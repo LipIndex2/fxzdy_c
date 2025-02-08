@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="190,50">
+  <displayList>
+    <image id="n1_ee3z" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="0,0" size="190,50">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_ee3z" name="title" xy="12,7" size="165,34" fontSize="24" color="#ffffff" align="center" autoSize="none" text=""/>
+  </displayList>
+</component>

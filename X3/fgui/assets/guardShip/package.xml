@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ae4de3b1">
+  <resources>
+    <component id="179414" name="GuardShipRewardWin.xml" path="/view/"/>
+    <component id="179415" name="GuardShipRewardItem.xml" path="/item/"/>
+    <image id="179416" name="zanting.png" path="/img/"/>
+    <image id="179419" name="tuoyuan676.png" path="/img/"/>
+    <image id="179420" name="tuceng674.png" path="/img/"/>
+    <component id="179426" name="GuardShipBattleView.xml" path="/view/"/>
+    <image id="179427" name="biaoti.png" path="/img/"/>
+    <component id="179440" name="GuardShipBuffSelectWin.xml" path="/view/"/>
+    <image id="179447" name="fubiao_frame.png" path="/img/"/>
+    <image id="179469" name="tuceng5858.png" path="/img/"/>
+    <component id="179480" name="GuardShipMainView.xml" path="/view/"/>
+    <image id="e53p83" name="bg_info.png" path="/img/" scale="9grid" scale9grid="50,50,17,115"/>
+    <image id="e53p84" name="quality_2.png" path="/img/" scale="9grid" scale9grid="100,350,12,12"/>
+    <image id="e53p85" name="quality_1.png" path="/img/" scale="9grid" scale9grid="100,350,12,12"/>
+    <image id="e53p86" name="quality_3.png" path="/img/" scale="9grid" scale9grid="100,350,12,12"/>
+    <image id="e53p87" name="quality_4.png" path="/img/" scale="9grid" scale9grid="100,350,12,12"/>
+    <image id="e53p88" name="progress_bg.png" path="/img/" scale="9grid" scale9grid="22,14,4,2"/>
+    <image id="e53p89" name="progress_bar.png" path="/img/" scale="9grid" scale9grid="22,14,4,2"/>
+    <component id="gs9k8a" name="GuardShipFloorInfo.xml" path="/component/"/>
+    <component id="gs9k8b" name="GuardShipLockItem.xml" path="/item/"/>
+    <component id="gs9k8c" name="GuardShipProgress.xml" path="/component/"/>
+    <component id="gs9k8e" name="GuardShipPlayBtn.xml" path="/component/"/>
+    <component id="gs9k8f" name="GuardShipBuffItem.xml" path="/item/"/>
+    <component id="gs9k8g" name="GuardShipPropItem.xml" path="/item/"/>
+    <image id="gs9k8h" name="jixu.png" path="/img/"/>
+    <component id="gs9k8i" name="GuardShipBuffSelectItem.xml" path="/item/"/>
+    <component id="f9dq8j" name="GuardShipHeros.xml" path="/component/"/>
+    <image id="cth08m" name="quality_8.png" path="/img/" scale="9grid" scale9grid="100,350,12,12"/>
+    <component id="loej8n" name="GuardShipHeroAttrWin.xml" path="/test/"/>
+    <component id="loej8o" name="GuardShopHeroAttrItem.xml" path="/test/"/>
+    <component id="loej8s" name="GuardShopHeroAttrPanel.xml" path="/test/"/>
+    <component id="loej8t" name="BtnTestHero.xml" path="/test/"/>
+    <image id="loej8u" name="hong_buff.png" path="/img/"/>
+    <image id="loej8v" name="huang_buff.png" path="/img/"/>
+    <image id="loej8w" name="lan_buff.png" path="/img/"/>
+    <image id="loej8x" name="zi_buff.png" path="/img/"/>
+    <component id="loej8y" name="GuardShipBuffShowItem.xml" path="/item/"/>
+    <component id="loej8z" name="GuardShipBuffShowWin.xml" path="/view/"/>
+    <component id="loej91" name="GuardShipRefreshBuffBtn.xml" path="/component/"/>
+    <component id="loej92" name="GuardShipBuffShowDesc.xml" path="/component/"/>
+    <component id="loej93" name="GuardShipBuffSelectDesc.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

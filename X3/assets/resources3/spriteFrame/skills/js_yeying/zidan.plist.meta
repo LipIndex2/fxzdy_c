@@ -1,0 +1,63 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "2eabb173-3524-4917-b1c8-af7269807a33",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "f5679": {
+      "importer": "sprite-frame",
+      "uuid": "2eabb173-3524-4917-b1c8-af7269807a33@f5679",
+      "displayName": "",
+      "id": "f5679",
+      "name": "zidan-idle_0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 22,
+        "height": 22,
+        "rawWidth": 22,
+        "rawHeight": 22,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c0e8335e-a570-476c-bca8-6bf5c48d97cd@6c48a",
+        "atlasUuid": "2eabb173-3524-4917-b1c8-af7269807a33"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "zidan.png",
+    "format": 3,
+    "uuid": "2eabb173-3524-4917-b1c8-af7269807a33",
+    "textureUuid": "c0e8335e-a570-476c-bca8-6bf5c48d97cd@6c48a"
+  }
+}

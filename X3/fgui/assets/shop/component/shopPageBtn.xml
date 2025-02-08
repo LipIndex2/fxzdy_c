@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,121" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="1"/>
+  <displayList>
+    <loader id="n68_s0hy" name="iconLoader" xy="65,50" pivot="0.5,0.5" anchor="true" size="100,100" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="button" pages="2"/>
+    </loader>
+    <loader id="n70_s0hy" name="iconSelectLoader" xy="65,50" pivot="0.5,0.5" anchor="true" size="100,100" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="button" pages="3"/>
+    </loader>
+    <text id="n66_be41" name="title" xy="65,104" pivot="0.5,0.5" anchor="true" size="99,34" fontSize="24" color="#feffec" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="日常商店">
+      <gearColor controller="button" pages="2,3" values="#97aaf5,#000000|#feffec,#000000"/>
+    </text>
+    <component id="n71_t5gy" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="102,18" controller="type,2"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

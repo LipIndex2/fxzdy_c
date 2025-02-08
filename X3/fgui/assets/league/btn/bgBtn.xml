@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="592,458" extention="Button">
+  <displayList>
+    <image id="n0_be1a" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="0,0" size="592,458"/>
+  </displayList>
+  <Button/>
+</component>

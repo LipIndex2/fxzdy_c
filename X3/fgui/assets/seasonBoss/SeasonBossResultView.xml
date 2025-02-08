@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1665">
+  <displayList>
+    <component id="n42_v5mw" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="371,705" pivot="0.5,1" anchor="true" size="880,742">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n30_0734" name="lbRank" xy="118,620" size="205,59" group="n45_u8y2" fontSize="44" color="#f6d860" align="center" vAlign="middle" autoSize="none" text="99"/>
+    <text id="n31_0734" name="n31" xy="175,670" size="91,32" group="n45_u8y2" fontSize="22" color="#8bb4e7" vAlign="middle" text="当前排名"/>
+    <image id="n32_0734" name="imgRank" src="073459" fileName="img/sd_A_common_xjl_word_0.png" xy="238,613" group="n45_u8y2"/>
+    <text id="n33_0734" name="lbValue" xy="345,620" size="223,59" group="n45_u8y2" fontSize="44" color="#f6d860" align="center" vAlign="middle" autoSize="shrink" text="4128710"/>
+    <text id="n34_0734" name="n34" xy="388,670" size="135,32" group="n45_u8y2" fontSize="22" color="#8bb4e7" vAlign="middle" text="本轮造成伤害"/>
+    <image id="n35_0734" name="imgValue" src="073459" fileName="img/sd_A_common_xjl_word_0.png" xy="546,613" group="n45_u8y2"/>
+    <image id="n37_0734" name="n37" src="073461" fileName="img/sd_A_common_word_tag.png" xy="88,563" group="n45_u8y2"/>
+    <text id="n38_0734" name="n38" xy="310,557" size="123,42" group="n45_u8y2" fontSize="30" color="#ffffff" vAlign="middle" text="数据统计"/>
+    <text id="n39_0734" name="n39" xy="302,1223" size="143,29" group="n45_u8y2" fontSize="20" color="#fffefe" vAlign="middle" text="点击空白处关闭"/>
+    <component id="n46_u8y2" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="647,623" size="66,72" group="n45_u8y2">
+      <Button icon="ui://38fa8c758a38127"/>
+    </component>
+    <image id="n51_u8y2" name="n51" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="97,790" size="558,133" group="n58_u8y2"/>
+    <image id="n54_u8y2" name="n54" src="dtss5z" fileName="bgImage/biaoti_msg.png" pkg="38fa8c75" xy="275,728" size="200,46" group="n58_u8y2" color="#242b3b"/>
+    <text id="n18_0734" name="title1" xy="320,732" size="107,36" group="n58_u8y2" fontSize="26" color="#8bb4e7" vAlign="middle" text="挑战奖励"/>
+    <component id="n41_v5mw" name="itemList1" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="132,810" size="543,109" group="n58_u8y2" scale="0.9,0.9"/>
+    <group id="n58_u8y2" name="G1" xy="97,728" size="578,195" group="n45_u8y2" advanced="true"/>
+    <image id="n50_u8y2" name="n50" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="98,1006" size="558,167" group="n59_u8y2"/>
+    <text id="n61_oyze" name="flyPos1" xy="554,937" size="40,34" group="n59_u8y2" visible="false" fontSize="24" color="#ffffff" text=""/>
+    <list id="n44_v5mw" name="itemListRecord" xy="124,1018" size="501,139" group="n59_u8y2" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://5ae153adv5mw68" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n55_u8y2" name="n55" src="dtss5z" fileName="bgImage/biaoti_msg.png" pkg="38fa8c75" xy="280,947" size="200,46" group="n59_u8y2" color="#242b3b"/>
+    <text id="n56_u8y2" name="title1" xy="304,951" size="158,36" group="n59_u8y2" fontSize="26" color="#8bb4e7" vAlign="middle" text="伤害进度奖励"/>
+    <component id="n60_oyze" name="btnBackpack" src="ejy3vvv1dp" fileName="btn/BtnBeiBao.xml" pkg="38fa8c75" xy="630,1177" group="n59_u8y2"/>
+    <group id="n59_u8y2" name="G2" xy="98,937" size="615,334" group="n45_u8y2" advanced="true"/>
+    <group id="n45_u8y2" name="n45" xy="88,557" size="625,714" advanced="true">
+      <relation target="" sidePair=""/>
+    </group>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n45_u8y2" tween="true" startValue="0" endValue="0" duration="54"/>
+    <item time="54" type="Alpha" target="n45_u8y2" tween="true" startValue="0" endValue="1" duration="18"/>
+  </transition>
+</component>

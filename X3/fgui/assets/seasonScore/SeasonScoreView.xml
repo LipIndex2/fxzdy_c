@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n72_hz6e" name="n72" src="8cb834" fileName="img/beijing2.jpg" xy="0,-202" group="n63_v5mw"/>
+    <image id="n70_v5mw" name="n70" src="8cb835" fileName="img/shuzidi.png" xy="596,323" group="n63_v5mw"/>
+    <text id="n2_74e5" name="n2" xy="416,315" size="189,50" group="n63_v5mw" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#060606" strokeSize="3" text="活动总积分:"/>
+    <text id="n3_74e5" name="lbScore" xy="598,321" size="121,42" group="n63_v5mw" fontSize="30" color="#ff8651" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text=""/>
+    <image id="n58_pkn9" name="n58" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,367" size="750,1259" group="n63_v5mw"/>
+    <image id="n31_74e5" name="imgTips" src="74e521" fileName="img/huodongyijieshu.png" pkg="54da9fd9" xy="238,699" group="n63_v5mw">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n52_pkn9" name="n52" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="9,479" size="730,721" group="n63_v5mw">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n66_v5mw" name="n66" src="8cb838" fileName="img/di.png" xy="16,487" group="n63_v5mw"/>
+    <text id="n7_74e5" name="lvTS" xy="37,494" size="226,39" group="n63_v5mw" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#3a2866" strokeSize="3" text="竞技场活动积分："/>
+    <text id="n39_74e5" name="n39" xy="36,181" size="206,46" group="n63_v5mw" fontSize="34" color="#f187ff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="力量宝石试炼"/>
+    <image id="n74_9zn0" name="n74" src="woygvvv1il" fileName="bgImage/sjkj_bt.png" pkg="38fa8c75" xy="5,85" group="n63_v5mw"/>
+    <list id="n51_pkn9" name="listItems" xy="31,555" size="700,633" group="n63_v5mw" overflow="scroll" lineGap="10" defaultItem="ui://abaf6768pkn933">
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n56_pkn9" name="12" src="8cb840" fileName="img/hd_yeqian02.png" xy="17,408" size="717,59" group="n63_v5mw"/>
+    <image id="n59_pkn9" name="123" src="8cb841" fileName="img/dian.png" xy="251,416" group="n63_v5mw"/>
+    <image id="n60_pkn9" name="1234" src="8cb841" fileName="img/dian.png" xy="493,416" group="n63_v5mw"/>
+    <list id="n61_pkn9" name="listTabs" xy="16,406" size="727,71" group="n63_v5mw" layout="row" colGap="3" defaultItem="ui://abaf6768pkn936">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n64_v5mw" name="btnScoRule" src="pkn934" fileName="btn/SeasonScoreBtn.xml" xy="543,492" group="n63_v5mw"/>
+    <component id="n67_v5mw" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="301,90" group="n63_v5mw"/>
+    <richtext id="n71_u8y2" name="lbCd" xy="49,138" size="230,34" group="n63_v5mw" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="5"/>
+    <image id="n73_hz6e" name="n73" src="hz6e63" fileName="img/sjkj_bt1.png" xy="37,70" group="n63_v5mw"/>
+    <group id="n63_v5mw" name="n63" xy="0,-202" size="750,1828" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

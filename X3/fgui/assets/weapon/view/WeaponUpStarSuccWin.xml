@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n3_03e4" name="n3" src="03e43" fileName="img/sd_Cchouka_ck_bg.jpg" xy="0,-146" group="n36_cjsd"/>
+    <image id="n4_03e4" name="n4" src="sv989j" fileName="img/sxcg_frame.png" xy="106,588" pivot="0.5,0" size="535,744" group="n36_cjsd" alpha="0.6"/>
+    <image id="n7_03e4" name="n7" src="6ihgvvv1e3" fileName="peiyang/dizuo.png" pkg="72zq62ea" xy="102,366" group="n36_cjsd"/>
+    <component id="n39_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="390,120" group="n36_cjsd"/>
+    <image id="n23_03e4" name="n23" src="03e415" fileName="bgImage/gxhdbt_frame.png" pkg="38fa8c75" xy="398,124" pivot="0.5,0.5" anchor="true" group="n29_cjsd"/>
+    <image id="n24_03e4" name="n24" src="03e416" fileName="img/shengxingchenggong_0.png" xy="389,119" pivot="0.5,0.5" anchor="true" group="n29_cjsd"/>
+    <group id="n29_cjsd" name="title" xy="235,90" size="326,68" group="n36_cjsd" advanced="true"/>
+    <loader id="n30_cjsd" name="iconLoader" xy="376,540" pivot="0.5,1" anchor="true" size="360,360" group="n36_cjsd" align="center" vAlign="middle" fill="scale"/>
+    <list id="n34_cjsd" name="listAttr" xy="116,774" size="518,164" group="n36_cjsd" overflow="scroll" lineGap="5" defaultItem="ui://cbfa4e0ccjsd97">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n35_cjsd" name="btnClose" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="221,1171" size="306,117" group="n36_cjsd">
+      <relation target="n38_cjsd" sidePair="top-bottom"/>
+      <Button title="太棒了"/>
+    </component>
+    <image id="n18_03e4" name="n18" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="364,712" group="n37_cjsd"/>
+    <list id="n31_cjsd" name="listStarOld" xy="112,704" size="180,30" group="n37_cjsd" scale="1.2,1.2" layout="row" selectionMode="none" scroll="horizontal" colGap="2" defaultItem="ui://38fa8c75a0033" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n32_cjsd" name="listStarNew" xy="414,704" size="180,30" group="n37_cjsd" scale="1.2,1.2" layout="row" selectionMode="none" scroll="horizontal" colGap="2" defaultItem="ui://38fa8c75a0033" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n37_cjsd" name="GStar" xy="112,704" size="482,32" group="n36_cjsd" advanced="true"/>
+    <richtext id="n38_cjsd" name="lbBackDes" xy="170,1043" pivot="0.5,0" size="400,70" group="n36_cjsd" fontSize="24" color="#ffffff" align="center" ubb="true" autoSize="none" text="">
+      <relation target="n43_sv0c" sidePair="top-bottom"/>
+    </richtext>
+    <richtext id="n40_sv0c" name="n40" xy="117,978" size="29,40" group="n43_sv0c" fontSize="24" color="#00cc00" ubb="true" autoSize="none" text="新"/>
+    <richtext id="n42_sv0c" name="lbSkillDes" xy="153,978" size="476,34" group="n43_sv0c" fontSize="24" color="#ffffff" ubb="true" autoSize="height" text="啊实打实大时代克拉斯鲸打卡拉萨"/>
+    <group id="n43_sv0c" name="skillMc" xy="117,978" size="512,40" group="n36_cjsd" advanced="true">
+      <relation target="n34_cjsd" sidePair="top-bottom"/>
+    </group>
+    <group id="n36_cjsd" name="n36" xy="0,-146" size="750,1626" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n30_cjsd" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n34_cjsd" value="0"/>
+    <item time="0" type="Alpha" target="n35_cjsd" value="0"/>
+    <item time="0" type="Alpha" target="n37_cjsd" value="0"/>
+    <item time="0" type="Alpha" target="n38_cjsd" value="0"/>
+    <item time="0" type="Alpha" target="n43_sv0c" value="0"/>
+    <item time="0" type="Scale" target="n23_03e4" value="0,0"/>
+    <item time="0" type="Scale" target="n24_03e4" value="0,0"/>
+    <item time="0" type="Scale" target="n30_cjsd" tween="true" startValue="0,0" endValue="1,1" duration="9"/>
+    <item time="0" type="Size" target="n4_03e4" value="0,0"/>
+    <item time="3" type="Scale" target="n23_03e4" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="3" type="Scale" target="n24_03e4" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="8" type="Size" target="n4_03e4" tween="true" startValue="0,0" endValue="535,260" duration="6"/>
+    <item time="10" type="Alpha" target="n37_cjsd" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="13" type="Alpha" target="n34_cjsd" tween="true" startValue="0" endValue="1" duration="3"/>
+    <item time="14" type="Alpha" target="n43_sv0c" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="14" type="Size" target="n4_03e4" tween="true" startValue="535,260" endValue="535,744" duration="6" ease="Circ.Out"/>
+    <item time="15" type="Alpha" target="n38_cjsd" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="18" type="Alpha" target="n35_cjsd" tween="true" startValue="0" endValue="1" duration="2"/>
+  </transition>
+</component>

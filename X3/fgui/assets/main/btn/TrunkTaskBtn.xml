@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="255,93" pivot="0,0.5" anchor="true" extention="Button">
+  <controller name="taskState" exported="true" pages="0,未完成,1,完成" selected="1"/>
+  <controller name="finishFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <displayList>
+    <text id="n2_iydi" name="doneSpineRoot" xy="0,0" pivot="0.5,0.5" size="253,106" group="n5_iydi" fontSize="24" autoSize="none" autoClearText="true" text="">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </text>
+    <loader id="n0_iydi" name="bgTaskDone" xy="0,53" pivot="0,0.5" anchor="true" size="253,106" group="n5_iydi" url="ui://8982be53pocb59">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </loader>
+    <loader id="n3_iydi" name="imageReward" xy="49,50" pivot="0.5,0.5" anchor="true" size="64,64" group="n5_iydi" url="ui://8982be53pocb5a" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true" clearOnPublish="true"/>
+    <text id="n1_iydi" name="labelRewardTitle" xy="93,36" size="99,34" group="n5_iydi" fontSize="24" color="#fff5a0" strokeColor="#693213" strokeSize="3" singleLine="true" text="获得奖励"/>
+    <text id="n4_iydi" name="labelRewardCount" xy="34,57" pivot="0.5,0.5" size="28,29" group="n5_iydi" fontSize="20" color="#fefefe" align="center" strokeColor="#000000" strokeSize="3" singleLine="true" autoClearText="true" text="10"/>
+    <group id="n5_iydi" name="done" xy="0,0" size="253,106" advanced="true">
+      <gearDisplay controller="finishFlag" pages="0"/>
+      <gearDisplay2 controller="taskState" pages="1" condition="0"/>
+    </group>
+    <loader id="n6_iydi" name="bgTaskDoing" xy="0,52" pivot="0,0.5" anchor="true" size="253,105" group="n10_iydi" url="ui://8982be53pocb5b" fill="scaleFree">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </loader>
+    <loader id="n7_iydi" name="imageTaskTarget" xy="49,50" pivot="0.5,0.5" anchor="true" size="64,64" group="n10_iydi" url="ui://8982be53pocb5c" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true" clearOnPublish="true"/>
+    <text id="n8_iydi" name="labelTaskProgress" xy="50,73" pivot="0.5,0.5" anchor="true" size="67,29" group="n10_iydi" fontSize="20" color="#fffefe" align="center" vAlign="middle" vars="true" autoSize="shrink" strokeColor="#010918" strokeSize="3" singleLine="true" text="{currentCount=0}/{maxCount=0}"/>
+    <text id="n9_iydi" name="labelTaskTitle" xy="87,16" size="148,73" group="n10_iydi" fontSize="20" color="#fffefe" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#022663" strokeSize="3" autoClearText="true" text="击杀超级BOSS 大法师"/>
+    <group id="n10_iydi" name="doing" xy="0,0" size="253,105" advanced="true">
+      <gearDisplay controller="finishFlag" pages="0"/>
+      <gearDisplay2 controller="taskState" pages="0" condition="0"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="newTask">
+    <item time="0" type="XY" target="n10_iydi" tween="true" startValue="-300,0" endValue="0,0" duration="12" ease="Quart.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,55 @@
+
+skill02_shifa_lower.png
+size: 290,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_glo_01
+  rotate: false
+  xy: 2, 102
+  size: 186, 186
+  orig: 192, 192
+  offset: 3, 3
+  index: -1
+images/effect/skill02_ring_01
+  rotate: false
+  xy: 2, 56
+  size: 144, 44
+  orig: 210, 100
+  offset: 33, 28
+  index: -1
+images/effect/skill02_smoke_xia_00
+  rotate: true
+  xy: 238, 182
+  size: 106, 33
+  orig: 150, 100
+  offset: 34, 32
+  index: -1
+images/effect/skill02_smoke_xia_010
+  rotate: false
+  xy: 148, 51
+  size: 124, 49
+  orig: 150, 100
+  offset: 11, 21
+  index: -1
+images/effect/skill02_smoke_xia_013
+  rotate: false
+  xy: 2, 4
+  size: 121, 50
+  orig: 150, 100
+  offset: 11, 21
+  index: -1
+images/effect/skill02_smoke_xia_04
+  rotate: true
+  xy: 190, 165
+  size: 123, 46
+  orig: 150, 100
+  offset: 16, 25
+  index: -1
+images/effect/skill02_smoke_xia_07
+  rotate: false
+  xy: 125, 2
+  size: 125, 47
+  orig: 150, 100
+  offset: 12, 23
+  index: -1

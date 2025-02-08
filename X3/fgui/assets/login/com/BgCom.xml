@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1626">
+  <displayList>
+    <loader id="n25_kog3" name="bg" xy="375,813" pivot="0.5,0.5" anchor="true" size="750,1626" url="ui://7cvz7rmmydpgvv1v" align="center" vAlign="middle" autoSize="true"/>
+    <component id="n37_l88p" name="bgModelNode" src="l88pl" fileName="com/ModelNode.xml" xy="374,1625"/>
+    <component id="n36_l88p" name="heroModelNode" src="l88pl" fileName="com/ModelNode.xml" xy="374,1625"/>
+    <loader id="n35_cs7d" name="logo" xy="394,327" pivot="0.5,0.5" anchor="true" size="534,124" url="ui://yx9tq9sccs7d6" align="center" vAlign="middle" autoSize="true"/>
+  </displayList>
+</component>

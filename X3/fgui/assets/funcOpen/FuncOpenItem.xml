@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,100">
+  <displayList>
+    <component id="n13_dusv" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="38,46"/>
+    <component id="n14_dusv" name="modelNode3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="46,50"/>
+    <image id="n2_5422" name="bgItem" src="54222" fileName="img/sd_Ttubiao_tubiao_zhujiemian_0001.png" xy="46,50" pivot="0.5,0.5" anchor="true"/>
+    <loader id="n8_wq7z" name="iconLoader" xy="45,50" pivot="0.5,0.5" anchor="true" size="90,90" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <text id="n4_5422" name="nameLab" xy="45,102" pivot="0.5,0.5" anchor="true" size="48,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="回城"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n13_dusv" tween="true" startValue="1" endValue="0" duration="9"/>
+  </transition>
+</component>

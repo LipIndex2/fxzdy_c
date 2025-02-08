@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="379,47">
+  <controller name="isHaveIn" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n73_ae97" name="n73" src="ae9734" fileName="img/boss_frame.png" xy="0,0" group="n200_caj9" alpha="0.65"/>
+    <image id="n196_ffqt" name="n196" src="ae9735" fileName="img/sd_A_common_boss_tag.png" xy="6,10" group="n200_caj9"/>
+    <text id="n198_ffqt" name="labelTitle" xy="42,6" size="107,36" group="n200_caj9" fontSize="26" color="#ffffff" vAlign="middle" autoSize="none" singleLine="true" text="最高伤害"/>
+    <text id="n199_ffqt" name="labelValue" xy="172,6" size="202,36" group="n200_caj9" fontSize="26" color="#f9c750" vAlign="middle" autoSize="shrink" singleLine="true" text="30%（982000）"/>
+    <group id="n200_caj9" name="haveP" xy="0,0" size="379,47" advanced="true">
+      <gearDisplay controller="isHaveIn" pages="1"/>
+    </group>
+    <text id="n201_caj9" name="labelNoDataTips" xy="88,5" size="202,36" group="n202_caj9" fontSize="26" color="#7eb4e7" align="center" vAlign="middle" autoSize="shrink" singleLine="true" text="请先参加挑战"/>
+    <group id="n202_caj9" name="n202" xy="88,5" size="202,36" advanced="true">
+      <gearDisplay controller="isHaveIn" pages="0"/>
+    </group>
+  </displayList>
+</component>

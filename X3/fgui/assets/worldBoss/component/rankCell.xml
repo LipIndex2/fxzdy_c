@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,rank,1,no,2,my,3,noMy,4,初始化" selected="0"/>
+  <displayList>
+    <image id="n30_d6aa" name="n30" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149" group="n48_uug0"/>
+    <image id="n31_d6aa" name="n31" src="d6aa46" fileName="img/xingzhuang32.png" xy="3,3" group="n48_uug0"/>
+    <group id="n48_uug0" name="n48" xy="0,0" size="710,149" group="n49_uug0" advanced="true">
+      <gearDisplay controller="state" pages="0,1"/>
+    </group>
+    <component id="n55_qr2a" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="150,23" size="104,104" group="n45_uug0"/>
+    <group id="n45_uug0" name="n45" xy="150,23" size="104,104" group="n46_uug0"/>
+    <component id="n54_e1fv" name="playerFight" src="e1fv143" fileName="component/worldBossDamager2.xml" xy="504,77" group="n46_uug0"/>
+    <component id="n56_i83d" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="264,67" size="168,72" group="n46_uug0" aspect="true"/>
+    <text id="n34_d6aa" name="playerName" xy="264,38" size="10,39" group="n46_uug0" fontSize="28" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text=""/>
+    <group id="n46_uug0" name="rankGr" xy="150,23" size="496,116" group="n49_uug0" advanced="true">
+      <gearDisplay controller="state" pages="0,2,3"/>
+    </group>
+    <text id="n37_d6aa" name="rank" xy="57,83" pivot="0.5,0.5" anchor="true" size="10,72" group="n49_uug0" fontSize="54" color="#58c2ff" strokeColor="#010e16" strokeSize="2" text="">
+      <gearDisplay controller="state" pages="0,1,2"/>
+    </text>
+    <text id="n41_d6aa" name="n41" xy="313,61" size="123,42" group="n49_uug0" fontSize="30" color="#5e89d8" strokeColor="#010e16" strokeSize="2" text="虚位以待">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <text id="n52_uug0" name="n52" xy="15,53" size="93,42" group="n49_uug0" fontSize="30" color="#ffffff" strokeColor="#010e16" strokeSize="2" text="未上榜">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <group id="n49_uug0" name="n49" xy="0,0" size="710,149"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

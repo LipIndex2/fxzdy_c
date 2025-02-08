@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" bgColor="#ffd600">
+  <displayList>
+    <image id="n0_eab5" name="n0" src="eab533" fileName="img/beijing2.jpg" xy="-1,0" group="n56_hz6e"/>
+    <image id="n57_9zn0" name="n57" src="woygvvv1il" fileName="bgImage/sjkj_bt.png" pkg="38fa8c75" xy="12,137" group="n56_hz6e"/>
+    <image id="n53_uk3p" name="n53" src="uk3p8a" fileName="img/sjkj_andi.png" xy="18,427" size="715,758" group="n56_hz6e"/>
+    <image id="n28_eab5" name="n28" src="eab551" fileName="img/tu.png" xy="24,249" group="n56_hz6e"/>
+    <text id="n32_eab5" name="n32" xy="64,275" size="242,54" group="n56_hz6e" fontSize="40" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="赛季冠军奖励"/>
+    <text id="n33_eab5" name="n33" xy="63,335" size="392,39" group="n56_hz6e" fontSize="28" color="#fff6c4" vAlign="middle" strokeColor="#000000" strokeSize="3" text="夺取赛季总积分排行榜冠军吧！"/>
+    <text id="n34_eab5" name="lbRe" xy="306,275" size="162,54" group="n56_hz6e" fontSize="40" color="#fb4141" vAlign="middle" strokeColor="#000000" strokeSize="4" text="无限手套"/>
+    <image id="n45_eab5" name="n45" src="eab521" fileName="img/jijiekaobei.png" xy="22,123" group="n56_hz6e"/>
+    <text id="n46_eab5" name="n46" xy="27,69" size="124,52" group="n56_hz6e" fontSize="38" color="#fff552" vAlign="middle" strokeColor="#2f1081" strokeSize="4" text="S0赛季"/>
+    <component id="n49_uk3p" name="itemBtn" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="583,273" group="n56_hz6e" scale="1.15,1.15"/>
+    <component id="n50_uk3p" name="btnRule" src="uk3p87" fileName="btn/SeasonRuleBtn.xml" xy="641,131" group="n56_hz6e"/>
+    <list id="n51_uk3p" name="listMenu" xy="26,434" size="698,761" group="n56_hz6e" overflow="scroll" lineGap="-18" defaultItem="ui://c8c5d312uk3p88">
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n54_uk3p" name="n54" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="-3,-166" size="750,250" group="n56_hz6e" color="#0d1d4e"/>
+    <richtext id="n55_u8y2" name="lbCd" xy="64,190" size="42,34" group="n56_hz6e" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="5天"/>
+    <group id="n56_hz6e" name="n56" xy="-3,-166" size="752,1792" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

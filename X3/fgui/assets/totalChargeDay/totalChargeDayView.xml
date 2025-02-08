@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kuvvcs7w">
+  <displayList>
+    <image id="n0_24ee" name="n0" src="24ee0" fileName="img/beijing_3.jpg" xy="-1,1" group="n46_uvvc"/>
+    <image id="n35_uvvc" name="n35" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="31,138" size="262,37" group="n46_uvvc" alpha="0.3"/>
+    <text id="n6_24ee" name="n6" xy="18,61" pivot="0,0.5" size="194,64" group="n46_uvvc" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="累天好礼"/>
+    <text id="n9_24ee" name="n9" xy="47,143" pivot="1,0.5" size="111,29" group="n46_uvvc" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#373737" strokeSize="2" text="活动倒计时:"/>
+    <richtext id="n44_uvvc" name="n44" xy="53,193" pivot="1,1" size="362,120" group="n46_uvvc" fontSize="34" color="#ffffff" align="right" vAlign="middle" leading="4" ubb="true" strokeColor="#871616" strokeSize="3" text="单日累计充值[color=#FFEC6D][size=46]30[/size][/color]元以上&#xA;即可领取[color=#FFEC6D][size=44]豪华大礼[/size][/color]"/>
+    <text id="n10_24ee" name="endTimeTxt" xy="158,143" pivot="0,0.5" size="99,29" group="n46_uvvc" fontSize="20" color="#3cfe37" vAlign="middle" strokeColor="#373737" strokeSize="2" text="5天30小时"/>
+    <image id="n12_24ee" name="n12" src="24ee4" fileName="img/ltcz_lchd.png" xy="511,321" group="n46_uvvc"/>
+    <text id="n13_24ee" name="n13" xy="539,320" pivot="1,0.5" size="85,34" group="n46_uvvc" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#060606" strokeSize="3" text="已累充:"/>
+    <text id="n14_24ee" name="chargeDayTxt" xy="624,320" pivot="0,0.5" size="83,34" group="n46_uvvc" fontSize="24" color="#ff8651" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="1/15天"/>
+    <component id="n34_uvvc" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="223,76" group="n46_uvvc"/>
+    <component id="n36_uvvc" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="530,80" group="n46_uvvc" controller="isTop,1"/>
+    <group id="n46_uvvc" name="top" xy="-1,1" size="750,422" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n47_bb25" name="n47" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-165" size="750,250" color="#61323c">
+      <relation target="n46_uvvc" sidePair="top-top"/>
+    </image>
+    <image id="n15_24ee" name="n15" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,366" size="750,967">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n16_24ee" name="n16" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,401" size="730,791">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <list id="n37_uvvc" name="list" xy="32,427" size="686,738" overflow="scroll" lineGap="13" defaultItem="ui://79f233efuvvc26" align="center" autoClearItems="true">
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

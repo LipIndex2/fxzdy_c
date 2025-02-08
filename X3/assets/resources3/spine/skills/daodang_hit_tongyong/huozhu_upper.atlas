@@ -1,0 +1,342 @@
+
+huozhu_upper.png
+size: 1017,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tongyong_huo_chanrao_0
+  rotate: false
+  xy: 736, 382
+  size: 34, 91
+  orig: 140, 140
+  offset: 8, 31
+  index: -1
+effect/tongyong_huo_chanrao_1
+  rotate: true
+  xy: 847, 202
+  size: 96, 112
+  orig: 140, 140
+  offset: 6, 5
+  index: -1
+effect/tongyong_huo_chanrao_10
+  rotate: true
+  xy: 2, 2
+  size: 63, 100
+  orig: 140, 140
+  offset: 71, 12
+  index: -1
+effect/tongyong_huo_chanrao_2
+  rotate: true
+  xy: 646, 157
+  size: 125, 76
+  orig: 140, 140
+  offset: 7, 5
+  index: -1
+effect/tongyong_huo_chanrao_3
+  rotate: false
+  xy: 847, 127
+  size: 127, 73
+  orig: 140, 140
+  offset: 7, 5
+  index: -1
+effect/tongyong_huo_chanrao_4
+  rotate: false
+  xy: 389, 215
+  size: 127, 86
+  orig: 140, 140
+  offset: 8, 5
+  index: -1
+effect/tongyong_huo_chanrao_5
+  rotate: false
+  xy: 2, 224
+  size: 127, 92
+  orig: 140, 140
+  offset: 8, 6
+  index: -1
+effect/tongyong_huo_chanrao_6
+  rotate: true
+  xy: 286, 342
+  size: 126, 100
+  orig: 140, 140
+  offset: 9, 6
+  index: -1
+effect/tongyong_huo_chanrao_7
+  rotate: true
+  xy: 286, 230
+  size: 110, 101
+  orig: 140, 140
+  offset: 24, 7
+  index: -1
+effect/tongyong_huo_chanrao_8
+  rotate: false
+  xy: 736, 199
+  size: 109, 99
+  orig: 140, 140
+  offset: 25, 10
+  index: -1
+effect/tongyong_huo_chanrao_9
+  rotate: false
+  xy: 131, 194
+  size: 107, 99
+  orig: 140, 140
+  offset: 27, 12
+  index: -1
+effect/tongyong_huo_huoci_0
+  rotate: true
+  xy: 121, 90
+  size: 69, 134
+  orig: 80, 140
+  offset: 5, 4
+  index: -1
+effect/tongyong_huo_huoci_1
+  rotate: true
+  xy: 845, 60
+  size: 65, 130
+  orig: 80, 140
+  offset: 8, 4
+  index: -1
+effect/tongyong_huo_huoci_13
+  rotate: true
+  xy: 845, 60
+  size: 65, 130
+  orig: 80, 140
+  offset: 8, 4
+  index: -1
+effect/tongyong_huo_huoci_11
+  rotate: true
+  xy: 570, 71
+  size: 78, 116
+  orig: 80, 140
+  offset: 2, 4
+  index: -1
+effect/tongyong_huo_huoci_12
+  rotate: true
+  xy: 518, 204
+  size: 78, 126
+  orig: 80, 140
+  offset: 2, 4
+  index: -1
+effect/tongyong_huo_huoci_2
+  rotate: true
+  xy: 239, 29
+  size: 58, 130
+  orig: 80, 140
+  offset: 12, 4
+  index: -1
+effect/tongyong_huo_huoci_14
+  rotate: true
+  xy: 239, 29
+  size: 58, 130
+  orig: 80, 140
+  offset: 12, 4
+  index: -1
+effect/tongyong_huo_huoci_3
+  rotate: true
+  xy: 688, 52
+  size: 66, 123
+  orig: 80, 140
+  offset: 8, 4
+  index: -1
+effect/tongyong_huo_huoci_4
+  rotate: true
+  xy: 2, 67
+  size: 73, 111
+  orig: 80, 140
+  offset: 4, 4
+  index: -1
+effect/tongyong_huo_huoci_5
+  rotate: true
+  xy: 2, 67
+  size: 73, 111
+  orig: 80, 140
+  offset: 4, 4
+  index: -1
+effect/tongyong_huo_huoci_6
+  rotate: true
+  xy: 390, 28
+  size: 68, 118
+  orig: 80, 140
+  offset: 9, 4
+  index: -1
+effect/tongyong_huo_huoci_7
+  rotate: true
+  xy: 257, 89
+  size: 70, 131
+  orig: 80, 140
+  offset: 8, 4
+  index: -1
+effect/tongyong_huo_huoci_8
+  rotate: true
+  xy: 724, 120
+  size: 77, 119
+  orig: 80, 140
+  offset: 3, 4
+  index: -1
+effect/tongyong_huo_huoci_9
+  rotate: true
+  xy: 2, 142
+  size: 80, 117
+  orig: 80, 140
+  offset: 0, 4
+  index: -1
+effect/tongyong_huo_huoci_10
+  rotate: true
+  xy: 2, 142
+  size: 80, 117
+  orig: 80, 140
+  offset: 0, 4
+  index: -1
+effect/tongyong_huo_jieshu_0
+  rotate: false
+  xy: 736, 323
+  size: 26, 57
+  orig: 200, 280
+  offset: 85, 51
+  index: -1
+effect/tongyong_huo_jieshu_1
+  rotate: true
+  xy: 668, 3
+  size: 47, 99
+  orig: 200, 280
+  offset: 74, 48
+  index: -1
+effect/tongyong_huo_jieshu_10
+  rotate: false
+  xy: 2, 473
+  size: 195, 245
+  orig: 200, 280
+  offset: 5, 19
+  index: -1
+effect/tongyong_huo_jieshu_11
+  rotate: false
+  xy: 393, 471
+  size: 192, 247
+  orig: 200, 280
+  offset: 3, 18
+  index: -1
+effect/tongyong_huo_jieshu_12
+  rotate: false
+  xy: 199, 470
+  size: 192, 248
+  orig: 200, 280
+  offset: 3, 18
+  index: -1
+effect/tongyong_huo_jieshu_2
+  rotate: true
+  xy: 115, 23
+  size: 65, 122
+  orig: 200, 280
+  offset: 65, 45
+  index: -1
+effect/tongyong_huo_jieshu_3
+  rotate: false
+  xy: 204, 295
+  size: 80, 173
+  orig: 200, 280
+  offset: 60, 44
+  index: -1
+effect/tongyong_huo_jieshu_4
+  rotate: false
+  xy: 604, 284
+  size: 130, 189
+  orig: 200, 280
+  offset: 30, 40
+  index: -1
+effect/tongyong_huo_jieshu_5
+  rotate: true
+  xy: 2, 318
+  size: 150, 200
+  orig: 200, 280
+  offset: 25, 34
+  index: -1
+effect/tongyong_huo_jieshu_6
+  rotate: true
+  xy: 393, 303
+  size: 166, 209
+  orig: 200, 280
+  offset: 18, 28
+  index: -1
+effect/tongyong_huo_jieshu_7
+  rotate: true
+  xy: 783, 300
+  size: 181, 227
+  orig: 200, 280
+  offset: 16, 23
+  index: -1
+effect/tongyong_huo_jieshu_8
+  rotate: false
+  xy: 783, 483
+  size: 190, 235
+  orig: 200, 280
+  offset: 10, 21
+  index: -1
+effect/tongyong_huo_jieshu_9
+  rotate: false
+  xy: 587, 475
+  size: 194, 243
+  orig: 200, 280
+  offset: 6, 20
+  index: -1
+effect/tongyong_huo_jieshu_huan_0
+  rotate: true
+  xy: 975, 490
+  size: 44, 17
+  orig: 200, 60
+  offset: 81, 22
+  index: -1
+effect/tongyong_huo_jieshu_huan_1
+  rotate: false
+  xy: 121, 166
+  size: 79, 26
+  orig: 200, 60
+  offset: 63, 18
+  index: -1
+effect/tongyong_huo_jieshu_huan_2
+  rotate: false
+  xy: 813, 19
+  size: 133, 39
+  orig: 200, 60
+  offset: 38, 11
+  index: -1
+effect/tongyong_huo_jieshu_huan_3
+  rotate: false
+  xy: 510, 25
+  size: 156, 44
+  orig: 200, 60
+  offset: 25, 8
+  index: -1
+effect/tongyong_huo_jieshu_huan_4
+  rotate: false
+  xy: 390, 98
+  size: 178, 51
+  orig: 200, 60
+  offset: 12, 3
+  index: -1
+effect/tongyong_huo_jieshu_huan_5
+  rotate: false
+  xy: 240, 161
+  size: 181, 52
+  orig: 200, 60
+  offset: 10, 2
+  index: -1
+effect/tongyong_huo_jieshu_huan_6
+  rotate: false
+  xy: 423, 151
+  size: 183, 51
+  orig: 200, 60
+  offset: 9, 2
+  index: -1
+effect/tongyong_huo_jieshu_huan_7
+  rotate: true
+  xy: 975, 536
+  size: 182, 40
+  orig: 200, 60
+  offset: 9, 2
+  index: -1
+effect/tongyong_huo_jieshu_huan_8
+  rotate: true
+  xy: 977, 117
+  size: 181, 38
+  orig: 200, 60
+  offset: 9, 3
+  index: -1

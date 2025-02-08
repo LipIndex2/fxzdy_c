@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="266,96">
+  <controller name="inCdFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <displayList>
+    <component id="n53_fxoc" name="cdComp" src="fxocvvv199" fileName="captainSkill/components/CaptainSkillInCdComp.xml" xy="-1,-1" pivot="0,0.5">
+      <gearDisplay controller="inCdFlag" pages="1"/>
+    </component>
+    <component id="n46_06d7" name="useComp" src="fxocvvv198" fileName="captainSkill/components/CaptainSkillCanUseComp.xml" xy="-23,-9" pivot="0,0.5">
+      <gearDisplay controller="inCdFlag" pages="0"/>
+    </component>
+  </displayList>
+  <transition name="changeCanUse">
+    <item time="0" type="XY" target="n53_fxoc" tween="true" startValue="0,0" endValue="-158.5,2" duration="12"/>
+    <item time="12" type="XY" target="n46_06d7" tween="true" startValue="-292,-7" endValue="-19,-7" duration="12"/>
+  </transition>
+</component>

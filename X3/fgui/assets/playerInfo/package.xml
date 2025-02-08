@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d4f26126">
+  <resources>
+    <image id="5da51" name="grsz_frame.png" path="/img/"/>
+    <image id="5da53" name="tupian.png" path="/img/"/>
+    <image id="5da54" name="tongyongbuzhenziyuan.png" path="/img/"/>
+    <image id="5da515" name="sd_A_common_shuxingdi1_frame_17.png" path="/img/"/>
+    <image id="5da522" name="sd_A_common_grsz1_btn.png" path="/img/"/>
+    <image id="5da523" name="sd_A_common_grsz_btn.png" path="/img/"/>
+    <image id="5da524" name="sd_A_common_buzhen_btn.png" path="/img/"/>
+    <image id="5da527" name="biaoti_frame.png" path="/img/"/>
+    <image id="5da531" name="sd_A_common_xz__framekaobei.png" path="/img/"/>
+    <image id="5da536" name="linshitouxiangkuang.png" path="/img/"/>
+    <image id="5da538" name="scale_60%_sd_A_common_biaoti1_msg2.png" path="/img/"/>
+    <image id="5da539" name="sd_A_common_djs_tag_10.png" path="/img/"/>
+    <image id="5da541" name="sd_A_common_grsz3_btn.png" path="/img/" scale="9grid" scale9grid="36,17,14,34"/>
+    <image id="5da542" name="sd_A_common_word_tag_4.png" path="/img/"/>
+    <image id="5da544" name="scale_80%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="5da554" name="linshichenghao_1.png" path="/img/"/>
+    <image id="5da557" name="scale_80%_sd_A_common_changgui3_btn.png" path="/img/"/>
+    <image id="ejy36u" name="sd_A_common_liaotian_frame(1).png" path="/img/"/>
+    <image id="d2997e" name="sd_A_common_grsz3_btn(1).png" path="/img/"/>
+    <image id="d2997n" name="sd_A_common_liaotian_frame(2).png" path="/img/"/>
+    <image id="d2997o" name="scale_80%_sd_A_common_gou_icon(1).png" path="/img/"/>
+    <image id="d2997p" name="sd_A_common_black2_msg(1).png" path="/img/"/>
+    <image id="d2997q" name="scale_70%_sd_A_common_suo1_icon_12(1).png" path="/img/"/>
+    <image id="9gqu88" name="xx_bg.png" path="/subView/img/"/>
+    <image id="l2wi8f" name="zhezhao_13.png" path="/item/img/"/>
+    <image id="hcpc8m" name="11.png" path="/subView/img/"/>
+    <component id="ejy36c" name="PlayerInfoWearOffBtn.xml" path="/btn/"/>
+    <component id="ejy36d" name="PlayerInfoSaveBtn.xml" path="/btn/"/>
+    <component id="ejy36e" name="PlayerInfoCountDownTimeComp.xml" path="/components/"/>
+    <component id="ejy36g" name="PlayerInfoMainView.xml" path="/"/>
+    <component id="ejy36h" name="PlayerInfoIdComp.xml" path="/components/"/>
+    <component id="ejy36j" name="PlayerInfoBlackFriendBtn.xml" path="/btn/"/>
+    <component id="ejy36k" name="PlayerInfoWaitConfirmBtn.xml" path="/btn/"/>
+    <component id="ejy36l" name="PlayerInfoSendPrivateMessageBtn.xml" path="/btn/"/>
+    <component id="ejy36m" name="PlayerInfoOneHeroModelComp.xml" path="/components/"/>
+    <component id="ejy36n" name="PlayerInfoOneHeroSlotComp.xml" path="/components/"/>
+    <component id="ejy36q" name="PlayerInfoOneLineComp.xml" path="/components/"/>
+    <component id="ejy36r" name="PlayerInfoChangeNameView.xml" path="/"/>
+    <component id="d29978" name="PlayerInfoChangeMainView.xml" path="/"/>
+    <component id="d2997b" name="PlayerInfoTabListComp.xml" path="/list/"/>
+    <component id="d2997d" name="PlayerInfoTabBtn.xml" path="/btn/"/>
+    <component id="d2997f" name="PlayerInfoHeadIconSubView.xml" path="/subView/"/>
+    <component id="d2997m" name="PlayerInfoHeadFrameComp.xml" path="/item/"/>
+    <component id="d2997t" name="PlayerInfoHeadFrameSubView.xml" path="/subView/"/>
+    <component id="d2997u" name="PlayerInfoHeadIconComp.xml" path="/item/"/>
+    <component id="d2997v" name="PlayerInfoTitleSubView.xml" path="/subView/"/>
+    <component id="d2997x" name="PlayerInfoChatFontColorComp.xml" path="/item/"/>
+    <component id="d2997y" name="PlayerInfoChangeBtnGroupComp.xml" path="/components/"/>
+    <component id="9gqu7z" name="PlayerInfoChangeRoleSubView.xml" path="/subView/"/>
+    <component id="9gqu87" name="PlayerInfoRoleItemComp.xml" path="/item/"/>
+    <component id="l2wi89" name="PlayerInfoChangeChatSkinView.xml" path="/"/>
+    <component id="l2wi8b" name="PlayerInfoChatSkinTabBtn.xml" path="/btn/"/>
+    <component id="l2wi8d" name="PlayerInfoChangeChatColorSubView.xml" path="/subView/"/>
+    <component id="l2wi8e" name="PlayerInfoTitleComp.xml" path="/item/"/>
+    <component id="hcpc8h" name="PlayerInfoChangeChatBgSubView.xml" path="/subView/"/>
+    <component id="hcpc8i" name="PlayerInfoChatBgComp.xml" path="/item/"/>
+    <image id="xwdv8n" name="qiehuandi.png" path="/img/"/>
+    <image id="xwdv8o" name="sd_A_common_dakai_btn.png" path="/img/"/>
+    <component id="xwdv8p" name="switchInfoShow.xml" path="/components/"/>
+    <component id="xwdv8q" name="HeroDnaLittleComp.xml" path="/components/" exported="true"/>
+    <image id="xwdv8r" name="dl.png" path="/img/"/>
+    <image id="xwdv8s" name="dl_cai.png" path="/img/"/>
+    <image id="xwdv8t" name="dl_hong.png" path="/img/"/>
+    <image id="xwdv8u" name="dl_huang.png" path="/img/"/>
+    <image id="xwdv8v" name="dl_zi.png" path="/img/"/>
+    <image id="xwdv8w" name="dl_lan.png" path="/img/"/>
+    <image id="xwdv8x" name="dl_lv.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

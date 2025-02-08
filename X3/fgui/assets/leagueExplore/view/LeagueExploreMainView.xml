@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n44_8g0d" name="bg" src="8g0d137" fileName="component/LeagueExploreMainBg.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n47_rjyq" name="anim0" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="219,512" pivot="0.5,0.5" size="312,10">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <list id="n29_gtlw" name="listMain" xy="0,232" size="750,1102" overflow="scroll" scrollBarFlags="128" defaultItem="ui://78d1ed1agtlw12t" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n30_gtlw" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n31_gtlw" name="btnMine" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="644,1088">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button title="联盟领地" icon="ui://38fa8c75gtlwvvv1hq"/>
+    </component>
+    <component id="n32_gtlw" name="btnIncome" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="644,1205">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button title="收益" icon="ui://38fa8c75gtlwvvv1hp"/>
+    </component>
+    <component id="n33_gtlw" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="325,73" group="n38_gtlw"/>
+    <component id="n34_gtlw" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="486,73" group="n38_gtlw"/>
+    <component id="n36_gtlw" name="headerItem3" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="308,127" size="143,41" group="n38_gtlw"/>
+    <component id="n37_gtlw" name="headerItem4" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="448,126" size="143,41" group="n38_gtlw"/>
+    <group id="n38_gtlw" name="gHeader" xy="308,73" size="331,95" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n39_gtlw" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="229,73"/>
+    <text id="n5_9c3b" name="lbName" xy="18,91" pivot="0,0.5" anchor="true" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="4" text="资源勘探"/>
+    <text id="n7_9c3b" name="lbTime" xy="18,133" size="167,32" fontSize="22" color="#3cfe33" vAlign="middle" strokeColor="#000000" strokeSize="3" text="03:20:60后结算"/>
+  </displayList>
+</component>

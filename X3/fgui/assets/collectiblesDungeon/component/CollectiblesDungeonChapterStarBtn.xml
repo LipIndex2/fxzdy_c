@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,160" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="未领取"/>
+    <remark page="1" value="已领取"/>
+  </controller>
+  <displayList>
+    <loader id="n41_loj0" name="box" xy="58,128" pivot="0.5,1" anchor="true" size="140,180" scale="0.8,0.8" url="ui://7q3fcj1kloj0s9j" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="state" pages="0"/>
+    </loader>
+    <loader id="n43_loj0" name="boxOpen" xy="58,128" pivot="0.5,1" anchor="true" size="140,180" scale="0.8,0.8" url="ui://7q3fcj1kloj0s9k" align="center" vAlign="middle" clearOnPublish="true">
+      <gearDisplay controller="state" pages="1"/>
+    </loader>
+    <image id="n40_f430" name="n40" src="105pvv182" fileName="btnImage/xinghuang2_icon.png" pkg="38fa8c75" xy="15,107" group="n42_loj0">
+      <relation target="n39_f430" sidePair="right-left"/>
+    </image>
+    <text id="n39_f430" name="lbStar" xy="73,125" pivot="0.5,0.5" anchor="true" size="41,42" group="n42_loj0" fontSize="30" color="#ffffff" align="center" vAlign="middle" letterSpacing="1" strokeColor="#222222" strokeSize="3" text="30">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n42_loj0" name="n42" xy="15,104" size="79,42"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="boxAni">
+    <item time="0" type="Size" target="n41_loj0" tween="true" startValue="140,180" endValue="156,140" duration="6"/>
+    <item time="0" type="XY" target="n41_loj0" tween="true" startValue="58,128" endValue="58,128" duration="12"/>
+    <item time="6" type="Size" target="n41_loj0" tween="true" startValue="156,140" endValue="140,180" duration="6"/>
+    <item time="12" type="Size" target="n41_loj0" tween="true" startValue="140,180" endValue="140,180" duration="6"/>
+    <item time="12" type="XY" target="n41_loj0" tween="true" startValue="58,128" endValue="58,108" duration="3"/>
+    <item time="15" type="XY" target="n41_loj0" tween="true" startValue="58,108" endValue="58,128" duration="3"/>
+  </transition>
+</component>

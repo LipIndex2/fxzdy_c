@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kvdaes8r">
+  <displayList>
+    <loader id="n0_c8g7" name="n0" xy="139,396" size="471,576" group="n23_vdae" url="ui://38fa8c75pf1a149" fill="scaleFree"/>
+    <image id="n22_vdae" name="n22" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="173,789" size="404,8" group="n23_vdae"/>
+    <loader id="n19_vdae" name="img_bg" xy="230,556" size="293,219" group="n23_vdae" url="ui://7q3fcj1kvdaes8t" autoSize="true" clearOnPublish="true"/>
+    <text id="n9_c8g7" name="T_name" xy="332,740" pivot="0.5,0.5" size="87,39" group="n23_vdae" fontSize="28" color="#ff5151" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="次元兽"/>
+    <loader id="n15_vdae" name="img_quality" xy="290,428" pivot="0.5,0.5" size="172,56" group="n23_vdae" url="ui://7q3fcj1kvdaes8s" autoSize="true" clearOnPublish="true"/>
+    <image id="n16_vdae" name="n16" src="vdae7f" fileName="img/pet.png" xy="301,439" group="n23_vdae"/>
+    <component id="n20_vdae" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,720" pivot="0.5,1" anchor="true" size="100,100" group="n23_vdae"/>
+    <component id="n17_vdae" name="skillItem" src="vdaevvv1i9" fileName="hero/components/CommonPetSkillItem.xml" pkg="38fa8c75" xy="481,576" group="n23_vdae" scale="0.9,0.9"/>
+    <component id="n24_teox" name="tipsItem" src="9gqus9b" fileName="text/CommonScrollText.xml" pkg="72zq62ea" xy="175,819" size="400,131" group="n23_vdae"/>
+    <group id="n23_vdae" name="n23" xy="139,396" size="471,576" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

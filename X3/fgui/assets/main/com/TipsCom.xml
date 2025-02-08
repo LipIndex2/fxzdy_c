@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="505,54">
+  <displayList>
+    <image id="n56_6b29" name="n56" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="0,0" size="505,54" alpha="0.6"/>
+    <text id="n57_6b29" name="n57" xy="121,3" size="258,44" fontSize="32" color="#ffffff" strokeColor="#090800" strokeSize="3" autoClearText="true" text="请先消灭附近怪物"/>
+  </displayList>
+</component>

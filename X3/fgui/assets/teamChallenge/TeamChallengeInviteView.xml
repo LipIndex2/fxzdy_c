@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="state" pages="0,队长,1,队员" selected="0"/>
+  <displayList>
+    <loader id="n42_uk3p" name="n42" xy="53,109" size="643,1115" group="n41_uk3p"/>
+    <image id="n35_ig8t" name="n35" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="53,109" size="643,1115" group="n41_uk3p"/>
+    <image id="n36_ig8t" name="n36" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="76,197" size="596,875" group="n41_uk3p"/>
+    <image id="n37_ig8t" name="n37" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="90,348" size="570,713" group="n41_uk3p"/>
+    <image id="n4_bbe3" name="n4" src="bbe3106" fileName="img/80%_sd_A_common_lmlb1_frame.png" xy="90,346" size="569,54" group="n41_uk3p"/>
+    <image id="n43_9zn0" name="n43" src="9zn027" fileName="img/yuanjiaojuxing.png" xy="276,355" group="n41_uk3p">
+      <gearXY controller="state" pages="0,1" values="276,355|366,354"/>
+    </image>
+    <image id="n44_9zn0" name="n44" src="9zn027" fileName="img/yuanjiaojuxing.png" xy="467,356" group="n41_uk3p">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <text id="n8_bbe3" name="n8" xy="308,129" size="131,44" group="n41_uk3p" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="邀请玩家"/>
+    <list id="n33_ig8t" name="listFriends" xy="101,412" size="547,626" group="n41_uk3p" overflow="scroll" defaultItem="ui://dhpy5xezig8t184">
+      <item/>
+      <item/>
+    </list>
+    <component id="n34_ig8t" name="btnShare" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="253,1096" size="245,98" group="n41_uk3p"/>
+    <list id="n38_ig8t" name="listTabs" xy="90,345" size="569,54" group="n41_uk3p" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="160" scrollBar="hidden" defaultItem="ui://dhpy5xezig8t186">
+      <item/>
+    </list>
+    <component id="n39_ig8t" name="btnSever" src="ig8t187" fileName="btn/TeamChallengeShareBtn.xml" xy="438,217" size="83,100" group="n41_uk3p"/>
+    <component id="n40_ig8t" name="btnLeague" src="ig8t187" fileName="btn/TeamChallengeShareBtn.xml" xy="552,218" size="83,100" group="n41_uk3p"/>
+    <group id="n41_uk3p" name="n41" xy="53,109" size="643,1115" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

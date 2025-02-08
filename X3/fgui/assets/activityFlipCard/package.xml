@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="a0405d99">
+  <resources>
+    <image id="37cf0" name="zu130430.png" path="/img/"/>
+    <image id="37cf1" name="zu130448.png" path="/img/"/>
+    <image id="37cf2" name="icon_zd02.png" path="/img/"/>
+    <image id="37cf3" name="icon_10004.png" path="/img/"/>
+    <image id="37cf4" name="touying.png" path="/img/"/>
+    <image id="37cf5" name="tuceng547.png" path="/img/"/>
+    <image id="37cf6" name="shoulundajiang.png" path="/img/"/>
+    <image id="37cf7" name="50.png" path="/img/"/>
+    <image id="37cf8" name="sd_A_common_hd_frame.png" path="/img/"/>
+    <image id="37cf9" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="37cf10" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="37cf11" name="zu1kaobei8.png" path="/img/"/>
+    <image id="37cf12" name="zu13.png" path="/img/"/>
+    <image id="37cf13" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="37cf14" name="tongyong.png" path="/img/"/>
+    <component id="37cf15" name="ActivityFlipCardSubView.xml" path="/"/>
+    <component id="rgtg16" name="ActivityFlipCardItemBtn.xml" path="/btn/"/>
+    <image id="rgtg18" name="bg3.jpg" path="/bg/"/>
+    <image id="rgtg19" name="bt_frame.png" path="/bg/"/>
+    <component id="vipi1a" name="ActivityFlipCardChooseBigRewardWin.xml" path="/win/"/>
+    <image id="vipi1b" name="touxiang_frame.png" path="/bg/"/>
+    <component id="vipi1c" name="ActivityFlipCardNoChooseBigBtn.xml" path="/btn/"/>
+    <component id="vipi1d" name="ActivityFlipCardScoreRewardSubView.xml" path="/"/>
+    <image id="vipi1e" name="bg4.jpg" path="/bg/"/>
+    <component id="vipi1f" name="ActivityFlipCardScoreComp.xml" path="/component/"/>
+    <component id="vipi1g" name="ActivityFlipCardScoreBar.xml" path="/bar/"/>
+    <image id="vipi1h" name="sd_A_common_czzl_blood.png" path="/img/"/>
+    <image id="vipi1i" name="sd_A_common_kppy_blood.png" path="/img/"/>
+    <image id="vipi1j" name="jifendi.png" path="/img/"/>
+    <image id="vipi1k" name="jiemianshiyuanshou.png" path="/img/"/>
+    <image id="vipi1m" name="di.png" path="/img/"/>
+    <image id="vipi1n" name="shiyong9gongtu.png" path="/img/"/>
+    <image id="vipi1o" name="z_woNiu.png" path="/imgExport/"/>
+    <image id="teox1p" name="itemBG.png" path="/img/"/>
+    <image id="teox1r" name="bg1.png" path="/bg/"/>
+    <image id="teox1s" name="ping.png" path="/img/" scale="9grid" scale9grid="46,0,6,100"/>
+    <image id="teox1t" name="jldj_frame.png" path="/img/"/>
+    <component id="teox1u" name="DrawSkipAnimItem.xml" path="/item/"/>
+    <image id="teox1w" name="bg2.png" path="/bg/"/>
+    <image id="teox1x" name="guang.png" path="/img/"/>
+    <component id="teox1y" name="ChooseAwardItem.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

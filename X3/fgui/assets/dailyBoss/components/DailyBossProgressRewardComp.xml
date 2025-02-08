@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,140">
+  <displayList>
+    <component id="n200_ffqt" name="bar" src="ffqt10h" fileName="bar/DailyBossDamageProgressBar.xml" xy="0,114" size="134,20">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n185_ffqt" name="labelTitle" xy="37,104" pivot="0.5,0.5" size="99,36" fontSize="26" color="#e8edfc" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="10%"/>
+    <component id="n201_ffqt" name="itemComp" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="32,0" scale="0.85,0.85"/>
+  </displayList>
+</component>

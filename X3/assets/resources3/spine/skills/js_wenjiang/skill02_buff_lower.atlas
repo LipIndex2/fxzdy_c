@@ -1,0 +1,34 @@
+
+skill02_buff_lower.png
+size: 574,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_BUFF_dm_1
+  rotate: 180
+  xy: 458, 19
+  size: 115, 75
+  orig: 160, 90
+  offset: 19, 7
+  index: -1
+images/effect/skill02_BUFF_dm_2
+  rotate: false
+  xy: 326, 7
+  size: 133, 86
+  orig: 160, 90
+  offset: 17, 4
+  index: -1
+images/effect/skill02_BUFF_dm_3
+  rotate: false
+  xy: 2, 2
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/effect/skill02_BUFF_dm_4
+  rotate: false
+  xy: 164, 2
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1

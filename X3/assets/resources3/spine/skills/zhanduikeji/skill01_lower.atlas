@@ -1,0 +1,167 @@
+
+skill01_lower.png
+size: 373,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_core
+  rotate: false
+  xy: 2, 168
+  size: 48, 48
+  orig: 64, 64
+  offset: 8, 8
+  index: -1
+circle_qtr
+  rotate: false
+  xy: 215, 231
+  size: 140, 140
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+cross01
+  rotate: true
+  xy: 2, 150
+  size: 6, 256
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross02
+  rotate: true
+  xy: 2, 142
+  size: 6, 255
+  orig: 16, 256
+  offset: 5, 1
+  index: -1
+cross03
+  rotate: true
+  xy: 2, 126
+  size: 6, 254
+  orig: 16, 256
+  offset: 5, 2
+  index: -1
+cross04
+  rotate: false
+  xy: 357, 119
+  size: 6, 252
+  orig: 16, 256
+  offset: 5, 4
+  index: -1
+cross05
+  rotate: true
+  xy: 2, 110
+  size: 6, 251
+  orig: 16, 256
+  offset: 5, 5
+  index: -1
+cross06
+  rotate: true
+  xy: 2, 93
+  size: 6, 249
+  orig: 16, 256
+  offset: 5, 7
+  index: -1
+cross07
+  rotate: true
+  xy: 2, 77
+  size: 6, 248
+  orig: 16, 256
+  offset: 5, 8
+  index: -1
+cross08
+  rotate: true
+  xy: 2, 61
+  size: 6, 247
+  orig: 16, 256
+  offset: 5, 9
+  index: -1
+cross09
+  rotate: true
+  xy: 2, 45
+  size: 6, 245
+  orig: 16, 256
+  offset: 5, 11
+  index: -1
+cross10
+  rotate: true
+  xy: 2, 29
+  size: 6, 244
+  orig: 16, 256
+  offset: 5, 12
+  index: -1
+cross11
+  rotate: true
+  xy: 2, 21
+  size: 6, 244
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross12
+  rotate: true
+  xy: 2, 37
+  size: 6, 245
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross13
+  rotate: true
+  xy: 2, 53
+  size: 6, 246
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross14
+  rotate: true
+  xy: 2, 69
+  size: 6, 248
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross15
+  rotate: true
+  xy: 2, 85
+  size: 6, 249
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross16
+  rotate: true
+  xy: 2, 101
+  size: 6, 251
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross17
+  rotate: false
+  xy: 365, 119
+  size: 6, 252
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross18
+  rotate: true
+  xy: 2, 118
+  size: 6, 254
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+cross19
+  rotate: true
+  xy: 2, 134
+  size: 6, 255
+  orig: 16, 256
+  offset: 5, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 218
+  size: 211, 153
+  orig: 256, 256
+  offset: 23, 61
+  index: -1
+triangle
+  rotate: false
+  xy: 215, 157
+  size: 81, 72
+  orig: 128, 128
+  offset: 24, 29
+  index: -1

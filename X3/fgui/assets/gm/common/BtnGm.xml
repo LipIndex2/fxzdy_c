@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,80" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_m43k" name="bg" src="m43k7" fileName="img/itemTypeTabBg.png" xy="0,1" size="219,79">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_m43k" name="fg" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="0,0" size="220,80">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_m43k" name="labelTitle" xy="108,42" pivot="0.5,0.5" anchor="true" size="201,59" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="labelTitle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,55 @@
+
+baoxue.png
+size: 200,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 146, 2
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 166, 134
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 4
+  size: 142, 86
+  orig: 142, 86
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 92
+  size: 162, 89
+  orig: 162, 89
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 183
+  size: 176, 92
+  orig: 176, 92
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 277
+  size: 186, 99
+  orig: 186, 99
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 378
+  size: 192, 105
+  orig: 192, 105
+  offset: 0, 0
+  index: -1

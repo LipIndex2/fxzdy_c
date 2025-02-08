@@ -1,0 +1,76 @@
+
+ef_chouka_cheng_biaotitexiao_upper.png
+size: 1483,1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_choukahongse_biaoti_00005
+  rotate: false
+  xy: 2, 44
+  size: 374, 142
+  orig: 650, 400
+  offset: 143, 120
+  index: -1
+images/effect/ef_choukahongse_biaoti_00006
+  rotate: false
+  xy: 554, 2
+  size: 422, 228
+  orig: 650, 400
+  offset: 114, 88
+  index: -1
+images/effect/ef_choukahongse_biaoti_00007
+  rotate: true
+  xy: 1108, 116
+  size: 482, 314
+  orig: 650, 400
+  offset: 84, 44
+  index: -1
+images/effect/ef_choukahongse_biaoti_00008
+  rotate: false
+  xy: 2, 767
+  size: 552, 383
+  orig: 650, 400
+  offset: 49, 9
+  index: -1
+images/effect/ef_choukahongse_biaoti_00009
+  rotate: false
+  xy: 556, 772
+  size: 552, 378
+  orig: 650, 400
+  offset: 49, 10
+  index: -1
+images/effect/ef_choukahongse_biaoti_00010
+  rotate: true
+  xy: 1110, 600
+  size: 550, 371
+  orig: 650, 400
+  offset: 50, 12
+  index: -1
+images/effect/ef_choukahongse_biaoti_00011
+  rotate: false
+  xy: 2, 404
+  size: 552, 361
+  orig: 650, 400
+  offset: 50, 15
+  index: -1
+images/effect/ef_choukahongse_biaoti_00012
+  rotate: false
+  xy: 556, 429
+  size: 550, 341
+  orig: 650, 400
+  offset: 50, 22
+  index: -1
+images/effect/ef_choukahongse_biaoti_00013
+  rotate: false
+  xy: 2, 188
+  size: 550, 214
+  orig: 650, 400
+  offset: 50, 71
+  index: -1
+images/effect/ef_choukahongse_biaoti_00014
+  rotate: false
+  xy: 556, 232
+  size: 548, 195
+  orig: 650, 400
+  offset: 51, 81
+  index: -1

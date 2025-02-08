@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1335">
+  <displayList>
+    <loader id="n129_uk3p" name="n129" xy="0,-185" size="750,1706">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n97_oyy6" name="sky" src="oyy618v" fileName="img/sky.png" xy="0,-144" size="750,580" group="n100_uk3p"/>
+    <component id="n125_uk3p" name="farGround" src="gwdp192" fileName="components/TeamChallengeMapScroll.xml" xy="0,-146" size="750,835" group="n100_uk3p"/>
+    <component id="n98_oyy6" name="foreground" src="gwdp197" fileName="components/TeamChallengeBg.xml" xy="0,476" group="n100_uk3p"/>
+    <group id="n100_uk3p" name="n100" xy="0,-146" size="750,1626" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n136_gwdp" name="bgMask" src="gwdp198" fileName="components/TeamChallengeMask.xml" xy="0,0" size="750,1335">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n133_gwdp" name="bossNode" src="gwdp19c" fileName="components/TeamChallengePostBoss.xml" xy="750,670">
+      <relation target="" sidePair="right-right"/>
+      <relation target="n78_ig8t" sidePair="bottom-bottom"/>
+    </component>
+    <loader id="n96_oyy6" name="n96" xy="0,0" size="750,1335" group="n105_uk3p"/>
+    <component id="n78_ig8t" name="posItem0" src="ig8t176" fileName="components/TeamChallengePosItem.xml" xy="396,516" size="100,230" group="n105_uk3p"/>
+    <component id="n79_ig8t" name="posItem1" src="ig8t176" fileName="components/TeamChallengePosItem.xml" xy="236,516" size="100,230" group="n105_uk3p"/>
+    <component id="n80_ig8t" name="posItem2" src="ig8t176" fileName="components/TeamChallengePosItem.xml" xy="74,516" size="100,230" group="n105_uk3p"/>
+    <group id="n105_uk3p" name="baseG" xy="0,0" size="750,1335" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n137_gwdp" name="giftBox" src="gwdp19b" fileName="components/TeamChallengeGiftBox.xml" xy="821,686">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <text id="n16_bbe3" name="n16" xy="26,64" size="194,64" group="n108_uk3p" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="异星合击"/>
+    <image id="n18_bbe3" name="n18" src="bbe312" fileName="img/sd_Sshouweimujian_biaoti.png" xy="178,218" size="411,62" group="n108_uk3p"/>
+    <component id="n77_ig8t" name="stageBar" src="ig8t175" fileName="btn/TeamChallengeBar.xml" xy="113,326" size="561,65" group="n108_uk3p">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n29_bbe3" name="n29" src="bbe321" fileName="img/sd_Ttubiao_baoxiang_baoxiangguan.png" xy="600,309" size="84,84" group="n108_uk3p"/>
+    <image id="n30_bbe3" name="n30" src="bbe322" fileName="img/sd_A_common_qipao1_frame.png" xy="490,380" size="220,136" group="n108_uk3p">
+      <relation target="n29_bbe3" sidePair="right-right"/>
+    </image>
+    <component id="n92_vmq6" name="btnC" src="vmq618m" fileName="btn/TeamChallengeBtnC.xml" xy="654,68" size="83,107" group="n108_uk3p"/>
+    <component id="n93_vmq6" name="btnR" src="vmq618o" fileName="btn/TeamChallengeBtnR.xml" xy="654,184" size="83,107" group="n108_uk3p"/>
+    <text id="n19_bbe3" name="lbC" xy="253,222" size="123,54" group="n108_uk3p" fontSize="40" color="#b8edff" vAlign="middle" text="第七章"/>
+    <text id="n20_bbe3" name="lbStage" xy="383,231" size="100,42" group="n108_uk3p" fontSize="30" color="#b8edff" vAlign="middle" text="第9关a"/>
+    <component id="n95_k6be" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="232,81" size="41,34" group="n108_uk3p"/>
+    <list id="n132_uk3p" name="listItems" xy="512,414" size="224,102" group="n108_uk3p" scale="0.82,0.82" layout="row" overflow="scroll" scroll="horizontal" colGap="9" defaultItem="ui://dhpy5xezig8t18e">
+      <relation target="n29_bbe3" sidePair=""/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n108_uk3p" name="n108" xy="26,64" size="711,452" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n101_uk3p" name="n101" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-309" size="750,250" color="#393962">
+      <relation target="n100_uk3p" sidePair="top-top"/>
+    </image>
+    <image id="n102_uk3p" name="n102" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,1641" size="750,250" scale="1,-1" color="#5f5182">
+      <relation target="n100_uk3p" sidePair="bottom-bottom"/>
+    </image>
+    <component id="n86_ig8t" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215" size="118,119">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <image id="n42_bbe3" name="imgFrame" src="bbe330" fileName="img/xinxi_di.png" xy="14,823" pivot="0.5,0.5" size="722,297" group="n104_uk3p"/>
+    <component id="n82_ig8t" name="chat" src="jqxis98" fileName="chat/ChatComp.xml" pkg="72zq62ea" xy="17,772" size="504,42" group="n104_uk3p"/>
+    <text id="n130_uk3p" name="lbCondition2" xy="223,1181" size="300,115" group="n104_uk3p" fontSize="26" color="#19df51" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="共鸣等级180开启"/>
+    <image id="n109_uk3p" name="n109" src="bbe332" fileName="img/bantou_di.png" xy="100,926" size="552,166" group="n122_uk3p" alpha="0.5"/>
+    <image id="n111_uk3p" name="n111" src="v891vvv1f3" fileName="img/boss_tag.png" pkg="38fa8c75" xy="434,956" size="10,100" group="n122_uk3p" alpha="0.2"/>
+    <loader id="n128_uk3p" name="role1" xy="167,955" size="100,100" group="n114_uk3p" url="ui://dhpy5xezuk3p18y" align="center" vAlign="middle" fill="scale" color="#233c74"/>
+    <image id="n113_uk3p" name="ImgEmpty1" src="bbe362" fileName="img/sd_A_common_tiaoguo.png" xy="167,955" size="100,100" group="n114_uk3p" alpha="0.5"/>
+    <group id="n114_uk3p" name="bg1" xy="167,955" size="100,100" group="n122_uk3p" advanced="true"/>
+    <loader id="n127_uk3p" name="role2" xy="313,955" size="100,100" group="n117_uk3p" url="ui://dhpy5xezuk3p18y" fill="scale" color="#233c74"/>
+    <image id="n116_uk3p" name="ImgEmpty2" src="bbe362" fileName="img/sd_A_common_tiaoguo.png" xy="313,955" size="100,100" group="n117_uk3p" alpha="0.5"/>
+    <group id="n117_uk3p" name="bg2" xy="313,955" size="100,100" group="n122_uk3p" advanced="true"/>
+    <component id="n118_uk3p" name="avatar1" src="c8g7vvv1fn" fileName="hero/HeroDetailsAvatar.xml" pkg="38fa8c75" xy="164,953" size="104,104" group="n122_uk3p"/>
+    <component id="n119_uk3p" name="avatar2" src="c8g7vvv1fn" fileName="hero/HeroDetailsAvatar.xml" pkg="38fa8c75" xy="312,953" size="104,104" group="n122_uk3p" visible="false"/>
+    <group id="n122_uk3p" name="singleG" xy="100,926" size="552,166" group="n104_uk3p" advanced="true"/>
+    <component id="n123_uk3p" name="btnFormation1" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="556,846" size="140,58" group="n104_uk3p">
+      <Button title="布阵"/>
+    </component>
+    <component id="n85_ig8t" name="btnFormation2" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="464,972" size="140,58" group="n104_uk3p">
+      <Button title="布阵"/>
+    </component>
+    <list id="n90_ig8t" name="listTeam" xy="25,921" size="700,168" group="n104_uk3p" visible="false" layout="row" colGap="6" defaultItem="ui://dhpy5xezig8t177">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n94_vmq6" name="BtnMgr" src="vmq618p" fileName="btn/TeamChallengeBtnMgr.xml" xy="610,1187" group="n104_uk3p"/>
+    <text id="n56_bbe3" name="lbTn" xy="116,858" size="182,42" group="n120_uk3p" fontSize="30" color="#ffffff" vAlign="middle" text="天河超级星际"/>
+    <image id="n57_bbe3" name="n57" src="bbe341" fileName="img/sd_A_common_boss_tag.png" xy="101,861" size="12,33" group="n120_uk3p"/>
+    <text id="n58_bbe3" name="lbS" xy="348,859" size="134,42" group="n99_uk3p" fontSize="30" color="#ffd042" vAlign="middle" text="502.28万"/>
+    <image id="n59_bbe3" name="n59" src="bbe342" fileName="img/sd_A_common_zd_icon_100.png" xy="309,862" size="35,34" group="n99_uk3p"/>
+    <group id="n99_uk3p" name="n99" xy="309,859" size="173,42" group="n120_uk3p" advanced="true">
+      <relation target="n56_bbe3" sidePair="left-right"/>
+    </group>
+    <group id="n120_uk3p" name="nameGroup" xy="101,858" size="381,43" group="n104_uk3p" advanced="true"/>
+    <component id="n84_ig8t" name="btnGo" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="222,1177" size="307,122" group="n131_uk3p">
+      <Button title="组队挑战"/>
+    </component>
+    <text id="n139_k649" name="lbCondition" xy="215,1131" size="331,32" group="n131_uk3p" fontSize="22" color="#00ccff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="加入或创建队伍，可组队挑战副本"/>
+    <group id="n131_uk3p" name="goG" xy="215,1131" size="331,168" group="n104_uk3p" advanced="true"/>
+    <component id="n140_k649" name="btnPermission" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="274,1127" size="40,40" group="n141_k649"/>
+    <text id="n121_uk3p" name="lbPermission" xy="321,1131" size="170,34" group="n141_k649" fontSize="24" color="#ffffff" vAlign="middle" text="队员可发起挑战"/>
+    <group id="n141_k649" name="permissionG" xy="274,1127" size="217,40" group="n104_uk3p" advanced="true"/>
+    <group id="n104_uk3p" name="n104" xy="14,772" size="722,527" advanced="true">
+      <relation target="" sidePair="bottom-bottom%"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,188" designImage="ui://7q3fcj1kuvvcs7w" designImageOffsetX="-32" designImageOffsetY="-425">
+  <controller name="state" pages="0,lock,1,notFinish,2,draw,3,hasDraw" selected="3">
+    <remark page="0" value="锁定"/>
+    <remark page="1" value="前往"/>
+    <remark page="2" value="等待领取"/>
+    <remark page="3" value="已领取"/>
+    <action type="change_page" fromPage="" toPage="1" objectId="n41_uvvc" controller="state" targetPage="0"/>
+    <action type="change_page" fromPage="" toPage="2" objectId="n41_uvvc" controller="state" targetPage="1"/>
+  </controller>
+  <displayList>
+    <image id="n17_24ee" name="n17" src="24ee7" fileName="img/liebiao_1.png" xy="0,0"/>
+    <image id="n40_uvvc" name="hasDraw" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="501,94">
+      <gearDisplay controller="state" pages="3"/>
+    </image>
+    <component id="n39_uvvc" name="rewards" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="23,68" size="454,109"/>
+    <component id="n41_uvvc" name="btn" src="uvvc25" fileName="com/BtnChangGui3.xml" xy="487,82" size="166,75">
+      <gearDisplay controller="state" pages="1,2"/>
+    </component>
+    <text id="n27_24ee" name="progressTip" xy="541,45" pivot="0.5,0.5" size="68,32" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="30/30">
+      <gearDisplay controller="state" pages="1,2"/>
+    </text>
+    <richtext id="n23_24ee" name="taskName" xy="42,12" size="226,36" fontSize="26" color="#fbf5ff" vAlign="middle" ubb="true" autoClearText="true" text="累计充值[color=#19df51]1[/color]天可领取"/>
+    <image id="n44_uvvc" name="n44" src="q6dmvvv1fx" fileName="bg/lbmb_frame.png" pkg="38fa8c75" xy="0,0" size="685,188" alpha="0.3">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <image id="n43_uvvc" name="n43" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="317,63">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+  </displayList>
+</component>

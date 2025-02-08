@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="101,64">
+  <displayList>
+    <image id="n33_fdf1" name="bg" src="mz6jvvv1h3" fileName="btnImage/jiaobiao.png" pkg="38fa8c75" xy="0,0"/>
+    <text id="n41_fdf1" name="lbWin" xy="39,40" pivot="0.5,0.5" anchor="true" size="76,39" fontSize="28" color="#fffef3" align="center" vAlign="middle" strokeColor="#e9331a" strokeSize="3" text="2连胜"/>
+  </displayList>
+</component>

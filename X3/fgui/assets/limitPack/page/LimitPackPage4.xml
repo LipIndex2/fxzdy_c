@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <image id="n13_nj01" name="n13" src="nj014h" fileName="img/zu16.png" xy="-28,225" group="n23_nj01"/>
+    <component id="n15_nj01" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="376,581" size="100,100" group="n23_nj01">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <image id="n14_nj01" name="n14" src="nj014g" fileName="img/wenzi.png" xy="51,529" group="n23_nj01"/>
+    <component id="n16_nj01" name="itemList" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="143,721" size="465,109" group="n23_nj01"/>
+    <text id="n20_nj01" name="cdLb" xy="242,972" size="230,34" group="n23_nj01" fontSize="24" color="#41e13d" vAlign="middle" text="12:20:10后礼包消失"/>
+    <component id="n22_nj01" name="buyBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="213,1023" size="306,117" group="n23_nj01"/>
+    <text id="n24_vdae" name="n24" xy="290,1170" pivot="0.5,0.5" size="170,34" group="n23_nj01" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="点击空白处关闭"/>
+    <group id="n23_nj01" name="n23" xy="-28,225" size="751,979"/>
+  </displayList>
+</component>

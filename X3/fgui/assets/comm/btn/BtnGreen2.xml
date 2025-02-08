@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="128,96" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n0_piwi" name="n0" xy="0,0" size="131,94" group="n2_tml5" url="ui://38fa8c75tml513b" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n1_piwi" name="title" xy="32,17" size="65,63" group="n2_tml5" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#242424" strokeSize="3" text="">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <group id="n2_tml5" name="n2" xy="0,0" size="131,94"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,160 @@
+
+xiaotanji_xuanyun.png
+size: 500,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 313, 222
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 430, 246
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 302, 246
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 247, 256
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 210, 243
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 448, 234
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 172, 232
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 353, 219
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 460, 251
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 395, 246
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 206, 264
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 231, 258
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 389, 234
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 319, 260
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 415, 259
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 482, 243
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 373, 233
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+map_hero_2105
+  rotate: 270
+  xy: 338, 3
+  size: 255, 160
+  orig: 255, 173
+  offset: 0, 0
+  index: -1
+map_hero_2106
+  rotate: false
+  xy: 2, 19
+  size: 168, 249
+  orig: 168, 249
+  offset: 0, 0
+  index: -1
+map_hero_2107
+  rotate: true
+  xy: 172, 13
+  size: 255, 173
+  orig: 255, 173
+  offset: 0, 0
+  index: -1
+yanjaixin
+  rotate: false
+  xy: 372, 251
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+yanquan
+  rotate: false
+  xy: 448, 260
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n105_fnyg" name="maskBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="41,105" size="667,1159" group="n99_dtss"/>
+    <loader id="n101_zwyz" name="n101" xy="28,63" size="689,1206" group="n99_dtss" touchable="false" url="ui://7cvz7rmm105pvv19" autoSize="true"/>
+    <component id="n5_b419" name="PetSwitch" src="sv988z" fileName="page/PetSwitchPage.xml" xy="25,77" group="n99_dtss"/>
+    <component id="n81_b419" name="PetUpLevel" src="sv9892" fileName="page/PetUpLevelPage.xml" xy="82,735" group="n99_dtss"/>
+    <component id="n106_lupe" name="n106" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1263" group="n99_dtss"/>
+    <group id="n99_dtss" name="n99" xy="25,63" size="699,1290" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

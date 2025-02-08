@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="546,36">
+  <displayList>
+    <text id="n0_9zn0" name="lb1" xy="1,3" size="263,29" fontSize="20" color="#89befe" vAlign="middle" text="好友镜像角色属性为原本80%"/>
+    <text id="n1_9zn0" name="lb2" xy="328,3" size="216,29" fontSize="20" color="#8abeff" vAlign="middle" text="今日邀请镜像次数：2/2">
+      <relation target="" sidePair="right-right"/>
+    </text>
+  </displayList>
+</component>

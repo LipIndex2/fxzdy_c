@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="199,40" extention="Button">
+  <displayList>
+    <text id="n0_txbn" name="lb" xy="0,0" size="199,40" fontSize="20" color="#84a1e3" align="center" vAlign="middle" leading="0" autoSize="none" autoClearText="true" text="1100万"/>
+    <image id="n1_9zn0" name="imgSel" src="9zn019g" fileName="img/xz.png" xy="-2,-6" size="203,52"/>
+    <image id="n2_9zn0" name="n2" src="9zn019k" fileName="img/line.png" xy="8,40" size="183,2"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

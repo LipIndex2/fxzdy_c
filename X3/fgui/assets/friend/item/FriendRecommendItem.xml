@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,128">
+  <displayList>
+    <image id="n61_273c" name="n61" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="607,128"/>
+    <component id="n73_cjsd" name="btnApply" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="432,38" size="145,58">
+      <Button title="申请" titleFontSize="26"/>
+    </component>
+    <text id="n74_cjsd" name="lbApplied" xy="472,47" pivot="0.5,0.5" size="81,36" fontSize="26" color="#abc6fd" align="center" vAlign="middle" strokeColor="#062a6b" strokeSize="3" text="已申请"/>
+    <component id="n77_sx4e" name="player" src="sx4e3m" fileName="item/FriendPlayerInfoItem.xml" xy="12,13"/>
+  </displayList>
+</component>

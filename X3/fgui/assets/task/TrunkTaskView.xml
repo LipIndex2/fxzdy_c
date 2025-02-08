@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="finishFlag" pages="0,f,1,t" selected="0"/>
+  <displayList>
+    <component id="n0_dbe9" name="taskTips" src="r9gz15" fileName="components/TaskSmallTipsComponents.xml" xy="0,1026" pivot="0.15,0.5" size="295,93" group="n1_phyf"/>
+    <group id="n1_phyf" name="n1" xy="0,1026" size="295,93" advanced="true">
+      <gearDisplay controller="finishFlag" pages="0"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

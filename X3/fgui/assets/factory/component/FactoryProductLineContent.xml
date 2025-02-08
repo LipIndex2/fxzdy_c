@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="570,910">
+  <displayList>
+    <component id="n2_51a6" name="pOwer" src="t5gy8y" fileName="component/FactoryProductLineOwerPanel.xml" xy="0,0"/>
+    <component id="n3_51a6" name="pReward" src="t5gy8z" fileName="component/FactoryProductLineRewardPanel.xml" xy="3,710"/>
+  </displayList>
+</component>

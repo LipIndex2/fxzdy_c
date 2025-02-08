@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="haveRecordFlag" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n196_b6a2" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="50,157" size="643,911" group="n285_oqeb"/>
+    <image id="n197_b6a2" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="73,244" size="596,798" group="n285_oqeb"/>
+    <text id="n198_b6a2" name="labelTitle" xy="336,181" size="67,44" group="n285_oqeb" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="记录"/>
+    <list id="n287_gkgv" name="recordList" xy="86,250" size="571,785" group="n285_oqeb" overflow="scroll" defaultItem="ui://7b03f641oqeb15b" autoClearItems="true">
+      <gearDisplay controller="haveRecordFlag" pages="1"/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n289_ffqt" name="labelNoRecord" xy="298,552" size="154,52" group="n285_oqeb" fontSize="38" color="#7b97cb" text="暂无记录">
+      <gearDisplay controller="haveRecordFlag" pages="0"/>
+    </text>
+    <text id="n283_b6a2" name="tipsExit" xy="298,1177" size="143,29" group="n288_gkgv" fontSize="20" color="#fffefe" text="点击空白处关闭"/>
+    <group id="n288_gkgv" name="n288" xy="298,1177" size="143,29" group="n285_oqeb"/>
+    <group id="n285_oqeb" name="n285" xy="50,157" size="643,1049" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

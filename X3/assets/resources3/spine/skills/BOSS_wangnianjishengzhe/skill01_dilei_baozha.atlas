@@ -1,0 +1,349 @@
+
+skill01_dilei_baozha.png
+size: 1478,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bao01
+  rotate: false
+  xy: 552, 158
+  size: 124, 113
+  orig: 256, 170
+  offset: 35, 12
+  index: -1
+images/effect/bao02
+  rotate: false
+  xy: 853, 275
+  size: 206, 105
+  orig: 256, 170
+  offset: 20, 43
+  index: -1
+images/effect/bao03
+  rotate: false
+  xy: 853, 382
+  size: 217, 106
+  orig: 256, 170
+  offset: 17, 46
+  index: -1
+images/effect/bao04
+  rotate: true
+  xy: 1362, 519
+  size: 201, 107
+  orig: 256, 170
+  offset: 15, 47
+  index: -1
+images/effect/bao05
+  rotate: true
+  xy: 1362, 328
+  size: 189, 108
+  orig: 256, 170
+  offset: 14, 48
+  index: -1
+images/effect/bao06
+  rotate: false
+  xy: 2, 211
+  size: 174, 98
+  orig: 256, 170
+  offset: 14, 58
+  index: -1
+images/effect/duyean01
+  rotate: false
+  xy: 179, 302
+  size: 30, 30
+  orig: 170, 170
+  offset: 58, 37
+  index: -1
+images/effect/duyean02
+  rotate: true
+  xy: 239, 2
+  size: 61, 67
+  orig: 170, 170
+  offset: 49, 36
+  index: -1
+images/effect/duyean03
+  rotate: true
+  xy: 700, 36
+  size: 89, 108
+  orig: 170, 170
+  offset: 44, 36
+  index: -1
+images/effect/duyean04
+  rotate: true
+  xy: 239, 65
+  size: 105, 112
+  orig: 170, 170
+  offset: 39, 36
+  index: -1
+images/effect/duyean05
+  rotate: true
+  xy: 1097, 65
+  size: 108, 116
+  orig: 170, 170
+  offset: 39, 35
+  index: -1
+images/effect/duyean06
+  rotate: true
+  xy: 2, 98
+  size: 111, 119
+  orig: 170, 170
+  offset: 40, 32
+  index: -1
+images/effect/duyean07
+  rotate: true
+  xy: 1317, 88
+  size: 111, 117
+  orig: 170, 170
+  offset: 40, 32
+  index: -1
+images/effect/duyean08
+  rotate: true
+  xy: 2, 20
+  size: 76, 115
+  orig: 170, 170
+  offset: 77, 31
+  index: -1
+images/effect/duyean09
+  rotate: true
+  xy: 353, 12
+  size: 74, 97
+  orig: 170, 170
+  offset: 78, 32
+  index: -1
+images/effect/duyeliang01
+  rotate: true
+  xy: 452, 11
+  size: 75, 76
+  orig: 128, 128
+  offset: 26, 22
+  index: -1
+images/effect/duyeliang02
+  rotate: false
+  xy: 1215, 74
+  size: 99, 99
+  orig: 128, 128
+  offset: 13, 15
+  index: -1
+images/effect/duyeliang03
+  rotate: false
+  xy: 430, 154
+  size: 120, 117
+  orig: 128, 128
+  offset: 0, 10
+  index: -1
+images/effect/duyeliang04
+  rotate: false
+  xy: 1191, 175
+  size: 124, 123
+  orig: 128, 128
+  offset: 0, 5
+  index: -1
+images/effect/duyeliang05
+  rotate: false
+  xy: 1348, 201
+  size: 128, 125
+  orig: 128, 128
+  offset: 0, 3
+  index: -1
+images/effect/duyeliang06
+  rotate: false
+  xy: 696, 206
+  size: 128, 126
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+images/effect/duyeliang07
+  rotate: false
+  xy: 1061, 176
+  size: 128, 122
+  orig: 128, 128
+  offset: 0, 6
+  index: -1
+images/effect/duyeliang08
+  rotate: false
+  xy: 178, 173
+  size: 128, 118
+  orig: 128, 128
+  offset: 0, 10
+  index: -1
+images/effect/duyeliang09
+  rotate: false
+  xy: 123, 62
+  size: 114, 109
+  orig: 128, 128
+  offset: 11, 15
+  index: -1
+images/effect/duyezhu01
+  rotate: false
+  xy: 1020, 206
+  size: 33, 67
+  orig: 128, 256
+  offset: 44, 19
+  index: -1
+images/effect/duyezhu03
+  rotate: true
+  xy: 531, 60
+  size: 65, 167
+  orig: 128, 256
+  offset: 30, 16
+  index: -1
+images/effect/duyezhu05
+  rotate: false
+  xy: 1072, 301
+  size: 72, 187
+  orig: 128, 256
+  offset: 27, 14
+  index: -1
+images/effect/duyezhu07
+  rotate: true
+  xy: 826, 200
+  size: 73, 192
+  orig: 128, 256
+  offset: 26, 12
+  index: -1
+images/effect/duyezhu09
+  rotate: true
+  xy: 678, 127
+  size: 71, 189
+  orig: 128, 256
+  offset: 27, 13
+  index: -1
+images/effect/duyezhu11
+  rotate: true
+  xy: 353, 88
+  size: 64, 176
+  orig: 128, 256
+  offset: 32, 16
+  index: -1
+images/effect/duyezhu13
+  rotate: false
+  xy: 179, 334
+  size: 56, 154
+  orig: 128, 256
+  offset: 39, 18
+  index: -1
+images/effect/duyezhu15
+  rotate: true
+  xy: 810, 32
+  size: 52, 105
+  orig: 128, 256
+  offset: 42, 24
+  index: -1
+images/effect/duyezhu17
+  rotate: true
+  xy: 1097, 13
+  size: 50, 66
+  orig: 128, 256
+  offset: 44, 26
+  index: -1
+images/effect/duyezhu19
+  rotate: true
+  xy: 1436, 155
+  size: 44, 39
+  orig: 128, 256
+  offset: 42, 28
+  index: -1
+images/effect/glow01
+  rotate: false
+  xy: 476, 273
+  size: 218, 218
+  orig: 256, 256
+  offset: 19, 19
+  index: -1
+images/effect/pian01
+  rotate: false
+  xy: 869, 86
+  size: 112, 112
+  orig: 128, 128
+  offset: 9, 8
+  index: -1
+images/effect/pian02
+  rotate: false
+  xy: 983, 62
+  size: 112, 112
+  orig: 128, 128
+  offset: 9, 8
+  index: -1
+images/effect/quan01
+  rotate: false
+  xy: 308, 172
+  size: 120, 119
+  orig: 256, 256
+  offset: 81, 78
+  index: -1
+images/effect/quan03
+  rotate: false
+  xy: 696, 334
+  size: 155, 154
+  orig: 256, 256
+  offset: 64, 67
+  index: -1
+images/effect/quan05
+  rotate: false
+  xy: 2, 311
+  size: 175, 177
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+images/effect/quan07
+  rotate: false
+  xy: 1152, 300
+  size: 194, 189
+  orig: 256, 256
+  offset: 44, 51
+  index: -1
+images/effect/quan09
+  rotate: false
+  xy: 238, 293
+  size: 214, 197
+  orig: 256, 256
+  offset: 33, 48
+  index: -1
+images/effect/quan11
+  rotate: true
+  xy: 1152, 491
+  size: 229, 208
+  orig: 256, 256
+  offset: 25, 43
+  index: -1
+images/effect/quan13
+  rotate: true
+  xy: 939, 490
+  size: 230, 211
+  orig: 256, 256
+  offset: 24, 43
+  index: -1
+images/effect/quan16
+  rotate: false
+  xy: 476, 493
+  size: 232, 227
+  orig: 256, 256
+  offset: 24, 29
+  index: -1
+images/effect/quan18
+  rotate: false
+  xy: 2, 490
+  size: 234, 230
+  orig: 256, 256
+  offset: 22, 26
+  index: -1
+images/effect/quan20
+  rotate: true
+  xy: 710, 490
+  size: 230, 227
+  orig: 256, 256
+  offset: 23, 29
+  index: -1
+images/effect/quan22
+  rotate: false
+  xy: 238, 492
+  size: 236, 228
+  orig: 256, 256
+  offset: 17, 28
+  index: -1
+images/effect/quan24
+  rotate: false
+  xy: 1215, 47
+  size: 229, 25
+  orig: 256, 256
+  offset: 22, 68
+  index: -1

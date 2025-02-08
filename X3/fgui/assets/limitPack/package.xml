@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1d0b8bbf">
+  <resources>
+    <image id="cae04" name="fanye.png" path="/img/"/>
+    <image id="cae05" name="fanye_xuanzhong.png" path="/img/"/>
+    <image id="cae07" name="sd_A_common_jiantou4_btn_21.png" path="/img/"/>
+    <image id="cae08" name="sd_A_common_jiantou4_btn_20.png" path="/img/"/>
+    <image id="cae028" name="xslb_lb4.png" path="/img/"/>
+    <component id="cae039" name="LimitPackMainWin.xml" path="/view/"/>
+    <component id="ohdt3a" name="LimitPackPage2.xml" path="/page/"/>
+    <component id="ohdt3b" name="LimitPackPage1.xml" path="/page/"/>
+    <component id="ohdt3c" name="LimitPackDiscount.xml" path="/component/"/>
+    <component id="ohdt3d" name="LimitPackItem1.xml" path="/item/"/>
+    <component id="ohdt3e" name="LimitPackBtn.xml" path="/component/"/>
+    <component id="ohdt3f" name="LimitPackItem2.xml" path="/item/"/>
+    <component id="ohdt3g" name="LimitPackSmallItem2.xml" path="/item/"/>
+    <component id="ohdt3h" name="LimitPackPageBtn.xml" path="/component/"/>
+    <component id="ohdt3i" name="LimitPackPageBtn2.xml" path="/component/"/>
+    <image id="uvvc3p" name="diban_22.png" path="/img/"/>
+    <image id="uvvc3q" name="biaoti_9.png" path="/img/"/>
+    <image id="uvvc3r" name="tiaomu.png" path="/img/"/>
+    <image id="uvvc3s" name="tiao.png" path="/img/"/>
+    <image id="uvvc3u" name="ka_tag.png" path="/img/"/>
+    <image id="uvvc3v" name="lianjiejiantou_7.png" path="/img/"/>
+    <image id="uvvc3x" name="qipao_14.png" path="/img/" scale="9grid" scale9grid="46,23,100,28"/>
+    <image id="uvvc3y" name="biaoti.png" path="/img/"/>
+    <image id="uvvc40" name="huangsediban.png" path="/img/"/>
+    <image id="uvvc41" name="baisediban.png" path="/img/"/>
+    <component id="uvvc42" name="LimitPackBtn2.xml" path="/component/"/>
+    <image id="uvvc43" name="scale_35%_sd_A_common_changgui3_btn.png" path="/img/"/>
+    <image id="uvvc44" name="scale_35%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <component id="qhev45" name="LimitPackPage3.xml" path="/page/"/>
+    <image id="qhev46" name="xslb_bg.png" path="/img/"/>
+    <image id="qhev47" name="landi.png" path="/img/"/>
+    <image id="qhev48" name="zi.png" path="/img/"/>
+    <image id="qhev49" name="mingzidi.png" path="/img/"/>
+    <image id="qhev4a" name="juxing7.png" path="/img/"/>
+    <image id="qhev4e" name="xslb_sjd.png" path="/img/"/>
+    <component id="nj014f" name="LimitPackPage4.xml" path="/page/"/>
+    <image id="nj014g" name="wenzi.png" path="/img/"/>
+    <image id="nj014h" name="zu16.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="c8c5d312">
+  <resources>
+    <image id="eab51" name="sd_A_common_bossjl_frame.png" path="/img/"/>
+    <image id="eab511" name="scale_60%_baoxiangkai.png" path="/img/"/>
+    <image id="eab512" name="scale_60%_baoxiangguan_4.png" path="/img/"/>
+    <image id="eab514" name="scale_60%_sd_A_common_ylq_tag.png" path="/img/"/>
+    <image id="eab515" name="1_3.png" path="/img/"/>
+    <image id="eab516" name="#216599_sd_A_common_word_tag.png" path="/img/"/>
+    <image id="eab518" name="1_1.png" path="/img/"/>
+    <image id="eab519" name="guangdian.png" path="/img/"/>
+    <image id="eab521" name="jijiekaobei.png" path="/img/"/>
+    <image id="eab533" name="beijing2.jpg" path="/img/"/>
+    <image id="eab537" name="sjkj_rk1.png" path="/img/"/>
+    <image id="eab545" name="sjkj_scd.png" path="/img/" scale="9grid" scale9grid="151,24,14,9"/>
+    <image id="eab549" name="liang_19.png" path="/img/"/>
+    <image id="eab551" name="tu.png" path="/img/"/>
+    <image id="eab559" name="sjkj_sjsm.png" path="/img/"/>
+    <image id="eab561" name="dizuo.png" path="/img/"/>
+    <image id="eab565" name="guanjundi.png" path="/img/"/>
+    <image id="eab566" name="wupindi.png" path="/img/"/>
+    <image id="eab568" name="sd_A_common_hd_di01.png" path="/img/"/>
+    <image id="eab569" name="sd_A_common_hd_di02.png" path="/img/"/>
+    <image id="eab571" name="ziji_frame.png" path="/img/"/>
+    <image id="eab572" name="ziji1_frame.png" path="/img/"/>
+    <image id="eab573" name="baoxiangdi.png" path="/img/"/>
+    <image id="eab574" name="scale_70%_gjbx_0002_guajibaoxiang-kaobei.png" path="/img/"/>
+    <image id="eab575" name="tiao.png" path="/img/"/>
+    <image id="eab579" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+    <image id="eab580" name="wode.png" path="/img/"/>
+    <image id="eab582" name="sd_A_common_no2_icon.png" path="/img/"/>
+    <image id="eab584" name="saijipaiming_25.png" path="/img/"/>
+    <image id="uk3p8a" name="sjkj_andi.png" path="/img/"/>
+    <component id="eab523" name="SeasonMainView.xml" path="/"/>
+    <component id="eab560" name="SeasonMenuView.xml" path="/"/>
+    <component id="eab585" name="SeasonRankView.xml" path="/"/>
+    <component id="uk3p86" name="SeasonRewardCom.xml" path="/com/"/>
+    <component id="uk3pvvv1b5" name="SeasonRewardBtn.xml" path="/btn/"/>
+    <component id="uk3p192" name="SeasonBar.xml" path="/btn/"/>
+    <component id="uk3p87" name="SeasonRuleBtn.xml" path="/btn/"/>
+    <component id="uk3p88" name="SeasonMenuItem.xml" path="/com/"/>
+    <component id="uk3p89" name="SeasonMenuBar.xml" path="/btn/"/>
+    <component id="uk3p8c" name="SeasonPreviewBtn.xml" path="/btn/"/>
+    <component id="uk3p8d" name="SeasonRankItem.xml" path="/com/"/>
+    <component id="v5mwvvv1b6" name="SeasonContainerView.xml" path="/"/>
+    <component id="v5mwvvv1b7" name="ChargeTabBtn.xml" path="/component/"/>
+    <image id="hz6evvv1b8" name="zhujiemianbeijing.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

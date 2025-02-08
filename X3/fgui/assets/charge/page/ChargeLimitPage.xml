@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_a948" name="n0" src="g9nr3c" fileName="img/xgsc_bg.jpg" xy="0,0">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <list id="n41_k3my" name="list" xy="10,128" size="730,1056" overflow="scroll" lineGap="32" defaultItem="ui://7cf99be8k3my35" align="center" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n43_k3my" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="529,80" controller="showAdd,1"/>
+    <image id="n44_g9nr" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#322c60">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+  </displayList>
+</component>

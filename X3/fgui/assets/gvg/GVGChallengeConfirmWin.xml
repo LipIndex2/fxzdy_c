@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kt93es7j">
+  <controller name="isOppo" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n129_hd60" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="48,269" size="648,831" group="n124_k3sy"/>
+    <image id="n107_ac45" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="51,278" size="643,822" group="n124_k3sy"/>
+    <image id="n108_ac45" name="bg2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="74,364" size="596,707" group="n124_k3sy"/>
+    <image id="n109_ac45" name="fg" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="86,494" size="570,365" group="n124_k3sy" alpha="0.4"/>
+    <text id="n121_ac45" name="labelTitle" xy="338,303" pivot="0.5,0.5" size="67,44" group="n124_k3sy" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="目标"/>
+    <component id="n127_k3sy" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="89,374" group="n124_k3sy"/>
+    <list id="n128_k3sy" name="heroList" xy="99,536" size="696,373" group="n124_k3sy" scale="0.8,0.8" touchable="false" layout="flow_hz" overflow="scroll" lineGap="20" colGap="15" defaultItem="ui://38fa8c75tkxdvvv1c2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n112_ac45" name="labelPlayerName" xy="207,392" size="147,34" group="n124_k3sy" fontSize="24" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="无敌宇宙帅气"/>
+    <text id="n113_ac45" name="labelSuccessDefendCount" xy="442,391" size="159,29" group="n124_k3sy" fontSize="20" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="成功防御：100次"/>
+    <component id="n114_ac45" name="btnRecord" src="k3sy11r" fileName="btn/GVGSeeRecordBtn.xml" xy="611,389" group="n124_k3sy"/>
+    <text id="n115_ac45" name="labelFightNum" xy="208,425" size="148,34" group="n124_k3sy" fontSize="24" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="战力：52000"/>
+    <component id="n125_k3sy" name="barHp" src="k3sy119" fileName="bar/GVGChallengeHpBar.xml" xy="476,443" group="n124_k3sy">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n126_k3sy" name="barHpCount" src="k3sy11d" fileName="bar/GVGCircleBar.xml" xy="436,429" group="n124_k3sy">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <component id="n117_ac45" name="btnChallenge" src="k3sy11p" fileName="btn/GVGChallengeBigBtn.xml" xy="254,914" group="n130_hd60"/>
+    <text id="n119_ac45" name="labelChallengeCountTitle" xy="293,872" size="123,34" group="n130_hd60" fontSize="24" color="#ade2fe" vAlign="middle" strokeColor="#000000" strokeSize="2" text="挑战次数："/>
+    <text id="n120_ac45" name="labelChallengeCount" xy="414,872" size="45,34" group="n130_hd60" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="1/3"/>
+    <component id="n123_ac45" name="btnTeamLike" src="k3sy11q" fileName="btn/GVGTeamLikeBtn.xml" xy="552,911" group="n130_hd60"/>
+    <group id="n130_hd60" name="G_oppo" xy="254,872" size="388,138" group="n124_k3sy" advanced="true">
+      <gearDisplay controller="isOppo" pages="1"/>
+    </group>
+    <group id="n124_k3sy" name="G_all" xy="48,269" size="747,831" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

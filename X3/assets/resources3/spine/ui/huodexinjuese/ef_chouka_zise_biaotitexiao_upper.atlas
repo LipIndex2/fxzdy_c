@@ -1,0 +1,90 @@
+
+ef_chouka_zise_biaotitexiao_upper.png
+size: 2021,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_choukazise_biaoti_00005
+  rotate: false
+  xy: 1013, 61
+  size: 434, 149
+  orig: 650, 400
+  offset: 113, 123
+  index: -1
+images/effect/ef_choukazise_biaoti_00006
+  rotate: false
+  xy: 551, 2
+  size: 460, 225
+  orig: 650, 400
+  offset: 100, 96
+  index: -1
+images/effect/ef_choukazise_biaoti_00007
+  rotate: false
+  xy: 556, 229
+  size: 487, 311
+  orig: 650, 400
+  offset: 86, 52
+  index: -1
+images/effect/ef_choukazise_biaoti_00008
+  rotate: false
+  xy: 2, 536
+  size: 552, 380
+  orig: 650, 400
+  offset: 49, 13
+  index: -1
+images/effect/ef_choukazise_biaoti_00009
+  rotate: false
+  xy: 556, 542
+  size: 550, 374
+  orig: 650, 400
+  offset: 50, 15
+  index: -1
+images/effect/ef_choukazise_biaoti_00010
+  rotate: false
+  xy: 1108, 549
+  size: 550, 367
+  orig: 650, 400
+  offset: 50, 17
+  index: -1
+images/effect/ef_choukazise_biaoti_00011
+  rotate: true
+  xy: 1660, 365
+  size: 551, 356
+  orig: 650, 400
+  offset: 50, 21
+  index: -1
+images/effect/ef_choukazise_biaoti_00012
+  rotate: false
+  xy: 1108, 212
+  size: 548, 335
+  orig: 650, 400
+  offset: 51, 29
+  index: -1
+images/effect/ef_choukazise_biaoti_00013
+  rotate: false
+  xy: 2, 324
+  size: 548, 210
+  orig: 650, 400
+  offset: 51, 79
+  index: -1
+images/effect/ef_choukazise_biaoti_00014
+  rotate: false
+  xy: 2, 132
+  size: 547, 190
+  orig: 650, 400
+  offset: 52, 90
+  index: -1
+images/effect/ef_choukazise_biaoti_00015
+  rotate: false
+  xy: 1449, 92
+  size: 542, 118
+  orig: 650, 400
+  offset: 54, 121
+  index: -1
+images/effect/ef_choukazise_biaoti_00016
+  rotate: false
+  xy: 2018, 915
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

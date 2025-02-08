@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="197,237">
+  <displayList>
+    <image id="n0_67ed" name="n0" src="ta4f13i" fileName="img/shuimian.png" xy="10,0" group="n4_ta4f"/>
+    <image id="n1_67ed" name="n1" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,178" size="197,59" group="n4_ta4f" alpha="0.54"/>
+    <text id="n2_67ed" name="n2" xy="97,195" pivot="0.5,0.5" anchor="true" size="123,29" group="n4_ta4f" fontSize="20" color="#f5fdff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="夜间保护时间"/>
+    <text id="n3_67ed" name="lbNightTime" xy="95,222" pivot="0.5,0.5" anchor="true" size="164,29" group="n4_ta4f" fontSize="20" color="#7cffe2" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="23:00-次日09.00"/>
+    <group id="n4_ta4f" name="gTime" xy="0,0" size="197,237" advanced="true"/>
+  </displayList>
+</component>

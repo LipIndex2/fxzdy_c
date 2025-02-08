@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="375,41">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <text id="n51_kvs3" name="tips" xy="0,2" pivot="1,0" size="264,39" group="n54_kvs3" fontSize="28" color="#8fe1ff" align="right" vAlign="bottom" text="每周联盟币获得上限:"/>
+    <loader id="n43_583b" name="leagueCoibIcon" xy="265,0" pivot="0.5,0.5" size="38,41" group="n54_kvs3" url="ui://016cb3f9583b33" align="center" vAlign="middle" fill="scale"/>
+    <text id="n42_583b" name="leagueCoibTxt" xy="304,5" size="69,39" group="n54_kvs3" fontSize="28" color="#ffffff" autoClearText="true" text="5/10"/>
+    <group id="n54_kvs3" name="limittxt1" xy="0,0" size="373,44" advanced="true" layout="hz" colGap="1">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <relation target="n54_kvs3" sidePair="width-width"/>
+</component>

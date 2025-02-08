@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="623,28">
+  <controller name="lock" pages="0,,1," selected="0">
+    <remark page="0" value="锁定"/>
+    <remark page="1" value="解锁"/>
+  </controller>
+  <displayList>
+    <text id="n59_a01c" name="desc" xy="26,-2" size="597,32" fontSize="22" color="#969aa5" vAlign="middle" autoSize="height" autoClearText="true" text="【套装】：防御百分比+30">
+      <gearColor controller="lock" pages="0" values="#969aa5,#000000" default="#41d8f7,#000000"/>
+    </text>
+    <image id="n67_lupe" name="n67" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="0,2" size="21,24">
+      <gearDisplay controller="lock" pages="0"/>
+    </image>
+    <image id="n68_lupe" name="n68" src="v891vvv1f3" fileName="img/boss_tag.png" pkg="38fa8c75" xy="6,-1">
+      <gearDisplay controller="lock" pages="1"/>
+    </image>
+  </displayList>
+  <relation target="n59_a01c" sidePair="height-height"/>
+</component>

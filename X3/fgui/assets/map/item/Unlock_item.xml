@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <controller name="c1" pages="0,,1,,3," selected="2">
+    <remark page="0" value="等级锁"/>
+    <remark page="1" value="材料锁"/>
+    <remark page="2" value="进度条"/>
+  </controller>
+  <controller name="enough" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n13_mc6y" name="img_suo" xy="-43,-47" size="86,94" group="n15_rurq" url="ui://ojwi06ia8qld5"/>
+    <text id="n8_8qld" name="T_Lv" xy="0,11" pivot="0.5,0.5" anchor="true" size="55,34" group="n15_rurq" fontSize="24" color="#ffffff" align="center" vAlign="middle" leading="0" letterSpacing="-2" strokeColor="#000000" strokeSize="2" text="Lv50">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n15_rurq" name="n15" xy="-43,-47" size="86,94" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n12_mc6y" name="bg" src="j6z926" fileName="frameImage/js_frame.png" pkg="38fa8c75" xy="-66,-68" size="134,138" group="n16_rurq"/>
+    <loader id="n5_8qld" name="I_icon" xy="-21,-17" pivot="0.5,0.5" anchor="true" size="48,48" group="n16_rurq" url="ui://38fa8c75j6z934" align="center" vAlign="middle" fill="scale">
+      <relation target="n4_8qld" sidePair="middle-middle,right-left"/>
+    </loader>
+    <image id="n14_pf1a" name="lockIcon" src="rurqvvz" fileName="img/lock_icon.png" xy="-20,9" group="n16_rurq">
+      <gearDisplay controller="enough" pages="0"/>
+    </image>
+    <image id="n6_8qld" name="unlockIcon" src="rurqvvy" fileName="img/unlock_icon.png" xy="-20,9" group="n16_rurq">
+      <gearDisplay controller="enough" pages="1"/>
+    </image>
+    <text id="n4_8qld" name="T_num" xy="20,-17" pivot="0.5,0.5" anchor="true" size="33,34" group="n16_rurq" fontSize="24" color="#ff5252" vAlign="middle" leading="0" strokeColor="#000000" strokeSize="3" text="50">
+      <gearColor controller="enough" pages="0" values="#ff5252,#000000" default="#4af366,#000000"/>
+    </text>
+    <group id="n16_rurq" name="n16" xy="-66,-68" size="134,138" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <component id="n17_dx6e" name="bar" src="dx6evvv1ko" fileName="item/boxBar.xml" xy="-99,-11">
+      <gearDisplay controller="c1" pages="3"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+  </displayList>
+</component>

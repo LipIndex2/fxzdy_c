@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,560">
+  <displayList>
+    <image id="n2_4928" name="n2" src="cni66p" fileName="frameImage/bzd1_frame.png" pkg="38fa8c75" xy="0,-44" size="375,680" group="n107_kkiq">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <image id="n112_z7ud" name="n112" src="cni66p" fileName="frameImage/bzd1_frame.png" pkg="38fa8c75" xy="375,-44" pivot="0,0.5" size="375,680" group="n107_kkiq" flip="hz">
+      <relation target="" sidePair="height-height"/>
+    </image>
+    <list id="n109_kkiq" name="list_hero" xy="77,28" size="589,222" group="n107_kkiq" layout="flow_hz" overflow="scroll" lineGap="10" colGap="23" lineItemCount="4" defaultItem="ui://38fa8c75odo57g" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n113_woyg" name="listHeroWithHp" xy="78,28" size="589,222" group="n107_kkiq" layout="flow_hz" overflow="scroll" lineGap="10" colGap="23" lineItemCount="4" defaultItem="ui://38fa8c75woygvvv1id" autoClearItems="true">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n111_odo5" name="item_select" src="odo57h" fileName="item/HeroSelectItem.xml" pkg="38fa8c75" xy="16,275" group="n107_kkiq">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <group id="n107_kkiq" name="n107" xy="0,-44" size="750,680" advanced="true">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,80">
+  <controller name="quality" pages="0,,1,,2,,3,,4,,5,,6," selected="6">
+    <remark page="3" value="蓝色"/>
+    <remark page="4" value="紫色"/>
+    <remark page="5" value="橙色"/>
+    <remark page="6" value="红色"/>
+  </controller>
+  <displayList>
+    <loader id="n11_gs9k" name="iconLoader" xy="0,0" size="60,60" url="ui://ae4de3b1loej8u" fill="scale">
+      <gearIcon controller="quality" pages="0,1,2,3,4,5,6" values="ui://ae4de3b1loej8w|ui://ae4de3b1loej8w|ui://ae4de3b1loej8w|ui://ae4de3b1loej8w|ui://ae4de3b1loej8x|ui://ae4de3b1loej8v|ui://ae4de3b1loej8u"/>
+    </loader>
+    <text id="n10_1794" name="lbCount" xy="30,61" pivot="0.5,0.5" anchor="true" size="16,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="1"/>
+  </displayList>
+</component>

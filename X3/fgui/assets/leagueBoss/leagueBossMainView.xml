@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageLayer="1">
+  <displayList>
+    <component id="n83_qlkj" name="backGroud" src="qlkj8j" fileName="component/leagueBossBackground.xml" xy="-649,-172">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n0_bc8b" name="n0" xy="0,0" pivot="0.5,0.5" size="750,1334" url="ui://7cvz7rmmqlkjvv1l" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n84_g9nr" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-48" pivot="0.5,1" anchor="true" size="750,250" color="#1f3044">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n85_g9nr" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1517" pivot="0.5,0.5" anchor="true" size="750,300" color="#242d3c" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <graph id="n92_i83d" name="bossBg" xy="372,514" pivot="0.5,1" anchor="true" size="100,100" group="n93_i83d"/>
+    <component id="n88_i83d" name="bossSpineNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="371,510" pivot="0.5,1" anchor="true" group="n93_i83d"/>
+    <group id="n93_i83d" name="n93" xy="322,414" size="100,100" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n33_bc8b" name="top1" src="zzft87" fileName="component/leagueBossRankTop3.xml" xy="285,600" group="n72_zzft" controller="rank,0"/>
+    <component id="n73_zzft" name="top2" src="zzft87" fileName="component/leagueBossRankTop3.xml" xy="31,518" group="n72_zzft" controller="rank,1"/>
+    <component id="n74_zzft" name="top3" src="zzft87" fileName="component/leagueBossRankTop3.xml" xy="539,520" group="n72_zzft" controller="rank,2"/>
+    <group id="n72_zzft" name="n72" xy="31,518" size="704,325" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <list id="n75_zzft" name="bossList" xy="18,827" size="726,300" group="n79_zzft" layout="row" scroll="horizontal" colGap="3" defaultItem="ui://78157e75zzft88" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n76_zzft" name="buzhen" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="550,1200" group="n79_zzft"/>
+    <component id="n77_zzft" name="challengeBtn" src="qlkjvvv1en" fileName="btn/BtnChangGui1WithTime.xml" pkg="38fa8c75" xy="216,1167" group="n79_zzft" controller="canPayFlag,1">
+      <Button title="挑战"/>
+    </component>
+    <component id="n78_zzft" name="closeBtn" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1214" group="n79_zzft"/>
+    <component id="n94_gvuz" name="btnAd" src="gvuzvvv1l1" fileName="btn/BtnAdLb.xml" pkg="38fa8c75" xy="369,1138" pivot="0.5,0.5" anchor="true" size="210,40" group="n79_zzft" controller="state,0">
+      <Button title="观影招募10/10"/>
+    </component>
+    <group id="n79_zzft" name="n79" xy="0,827" size="744,506" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n58_zzft" name="bossHp" src="zzft86" fileName="component/bossHpBar.xml" xy="231,181" size="359,31" group="n81_sh62">
+      <ProgressBar value="30" max="155"/>
+    </component>
+    <image id="n59_zzft" name="bossHead" src="sh628n" fileName="league/i/BOSStouxiang.png" pkg="72zq62ea" xy="162,152" group="n81_sh62"/>
+    <text id="n44_bc8b" name="bossName" xy="294,110" pivot="0.5,0.5" size="160,49" group="n81_sh62" fontSize="36" color="#ffdf4c" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="腐化·黑洞"/>
+    <loader id="n47_bc8b" name="bossCareerIcon" xy="267,232" size="45,51" group="n68_zzft" url="ui://78157e75bc8b79" fill="scaleFree" autoSize="true" clearOnPublish="true"/>
+    <image id="n48_bc8b" name="n48" src="bc8b80" fileName="img/sd_A_common_jt_icon.png" xy="295,228" size="28,30" group="n68_zzft"/>
+    <group id="n68_zzft" name="n68" xy="267,228" size="56,55" group="n69_zzft" advanced="true">
+      <relation target="n46_bc8b" sidePair="right-left"/>
+    </group>
+    <text id="n46_bc8b" name="bossUpTips" xy="321,241" pivot="0.5,0" size="107,36" group="n69_zzft" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="英雄是泛">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n69_zzft" name="n69" xy="267,228" size="161,55" group="n81_sh62" advanced="true"/>
+    <group id="n81_sh62" name="n81" xy="162,110" size="428,173" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n53_bc8b" name="n53" xy="19,55" size="223,64" group="n86_i83d" fontSize="48" color="#ffffff" strokeColor="#0b1424" strokeSize="3" text="联盟BOSS"/>
+    <component id="n54_bc8b" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="250,66" group="n86_i83d"/>
+    <image id="n55_bc8b" name="n55" src="bc8b84" fileName="img/dangqianjieduan.png" xy="13,138" group="n86_i83d"/>
+    <text id="n56_bc8b" name="n56" xy="23,142" size="113,32" group="n86_i83d" fontSize="22" color="#ffffff" strokeColor="#05001e" strokeSize="2" text="当前阶段："/>
+    <text id="n57_bc8b" name="stageTxt" xy="133,142" size="52,32" group="n86_i83d" fontSize="22" color="#3cfe33" strokeColor="#05001e" strokeSize="2" text="17阶"/>
+    <group id="n86_i83d" name="n86" xy="13,55" size="278,123" group="n80_zzft" advanced="true"/>
+    <component id="n64_zzft" name="rawardBtn" src="zzftvvv1ei" fileName="btn/ComonBtn.xml" pkg="38fa8c75" xy="646,63" group="n87_i83d">
+      <Button title="奖励" icon="ui://78157e75bc8b81"/>
+    </component>
+    <component id="n65_zzft" name="rankBtn" src="zzftvvv1ei" fileName="btn/ComonBtn.xml" pkg="38fa8c75" xy="647,176" group="n87_i83d">
+      <Button title="排行" icon="ui://78157e75bc8b82"/>
+    </component>
+    <group id="n87_i83d" name="n87" xy="646,63" size="84,220" group="n80_zzft" advanced="true"/>
+    <group id="n80_zzft" name="n80" xy="13,55" size="717,228" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n72_zzft" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n79_zzft" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n86_i83d" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n87_i83d" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n72_zzft" tween="true" startValue="31,618" endValue="31,518" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n79_zzft" tween="true" startValue="0,927" endValue="0,827" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n86_i83d" tween="true" startValue="-87,55" endValue="13,55" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n87_i83d" tween="true" startValue="746,63" endValue="646,63" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

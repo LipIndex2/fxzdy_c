@@ -1,0 +1,83 @@
+
+nuowa_skill_hit_upper.png
+size: 520,769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_hit_00000
+  rotate: false
+  xy: 2, 555
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+images/effect/skill01_hit_00001
+  rotate: false
+  xy: 2, 357
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+images/effect/skill01_hit_00002
+  rotate: true
+  xy: 216, 573
+  size: 195, 185
+  orig: 230, 230
+  offset: 17, 33
+  index: -1
+images/effect/skill01_hit_00003
+  rotate: 180
+  xy: 2, 3
+  size: 209, 182
+  orig: 230, 230
+  offset: 12, 41
+  index: -1
+images/effect/skill01_hit_00004
+  rotate: 270
+  xy: 211, 74
+  size: 224, 173
+  orig: 230, 230
+  offset: 2, 37
+  index: -1
+images/effect/skill01_hit_00005
+  rotate: false
+  xy: 2, 181
+  size: 224, 176
+  orig: 230, 230
+  offset: 4, 41
+  index: -1
+images/effect/skill01_hit_00006
+  rotate: 270
+  xy: 195, 297
+  size: 220, 179
+  orig: 230, 230
+  offset: 4, 39
+  index: -1
+images/effect/skill01_hit_00007
+  rotate: true
+  xy: 354, 245
+  size: 204, 146
+  orig: 230, 230
+  offset: 9, 43
+  index: -1
+images/effect/skill01_hit_00008
+  rotate: 270
+  xy: 366, 46
+  size: 204, 144
+  orig: 230, 230
+  offset: 5, 39
+  index: -1
+images/effect/skill01_hit_00009
+  rotate: 270
+  xy: 382, 434
+  size: 204, 132
+  orig: 230, 230
+  offset: 7, 43
+  index: -1
+images/effect/skill01_hit_00010
+  rotate: true
+  xy: 401, 649
+  size: 120, 117
+  orig: 230, 230
+  offset: 57, 59
+  index: -1

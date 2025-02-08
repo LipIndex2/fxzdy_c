@@ -1,0 +1,195 @@
+
+nvshenqifu_upper.png
+size: 400,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow/glow_00001
+  rotate: true
+  xy: 129, 34
+  size: 71, 89
+  orig: 120, 140
+  offset: 24, 3
+  index: -1
+images/glow/glow_00002
+  rotate: true
+  xy: 2, 35
+  size: 72, 125
+  orig: 120, 140
+  offset: 24, 3
+  index: -1
+images/glow/glow_00003
+  rotate: false
+  xy: 293, 107
+  size: 79, 125
+  orig: 120, 140
+  offset: 20, 2
+  index: -1
+images/glow/glow_00004
+  rotate: false
+  xy: 204, 107
+  size: 87, 125
+  orig: 120, 140
+  offset: 16, 1
+  index: -1
+images/glow/glow_00005
+  rotate: false
+  xy: 106, 109
+  size: 96, 123
+  orig: 120, 140
+  offset: 11, 0
+  index: -1
+images/glow/glow_00006
+  rotate: false
+  xy: 2, 116
+  size: 102, 116
+  orig: 120, 140
+  offset: 8, 0
+  index: -1
+images/粒子1
+  rotate: false
+  xy: 374, 210
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+images/粒子2
+  rotate: false
+  xy: 374, 188
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+images/线条/线条_00003
+  rotate: false
+  xy: 252, 17
+  size: 26, 10
+  orig: 100, 14
+  offset: 0, 2
+  index: -1
+images/线条/线条_00004
+  rotate: false
+  xy: 41, 21
+  size: 81, 12
+  orig: 100, 14
+  offset: 2, 0
+  index: -1
+images/线条/线条_00005
+  rotate: false
+  xy: 160, 17
+  size: 62, 10
+  orig: 100, 14
+  offset: 27, 1
+  index: -1
+images/线条/线条_00006
+  rotate: false
+  xy: 302, 19
+  size: 44, 9
+  orig: 100, 14
+  offset: 52, 1
+  index: -1
+images/线条/线条_00007
+  rotate: false
+  xy: 348, 22
+  size: 32, 5
+  orig: 100, 14
+  offset: 67, 3
+  index: -1
+images/翅膀/翅膀_00001
+  rotate: true
+  xy: 311, 30
+  size: 36, 39
+  orig: 40, 40
+  offset: 2, 0
+  index: -1
+images/翅膀/翅膀_00002
+  rotate: true
+  xy: 220, 29
+  size: 36, 39
+  orig: 40, 40
+  offset: 2, 0
+  index: -1
+images/翅膀/翅膀_00003
+  rotate: true
+  xy: 261, 29
+  size: 36, 39
+  orig: 40, 40
+  offset: 2, 0
+  index: -1
+images/翅膀/翅膀_00004
+  rotate: false
+  xy: 374, 172
+  size: 14, 14
+  orig: 40, 40
+  offset: 23, 25
+  index: -1
+images/闪电/闪电_00002
+  rotate: false
+  xy: 374, 155
+  size: 11, 15
+  orig: 46, 42
+  offset: 0, 13
+  index: -1
+images/闪电/闪电_00003
+  rotate: false
+  xy: 124, 2
+  size: 34, 30
+  orig: 46, 42
+  offset: 0, 7
+  index: -1
+images/闪电/闪电_00004
+  rotate: false
+  xy: 352, 29
+  size: 36, 36
+  orig: 46, 42
+  offset: 0, 3
+  index: -1
+images/闪电/闪电_00006
+  rotate: false
+  xy: 357, 67
+  size: 37, 38
+  orig: 46, 42
+  offset: 0, 2
+  index: -1
+images/闪电/闪电_00007
+  rotate: false
+  xy: 2, 5
+  size: 37, 28
+  orig: 46, 42
+  offset: 0, 12
+  index: -1
+images/闪电/闪电_00008
+  rotate: false
+  xy: 311, 68
+  size: 44, 37
+  orig: 46, 42
+  offset: 0, 2
+  index: -1
+images/闪电/闪电_00009
+  rotate: false
+  xy: 220, 67
+  size: 44, 38
+  orig: 46, 42
+  offset: 0, 2
+  index: -1
+images/闪电/闪电_00010
+  rotate: false
+  xy: 266, 67
+  size: 43, 38
+  orig: 46, 42
+  offset: 1, 3
+  index: -1
+images/闪电/闪电_00011
+  rotate: false
+  xy: 396, 206
+  size: 2, 2
+  orig: 46, 42
+  offset: 9, 20
+  index: -1
+images/闪电/闪电_00012
+  rotate: false
+  xy: 224, 13
+  size: 26, 14
+  orig: 46, 42
+  offset: 18, 27
+  index: -1

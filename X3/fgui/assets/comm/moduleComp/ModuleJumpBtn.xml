@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="116,115" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n0_tml5" name="n0" src="j6z929" fileName="btnImage/gntb_default.png" xy="12,2"/>
+    <image id="n1_tml5" name="n1" src="j6z92a" fileName="btnImage/gntb_selected.png" xy="12,2" visible="false"/>
+    <loader id="n2_tml5" name="imageModule" xy="57,65" pivot="0.5,0.7" anchor="true" size="92,102" url="ui://38fa8c75tml513h" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <image id="n3_tml5" name="redPoint" src="qoer4b" fileName="btnImage/gth_btn2.png" xy="76,2" visible="false"/>
+    <text id="n4_tml5" name="title" xy="57,99" pivot="0.5,0.5" anchor="true" size="112,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" strokeColor="#201e1e" strokeSize="4" autoClearText="true" text="英雄培养"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

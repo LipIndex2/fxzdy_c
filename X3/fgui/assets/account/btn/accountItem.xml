@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="460,48" extention="Button">
+  <displayList>
+    <text id="n0_txbn" name="title" xy="8,2" size="94,42" fontSize="30" color="#ffffff" vAlign="middle" leading="0" autoClearText="true" text="233412"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

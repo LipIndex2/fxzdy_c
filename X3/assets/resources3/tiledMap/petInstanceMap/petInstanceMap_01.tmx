@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="35" infinite="0" nextlayerid="19" nextobjectid="475" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="35">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <tileset columns="6" firstgid="171" name="map_ground_2102" tilecount="42" tileheight="120" tilewidth="200">
+  <image height="840" source="../mapTilesets/masterMap_01/map_ground_2102.png" width="1200" />
+ </tileset>
+ <tileset firstgid="213" source="../mapTilesets/masterMap_01.tsx" />
+ <tileset columns="0" firstgid="323" name="building" tilecount="32" tileheight="351" tilewidth="531">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="204" source="../mapTilesets/building/map_monster_501.png" width="205" />
+  </tile>
+  <tile id="1">
+   <image height="324" source="../mapTilesets/building/map_scene_2101.png" width="531" />
+  </tile>
+  <tile id="2">
+   <image height="324" source="../mapTilesets/building/map_scene_2102.png" width="531" />
+  </tile>
+  <tile id="3">
+   <image height="167" source="../mapTilesets/building/map_unlock_201.png" width="164" />
+  </tile>
+  <tile id="4">
+   <image height="167" source="../mapTilesets/building/map_unlock_202.png" width="164" />
+  </tile>
+  <tile id="5">
+   <image height="216" source="../mapTilesets/building/map_wall_01.png" width="123" />
+  </tile>
+  <tile id="6">
+   <image height="248" source="../mapTilesets/building/map_wall_02.png" width="124" />
+  </tile>
+  <tile id="7">
+   <image height="211" source="../mapTilesets/building/map_wall_03.png" width="51" />
+  </tile>
+  <tile id="8">
+   <image height="155" source="../mapTilesets/building/map_wall_04.png" width="146" />
+  </tile>
+  <tile id="9">
+   <image height="187" source="../mapTilesets/building/map_wall_05.png" width="73" />
+  </tile>
+  <tile id="10">
+   <image height="149" source="../mapTilesets/building/map_wall_06.png" width="145" />
+  </tile>
+  <tile id="11">
+   <image height="120" source="../mapTilesets/building/map_wall_07.png" width="147" />
+  </tile>
+  <tile id="12">
+   <image height="146" source="../mapTilesets/building/map_wall_201.png" width="119" />
+  </tile>
+  <tile id="13">
+   <image height="159" source="../mapTilesets/building/map_wall_202.png" width="145" />
+  </tile>
+  <tile id="14">
+   <image height="163" source="../mapTilesets/building/map_wall_203.png" width="145" />
+  </tile>
+  <tile id="15">
+   <image height="184" source="../mapTilesets/building/miaozhun.png" width="294" />
+  </tile>
+  <tile id="16">
+   <image height="123" source="../mapTilesets/building/mis_unlocked.png" width="122" />
+  </tile>
+  <tile id="17">
+   <image height="112" source="../mapTilesets/building/NPC_kuang.png" width="162" />
+  </tile>
+  <tile id="18">
+   <image height="112" source="../mapTilesets/building/NPC_qi.png" width="162" />
+  </tile>
+  <tile id="19">
+   <image height="127" source="../mapTilesets/building/teleport.png" width="203" />
+  </tile>
+  <tile id="20">
+   <image height="237" source="../mapTilesets/building/TP.png" width="248" />
+  </tile>
+  <tile id="21">
+   <image height="159" source="../mapTilesets/building/boxorange01.png" width="132" />
+  </tile>
+  <tile id="22">
+   <image height="65" source="../mapTilesets/building/jt01_icon.png" width="60" />
+  </tile>
+  <tile id="23">
+   <image height="66" source="../mapTilesets/building/jt03_icon.png" width="84" />
+  </tile>
+  <tile id="24">
+   <image height="66" source="../mapTilesets/building/jt04_icon.png" width="84" />
+  </tile>
+  <tile id="25">
+   <image height="351" source="../mapTilesets/building/map_build_2102.png" width="389" />
+  </tile>
+  <tile id="26">
+   <image height="318" source="../mapTilesets/building/map_door_202.png" width="375" />
+  </tile>
+  <tile id="27">
+   <image height="274" source="../mapTilesets/building/map_ground_2109.png" width="363" />
+  </tile>
+  <tile id="28">
+   <image height="256" source="../mapTilesets/building/map_ground_2110.png" width="402" />
+  </tile>
+  <tile id="29">
+   <image height="204" source="../mapTilesets/building/map_monster_201.png" width="205" />
+  </tile>
+  <tile id="30">
+   <image height="204" source="../mapTilesets/building/map_monster_301.png" width="205" />
+  </tile>
+  <tile id="31">
+   <image height="204" source="../mapTilesets/building/map_monster_401.png" width="205" />
+  </tile>
+ </tileset>
+ <tileset columns="7" firstgid="355" name="map_ground_2112" tilecount="14" tileheight="120" tilewidth="200">
+  <image height="240" source="../mapTilesets/masterMap_01/map_ground_2112.png" width="1400" />
+ </tileset>
+ <tileset columns="5" firstgid="369" name="map_ground_duyechi" tilecount="15" tileheight="120" tilewidth="200">
+  <image height="360" source="../mapTilesets/masterMap_01/map_ground_duyechi.png" width="1000" />
+ </tileset>
+ <layer height="35" id="17" name="bottomdown_layer" width="35">
+  <data compression="zlib" encoding="base64">
+   eJztlDkKAkEQRcvlEGaKmUvm3ERDNVQzl0wNjQfMBDUaPai/oWCKPkDVIP/Bozt8NPwWIYQQQgj5L87wEh2hlPAWHaGklkd0hNKklh38RkcoR3iKjlBa0QGGjdSb7sEt7Br7cODUYje9hwdYwKeeb/H7g+yOOvBjTC138fuD8pYia6nEb2uLrKVSC6PX1uZwrfcZfEn9Hum8wqFDR2IJV3qfwglsG8dw5NRCSFP5AY3CHg0=
+  </data>
+ </layer>
+ <objectgroup id="18" name="ornamendownt_layer">
+  <object gid="243" height="223" id="464" width="210" x="2040" y="3360" />
+ </objectgroup>
+ <layer height="35" id="1" name="bottom_layer" width="35">
+  <data compression="zlib" encoding="base64">
+   eJztV7lOw0AQ3RBKRBdEB6Hj6IjTIWrooKXm6Dg6CB01UiROhdOYD2VGzFPGw9iOVzISEiM9Ib+sZ94ezzuE8HdinnBImJ4AC4TFBrUcE04IvQnwTOg2qKUtdUamrn0GWr+sJROATwX9hrWsE55Cfu5aC8A6BoSlBrWsEVYJ+4QNwQ5hS3F4XiEsl+SyPog965uEbcIj4ZKwpzg8VwV8gP3ms35OuIjQo8PzetU8+ezp/R0SrglXkXVRz/M6PO2Nt1qwNkeEzxpaUDeVereE2eB7ukO4CeO90N8cz5OnhLMaWjjHRxh7F77xtFiP8XvwufYk64nxHXKkkgPhaZkhvKiauh48OSWo8p0XnONOtOiw3x3U1TVj6lVF29GCmGmgbtG3iPn7Ei2dkPdLkY/qhPXps+FTxSGsv7g+fDQM8Xc3PDcn6Cl+FH7ezamB/m2oEHNfQgv0QAv7CD7l8/kavs8H/DIq4KEl5r60WuaEL/JFGX8ned6Er3uGivYoJpAL+8NnLlPoVujRWrA+HEVzKuPv5f134fVdlIXqM9QWHUnI75H2l+cX2+va8d1ILT3Rksg7mveAcTp/W3j4qeXkOAjlfYveI60F9xFznl/svbPu8FYL+pYiPXpdoIfD80Vd3tPyULEuek0y85v3P0cZn4T8vmGe6OfKtOi1ZR0D4T1faD6ZgIc2nKMqLfrbxT3+rvDwBecp84v1lx7PWvoC7q/q9Jbo8YOZk113PVf7F3cWfAQtMb0lwvOFx1t/ZWp8UY66EXMfWb7pXu8/fie+AIizrw8=
+  </data>
+ </layer>
+ <layer height="35" id="16" name="water_layer" width="35">
+  <data compression="zlib" encoding="base64">
+   eJzt0NkNgDAMBFG75EASjkDvWQQ92EjzpP32yGYAAPxTcbPh0RVvR9X2BC2bGlbt0Jbg/9y6fX49TbuC//P09AQdAAAAyGkCSXgIdg==
+  </data>
+ </layer>
+ <layer height="35" id="15" name="creep_layer" width="35">
+  <data compression="zlib" encoding="base64">
+   eJzt0DsKACAMBNF4Vv+CeP/ONEIqsYvFPJg6S0QAADc1iBRTDn5bot6eWtfWB1uWyXvL+Ut33tL0djINxy0AAAAA3m3TIAo/
+  </data>
+ </layer>
+ <layer height="35" id="3" name="road_layer" width="35">
+  <data compression="zlib" encoding="base64">
+   eJzt1UsKgDAMANF4/0spfhd6J10IdpFgCwkGnAfZlFKGQqkIAADv5mumewZjT1/s2QNbxsCzW9Gio0W3yfNGamb5JlOV6R5p0f2lpfyPat5LZIt1duu6h2wtXaIWj3UPmVoOY936p9bAFiCTEwimL3s=
+  </data>
+ </layer>
+ <objectgroup id="4" name="ornament_layer">
+  <object gid="223" height="120" id="372" width="101" x="1332.93" y="2645.73" />
+  <object gid="2147483871" height="120" id="373" width="101" x="1209.87" y="2767.47" />
+  <object gid="223" height="120" id="376" width="101" x="2045.7" y="3774.3" />
+  <object gid="223" height="120" id="377" width="101" x="2168.23" y="3776.43" />
+  <object gid="244" height="194" id="378" width="187" x="3010.77" y="3540.57" />
+  <object gid="2147483893" height="215" id="379" width="186" x="1320" y="2280" />
+  <object gid="230" height="134" id="381" width="101" x="1310.9" y="1291.1" />
+  <object gid="259" height="166" id="383" width="144" x="3064.6" y="2901.4" />
+  <object gid="2147483910" height="154" id="386" width="135" x="2880" y="2040" />
+  <object gid="2147483910" height="154" id="387" width="135" x="3000" y="2040" />
+  <object gid="253" height="518" id="388" width="374" x="1017.7" y="3439.3" />
+  <object gid="2147483892" height="194" id="389" width="187" x="964.1" y="3119.9" />
+  <object gid="2147483871" height="120" id="396" width="101" x="1018.5" y="3067.5" />
+  <object gid="232" height="145" id="397" width="172" x="944.4" y="3063.6" />
+  <object gid="2147483900" height="509" id="398" width="514" x="925.633" y="2131.03" />
+  <object gid="260" height="128" id="399" width="206" x="965.6" y="2284.4" />
+  <object gid="260" height="128" id="400" width="206" x="965.6" y="2404.4" />
+  <object gid="260" height="128" id="401" width="206" x="965.6" y="2524.4" />
+  <object gid="241" height="160" id="402" width="202" x="2280" y="2760" />
+  <object gid="242" height="55" id="403" width="90" x="2276.67" y="2820.67" />
+  <object gid="2147483890" height="55" id="404" width="90" x="2157.5" y="2697.5" />
+  <object gid="226" height="88" id="405" width="56" x="1490.67" y="1194.67" />
+  <object gid="2147483871" height="120" id="406" width="101" x="1200" y="3480" />
+  <object gid="2147483871" height="120" id="407" width="101" x="1200" y="3600" />
+  <object gid="273" height="42" id="409" width="60" x="1980.6" y="1577.4" />
+  <object gid="272" height="85" id="410" width="114" x="2269" y="1549" />
+  <object gid="274" height="30" id="411" width="34" x="2031.4" y="1166.6" />
+  <object gid="273" height="42" id="412" width="60" x="2262.07" y="1213.27" />
+  <object gid="274" height="30" id="413" width="34" x="1910.47" y="1340.87" />
+  <object gid="232" height="145" id="414" width="172" x="2028.47" y="3714.87" />
+  <object gid="233" height="215" id="415" width="155" x="2063.47" y="2037.87" />
+  <object gid="228" height="115" id="417" width="49" x="2728.7" y="2715.3" />
+  <object gid="2147483873" height="116" id="418" width="80" x="1197.2" y="1478.8" />
+  <object gid="227" height="69" id="419" width="55" x="2331.03" y="1077.63" />
+  <object gid="292" height="259" id="420" width="405" x="1622.03" y="648.633" />
+  <object gid="243" height="223" id="421" width="210" x="2384.4" y="705.6" />
+  <object gid="248" height="221" id="422" width="212" x="3360" y="2520" />
+  <object gid="248" height="221" id="423" width="212" x="3360" y="2640" />
+  <object gid="248" height="221" id="425" width="212" x="3480" y="2520" />
+  <object gid="248" height="221" id="426" width="212" x="3600" y="2520" />
+  <object gid="248" height="221" id="427" width="212" x="3480" y="2640" />
+  <object gid="2147483892" height="194" id="428" width="187" x="3353.37" y="2675.97" />
+  <object gid="245" height="215" id="429" width="186" x="3600" y="2640" />
+  <object gid="256" height="74" id="430" width="131" x="1710.9" y="1745.1" />
+  <object gid="257" height="35" id="431" width="66" x="1762.6" y="1911.4" />
+  <object gid="226" height="88" id="432" width="56" x="1773.6" y="2030.4" />
+  <object gid="2147483871" height="120" id="437" width="101" x="3050.97" y="2082.37" />
+  <object gid="242" height="55" id="438" width="90" x="3001.55" y="2278.95" />
+  <object gid="225" height="116" id="439" width="80" x="1186" y="748" />
+  <object gid="225" height="116" id="440" width="80" x="2349.6" y="752.4" />
+  <object gid="237" height="495" id="441" width="366" x="1349.4" y="534.6" />
+  <object gid="248" height="221" id="442" width="212" x="2400" y="360" />
+  <object gid="248" height="221" id="443" width="212" x="2280" y="360" />
+  <object gid="248" height="221" id="444" width="212" x="2400" y="480" />
+  <object gid="2147483887" height="360" id="446" name="map_scene_2119" width="443" x="3649.77" y="1101.57" />
+  <object gid="2147483883" height="175" id="447" width="241" x="3848.83" y="1049.83" />
+  <object gid="243" height="223" id="448" width="210" x="3480" y="1440" />
+  <object gid="2147483893" height="215" id="451" width="186" x="3600" y="1440" />
+  <object gid="238" height="313" id="452" width="358" x="3526.2" y="3801.8" />
+  <object gid="2147483883" height="175" id="453" width="241" x="3611.17" y="2976.17" />
+  <object gid="228" height="115" id="455" width="49" x="1260.57" y="2686.77" />
+  <object gid="230" height="134" id="469" width="101" x="1775.83" y="3080.83" />
+  <object gid="2147483908" height="128" id="470" width="206" x="1320" y="3720" />
+  <object gid="2147483908" height="128" id="471" width="206" x="1440" y="3720" />
+  <object gid="343" height="237" id="357" width="248" x="2879.8" y="1454.2" />
+ </objectgroup>
+ <objectgroup id="12" name="connect_layer" />
+ <objectgroup id="5" name="player_layer">
+  <object id="346" x="1361.2" y="2810.8">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010201" />
+   </properties>
+   <point />
+  </object>
+  <object id="347" x="2091.6" y="2828.4">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010202" />
+   </properties>
+   <point />
+  </object>
+  <object id="348" x="2087.2" y="3524.8">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010203" />
+   </properties>
+   <point />
+  </object>
+  <object id="349" x="2802.4" y="3529.6">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010204" />
+   </properties>
+   <point />
+  </object>
+  <object id="356" x="2810.3" y="2817.58">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010205" />
+   </properties>
+   <point />
+  </object>
+  <object id="350" x="2794.4" y="2081.6">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010206" />
+   </properties>
+   <point />
+  </object>
+  <object id="351" x="2092.4" y="2087.6">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010207" />
+   </properties>
+   <point />
+  </object>
+  <object id="352" x="1378" y="2098">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010208" />
+   </properties>
+   <point />
+  </object>
+  <object id="353" x="1368" y="1368">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010209" />
+   </properties>
+   <point />
+  </object>
+  <object id="354" x="2088.8" y="1371.2">
+   <properties>
+    <property name="building_type" value="petinstance" />
+    <property name="object_id" type="int" value="90010210" />
+   </properties>
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="14" name="move_layer">
+  <object id="323" name="移动1" x="1368.4" y="2935.6">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010101" />
+   </properties>
+   <point />
+  </object>
+  <object id="324" name="移动2" x="1966.4" y="2813.6">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010102" />
+   </properties>
+   <point />
+  </object>
+  <object id="325" name="移动3" x="2091.6" y="3416.4">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010103" />
+   </properties>
+   <point />
+  </object>
+  <object id="326" name="移动4" x="2686" y="3538">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010104" />
+   </properties>
+   <point />
+  </object>
+  <object id="327" name="移动5" x="2811.2" y="2940.8">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010105" />
+   </properties>
+   <point />
+  </object>
+  <object id="328" name="移动6" x="2809.2" y="2206.8">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010106" />
+   </properties>
+   <point />
+  </object>
+  <object id="329" name="移动7" x="2204.4" y="2091.6">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010107" />
+   </properties>
+   <point />
+  </object>
+  <object id="330" name="移动8" x="1491.6" y="2096.4">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010108" />
+   </properties>
+   <point />
+  </object>
+  <object id="331" name="移动9" x="1370.8" y="1493.2">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010109" />
+   </properties>
+   <point />
+  </object>
+  <object id="332" name="移动10" x="1978.8" y="1369.2">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010110" />
+   </properties>
+   <point />
+  </object>
+  <object id="333" name="移动11" x="2699.6" y="1372.4">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="90010111" />
+   </properties>
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="role_layer" />
+ <objectgroup id="8" name="collider_layer">
+  <object gid="2147483872" height="302" id="433" width="200" x="577.4" y="2728.6" />
+  <object gid="2147483883" height="175" id="434" width="241" x="626.7" y="2631.3" />
+  <object gid="234" height="52" id="435" width="59" x="627.5" y="2718.5" />
+  <object gid="234" height="52" id="436" width="59" x="667.1" y="2552.9" />
+  <object id="473" x="1560" y="3720">
+   <polygon points="0,-360 -79,-361 -79,-721 0,-720 1.6,-797.6 361.6,-797.6 360,-720 434.4,-722.4 435.4,-361.4 360,-360 360,0 720,0 720.6,-72.6 1080.6,-72.6 1080,0 1440,0 1440,-360 1353.6,-357.6 1353.6,-717.6 1440,-720 1440,-1080 1363.8,-1081.8 1363.8,-1441.8 1440,-1440 1440,-1800 1080,-1800 1078.4,-1728.4 718.4,-1728.4 720,-1800 360,-1800 359.8,-1731.8 -0.2,-1731.8 0,-1800 -75,-1803 -75,-2163 0,-2160 -2.6,-2233.4 237.4,-2233.4 240,-2040 840,-2040 840,-2226 1080,-2226 1080,-2160 1680,-2160 1680,240 0,240" />
+  </object>
+  <object id="474" x="1560" y="3720">
+   <polygon points="-360,0 -360,-360 -290.2,-359.8 -290.2,-719.8 -360,-720 -360,-1080 0,-1080 0.4,-1000.4 360.4,-1000.4 360,-1080 720,-1080 720,-720 644.8,-720.8 648.2,-362.2 720,-360 719.6,-289.6 1079.6,-289.6 1080,-360 1158.2,-362.2 1158.2,-722.2 1080,-720 1080,-1080 1157.2,-1077.2 1157.2,-1437.2 1080,-1440 1076.6,-1504.6 716.6,-1504.6 720,-1440 360,-1440 358.8,-1510.8 -1.2,-1510.8 0,-1440 -360,-1440 -360,-1800 -285.6,-1802.4 -285.6,-2162.4 -360,-2160 -360,-2520 0,-2520 -3,-2451 237,-2451 240,-2640 840,-2640 836.2,-2454.2 1076.2,-2454.2 1080,-2520 1440,-2520 1440,-2040 1800,-2040 1800,-3000 -600,-3000 -600,360 120,360 120,0" />
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="ui_layer" />
+</map>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="498,377">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="有附加属性"/>
+    <remark page="1" value="没有附加属性"/>
+  </controller>
+  <displayList>
+    <image id="n225_lupe" name="n225" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="0,199" size="498,178" group="n238_tafm" color="#2b3448"/>
+    <image id="n222_lupe" name="n222" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="170,221" size="399,81" group="n238_tafm" scale="0.4,0.43" color="#34405a"/>
+    <richtext id="n99_a01c" name="lbExtraEff" xy="184,272" pivot="0.5,0" size="124,29" group="n238_tafm" fontSize="20" color="#ddfbff" align="center" ubb="true" autoClearText="true" text="全体暴击+5%"/>
+    <text id="n98_a01c" name="n98" xy="201,222" pivot="0.5,0.5" size="91,32" group="n238_tafm" fontSize="22" color="#8bb4e7" vAlign="middle" text="额外特性"/>
+    <group id="n238_tafm" name="gExtraTitle" xy="0,199" size="569,178" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+    <image id="n224_lupe" name="n224" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="0,73" size="498,116" group="n239_tafm" color="#2b3448"/>
+    <image id="n223_lupe" name="n223" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="169,94" size="399,81" group="n239_tafm" scale="0.4,0.43" color="#34405a"/>
+    <text id="n104_a01c" name="n104" xy="201,96" pivot="0.5,0.5" size="91,32" group="n239_tafm" fontSize="22" color="#8bb4e7" vAlign="middle" text="基础效果"/>
+    <text id="n105_a01c" name="lbBaseAttr" xy="169,144" pivot="0.5,0.5" size="155,29" group="n239_tafm" fontSize="20" color="#ddfbff" vAlign="middle" autoClearText="true" text="全体生命+10000"/>
+    <text id="n106_a01c" name="desc" xy="19,0" size="457,61" group="n239_tafm" fontSize="22" color="#ffffff" vAlign="middle" autoSize="none" autoClearText="true" text="宇宙中最可怕的物品之一，能够否召唤神描述秒犬协助作战"/>
+    <group id="n239_tafm" name="gInfo" xy="0,0" size="568,189" advanced="true"/>
+  </displayList>
+</component>

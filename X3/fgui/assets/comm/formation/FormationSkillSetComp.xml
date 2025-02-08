@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="358,115" pivot="0.5,0.5" extention="Button">
+  <controller name="setFlag" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="没有宠物上阵"/>
+    <remark page="1" value="宠物上阵"/>
+  </controller>
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <controller name="location" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="左侧"/>
+    <remark page="1" value="右侧"/>
+  </controller>
+  <displayList>
+    <image id="n0_ad60" name="bgMask" src="dbz0vvv1h9" fileName="formation/bantoudi.png" xy="179,92" pivot="0.5,0.5" anchor="true" size="358,45">
+      <gearSize controller="location" pages="1" values="358,45,-1,1" default="358,45,1,1"/>
+    </image>
+    <image id="n35_z7ud" name="bg" src="dbz0vvv1ha" fileName="formation/daojukuang.png" xy="81,5" group="n30_fxoc"/>
+    <image id="n29_fxoc" name="n29" src="dbz0vvv1he" fileName="formation/jia_btn.png" xy="151,29" pivot="0.5,0.5" group="n30_fxoc">
+      <gearSize controller="button" pages="1" values="45,45,0.7,0.7" default="45,45,1,1" tween="true" duration=".1"/>
+    </image>
+    <group id="n30_fxoc" name="gNone" xy="81,5" size="177,98" advanced="true">
+      <gearDisplay controller="setFlag" pages="0"/>
+    </group>
+    <component id="n37_dbz0" name="pInfo" src="dbz0vvv1hg" fileName="formation/FormationSkillIcon.xml" xy="169,53">
+      <gearDisplay controller="setFlag" pages="1"/>
+    </component>
+    <image id="n27_ad60" name="imageChange" src="e6dcvvv1dp" fileName="btnImage/shuaxin_btn.png" xy="227,0"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="185,232">
+  <controller name="c1" alias="标识" pages="0,noTag,1,hot,2,suggest,3,firstBuy" selected="1"/>
+  <controller name="c2" alias="售罄" pages="0,InStock,1,SoldOut" selected="0"/>
+  <displayList>
+    <image id="n13_71c5" name="itemBg" src="htcc3h" fileName="img/mryh_ka1.png" xy="0,9"/>
+    <component id="n27_jis3" name="itemFrame" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="36,32"/>
+    <component id="n29_jis3" name="heroItem" src="woygvvv1if" fileName="item/HeroBaseItem.xml" pkg="38fa8c75" xy="88,78" pivot="0.5,0.5" anchor="true"/>
+    <richtext id="n22_71c5" name="limitLabel" xy="88,151" pivot="0.5,0.5" anchor="true" size="257,29" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" strokeColor="#263074" strokeSize="3" singleLine="true" text="每日限购限购限购&lt;color=#56FE9D&gt;000/0010&lt;/color&gt;"/>
+    <component id="n17_71c5" name="buyBtn" src="jis3vvv1b6" fileName="btn/buyBtn.xml" xy="13,167"/>
+    <image id="n30_gwdp" name="sell" src="be4119" fileName="img/zu18kaobei3.png" xy="141,-14" size="56,56" aspect="true">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <image id="n23_71c5" name="n23" src="71c517" fileName="img/shougou.png" xy="121,0">
+      <gearDisplay controller="c1" pages="3"/>
+    </image>
+    <image id="n31_gwdp" name="n31" src="be4118" fileName="img/sdbq_frame.png" xy="141,-14" size="56,56" group="n33_gwdp"/>
+    <text id="n32_gwdp" name="hotLab" xy="146,0" size="44,29" group="n33_gwdp" fontSize="20" color="#ffe983" italic="true" strokeColor="#b00000" strokeSize="2" text="热门"/>
+    <group id="n33_gwdp" name="hot" xy="141,-14" size="56,56" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <image id="n24_htcc" name="n24" src="71c59" fileName="img/mryh_ka2.png" xy="0,9" group="n26_htcc" alpha="0.5"/>
+    <image id="n25_htcc" name="n25" src="htcc3u" fileName="img/sd_A_common_sq_tag.png" xy="40,105" group="n26_htcc"/>
+    <group id="n26_htcc" name="soldOutLayer" xy="0,9" size="179,223" advanced="true">
+      <gearDisplay controller="c2" pages="1"/>
+    </group>
+  </displayList>
+</component>

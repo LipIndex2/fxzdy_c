@@ -1,0 +1,300 @@
+
+quredenglu_zhanzhengzhiying.png
+size: 641,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: 270
+  xy: 154, 280
+  size: 186, 131
+  orig: 186, 131
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 431, 410
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 2, 390
+  size: 138, 144
+  orig: 138, 144
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: 180
+  xy: 590, 91
+  size: 48, 53
+  orig: 48, 54
+  offset: 0, 1
+  index: -1
+J zd12
+  rotate: 180
+  xy: 576, 369
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 270, 49
+  size: 73, 92
+  orig: 74, 92
+  offset: 1, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 391, 198
+  size: 101, 90
+  orig: 103, 92
+  offset: 1, 1
+  index: -1
+J zd15
+  rotate: true
+  xy: 334, 429
+  size: 105, 95
+  orig: 108, 97
+  offset: 1, 1
+  index: -1
+J zd16
+  rotate: 270
+  xy: 24, 125
+  size: 410, 184
+  orig: 410, 184
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: true
+  xy: 2, 6
+  size: 40, 43
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 138, 12
+  size: 54, 61
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 491, 99
+  size: 101, 97
+  orig: 102, 97
+  offset: 1, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 430, 301
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 126, 509
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: true
+  xy: 2, 294
+  size: 97, 91
+  orig: 97, 92
+  offset: 0, 1
+  index: -1
+J zd22
+  rotate: false
+  xy: 565, 160
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: 180
+  xy: 237, 315
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: false
+  xy: 2, 386
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: true
+  xy: 195, 12
+  size: 73, 77
+  orig: 74, 77
+  offset: 1, 0
+  index: -1
+J zd26
+  rotate: true
+  xy: 391, 109
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+J zd27
+  rotate: 270
+  xy: 293, 118
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+J zd28
+  rotate: false
+  xy: 431, 510
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+J zd29
+  rotate: 180
+  xy: 521, 288
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: 270
+  xy: 129, 74
+  size: 88, 162
+  orig: 89, 162
+  offset: 1, 0
+  index: -1
+J zd30
+  rotate: true
+  xy: 204, 464
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+J zd31
+  rotate: false
+  xy: 92, 5
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+J zd32
+  rotate: true
+  xy: 361, 32
+  size: 64, 82
+  orig: 65, 83
+  offset: 1, 1
+  index: -1
+J zd33
+  rotate: 270
+  xy: 63, 26
+  size: 68, 79
+  orig: 68, 80
+  offset: 0, 1
+  index: -1
+J zd34
+  rotate: false
+  xy: 286, 455
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+J zd35
+  rotate: 270
+  xy: 476, 32
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+J zd36
+  rotate: false
+  xy: 573, 242
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+J zd37
+  rotate: true
+  xy: 15, 48
+  size: 91, 120
+  orig: 91, 121
+  offset: 0, 1
+  index: -1
+J zd38
+  rotate: false
+  xy: 483, 199
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 2, 223
+  size: 46, 69
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 152, 118
+  size: 140, 161
+  orig: 140, 161
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 552, 16
+  size: 61, 91
+  orig: 62, 92
+  offset: 1, 1
+  index: -1
+J zd7
+  rotate: 270
+  xy: 507, 422
+  size: 113, 88
+  orig: 113, 95
+  offset: 0, 7
+  index: -1
+J zd8
+  rotate: 180
+  xy: 293, 247
+  size: 148, 166
+  orig: 149, 166
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 64, 130
+  size: 163, 161
+  orig: 163, 162
+  offset: 0, 1
+  index: -1
+attack2_03_00000
+  rotate: false
+  xy: 265, 10
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+attack2_03_00001
+  rotate: true
+  xy: 596, 446
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+attack2_03_00002
+  rotate: false
+  xy: 431, 3
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1

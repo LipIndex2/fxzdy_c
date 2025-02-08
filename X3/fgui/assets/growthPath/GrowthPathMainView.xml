@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1ktl0c6h">
+  <displayList>
+    <image id="n64_tl0c" name="adapt_bg" src="g2564c" fileName="img/czzl_bg.jpg" xy="0,0" size="750,1626">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n68_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#9ebad0">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n2_ed86" name="n2" src="ed862" fileName="img/leinuo.png" xy="220,232" group="n69_i83d"/>
+    <image id="n40_ed86" name="n40" src="ed8628" fileName="img/xiaotanji.png" xy="400,278" group="n69_i83d"/>
+    <image id="n41_ed86" name="n41" src="ed8629" fileName="img/shuijiao.png" xy="455,224" group="n69_i83d"/>
+    <component id="n3_ed86" name="rewardP" src="tl0c49" fileName="components/GrowthPathPanelComp.xml" xy="20,400" group="n69_i83d"/>
+    <group id="n69_i83d" name="n69" xy="20,224" size="710,458" group="n59_tl0c" advanced="true"/>
+    <text id="n31_ed86" name="labelTimeTitle" xy="17,133" size="133,34" group="n70_i83d" fontSize="24" color="#fff58b" vAlign="middle" strokeColor="#060606" strokeSize="3" text="活动倒计时:"/>
+    <text id="n32_ed86" name="labelTime" xy="160,133" size="119,34" group="n70_i83d" fontSize="24" color="#6ff36f" vAlign="middle" strokeColor="#102902" strokeSize="3" text="5天30小时">
+      <relation target="n31_ed86" sidePair="left-right"/>
+    </text>
+    <text id="n34_ed86" name="labelTitle" xy="19,59" size="194,64" group="n70_i83d" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="成长之路"/>
+    <component id="n38_ed86" name="btnReward" src="tl0c4b" fileName="btn/GrowthPathRewardButton.xml" xy="646,132" group="n70_i83d"/>
+    <component id="n61_tl0c" name="header1" src="gkgvvvv19n" fileName="header/HeaderItem3.xml" pkg="38fa8c75" xy="322,77" group="n70_i83d" controller="showAdd,1"/>
+    <component id="n65_tl0c" name="header2" src="gkgvvvv19n" fileName="header/HeaderItem3.xml" pkg="38fa8c75" xy="482,77" group="n70_i83d" controller="showAdd,1"/>
+    <group id="n70_i83d" name="n70" xy="17,59" size="712,180" group="n59_tl0c" advanced="true"/>
+    <group id="n59_tl0c" name="G_head" xy="17,59" size="713,623" advanced="true"/>
+    <list id="n60_tl0c" name="rowList" xy="20,693" size="725,523" overflow="scroll" lineGap="10" defaultItem="ui://cb0a7c04tl0c44" autoClearItems="true">
+      <relation target="" sidePair="height-height,center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n69_i83d" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n70_i83d" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n69_i83d" tween="true" startValue="20,324" endValue="20,224" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n70_i83d" tween="true" startValue="17,-41" endValue="17,59" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

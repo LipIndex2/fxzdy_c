@@ -1,0 +1,174 @@
+
+zhanduikeji.png
+size: 500,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8
+  rotate: false
+  xy: 269, 313
+  size: 130, 169
+  orig: 163, 210
+  offset: 13, 12
+  index: -1
+J zd0
+  rotate: true
+  xy: 401, 218
+  size: 264, 92
+  orig: 264, 102
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 395, 32
+  size: 163, 103
+  orig: 163, 103
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 2, 265
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 2, 321
+  size: 265, 161
+  orig: 265, 161
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 120, 89
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 2, 215
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 47, 306
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 200, 169
+  size: 32, 28
+  orig: 34, 28
+  offset: 1, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 157, 36
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 2, 41
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 120, 41
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 67, 198
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 234, 130
+  size: 181, 217
+  orig: 181, 217
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 357, 184
+  size: 71, 22
+  orig: 71, 22
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: false
+  xy: 51, 197
+  size: 221, 135
+  orig: 221, 135
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 131
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: 180
+  xy: 328, 3
+  size: 97, 90
+  orig: 102, 96
+  offset: 3, 2
+  index: -1
+J zd5
+  rotate: false
+  xy: 353, 208
+  size: 78, 64
+  orig: 98, 77
+  offset: 19, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 460, 208
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 228, 17
+  size: 101, 63
+  orig: 101, 63
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: 180
+  xy: 170, 65
+  size: 190, 100
+  orig: 190, 100
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 362, 99
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 64
+  size: 116, 65
+  orig: 122, 68
+  offset: 4, 0
+  index: -1

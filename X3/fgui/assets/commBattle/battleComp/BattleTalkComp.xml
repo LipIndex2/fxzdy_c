@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1" pivot="0.38,1" anchor="true">
+  <displayList>
+    <image id="n0_w6zo" name="n0" src="w6zovvv1ea" fileName="battleImage/battle_talk.png" xy="-37,-56" size="122,57">
+      <relation target="n1_w6zo" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </image>
+    <text id="n1_w6zo" name="label" xy="-18,-49" size="91,32" restrictSize="0,250,0,0" fontSize="22" color="#0066ff" vAlign="middle" text="啊啊啊啊">
+      <relation target="" sidePair="bottom-bottom"/>
+    </text>
+  </displayList>
+</component>

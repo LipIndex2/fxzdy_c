@@ -1,0 +1,48 @@
+
+attack_upper.png
+size: 256,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk1_daoguang_00000
+  rotate: false
+  xy: 2, 4
+  size: 109, 127
+  orig: 128, 160
+  offset: 10, 28
+  index: -1
+effect/atk1_daoguang_00001
+  rotate: false
+  xy: 113, 2
+  size: 54, 129
+  orig: 128, 160
+  offset: 10, 16
+  index: -1
+effect/atk1_daoguang_00002
+  rotate: false
+  xy: 169, 19
+  size: 32, 112
+  orig: 128, 160
+  offset: 8, 10
+  index: -1
+effect/atk1_daoguang_00003
+  rotate: false
+  xy: 203, 51
+  size: 32, 80
+  orig: 128, 160
+  offset: 8, 9
+  index: -1
+effect/atk1_daoguang_00004
+  rotate: false
+  xy: 203, 6
+  size: 29, 43
+  orig: 128, 160
+  offset: 13, 7
+  index: -1
+effect/skill01_fang
+  rotate: true
+  xy: 234, 15
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1

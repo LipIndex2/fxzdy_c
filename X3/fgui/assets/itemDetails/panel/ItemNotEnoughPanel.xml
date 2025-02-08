@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="646,785">
+  <displayList>
+    <loader id="n0_2952" name="n0" xy="0,0" size="646,785" group="n14_e53p" url="ui://b20e1226295215" fill="scaleFree"/>
+    <image id="n1_2952" name="n1" src="p04m72" fileName="img/jiantoudiwen.png" xy="119,100" group="n14_e53p" alpha="0.52"/>
+    <image id="n2_2952" name="n2" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="40,234" size="566,519" group="n14_e53p" alpha="0.18"/>
+    <text id="n3_2952" name="n3" xy="318,52" pivot="0.5,0.5" anchor="true" size="592,108" group="n14_e53p" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="当前资源不足，可以从以下途径获取"/>
+    <text id="n4_2952" name="numLab" xy="319,206" pivot="0.5,0.5" anchor="true" size="406,108" group="n14_e53p" fontSize="22" color="#8bf3ff" align="center" vAlign="middle" autoSize="none" text="200/300"/>
+    <component id="n5_2952" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="268,79" size="104,180" group="n14_e53p"/>
+    <list id="n13_p04m" name="itemList" xy="62,245" size="522,499" group="n14_e53p" overflow="scroll" lineGap="7" defaultItem="ui://b20e1226p04m29" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n14_e53p" name="n14" xy="0,-2" size="646,787" advanced="true"/>
+  </displayList>
+</component>

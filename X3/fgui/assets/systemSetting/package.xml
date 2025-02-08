@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="b04b0bf1">
+  <resources>
+    <image id="cc670" name="tuceng1128.jpg" path="/img/"/>
+    <image id="cc673" name="img_sound_music.png" path="/imgExport/" exported="true"/>
+    <image id="cc674" name="img_shake.png" path="/imgExport/" exported="true"/>
+    <image id="cc675" name="img_sound_effect.png" path="/imgExport/" exported="true"/>
+    <image id="cc676" name="sd_A_common_dakai1_btn_4.png" path="/img/"/>
+    <image id="cc677" name="sd_A_common_dakai_btn_3.png" path="/img/"/>
+    <image id="cc678" name="zu71kaobei.png" path="/img/"/>
+    <image id="cc679" name="zu71kaobei2.png" path="/img/"/>
+    <image id="cc6710" name="sd_A_common_fubiao_frame.png" path="/img/"/>
+    <image id="cc6711" name="xiaobiaotiditianchongyanse.png" path="/img/"/>
+    <image id="cc6712" name="xiaobiaokaobei.png" path="/img/"/>
+    <image id="cc6713" name="sd_A_common_gouxuan_frame.png" path="/img/"/>
+    <image id="cc6714" name="sd_A_common_gou_btn.png" path="/img/"/>
+    <image id="cc6715" name="sd_A_common_buzhen_btn.png" path="/img/"/>
+    <image id="cc6717" name="fengexiantianchongyanse.png" path="/img/"/>
+    <image id="cc6718" name="zu73kaobei2.png" path="/img/"/>
+    <image id="cc6720" name="scale_70%_sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="cc6721" name="biaotiditianchongyanse.png" path="/img/"/>
+    <image id="cc6722" name="sd_A_common_dakai1_btn.png" path="/img/"/>
+    <component id="cc6723" name="DemoView.xml" path="/"/>
+    <component id="i4ei24" name="SystemSettingOneRowComp.xml" path="/components/"/>
+    <component id="i4ei25" name="SystemSettingRemindView.xml" path="/"/>
+    <component id="i4ei26" name="SystemSettingSwitchBtn.xml" path="/btn/"/>
+    <component id="i4ei27" name="SystemSettingBaseComp.xml" path="/components/"/>
+    <component id="i4ei28" name="SystemSettingBatteryBtn.xml" path="/btn/"/>
+    <component id="i4ei2a" name="SystemSettingBaseView.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

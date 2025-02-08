@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,32">
+  <controller name="lockState" pages="0,,1," selected="0">
+    <remark page="0" value="未解锁"/>
+    <remark page="1" value="已解锁"/>
+  </controller>
+  <displayList>
+    <image id="n291_tiub" name="n291" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="7,3" scale="0.4,0.4">
+      <gearDisplay controller="lockState" pages="0"/>
+    </image>
+    <image id="n292_tiub" name="n292" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="0,2" scale="0.6,0.6">
+      <gearDisplay controller="lockState" pages="1"/>
+    </image>
+    <text id="n294_tiub" name="T_cond" xy="35,0" size="463,32" fontSize="22" color="#ffffff" vAlign="middle" autoSize="height" autoClearText="true" text="无人机轰炸会对降低目标攻速">
+      <gearColor controller="lockState" pages="0" values="#ffffff,#000000" default="#19df51,#000000"/>
+    </text>
+  </displayList>
+</component>

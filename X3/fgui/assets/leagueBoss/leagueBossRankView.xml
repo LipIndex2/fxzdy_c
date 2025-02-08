@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_bc8b" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="35,164" size="682,1014" group="n34_sh62"/>
+    <image id="n1_bc8b" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="57,251" size="638,803" group="n34_sh62"/>
+    <text id="n2_bc8b" name="n2" xy="340,192" size="99,44" group="n34_sh62" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="排行榜"/>
+    <list id="n31_sh62" name="tabList" xy="56,1072" size="640,70" group="n34_sh62" layout="row" overflow="scroll" scroll="horizontal" colGap="13" defaultItem="ui://78157e75sh628b">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n32_sh62" name="rankList" xy="57,272" size="620,651" group="n34_sh62" overflow="scroll" lineGap="15" defaultItem="ui://72zq62eash628c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n33_sh62" name="myRank" src="sh628c" fileName="league/component/leagueRankCell.xml" pkg="72zq62ea" xy="57,937" group="n34_sh62" controller="rank,6"/>
+    <group id="n34_sh62" name="n34" xy="35,164" size="682,1014" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

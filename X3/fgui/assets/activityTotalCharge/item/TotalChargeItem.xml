@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,188">
+  <displayList>
+    <image id="n3_95c2" name="n3" src="95c23" fileName="img/liebiao_2.png" xy="0,0"/>
+    <text id="n10_95c2" name="lbName" xy="45,14" size="148,36" fontSize="26" color="#fbf5ff" vAlign="middle" text="累计充值6元"/>
+    <text id="n11_95c2" name="lbProgress" xy="586,16" pivot="1,0" size="52,39" fontSize="28" color="#ffffff" align="right" vAlign="middle" strokeColor="#000000" strokeSize="3" text="5/6"/>
+    <component id="n13_ni07" name="btnDraw" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="490,85" size="161,73">
+      <Button titleFontSize="30"/>
+    </component>
+    <component id="n14_ni07" name="btnGoto" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="490,85" size="161,73">
+      <Button title="前往" titleFontSize="30"/>
+    </component>
+    <component id="n15_oc78" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="644,90"/>
+    <list id="n12_ni07" name="listReward" xy="26,-2" size="420,180" layout="row" overflow="scroll" scroll="horizontal" colGap="-2" defaultItem="ui://38fa8c75rsg0vvv1gk" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

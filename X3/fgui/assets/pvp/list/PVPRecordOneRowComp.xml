@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="568,124" designImage="ui://7q3fcj1kffqt5s" designImageOffsetX="-90" designImageOffsetY="-304">
+  <displayList>
+    <image id="n199_b6a2" name="n199" src="b6a2110" fileName="img/tuceng5862.png" xy="0,0"/>
+    <component id="n293_j7r4" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="8,8" scale="0.8,0.8"/>
+    <text id="n202_b6a2" name="labelPlayerName" xy="108,20" size="231,32" fontSize="22" color="#f7f9fd" autoSize="none" strokeColor="#010e16" strokeSize="2" singleLine="true" text="无敌宇宙帅气"/>
+    <richtext id="n203_b6a2" name="labelScore" xy="182,59" size="162,32" fontSize="22" color="#ffffff" vAlign="middle" ubb="true" vars="true" autoSize="none" strokeColor="#010e16" strokeSize="2" singleLine="true" text="2500[color=#00ff00]+20[/color]"/>
+    <component id="n290_gkgv" name="logoRank" src="gkgv15r" fileName="logo/PVPRankSmallLogoComp.xml" xy="109,54" scale="0.8,0.8"/>
+    <richtext id="n205_b6a2" name="labelTime" xy="447,83" pivot="0.5,0.5" size="79,26" group="n292_qlui" fontSize="18" color="#32ef98" align="center" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="2" singleLine="true" text="20分钟前">
+      <relation target="n291_qlui" sidePair="center-center"/>
+    </richtext>
+    <component id="n291_qlui" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="440,8" group="n292_qlui" scale="0.8,0.8"/>
+    <group id="n292_qlui" name="n292" xy="440,8" size="90,101"/>
+  </displayList>
+</component>

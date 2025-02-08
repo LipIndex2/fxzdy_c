@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_49e1" name="img_bg" src="49e10" fileName="img/kfth_bg.png" xy="-49,-4" group="n47_cnp5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n55_ssxx" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,100" pivot="0.5,1" anchor="true" size="750,220" group="n47_cnp5" color="#fbb34c">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n2_49e1" name="n2" src="49e12" fileName="img/tuceng89.png" xy="22,169" group="n47_cnp5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_49e1" name="n1" src="49e11" fileName="img/xingzhuang23kaobei.png" xy="8,131" group="n47_cnp5">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <image id="n3_49e1" name="n3" src="49e13" fileName="img/daojishi.png" xy="51,136" group="n47_cnp5">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <text id="n4_49e1" name="lb_time" xy="69,131" size="218,29" group="n47_cnp5" fontSize="20" color="#ffa872" vAlign="middle" text="活动倒计时：6天20小时">
+      <relation target="" sidePair="top-top"/>
+    </text>
+    <text id="n5_49e1" name="n5" xy="53,32" size="321,104" group="n47_cnp5" fontSize="80" color="#ffffff" vAlign="middle" strokeColor="#b74c11" strokeSize="4" text="开服特惠">
+      <relation target="" sidePair="top-top"/>
+    </text>
+    <component id="n6_49e1" name="scr_item" src="cnp52c" fileName="item/RookieSaleScrItem.xml" xy="0,180" size="750,984" group="n47_cnp5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n54_cnp5" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="482,72" group="n47_cnp5"/>
+    <group id="n47_cnp5" name="n47" xy="-49,-120" size="810,1669" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

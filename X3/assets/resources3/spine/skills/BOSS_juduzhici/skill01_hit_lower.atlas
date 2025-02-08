@@ -1,0 +1,83 @@
+
+skill01_hit_lower.png
+size: 489,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_dilie
+  rotate: false
+  xy: 424, 66
+  size: 28, 107
+  orig: 38, 128
+  offset: 3, 10
+  index: -1
+effect/skill01_hitdilie
+  rotate: false
+  xy: 2, 85
+  size: 216, 88
+  orig: 220, 100
+  offset: 2, 6
+  index: -1
+effect/skill01_hitlower
+  rotate: false
+  xy: 2, 3
+  size: 199, 80
+  orig: 200, 100
+  offset: 1, 10
+  index: -1
+effect/skill01_ring_00000
+  rotate: false
+  xy: 420, 15
+  size: 19, 45
+  orig: 64, 128
+  offset: 23, 42
+  index: -1
+effect/skill01_ring_00001
+  rotate: false
+  xy: 454, 94
+  size: 33, 79
+  orig: 64, 128
+  offset: 16, 25
+  index: -1
+effect/skill01_ring_00002
+  rotate: true
+  xy: 320, 12
+  size: 41, 98
+  orig: 64, 128
+  offset: 12, 15
+  index: -1
+effect/skill01_ring_00003
+  rotate: false
+  xy: 375, 62
+  size: 47, 111
+  orig: 64, 128
+  offset: 9, 9
+  index: -1
+effect/skill01_ring_00004
+  rotate: false
+  xy: 273, 55
+  size: 50, 118
+  orig: 64, 128
+  offset: 8, 5
+  index: -1
+effect/skill01_ring_00005
+  rotate: false
+  xy: 220, 53
+  size: 51, 120
+  orig: 64, 128
+  offset: 7, 4
+  index: -1
+effect/skill01_ring_00006
+  rotate: false
+  xy: 325, 61
+  size: 48, 112
+  orig: 64, 128
+  offset: 9, 8
+  index: -1
+effect/skill01_ring_00007
+  rotate: true
+  xy: 203, 2
+  size: 49, 115
+  orig: 64, 128
+  offset: 8, 7
+  index: -1

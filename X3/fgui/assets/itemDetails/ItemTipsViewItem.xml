@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="412,90">
+  <displayList>
+    <image id="n31_m3sn" name="n31" src="gkgvvvv19v" fileName="bg/tisp3_frame.png" pkg="38fa8c75" xy="0,0" size="412,90"/>
+    <component id="n32_m3sn" name="goBtn" src="p3xcvvv1e8" fileName="btn/ItemTipsItemButton.xml" pkg="72zq62ea" xy="353,22"/>
+    <text id="n33_m3sn" name="nameLab" xy="12,16" pivot="0,0.5" size="204,62" fontSize="22" color="#8bf3ff" vAlign="middle" autoSize="none" text="挂机获取"/>
+    <text id="n34_m3sn" name="desLab" xy="224,15" pivot="1,0" size="113,32" group="n38_c8g7" fontSize="22" color="#d5f7fb" align="right" vAlign="middle" text="可收取数量"/>
+    <loader id="n35_m3sn" name="itemIcon1" xy="277,63" pivot="0.5,0.5" anchor="true" size="30,33" group="n40_c8g7" url="ui://b20e1226965b39" fill="scaleFree">
+      <relation target="n36_m3sn" sidePair="left-left"/>
+    </loader>
+    <text id="n36_m3sn" name="numLab1" xy="337,48" pivot="1,0" anchor="true" size="44,32" group="n40_c8g7" fontSize="22" color="#f8feff" align="right" vAlign="middle" text="123"/>
+    <group id="n40_c8g7" name="item1" xy="262,46" size="75,33" group="n38_c8g7" advanced="true"/>
+    <loader id="n41_c8g7" name="itemIcon2" xy="197,63" pivot="0.5,0.5" anchor="true" size="30,33" group="n43_c8g7" url="ui://b20e1226965b39" fill="scaleFree">
+      <relation target="n42_c8g7" sidePair="left-left"/>
+    </loader>
+    <text id="n42_c8g7" name="numLab2" xy="257,48" pivot="1,0" anchor="true" size="44,32" group="n43_c8g7" fontSize="22" color="#f8feff" align="right" vAlign="middle" text="123">
+      <relation target="n35_m3sn" sidePair="left-right"/>
+    </text>
+    <group id="n43_c8g7" name="item2" xy="182,46" size="75,33" group="n38_c8g7" advanced="true"/>
+    <group id="n38_c8g7" name="otherBox" xy="182,15" size="155,65" advanced="true"/>
+  </displayList>
+</component>

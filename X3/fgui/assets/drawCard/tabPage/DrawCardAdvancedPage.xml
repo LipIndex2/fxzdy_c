@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n40_rxmb" name="n40" xy="0,-146" size="750,1626" url="ui://7cvz7rmmrxmbvv1h" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n51_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-56" pivot="0.5,1" anchor="true" size="750,250" color="#1c293d">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n48_rxmb" name="btn_addHero1" src="rxmb58" fileName="btn/BtnAddHero1.xml" xy="313,418">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n3_bbeb" name="n3" src="rxmb56" fileName="img/touxiang_frame.png" xy="274,771" size="210,179" group="n45_rxmb"/>
+    <component id="n49_rxmb" name="btn_addHero2" src="rxmb58" fileName="btn/BtnAddHero1.xml" xy="319,800" group="n45_rxmb" controller="c1,1"/>
+    <component id="n47_rxmb" name="heroItem" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="312,793" group="n45_rxmb" visible="false"/>
+    <group id="n45_rxmb" name="n45" xy="274,771" size="210,184" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n46_rxmb" name="anim" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="219,307" pivot="0.5,1" size="312,364" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n50_e6dc" name="btn_selHero" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="440,929" size="41,34" visible="false">
+      <Button icon="ui://38fa8c75e6dcvvv1dp"/>
+    </component>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n46_rxmb" tween="true" startValue="1" endValue="0" duration="12"/>
+  </transition>
+</component>

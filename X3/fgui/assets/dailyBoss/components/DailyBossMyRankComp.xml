@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="379,47">
+  <controller name="isHaveIn" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n73_ae97" name="n73" src="ae9734" fileName="img/boss_frame.png" xy="0,0" alpha="0.65"/>
+    <image id="n196_ffqt" name="n196" src="ae9735" fileName="img/sd_A_common_boss_tag.png" xy="6,10"/>
+    <text id="n76_ae97" name="labelTitle" xy="48,5" pivot="0.5,0.5" size="107,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" singleLine="true" text="本服排名"/>
+    <text id="n197_ffqt" name="labelRankNum" xy="156,5" pivot="0.5,0.5" size="113,36" group="n198_caj9" fontSize="26" color="#f9c750" align="center" vAlign="middle" vars="true" autoSize="none" text="第{rankNum=1}名"/>
+    <component id="n78_ae97" name="btnSeeReward" src="caj910l" fileName="btn/DailyBossSeeRewardBtn.xml" xy="270,9" group="n198_caj9"/>
+    <group id="n198_caj9" name="haveP" xy="156,5" size="209,36" advanced="true">
+      <gearDisplay controller="isHaveIn" pages="1"/>
+    </group>
+    <text id="n199_caj9" name="labelNoTips" xy="214,6" pivot="0.5,0.5" size="113,36" group="n201_caj9" fontSize="22" color="#838c9f" align="center" vAlign="middle" vars="true" autoSize="none" text="未上榜"/>
+    <group id="n201_caj9" name="noP" xy="214,6" size="113,36" advanced="true">
+      <gearDisplay controller="isHaveIn" pages="0"/>
+    </group>
+  </displayList>
+</component>

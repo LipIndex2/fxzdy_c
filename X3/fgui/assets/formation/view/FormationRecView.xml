@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n3_95cd" name="n3" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="34,140" size="682,1054" group="n72_ssxx"/>
+    <image id="n4_95cd" name="n4" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,227" size="638,843" group="n72_ssxx"/>
+    <list id="n68_ssxx" name="list_tab" xy="57,1090" size="641,71" group="n72_ssxx" layout="row" overflow="scroll" scroll="horizontal" lineGap="10" colGap="13" defaultItem="ui://4hj3fle9ssxx27">
+      <item/>
+      <item/>
+    </list>
+    <list id="n70_ssxx" name="list_rec" xy="69,237" size="611,816" group="n72_ssxx" overflow="scroll" lineGap="10" defaultItem="ui://4hj3fle9ssxx29">
+      <item/>
+      <item/>
+    </list>
+    <group id="n72_ssxx" name="n72" xy="34,140" size="682,1054" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

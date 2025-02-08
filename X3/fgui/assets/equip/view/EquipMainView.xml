@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n72_pf1a" name="n72" xy="0,-146" size="750,1626" url="ui://7cvz7rmmpf1ay" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n102_s0hy" name="top_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-60" pivot="0.5,1" anchor="true" size="750,400" color="#142141">
+      <relation target="" sidePair="middle-middle"/>
+    </image>
+    <loader id="n73_pf1a" name="n73" xy="220,234" size="259,412" url="ui://0850c61ed2051" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n101_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="350,440">
+      <relation target="n73_pf1a" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n74_pf1a" name="n74" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="168,18" group="n76_pf1a"/>
+    <image id="n75_pf1a" name="n75" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="375,18" group="n76_pf1a" flip="hz"/>
+    <component id="n106_lb79" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="470,44" group="n76_pf1a"/>
+    <text id="n7_d205" name="n7" xy="374,61" pivot="0.5,0.5" anchor="true" size="99,64" group="n76_pf1a" fontSize="48" color="#052664" align="center" vAlign="middle" text="装备"/>
+    <group id="n76_pf1a" name="n76" xy="168,18" size="414,89" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <image id="n105_lb79" name="n105" src="tml513a" fileName="bgImage/zhanli1_frame.png" pkg="38fa8c75" xy="240,122" group="n77_pf1a"/>
+    <text id="n3_d205" name="T_fight" xy="405,161" pivot="0.5,0.5" anchor="true" size="136,59" group="n77_pf1a" fontSize="44" color="#fefefe" align="center" vAlign="middle" text="28399"/>
+    <group id="n77_pf1a" name="n77" xy="240,122" size="277,78" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n98_pf1a" name="btn_wear" src="pf1a39" fileName="btn/wearBtn.xml" xy="390,1057" size="310,121">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n103_k045" name="btn_recycle" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="50,1058" size="310,120">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="装备回收"/>
+    </component>
+    <component id="n87_pf1a" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1212" size="750,122">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n108_s4ij" name="item1" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="36,260" group="n119_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3s"/>
+    </component>
+    <component id="n109_s4ij" name="item2" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="36,416" group="n119_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3z"/>
+    </component>
+    <component id="n110_s4ij" name="item4" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="36,573" group="n119_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3y"/>
+    </component>
+    <group id="n119_vet6" name="leftEquipList" xy="36,260" size="120,433" group="n118_s4ij" advanced="true"/>
+    <component id="n111_s4ij" name="item3" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="593,260" group="n120_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3y"/>
+    </component>
+    <component id="n112_s4ij" name="item5" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="593,416" group="n120_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3t"/>
+    </component>
+    <component id="n114_s4ij" name="item6" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="593,573" group="n120_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3x"/>
+    </component>
+    <group id="n120_vet6" name="rightEquipList" xy="593,260" size="120,433" group="n118_s4ij" advanced="true"/>
+    <image id="n107_lb79" name="n107" src="lb79v3n" fileName="img/bg_bottom.png" xy="83,827" size="583,158" group="n121_vet6"/>
+    <component id="n115_s4ij" name="item7" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="156,847" group="n121_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3v"/>
+    </component>
+    <component id="n116_s4ij" name="item8" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="315,847" group="n121_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3w"/>
+    </component>
+    <component id="n117_s4ij" name="item9" src="lb79v3q" fileName="item/EquipWearItem.xml" xy="476,847" group="n121_vet6">
+      <property target="icon" propertyId="1" value="ui://0850c61es4ijv3u"/>
+    </component>
+    <group id="n121_vet6" name="bottomEquipList" xy="83,827" size="583,158" group="n118_s4ij" advanced="true"/>
+    <group id="n118_s4ij" name="gItem" xy="36,260" size="677,725" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n121_vet6" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="XY" target="n103_k045" tween="true" startValue="50,1258" endValue="50,1058" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n119_vet6" tween="true" startValue="-164,260" endValue="36,260" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n120_vet6" tween="true" startValue="793,260" endValue="593,260" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n121_vet6" tween="true" startValue="83,1027" endValue="83,827" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n98_pf1a" tween="true" startValue="390,1257" endValue="390,1057" duration="12" ease="Back.Out"/>
+    <item time="12" type="Alpha" target="n121_vet6" value="1"/>
+  </transition>
+</component>

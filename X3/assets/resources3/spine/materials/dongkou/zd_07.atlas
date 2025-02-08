@@ -1,0 +1,13 @@
+
+zd_07.png
+size: 391,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_fb_301
+  rotate: false
+  xy: 2, 2
+  size: 387, 389
+  orig: 600, 400
+  offset: 124, 9
+  index: -1

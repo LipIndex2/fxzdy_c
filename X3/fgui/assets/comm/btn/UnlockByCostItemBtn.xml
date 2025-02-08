@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="217,77" pivot="0.5,0.5" extention="Button">
+  <controller name="lvUpState" pages="0,notActive,1,notLvUp,2,haveLvUp" selected="0"/>
+  <displayList>
+    <image id="n30_kp1o" name="imageBtnConfirm" src="47513" fileName="bgImage/changgui_btn.png" xy="0,0" size="312,110" scale="0.7,0.7">
+      <gearDisplay controller="lvUpState" pages="1"/>
+    </image>
+    <text id="n32_piwi" name="labelTips" xy="50,17" size="116,42" fontSize="30" color="#fef2ba" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" singleLine="true" text="未激活">
+      <gearDisplay controller="lvUpState" pages="0,2"/>
+    </text>
+    <text id="n26_8528" name="labelUnlockTitle" xy="50,35" size="116,42" fontSize="30" color="#fef2ba" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" singleLine="true" text="解锁">
+      <gearDisplay controller="lvUpState" pages="1"/>
+    </text>
+    <loader id="n28_8528" name="imageCostItem" xy="74,19" pivot="0.5,0.5" anchor="true" size="30,30" url="ui://2cb2b961852821" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="lvUpState" pages="1"/>
+    </loader>
+    <text id="n27_8528" name="labelCostCount" xy="92,2" size="114,34" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" strokeColor="#000b0f" strokeSize="3" singleLine="true" text="4567">
+      <gearDisplay controller="lvUpState" pages="1"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

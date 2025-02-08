@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="310,80" extention="Button">
+  <controller name="chooseState" pages="0,no,1,yes" selected="0"/>
+  <displayList>
+    <loader id="n4_c21f" name="bgNoChoose" xy="0,5" size="306,68" url="ui://38fa8c75eowx7m" fill="scaleFree">
+      <gearDisplay controller="chooseState" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n5_c21f" name="bgChoose" xy="0,5" size="306,68" url="ui://38fa8c75eowx7o" fill="scaleFree">
+      <gearDisplay controller="chooseState" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n6_c21f" name="labelTitle" xy="18,20" pivot="0.5,0.5" size="273,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#162241" strokeSize="3" text="任务">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n9_eowx" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="301,11" controller="type,2">
+      <relation target="" sidePair="right-right"/>
+    </component>
+  </displayList>
+  <Button mode="Radio" downEffect="dark" downEffectValue=".8"/>
+</component>

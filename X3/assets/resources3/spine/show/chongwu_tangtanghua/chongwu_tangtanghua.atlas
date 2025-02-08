@@ -1,0 +1,160 @@
+
+chongwu_tangtanghua.png
+size: 400,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 335, 31
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+js01
+  rotate: true
+  xy: 231, 121
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 351, 125
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 292, 52
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+js0111
+  rotate: false
+  xy: 325, 89
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 132, 42
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 2, 41
+  size: 145, 149
+  orig: 145, 149
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 47, 15
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 145, 14
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 101, 23
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+js017
+  rotate: true
+  xy: 212, 23
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+js018
+  rotate: true
+  xy: 268, 25
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+js019
+  rotate: true
+  xy: 272, 131
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+js02
+  rotate: true
+  xy: 149, 81
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+js020
+  rotate: 180
+  xy: 2, 23
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 349, 54
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+js04
+  rotate: true
+  xy: 189, 3
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+js05
+  rotate: 270
+  xy: 296, 8
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 182, 37
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 231, 48
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+js08
+  rotate: true
+  xy: 314, 118
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+js09
+  rotate: 180
+  xy: 256, 79
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1

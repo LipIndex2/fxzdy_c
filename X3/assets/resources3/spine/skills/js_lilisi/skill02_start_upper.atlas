@@ -1,0 +1,146 @@
+
+skill02_start_upper.png
+size: 477,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_bianfu_00000
+  rotate: false
+  xy: 144, 6
+  size: 47, 30
+  orig: 50, 50
+  offset: 2, 17
+  index: -1
+effect/skill02_bianfu_00001
+  rotate: false
+  xy: 51, 7
+  size: 45, 34
+  orig: 50, 50
+  offset: 0, 16
+  index: -1
+effect/skill02_bianfu_00002
+  rotate: false
+  xy: 193, 5
+  size: 45, 31
+  orig: 50, 50
+  offset: 1, 16
+  index: -1
+effect/skill02_bianfu_00003
+  rotate: false
+  xy: 240, 11
+  size: 37, 25
+  orig: 50, 50
+  offset: 10, 8
+  index: -1
+effect/skill02_bianfu_00004
+  rotate: false
+  xy: 117, 56
+  size: 22, 36
+  orig: 50, 50
+  offset: 19, 1
+  index: -1
+effect/skill02_bianfu_00005
+  rotate: false
+  xy: 436, 2
+  size: 39, 37
+  orig: 50, 50
+  offset: 11, 0
+  index: -1
+effect/skill02_bianfu_00006
+  rotate: false
+  xy: 98, 8
+  size: 44, 33
+  orig: 50, 50
+  offset: 6, 6
+  index: -1
+effect/skill02_bianfu_00007
+  rotate: false
+  xy: 2, 5
+  size: 47, 36
+  orig: 50, 50
+  offset: 3, 6
+  index: -1
+effect/skill02_shou_00000
+  rotate: false
+  xy: 279, 13
+  size: 28, 23
+  orig: 150, 80
+  offset: 55, 5
+  index: -1
+effect/skill02_shou_00001
+  rotate: true
+  xy: 428, 96
+  size: 58, 36
+  orig: 150, 80
+  offset: 21, 5
+  index: -1
+effect/skill02_shou_00002
+  rotate: false
+  xy: 2, 43
+  size: 113, 49
+  orig: 150, 80
+  offset: 13, 5
+  index: -1
+effect/skill02_shou_00003
+  rotate: false
+  xy: 146, 38
+  size: 129, 55
+  orig: 150, 80
+  offset: 6, 5
+  index: -1
+effect/skill02_shou_00004
+  rotate: false
+  xy: 288, 96
+  size: 138, 60
+  orig: 150, 80
+  offset: 5, 5
+  index: -1
+effect/skill02_shou_00005
+  rotate: false
+  xy: 146, 95
+  size: 140, 61
+  orig: 150, 80
+  offset: 4, 5
+  index: -1
+effect/skill02_shou_00006
+  rotate: false
+  xy: 2, 94
+  size: 142, 62
+  orig: 150, 80
+  offset: 3, 6
+  index: -1
+effect/skill02_shou_00007
+  rotate: false
+  xy: 299, 158
+  size: 144, 63
+  orig: 150, 80
+  offset: 2, 7
+  index: -1
+effect/skill02_shou_00008
+  rotate: false
+  xy: 151, 158
+  size: 146, 63
+  orig: 150, 80
+  offset: 1, 8
+  index: -1
+effect/skill02_shou_00009
+  rotate: false
+  xy: 2, 158
+  size: 147, 63
+  orig: 150, 80
+  offset: 1, 9
+  index: -1
+effect/skill02_shou_00010
+  rotate: false
+  xy: 288, 38
+  size: 146, 56
+  orig: 150, 80
+  offset: 2, 18
+  index: -1
+effect/skill02_shou_00011
+  rotate: false
+  xy: 436, 41
+  size: 35, 53
+  orig: 150, 80
+  offset: 113, 19
+  index: -1

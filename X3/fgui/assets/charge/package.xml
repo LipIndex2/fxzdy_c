@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7cf99be8">
+  <resources>
+    <image id="a6642" name="anniu.png" path="/img/"/>
+    <image id="a6644" name="kapian.png" path="/img/"/>
+    <image id="a6646" name="chaozhiyeqian.png" path="/img/"/>
+    <image id="a66416" name="xingzuanshangdian.png" path="/img/"/>
+    <component id="a66417" name="ChargeMainWin.xml" path="/view/"/>
+    <component id="lhcv18" name="ChargeNormalPage.xml" path="/page/"/>
+    <component id="lhcv19" name="ChargePrivilegeBtn.xml" path="/component/"/>
+    <component id="lhcv1a" name="ChargeProgress.xml" path="/component/"/>
+    <component id="lhcv1b" name="ChargeNormalItem.xml" path="/item/"/>
+    <component id="lhcv1d" name="ChargeNormalRowItem.xml" path="/item/"/>
+    <component id="lhcv1e" name="ChargeTabBtn.xml" path="/component/"/>
+    <image id="lhcv1f" name="bg_item.png" path="/img/"/>
+    <image id="lhcv1g" name="cz_bg.jpg" path="/img/" scale="9grid" scale9grid="100,740,550,266"/>
+    <image id="lhcv1l" name="cz001.png" path="/img/" exported="true"/>
+    <image id="lhcv1m" name="cz002.png" path="/img/" exported="true"/>
+    <image id="lhcv1n" name="sq_tag.png" path="/img/"/>
+    <image id="lhcv1o" name="xgsc001.png" path="/img/" exported="true"/>
+    <image id="lhcv1p" name="xgsc002.png" path="/img/" exported="true"/>
+    <image id="a9480" name="zu15.jpg" path="/img/" scale="9grid" scale9grid="186,332,374,848"/>
+    <image id="a9482" name="tuceng69.png" path="/img/"/>
+    <image id="a9485" name="tubiaodi.png" path="/img/" scale="9grid" scale9grid="5,5,10,10"/>
+    <image id="a94823" name="daojishi.png" path="/img/"/>
+    <image id="k3my37" name="biaoti.png" path="/img/"/>
+    <component id="k3my34" name="ChargeLimitIconItem.xml" path="/item/"/>
+    <component id="k3my33" name="ChargeLimitItem.xml" path="/item/"/>
+    <component id="a94831" name="ChargeLimitPage.xml" path="/page/"/>
+    <component id="k3my35" name="ChargeLimitPageItem.xml" path="/item/"/>
+    <image id="oc7838" name="mrth001.png" path="/img/" exported="true"/>
+    <image id="oc7839" name="mrth002.png" path="/img/" exported="true"/>
+    <image id="oc783a" name="vip001.png" path="/img/" exported="true"/>
+    <image id="oc783b" name="vip002.png" path="/img/" exported="true"/>
+    <image id="g9nr3c" name="xgsc_bg.jpg" path="/img/"/>
+    <image id="6f900" name="yuelibao.png" path="/img/"/>
+    <component id="c3wz32" name="ChargeLimitItem2.xml" path="/item/"/>
+    <component id="loej3d" name="ChargeLimitBuyBtn.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

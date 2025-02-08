@@ -1,0 +1,76 @@
+
+attack_bullet_upper_zi.png
+size: 198,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd10
+  rotate: false
+  xy: 2, 80
+  size: 93, 85
+  orig: 93, 85
+  offset: 0, 0
+  index: -1
+effect/01_zidan2_00000
+  rotate: false
+  xy: 57, 40
+  size: 53, 32
+  orig: 60, 40
+  offset: 3, 3
+  index: -1
+effect/01_zidan2_00001
+  rotate: true
+  xy: 152, 112
+  size: 53, 34
+  orig: 60, 40
+  offset: 3, 3
+  index: -1
+effect/01_zidan2_00002
+  rotate: false
+  xy: 2, 45
+  size: 53, 33
+  orig: 60, 40
+  offset: 3, 5
+  index: -1
+effect/01_zidan2_00003
+  rotate: false
+  xy: 2, 8
+  size: 53, 30
+  orig: 60, 40
+  offset: 3, 8
+  index: -1
+effect/01_zidan2_00004
+  rotate: false
+  xy: 112, 24
+  size: 53, 31
+  orig: 60, 40
+  offset: 3, 7
+  index: -1
+effect/01_zidan2_00005
+  rotate: true
+  xy: 97, 112
+  size: 53, 36
+  orig: 60, 40
+  offset: 3, 2
+  index: -1
+effect/01_zidan2_00006
+  rotate: false
+  xy: 97, 74
+  size: 53, 36
+  orig: 60, 40
+  offset: 3, 2
+  index: -1
+effect/01_zidan2_00007
+  rotate: true
+  xy: 152, 57
+  size: 53, 34
+  orig: 60, 40
+  offset: 3, 2
+  index: -1
+effect/01_zidan2_00008
+  rotate: true
+  xy: 167, 2
+  size: 53, 29
+  orig: 60, 40
+  offset: 3, 2
+  index: -1

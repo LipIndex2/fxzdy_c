@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="176,742" overflow="hidden">
+  <controller name="quality" pages="0,,1,,2," selected="0">
+    <remark page="0" value="蓝色"/>
+    <remark page="1" value="紫色"/>
+    <remark page="2" value="黄色"/>
+  </controller>
+  <displayList/>
+</component>

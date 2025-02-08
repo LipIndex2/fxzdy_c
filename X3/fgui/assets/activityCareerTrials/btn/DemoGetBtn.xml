@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="137,90" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n9_co7o" name="n9" src="rsg0vvv1gl" fileName="img/sd_A_common_qipao-_huang.png" pkg="38fa8c75" xy="0,9" size="120,78"/>
+    <loader id="n10_co7o" name="demoRewardItem" xy="36,43" pivot="0.5,0.5" anchor="true" size="48,48" group="n12_co7o" align="center" vAlign="middle" fill="scaleFree"/>
+    <text id="n11_co7o" name="demoRewardLab" xy="63,30" size="45,32" group="n12_co7o" fontSize="22" color="#ca6b25" vAlign="middle" autoClearText="true" text="x10"/>
+    <group id="n12_co7o" name="n12" xy="12,19" size="96,48" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <component id="n8_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="112,17" size="20,20" controller="type,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

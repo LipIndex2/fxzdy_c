@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334" designImage="ui://7q3fcj1kgvuzsa9">
+  <displayList>
+    <loader id="n45_jhsh" name="banner" xy="374,980" pivot="0.5,1" anchor="true" size="738,802" group="n41_e6dc" url="ui://7cvz7rmmgvuzvv2k" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n57_gvuz" name="n57" src="gvuz4" fileName="img/hdtc_yxsl2.png" xy="40,324" group="n41_e6dc"/>
+    <image id="n58_gvuz" name="n58" src="gvuz5" fileName="img/hdtc_yxsl3.png" xy="278,841" group="n41_e6dc"/>
+    <component id="n46_jhsh" name="btnGoto" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="374,962" pivot="0.5,0.5" anchor="true" size="244,97" group="n41_e6dc">
+      <Button title="前往" titleFontSize="46"/>
+    </component>
+    <richtext id="n48_jhsh" name="lbTime" xy="231,412" pivot="0.5,0.5" anchor="true" size="198,29" group="n41_e6dc" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" autoClearText="true" text="活动倒计时：[color=#3cfe37]8天16时[/color]"/>
+    <text id="n51_jhsh" name="lbAutoTime" xy="398,1043" pivot="0.5,0.5" anchor="true" size="147,34" group="n53_jhsh" fontSize="24" color="#f3f3f5" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="本日不再弹出">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n52_jhsh" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="276,1023" group="n53_jhsh">
+      <relation target="n51_jhsh" sidePair="right-left"/>
+    </component>
+    <group id="n53_jhsh" name="gTodayOnce" xy="276,1023" size="195,40" group="n41_e6dc" advanced="true"/>
+    <group id="n41_e6dc" name="gAll" xy="5,178" size="738,885" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n54_jhsh" name="lbClose" xy="380,1188" pivot="0.5,0.5" anchor="true" size="170,34" fontSize="24" color="#fffefe" align="center" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

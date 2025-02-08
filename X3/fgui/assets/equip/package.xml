@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0850c61e">
+  <resources>
+    <image id="d2051" name="tuceng3.png" path="/img/"/>
+    <image id="d20524" name="sx_001_3.png" path="/img/"/>
+    <image id="d20525" name="sx_001.png" path="/img/" scale="9grid" scale9grid="25,9,5,20"/>
+    <image id="d20526" name="sx_002.png" path="/img/" scale="9grid" scale9grid="20,9,7,18"/>
+    <image id="d20529" name="changgui1_btn.png" path="/img/" scale="9grid" scale9grid="99,0,109,103"/>
+    <image id="d20532" name="pz_frame.png" path="/img/"/>
+    <component id="d20537" name="EquipMainView.xml" path="/view/"/>
+    <component id="pf1a38" name="EquipDetailPage.xml" path="/page/"/>
+    <component id="pf1a39" name="wearBtn.xml" path="/btn/"/>
+    <component id="pf1a3a" name="EquipAttrPage.xml" path="/item/"/>
+    <component id="pf1a3b" name="EquipBagDetailPage.xml" path="/page/"/>
+    <component id="pf1a3c" name="EquipAttrItem.xml" path="/item/"/>
+    <component id="pf1a3d" name="EquipSkillPage.xml" path="/page/"/>
+    <component id="q6dmv3f" name="EquipRecycleWin.xml" path="/view/"/>
+    <component id="q6dmv3j" name="EquipRecycleSelItem.xml" path="/item/"/>
+    <component id="q6dmv3k" name="selBtn.xml" path="/btn/"/>
+    <component id="q6dmv3l" name="EquipSuitAttrTextItem.xml" path="/item/"/>
+    <image id="lb79v3n" name="bg_bottom.png" path="/img/" scale="9grid" scale9grid="51,39,5,20"/>
+    <image id="lb79v3o" name="bg_item.png" path="/img/"/>
+    <component id="lb79v3q" name="EquipWearItem.xml" path="/item/"/>
+    <image id="s4ijv3r" name="zb_00010.png" path="/img/"/>
+    <image id="s4ijv3s" name="zb_00011.png" path="/img/"/>
+    <image id="s4ijv3t" name="zb_00012.png" path="/img/"/>
+    <image id="s4ijv3u" name="zb_00013.png" path="/img/"/>
+    <image id="s4ijv3v" name="zb_00014.png" path="/img/"/>
+    <image id="s4ijv3w" name="zb_00015.png" path="/img/"/>
+    <image id="s4ijv3x" name="zb_0007.png" path="/img/"/>
+    <image id="s4ijv3y" name="zb_0008.png" path="/img/"/>
+    <image id="s4ijv3z" name="zb_0009.png" path="/img/"/>
+    <component id="z7udv40" name="EquipAttrItem1.xml" path="/item/"/>
+    <component id="z7udv41" name="EquipAttrItem2.xml" path="/item/"/>
+    <component id="z7udv42" name="EquipAttrWin.xml" path="/view/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

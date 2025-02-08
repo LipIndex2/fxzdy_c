@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kdx6es9t">
+  <displayList>
+    <component id="n92_dx6e" name="n92" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1034" group="n85_dx6e"/>
+    <image id="n34_bc0f" name="n34" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="108,289" size="533,698" group="n85_dx6e"/>
+    <image id="n89_dx6e" name="n89" src="dx6eo" fileName="img/bantoudi.png" xy="131,376" size="490,570" group="n85_dx6e"/>
+    <image id="n90_dx6e" name="n90" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="145,331" size="237,28" group="n85_dx6e" scale="0.55,0.55"/>
+    <image id="n91_dx6e" name="n91" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="238,330" pivot="1,0" size="237,28" group="n85_dx6e" scale="-0.55,0.55"/>
+    <image id="n86_dx6e" name="n86" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="274,395" size="205,45" group="n85_dx6e" color="#34405a"/>
+    <text id="n37_bc0f" name="n37" xy="318,401" pivot="0.5,0.5" size="115,39" group="n85_dx6e" fontSize="28" color="#f6d860" vAlign="middle" text="组合加成"/>
+    <text id="n52_bc0f" name="lblGroupName" xy="284,316" pivot="0.5,0.5" size="182,42" group="n85_dx6e" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="3" autoClearText="true" text="羁绊组合名字"/>
+    <list id="n88_dx6e" name="list" xy="161,474" size="439,460" group="n85_dx6e" overflow="scroll" lineGap="22" defaultItem="ui://kgeugj0mdx6en" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n85_dx6e" name="root" xy="108,289" size="533,835"/>
+  </displayList>
+</component>

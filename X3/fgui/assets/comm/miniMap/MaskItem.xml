@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="221,141" overflow="hidden">
+  <displayList>
+    <loader id="n10_v891" name="mapBg" xy="85,45" pivot="0.5,0.5" size="50,50" align="center" vAlign="middle" autoSize="true"/>
+    <component id="n12_v891" name="mapItem" src="v891vvv1f2" fileName="miniMap/MiniMapShowBuildingItem.xml" xy="110,70" size="1,1"/>
+    <image id="n11_v891" name="n11" src="r58cvvv1fm" fileName="miniMap/lvdian.png" xy="101,61" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

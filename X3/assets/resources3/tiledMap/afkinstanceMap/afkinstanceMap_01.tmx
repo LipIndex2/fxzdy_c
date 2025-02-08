@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="5" infinite="0" nextlayerid="9" nextobjectid="102" orientation="orthogonal" renderorder="right-down" tiledversion="1.10.2" tileheight="512" tilewidth="512" version="1.10" width="5">
+ <tileset columns="0" firstgid="1" name="building" tilecount="22" tileheight="324" tilewidth="531">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="318" source="../mapTilesets/building/map_door_202.png" width="375" />
+  </tile>
+  <tile id="1">
+   <image height="324" source="../mapTilesets/building/map_scene_2101.png" width="531" />
+  </tile>
+  <tile id="2">
+   <image height="324" source="../mapTilesets/building/map_scene_2102.png" width="531" />
+  </tile>
+  <tile id="3">
+   <image height="167" source="../mapTilesets/building/map_unlock_201.png" width="164" />
+  </tile>
+  <tile id="4">
+   <image height="167" source="../mapTilesets/building/map_unlock_202.png" width="164" />
+  </tile>
+  <tile id="5">
+   <image height="216" source="../mapTilesets/building/map_wall_01.png" width="123" />
+  </tile>
+  <tile id="6">
+   <image height="248" source="../mapTilesets/building/map_wall_02.png" width="124" />
+  </tile>
+  <tile id="7">
+   <image height="211" source="../mapTilesets/building/map_wall_03.png" width="51" />
+  </tile>
+  <tile id="8">
+   <image height="155" source="../mapTilesets/building/map_wall_04.png" width="146" />
+  </tile>
+  <tile id="9">
+   <image height="187" source="../mapTilesets/building/map_wall_05.png" width="73" />
+  </tile>
+  <tile id="10">
+   <image height="149" source="../mapTilesets/building/map_wall_06.png" width="145" />
+  </tile>
+  <tile id="11">
+   <image height="120" source="../mapTilesets/building/map_wall_07.png" width="147" />
+  </tile>
+  <tile id="12">
+   <image height="146" source="../mapTilesets/building/map_wall_201.png" width="119" />
+  </tile>
+  <tile id="13">
+   <image height="159" source="../mapTilesets/building/map_wall_202.png" width="145" />
+  </tile>
+  <tile id="14">
+   <image height="163" source="../mapTilesets/building/map_wall_203.png" width="145" />
+  </tile>
+  <tile id="15">
+   <image height="123" source="../mapTilesets/building/mis_unlocked.png" width="122" />
+  </tile>
+  <tile id="16">
+   <image height="127" source="../mapTilesets/building/teleport.png" width="203" />
+  </tile>
+  <tile id="17">
+   <image height="237" source="../mapTilesets/building/TP.png" width="248" />
+  </tile>
+  <tile id="18">
+   <image height="184" source="../mapTilesets/building/miaozhun.png" width="294" />
+  </tile>
+  <tile id="19">
+   <image height="65" source="../mapTilesets/building/jt01_icon.png" width="60" />
+  </tile>
+  <tile id="20">
+   <image height="66" source="../mapTilesets/building/jt03_icon.png" width="84" />
+  </tile>
+  <tile id="21">
+   <image height="66" source="../mapTilesets/building/jt04_icon.png" width="84" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="23" name="landscape" tilecount="4" tileheight="310" tilewidth="255">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="310" source="../mapTilesets/landscape/map_hero_2108.png" width="255" />
+  </tile>
+  <tile id="1">
+   <image height="310" source="../mapTilesets/landscape/map_hero_2105.png" width="255" />
+  </tile>
+  <tile id="2">
+   <image height="310" source="../mapTilesets/landscape/map_hero_2106.png" width="255" />
+  </tile>
+  <tile id="3">
+   <image height="173" source="../mapTilesets/landscape/map_hero_2107.png" width="255" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="27" name="resources" tilecount="3" tileheight="112" tilewidth="123">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="83" source="../mapTilesets/rescoure/map_mine_2101.png" width="99" />
+  </tile>
+  <tile id="1">
+   <image height="109" source="../mapTilesets/rescoure/map_mine_2102.png" width="109" />
+  </tile>
+  <tile id="2">
+   <image height="112" source="../mapTilesets/rescoure/map_mine_2103.png" width="123" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="30" name="afkinstanceMap" tilecount="12" tileheight="512" tilewidth="512">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="46">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_01.png" width="512" />
+  </tile>
+  <tile id="47">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_02.png" width="512" />
+  </tile>
+  <tile id="48">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_03.png" width="512" />
+  </tile>
+  <tile id="49">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_04.png" width="512" />
+  </tile>
+  <tile id="50">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_05.png" width="512" />
+  </tile>
+  <tile id="51">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_06.png" width="512" />
+  </tile>
+  <tile id="52">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_07.png" width="512" />
+  </tile>
+  <tile id="53">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_08.png" width="512" />
+  </tile>
+  <tile id="54">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_09.png" width="512" />
+  </tile>
+  <tile id="55">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_10.png" width="512" />
+  </tile>
+  <tile id="56">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_11.png" width="512" />
+  </tile>
+  <tile id="57">
+   <image height="512" source="../mapTilesets/afkinstanceMap/guajiMap_12.png" width="512" />
+  </tile>
+ </tileset>
+ <layer height="5" id="1" name="bottom_layer" width="5">
+  <data compression="zlib" encoding="base64">
+   eJxjYMAEPlDsC8R+QOwPFQ8A4kAgDgLiYKhYCBCHAnEYEIdjMQsEANRsBB8=
+  </data>
+ </layer>
+ <objectgroup id="6" name="guide_layer" visible="0" />
+ <objectgroup id="2" name="player_layer">
+  <object id="82" template="../../mapPrefabs/resourcePoint.tx" x="1735.73" y="1210.4">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="1" />
+   </properties>
+  </object>
+  <object id="83" template="../../mapPrefabs/resourcePoint.tx" x="1594.92" y="1175.75">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="2" />
+   </properties>
+  </object>
+  <object id="84" template="../../mapPrefabs/resourcePoint.tx" x="1526.99" y="1069.47">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="3" />
+   </properties>
+  </object>
+  <object id="85" template="../../mapPrefabs/resourcePoint.tx" x="1811.58" y="1153.63">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="4" />
+   </properties>
+  </object>
+  <object id="86" template="../../mapPrefabs/resourcePoint.tx" x="1707.42" y="1098.97">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="5" />
+   </properties>
+  </object>
+  <object id="87" template="../../mapPrefabs/resourcePoint.tx" x="1636.84" y="1005.35">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="6" />
+   </properties>
+  </object>
+  <object id="88" template="../../mapPrefabs/resourcePoint.tx" x="1924.76" y="1072.36">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="7" />
+   </properties>
+  </object>
+  <object id="89" template="../../mapPrefabs/resourcePoint.tx" x="1809.62" y="1027.04">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="8" />
+   </properties>
+  </object>
+  <object id="90" template="../../mapPrefabs/resourcePoint.tx" x="1753.7" y="937.428">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="99" />
+   </properties>
+  </object>
+  <object id="94" template="../../mapPrefabs/resourcePoint.tx" x="1131.03" y="1319.1">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="10" />
+   </properties>
+  </object>
+  <object id="95" template="../../mapPrefabs/resourcePoint.tx" x="1319.03" y="1419.75">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="11" />
+   </properties>
+  </object>
+  <object id="96" template="../../mapPrefabs/resourcePoint.tx" x="1953.03" y="1147.76">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="12" />
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="8" name="role_layer" />
+ <objectgroup id="7" name="ornament_layer" />
+ <layer height="5" id="3" name="playerBox_layer" width="5">
+  <data compression="zlib" encoding="base64">
+   eJxjYKA9AAAAZAAB
+  </data>
+ </layer>
+ <objectgroup id="4" name="collider_layer">
+  <object id="99" x="784.364" y="1497.09">
+   <polygon points="77.3333,541.333 66,-189.333 839.333,-648.667 1024,-639.333 1371.29,-433.016 1355.33,-67.333 1833.33,-480 928,-1030.67 -54.6667,-921.333 -341.334,298.666" />
+  </object>
+  <object id="101" x="608.545" y="1371.03">
+   <polygon points="14,-106 618,246 824,240 1852,-380 2034,98 968,966 -126,876" />
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="ui_layer" />
+</map>

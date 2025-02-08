@@ -1,0 +1,139 @@
+
+gw_fengbaocichong.png
+size: 56,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 24, 17
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 2, 21
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 39, 134
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 10, 86
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 26, 55
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 2, 40
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 46, 20
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 2, 80
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 31, 33
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+js017
+  rotate: true
+  xy: 2, 9
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+js018
+  rotate: true
+  xy: 2, 137
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 38, 80
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+js03
+  rotate: true
+  xy: 2, 61
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 47, 97
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 2, 89
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 42, 5
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+js07
+  rotate: 270
+  xy: 48, 115
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 46, 123
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 27, 3
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

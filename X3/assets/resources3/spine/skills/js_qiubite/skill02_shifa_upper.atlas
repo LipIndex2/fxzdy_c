@@ -1,0 +1,13 @@
+
+skill02_shifa_upper.png
+size: 126,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_xia_RING2
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

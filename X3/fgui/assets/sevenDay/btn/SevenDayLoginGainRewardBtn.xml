@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="318,123" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n30_v891" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="0,2" size="306,121" group="n27_v891">
+      <Button title="领取" titleFontSize="52"/>
+    </component>
+    <component id="n33_ohdt" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="288,15" group="n27_v891"/>
+    <text id="n31_v891" name="T_time" xy="62,5" pivot="0.5,0.5" size="192,36" group="n27_v891" visible="false" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="xx时间后可领取"/>
+    <group id="n27_v891" name="n27" xy="0,0" size="306,123" advanced="true"/>
+  </displayList>
+  <Button/>
+</component>

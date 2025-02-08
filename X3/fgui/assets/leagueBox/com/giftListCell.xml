@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="181,256">
+  <displayList>
+    <image id="n4_583b" name="n4" src="583b3" fileName="img/zllb_frame.png" xy="0,0"/>
+    <text id="n7_583b" name="boxName" xy="39,133" pivot="0.5,0.5" size="104,26" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#1e2134" strokeSize="3" text="1级盟友赠礼"/>
+    <component id="n8_583b" name="boxIcon" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="36,41" size="108,88" scale="0.6,0.6"/>
+    <component id="n9_kvs3" name="sendBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="-43,153" scale="0.5,0.5">
+      <Button title="送出"/>
+    </component>
+    <component id="n10_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="165,25" controller="type,5"/>
+  </displayList>
+</component>

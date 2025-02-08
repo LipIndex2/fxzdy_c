@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="team" pages="0,in,1,out" selected="1"/>
+  <displayList>
+    <loader id="n45_uk3p" name="n45" xy="30,93" size="682,1135" group="n43_uk3p"/>
+    <image id="n36_ig8t" name="n36" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="30,93" size="682,1135" group="n43_uk3p"/>
+    <image id="n37_ig8t" name="n37" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="51,180" size="638,889" group="n43_uk3p"/>
+    <component id="n46_lupe" name="n46" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="316,1236" group="n43_uk3p"/>
+    <text id="n34_bbe3" name="n34" xy="305,112" size="131,44" group="n43_uk3p" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="队伍大厅"/>
+    <list id="n38_ig8t" name="list" xy="68,197" size="608,732" group="n43_uk3p" overflow="scroll" lineGap="15" defaultItem="ui://dhpy5xezig8t178">
+      <gearSize controller="team" pages="0,1" values="608,743,1,1|608,732,1,1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n40_ig8t" name="btnCreate" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="98,1090" size="249,97" group="n43_uk3p">
+      <Button title="创建小队" titleColor="#ffffff" titleFontSize="34"/>
+    </component>
+    <text id="n44_uk3p" name="lbTips" xy="238,518" size="265,59" group="n43_uk3p" fontSize="44" color="#4368af" align="center" vAlign="middle" autoSize="none" text="暂无队伍"/>
+    <component id="n42_ig8t" name="btnRefresh" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="290,950" size="172,70" group="n43_uk3p">
+      <gearXY controller="team" pages="0,1" values="290,958|290,950"/>
+      <Button title="刷新" titleFontSize="24"/>
+    </component>
+    <component id="n49_k649" name="btnJoin" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="407,1088" size="249,97" group="n43_uk3p">
+      <Button title="快速加入" titleColor="#ffffff" titleFontSize="34"/>
+    </component>
+    <component id="n47_k649" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="489,1023" size="41,34" group="n50_k649">
+      <relation target="n48_k649" sidePair="left-right,top-top"/>
+    </component>
+    <text id="n48_k649" name="lbHelp" xy="233,1024" size="252,35" group="n50_k649" fontSize="22" color="#8abeff" align="center" vAlign="middle" autoSize="none" text="今日助战奖励次数：4/5"/>
+    <group id="n50_k649" name="outG" xy="233,1023" size="297,36" group="n43_uk3p" advanced="true">
+      <gearDisplay controller="team" pages="1"/>
+    </group>
+    <loader id="n57_k649" name="imgClick" xy="31,94" size="682,1233" group="n53_k649"/>
+    <loader id="n55_k649" name="n55" xy="355,879" size="216,141" group="n53_k649" url="ui://38fa8c75tml513e" fill="scaleFree"/>
+    <component id="n54_k649" name="itemList" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="352,895" size="246,109" group="n53_k649" scale="0.9,0.9"/>
+    <group id="n53_k649" name="rewardsG" xy="31,94" size="682,1233" group="n43_uk3p" visible="false" advanced="true">
+      <gearDisplay controller="team" pages="1"/>
+    </group>
+    <group id="n43_uk3p" name="n43" xy="30,93" size="683,1234" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

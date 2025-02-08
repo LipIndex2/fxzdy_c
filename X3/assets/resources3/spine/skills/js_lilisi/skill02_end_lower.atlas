@@ -1,0 +1,20 @@
+
+skill02_end_lower.png
+size: 192,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_dilie
+  rotate: false
+  xy: 2, 2
+  size: 138, 128
+  orig: 140, 140
+  offset: 1, 4
+  index: -1
+effect/skill02_yuan
+  rotate: false
+  xy: 142, 82
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1

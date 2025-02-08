@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="153,48" pivot="0.5,0.5" extention="Button">
+  <controller name="isTop" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n23_pocb" name="bgBuy" src="sh628l" fileName="img/szdi1_frame.png" pkg="72zq62ea" xy="0,5" size="153,37" group="n24_qhev">
+      <gearDisplay controller="isTop" pages="1"/>
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n25_p3yi" name="n25" src="pocbv17g" fileName="progressBarImage/hbl1_01.png" xy="28,13" size="119,27" group="n24_qhev" color="#000000">
+      <gearDisplay controller="isTop" pages="0"/>
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <text id="n10_6b29" name="labelTitle" xy="95,27" pivot="0.5,0.5" anchor="true" size="94,34" group="n24_qhev" font="ui://38fa8c75ev7wvvv1k8" fontSize="24" color="#fffefe" align="center" vAlign="middle" leading="0" letterSpacing="-1" autoSize="shrink" singleLine="true" autoClearText="true" text="0">
+      <relation target="" sidePair="rightext-right"/>
+    </text>
+    <loader id="n11_6b29" name="imageItem" xy="30,24" pivot="0.5,0.5" anchor="true" size="48,48" group="n24_qhev" url="ui://7q3fcj1kt6mg9" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <image id="n12_j6z9" name="imageBuy" src="pocbv17i" fileName="headerImage/jiahao.png" xy="33,20" size="22,23" group="n24_qhev">
+      <gearDisplay controller="isTop" pages="1"/>
+    </image>
+    <group id="n24_qhev" name="n24" xy="0,0" size="153,48"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n15_woyg" name="btnClose" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="325,933">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n19_woyg" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,413" size="619,500" group="n20_woyg"/>
+    <image id="n0_bfe7" name="n0" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="65,413" size="619,500" group="n20_woyg"/>
+    <image id="n1_bfe7" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,502" size="572,204" group="n20_woyg"/>
+    <component id="n14_woyg" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="271,725" group="n20_woyg"/>
+    <component id="n16_woyg" name="btnConfirm" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="519,830" pivot="0.5,0.5" anchor="true" group="n20_woyg" scale="0.8,0.8"/>
+    <component id="n18_woyg" name="btnCancel" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="232,832" pivot="0.5,0.5" anchor="true" size="245,94" group="n20_woyg">
+      <Button titleFontSize="34"/>
+    </component>
+    <text id="n8_bfe7" name="lbTitle" xy="372,459" pivot="0.5,0.5" anchor="true" size="131,44" group="n20_woyg" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="删除确认"/>
+    <text id="n11_bfe7" name="lbTip" xy="390,746" pivot="0.5,0.5" anchor="true" size="147,34" group="n20_woyg" fontSize="24" color="#f3f3f5" align="center" vAlign="middle" text="本日不再弹出"/>
+    <richtext id="n13_woyg" name="lbContent" xy="375,604" pivot="0.5,0.5" anchor="true" size="540,180" group="n20_woyg" fontSize="26" color="#ddfbff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" text="是否重置当前挑战进度？&#xA;当前进度：115关"/>
+    <group id="n20_woyg" name="gAll" xy="65,413" size="619,500" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

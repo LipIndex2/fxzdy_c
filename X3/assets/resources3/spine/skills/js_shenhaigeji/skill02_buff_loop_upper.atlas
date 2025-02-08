@@ -1,0 +1,146 @@
+
+skill02_buff_loop_upper.png
+size: 922,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/loophou02
+  rotate: false
+  xy: 450, 4
+  size: 147, 88
+  orig: 256, 256
+  offset: 50, 37
+  index: -1
+images/effect/loophou03
+  rotate: false
+  xy: 157, 94
+  size: 148, 91
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou04
+  rotate: false
+  xy: 769, 95
+  size: 150, 92
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou05
+  rotate: false
+  xy: 616, 189
+  size: 152, 94
+  orig: 256, 256
+  offset: 50, 35
+  index: -1
+images/effect/loophou06
+  rotate: false
+  xy: 157, 187
+  size: 151, 96
+  orig: 256, 256
+  offset: 50, 34
+  index: -1
+images/effect/loophou07
+  rotate: false
+  xy: 770, 189
+  size: 150, 94
+  orig: 256, 256
+  offset: 50, 35
+  index: -1
+images/effect/loophou08
+  rotate: false
+  xy: 310, 94
+  size: 148, 92
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou09
+  rotate: false
+  xy: 2, 92
+  size: 147, 91
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou10
+  rotate: false
+  xy: 599, 4
+  size: 147, 88
+  orig: 256, 256
+  offset: 50, 37
+  index: -1
+images/effect/loophou12
+  rotate: false
+  xy: 301, 3
+  size: 147, 89
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou13
+  rotate: false
+  xy: 769, 2
+  size: 147, 91
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou14
+  rotate: false
+  xy: 616, 94
+  size: 151, 93
+  orig: 256, 256
+  offset: 49, 35
+  index: -1
+images/effect/loophou15
+  rotate: false
+  xy: 310, 188
+  size: 151, 95
+  orig: 256, 256
+  offset: 49, 35
+  index: -1
+images/effect/loophou16
+  rotate: false
+  xy: 2, 185
+  size: 153, 98
+  orig: 256, 256
+  offset: 49, 33
+  index: -1
+images/effect/loophou17
+  rotate: false
+  xy: 463, 188
+  size: 151, 95
+  orig: 256, 256
+  offset: 49, 34
+  index: -1
+images/effect/loophou18
+  rotate: false
+  xy: 460, 94
+  size: 148, 92
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou19
+  rotate: false
+  xy: 151, 3
+  size: 148, 89
+  orig: 256, 256
+  offset: 50, 36
+  index: -1
+images/effect/loophou20
+  rotate: false
+  xy: 2, 4
+  size: 143, 86
+  orig: 256, 256
+  offset: 52, 38
+  index: -1
+images/effect/loophou01
+  rotate: false
+  xy: 2, 4
+  size: 143, 86
+  orig: 256, 256
+  offset: 52, 38
+  index: -1
+images/effect/loophou11
+  rotate: false
+  xy: 2, 4
+  size: 143, 86
+  orig: 256, 256
+  offset: 52, 38
+  index: -1

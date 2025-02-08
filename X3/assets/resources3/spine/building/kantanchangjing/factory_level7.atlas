@@ -1,0 +1,13 @@
+
+factory_level7.png
+size: 400,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_factory07
+  rotate: false
+  xy: 2, 2
+  size: 396, 393
+  orig: 456, 456
+  offset: 27, 33
+  index: -1

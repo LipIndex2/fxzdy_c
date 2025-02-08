@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,36" pivot="0.5,0.5" anchor="true">
+  <controller name="state" pages="0,,1,,3," selected="0">
+    <remark page="0" value="限购"/>
+    <remark page="1" value="不限购"/>
+    <remark page="2" value="不满足条件"/>
+  </controller>
+  <displayList>
+    <text id="n49_dusv" name="lbTip" xy="99,18" pivot="0.5,0.5" anchor="true" size="99,34" fontSize="24" color="#f8fcc0" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="每日限制">
+      <gearDisplay controller="state" pages="1,3"/>
+      <gearColor controller="state" pages="0,1" values="#f8fcc0,#000000|#f8fcc0,#000000" default="#7dfff1,#000000"/>
+      <relation target="" sidePair=""/>
+    </text>
+    <richtext id="n50_qhev" name="lbLimit" xy="23,1" pivot="0.5,0.5" size="154,34" fontSize="24" color="#f8fcc0" align="right" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="3" text="每日限购&lt;color=#56FE9D&gt;0/10&lt;/color&gt;">
+      <gearDisplay controller="state" pages="0"/>
+    </richtext>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="548,128">
+  <displayList>
+    <component id="n9_vipi" name="bar" src="vipi1g" fileName="ProgressBar1.xml" xy="72,38">
+      <ProgressBar max="100"/>
+    </component>
+    <image id="n6_ea91" name="bgScore" src="vipi1j" fileName="img/jifendi.png" xy="1,0"/>
+    <text id="n7_ea91" name="T_score" xy="18,33" pivot="0.5,0.5" size="58,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#5913b0" strokeSize="3" text="550"/>
+    <text id="n8_ea91" name="T_scoreTitle" xy="0,96" pivot="0.5,0.5" size="91,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" text="累计积分"/>
+  </displayList>
+</component>

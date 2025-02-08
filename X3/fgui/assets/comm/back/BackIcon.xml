@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,119" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n29_116b" name="btnBack" xy="41,57" pivot="0.5,0.5" anchor="true" size="33,44" url="ui://38fa8c75kp1obg" align="center" vAlign="middle"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

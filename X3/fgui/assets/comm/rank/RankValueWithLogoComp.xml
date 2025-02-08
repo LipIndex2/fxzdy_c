@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="189,42">
+  <controller name="scoreType" pages="0,common,1,jjc,2,simpleLogo" selected="0"/>
+  <displayList>
+    <loader id="n46_caj9" name="imageRankSmallLogo" xy="0,2" pivot="0.5,0.5" size="40,40" url="ui://38fa8c75caj9vvv1d2" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n44_caj9" name="labelRankValueWithLogo" xy="40,0" size="149,42" fontSize="30" color="#ffffff" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="战力2500">
+      <gearDisplay controller="scoreType" pages="0,2"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="408,60">
+  <displayList>
+    <loader id="n4_cc67" name="imageLogo" xy="0,0" size="60,60" url="ui://b04b0bf1cc673"/>
+    <text id="n6_cc67" name="labelTitle" xy="71,12" size="55,36" fontSize="26" color="#8cb5ff" vAlign="middle" text="音乐"/>
+    <component id="n13_i4ei" name="btnSwitch" src="i4ei26" fileName="btn/SystemSettingSwitchBtn.xml" xy="281,10"/>
+  </displayList>
+</component>

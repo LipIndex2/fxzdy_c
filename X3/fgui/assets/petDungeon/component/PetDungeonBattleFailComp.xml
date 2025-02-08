@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,500">
+  <displayList>
+    <component id="n16_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="300,106" pivot="0.5,1" anchor="true" size="880,742"/>
+    <component id="n0_pocb" name="pFail" src="na3485" fileName="battle/components/CommonFailPanel.xml" pkg="u3tpmdwf" xy="21,0" pivot="0.5,0.8" size="558,279"/>
+    <component id="n17_woyg" name="heroComp" src="woyg12a" fileName="component/PetDungeonBattleHeroList.xml" xy="0,312"/>
+    <text id="n18_woyg" name="lbClose" xy="307,600" pivot="0.5,0.5" anchor="true" size="143,29" fontSize="20" color="#fffefe" align="center" vAlign="middle" text="点击空白处关闭"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n0_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n17_woyg" value="0"/>
+    <item time="0" type="Alpha" target="n18_woyg" value="0"/>
+    <item time="0" type="XY" target="n0_pocb" value="21,30"/>
+    <item time="0" type="XY" target="n17_woyg" value="0,342"/>
+    <item time="0" type="XY" target="n18_woyg" value="307,670"/>
+    <item time="54" type="Alpha" target="n0_pocb" tween="true" startValue="0" endValue="1" duration="13"/>
+    <item time="54" type="XY" target="n0_pocb" tween="true" startValue="21,30" endValue="21,0" duration="13"/>
+    <item time="56" type="Alpha" target="n17_woyg" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="56" type="XY" target="n17_woyg" tween="true" startValue="0,342" endValue="0,312" duration="11"/>
+    <item time="62" type="Alpha" target="n18_woyg" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="XY" target="n18_woyg" tween="true" startValue="307,670" endValue="307,600" duration="5"/>
+  </transition>
+</component>

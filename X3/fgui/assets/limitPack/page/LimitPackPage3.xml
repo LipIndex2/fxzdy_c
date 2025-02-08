@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1k97dis7u">
+  <displayList>
+    <image id="n0_9486" name="n0" src="qhev46" fileName="img/xslb_bg.png" xy="44,298" group="n33_qhev"/>
+    <image id="n1_9486" name="n1" src="qhev47" fileName="img/landi.png" xy="218,803" group="n33_qhev"/>
+    <image id="n5_9486" name="n5" src="qhev49" fileName="img/mingzidi.png" xy="590,358" group="n33_qhev"/>
+    <image id="n2_9486" name="n2" src="qhev48" fileName="img/zi.png" xy="258,739" group="n33_qhev"/>
+    <image id="n9_9486" name="n9" src="qhev4a" fileName="img/juxing7.png" xy="100,928" group="n33_qhev"/>
+    <image id="n14_9486" name="n14" src="qhev4e" fileName="img/xslb_sjd.png" xy="206,881" group="n33_qhev"/>
+    <loader id="n27_qhev" name="iconLoader" xy="168,374" size="420,420" group="n33_qhev" align="center" vAlign="middle" fill="scale"/>
+    <image id="n21_9486" name="bgTip" src="tml513e" fileName="bgImage/qipao1_frame.png" pkg="38fa8c75" xy="427,420" pivot="1,1" anchor="true" size="309,81" group="n29_qhev">
+      <relation target="n34_qhev" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n34_qhev" name="lbTip" xy="411,388" pivot="1,1" anchor="true" size="275,34" group="n29_qhev" fontSize="24" color="#0060b9" align="center" vAlign="middle" autoSize="height" text="恭喜您解锁新的装备栏位!"/>
+    <group id="n29_qhev" name="panelTip" xy="118,339" size="309,81" group="n33_qhev" advanced="true"/>
+    <text id="n15_9486" name="n15" xy="438,897" pivot="0.5,0.5" anchor="true" size="113,32" group="n30_qhev" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="后礼包消失">
+      <relation target="n16_9486" sidePair="left-right"/>
+    </text>
+    <text id="n16_9486" name="lbTime" xy="318,897" pivot="0.5,0.5" anchor="true" size="127,32" group="n30_qhev" fontSize="22" color="#3cfe37" align="center" vAlign="middle" text="01：20：30">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n30_qhev" name="n30" xy="255,881" size="240,32" group="n33_qhev"/>
+    <component id="n31_qhev" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="252,1119" size="245,97" group="n33_qhev">
+      <Button title="6元" titleFontSize="46"/>
+    </component>
+    <list id="n32_qhev" name="listReward" xy="120,942" size="570,104" group="n33_qhev" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="7" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_9486" name="n3" xy="159,748" size="87,56" group="n33_qhev" fontSize="42" color="#c8ecff" vAlign="middle" strokeColor="#201c17" strokeSize="4" text="解锁"/>
+    <text id="n4_9486" name="n4" xy="258,809" size="154,52" group="n33_qhev" fontSize="38" color="#edf7ff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="战力飙升"/>
+    <text id="n6_9486" name="lbDes" xy="593,398" size="32,121" group="n33_qhev" fontSize="24" color="#ffa03b" align="center" leading="0" autoSize="height" strokeColor="#000000" strokeSize="2" text="强力输出"/>
+    <text id="n8_9486" name="lbName" xy="654,469" pivot="0.5,0.5" anchor="true" size="44,193" group="n33_qhev" fontSize="38" align="center" vAlign="middle" leading="0" autoSize="height" text="暮光之镯"/>
+    <text id="n35_pfd4" name="lbFight" xy="420,809" size="184,51" group="n33_qhev" font="ui://rdjzh7h2pfd4v17k" fontSize="47" color="#ffffff" vAlign="middle" text="2000+"/>
+    <text id="n36_vdae" name="n36" xy="290,1225" pivot="0.5,0.5" size="170,34" group="n33_qhev" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="点击空白处关闭"/>
+    <group id="n33_qhev" name="gAll" xy="44,298" size="660,961" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

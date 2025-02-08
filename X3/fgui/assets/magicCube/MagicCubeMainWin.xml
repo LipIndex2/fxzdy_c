@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,未解锁,1,已解锁,2,满级" selected="0"/>
+  <controller name="c2" pages="0,魔方增幅,1,魔方转换" selected="0"/>
+  <displayList>
+    <image id="n21_3bca" name="n21" src="3bca12" fileName="img/yeyingkaobei.png" xy="66,110" group="n87_q6dm" visible="false"/>
+    <component id="n95_q6dm" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="203,402" pivot="0.5,1" anchor="true" group="n87_q6dm"/>
+    <loader id="n90_q6dm" name="n90" xy="29,242" size="666,858" group="n87_q6dm" url="ui://ff643f6eq6dm46" fill="scaleFree"/>
+    <image id="n24_3bca" name="n24" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="81,536" size="579,405" group="n87_q6dm" color="#223171"/>
+    <image id="n64_3bca" name="n64" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="246,564" size="248,46" group="n87_q6dm" color="#314287"/>
+    <image id="n32_3bca" name="n32" src="3bca19" fileName="img/sd_A_common_jt01_icon.png" xy="342,658" group="n87_q6dm"/>
+    <text id="n39_3bca" name="n39" xy="289,571" pivot="0.5,0.5" size="158,36" group="n87_q6dm" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000307" strokeSize="3" text="增幅属性预览">
+      <gearDisplay controller="c2" pages="0,1"/>
+      <gearText controller="c2" pages="1" values="转换属性预览" default="增幅属性预览"/>
+    </text>
+    <component id="n50_3bca" name="btn_isLock" src="q6dm48" fileName="item/lockAttrItem.xml" xy="519,989" group="n87_q6dm">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </component>
+    <component id="n55_3bca" name="btn_sev" src="q6dm47" fileName="btn/storageBtn.xml" xy="514,965" group="n87_q6dm">
+      <gearDisplay controller="c1" pages="1,2"/>
+      <gearDisplay2 controller="c2" pages="1" condition="0"/>
+    </component>
+    <component id="n40_3bca" name="btn_up" src="q6dm43" fileName="btn/MagicCubeUpBtn.xml" xy="93,965" group="n87_q6dm">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </component>
+    <component id="n76_q6dm" name="btn_unlock" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="218,961" size="306,122" group="n87_q6dm" scale="0.8,0.8">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="解锁" titleFontSize="43"/>
+    </component>
+    <list id="n86_q6dm" name="list_tab" xy="81,446" size="577,63" group="n87_q6dm" pageController="c2" layout="row" colGap="9" defaultItem="ui://ff643f6eq6dm4b" selectionController="c2">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <item title="魔方增幅"/>
+      <item title="魔方转换"/>
+    </list>
+    <list id="n77_q6dm" name="list_attr1" xy="139,780" size="220,146" group="n87_q6dm" lineGap="13" defaultItem="ui://ff643f6eq6dm49">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n78_q6dm" name="list_attr2" xy="413,781" size="220,146" group="n87_q6dm" lineGap="13" defaultItem="ui://ff643f6eq6dm49">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n79_q6dm" name="MagicCubeItem1" src="q6dm4a" fileName="item/MagicCubeItem.xml" xy="180,641" group="n87_q6dm"/>
+    <component id="n82_q6dm" name="MagicCubeItem2" src="q6dm4a" fileName="item/MagicCubeItem.xml" xy="457,641" group="n87_q6dm"/>
+    <component id="n83_q6dm" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="573,111" group="n87_q6dm" controller="isTop,1"/>
+    <component id="n84_q6dm" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="573,173" group="n87_q6dm" controller="isTop,1"/>
+    <component id="n85_q6dm" name="headerItem3" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="573,234" group="n87_q6dm" controller="isTop,1"/>
+    <text id="n88_q6dm" name="T_lock1" xy="197,780" pivot="0.5,0.5" size="69,32" group="n87_q6dm" visible="false" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000307" strokeSize="2" text="未解锁">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="1" values="#4fdcff,#000307" default="#ffffff,#000307"/>
+    </text>
+    <text id="n89_q6dm" name="T_lock2" xy="463,781" pivot="0.5,0.5" size="91,32" group="n87_q6dm" visible="false" fontSize="22" color="#4fdcff" align="center" vAlign="middle" strokeColor="#000307" strokeSize="2" text="未知属性">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0,1" values="#4fdcff,#000307|#4fdcff,#000307" default="#ffffff,#000307"/>
+    </text>
+    <text id="n91_q6dm" name="n91" xy="309,459" size="107,36" group="n87_q6dm" fontSize="26" color="#8c94c3" vAlign="middle" strokeColor="#243182" strokeSize="3" text="魔方转换">
+      <gearDisplay controller="c1" pages="2"/>
+    </text>
+    <component id="n92_q6dm" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="485,984" size="20,20" group="n87_q6dm" touchable="false" controller="type,2">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n93_q6dm" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="363,453" size="20,20" group="n87_q6dm" touchable="false" controller="type,2">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n94_q6dm" name="redDot3" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="653,453" size="20,20" group="n87_q6dm" touchable="false" controller="type,2">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </component>
+    <component id="n97_rjyq" name="modelNodeLeft" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="232,694" group="n87_q6dm" scale="2,2"/>
+    <component id="n99_rjyq" name="modelNodeRight" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="512,694" group="n87_q6dm" scale="2,2"/>
+    <group id="n87_q6dm" name="n87" xy="29,110" size="697,990" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n96_vdae" name="n96" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1128">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

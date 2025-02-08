@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n22_czc6" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="66,380" size="619,575" group="n32_czc6"/>
+    <image id="n0_51a6" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="66,380" size="619,575" group="n32_czc6"/>
+    <image id="n1_51a6" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="88,469" size="572,327" group="n32_czc6"/>
+    <image id="n2_51a6" name="n2" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="115,636" size="518,3" group="n32_czc6" color="#4969a6"/>
+    <image id="n7_51a6" name="n7" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="355,494" size="167,38" group="n32_czc6" alpha="0.3"/>
+    <image id="n12_51a6" name="n12" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="298,721" size="165,43" group="n32_czc6" alpha="0.25"/>
+    <text id="n4_51a6" name="n4" xy="223,542" size="171,34" group="n32_czc6" fontSize="24" color="#ddfbff" vAlign="middle" text="下次体力恢复    "/>
+    <text id="n6_51a6" name="n6" xy="223,496" size="123,34" group="n32_czc6" fontSize="24" color="#fee47c" vAlign="middle" text="当前体力："/>
+    <text id="n9_51a6" name="n9" xy="223,588" size="153,34" group="n32_czc6" fontSize="24" color="#ddfbff" vAlign="middle" text="体力全部恢复 "/>
+    <text id="n16_51a6" name="n16" xy="373,427" pivot="0.5,0.5" anchor="true" size="67,44" group="n32_czc6" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="体力"/>
+    <text id="n10_51a6" name="lbCurPower" xy="400,496" size="103,34" group="n32_czc6" fontSize="24" color="#ffffff" vAlign="middle" text="100/200"/>
+    <text id="n5_51a6" name="lbNextTime" xy="408,542" size="111,34" group="n32_czc6" fontSize="24" color="#48e86c" vAlign="middle" text="20:12:30"/>
+    <text id="n27_czc6" name="lbFullTime" xy="408,588" size="111,34" group="n32_czc6" fontSize="24" color="#48e86c" vAlign="middle" text="21:14:12"/>
+    <text id="n33_t5gy" name="inputCurCnt" xy="373,745" pivot="0.5,0.5" anchor="true" size="110,42" group="n32_czc6" fontSize="30" color="#93c8ff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="100" input="true" maxLength="3" keyboardType="4"/>
+    <loader id="n23_czc6" name="iconLoader" xy="348,490" size="44,44" group="n32_czc6" align="center" fill="scale"/>
+    <text id="n25_czc6" name="n25" xy="259,663" size="99,34" group="n26_czc6" fontSize="24" color="#ddfbff" vAlign="middle" text="购买体力">
+      <relation target="n24_czc6" sidePair="right-left"/>
+    </text>
+    <loader id="n24_czc6" name="iconLoader2" xy="358,658" size="44,44" group="n26_czc6" align="center" fill="scale">
+      <relation target="n11_51a6" sidePair="right-left"/>
+    </loader>
+    <text id="n11_51a6" name="lbCount" xy="440,680" pivot="0.5,0.5" anchor="true" size="77,34" group="n26_czc6" fontSize="24" color="#ddfbff" vAlign="middle" text="x1000">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n26_czc6" name="gBuyCount" xy="259,658" size="220,44" group="n32_czc6" advanced="true"/>
+    <component id="n28_czc6" name="btnSub" src="oetqs91" fileName="btn/BtnJian1.xml" pkg="72zq62ea" xy="280,742" pivot="0.5,0.5" anchor="true" group="n32_czc6"/>
+    <component id="n29_czc6" name="btnAdd" src="oetqs90" fileName="btn/BtnJia1.xml" pkg="72zq62ea" xy="471,744" pivot="0.5,0.5" anchor="true" group="n32_czc6"/>
+    <component id="n31_czc6" name="btnBuy" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="222,811" group="n32_czc6" scale="0.8,0.8"/>
+    <group id="n32_czc6" name="gAll" xy="66,380" size="619,575" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

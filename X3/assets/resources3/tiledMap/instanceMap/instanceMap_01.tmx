@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="60" infinite="0" nextlayerid="10" nextobjectid="33" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="60">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <layer height="60" id="1" name="bottom1_layer" width="60">
+  <data compression="zlib" encoding="base64">
+   eJzt1z0KwkAQxfHnRyl2Eju1FNOJFxHvYKm9R9HDOlaBTWQjjCyZ/H/w+nmw7DASAAAAAAAAAAAAAACAj3kmG8u21HB/cMrkZdkVm85fru8nk2LT+aNv7L7TJJVi903NRN9IfdeWq5p9u1TsvjfLXeP5r7reL33jyPV9WC7FpvPX1XehZh+fLfti0/mLvn9S9JVWinsP9/mfI93Dv/Yd+nsfW9+j5an+XYe+j2vLQe07+Fui7WMA0hsdUCVO
+  </data>
+ </layer>
+ <layer height="60" id="7" name="bottom2_layer" width="60">
+  <data compression="zlib" encoding="base64">
+   eJzt1DEKg0AQRuHRWNpKyiSlaBe8iOQ2OUpyWCcQcN2sghBZnX0fvMpmfxcVAQAAAAAAAAAA2JfC6aJdo55me53TW7vFPc7mOq9Kpndu7f79vUtZuP81ez9lcY75NyntPUtae0/yu6fU8m+h93HkvXftJeOWp/Zwnofex9z/+wharZHxPnutdp6H9s5lAXtt7/W/b+t7/e97KQAAAAAAACAFA4VdHH0=
+  </data>
+ </layer>
+ <layer height="60" id="8" name="bottom3_layer" width="60">
+  <data compression="zlib" encoding="base64">
+   eJzt0TsKwlAQhtGLZguinVprJ1mTpe5HF+sUCVrkYRMuGc6Bv5/hKwUAAIA5h9g91nQ7xk41D1rYI/aMtd3esXPVi5a1Ld9f++1K3s5D/2buPPZv1s632KuM/5yt8zV2ie2LzjrrvHY66/zbual14ELmOrf1TlvEP50zmuqc0VTnzIY6Z9Z33nQDAAAAAABgfT5QSyMN
+  </data>
+ </layer>
+ <layer height="60" id="6" name="grassland_layer" width="60">
+  <data compression="zlib" encoding="base64">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB
+  </data>
+ </layer>
+ <objectgroup id="3" name="player_layer">
+  <object id="11" template="../../mapPrefabs/resourcePoint.tx" x="6121.07" y="6377.27">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300101" />
+   </properties>
+  </object>
+  <object id="12" template="../../mapPrefabs/resourcePoint.tx" x="5452.8" y="5947.2">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300102" />
+   </properties>
+  </object>
+  <object id="13" template="../../mapPrefabs/resourcePoint.tx" x="5812.8" y="5443.2">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300103" />
+   </properties>
+  </object>
+  <object id="14" template="../../mapPrefabs/resourcePoint.tx" x="5888.8" y="4931.2">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300104" />
+   </properties>
+  </object>
+  <object id="15" template="../../mapPrefabs/resourcePoint.tx" x="5513.6" y="4438.4">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300105" />
+   </properties>
+  </object>
+  <object id="16" template="../../mapPrefabs/resourcePoint.tx" x="4846.4" y="4409.6">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300106" />
+   </properties>
+  </object>
+  <object id="17" template="../../mapPrefabs/resourcePoint.tx" x="4280" y="4400">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300107" />
+   </properties>
+  </object>
+  <object id="18" template="../../mapPrefabs/resourcePoint.tx" x="4099.6" y="3840.4">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300108" />
+   </properties>
+  </object>
+  <object id="19" template="../../mapPrefabs/resourcePoint.tx" x="3729.2" y="3738.8">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300109" />
+   </properties>
+  </object>
+  <object id="20" template="../../mapPrefabs/resourcePoint.tx" x="3298.4" y="3701.6">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300110" />
+   </properties>
+  </object>
+  <object id="21" template="../../mapPrefabs/resourcePoint.tx" x="2853.6" y="3566.4">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300111" />
+   </properties>
+  </object>
+  <object id="22" template="../../mapPrefabs/resourcePoint.tx" x="2412.8" y="3315.2">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300112" />
+   </properties>
+  </object>
+  <object id="23" template="../../mapPrefabs/resourcePoint.tx" x="1995.2" y="3024.8">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300113" />
+   </properties>
+  </object>
+  <object id="24" template="../../mapPrefabs/resourcePoint.tx" x="2011.2" y="2752.8">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300114" />
+   </properties>
+  </object>
+  <object id="25" template="../../mapPrefabs/resourcePoint.tx" x="1510" y="2422">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="300115" />
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="9" name="role_layer" />
+ <layer height="60" id="4" name="playerBox_layer" width="60">
+  <data compression="zlib" encoding="base64">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB
+  </data>
+ </layer>
+ <objectgroup id="5" name="collider_layer">
+  <object id="26" x="6564.8" y="6555.2">
+   <polygon points="-5.6,229.6 9.6,-417.6 -936.8,-423.2 -934.4,-929.6 -473.333,-937.333 -470.57,-2474.64 30.2075,-2345.13 551.2,-15.2" />
+  </object>
+  <object id="27" x="6583.03" y="6568.48">
+   <polygon points="0,0 -1409.7,15.7576 -1408.15,-1394.77 -929.697,-1391.52 -927.273,-1909.09 -3346.66,-1895.76 -1517.58,293.333 -3.27648,441.862" />
+  </object>
+  <object id="28" x="6116.97" y="4204.24">
+   <polygon points="372.8,19.2 -1855.76,-4.84848 -1827.27,-718.182 -2802.42,-718.788 -2787.27,-958.182 -3511.52,-955.152 -3511.52,-1191.52 -3752.73,-1192.73 -3746.06,-1575.15 214.06,-569.212" />
+  </object>
+  <object id="29" x="2390.91" y="2772.73">
+   <polygon points="0,0 -255.758,-4.84848 -252.727,-238.182 -512.727,-250.909 -492.121,-477.576 -727.879,-484.242 -730.909,-705.455 -976.97,-726.061 -973.939,-1195.76 695.981,-476.525" />
+  </object>
+  <object id="30" x="1430.91" y="1805.45">
+   <polygon points="0,0 -454.545,0 -466.061,563.03 -225.455,570.909 -216.364,816.364 21.2121,821.212 34.5455,1220 -1061.82,643.637 -555.758,-268.485 135.05,-635.799" />
+  </object>
+  <object id="31" x="1421.21" y="2857.58">
+   <polygon points="-800.606,-29.697 280,10.9091 272.121,243.03 502.424,236.97 510.909,489.091 744.242,486.061 751.515,733.333 996.97,724.242 1006.67,1308.48" />
+  </object>
+  <object id="32" x="2401.82" y="3816.36">
+   <polygon points="-853.364,34.4545 497.576,-0.606061 494.564,370.709 935.855,369.782 945.879,114.606 1443.03,126.667 1479.39,872.121 978.748,1094.85" />
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="ui_layer" />
+</map>

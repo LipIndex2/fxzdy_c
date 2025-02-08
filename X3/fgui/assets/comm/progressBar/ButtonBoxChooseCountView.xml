@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="96,29">
+  <displayList>
+    <text id="n7_3cd6" name="count" xy="47,14" pivot="0.5,0.5" anchor="true" size="40,26" fontSize="18" color="#fbffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#000a1d" strokeSize="2" singleLine="true" text="0"/>
+    <component id="n14_vdkj" name="buttonAdd" src="972a4x" fileName="progressBar/components/ButtonProgressBarAdd.xml" xy="82,15" pivot="0.5,0.5" anchor="true" scale="0.6,0.6"/>
+    <component id="n15_vdkj" name="buttonMinus" src="972a4y" fileName="progressBar/components/ButtonProgressBarMinus.xml" xy="14,15" pivot="0.5,0.5" anchor="true" size="45,45" scale="0.6,0.6"/>
+  </displayList>
+</component>

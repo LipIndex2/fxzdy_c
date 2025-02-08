@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="496,111">
+  <controller name="c1" pages="0,不可领取,1,可领取,2,已领取" selected="0"/>
+  <displayList>
+    <image id="n65_430e" name="n65" src="430e39" fileName="img/stknt_tiao.png" xy="0,0" size="496,111"/>
+    <text id="n73_430e" name="T_desc" xy="166,22" size="186,29" fontSize="20" color="#5f3789" vAlign="middle" text="本服购买人次达到30"/>
+    <image id="n74_430e" name="n74" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="372,37" scale="0.7,0.7">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <component id="n76_k045" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="290,-5" scale="0.4,0.4" touchable="false" grayed="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearLook controller="c1" pages="0" values="1,0,1,0" default="1,0,0,1"/>
+      <Button title="领取" titleFontSize="64"/>
+    </component>
+    <component id="n77_k045" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="-6,9" scale="0.7,0.7"/>
+    <component id="n81_k045" name="item2" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="72,8" scale="0.7,0.7"/>
+    <component id="n78_k045" name="bar" src="k0455h" fileName="item/ItemBar.xml" xy="170,73" size="192,23">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n80_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="483,15" size="20,20" touchable="false" controller="type,3"/>
+  </displayList>
+</component>

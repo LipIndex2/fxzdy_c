@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageOffsetX="-125" designImageOffsetY="-147" designImageLayer="1">
+  <displayList>
+    <image id="n11_q5rm" name="n11" src="91ylw" fileName="img/dl_di2.png" xy="80,487" size="590,349" group="n31_91yl"/>
+    <image id="n29_91yl" name="n29" src="91ylv" fileName="img/dl_di.png" xy="80,486" size="590,86" group="n31_91yl"/>
+    <image id="n13_q5rm" name="n13" src="91yl16" fileName="img/dl_di3.png" xy="122,601" size="506,76" group="n31_91yl"/>
+    <image id="n1_k5m5" name="n1" src="91yl13" fileName="img/dl_zh.png" xy="141,616" group="n31_91yl"/>
+    <text id="n8_k5m5" name="accountInput" xy="215,617" size="345,42" group="n31_91yl" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]账号(3-20位字母与数字)[/color]" maxLength="64"/>
+    <text id="n7_k5m5" name="n7" xy="212,528" pivot="0.5,0.5" anchor="true" size="132,42" group="n31_91yl" fontSize="30" color="#dbdbe4" vAlign="middle" autoSize="none" text="账号登录"/>
+    <component id="n26_91yl" name="registerBtn" src="91yl1e" fileName="btn/RegisterBtn.xml" xy="533,508" group="n31_91yl" visible="false"/>
+    <image id="n27_91yl" name="n27" src="91yl10" fileName="img/dl_fanhui.png" xy="106,507" group="n31_91yl" visible="false"/>
+    <component id="n28_91yl" name="historyBtn" src="91yl1a" fileName="btn/expandBtn.xml" xy="572,622" group="n31_91yl"/>
+    <component id="n5_k5m5" name="loginBtn" src="k5m56" fileName="btn/comBtn.xml" xy="123,720" size="506,76" group="n31_91yl">
+      <Button title="登录"/>
+    </component>
+    <component id="n22_txbn" name="historyCom" src="txbnl" fileName="com/ComAccount.xml" xy="215,656" size="346,191" group="n31_91yl" visible="false"/>
+    <group id="n31_91yl" name="gp" xy="80,486" size="590,361" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

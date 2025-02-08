@@ -1,0 +1,90 @@
+
+everydaysaoguang.png
+size: 763,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/day_00000
+  rotate: false
+  xy: 284, 3
+  size: 24, 28
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00001
+  rotate: false
+  xy: 486, 20
+  size: 33, 38
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00002
+  rotate: false
+  xy: 717, 30
+  size: 44, 51
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00003
+  rotate: true
+  xy: 418, 2
+  size: 56, 66
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00004
+  rotate: true
+  xy: 632, 10
+  size: 71, 83
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00005
+  rotate: false
+  xy: 632, 83
+  size: 89, 104
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00006
+  rotate: false
+  xy: 418, 60
+  size: 109, 127
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00007
+  rotate: false
+  xy: 284, 33
+  size: 132, 154
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00008
+  rotate: false
+  xy: 2, 25
+  size: 142, 162
+  orig: 160, 180
+  offset: 9, 8
+  index: -1
+effect/day_00009
+  rotate: false
+  xy: 146, 29
+  size: 136, 158
+  orig: 160, 180
+  offset: 15, 12
+  index: -1
+effect/day_00010
+  rotate: false
+  xy: 529, 69
+  size: 101, 118
+  orig: 160, 180
+  offset: 50, 52
+  index: -1
+effect/day_00011
+  rotate: true
+  xy: 529, 8
+  size: 59, 69
+  orig: 160, 180
+  offset: 92, 101
+  index: -1

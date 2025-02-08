@@ -1,0 +1,34 @@
+
+skill02_changqiang_loop_upper.png
+size: 166,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_skill02_fazhen_001
+  rotate: false
+  xy: 2, 43
+  size: 120, 48
+  orig: 145, 75
+  offset: 22, 9
+  index: -1
+images/effect/ef_skill02_fazhen_002
+  rotate: false
+  xy: 2, 93
+  size: 162, 163
+  orig: 180, 180
+  offset: 11, 10
+  index: -1
+images/effect/ef_skill02_qiangtou
+  rotate: true
+  xy: 2, 2
+  size: 13, 133
+  orig: 15, 133
+  offset: 1, 0
+  index: -1
+images/effect/skill02_baodian1
+  rotate: true
+  xy: 124, 17
+  size: 74, 32
+  orig: 77, 34
+  offset: 1, 1
+  index: -1

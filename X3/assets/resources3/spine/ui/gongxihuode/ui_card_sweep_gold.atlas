@@ -1,0 +1,104 @@
+
+ui_card_sweep_gold.png
+size: 359,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sweep_gold_11
+  rotate: false
+  xy: 268, 437
+  size: 39, 39
+  orig: 160, 160
+  offset: 8, 116
+  index: -1
+sweep_gold_12
+  rotate: true
+  xy: 264, 2
+  size: 58, 59
+  orig: 160, 160
+  offset: 8, 98
+  index: -1
+sweep_gold_13
+  rotate: false
+  xy: 264, 62
+  size: 83, 87
+  orig: 160, 160
+  offset: 4, 70
+  index: -1
+sweep_gold_14
+  rotate: false
+  xy: 256, 248
+  size: 93, 100
+  orig: 160, 160
+  offset: 10, 53
+  index: -1
+sweep_gold_15
+  rotate: false
+  xy: 148, 350
+  size: 118, 126
+  orig: 160, 160
+  offset: 6, 29
+  index: -1
+sweep_gold_16
+  rotate: true
+  xy: 2, 189
+  size: 137, 145
+  orig: 160, 160
+  offset: 3, 7
+  index: -1
+sweep_gold_17
+  rotate: false
+  xy: 2, 328
+  size: 144, 148
+  orig: 160, 160
+  offset: 9, 3
+  index: -1
+sweep_gold_18
+  rotate: true
+  xy: 2, 54
+  size: 133, 134
+  orig: 160, 160
+  offset: 19, 6
+  index: -1
+sweep_gold_19
+  rotate: false
+  xy: 138, 61
+  size: 124, 126
+  orig: 160, 160
+  offset: 30, 10
+  index: -1
+sweep_gold_20
+  rotate: false
+  xy: 149, 239
+  size: 105, 109
+  orig: 160, 160
+  offset: 51, 4
+  index: -1
+sweep_gold_21
+  rotate: false
+  xy: 264, 151
+  size: 93, 95
+  orig: 160, 160
+  offset: 63, 3
+  index: -1
+sweep_gold_22
+  rotate: false
+  xy: 268, 350
+  size: 80, 78
+  orig: 160, 160
+  offset: 76, 4
+  index: -1
+sweep_gold_23
+  rotate: false
+  xy: 149, 191
+  size: 49, 46
+  orig: 160, 160
+  offset: 104, 8
+  index: -1
+sweep_gold_24
+  rotate: false
+  xy: 309, 444
+  size: 36, 32
+  orig: 160, 160
+  offset: 108, 6
+  index: -1

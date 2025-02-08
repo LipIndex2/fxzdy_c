@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="508,43">
+  <controller name="c1" pages="0,属性展示,1,升级预览" selected="0"/>
+  <displayList>
+    <image id="n26_b419" name="n26" src="dtss5o" fileName="frameImage/hb_frame.png" pkg="38fa8c75" xy="86,0" pivot="0.5,0.5" size="335,44" alpha="0.5" color="#153177">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearSize controller="c1" pages="0" values="335,44,1,1" default="508,44,1,1"/>
+    </image>
+    <image id="n36_105pv" name="n36" src="105pvv18e" fileName="bgImage/shuxingdi1_frame.png" pkg="38fa8c75" xy="89,2" color="#153177">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="1" values="2,2" default="89,2"/>
+    </image>
+    <loader id="n35_dtss" name="img_icon" xy="111,22" pivot="0.5,0.5" anchor="true" size="32,32" url="ui://38fa8c75105pvv189" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0,1" values="111,22|24,22"/>
+    </loader>
+    <image id="n29_b419" name="n29" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="360,12">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n33_b419" name="T_name" xy="153,4" pivot="0,0.5" size="58,36" fontSize="26" color="#aabff1" vAlign="middle" text="攻击">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0,1" values="153,4|66,4"/>
+    </text>
+    <text id="n32_b419" name="T_num" xy="331,2" pivot="0,0.5" size="81,39" fontSize="28" color="#ffffff" vAlign="middle" leading="0" text="100%">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0,1" values="331,2|216,2"/>
+    </text>
+    <text id="n34_b419" name="T_nextNum" xy="419,2" pivot="0,0.5" size="81,39" fontSize="28" color="#07de20" vAlign="middle" text="150%">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+
+mine_level9.png
+size: 128,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_mine09
+  rotate: false
+  xy: 2, 2
+  size: 124, 135
+  orig: 138, 149
+  offset: 7, 2
+  index: -1

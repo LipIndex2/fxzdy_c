@@ -1,0 +1,48 @@
+
+qikuang_4101.png
+size: 452,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 101, 3
+  size: 16, 20
+  orig: 125, 81
+  offset: 109, 16
+  index: -1
+f
+  rotate: true
+  xy: 2, 2
+  size: 68, 97
+  orig: 132, 141
+  offset: 2, 5
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 72
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: 270
+  xy: 250, 175
+  size: 182, 200
+  orig: 345, 200
+  offset: 163, 0
+  index: -1
+huxi
+  rotate: false
+  xy: 273, 31
+  size: 174, 145
+  orig: 270, 197
+  offset: 79, 52
+  index: -1
+keng
+  rotate: false
+  xy: 2, 165
+  size: 246, 191
+  orig: 270, 197
+  offset: 21, 6
+  index: -1

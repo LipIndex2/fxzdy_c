@@ -1,0 +1,125 @@
+
+skill02_daodang.png
+size: 931,931
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_yunshi1_00000
+  rotate: false
+  xy: 2, 2
+  size: 368, 135
+  orig: 380, 150
+  offset: 6, 5
+  index: -1
+effect/skill02_yunshi1_00001
+  rotate: false
+  xy: 2, 797
+  size: 376, 132
+  orig: 380, 150
+  offset: 4, 10
+  index: -1
+effect/skill02_yunshi1_00002
+  rotate: false
+  xy: 2, 662
+  size: 375, 133
+  orig: 380, 150
+  offset: 5, 6
+  index: -1
+effect/skill02_yunshi1_00003
+  rotate: false
+  xy: 380, 670
+  size: 375, 134
+  orig: 380, 150
+  offset: 5, 9
+  index: -1
+effect/skill02_yunshi1_00004
+  rotate: true
+  xy: 757, 381
+  size: 368, 136
+  orig: 380, 150
+  offset: 5, 7
+  index: -1
+effect/skill02_yunshi1_00005
+  rotate: false
+  xy: 2, 272
+  size: 372, 130
+  orig: 380, 150
+  offset: 8, 7
+  index: -1
+effect/skill02_yunshi1_00006
+  rotate: false
+  xy: 372, 3
+  size: 347, 134
+  orig: 380, 150
+  offset: 9, 5
+  index: -1
+effect/skill02_yunshi1_00007
+  rotate: false
+  xy: 2, 529
+  size: 373, 131
+  orig: 380, 150
+  offset: 7, 5
+  index: -1
+effect/skill02_yunshi1_00008
+  rotate: false
+  xy: 377, 288
+  size: 373, 119
+  orig: 380, 150
+  offset: 7, 6
+  index: -1
+effect/skill02_yunshi1_00009
+  rotate: false
+  xy: 2, 404
+  size: 373, 123
+  orig: 380, 150
+  offset: 7, 13
+  index: -1
+effect/skill02_yunshi1_00010
+  rotate: true
+  xy: 752, 8
+  size: 371, 128
+  orig: 380, 150
+  offset: 7, 5
+  index: -1
+effect/skill02_yunshi1_00011
+  rotate: false
+  xy: 376, 159
+  size: 371, 127
+  orig: 380, 150
+  offset: 7, 12
+  index: -1
+effect/skill02_yunshi1_00012
+  rotate: false
+  xy: 377, 409
+  size: 373, 131
+  orig: 380, 150
+  offset: 4, 11
+  index: -1
+effect/skill02_yunshi1_00013
+  rotate: false
+  xy: 2, 139
+  size: 370, 131
+  orig: 380, 150
+  offset: 10, 9
+  index: -1
+effect/skill02_yunshi1_00014
+  rotate: false
+  xy: 379, 542
+  size: 374, 126
+  orig: 380, 150
+  offset: 6, 5
+  index: -1
+effect/skill02_yunshi1_00015
+  rotate: false
+  xy: 380, 806
+  size: 376, 123
+  orig: 380, 150
+  offset: 4, 6
+  index: -1
+effect/skill02_yunshi2
+  rotate: true
+  xy: 758, 751
+  size: 178, 138
+  orig: 184, 142
+  offset: 4, 2
+  index: -1

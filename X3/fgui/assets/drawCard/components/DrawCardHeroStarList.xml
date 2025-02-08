@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,28">
+  <displayList>
+    <loader id="n8_9537" name="bg" xy="60,14" pivot="0.5,0.5" anchor="true" size="120,28" alpha="0.5" url="ui://38fa8c75dtss5p" align="center" vAlign="middle" fill="scaleFree"/>
+    <list id="n21_ckie" name="starList" xy="6,4" size="153,27" scale="0.7,0.7" touchable="false" layout="row" overflow="scroll" defaultItem="ui://38fa8c75a0033" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

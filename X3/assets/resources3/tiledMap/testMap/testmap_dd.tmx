@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="50" infinite="0" nextlayerid="9" nextobjectid="132" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="50">
+ <tileset columns="0" firstgid="1" name="building" tilecount="23" tileheight="351" tilewidth="531">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="65" source="../mapTilesets/building/jt01_icon.png" width="60" />
+  </tile>
+  <tile id="1">
+   <image height="66" source="../mapTilesets/building/jt03_icon.png" width="84" />
+  </tile>
+  <tile id="2">
+   <image height="66" source="../mapTilesets/building/jt04_icon.png" width="84" />
+  </tile>
+  <tile id="3">
+   <image height="351" source="../mapTilesets/building/map_build_2102.png" width="389" />
+  </tile>
+  <tile id="6">
+   <image height="318" source="../mapTilesets/building/map_door_202.png" width="375" />
+  </tile>
+  <tile id="7">
+   <image height="324" source="../mapTilesets/building/map_scene_2101.png" width="531" />
+  </tile>
+  <tile id="8">
+   <image height="324" source="../mapTilesets/building/map_scene_2102.png" width="531" />
+  </tile>
+  <tile id="9">
+   <image height="167" source="../mapTilesets/building/map_unlock_201.png" width="164" />
+  </tile>
+  <tile id="10">
+   <image height="167" source="../mapTilesets/building/map_unlock_202.png" width="164" />
+  </tile>
+  <tile id="13">
+   <image height="216" source="../mapTilesets/building/map_wall_01.png" width="123" />
+  </tile>
+  <tile id="16">
+   <image height="248" source="../mapTilesets/building/map_wall_02.png" width="124" />
+  </tile>
+  <tile id="19">
+   <image height="211" source="../mapTilesets/building/map_wall_03.png" width="51" />
+  </tile>
+  <tile id="22">
+   <image height="155" source="../mapTilesets/building/map_wall_04.png" width="146" />
+  </tile>
+  <tile id="25">
+   <image height="187" source="../mapTilesets/building/map_wall_05.png" width="73" />
+  </tile>
+  <tile id="26">
+   <image height="149" source="../mapTilesets/building/map_wall_06.png" width="145" />
+  </tile>
+  <tile id="27">
+   <image height="120" source="../mapTilesets/building/map_wall_07.png" width="147" />
+  </tile>
+  <tile id="28">
+   <image height="146" source="../mapTilesets/building/map_wall_201.png" width="119" />
+  </tile>
+  <tile id="29">
+   <image height="159" source="../mapTilesets/building/map_wall_202.png" width="145" />
+  </tile>
+  <tile id="30">
+   <image height="163" source="../mapTilesets/building/map_wall_203.png" width="145" />
+  </tile>
+  <tile id="31">
+   <image height="184" source="../mapTilesets/building/miaozhun.png" width="294" />
+  </tile>
+  <tile id="32">
+   <image height="123" source="../mapTilesets/building/mis_unlocked.png" width="122" />
+  </tile>
+  <tile id="33">
+   <image height="127" source="../mapTilesets/building/teleport.png" width="203" />
+  </tile>
+  <tile id="34">
+   <image height="237" source="../mapTilesets/building/TP.png" width="248" />
+  </tile>
+ </tileset>
+ <tileset columns="6" firstgid="36" name="map_ground_2102" tilecount="24" tileheight="120" tilewidth="200">
+  <image height="480" source="../mapTilesets/masterMap_01/map_ground_2102.png" width="1200" />
+ </tileset>
+ <tileset columns="10" firstgid="60" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <tileset columns="0" firstgid="230" name="resoure" tilecount="26" tileheight="220" tilewidth="213">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="106" source="../mapTilesets/rescoure/map_gas_1101.png" width="110" />
+  </tile>
+  <tile id="1">
+   <image height="176" source="../mapTilesets/rescoure/map_gas_2101.png" width="213" />
+  </tile>
+  <tile id="2">
+   <image height="106" source="../mapTilesets/rescoure/map_geyser_1101.png" width="110" />
+  </tile>
+  <tile id="3">
+   <image height="94" source="../mapTilesets/rescoure/map_mine_1101.png" width="79" />
+  </tile>
+  <tile id="4">
+   <image height="98" source="../mapTilesets/rescoure/map_mine_1111.png" width="95" />
+  </tile>
+  <tile id="5">
+   <image height="120" source="../mapTilesets/rescoure/map_mine_1112.png" width="131" />
+  </tile>
+  <tile id="6">
+   <image height="212" source="../mapTilesets/rescoure/map_mine_1113.png" width="180" />
+  </tile>
+  <tile id="7">
+   <image height="98" source="../mapTilesets/rescoure/map_mine_1121.png" width="96" />
+  </tile>
+  <tile id="8">
+   <image height="120" source="../mapTilesets/rescoure/map_mine_1122.png" width="129" />
+  </tile>
+  <tile id="9">
+   <image height="212" source="../mapTilesets/rescoure/map_mine_1123.png" width="180" />
+  </tile>
+  <tile id="10">
+   <image height="94" source="../mapTilesets/rescoure/map_mine_1131.png" width="92" />
+  </tile>
+  <tile id="11">
+   <image height="120" source="../mapTilesets/rescoure/map_mine_1132.png" width="125" />
+  </tile>
+  <tile id="12">
+   <image height="220" source="../mapTilesets/rescoure/map_mine_1133.png" width="190" />
+  </tile>
+  <tile id="13">
+   <image height="83" source="../mapTilesets/rescoure/map_mine_2101.png" width="99" />
+  </tile>
+  <tile id="14">
+   <image height="109" source="../mapTilesets/rescoure/map_mine_2102.png" width="109" />
+  </tile>
+  <tile id="15">
+   <image height="112" source="../mapTilesets/rescoure/map_mine_2103.png" width="123" />
+  </tile>
+  <tile id="16">
+   <image height="64" source="../mapTilesets/rescoure/map_mined_1111.png" width="92" />
+  </tile>
+  <tile id="17">
+   <image height="92" source="../mapTilesets/rescoure/map_mined_1112.png" width="131" />
+  </tile>
+  <tile id="18">
+   <image height="166" source="../mapTilesets/rescoure/map_mined_1113.png" width="180" />
+  </tile>
+  <tile id="19">
+   <image height="64" source="../mapTilesets/rescoure/map_mined_1121.png" width="92" />
+  </tile>
+  <tile id="20">
+   <image height="92" source="../mapTilesets/rescoure/map_mined_1122.png" width="129" />
+  </tile>
+  <tile id="21">
+   <image height="166" source="../mapTilesets/rescoure/map_mined_1123.png" width="180" />
+  </tile>
+  <tile id="22">
+   <image height="60" source="../mapTilesets/rescoure/map_mined_1131.png" width="89" />
+  </tile>
+  <tile id="23">
+   <image height="92" source="../mapTilesets/rescoure/map_mined_1132.png" width="125" />
+  </tile>
+  <tile id="24">
+   <image height="175" source="../mapTilesets/rescoure/map_mined_1133.png" width="190" />
+  </tile>
+  <tile id="25">
+   <image height="179" source="../mapTilesets/rescoure/map_tree_1101.png" width="92" />
+  </tile>
+ </tileset>
+ <layer height="50" id="1" name="bottom_layer" width="50">
+  <data compression="zlib" encoding="base64">
+   eJzt0zsOgCAQQEFP4N28ifevrEzsWD5KWOclGzpgQtg2vd0ZmH3a7eLVOI7AzGq0o2c4ODg4ZjhKZXb0vCEHBwcHBwcHR6ujtsg5JUdprxUckb3+7hj5Pzg4ODg42hw9cazluFcODo6cjqdntGN0WRzRsjgkSd92Aa9FrfY=
+  </data>
+ </layer>
+ <layer height="50" id="5" name="grassland_layer" width="50">
+  <data compression="zlib" encoding="base64">
+   eJztmV0OgyAMgDmBrx7A/T7MZMkOtiN49I3EJqQp0AIiaL+ELLJa+k3GcBqjKDJu/3Z12ouIGY1ZataUwoURs7VHifxn9JjWYzwXU9qdyJ/D05Ob8gA47jHcHKWvt68+9eCN1aKHjR0CjcoxJldMU8ojZ6wSHMHDrqUPz3u1PKj13F1DJ+IcTl5fbaG1OseD2yfNC4Rqw+epR1kPag5u4eHOTWjU9xPifHuNWD3c2lI9pHCvi3rwY3M4ogfex4z8uIWTPxabQ+hzHiJxUNOeHlBj6rz6GvVgDinizB5fU8dD8n/FGx27uP2fHTy2uAfZ43qoBy9nyAPPabxH7cUjNrZ6lIH6/QCO4GH3BeohG7ME+D64Vw+cu3ePeX3t3QPwecSe+7T6TBR7uMxEX6seFkltLXsoiqIodfkBcple1Q==
+  </data>
+ </layer>
+ <objectgroup id="4" name="player_layer">
+  <properties>
+   <property name="building_type" value="teleport" />
+   <property name="object_id" type="int" value="21301" />
+  </properties>
+  <object height="324" id="78" width="531" x="4778.3" y="3457.7" />
+  <object height="159" id="80" width="145" x="4311.5" y="2664.5" />
+  <object height="159" id="86" width="145" x="5514.7" y="2653.3" />
+  <object height="163" id="81" width="145" x="3823.9" y="2652.1" />
+  <object height="163" id="87" width="145" x="5027.1" y="2640.9" />
+  <object height="167" id="83" width="164" x="4312" y="2872" />
+  <object height="167" id="84" width="164" x="5539.2" y="2860.8" />
+  <object height="237" id="118" width="248" x="2901.42" y="4548.7">
+   <properties>
+    <property name="building_type" value="teleport" />
+    <property name="object_id" type="int" value="21301" />
+   </properties>
+  </object>
+  <object height="83" id="119" width="99" x="2905.33" y="4130.18" />
+  <object height="83" id="120" width="99" x="2559.27" y="3645.94" />
+  <object height="83" id="121" width="99" x="4156.85" y="3672.61" />
+  <object height="83" id="122" width="99" x="3919.27" y="2904.12" />
+  <object height="83" id="123" width="99" x="4304.72" y="2427.76" />
+  <object height="83" id="124" width="99" x="4278.06" y="2084.73" />
+  <object height="83" id="125" width="99" x="2798.66" y="2376.25" />
+  <object height="83" id="126" width="99" x="2587.75" y="2423.52" />
+  <object height="83" id="127" width="99" x="991.997" y="1304.12" />
+  <object height="83" id="128" width="99" x="1102.91" y="1211.4" />
+  <object height="83" id="129" width="99" x="1033.21" y="1505.34" />
+  <object height="83" id="130" width="99" x="4966.54" y="1602.31" />
+  <object height="83" id="131" width="99" x="4968.97" y="1793.82" />
+ </objectgroup>
+ <objectgroup id="3" name="collider_layer">
+  <object height="956" id="47" width="1444" x="3018.93" y="3871.73">
+   <properties>
+    <property name="collider_type" value="" />
+    <property name="object_id" type="int" value="0" />
+   </properties>
+  </object>
+  <object height="327.333" id="48" width="1419.33" x="2257.6" y="2646.4">
+   <properties>
+    <property name="collider_type" value="" />
+    <property name="object_id" type="int" value="0" />
+   </properties>
+  </object>
+  <object height="853.333" id="51" width="1753.33" x="2912.27" y="345.066">
+   <properties>
+    <property name="collider_type" value="" />
+    <property name="object_id" type="int" value="0" />
+   </properties>
+  </object>
+  <object height="4745.87" id="52" width="901.867" x="1361.33" y="1233.33">
+   <properties>
+    <property name="collider_type" value="" />
+    <property name="object_id" type="int" value="0" />
+   </properties>
+  </object>
+  <object height="312.667" id="53" width="1860.67" x="1070.27" y="147.066">
+   <properties>
+    <property name="collider_type" value="" />
+    <property name="object_id" type="int" value="0" />
+   </properties>
+  </object>
+  <object height="1157.6" id="61" width="1450.4" x="2269.6" y="4842.4" />
+  <object height="776" id="62" width="1352" x="-14.4" y="5198.4" />
+  <object height="4908" id="63" width="828" x="-822.4" y="262.4" />
+  <object height="392" id="64" width="1400" x="-324.8" y="-27.2" />
+  <object height="2996" id="65" width="140" x="2242.4" y="3005.6" />
+  <object height="1440" id="109" width="312" x="4444" y="3460" />
+  <object height="1957.6" id="110" width="210.4" x="4417.6" y="1206.4" />
+  <object height="554.4" id="111" width="165.6" x="4621.6" y="2610.4" />
+  <object height="230.4" id="112" width="1617.6" x="4388" y="4964" />
+  <object height="931.2" id="113" width="148.8" x="5850.4" y="4045.6" />
+  <object height="1414.4" id="114" width="209.6" x="5768.8" y="2615.2" />
+  <object height="2550.4" id="115" width="217.6" x="5741.6" y="58.4" />
+  <object height="96.8" id="116" width="1167.2" x="4583.2" y="8.8" />
+  <object height="330.4" id="117" width="349.6" x="4306.4" y="29.6" />
+ </objectgroup>
+ <objectgroup id="2" name="ui_layer" />
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,128">
+  <displayList>
+    <image id="n61_273c" name="n61" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="607,128"/>
+    <component id="n74_cjsd" name="btnOk" src="cjsd3i" fileName="btn/FriendOkBtn.xml" xy="522,32"/>
+    <component id="n75_cjsd" name="btnCancel" src="cjsd3h" fileName="btn/FriendCancelBtn.xml" xy="416,32"/>
+    <component id="n76_cjsd" name="player" src="sx4e3m" fileName="item/FriendPlayerInfoItem.xml" xy="12,13"/>
+  </displayList>
+</component>

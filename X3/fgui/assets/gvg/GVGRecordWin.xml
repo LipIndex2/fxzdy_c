@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n78_k3sy" name="bgn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="52,185" size="646,932" group="n79_k3sy"/>
+    <image id="n65_ac45" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,193" size="643,923" group="n79_k3sy"/>
+    <image id="n66_ac45" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,280" size="600,754" group="n79_k3sy"/>
+    <text id="n76_ac45" name="labelTitle" xy="341,218" size="67,44" group="n79_k3sy" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="记录"/>
+    <list id="n77_k3sy" name="itemList" xy="97,295" size="564,723" group="n79_k3sy" overflow="scroll" lineGap="30" defaultItem="ui://8da0bf52k3sy11t" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n80_t93e" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="473,1048" group="n79_k3sy"/>
+    <text id="n75_ac45" name="labelJustShowMe" xy="518,1053" size="156,32" group="n79_k3sy" fontSize="22" color="#87d2fd" vAlign="middle" text="仅显示我的记录"/>
+    <group id="n79_k3sy" name="G_all" xy="52,185" size="646,932" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

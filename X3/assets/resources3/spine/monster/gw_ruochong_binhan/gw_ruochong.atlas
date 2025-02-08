@@ -1,0 +1,125 @@
+
+gw_ruochong.png
+size: 136,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruochong_0
+  rotate: false
+  xy: 23, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ruochong_1
+  rotate: 180
+  xy: 95, 19
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+ruochong_10
+  rotate: false
+  xy: 44, 8
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+ruochong_11
+  rotate: true
+  xy: 118, 54
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+ruochong_13
+  rotate: false
+  xy: 2, 28
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+ruochong_14
+  rotate: true
+  xy: 126, 11
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+ruochong_15
+  rotate: false
+  xy: 68, 6
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+ruochong_16
+  rotate: false
+  xy: 111, 5
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+ruochong_17
+  rotate: true
+  xy: 2, 4
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+ruochong_2
+  rotate: false
+  xy: 54, 56
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+ruochong_3
+  rotate: true
+  xy: 95, 5
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+ruochong_4
+  rotate: true
+  xy: 81, 7
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+ruochong_5
+  rotate: true
+  xy: 15, 4
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+ruochong_6
+  rotate: true
+  xy: 96, 33
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ruochong_7
+  rotate: true
+  xy: 70, 39
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+ruochong_8
+  rotate: false
+  xy: 71, 18
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+ruochong_9
+  rotate: false
+  xy: 2, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1

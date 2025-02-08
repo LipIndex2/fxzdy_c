@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7d3a8daf">
+  <resources>
+    <image id="d91a9" name="dizuo.png" path="/img/"/>
+    <image id="d91a10" name="tuceng60kaobei.png" path="/img/"/>
+    <image id="d91a17" name="wenzidi.png" path="/img/"/>
+    <image id="d91a18" name="jlyl_frame.png" path="/img/" scale="9grid" scale9grid="40,47,7,94"/>
+    <image id="d91a19" name="xingzhuang21.png" path="/img/"/>
+    <image id="d91a31" name="shiwan_4.png" path="/img/"/>
+    <image id="d91a32" name="biaotidi.png" path="/img/"/>
+    <image id="ko815c" name="touxiang_frame.png" path="/img/"/>
+    <component id="d91a57" name="SummonHeroMainView.xml" path="/"/>
+    <component id="ko8158" name="demoBtn.xml" path="/"/>
+    <component id="ko8159" name="awardItem.xml" path="/"/>
+    <component id="ko815a" name="DrawSkipAnimItem.xml" path="/item/"/>
+    <component id="ko815b" name="SummonHeroChooseBigRewardWin.xml" path="/"/>
+    <component id="ko815d" name="ChooseAwardItem.xml" path="/"/>
+    <component id="ko815e" name="DialogBoxPage.xml" path="/"/>
+    <component id="ko815f" name="DialogBoxPageItem.xml" path="/"/>
+    <component id="ko815g" name="dialogBoxItem.xml" path="/"/>
+    <component id="8adr5h" name="DemoGetBtn.xml" path="/btn/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

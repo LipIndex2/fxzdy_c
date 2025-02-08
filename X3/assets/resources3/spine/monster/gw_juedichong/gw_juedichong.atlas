@@ -1,0 +1,132 @@
+
+gw_juedichong.png
+size: 100,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 15, 6
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 30, 56
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 33, 31
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 89, 53
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 90, 4
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 2, 15
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 81, 5
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 81, 13
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 2, 30
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 25, 7
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 36, 3
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 31, 27
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 2, 10
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 68, 11
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 65, 4
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 65, 56
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: 180
+  xy: 63, 28
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 36, 4
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

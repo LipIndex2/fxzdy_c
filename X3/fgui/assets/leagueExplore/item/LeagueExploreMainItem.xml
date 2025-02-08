@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,470">
+  <displayList>
+    <list id="n23_gvuz" name="listPlanet" xy="0,150" size="750,320" overflow="scroll" scrollBarFlags="160" defaultItem="ui://78d1ed1agtlw12w" autoClearItems="true">
+      <item/>
+    </list>
+    <loader id="n24_gvuz" name="maskLoader" xy="0,0" size="750,320" url="ui://7cvz7rmmgvuzvv2h" align="center" fill="scale"/>
+    <component id="n21_ta4f" name="itemTitle" src="ta4f13k" fileName="item/LeagueExploreMainTitleItem.xml" xy="0,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,237 @@
+
+woerte_attack_hit.png
+size: 400,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/Liquid_01
+  rotate: false
+  xy: 127, 76
+  size: 41, 16
+  orig: 120, 40
+  offset: 4, 17
+  index: -1
+images/effect/Liquid_02
+  rotate: false
+  xy: 54, 26
+  size: 67, 29
+  orig: 120, 40
+  offset: 7, 7
+  index: -1
+images/effect/Liquid_03
+  rotate: false
+  xy: 184, 67
+  size: 78, 33
+  orig: 120, 40
+  offset: 18, 3
+  index: -1
+images/effect/Liquid_04
+  rotate: false
+  xy: 264, 66
+  size: 80, 32
+  orig: 120, 40
+  offset: 25, 4
+  index: -1
+images/effect/Liquid_05
+  rotate: false
+  xy: 54, 57
+  size: 71, 33
+  orig: 120, 40
+  offset: 38, 4
+  index: -1
+images/effect/Liquid_06
+  rotate: false
+  xy: 127, 33
+  size: 70, 32
+  orig: 120, 40
+  offset: 39, 5
+  index: -1
+images/effect/Liquid_07
+  rotate: true
+  xy: 346, 32
+  size: 66, 33
+  orig: 120, 40
+  offset: 45, 4
+  index: -1
+images/effect/Liquid_08
+  rotate: false
+  xy: 274, 32
+  size: 66, 32
+  orig: 120, 40
+  offset: 46, 4
+  index: -1
+images/effect/Liquid_09
+  rotate: false
+  xy: 199, 2
+  size: 57, 31
+  orig: 120, 40
+  offset: 56, 4
+  index: -1
+images/effect/Liquid_10
+  rotate: false
+  xy: 123, 2
+  size: 50, 29
+  orig: 120, 40
+  offset: 64, 5
+  index: -1
+images/effect/Liquid_11
+  rotate: false
+  xy: 373, 166
+  size: 25, 29
+  orig: 120, 40
+  offset: 66, 5
+  index: -1
+images/effect/Liquid_12
+  rotate: false
+  xy: 295, 2
+  size: 25, 28
+  orig: 120, 40
+  offset: 66, 5
+  index: -1
+images/effect/Liquid_13
+  rotate: false
+  xy: 322, 3
+  size: 24, 27
+  orig: 120, 40
+  offset: 68, 5
+  index: -1
+images/effect/ep1_01
+  rotate: false
+  xy: 199, 35
+  size: 73, 29
+  orig: 160, 60
+  offset: 0, 17
+  index: -1
+images/effect/ep1_02
+  rotate: false
+  xy: 2, 156
+  size: 105, 38
+  orig: 160, 60
+  offset: 11, 13
+  index: -1
+images/effect/ep1_03
+  rotate: false
+  xy: 256, 150
+  size: 115, 45
+  orig: 160, 60
+  offset: 15, 9
+  index: -1
+images/effect/ep1_04
+  rotate: false
+  xy: 130, 147
+  size: 124, 49
+  orig: 160, 60
+  offset: 19, 6
+  index: -1
+images/effect/ep1_05
+  rotate: false
+  xy: 130, 198
+  size: 129, 50
+  orig: 160, 60
+  offset: 22, 5
+  index: -1
+images/effect/ep1_06
+  rotate: false
+  xy: 2, 196
+  size: 126, 52
+  orig: 160, 60
+  offset: 27, 4
+  index: -1
+images/effect/ep1_07
+  rotate: false
+  xy: 261, 197
+  size: 121, 51
+  orig: 160, 60
+  offset: 34, 2
+  index: -1
+images/effect/ep1_08
+  rotate: false
+  xy: 256, 102
+  size: 74, 46
+  orig: 160, 60
+  offset: 81, 2
+  index: -1
+images/effect/ep1_09
+  rotate: false
+  xy: 2, 7
+  size: 38, 42
+  orig: 160, 60
+  offset: 85, 2
+  index: -1
+images/effect/ep1_10
+  rotate: false
+  xy: 258, 3
+  size: 35, 27
+  orig: 160, 60
+  offset: 90, 2
+  index: -1
+images/effect/ep1_11
+  rotate: false
+  xy: 109, 182
+  size: 15, 12
+  orig: 160, 60
+  offset: 108, 6
+  index: -1
+images/effect/ep1_12
+  rotate: false
+  xy: 384, 220
+  size: 7, 6
+  orig: 160, 60
+  offset: 114, 10
+  index: -1
+images/effect/ep2_01
+  rotate: false
+  xy: 348, 19
+  size: 42, 11
+  orig: 100, 60
+  offset: 2, 26
+  index: -1
+images/effect/ep2_02
+  rotate: false
+  xy: 184, 105
+  size: 69, 40
+  orig: 100, 60
+  offset: 10, 12
+  index: -1
+images/effect/ep2_03
+  rotate: false
+  xy: 332, 100
+  size: 66, 48
+  orig: 100, 60
+  offset: 22, 6
+  index: -1
+images/effect/ep2_04
+  rotate: false
+  xy: 2, 101
+  size: 66, 53
+  orig: 100, 60
+  offset: 34, 1
+  index: -1
+images/effect/ep2_05
+  rotate: true
+  xy: 70, 92
+  size: 62, 52
+  orig: 100, 60
+  offset: 38, 1
+  index: -1
+images/effect/ep2_06
+  rotate: false
+  xy: 124, 94
+  size: 58, 51
+  orig: 100, 60
+  offset: 42, 2
+  index: -1
+images/effect/ep2_07
+  rotate: true
+  xy: 2, 51
+  size: 48, 50
+  orig: 100, 60
+  offset: 47, 2
+  index: -1
+images/effect/ep2_08
+  rotate: false
+  xy: 384, 228
+  size: 10, 20
+  orig: 100, 60
+  offset: 80, 23
+  index: -1

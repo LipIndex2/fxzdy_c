@@ -1,0 +1,111 @@
+
+skill02_hit_lower.png
+size: 483,894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_hitxia1png_00000
+  rotate: false
+  xy: 355, 164
+  size: 93, 91
+  orig: 200, 200
+  offset: 58, 52
+  index: -1
+effect/skill02_hitxia1png_00001
+  rotate: false
+  xy: 354, 45
+  size: 121, 117
+  orig: 200, 200
+  offset: 44, 44
+  index: -1
+effect/skill02_hitxia1png_00002
+  rotate: false
+  xy: 351, 627
+  size: 128, 125
+  orig: 200, 200
+  offset: 40, 40
+  index: -1
+effect/skill02_hitxia1png_00003
+  rotate: true
+  xy: 345, 754
+  size: 138, 136
+  orig: 200, 200
+  offset: 35, 34
+  index: -1
+effect/skill02_hitxia1png_00004
+  rotate: false
+  xy: 194, 746
+  size: 149, 146
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+effect/skill02_hitxia1png_00005
+  rotate: false
+  xy: 191, 555
+  size: 158, 151
+  orig: 200, 200
+  offset: 24, 27
+  index: -1
+effect/skill02_hitxia1png_00006
+  rotate: false
+  xy: 186, 8
+  size: 166, 154
+  orig: 200, 200
+  offset: 20, 26
+  index: -1
+effect/skill02_hitxia1png_00007
+  rotate: true
+  xy: 190, 347
+  size: 178, 162
+  orig: 200, 200
+  offset: 13, 22
+  index: -1
+effect/skill02_hitxia1png_00008
+  rotate: true
+  xy: 188, 164
+  size: 181, 165
+  orig: 200, 200
+  offset: 11, 20
+  index: -1
+effect/skill02_hitxia1png_00009
+  rotate: false
+  xy: 2, 2
+  size: 182, 168
+  orig: 200, 200
+  offset: 10, 19
+  index: -1
+effect/skill02_hitxia1png_00010
+  rotate: false
+  xy: 2, 172
+  size: 184, 173
+  orig: 200, 200
+  offset: 9, 16
+  index: -1
+effect/skill02_hitxia1png_00011
+  rotate: false
+  xy: 2, 347
+  size: 185, 177
+  orig: 200, 200
+  offset: 9, 14
+  index: -1
+effect/skill02_hitxia1png_00012
+  rotate: false
+  xy: 2, 526
+  size: 187, 180
+  orig: 200, 200
+  offset: 8, 12
+  index: -1
+effect/skill02_hitxia1png_00013
+  rotate: false
+  xy: 2, 708
+  size: 190, 184
+  orig: 200, 200
+  offset: 7, 10
+  index: -1
+effect/skill02_hitxia2
+  rotate: false
+  xy: 355, 257
+  size: 60, 60
+  orig: 62, 62
+  offset: 1, 1
+  index: -1

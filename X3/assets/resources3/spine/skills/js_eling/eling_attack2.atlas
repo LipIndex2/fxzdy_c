@@ -1,0 +1,55 @@
+
+eling_attack2.png
+size: 430,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_slash_01h
+  rotate: false
+  xy: 219, 153
+  size: 194, 84
+  orig: 195, 84
+  offset: 0, 0
+  index: -1
+effect/attack_slash_02h
+  rotate: false
+  xy: 2, 145
+  size: 215, 92
+  orig: 215, 92
+  offset: 0, 0
+  index: -1
+effect/attack_slash_03h
+  rotate: false
+  xy: 210, 16
+  size: 207, 63
+  orig: 207, 64
+  offset: 0, 0
+  index: -1
+effect/attack_slash_04h
+  rotate: false
+  xy: 219, 81
+  size: 209, 70
+  orig: 209, 70
+  offset: 0, 0
+  index: -1
+effect/attack_slash_05h
+  rotate: false
+  xy: 2, 72
+  size: 206, 71
+  orig: 206, 72
+  offset: 0, 1
+  index: -1
+effect/attack_slash_06h
+  rotate: false
+  xy: 2, 2
+  size: 181, 68
+  orig: 181, 69
+  offset: 0, 1
+  index: -1
+effect/attack_slash_07h
+  rotate: false
+  xy: 185, 11
+  size: 11, 59
+  orig: 13, 60
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+skill02_up.png
+size: 286,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_lichang
+  rotate: false
+  xy: 2, 28
+  size: 230, 256
+  orig: 256, 264
+  offset: 13, 4
+  index: -1
+effect/skill02_tanhao
+  rotate: true
+  xy: 2, 2
+  size: 24, 56
+  orig: 28, 58
+  offset: 2, 1
+  index: -1

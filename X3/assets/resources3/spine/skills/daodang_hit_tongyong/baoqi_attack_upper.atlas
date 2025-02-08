@@ -1,0 +1,111 @@
+
+baoqi_attack_upper.png
+size: 1012,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tongyong_baoqi_loop_upper_0
+  rotate: false
+  xy: 514, 2
+  size: 272, 80
+  orig: 340, 180
+  offset: 31, 21
+  index: -1
+effect/tongyong_baoqi_loop_upper_1
+  rotate: false
+  xy: 245, 6
+  size: 208, 65
+  orig: 340, 180
+  offset: 62, 23
+  index: -1
+effect/tongyong_baoqi_loop_upper_10
+  rotate: false
+  xy: 314, 322
+  size: 275, 137
+  orig: 340, 180
+  offset: 31, 21
+  index: -1
+effect/tongyong_baoqi_loop_upper_11
+  rotate: true
+  xy: 875, 215
+  size: 244, 135
+  orig: 340, 180
+  offset: 62, 23
+  index: -1
+effect/tongyong_baoqi_loop_upper_12
+  rotate: false
+  xy: 619, 461
+  size: 281, 136
+  orig: 340, 180
+  offset: 48, 22
+  index: -1
+effect/tongyong_baoqi_loop_upper_13
+  rotate: false
+  xy: 314, 461
+  size: 303, 136
+  orig: 340, 180
+  offset: 29, 21
+  index: -1
+effect/tongyong_baoqi_loop_upper_14
+  rotate: false
+  xy: 2, 460
+  size: 310, 137
+  orig: 340, 180
+  offset: 26, 20
+  index: -1
+effect/tongyong_baoqi_loop_upper_2
+  rotate: false
+  xy: 514, 84
+  size: 243, 101
+  orig: 340, 180
+  offset: 48, 23
+  index: -1
+effect/tongyong_baoqi_loop_upper_3
+  rotate: false
+  xy: 245, 73
+  size: 267, 112
+  orig: 340, 180
+  offset: 29, 21
+  index: -1
+effect/tongyong_baoqi_loop_upper_4
+  rotate: false
+  xy: 2, 195
+  size: 282, 125
+  orig: 340, 180
+  offset: 26, 25
+  index: -1
+effect/tongyong_baoqi_loop_upper_5
+  rotate: false
+  xy: 591, 194
+  size: 272, 131
+  orig: 340, 180
+  offset: 31, 21
+  index: -1
+effect/tongyong_baoqi_loop_upper_6
+  rotate: false
+  xy: 2, 62
+  size: 241, 131
+  orig: 340, 180
+  offset: 62, 23
+  index: -1
+effect/tongyong_baoqi_loop_upper_7
+  rotate: false
+  xy: 286, 187
+  size: 256, 133
+  orig: 340, 180
+  offset: 48, 23
+  index: -1
+effect/tongyong_baoqi_loop_upper_8
+  rotate: false
+  xy: 2, 322
+  size: 275, 136
+  orig: 340, 180
+  offset: 29, 21
+  index: -1
+effect/tongyong_baoqi_loop_upper_9
+  rotate: false
+  xy: 591, 327
+  size: 282, 132
+  orig: 340, 180
+  offset: 26, 25
+  index: -1

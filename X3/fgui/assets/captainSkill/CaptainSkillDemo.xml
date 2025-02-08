@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n1_06d7" name="n1" src="kp3w35" fileName="CaptionSkillLvUpView.xml" xy="-1113,197"/>
+    <image id="n15_06d7" name="n15" src="06d710" fileName="img/sd_A_common_fengexian_line_7.png" xy="1364,1013"/>
+    <image id="n16_06d7" name="n16" src="06d711" fileName="img/sd_A_common_fengexian_line.png" xy="967,1013"/>
+    <image id="n18_06d7" name="n18" src="06d713" fileName="img/xinxiditu.png" xy="932,399"/>
+    <image id="n21_06d7" name="n21" src="06d716" fileName="img/sd_A_common_xueliang_icon_6.png" xy="1431,443"/>
+    <image id="n22_06d7" name="n22" src="06d717" fileName="img/sd_A_common_xueliang_icon.png" xy="1216,446"/>
+    <image id="n23_06d7" name="n23" src="06d718" fileName="img/sd_A_common_gongji_icon.png" xy="994,444"/>
+    <text id="n27_06d7" name="n27" xy="1000,495" size="584,70" fontSize="22" color="#ffffff" autoSize="none" text="从战斗开始第5秒期，每隔20秒，召唤无人机对当前目标区域进行轰炸，对每个目标造成队伍战斗力5%的伤害"/>
+    <text id="n28_06d7" name="n28" xy="1001,574" size="290,32" fontSize="22" color="#ffffff" text="无人机轰炸会对降低目标攻速"/>
+    <text id="n29_06d7" name="n29" xy="999,619" size="403,32" fontSize="22" color="#969aa5" text="无人机轰炸的伤害提升100%（20级解锁)"/>
+    <image id="n30_06d7" name="n30" src="06d719" fileName="img/sd_A_common_boss_tag_4.png" xy="984,496"/>
+    <image id="n31_06d7" name="n31" src="06d719" fileName="img/sd_A_common_boss_tag_4.png" xy="984,577"/>
+    <image id="n32_06d7" name="n32" src="06d720" fileName="img/sd_A_common_suo1_icom.png" xy="977,618"/>
+    <image id="n33_06d7" name="n33" src="06d721" fileName="img/sd_A_common_xb1_frame.png" xy="981,663"/>
+    <text id="n34_06d7" name="n34" xy="1001,664" size="116,39" fontSize="28" color="#85b0ff" text="它的故事"/>
+    <text id="n35_06d7" name="n35" xy="1000,716" size="588,70" fontSize="22" color="#8cadff" autoSize="none" text="泰伦人族的最高科技，让那些葱子灰飞烟灭泰伦人族的最高科技，让那些葱子灰飞烟灭"/>
+    <text id="n38_06d7" name="n38" xy="1075,354" size="194,52" fontSize="38" color="#ffcd54" text="无人机轰炸"/>
+    <image id="n39_06d7" name="n39" src="06d723" fileName="img/sd_A_common_changgui1_btn.png" xy="1079,840"/>
+    <text id="n40_06d7" name="n40" xy="1248,890" size="88,56" fontSize="42" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="升级"/>
+    <text id="n41_06d7" name="n41" xy="1303,850" size="22,42" fontSize="30" color="#142240" strokeColor="#c96b06" strokeSize="3" text="1"/>
+    <image id="n42_06d7" name="n42" src="06d724" fileName="img/icgoods_10007.png" xy="1255,846"/>
+    <image id="n50_06d7" name="n50" src="06d730" fileName="img/jindutiao.png" xy="922,989"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="321,35" pivot="0.5,0.5">
+  <displayList>
+    <image id="n58_e1fv" name="n58" src="e1fvvvv1ch" fileName="img/zd_icon.png" pkg="38fa8c75" xy="146,17" pivot="0.5,0.5" anchor="true" group="n61_e1fv">
+      <relation target="n24_d6aa" sidePair="right-left"/>
+    </image>
+    <text id="n24_d6aa" name="damage" xy="187,17" pivot="0.5,0.5" anchor="true" size="10,34" group="n61_e1fv" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#070110" strokeSize="3" text=""/>
+    <group id="n61_e1fv" name="layout" xy="129,0" size="63,34" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

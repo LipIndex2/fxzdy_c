@@ -1,0 +1,76 @@
+
+silaimu.png
+size: 120,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 79, 38
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 103, 6
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 40, 6
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 85, 4
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: 180
+  xy: 59, 8
+  size: 24, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 78, 20
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 2, 7
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 2, 13
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+miyan
+  rotate: false
+  xy: 22, 5
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 47, 3
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1

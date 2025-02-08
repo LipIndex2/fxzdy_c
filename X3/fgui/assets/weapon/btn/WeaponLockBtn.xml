@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" extention="Button">
+  <displayList>
+    <image id="n3_03e4" name="iconLock" src="03e445" fileName="img/scale_80%_sd_A_common_suo1_icon.png" xy="12,10" size="25,31"/>
+    <image id="n34_cjsd" name="iconUnlock" src="cjsd9f" fileName="img/suoopen_icon.png" xy="12,10" size="25,31"/>
+  </displayList>
+  <Button/>
+</component>

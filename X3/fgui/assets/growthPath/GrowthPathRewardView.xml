@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1ktl0c6j">
+  <displayList>
+    <image id="n43_ed86" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="35,177" size="682,962" group="n63_tl0c"/>
+    <image id="n61_tl0c" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,260" size="638,843" group="n63_tl0c"/>
+    <text id="n49_ed86" name="labelTitle" xy="310,197" size="131,44" group="n63_tl0c" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="奖励预览"/>
+    <image id="n45_ed86" name="fg2" src="ed8633" fileName="img/sd_A_common_bossfydi_frame.png" xy="76,283" group="n63_tl0c"/>
+    <image id="n60_tl0c" name="n60" src="ed8634" fileName="img/sd_A_common_bossfgx_line.png" xy="206,287" group="n63_tl0c"/>
+    <text id="n46_ed86" name="labelStage" xy="121,287" size="55,36" group="n63_tl0c" fontSize="26" color="#75c2f8" strokeColor="#000000" strokeSize="3" text="阶段"/>
+    <text id="n47_ed86" name="labelReward" xy="420,287" size="55,36" group="n63_tl0c" fontSize="26" color="#6cc3fe" strokeColor="#000000" strokeSize="3" text="奖励"/>
+    <list id="n62_tl0c" name="rowList" xy="77,340" size="606,751" group="n63_tl0c" overflow="scroll" lineGap="10" defaultItem="ui://cb0a7c04tl0c43" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n63_tl0c" name="G_all" xy="35,177" size="682,962" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n64_vdae" name="n64" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1157">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,任务,1,付费礼包" selected="0"/>
+  <controller name="type" pages="0,抽卡,1,秘境,2,黑市" selected="0"/>
+  <displayList>
+    <loader id="n220_k045" name="img_bg" xy="0,0" size="750,537" url="ui://789979936b6166" autoSize="true"/>
+    <image id="n230_s8ul" name="n230" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-149" size="750,232" color="#223f8f">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n188_6b61" name="n188" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="22,138" size="262,37" alpha="0.25"/>
+    <image id="n146_6b61" name="n146" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,366" size="750,968">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <image id="n147_6b61" name="n147" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,475" size="730,719">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <text id="n186_6b61" name="T_title" xy="18,62" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="4" text="秘境达标"/>
+    <richtext id="n226_k045" name="T_count" xy="22,316" pivot="0,0.5" size="230,39" fontSize="28" color="#ffffff" vAlign="middle" ubb="true" vars="true" strokeColor="#000000" strokeSize="3" text="当前奖励轮数:[color=#FF8651]1/4[/color]"/>
+    <richtext id="n224_k045" name="T_time" xy="47,143" pivot="0,0.5" size="207,29" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" text="活动倒计时:[color=#3CFE37]5天30小时[/color]"/>
+    <list id="n225_k045" name="list_tab" xy="19,403" size="717,66" pageController="c1" layout="row" colGap="40" defaultItem="ui://78997993k04585" selectionController="c1">
+      <item/>
+      <item/>
+    </list>
+    <list id="n222_k045" name="list_Goods" xy="32,497" size="685,673" overflow="scroll" lineGap="10" defaultItem="ui://78997993k04584">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n229_k045" name="list_task" xy="32,497" size="685,673" overflow="scroll" lineGap="10" defaultItem="ui://78997993k04583">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n223_k045" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="528,80" controller="isTop,1"/>
+    <component id="n228_k045" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,77"/>
+    <component id="n227_k045" name="btn_jump" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="507,314" size="240,43" group="n231_ksmg">
+      <Button icon="ui://789979936b6167"/>
+    </component>
+    <group id="n231_ksmg" name="G_drawCard" xy="507,314" size="240,43" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <component id="n232_ksmg" name="btn_jumpSec" src="ksmg88" fileName="btn/WeekCycleGoSecretLevelBtn.xml" xy="507,314" size="240,43" group="n233_ksmg">
+      <Button icon="ui://789979936b6167"/>
+    </component>
+    <group id="n233_ksmg" name="G_sec" xy="507,314" size="240,43" advanced="true">
+      <gearDisplay controller="type" pages="1"/>
+    </group>
+    <component id="n234_ksmg" name="btn_jumpBlack" src="ksmg86" fileName="btn/WeekCycleGoHangUpBtn.xml" xy="507,314" size="240,43" group="n235_ksmg">
+      <Button icon="ui://789979936b6167"/>
+    </component>
+    <group id="n235_ksmg" name="G_black" xy="507,314" size="240,43" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+    </group>
+    <component id="n237_teox" name="btn_left" src="teox8b" fileName="item/btn_jt.xml" xy="0,750" scale="-1,1">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75teoxvvv1kc"/>
+    </component>
+    <component id="n238_teox" name="btn_right" src="teox8b" fileName="item/btn_jt.xml" xy="707,750" size="43,61">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75teoxvvv1kc"/>
+    </component>
+  </displayList>
+</component>

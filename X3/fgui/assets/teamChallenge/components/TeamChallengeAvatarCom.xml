@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120">
+  <displayList>
+    <image id="n6_uk3p" name="n6" src="uk3p18y" fileName="img/jytx_tag.png" xy="7,9" group="n7_uk3p"/>
+    <image id="n2_ig8t" name="n2" src="bbe362" fileName="img/sd_A_common_tiaoguo.png" xy="8,9" size="104,104" group="n7_uk3p" alpha="0.6"/>
+    <group id="n7_uk3p" name="bgImg" xy="7,9" size="105,104" advanced="true"/>
+    <component id="n0_ig8t" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="8,8" size="104,104"/>
+    <text id="n1_ig8t" name="lbLv" xy="-1,79" size="123,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="Lv.100">
+      <relation target="n0_ig8t" sidePair="center-center"/>
+    </text>
+    <image id="n3_ig8t" name="imgCaptain" src="ig8t17d" fileName="img/duizhang.png" xy="3,5" size="25,29" visible="false"/>
+  </displayList>
+</component>

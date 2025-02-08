@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="704,260">
+  <controller name="isCurrent" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n116_r8pu" name="bgOther" src="r8pu178" fileName="img/liebiaolanse.png" xy="90,0">
+      <gearDisplay controller="isCurrent" pages="0"/>
+    </image>
+    <image id="n110_r8pu" name="bgCurrent" src="r8pu172" fileName="img/liebiaochengse.png" xy="90,0">
+      <gearDisplay controller="isCurrent" pages="1"/>
+    </image>
+    <component id="n117_r8pu" name="bar" src="r8pu17p" fileName="bar/HangUpProgressBar.xml" xy="44,32" size="241,24" rotation="90">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <text id="n85_8090" name="labelTitle" xy="127,13" pivot="0,0.5" size="180,36" fontSize="26" color="#fbf5ff" vAlign="middle" strokeColor="#ac551b" strokeSize="3" text="进度达到：257"/>
+    <component id="n111_r8pu" name="tips1" src="r8pu17n" fileName="components/HangUpTimeRewardTipsComp.xml" xy="114,73"/>
+    <component id="n112_r8pu" name="tips2" src="r8pu17n" fileName="components/HangUpTimeRewardTipsComp.xml" xy="390,73"/>
+    <component id="n84_8090" name="tips3" src="r8pu17n" fileName="components/HangUpTimeRewardTipsComp.xml" xy="114,126"/>
+    <image id="n94_8090" name="n94" src="r8pu177" fileName="img/zhuangbei_icon.png" xy="398,135" group="n113_r8pu"/>
+    <image id="n118_hqyb" name="imageAdd" src="r8pu176" fileName="img/shangshengjiantou.png" xy="621,139" group="n113_r8pu">
+      <relation target="n119_ba35" sidePair="left-right"/>
+    </image>
+    <richtext id="n119_ba35" name="labelMaxLv" xy="443,137" size="175,34" group="n113_r8pu" fontSize="24" color="#ffffff" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="2" text="最高等级：95级"/>
+    <group id="n113_r8pu" name="n113" xy="398,135" size="249,40"/>
+    <image id="n104_8090" name="n104" src="r8pu17d" fileName="img/xiaofeiji.png" xy="0,15" group="n114_r8pu">
+      <gearDisplay controller="isCurrent" pages="1"/>
+    </image>
+    <image id="n105_8090" name="n105" src="r8pu17e" fileName="img/shuzidi.png" xy="3,7" group="n115_r8pu"/>
+    <text id="n106_8090" name="labelLevelId" xy="6,19" pivot="0.5,0.5" size="51,36" group="n115_r8pu" fontSize="26" color="#fbf5ff" align="center" vAlign="middle" autoSize="shrink" text="258"/>
+    <group id="n115_r8pu" name="n115" xy="3,7" size="57,61" group="n114_r8pu" advanced="true">
+      <gearDisplay controller="isCurrent" pages="0"/>
+    </group>
+    <group id="n114_r8pu" name="n114" xy="0,7" size="62,61"/>
+  </displayList>
+</component>

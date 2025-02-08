@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,52">
+  <displayList>
+    <image id="n54_95cd" name="n54" src="na348k" fileName="battle/img/sd_A_common_changgui1_btn.png" pkg="u3tpmdwf" xy="0,0" scale="0.4,0.45"/>
+    <text id="n55_95cd" name="n55" xy="59,26" pivot="0.5,0.5" anchor="true" size="55,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#b77000" strokeSize="3" text="应用"/>
+  </displayList>
+</component>

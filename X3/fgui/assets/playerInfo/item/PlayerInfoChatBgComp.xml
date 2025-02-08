@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="185,117" designImage="ui://7q3fcj1kl2wis7p" designImageOffsetX="-96" designImageOffsetY="-715" designImageAlpha="0">
+  <controller name="isLock" exported="true" pages="6,,7," selected="0"/>
+  <controller name="isChoose" pages="0,,1," selected="0"/>
+  <controller name="isWear" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n73_hcpc" name="bg" src="l2wi8f" fileName="item/img/zhezhao_13.png" xy="4,2" visible="false"/>
+    <image id="n75_lb79" name="imgChatBg" src="lb790" fileName="skin/qipao1.png" pkg="gq5ugm3u" xy="-7,8"/>
+    <image id="n63_a9a7" name="n63" src="d2997n" fileName="img/sd_A_common_liaotian_frame(2).png" xy="-2,1" size="39,38" group="n65_d299" alpha="0.74"/>
+    <image id="n64_a9a7" name="n64" src="d2997o" fileName="img/scale_80%_sd_A_common_gou_icon(1).png" xy="0,-2" size="46,37" group="n65_d299"/>
+    <group id="n65_d299" name="G_wear" xy="-2,-2" size="48,41" advanced="true">
+      <gearDisplay controller="isWear" pages="1"/>
+    </group>
+    <image id="n67_d299" name="n67" src="l2wi8f" fileName="item/img/zhezhao_13.png" xy="4,2" size="177,112" group="n68_d299" alpha="0.6"/>
+    <image id="n66_d299" name="n66" src="d2997q" fileName="img/scale_70%_sd_A_common_suo1_icon_12(1).png" xy="71,34" size="38,44" group="n68_d299"/>
+    <group id="n68_d299" name="G_lock" xy="4,2" size="177,112" advanced="true">
+      <gearDisplay controller="isLock" pages="7"/>
+    </group>
+    <image id="n62_a9a7" name="n62" src="2ce224" fileName="bgImage/xz__frame.png" pkg="38fa8c75" xy="-1,-1" size="185,120" group="n69_d299"/>
+    <group id="n69_d299" name="G_choose" xy="-1,-1" size="185,120" advanced="true">
+      <gearDisplay controller="isChoose" pages="1"/>
+    </group>
+    <component id="n74_hcpc" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="169,20" controller="type,3"/>
+  </displayList>
+</component>

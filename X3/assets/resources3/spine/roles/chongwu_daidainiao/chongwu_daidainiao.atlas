@@ -1,0 +1,139 @@
+
+chongwu_daidainiao.png
+size: 150,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingniao_0
+  rotate: false
+  xy: 22, 5
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+jingniao_1
+  rotate: false
+  xy: 116, 4
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jingniao_10
+  rotate: 180
+  xy: 103, 15
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+jingniao_11
+  rotate: 180
+  xy: 44, 20
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+jingniao_12
+  rotate: true
+  xy: 130, 6
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jingniao_13
+  rotate: false
+  xy: 2, 10
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+jingniao_14
+  rotate: true
+  xy: 136, 42
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+jingniao_15
+  rotate: 180
+  xy: 60, 11
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+jingniao_16
+  rotate: 180
+  xy: 114, 29
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+jingniao_17
+  rotate: false
+  xy: 102, 3
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+jingniao_2
+  rotate: false
+  xy: 2, 56
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+jingniao_3
+  rotate: 270
+  xy: 39, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+jingniao_33
+  rotate: false
+  xy: 88, 12
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+jingniao_4
+  rotate: 180
+  xy: 70, 23
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+jingniao_5
+  rotate: false
+  xy: 77, 4
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+jingniao_6
+  rotate: false
+  xy: 2, 23
+  size: 43, 37
+  orig: 43, 38
+  offset: 0, 1
+  index: -1
+jingniao_7
+  rotate: 180
+  xy: 92, 28
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+jingniao_8
+  rotate: false
+  xy: 131, 19
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+jingniao_9
+  rotate: false
+  xy: 17, 12
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1

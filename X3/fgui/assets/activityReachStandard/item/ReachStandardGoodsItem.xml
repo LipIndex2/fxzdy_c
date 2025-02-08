@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,188">
+  <controller name="c1" pages="1,可购买,2,已售罄" selected="0"/>
+  <displayList>
+    <loader id="n223_k045" name="n223" xy="0,0" size="686,188" url="ui://38fa8c75k045vvv1gi" fill="scaleFree"/>
+    <image id="n163_6b61" name="n163" src="6b6163" fileName="img/shouqing_31.png" xy="525,94">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <component id="n224_k045" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="436,59" scale="0.6,0.6">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="领取" titleFontSize="50"/>
+    </component>
+    <list id="n225_k045" name="list_award" xy="22,69" size="444,107" layout="row" overflow="scroll" scroll="horizontal" colGap="13" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <richtext id="n226_k045" name="T_count" xy="553,18" pivot="1,0.5" size="96,32" fontSize="22" color="#fffe80" align="right" vAlign="middle" strokeColor="#000000" strokeSize="3" text="限购  5/6"/>
+    <text id="n174_6b61" name="T_name" xy="42,14" size="134,36" fontSize="26" color="#fbf5ff" vAlign="middle" strokeColor="#bb5400" strokeSize="3" text="开服好礼-1"/>
+    <component id="n228_8adr" name="btn_buy" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="436,59" size="268,117" scale="0.6,0.6" visible="false">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n227_s8ul" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="645,90" size="20,20" touchable="false" controller="type,3"/>
+  </displayList>
+</component>

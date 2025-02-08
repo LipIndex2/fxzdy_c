@@ -1,0 +1,34 @@
+
+T_shaoguang.png
+size: 393,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VCVb
+  rotate: false
+  xy: 2, 171
+  size: 225, 305
+  orig: 225, 305
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 2, 2
+  size: 222, 167
+  orig: 222, 167
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 229, 171
+  size: 225, 133
+  orig: 225, 134
+  offset: 0, 1
+  index: -1
+ty
+  rotate: false
+  xy: 226, 4
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1

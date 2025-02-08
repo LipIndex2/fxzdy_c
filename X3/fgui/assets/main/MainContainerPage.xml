@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kpocb57" designImageForTest="true">
+  <displayList>
+    <component id="n98_jmei" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n90_pocb" name="footer" src="pocbv16w" fileName="footer/CommonFooterView.xml" pkg="38fa8c75" xy="0,1215" controller="footerType,0">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

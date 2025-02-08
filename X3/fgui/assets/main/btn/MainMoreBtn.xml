@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="235,154" pivot="0.5,0.5" extention="Button" designImageOffsetX="-471" designImageOffsetY="-318">
+  <displayList>
+    <text id="n58_gtyg" name="title" xy="142,29" size="113,114" fontSize="26" color="#fffefe" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="公告"/>
+    <image id="n59_gtyg" name="n59" src="phyf4q" fileName="img/xian.jpg" xy="127,62" size="6,36"/>
+    <loader id="n60_gtyg" name="imageLogo" xy="68,79" pivot="0.5,0.5" anchor="true" size="99,94" touchable="false" url="ui://7q3fcj1kry806f" align="center" vAlign="middle" clearOnPublish="true"/>
+    <component id="n61_gtyg" name="redPoint" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="92,38" pivot="0.5,0.5" size="40,38"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,62 @@
+
+skill01_start_upper.png
+size: 398,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01hudun_00001
+  rotate: true
+  xy: 2, 10
+  size: 103, 121
+  orig: 170, 170
+  offset: 18, 30
+  index: -1
+images/effect/skill01hudun_00003
+  rotate: false
+  xy: 272, 130
+  size: 123, 126
+  orig: 170, 170
+  offset: 15, 29
+  index: -1
+images/effect/skill01hudun_00005
+  rotate: false
+  xy: 272, 258
+  size: 124, 128
+  orig: 170, 170
+  offset: 14, 28
+  index: -1
+images/effect/skill01hudun_00007
+  rotate: false
+  xy: 272, 2
+  size: 122, 126
+  orig: 170, 170
+  offset: 16, 29
+  index: -1
+images/effect/skill01hudun_00008
+  rotate: false
+  xy: 140, 112
+  size: 130, 135
+  orig: 170, 170
+  offset: 10, 25
+  index: -1
+images/effect/skill01hudun_00011
+  rotate: false
+  xy: 2, 247
+  size: 134, 139
+  orig: 170, 170
+  offset: 7, 24
+  index: -1
+images/effect/skill01hudun_00013
+  rotate: false
+  xy: 138, 249
+  size: 132, 137
+  orig: 170, 170
+  offset: 9, 24
+  index: -1
+images/effect/skill01hudun_00014
+  rotate: true
+  xy: 2, 115
+  size: 130, 136
+  orig: 170, 170
+  offset: 10, 24
+  index: -1

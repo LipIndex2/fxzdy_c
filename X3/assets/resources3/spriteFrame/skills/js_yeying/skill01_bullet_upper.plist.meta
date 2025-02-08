@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "a4624": {
+      "importer": "sprite-frame",
+      "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72@a4624",
+      "displayName": "",
+      "id": "a4624",
+      "name": "skill01_bullet_upper-skill01_0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 90,
+        "height": 30,
+        "rawWidth": 100,
+        "rawHeight": 40,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3e2a9645-e677-4faf-b942-dd4db7daafc3@6c48a",
+        "atlasUuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0009a": {
+      "importer": "sprite-frame",
+      "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72@0009a",
+      "displayName": "",
+      "id": "0009a",
+      "name": "skill01_bullet_upper-skill01_1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -3,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 65,
+        "width": 84,
+        "height": 32,
+        "rawWidth": 100,
+        "rawHeight": 40,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3e2a9645-e677-4faf-b942-dd4db7daafc3@6c48a",
+        "atlasUuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0dea8": {
+      "importer": "sprite-frame",
+      "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72@0dea8",
+      "displayName": "",
+      "id": "0dea8",
+      "name": "skill01_bullet_upper-skill01_2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -5,
+        "offsetY": 1,
+        "trimX": 1,
+        "trimY": 99,
+        "width": 80,
+        "height": 32,
+        "rawWidth": 100,
+        "rawHeight": 40,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3e2a9645-e677-4faf-b942-dd4db7daafc3@6c48a",
+        "atlasUuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7ae9": {
+      "importer": "sprite-frame",
+      "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72@a7ae9",
+      "displayName": "",
+      "id": "a7ae9",
+      "name": "skill01_bullet_upper-skill01_3",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -6,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 133,
+        "width": 78,
+        "height": 30,
+        "rawWidth": 100,
+        "rawHeight": 40,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3e2a9645-e677-4faf-b942-dd4db7daafc3@6c48a",
+        "atlasUuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "343de": {
+      "importer": "sprite-frame",
+      "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72@343de",
+      "displayName": "",
+      "id": "343de",
+      "name": "skill01_bullet_upper-skill01_4",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 33,
+        "width": 90,
+        "height": 30,
+        "rawWidth": 100,
+        "rawHeight": 40,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3e2a9645-e677-4faf-b942-dd4db7daafc3@6c48a",
+        "atlasUuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "skill01_bullet_upper.png",
+    "format": 3,
+    "uuid": "f98f522b-c71d-4447-ac4c-46b1712d2c72",
+    "textureUuid": "3e2a9645-e677-4faf-b942-dd4db7daafc3@6c48a"
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n28_105pv" name="maskItem" src="105pv19" fileName="item/GuideMaskItem.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n33_105pv" name="touchNode" src="ut0gv1g" fileName="item/GuideTouchRangeItem.xml" xy="356,692" visible="false" touchable="false"/>
+    <component id="n34_mdoa" name="passBtn" src="mdoav1l" fileName="com/PassBtn.xml" xy="610,59">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+</component>

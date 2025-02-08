@@ -1,0 +1,111 @@
+
+attack2_lower.png
+size: 122,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack1_fire_0
+  rotate: false
+  xy: 2, 210
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_1
+  rotate: false
+  xy: 2, 158
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_10
+  rotate: false
+  xy: 2, 106
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_11
+  rotate: false
+  xy: 2, 54
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_12
+  rotate: false
+  xy: 2, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_13
+  rotate: false
+  xy: 82, 17
+  size: 37, 43
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_14
+  rotate: false
+  xy: 82, 61
+  size: 36, 44
+  orig: 38, 50
+  offset: 1, 0
+  index: -1
+images/effect/attack1_fire_2
+  rotate: false
+  xy: 42, 210
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_3
+  rotate: false
+  xy: 42, 158
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_4
+  rotate: false
+  xy: 42, 106
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_5
+  rotate: false
+  xy: 42, 54
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_6
+  rotate: false
+  xy: 42, 2
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_7
+  rotate: false
+  xy: 82, 210
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_8
+  rotate: false
+  xy: 82, 158
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/effect/attack1_fire_9
+  rotate: false
+  xy: 82, 106
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1

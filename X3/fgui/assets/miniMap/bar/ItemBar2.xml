@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,23" extention="ProgressBar">
+  <displayList>
+    <image id="n2_v891" name="n2" src="v891vvv1ee" fileName="bgImage/czzl_blood.png" pkg="38fa8c75" xy="2,3" size="46,17" color="#5d87b0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_tl0c" name="bar" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="2,3" size="46,17">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_k045" name="title" xy="-8,-1" pivot="0.5,0.5" size="67,26" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#000613" strokeSize="3" text="80/100">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

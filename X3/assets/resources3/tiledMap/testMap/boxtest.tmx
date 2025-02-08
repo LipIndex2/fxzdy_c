@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="30" infinite="0" nextlayerid="6" nextobjectid="8" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="30">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <layer height="30" id="1" name="bottom_layer" width="30">
+  <data compression="gzip" encoding="base64">
+   H4sIAAAAAAAACu3OwQkAAAgDMadw/1EdQQRBkAT6vkbAP9lM93d3Ml3d6+7mL11dgKkC47xSIRAOAAA=
+  </data>
+ </layer>
+ <objectgroup id="2" name="player_layer">
+  <object id="1" x="1800" y="2160">
+   <properties>
+    <property name="building_type" value="box" />
+    <property name="object_id" type="int" value="77741" />
+   </properties>
+   <point />
+  </object>
+  <object id="2" x="2160" y="1560">
+   <properties>
+    <property name="building_type" value="box_mid" />
+    <property name="object_id" type="int" value="77742" />
+   </properties>
+   <point />
+  </object>
+  <object id="3" x="720" y="1320">
+   <properties>
+    <property name="building_type" value="box_max" />
+    <property name="object_id" type="int" value="77743" />
+   </properties>
+   <point />
+  </object>
+  <object id="4" x="720" y="1560">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="777741" />
+   </properties>
+   <point />
+  </object>
+  <object id="5" x="960" y="1200">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="777742" />
+   </properties>
+   <point />
+  </object>
+  <object id="6" x="480" y="1080">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="777743" />
+   </properties>
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="role_layer" />
+ <objectgroup id="3" name="collider_layer">
+  <object id="7" x="240" y="1920">
+   <polygon points="0,0 0,-1200 960,-1200 960,-720 2280,-720 2280,600 960,600 960,0 -120,0 -120,720 1680,1320 3000,840 2880,-960 1200,-1680 -240,-1560 -240,120" />
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="ui_layer" />
+</map>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="204,72" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1,,4," selected="0">
+    <remark page="0" value="占领中"/>
+    <remark page="1" value="可领取"/>
+    <remark page="2" value="空闲中或者未解锁"/>
+  </controller>
+  <displayList>
+    <image id="n0_czc6" name="bg" src="czc687" fileName="img/01.png" xy="32,32" size="172,40">
+      <gearLook controller="state" pages="0,1" values="1,0,0,0|1,0,0,0" default="1,0,1,0"/>
+    </image>
+    <component id="n4_t5gy" name="btnBox" src="t5gy9k" fileName="component/FactoryBoxBtn.xml" xy="0,0" size="72,72" touchable="false" controller="isOpen,0"/>
+    <text id="n2_czc6" name="lbTime" xy="131,52" pivot="0.5,0.5" anchor="true" size="111,34" fontSize="24" color="#ffffff" vAlign="middle" text="00:00:00">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <text id="n3_t5gy" name="lbState" xy="132,52" pivot="0.5,0.5" anchor="true" size="75,34" fontSize="24" color="#ffdc5e" vAlign="middle" text="可领取">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <text id="n6_qhev" name="lbLock" xy="131,52" pivot="0.5,0.5" anchor="true" size="75,34" fontSize="24" color="#a4b8e7" align="center" vAlign="middle" text="空闲中">
+      <gearDisplay controller="state" pages="4"/>
+    </text>
+    <component id="n5_t5gy" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="73,20" controller="type,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

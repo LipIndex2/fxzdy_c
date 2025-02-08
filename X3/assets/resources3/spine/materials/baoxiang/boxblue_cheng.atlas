@@ -1,0 +1,27 @@
+
+boxblue_cheng.png
+size: 138,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_icon(1)
+  rotate: false
+  xy: 2, 2
+  size: 117, 111
+  orig: 140, 180
+  offset: 6, 19
+  index: -1
+002_icon
+  rotate: false
+  xy: 2, 255
+  size: 132, 160
+  orig: 140, 180
+  offset: 4, 10
+  index: -1
+faguang
+  rotate: true
+  xy: 2, 115
+  size: 138, 134
+  orig: 138, 134
+  offset: 0, 0
+  index: -1

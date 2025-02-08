@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7b03f635">
+  <resources>
+    <image id="c3a60" name="bj.jpg" path="/img/" scale="9grid" scale9grid="186,595,374,41"/>
+    <image id="c3a61" name="sd_A_common_bossxxd_frame.png" path="/img/"/>
+    <image id="c3a62" name="sd_A_common_wdpm1_frame.png" path="/img/"/>
+    <image id="c3a63" name="sd_A_common_blue_frame_16.png" path="/img/"/>
+    <image id="c3a64" name="scale_80%_tx_001_15.png" path="/img/"/>
+    <image id="c3a65" name="linshichenghao.png" path="/img/"/>
+    <image id="c3a66" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+    <image id="c3a68" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="c3a69" name="sd_A_common_bossbt_frame.png" path="/img/"/>
+    <image id="c3a610" name="tuceng694.png" path="/img/"/>
+    <image id="c3a611" name="llinshichenghao.png" path="/img/"/>
+    <image id="c3a612" name="sd_A_common_no1_icon.png" path="/img/"/>
+    <image id="c3a613" name="sd_A_common_no2_icon.png" path="/img/"/>
+    <image id="c3a614" name="scale_60%.png" path="/img/"/>
+    <image id="c3a615" name="sszd_0014_leinuochaifen.png" path="/img/"/>
+    <image id="c3a616" name="sd_A_common_no3_icon.png" path="/img/"/>
+    <image id="c3a618" name="xingzhuang32_3.png" path="/img/"/>
+    <image id="c3a619" name="scale_80%_tx_001.png" path="/img/"/>
+    <image id="c3a620" name="tuceng736.png" path="/img/"/>
+    <image id="c3a621" name="zhanlibang1.png" path="/img/"/>
+    <image id="c3a622" name="zhanlibang_2.png" path="/img/"/>
+    <image id="c3a623" name="guanqiabang_1.png" path="/img/"/>
+    <image id="c3a624" name="guanqiabang_0.png" path="/img/"/>
+    <component id="ipjz2c" name="RankOneRowComp.xml" path="/components/"/>
+    <component id="ipjz2d" name="RankForMeComp.xml" path="/components/"/>
+    <component id="om4n2e" name="RankFooterItemComp.xml" path="/components/"/>
+    <component id="om4n2g" name="RankMainView.xml" path="/"/>
+    <image id="qt2o2h" name="phb_bg.jpg" path="/" scale="9grid" scale9grid="250,613,500,31"/>
+    <image id="c7h62i" name="scale_75%_hz001_icon_120.png" path="/img/"/>
+    <component id="ffqt2j" name="RankPVPScoreComp.xml" path="/components/"/>
+    <image id="caj92k" name="bossjy_icon.png" path="/img/"/>
+    <image id="ejy32l" name="png_baoxiang.png" path="/useImg/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

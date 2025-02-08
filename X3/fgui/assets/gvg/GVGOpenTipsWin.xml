@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kt93es7m">
+  <displayList>
+    <component id="n50_t93e" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="49,201" size="652,882" group="n51_t93e"/>
+    <image id="n30_ac45" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,206" size="643,877" group="n51_t93e"/>
+    <image id="n31_ac45" name="fg1" src="ac4523" fileName="img/beijing.png" xy="75,290" group="n51_t93e"/>
+    <image id="n47_k3sy" name="fg2" src="ac4525" fileName="img/sd_A_common_bossfydi_frame_30.png" xy="87,650" group="n51_t93e" alpha="0.5"/>
+    <image id="n32_ac45" name="logo" src="ac4524" fileName="img/xingmengzhengba.png" xy="201,384" group="n51_t93e"/>
+    <text id="n34_ac45" name="labelContent" xy="100,682" size="541,90" group="n51_t93e" fontSize="21" color="#ddfafd" autoSize="none" text="          星际大乱，联盟对决，各联盟为了稳定星际秩序，角逐最强联盟，大战一触即发。。。。。"/>
+    <text id="n35_ac45" name="labelIsCanJoin" xy="227,819" pivot="0.5,0" size="271,42" group="n51_t93e" fontSize="30" color="#6e97e4" align="center" vAlign="middle" text="已满足本轮参与条件"/>
+    <text id="n44_ac45" name="labelCdTimeTitle" xy="222,994" size="182,42" group="n51_t93e" fontSize="30" color="#ffffff" vAlign="middle" text="开赛倒计时："/>
+    <text id="n45_ac45" name="labelCdTime" xy="392,994" size="138,42" group="n51_t93e" fontSize="30" color="#3cfe33" vAlign="middle" text="13:20:30"/>
+    <text id="n46_ac45" name="labelTitle" xy="309,231" size="131,44" group="n51_t93e" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="联盟对决"/>
+    <component id="n48_k3sy" name="condition1" src="k3sy11v" fileName="components/GVGOpenConditionComp.xml" xy="199,885" group="n51_t93e"/>
+    <component id="n49_k3sy" name="condition2" src="k3sy11v" fileName="components/GVGOpenConditionComp.xml" xy="198,927" group="n51_t93e"/>
+    <group id="n51_t93e" name="G_all" xy="49,201" size="652,882" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

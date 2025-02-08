@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,101" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n157_8a38" name="bg" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="286,127" scale="0.8,0.8">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n158_8a38" name="labelTitle" xy="8,40" pivot="0.5,0" size="211,50" fontSize="37" color="#fef2ba" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" text="挑战"/>
+    <image id="n160_ikw9" name="n160" src="8a3887" fileName="img/sd_A_common_zd_icon.png" xy="60,5" group="n161_ikw9">
+      <relation target="n159_8a38" sidePair="right-left"/>
+    </image>
+    <text id="n159_8a38" name="labelPower" xy="97,0" pivot="0.5,0.5" size="76,42" group="n161_ikw9" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#000b0f" strokeSize="3" singleLine="true" autoClearText="true" text="4561"/>
+    <group id="n161_ikw9" name="n161" xy="60,0" size="113,42" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

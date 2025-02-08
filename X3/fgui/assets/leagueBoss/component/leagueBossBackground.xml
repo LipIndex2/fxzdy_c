@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="2048,2048" pivot="0.5,0.5">
+  <displayList>
+    <loader id="n83_qlkj" name="n83" xy="0,0" size="2048,2048" group="n84_qlkj" url="ui://7cvz7rmmqlkjvv1q" autoSize="true"/>
+    <group id="n84_qlkj" name="back" xy="0,0" size="2048,2048" advanced="true"/>
+  </displayList>
+</component>

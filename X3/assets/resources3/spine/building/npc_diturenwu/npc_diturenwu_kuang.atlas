@@ -1,0 +1,244 @@
+
+npc_diturenwu_kuang.png
+size: 250,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 217, 8
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 34, 18
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 98, 4
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 98, 4
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+011
+  rotate: true
+  xy: 210, 105
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+014
+  rotate: true
+  xy: 76, 7
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+015
+  rotate: 270
+  xy: 192, 3
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+016
+  rotate: 270
+  xy: 107, 49
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 171, 7
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 231, 51
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 57, 16
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 141, 21
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 107, 85
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 22
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 106, 23
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 2, 55
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 2, 90
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 158, 100
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 171, 24
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 86, 63
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+012
+  rotate: true
+  xy: 86, 63
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+C00
+  rotate: false
+  xy: 193, 44
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+C01
+  rotate: true
+  xy: 80, 25
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+C010
+  rotate: false
+  xy: 158, 148
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+C02
+  rotate: false
+  xy: 2, 131
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+C03
+  rotate: true
+  xy: 38, 40
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+C04
+  rotate: true
+  xy: 64, 86
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+C05
+  rotate: true
+  xy: 95, 127
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+C06
+  rotate: true
+  xy: 151, 73
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+C07
+  rotate: false
+  xy: 206, 23
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+C08
+  rotate: true
+  xy: 38, 63
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+C09
+  rotate: false
+  xy: 154, 47
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+ck2
+  rotate: true
+  xy: 210, 70
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+zhitou
+  rotate: false
+  xy: 148, 119
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

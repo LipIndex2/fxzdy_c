@@ -1,0 +1,377 @@
+
+pskill01_2_upper.png
+size: 413,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiguang_huan_00000
+  rotate: false
+  xy: 359, 631
+  size: 12, 26
+  orig: 40, 110
+  offset: 15, 41
+  index: -1
+effect/jiguang_huan_00001
+  rotate: false
+  xy: 118, 173
+  size: 17, 46
+  orig: 40, 110
+  offset: 13, 31
+  index: -1
+effect/jiguang_huan_00002
+  rotate: true
+  xy: 105, 26
+  size: 23, 74
+  orig: 40, 110
+  offset: 10, 16
+  index: -1
+effect/jiguang_huan_00003
+  rotate: true
+  xy: 162, 51
+  size: 26, 93
+  orig: 40, 110
+  offset: 8, 8
+  index: -1
+effect/jiguang_huan_00004
+  rotate: false
+  xy: 148, 224
+  size: 28, 99
+  orig: 40, 110
+  offset: 6, 5
+  index: -1
+effect/jiguang_huan_00005
+  rotate: false
+  xy: 118, 221
+  size: 28, 102
+  orig: 40, 110
+  offset: 5, 4
+  index: -1
+effect/jiguang_huan_00006
+  rotate: false
+  xy: 240, 529
+  size: 26, 103
+  orig: 40, 110
+  offset: 6, 4
+  index: -1
+effect/jiguang_jiguang_00000
+  rotate: false
+  xy: 137, 207
+  size: 4, 12
+  orig: 370, 30
+  offset: 359, 9
+  index: -1
+effect/jiguang_jiguang_00001
+  rotate: false
+  xy: 2, 61
+  size: 158, 16
+  orig: 370, 30
+  offset: 206, 7
+  index: -1
+effect/jiguang_jiguang_00002
+  rotate: false
+  xy: 2, 143
+  size: 364, 20
+  orig: 370, 30
+  offset: 3, 6
+  index: -1
+effect/jiguang_jiguang_00003
+  rotate: true
+  xy: 348, 265
+  size: 362, 23
+  orig: 370, 30
+  offset: 5, 4
+  index: -1
+effect/jiguang_jiguang_00004
+  rotate: true
+  xy: 239, 165
+  size: 362, 26
+  orig: 370, 30
+  offset: 5, 2
+  index: -1
+effect/jiguang_jiguang_00005
+  rotate: false
+  xy: 2, 125
+  size: 363, 16
+  orig: 370, 30
+  offset: 4, 7
+  index: -1
+effect/jiguang_jiguang_00006
+  rotate: false
+  xy: 2, 87
+  size: 363, 9
+  orig: 370, 30
+  offset: 3, 11
+  index: -1
+effect/jiguang_jiguang_00007
+  rotate: false
+  xy: 2, 79
+  size: 363, 6
+  orig: 370, 30
+  offset: 3, 12
+  index: -1
+effect/jiguang_lizi_00000
+  rotate: true
+  xy: 328, 167
+  size: 460, 18
+  orig: 500, 20
+  offset: 14, 2
+  index: -1
+effect/jiguang_lizi_00001
+  rotate: true
+  xy: 268, 167
+  size: 490, 18
+  orig: 500, 20
+  offset: 6, 2
+  index: -1
+effect/jiguang_lizi_00002
+  rotate: true
+  xy: 197, 165
+  size: 492, 19
+  orig: 500, 20
+  offset: 5, 1
+  index: -1
+effect/jiguang_lizi_00003
+  rotate: true
+  xy: 218, 165
+  size: 491, 19
+  orig: 500, 20
+  offset: 5, 1
+  index: -1
+effect/jiguang_lizi_00004
+  rotate: true
+  xy: 288, 167
+  size: 490, 18
+  orig: 500, 20
+  offset: 6, 2
+  index: -1
+effect/jiguang_lizi_00005
+  rotate: true
+  xy: 308, 167
+  size: 484, 18
+  orig: 500, 20
+  offset: 11, 2
+  index: -1
+effect/jiguang_lizi_00006
+  rotate: true
+  xy: 373, 192
+  size: 465, 17
+  orig: 500, 20
+  offset: 28, 3
+  index: -1
+effect/jiguang_lizi_00007
+  rotate: true
+  xy: 392, 192
+  size: 456, 9
+  orig: 500, 20
+  offset: 34, 6
+  index: -1
+effect/jiguang_qian_00000
+  rotate: false
+  xy: 367, 36
+  size: 38, 60
+  orig: 120, 60
+  offset: 72, 0
+  index: -1
+effect/jiguang_qian_00001
+  rotate: false
+  xy: 2, 184
+  size: 114, 39
+  orig: 120, 60
+  offset: 3, 11
+  index: -1
+effect/jiguang_qiangkou_00000
+  rotate: false
+  xy: 225, 17
+  size: 28, 32
+  orig: 60, 100
+  offset: 28, 33
+  index: -1
+effect/jiguang_qiangkou_00001
+  rotate: false
+  xy: 2, 225
+  size: 53, 98
+  orig: 60, 100
+  offset: 5, 1
+  index: -1
+effect/jiguang_qiangkou_00002
+  rotate: true
+  xy: 309, 30
+  size: 47, 49
+  orig: 60, 100
+  offset: 13, 28
+  index: -1
+effect/jiguang_qiangkou_00003
+  rotate: false
+  xy: 57, 258
+  size: 57, 65
+  orig: 60, 100
+  offset: 3, 19
+  index: -1
+effect/jiguang_qiangkou_00004
+  rotate: false
+  xy: 257, 30
+  size: 50, 47
+  orig: 60, 100
+  offset: 10, 25
+  index: -1
+effect/jiguang_qiangkou_00005
+  rotate: false
+  xy: 368, 113
+  size: 43, 52
+  orig: 60, 100
+  offset: 15, 23
+  index: -1
+effect/jiguang_qiangkou_00006
+  rotate: true
+  xy: 2, 16
+  size: 43, 50
+  orig: 60, 100
+  offset: 15, 24
+  index: -1
+effect/jiguang_qiangkou_00007
+  rotate: false
+  xy: 181, 20
+  size: 42, 29
+  orig: 60, 100
+  offset: 18, 36
+  index: -1
+effect/jiguang_qiangkou_00008
+  rotate: false
+  xy: 54, 19
+  size: 49, 40
+  orig: 60, 100
+  offset: 10, 30
+  index: -1
+effect/jiguang_qiangkou_00009
+  rotate: false
+  xy: 328, 636
+  size: 29, 21
+  orig: 60, 100
+  offset: 28, 38
+  index: -1
+effect/pskill01_fanyinglu_00000
+  rotate: false
+  xy: 154, 4
+  size: 22, 20
+  orig: 32, 32
+  offset: 9, 5
+  index: -1
+effect/pskill01_fanyinglu_00001
+  rotate: false
+  xy: 240, 635
+  size: 24, 22
+  orig: 32, 32
+  offset: 5, 5
+  index: -1
+effect/pskill01_fanyinglu_00002
+  rotate: false
+  xy: 386, 12
+  size: 24, 22
+  orig: 32, 32
+  offset: 3, 5
+  index: -1
+effect/pskill01_fanyinglu_00003
+  rotate: false
+  xy: 255, 6
+  size: 24, 22
+  orig: 32, 32
+  offset: 2, 5
+  index: -1
+effect/pskill01_fanyinglu_00004
+  rotate: false
+  xy: 360, 11
+  size: 24, 23
+  orig: 32, 32
+  offset: 1, 5
+  index: -1
+effect/pskill01_fanyinglu_00005
+  rotate: false
+  xy: 281, 6
+  size: 24, 22
+  orig: 32, 32
+  offset: 1, 6
+  index: -1
+effect/pskill01_fanyinglu_00006
+  rotate: false
+  xy: 307, 6
+  size: 24, 22
+  orig: 32, 32
+  offset: 1, 6
+  index: -1
+effect/pskill01_fanyinglu_00007
+  rotate: false
+  xy: 105, 2
+  size: 23, 22
+  orig: 32, 32
+  offset: 1, 6
+  index: -1
+effect/pskill01_fanyinglu_00008
+  rotate: false
+  xy: 333, 6
+  size: 24, 22
+  orig: 32, 32
+  offset: 0, 6
+  index: -1
+effect/pskill01_fanyinglu_00009
+  rotate: false
+  xy: 130, 3
+  size: 22, 21
+  orig: 32, 32
+  offset: 1, 6
+  index: -1
+effect/pskill01_sao_00001
+  rotate: false
+  xy: 2, 494
+  size: 193, 73
+  orig: 200, 100
+  offset: 3, 6
+  index: -1
+effect/pskill01_sao_00002
+  rotate: false
+  xy: 2, 569
+  size: 193, 88
+  orig: 200, 100
+  offset: 3, 5
+  index: -1
+effect/pskill01_sao_00003
+  rotate: false
+  xy: 2, 420
+  size: 194, 72
+  orig: 200, 100
+  offset: 2, 6
+  index: -1
+effect/pskill01_sao_00004
+  rotate: false
+  xy: 2, 366
+  size: 194, 52
+  orig: 200, 100
+  offset: 2, 6
+  index: -1
+effect/pskill01_sao_00005
+  rotate: false
+  xy: 2, 325
+  size: 192, 39
+  orig: 200, 100
+  offset: 3, 6
+  index: -1
+effect/pskill01_sao_00006
+  rotate: false
+  xy: 2, 98
+  size: 192, 25
+  orig: 200, 100
+  offset: 3, 6
+  index: -1
+effect/pskill01_sao_00007
+  rotate: false
+  xy: 196, 98
+  size: 191, 13
+  orig: 200, 100
+  offset: 3, 6
+  index: -1
+effect/pskill01_sao_00008
+  rotate: true
+  xy: 403, 167
+  size: 189, 5
+  orig: 200, 100
+  offset: 3, 6
+  index: -1

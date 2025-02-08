@@ -1,0 +1,41 @@
+
+monster_zise_501.png
+size: 428,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd10
+  rotate: 270
+  xy: 354, 47
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 232, 6
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+houshan1
+  rotate: true
+  xy: 343, 3
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+huoshan
+  rotate: false
+  xy: 188, 13
+  size: 178, 178
+  orig: 184, 180
+  offset: 6, 2
+  index: -1
+map_monster_502
+  rotate: false
+  xy: 2, 10
+  size: 184, 180
+  orig: 184, 180
+  offset: 0, 0
+  index: -1

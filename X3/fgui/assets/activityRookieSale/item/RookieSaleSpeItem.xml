@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="370,630">
+  <controller name="quality" pages="0,,2,,1," selected="0">
+    <remark page="0" value="黄色"/>
+    <remark page="1" value="红色"/>
+    <remark page="2" value="红彩"/>
+  </controller>
+  <controller name="costStyle" pages="0,,1,,2," selected="0">
+    <remark page="0" value="充值"/>
+    <remark page="1" value="免费"/>
+    <remark page="2" value="消耗道具"/>
+  </controller>
+  <displayList>
+    <image id="n59_z7ud" name="img_red2" src="z7ud2n" fileName="img/xingzhuang221kaobei2.png" xy="4,24" group="n62_z7ud"/>
+    <image id="n60_z7ud" name="n60" src="49e17" fileName="img/jiaobiao02.png" xy="124,21" group="n62_z7ud"/>
+    <text id="n61_z7ud" name="lb_red2" xy="243,39" pivot="0.5,0.5" anchor="true" size="176,40" group="n62_z7ud" fontSize="29" color="#ff5252" align="center" vAlign="middle" strokeColor="#880000" strokeSize="2" text="神话英雄自选"/>
+    <group id="n62_z7ud" name="grp_red2" xy="4,19" size="357,613" advanced="true">
+      <gearDisplay controller="quality" pages="1"/>
+    </group>
+    <image id="n6_49e1" name="img_red" src="49e14" fileName="img/xingzhuang221kaobei.png" xy="8,28" group="n31_cnp5"/>
+    <image id="n9_49e1" name="n9" src="49e17" fileName="img/jiaobiao02.png" xy="124,21" group="n31_cnp5"/>
+    <text id="n10_49e1" name="lb_red" xy="243,39" pivot="0.5,0.5" anchor="true" size="176,40" group="n31_cnp5" fontSize="29" color="#ff5252" align="center" vAlign="middle" strokeColor="#880000" strokeSize="2" text="神话英雄自选"/>
+    <group id="n31_cnp5" name="grp_red" xy="8,19" size="353,611" advanced="true">
+      <gearDisplay controller="quality" pages="2"/>
+    </group>
+    <image id="n7_49e1" name="img_yellew" src="49e15" fileName="img/xingzhuang22kaobei9.png" xy="8,28" group="n33_cnp5"/>
+    <image id="n30_cnp5" name="n30" src="49e115" fileName="img/jiaobiao01.png" xy="125,21" group="n33_cnp5"/>
+    <text id="n27_cnp5" name="lb_yellew" xy="243,39" pivot="0.5,0.5" anchor="true" size="176,40" group="n33_cnp5" fontSize="29" color="#fff949" align="center" vAlign="middle" strokeColor="#945b02" strokeSize="2" text="传说英雄自选"/>
+    <group id="n33_cnp5" name="grp_yellow" xy="8,19" size="354,611" advanced="true">
+      <gearDisplay controller="quality" pages="0"/>
+    </group>
+    <image id="n11_49e1" name="n11" src="49e18" fileName="img/sd_A_common_v_zgbq.png" xy="0,18" group="n35_cnp5"/>
+    <text id="n12_49e1" name="lb_dis" xy="11,-5" size="127,52" group="n35_cnp5" fontSize="38" color="#ffffff" vAlign="middle" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <text id="n29_cnp5" name="n29" xy="11,35" size="59,39" group="n35_cnp5" fontSize="28" color="#fffe80" vAlign="middle" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+    <group id="n35_cnp5" name="n35" xy="0,-5" size="144,79"/>
+    <component id="n36_cnp5" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="181,375" pivot="0.5,1" anchor="true" size="100,100"/>
+    <text id="n56_ssxx" name="lb_limit" xy="235,60" size="97,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#d26727" strokeSize="2" text="限购：1/1"/>
+    <graph id="n54_cnp5" name="btn_buy" xy="11,23" size="342,600" lineColor="#00000000" fillColor="#00ffffff"/>
+    <list id="n28_cnp5" name="listReward" xy="-46,472" pivot="0.5,0.5" size="450,104" scale="0.7,0.7" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n45_cnp5" name="item_0" src="cnp52d" fileName="item/RookieSaleShowItem.xml" xy="24,356" pivot="0.5,0.9" group="n51_cnp5" scale="0.75,0.75"/>
+    <component id="n48_cnp5" name="item_4" src="cnp52d" fileName="item/RookieSaleShowItem.xml" xy="234,356" pivot="0.5,0.9" group="n51_cnp5" scale="0.75,0.75"/>
+    <component id="n46_cnp5" name="item_1" src="cnp52d" fileName="item/RookieSaleShowItem.xml" xy="78,356" pivot="0.5,0.9" group="n51_cnp5" scale="0.75,0.75"/>
+    <component id="n47_cnp5" name="item_3" src="cnp52d" fileName="item/RookieSaleShowItem.xml" xy="182,356" pivot="0.5,0.9" group="n51_cnp5" scale="0.75,0.75"/>
+    <component id="n37_cnp5" name="item_2" src="cnp52d" fileName="item/RookieSaleShowItem.xml" xy="130,356" pivot="0.5,0.9" group="n51_cnp5"/>
+    <group id="n51_cnp5" name="grp_show" xy="24,356" size="320,112"/>
+    <component id="n55_ssxx" name="img_gray" src="ssxx2l" fileName="item/RookieSaleSpeGrayItem.xml" xy="7,2" size="354,626"/>
+    <text id="n63_str8" name="lb_price" xy="169,600" pivot="0.5,0.5" anchor="true" size="69,49" group="n65_str8" fontSize="36" vAlign="bottom" leading="0" text="128">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n64_str8" name="lb_sym" xy="207,587" pivot="0.5,0.5" size="24,29" group="n65_str8" fontSize="20" vAlign="middle" text="元">
+      <relation target="n63_str8" sidePair="left-right"/>
+    </text>
+    <group id="n65_str8" name="gPrice" xy="135,576" size="96,49" advanced="true">
+      <gearDisplay controller="costStyle" pages="0"/>
+    </group>
+    <text id="n66_str8" name="lb_free" xy="182,601" pivot="0.5,0.5" anchor="true" size="75,49" group="n67_str8" fontSize="36" vAlign="bottom" leading="0" text="免费">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n67_str8" name="gFree" xy="144,576" size="75,49" advanced="true">
+      <gearDisplay controller="costStyle" pages="1"/>
+    </group>
+    <loader id="n68_str8" name="iconCost" xy="159,600" pivot="0.5,0.5" anchor="true" size="40,40" group="n70_str8" align="center" vAlign="middle" fill="scale">
+      <relation target="n69_str8" sidePair="right-left"/>
+    </loader>
+    <text id="n69_str8" name="lbCost" xy="203,600" pivot="0.5,0.5" anchor="true" size="47,49" group="n70_str8" fontSize="36" vAlign="bottom" leading="0" text="12">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n70_str8" name="gCost" xy="139,575" size="87,49" advanced="true">
+      <gearDisplay controller="costStyle" pages="2"/>
+    </group>
+  </displayList>
+</component>

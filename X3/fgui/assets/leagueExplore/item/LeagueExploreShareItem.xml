@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="617,68">
+  <displayList>
+    <image id="n3_fdf1" name="n3" src="fdf188" fileName="img/xiaoliebiao.png" xy="0,0" size="617,68"/>
+    <component id="n7_gtlw" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="543,14"/>
+    <text id="n4_fdf1" name="lbChannel" xy="32,19" size="99,34" fontSize="24" color="#e7ebf9" vAlign="middle" strokeColor="#020202" strokeSize="2" text="世界频道"/>
+  </displayList>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,100">
+  <displayList>
+    <text id="n0_ydpg" name="txt" xy="374,50" pivot="0.5,0.5" anchor="true" size="595,107" fontSize="20" color="#d8d8d8" align="center" vAlign="middle" leading="2" strokeColor="#000000" strokeSize="2" text="著作权人：苏州美生元信息科技有限公司  登记号：2016SR040322&#xA;出版单位：北京伯通电子出版社&#xA;审批文号：新广出审[2016]2258号  ISBN 978-7-7979-0882-5&#xA;ICP备案/许可证号：蜀ICP备2024072355号-2A"/>
+  </displayList>
+</component>

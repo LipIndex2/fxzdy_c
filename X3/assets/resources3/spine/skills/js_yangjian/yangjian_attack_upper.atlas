@@ -1,0 +1,76 @@
+
+yangjian_attack_upper.png
+size: 498,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attackdaoguang_00011
+  rotate: false
+  xy: 379, 23
+  size: 117, 61
+  orig: 280, 220
+  offset: 153, 151
+  index: -1
+effect/attackdaoguang_00012
+  rotate: false
+  xy: 2, 193
+  size: 237, 198
+  orig: 280, 220
+  offset: 4, 10
+  index: -1
+effect/attackdaoguang_00013
+  rotate: false
+  xy: 2, 193
+  size: 237, 198
+  orig: 280, 220
+  offset: 4, 10
+  index: -1
+effect/attackdaoguang_00014
+  rotate: true
+  xy: 241, 193
+  size: 196, 193
+  orig: 280, 220
+  offset: 5, 10
+  index: -1
+effect/attackdaoguang_00015
+  rotate: true
+  xy: 241, 193
+  size: 196, 193
+  orig: 280, 220
+  offset: 5, 10
+  index: -1
+effect/attackdaoguang_00016
+  rotate: true
+  xy: 2, 2
+  size: 189, 192
+  orig: 280, 220
+  offset: 7, 10
+  index: -1
+effect/attackdaoguang_00017
+  rotate: false
+  xy: 196, 3
+  size: 181, 188
+  orig: 280, 220
+  offset: 9, 11
+  index: -1
+effect/attackdaoguang_00018
+  rotate: false
+  xy: 196, 3
+  size: 181, 188
+  orig: 280, 220
+  offset: 9, 11
+  index: -1
+effect/attackdaoguang_00020
+  rotate: false
+  xy: 379, 86
+  size: 96, 105
+  orig: 280, 220
+  offset: 44, 86
+  index: -1
+effect/attackdaoguang_00019
+  rotate: false
+  xy: 379, 86
+  size: 96, 105
+  orig: 280, 220
+  offset: 44, 86
+  index: -1

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n44_teox" name="img_bg" xy="0,0" size="750,493" url="ui://7cvz7rmmteoxvv27" autoSize="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </loader>
+    <image id="n56_teox" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,85" pivot="0.5,1" anchor="true" size="750,296" color="#523ca0">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <loader id="n52_teox" name="n52" xy="387,-45" pivot="0.5,0.5" size="432,432" url="ui://6db1f71ako8185" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n53_teox" name="n53" xy="0,366" size="750,968" url="ui://38fa8c75oc78vvv1f7" fill="scaleFree">
+      <relation target="" sidePair="width-width,top-top,bottomext-bottom"/>
+    </loader>
+    <text id="n57_ko81" name="T_task" xy="548,264" pivot="0.5,0.5" size="118,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="Lv.12"/>
+    <text id="n33_3cc0" name="n33" xy="18,40" size="73,92" group="n46_teox" fontSize="70" color="#44eaed" vAlign="middle" text="养"/>
+    <text id="n47_teox" name="n47" xy="84,61" size="147,64" group="n46_teox" fontSize="48" color="#44eaed" vAlign="middle" text="成赠礼"/>
+    <text id="n34_3cc0" name="n34" xy="22,42" size="73,92" group="n46_teox" fontSize="70" color="#c710b4" vAlign="middle" text="养"/>
+    <text id="n48_teox" name="n48" xy="88,61" size="147,64" group="n46_teox" fontSize="48" color="#c710b4" vAlign="middle" text="成赠礼"/>
+    <text id="n36_3cc0" name="n36" xy="20,40" size="73,92" group="n46_teox" fontSize="70" color="#ffffff" vAlign="middle" text="养"/>
+    <text id="n35_3cc0" name="n35" xy="86,61" size="147,64" group="n46_teox" fontSize="48" color="#ffffff" vAlign="middle" text="成赠礼"/>
+    <richtext id="n45_teox" name="T_time" xy="42,117" pivot="0,0.5" size="207,29" group="n46_teox" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" text="活动倒计时:[color=#6AFF63]5天30小时[/color]"/>
+    <component id="n49_teox" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="274,74" group="n46_teox"/>
+    <group id="n46_teox" name="n46" xy="18,40" size="297,106" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <text id="n1_3cc0" name="n1" xy="69,197" pivot="0.5,0.5" size="83,54" group="n50_teox" fontSize="40" color="#2dfff3" align="center" vAlign="middle" strokeColor="#392191" strokeSize="3" text="提升"/>
+    <text id="n51_teox" name="n51" xy="394,197" pivot="0.5,0.5" size="83,54" group="n50_teox" fontSize="40" color="#2dfff3" vAlign="middle" strokeColor="#392191" strokeSize="3" text="等级">
+      <relation target="n2_3cc0" sidePair="middle-middle,left-right"/>
+    </text>
+    <text id="n2_3cc0" name="T_heroName" xy="152,177" pivot="0,0.5" size="242,79" group="n50_teox" fontSize="60" color="#ffea60" vAlign="middle" strokeColor="#392191" strokeSize="3" text="职业核心"/>
+    <text id="n3_3cc0" name="n3" xy="151,257" pivot="0.5,0.5" size="83,54" group="n50_teox" fontSize="40" color="#2dfff3" align="center" vAlign="middle" strokeColor="#392191" strokeSize="3" text="解锁"/>
+    <text id="n4_3cc0" name="n4" xy="237,247" pivot="0.5,0.5" size="202,66" group="n50_teox" fontSize="50" color="#ffea60" align="center" vAlign="middle" strokeColor="#392191" strokeSize="3" text="专属礼包"/>
+    <group id="n50_teox" name="n50" xy="69,177" size="408,136" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <list id="n55_teox" name="list_award" xy="25,409" size="716,775" overflow="scroll" lineGap="14" defaultItem="ui://6db1f71ateox75">
+      <relation target="" sidePair="center-center,top-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n58_ko81" name="btn_goto" src="teox73" fileName="btn/demoBtn.xml" xy="554,322">
+      <Button title="前往升级" titleFontSize="26"/>
+    </component>
+  </displayList>
+</component>

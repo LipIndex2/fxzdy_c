@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,124" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n2_346b" name="n2" src="pocbv17l" fileName="buildingImage/jiaohu_0.png" xy="0,0"/>
+    <loader id="n3_346b" name="icon" xy="61,62" pivot="0.5,0.5" anchor="true" size="49,65" url="ui://38fa8c75pocbv17k" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n5_346b" name="title" xy="62,112" pivot="0.5,0.5" anchor="true" size="56,36" fontSize="26" color="#8ee7fa" align="center" vAlign="middle" leading="0" strokeColor="#004395" strokeSize="3" autoClearText="true" text="解锁"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

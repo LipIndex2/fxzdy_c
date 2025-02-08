@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,39" extention="Button">
+  <controller name="isOpen" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n43_i4ei" name="bg" src="cc6722" fileName="img/sd_A_common_dakai1_btn.png" xy="0,0" group="n41_i4ei"/>
+    <image id="n37_cc67" name="imageChoose" src="cc677" fileName="img/sd_A_common_dakai_btn_3.png" xy="45,0" group="n41_i4ei">
+      <gearXY controller="isOpen" pages="0,1" values="45,0|0,0"/>
+    </image>
+    <text id="n38_cc67" name="textYes" xy="17,2" size="28,34" group="n41_i4ei" fontSize="24" color="#ffffff" vAlign="middle" text="开"/>
+    <text id="n39_cc67" name="textNo" xy="68,2" size="28,34" group="n41_i4ei" fontSize="24" color="#374f8b" vAlign="middle" text="关"/>
+    <group id="n41_i4ei" name="n41" xy="0,0" size="109,38"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue=".8"/>
+  <transition name="right">
+    <item time="0" type="XY" target="n37_cc67" tween="true" startValue="45,0" endValue="0,0" duration="12"/>
+  </transition>
+  <transition name="left">
+    <item time="0" type="XY" target="n37_cc67" tween="true" startValue="0,0" endValue="45,0" duration="12"/>
+  </transition>
+</component>

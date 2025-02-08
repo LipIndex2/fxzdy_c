@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="736,499">
+  <controller name="c1" pages="0,未选择,1,已选择" selected="0"/>
+  <displayList>
+    <text id="n105_c65a" name="T_desc" xy="317,220" size="160,62" group="n120_teox" fontSize="22" color="#9bf2ff" vAlign="middle" autoSize="height" strokeColor="#030303" strokeSize="3" text="招募获得英雄时必定为格斗职业">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <loader id="n130_teox" name="img_career" xy="364,94" pivot="0.5,0.5" size="64,64" group="n120_teox" scale="1.2,1.2" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </loader>
+    <loader id="n131_teox" name="img_sel" xy="325,53" size="146,146" group="n120_teox" url="ui://1d2t7iwtteoxm" autoSize="true"/>
+    <loader id="n137_teox" name="btn_jia" xy="363,90" pivot="0.5,0.5" size="70,70" group="n120_teox" scale="0.8,0.8" touchable="false" url="ui://38fa8c75odo57o" autoSize="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </loader>
+    <text id="n115_c65a" name="n115" xy="293,213" size="212,42" group="n120_teox" fontSize="30" color="#9bf2ff" vAlign="middle" strokeColor="#030303" strokeSize="3" text="请选择心愿职业">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <component id="n124_teox" name="item0" src="teox18" fileName="item/DrawBallItem.xml" xy="147,0" group="n120_teox" scale="0.7,0.7"/>
+    <component id="n125_teox" name="item1" src="teox18" fileName="item/DrawBallItem.xml" xy="0,121" group="n120_teox" scale="0.8,0.8"/>
+    <component id="n126_teox" name="item2" src="teox18" fileName="item/DrawBallItem.xml" xy="99,262" group="n120_teox" scale="0.9,0.9"/>
+    <component id="n101_c65a" name="item3" src="teox18" fileName="item/DrawBallItem.xml" xy="295,339" group="n120_teox"/>
+    <component id="n127_teox" name="item4" src="teox18" fileName="item/DrawBallItem.xml" xy="522,313" group="n120_teox" scale="0.9,0.9"/>
+    <component id="n128_teox" name="item5" src="teox18" fileName="item/DrawBallItem.xml" xy="603,179" group="n120_teox" scale="0.8,0.8"/>
+    <component id="n129_teox" name="item6" src="teox18" fileName="item/DrawBallItem.xml" xy="504,53" group="n120_teox" scale="0.7,0.7"/>
+    <component id="n136_teox" name="btn_shuaxin" src="teoxvvv1ib" fileName="btn/BaseBtn0.8Scale.xml" pkg="38fa8c75" xy="432,152" size="41,34" group="n120_teox">
+      <Button icon="ui://38fa8c75e6dcvvv1dp"/>
+    </component>
+    <component id="n138_teox" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="398,126" size="146,146" group="n120_teox" touchable="false"/>
+    <group id="n120_teox" name="n120" xy="0,0" size="762,499"/>
+  </displayList>
+</component>

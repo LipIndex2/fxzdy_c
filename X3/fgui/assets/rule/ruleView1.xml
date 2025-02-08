@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="434,298">
+  <displayList>
+    <component id="n8_auyi" name="bg" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-1200,-2000" size="3000,5000">
+      <relation target="" sidePair=""/>
+    </component>
+    <component id="n7_auyi" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="434,297" group="n4_uazn"/>
+    <image id="n0_7343" name="bgContent" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="0,0" size="434,297" group="n4_uazn"/>
+    <component id="n6_uazn" name="content" src="auyib" fileName="ruleContentCom2.xml" xy="30,28" group="n4_uazn"/>
+    <group id="n4_uazn" name="n4" xy="0,0" size="434,297" advanced="true"/>
+  </displayList>
+</component>

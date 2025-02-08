@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334">
+  <displayList>
+    <loader id="n118_teox" name="n118" xy="65,226" size="619,882" group="n117_teox" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n55_c65a" name="n55" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="88,321" size="572,607" group="n117_teox"/>
+    <image id="n56_c65a" name="n56" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="100,600" size="547,315" group="n117_teox" alpha="0.54"/>
+    <image id="n59_c65a" name="n59" src="teoxvvv1ic" fileName="bg/touxiang_frame.png" pkg="38fa8c75" xy="269,392" size="210,179" group="n117_teox" alpha="0.58"/>
+    <text id="n57_c65a" name="T_desc" xy="152,339" pivot="0.5,0.5" size="441,36" group="n117_teox" fontSize="26" color="#ddfbff" align="center" vAlign="middle" text="职业招募获得英雄时，必定为心愿职业"/>
+    <text id="n58_c65a" name="T_title" xy="308,250" pivot="0.5,0.5" size="131,44" group="n117_teox" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="心愿职业"/>
+    <component id="n60_c65a" name="selItem" src="teox1b" fileName="item/DrawWishItem.xml" xy="316,423" group="n117_teox" touchable="false"/>
+    <list id="n119_teox" name="list_career" xy="169,618" size="417,281" group="n117_teox" layout="flow_hz" lineGap="28" colGap="30" defaultItem="ui://1d2t7iwtteox1b">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n120_teox" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="217,951" size="305,122" group="n117_teox" scale="0.9,0.9">
+      <Button title="确定" titleFontSize="46"/>
+    </component>
+    <group id="n117_teox" name="n117" xy="65,226" size="619,882" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

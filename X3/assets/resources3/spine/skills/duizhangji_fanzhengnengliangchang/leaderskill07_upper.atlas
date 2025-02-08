@@ -1,0 +1,195 @@
+
+leaderskill07_upper.png
+size: 2016,977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/leaderskill07_huan
+  rotate: false
+  xy: 1742, 522
+  size: 193, 193
+  orig: 200, 200
+  offset: 4, 4
+  index: -1
+effect/leaderskill07_huanrao50_0
+  rotate: false
+  xy: 846, 79
+  size: 271, 58
+  orig: 320, 150
+  offset: 19, 45
+  index: -1
+effect/leaderskill07_huanrao50_1
+  rotate: false
+  xy: 2, 95
+  size: 294, 59
+  orig: 320, 150
+  offset: 9, 55
+  index: -1
+effect/leaderskill07_huanrao50_10
+  rotate: false
+  xy: 2, 156
+  size: 294, 73
+  orig: 320, 150
+  offset: 7, 41
+  index: -1
+effect/leaderskill07_huanrao50_11
+  rotate: false
+  xy: 1718, 49
+  size: 288, 45
+  orig: 320, 150
+  offset: 1, 52
+  index: -1
+effect/leaderskill07_huanrao50_12
+  rotate: false
+  xy: 2, 44
+  size: 252, 49
+  orig: 320, 150
+  offset: 10, 49
+  index: -1
+effect/leaderskill07_huanrao50_2
+  rotate: true
+  xy: 1140, 14
+  size: 304, 74
+  orig: 320, 150
+  offset: 4, 40
+  index: -1
+effect/leaderskill07_huanrao50_3
+  rotate: false
+  xy: 2, 231
+  size: 307, 78
+  orig: 320, 150
+  offset: 3, 36
+  index: -1
+effect/leaderskill07_huanrao50_4
+  rotate: true
+  xy: 1937, 668
+  size: 307, 77
+  orig: 320, 150
+  offset: 4, 36
+  index: -1
+effect/leaderskill07_huanrao50_5
+  rotate: false
+  xy: 846, 235
+  size: 292, 83
+  orig: 320, 150
+  offset: 15, 29
+  index: -1
+effect/leaderskill07_huanrao50_6
+  rotate: false
+  xy: 1736, 272
+  size: 267, 91
+  orig: 320, 150
+  offset: 29, 24
+  index: -1
+effect/leaderskill07_huanrao50_7
+  rotate: false
+  xy: 846, 139
+  size: 235, 94
+  orig: 320, 150
+  offset: 52, 25
+  index: -1
+effect/leaderskill07_huanrao50_8
+  rotate: false
+  xy: 1718, 96
+  size: 222, 95
+  orig: 320, 150
+  offset: 62, 27
+  index: -1
+effect/leaderskill07_huanrao50_9
+  rotate: false
+  xy: 1718, 193
+  size: 292, 77
+  orig: 320, 150
+  offset: 11, 41
+  index: -1
+effect/leaderskill07_zhao_0
+  rotate: true
+  xy: 1937, 578
+  size: 88, 67
+  orig: 460, 360
+  offset: 186, 73
+  index: -1
+effect/leaderskill07_zhao_1
+  rotate: true
+  xy: 1742, 717
+  size: 258, 192
+  orig: 460, 360
+  offset: 101, 53
+  index: -1
+effect/leaderskill07_zhao_10
+  rotate: false
+  xy: 1296, 6
+  size: 420, 319
+  orig: 460, 360
+  offset: 20, 29
+  index: -1
+effect/leaderskill07_zhao_11
+  rotate: false
+  xy: 430, 2
+  size: 414, 317
+  orig: 460, 360
+  offset: 23, 28
+  index: -1
+effect/leaderskill07_zhao_12
+  rotate: false
+  xy: 1736, 365
+  size: 196, 155
+  orig: 460, 360
+  offset: 187, 177
+  index: -1
+effect/leaderskill07_zhao_2
+  rotate: false
+  xy: 866, 320
+  size: 428, 317
+  orig: 460, 360
+  offset: 16, 32
+  index: -1
+effect/leaderskill07_zhao_3
+  rotate: false
+  xy: 432, 321
+  size: 432, 320
+  orig: 460, 360
+  offset: 14, 31
+  index: -1
+effect/leaderskill07_zhao_4
+  rotate: false
+  xy: 2, 311
+  size: 426, 318
+  orig: 460, 360
+  offset: 17, 31
+  index: -1
+effect/leaderskill07_zhao_5
+  rotate: false
+  xy: 1303, 654
+  size: 437, 321
+  orig: 460, 360
+  offset: 8, 30
+  index: -1
+effect/leaderskill07_zhao_6
+  rotate: false
+  xy: 1303, 327
+  size: 431, 325
+  orig: 460, 360
+  offset: 13, 26
+  index: -1
+effect/leaderskill07_zhao_7
+  rotate: false
+  xy: 2, 631
+  size: 428, 344
+  orig: 460, 360
+  offset: 16, 6
+  index: -1
+effect/leaderskill07_zhao_8
+  rotate: false
+  xy: 432, 643
+  size: 439, 332
+  orig: 460, 360
+  offset: 12, 19
+  index: -1
+effect/leaderskill07_zhao_9
+  rotate: false
+  xy: 873, 639
+  size: 428, 336
+  orig: 460, 360
+  offset: 18, 14
+  index: -1

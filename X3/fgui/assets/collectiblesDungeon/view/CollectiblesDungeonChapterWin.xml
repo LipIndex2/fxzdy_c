@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n27_loj0" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="68,246" size="616,770" group="n26_loj0"/>
+    <image id="n0_f430" name="n0" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="68,246" size="616,770" group="n26_loj0"/>
+    <image id="n1_f430" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="91,333" size="570,650" group="n26_loj0"/>
+    <list id="n24_loj0" name="listChapter" xy="105,348" size="540,620" group="n26_loj0" overflow="scroll" lineGap="12" defaultItem="ui://17246473loj011d" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n20_f430" name="n20" xy="374,293" pivot="0.5,0.5" anchor="true" size="131,44" group="n26_loj0" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="章节选择"/>
+    <group id="n26_loj0" name="gAll" xy="68,246" size="616,770" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n25_loj0" name="n25" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="327,1021">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

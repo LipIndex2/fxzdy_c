@@ -1,0 +1,118 @@
+
+skill03_upper.png
+size: 1121,1350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill03_epup_01
+  rotate: false
+  xy: 1002, 757
+  size: 105, 56
+  orig: 300, 140
+  offset: 93, 5
+  index: -1
+images/effect/skill03_epup_02
+  rotate: true
+  xy: 1002, 597
+  size: 158, 117
+  orig: 300, 140
+  offset: 68, 3
+  index: -1
+images/effect/skill03_epup_03
+  rotate: false
+  xy: 858, 878
+  size: 212, 131
+  orig: 300, 140
+  offset: 43, 0
+  index: -1
+images/effect/skill03_epup_04
+  rotate: true
+  xy: 913, 18
+  size: 246, 132
+  orig: 300, 140
+  offset: 29, 3
+  index: -1
+images/effect/skill03_epup_05
+  rotate: true
+  xy: 865, 603
+  size: 273, 135
+  orig: 300, 140
+  offset: 17, 3
+  index: -1
+images/effect/skill03_epup_06
+  rotate: true
+  xy: 865, 303
+  size: 279, 138
+  orig: 300, 140
+  offset: 14, 2
+  index: -1
+images/effect/skill03_epup_07
+  rotate: false
+  xy: 570, 878
+  size: 286, 138
+  orig: 300, 140
+  offset: 10, 2
+  index: -1
+images/effect/skill03_epup_08
+  rotate: true
+  xy: 479, 379
+  size: 291, 87
+  orig: 300, 140
+  offset: 8, 53
+  index: -1
+images/effect/skill03_epup_09
+  rotate: true
+  xy: 1005, 303
+  size: 292, 68
+  orig: 300, 140
+  offset: 7, 72
+  index: -1
+images/effect/skill03_mesh
+  rotate: false
+  xy: 567, 1055
+  size: 526, 293
+  orig: 550, 300
+  offset: 17, 3
+  index: -1
+images/effect/skill03_slash_01
+  rotate: false
+  xy: 576, 18
+  size: 335, 283
+  orig: 600, 370
+  offset: 223, 51
+  index: -1
+images/effect/skill03_slash_02
+  rotate: false
+  xy: 2, 1008
+  size: 563, 340
+  orig: 600, 370
+  offset: 27, 27
+  index: -1
+images/effect/skill03_slash_03
+  rotate: false
+  xy: 2, 2
+  size: 572, 299
+  orig: 600, 370
+  offset: 19, 68
+  index: -1
+images/effect/skill03_slash_04
+  rotate: true
+  xy: 570, 303
+  size: 573, 293
+  orig: 600, 370
+  offset: 16, 74
+  index: -1
+images/effect/skill03_slash_05
+  rotate: false
+  xy: 2, 672
+  size: 566, 334
+  orig: 600, 370
+  offset: 16, 33
+  index: -1
+images/effect/skill03_slash_06
+  rotate: false
+  xy: 2, 303
+  size: 475, 367
+  orig: 600, 370
+  offset: 16, 0
+  index: -1

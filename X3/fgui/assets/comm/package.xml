@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="38fa8c75" hasFavorites="true">
+  <resources>
+    <component id="s06v0" name="JoystickView.xml" path="/view/" exported="true"/>
+    <component id="s06v1" name="JoystickCom.xml" path="/com/" exported="true"/>
+    <image id="8qld1x" name="tc2_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="17,17,26,26"/>
+    <image id="8qld1z" name="gou_icon.png" path="/bgImage/" exported="true"/>
+    <image id="8qld20" name="lb1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="15,15,10,10"/>
+    <image id="8qld21" name="lb2_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="15,15,10,10"/>
+    <image id="j6z926" name="js_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="62,26,13,5"/>
+    <image id="j6z927" name="chat_btn.png" path="/btnImage/" exported="true"/>
+    <image id="j6z928" name="dilan_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="5,5,10,10"/>
+    <image id="j6z929" name="gntb_default.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92a" name="gntb_selected.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92b" name="gth_btn.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92c" name="hd_default.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92d" name="hd_selected.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92h" name="pmd_msg.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="6,6,12,12"/>
+    <image id="j6z92i" name="pz_frame.png" path="/frameImage/" exported="true"/>
+    <image id="j6z92j" name="shuzi_msg.png" path="/bgImage/" exported="true"/>
+    <image id="j6z92k" name="suo_icom.png" path="/bgImage/" exported="true"/>
+    <image id="j6z92q" name="zd_icon.png" path="/iconImage/" exported="true"/>
+    <image id="j6z92r" name="zjtx_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="42,40,4,4"/>
+    <image id="j6z92s" name="tag.png" path="/bgImage/" exported="true"/>
+    <image id="j6z92u" name="close_btn.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92v" name="more_btn.png" path="/btnImage/" exported="true"/>
+    <image id="j6z92w" name="black1_msg.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="90,9,7,0"/>
+    <image id="j6z92x" name="black2_msg.png" path="/bgImage/" exported="true"/>
+    <image id="j6z92y" name="celan_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="5,5,10,10"/>
+    <image id="j6z930" name="szdi_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="7,7,7,4"/>
+    <component id="j6z931" name="BaseBtn.xml" path="/btn/" exported="true"/>
+    <image id="j6z932" name="jia__btn.png" path="/iconImage/" exported="true"/>
+    <image id="j6z933" name="icgoods_10003.png" path="/iconImage/" exported="true"/>
+    <image id="j6z934" name="icgoods_10001.png" path="/iconImage/" exported="true"/>
+    <image id="j6z935" name="icgoods_10002.png" path="/iconImage/" exported="true"/>
+    <image id="j6z938" name="jiantou.png" path="/iconImage/" exported="true"/>
+    <component id="j6z939" name="CloseBtn.xml" path="/btn/" exported="true"/>
+    <image id="j6z93a" name="celan2_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="38,292,76,16"/>
+    <image id="6b2933" name="fangdajinggongneng.png" path="/btnImage/" exported="true"/>
+    <image id="6b2934" name="tanhao.png" path="/btnImage/" exported="true"/>
+    <component id="vgdx45" name="TeamDirectionCom.xml" path="/com/" exported="true"/>
+    <image id="qoer47" name="zd2_icon.png" path="/iconImage/" exported="true"/>
+    <image id="f0d84" name="quality1.png" path="/quality/" exported="true" scale="9grid" scale9grid="53,40,10,33"/>
+    <image id="qoer48" name="green_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="28,11,178,49"/>
+    <image id="qoer49" name="yelly_btn.png" path="/btnImage/" exported="true"/>
+    <image id="qoer4a" name="black1_msg.png" path="/frameImage/" exported="true"/>
+    <image id="qoer4b" name="gth_btn2.png" path="/btnImage/" exported="true"/>
+    <component id="qoer4c" name="RebirthItem.xml" path="/hp/" exported="true"/>
+    <image id="qoer4d" name="hxdi_frame.png" path="/iconImage/" exported="true"/>
+    <image id="qoer4e" name="hxred_frame.png" path="/iconImage/" exported="true"/>
+    <image id="dtss4f" name="yeqian2_tab.png" path="/btnImage/" exported="true"/>
+    <image id="dtss4g" name="yeqian_tab.png" path="/btnImage/" exported="true"/>
+    <image id="dtss4h" name="jiantou_btn.png" path="/btnImage/" exported="true"/>
+    <image id="dtss4i" name="xinghuang_icon.png" path="/iconImage/" exported="true"/>
+    <component id="dtss4j" name="ItemFrame.xml" path="/item/" exported="true"/>
+    <component id="dtss4k" name="ItemFrameBtn.xml" path="/item/" exported="true"/>
+    <image id="972a4l" name="tuceng866.png" path="/iconImage/" exported="true"/>
+    <image id="972a4o" name="jian_btn.png" path="/progressBarImage/" exported="true" scale="9grid" scale9grid="9,9,27,26"/>
+    <image id="972a4p" name="jia_btn.png" path="/progressBarImage/" exported="true" scale="9grid" scale9grid="9,9,29,28"/>
+    <image id="972a4q" name="tianjia1_blood.png" path="/progressBarImage/" exported="true"/>
+    <image id="972a4r" name="tianjia_blood.jpg" path="/progressBarImage/" exported="true"/>
+    <image id="972a4s" name="tianjiadi_blood.png" path="/progressBarImage/" exported="true"/>
+    <component id="972a4v" name="ProgressBar_button.xml" path="/progressBar/components/" exported="true"/>
+    <component id="972a4w" name="ProgressBar.xml" path="/progressBar/components/" exported="true"/>
+    <component id="972a4x" name="ButtonProgressBarAdd.xml" path="/progressBar/components/" exported="true"/>
+    <component id="972a4y" name="ButtonProgressBarMinus.xml" path="/progressBar/components/" exported="true"/>
+    <component id="972a4z" name="ProgressBarCommonView.xml" path="/progressBar/" exported="true"/>
+    <component id="972a2c" name="ButtonBoxChooseCountView.xml" path="/progressBar/" exported="true"/>
+    <image id="dtss58" name="changgui2_btn.png" path="/btnImage/" exported="true"/>
+    <image id="dtss59" name="changgui_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="198,25,7,50"/>
+    <image id="dtss5a" name="gth2_btn.png" path="/btnImage/" exported="true"/>
+    <image id="dtss5b" name="jiantou_tag.png" path="/btnImage/" exported="true"/>
+    <image id="dtss5e" name="zhanli_frame.png" path="/frameImage/" exported="true"/>
+    <image id="dtss5f" name="fy_icon.png" path="/iconImage/" exported="true"/>
+    <image id="dtss5g" name="gj_icon.png" path="/iconImage/" exported="true"/>
+    <image id="dtss5h" name="xingzi_icon.png" path="/iconImage/" exported="true"/>
+    <image id="dtss5i" name="xl_icon.png" path="/iconImage/" exported="true"/>
+    <image id="dtss5j" name="suipian_icon_9.png" path="/iconImage/" exported="true"/>
+    <image id="dtss5k" name="jdt_blood.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="1,3,2,6"/>
+    <image id="dtss5l" name="jdtdi_blood.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="3,4,2,5"/>
+    <image id="dtss5m" name="sheji.png" path="/iconImage/" exported="true"/>
+    <image id="dtss5n" name="erji_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="17,17,10,10"/>
+    <image id="dtss5o" name="hb_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="7,7,5,5"/>
+    <image id="dtss5p" name="black2_msg.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="15,10,20,7"/>
+    <image id="dtss5q" name="jineng_frame.png" path="/frameImage/" exported="true"/>
+    <image id="dtss5r" name="mengban_frame.png" path="/frameImage/" exported="true"/>
+    <image id="dtss5s" name="shuliang_frame.png" path="/frameImage/" exported="true"/>
+    <image id="dtss5t" name="ysz_tag.png" path="/frameImage/" exported="true"/>
+    <image id="dtss5u" name="bishatag.png" path="/frameImage/" exported="true"/>
+    <image id="dtss5v" name="black3_msg.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="3,69,6,10"/>
+    <component id="dtss5w" name="CommonBtn1.xml" path="/btn/" exported="true"/>
+    <image id="dtss5x" name="jiantou_tag_9.png" path="/btnImage/" exported="true"/>
+    <image id="dtss5y" name="baise_msg.png" path="/bgImage/" exported="true"/>
+    <image id="dtss5z" name="biaoti_msg.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="20,10,7,20"/>
+    <component id="dtss60" name="ItemIconWithChooseCount.xml" path="/item/" exported="true"/>
+    <image id="dtss61" name="sjcg_frame_8.png" path="/bgImage/" exported="true"/>
+    <image id="dtss6b" name="quality2.png" path="/quality/" exported="true"/>
+    <component id="uug0vvv1bk" name="BackFooter.xml" path="/back/" exported="true"/>
+    <image id="dtss6c" name="quality3.png" path="/quality/" exported="true"/>
+    <image id="dtss6d" name="quality4.png" path="/quality/" exported="true"/>
+    <image id="dtss6e" name="quality5.png" path="/quality/" exported="true"/>
+    <image id="dtss6f" name="quality6.png" path="/quality/" exported="true"/>
+    <image id="dtss6g" name="jiantou.png" path="/btnImage/" exported="true"/>
+    <component id="972a28" name="ButtonUse1.xml" path="/btn/" exported="true"/>
+    <image id="pv7c6h" name="image_btnUse_whenNoUse.png" path="/bgImage/" exported="true"/>
+    <image id="68b516" name="changgui2_btn.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="17,16,191,67"/>
+    <image id="47513" name="changgui_btn.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="18,19,193,62"/>
+    <component id="fsx56i" name="BtnConfirm.xml" path="/btn/" exported="true"/>
+    <component id="fsx56k" name="BtnCancel.xml" path="/btn/" exported="true"/>
+    <image id="68b517" name="red_tag.png" path="/redDotImage/" exported="true"/>
+    <image id="68b522" name="biaoti_msg_5.png" path="/bgImage/" exported="true"/>
+    <image id="68b54" name="lb4_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="20,56,17,10"/>
+    <image id="68b59" name="lb5_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="18,56,15,10"/>
+    <image id="3cd616" name="zuida_btn.png" path="/btnImage/" exported="true"/>
+    <image id="3cd69" name="zhihui_btn.png" path="/btnImage/" exported="true"/>
+    <image id="3cd617" name="jian_btn.png" path="/btnImage/" exported="true"/>
+    <image id="3cd615" name="jia_btn.png" path="/btnImage/" exported="true"/>
+    <image id="3cd619" name="tisp2_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="15,15,6,5"/>
+    <image id="3cd618" name="tisp_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="40,40,8,12"/>
+    <image id="ukhs6l" name="zuida_btn.png" path="/progressBarImage/" exported="true"/>
+    <image id="2ce23" name="fh_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="35,22,70,46"/>
+    <image id="2ce223" name="zk_btn.png" path="/btnImage/" exported="true"/>
+    <image id="2ce224" name="xz__frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="21,23,42,46"/>
+    <image id="r9gz6m" name="lb6_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="21,0,6,150"/>
+    <image id="r9gz6n" name="shuzi1_frame.png" path="/bgImage/" exported="true"/>
+    <image id="cni66l" name="fh_btn.png" path="/bgImage/" exported="true"/>
+    <component id="r9gz16" name="TargetDownArrowComponent.xml" path="/tips/" exported="true"/>
+    <image id="cni66m" name="suobig.png" path="/bgImage/" exported="true"/>
+    <image id="cni66n" name="zk_btn.png" path="/bgImage/" exported="true"/>
+    <image id="cni66o" name="bt_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="92,17,3,34"/>
+    <image id="cni66p" name="bzd1_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="320,64,20,17"/>
+    <image id="cni66q" name="bzd_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="246,48,11,9"/>
+    <image id="cni66r" name="jt_icon.png" path="/frameImage/" exported="true"/>
+    <image id="cni66s" name="xb_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="14,10,6,20"/>
+    <image id="cni66t" name="xz__frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="22,7,2,14"/>
+    <image id="cni66u" name="zyd_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="15,15,2,2"/>
+    <image id="cni66v" name="zyfz_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni66w" name="zygd_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni66x" name="zyrz_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni66y" name="zysh_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni66z" name="zysj_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni670" name="zysm_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni671" name="zyym_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni672" name="zyyn_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni673" name="zyzq_icon.png" path="/iconImage/" exported="true"/>
+    <image id="cni674" name="zyzx_icon.png" path="/iconImage/" exported="true"/>
+    <component id="odo57g" name="HeroItem.xml" path="/item/" exported="true"/>
+    <component id="odo57h" name="HeroSelectItem.xml" path="/item/" exported="true"/>
+    <component id="odo57i" name="HeroSelectBtn.xml" path="/btn/" exported="true"/>
+    <component id="odo57l" name="SoltItem.xml" path="/item/" exported="true"/>
+    <image id="odo57o" name="jia1_btn.png" path="/btnImage/" exported="true"/>
+    <component id="eowx7l" name="ProgressBar2.xml" path="/progressBar/components/" exported="true"/>
+    <image id="eowx7m" name="wxz_tab.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="14,15,282,39"/>
+    <image id="eowx7n" name="xb1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="239,0,6,37" disableTrim="true"/>
+    <image id="eowx7o" name="xz_tab.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="12,14,286,41"/>
+    <image id="eowx7p" name="lb7_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="13,11,13,18"/>
+    <image id="odo5az" name="jiantou1_btn.png" path="/btnImage/" exported="true"/>
+    <image id="odo5b0" name="dizuo1.png" path="/quality/" exported="true"/>
+    <image id="odo5b1" name="dizuo2.png" path="/quality/" exported="true"/>
+    <image id="odo5b2" name="dizuo3.png" path="/quality/" exported="true"/>
+    <image id="odo5b3" name="dizuo4.png" path="/quality/" exported="true"/>
+    <image id="odo5b4" name="dizuo5.png" path="/quality/" exported="true"/>
+    <image id="odo5b5" name="dizuo6.png" path="/quality/" exported="true"/>
+    <image id="odo5b6" name="kapai2_frame.png" path="/quality/" exported="true"/>
+    <image id="odo5b7" name="kapai3_frame.png" path="/quality/" exported="true"/>
+    <image id="odo5b8" name="kapai4_frame.png" path="/quality/" exported="true"/>
+    <image id="odo5b9" name="kapai5_frame.png" path="/quality/" exported="true"/>
+    <image id="odo5ba" name="kapai6_frame.png" path="/quality/" exported="true"/>
+    <component id="odo5bb" name="AnimNode.xml" path="/node/" exported="true"/>
+    <image id="xebibc" name="lb_tag.png" path="/frameImage/" exported="true"/>
+    <image id="xebibd" name="3j_line.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="5,1,6,4"/>
+    <image id="kp1obe" name="tianfuts_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="8,61,161,23"/>
+    <image id="kp1o4h" name="szdi_frame.png" path="/progressBarImage/" exported="true" scale="9grid" scale9grid="8,8,17,16"/>
+    <image id="kp1o4g" name="szdiyellow_frame.png" path="/progressBarImage/" exported="true" scale="9grid" scale9grid="2,6,4,12"/>
+    <component id="kp1o4i" name="HeaderItemProgressBar.xml" path="/header/comp/" exported="true"/>
+    <image id="85283" name="jia__btn.png" path="/btnImage/" exported="true"/>
+    <component id="j6z944" name="HeaderItem.xml" path="/header/" exported="true"/>
+    <image id="85288" name="tianfujn1_frame_0.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="7,28,89,56"/>
+    <image id="kp1obg" name="fh1_btn.png" path="/btnImage/" exported="true"/>
+    <image id="kp1obh" name="tianfujn1_frame.png" path="/bgImage/" exported="true"/>
+    <image id="kp1obj" name="hz_tag.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="21,17,42,34"/>
+    <image id="kp1obk" name="dilan1_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="125,123,8,2"/>
+    <component id="piwibl" name="UnlockByCostItemBtn.xml" path="/btn/" exported="true"/>
+    <image id="116b15" name="gth_btn_0.png" path="/btnImage/" exported="true"/>
+    <image id="116b7" name="suo_icom.png" path="/frameImage/" exported="true"/>
+    <image id="8a38127" name="tujiananniu_1.png" path="/btnImage/" exported="true"/>
+    <component id="piwi137" name="BtnBattleData.xml" path="/btn/" exported="true"/>
+    <image id="8a38125" name="black1_msg_3.png" path="/bgImage/" exported="true"/>
+    <image id="8a3814" name="buzhen_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="28,26,56,5"/>
+    <component id="piwibp" name="BtnBlue.xml" path="/btn/" exported="true"/>
+    <image id="piwibq" name="green2_btn.png" path="/btnImage/" exported="true"/>
+    <component id="piwibr" name="BtnGreen2.xml" path="/btn/" exported="true"/>
+    <image id="piwibs" name="fh2_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="3,21,5,44"/>
+    <component id="dclx138" name="StarIconItem.xml" path="/item/" exported="true"/>
+    <image id="tml513a" name="zhanli1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="84,2,165,76"/>
+    <image id="tml513b" name="green3_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="16,16,113,69"/>
+    <image id="tml513c" name="qipao_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="16,17,17,12"/>
+    <image id="tml513d" name="wenhao_icon.png" path="/frameImage/" exported="true"/>
+    <image id="tml513e" name="qipao1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="21,19,13,29"/>
+    <image id="tml513f" name="qipao2_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="41,16,15,32"/>
+    <image id="tml513g" name="biaoti1_msg.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="21,0,16,58"/>
+    <image id="tml513h" name="yingxiongpeiyang_icon.png" path="/moduleImage/" exported="true"/>
+    <image id="tml513i" name="zhaohuan_icon.png" path="/moduleImage/" exported="true"/>
+    <image id="tml513j" name="zhuangbei_icon.png" path="/moduleImage/" exported="true"/>
+    <component id="tml513k" name="ModuleJumpBtn.xml" path="/moduleComp/" exported="true"/>
+    <image id="pf1a13w" name="pzputong_frame.png" path="/bgImage/" exported="true"/>
+    <image id="pf1a13x" name="pztubiao_frame.png" path="/bgImage/" exported="true"/>
+    <image id="pf1a13y" name="pzzhanli_frame.png" path="/bgImage/" exported="true"/>
+    <component id="rr185" name="BuildingBtn.xml" path="/building/" exported="true"/>
+    <component id="rr186" name="BuildingNameCom.xml" path="/building/" exported="true"/>
+    <image id="346b1" name="jianzhuanniu.png" path="/bgImage/" exported="true"/>
+    <image id="346b0" name="jianzhumingcheng.png" path="/bgImage/" exported="true"/>
+    <component id="rr18142" name="BuildingNode.xml" path="/building/" exported="true"/>
+    <image id="pf1a143" name="bossbt_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="168,22,24,44" duplicatePadding="true"/>
+    <component id="pf1a144" name="EquipItem.xml" path="/item/" exported="true"/>
+    <image id="pf1a145" name="wzb_frame.png" path="/quality/" exported="true"/>
+    <image id="pf1a146" name="zb_0001.png" path="/bgImage/" exported="true"/>
+    <image id="pf1a147" name="changgui1_btn.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="131,0,26,122"/>
+    <image id="pf1a148" name="tisp1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="15,3,10,3"/>
+    <image id="pf1a149" name="tisp_frame_new.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="40,39,11,11"/>
+    <image id="pf1a14a" name="gth3_btn.png" path="/btnImage/" exported="true"/>
+    <image id="lz8y14b" name="boss_bag.png" path="/frameImage/"/>
+    <image id="lz8y14p" name="fhdl_frame.png" path="/iconImage/" exported="true"/>
+    <image id="lz8y14q" name="fhdldi_frame.png" path="/iconImage/" exported="true"/>
+    <image id="lz8y147" name="xgxt__frame.png" path="/frameImage/" exported="true"/>
+    <image id="lz8y148" name="xtboss_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="5,3,3,6"/>
+    <image id="lz8y149" name="xtdi_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="3,2,2,3"/>
+    <image id="lz8y14a" name="yxxt_frame.png" path="/frameImage/" exported="true" scale="9grid" scale9grid="0,0,4,2"/>
+    <component id="lz8y14e" name="AttackerHpBar.xml" path="/hp/" exported="true"/>
+    <component id="lz8y14c" name="BossHpBar.xml" path="/hp/" exported="true"/>
+    <component id="lz8y14d" name="DefenderHpBar.xml" path="/hp/" exported="true"/>
+    <component id="105pv14r" name="GetItemAnimView.xml" path="/view/" exported="true"/>
+    <component id="105pv14s" name="IconItem.xml" path="/item/" exported="true"/>
+    <component id="105pv14t" name="EmptyBtn.xml" path="/btn/" exported="true"/>
+    <component id="slcu14s" name="GateNode.xml" path="/building/" exported="true"/>
+    <image id="830116" name="gouxuan_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="10,10,20,18"/>
+    <image id="ckiev14u" name="gxhd_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="93,35,84,7"/>
+    <component id="ckiev14w" name="ItemTextComp.xml" path="/item/" exported="true"/>
+    <image id="83016" name="changgui3_btn.png" path="/btnImage/" exported="true"/>
+    <component id="ckiev14x" name="BtnChangGui3.xml" path="/btn/" exported="true"/>
+    <component id="ckiev14y" name="BtnChangGui1.xml" path="/btn/" exported="true"/>
+    <image id="a0033" name="xinghuang1_icon.png" path="/img/" exported="true"/>
+    <component id="ffzcv16w" name="TransferAnimWin.xml" path="/view/" exported="true"/>
+    <component id="ffzcv16x" name="ModelNode.xml" path="/node/" exported="true"/>
+    <image id="phyfv16r" name="changgui4_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="105,47,92,24"/>
+    <image id="phyfv16t" name="libiao_btn.png" path="/btnImage/" exported="true"/>
+    <component id="phyfv16u" name="BtnMore.xml" path="/btn/" exported="true"/>
+    <image id="phyfv16v" name="zjtx_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="26,26,52,52"/>
+    <component id="pocbv16w" name="CommonFooterView.xml" path="/footer/" exported="true"/>
+    <component id="pocbv16x" name="PageBtn.xml" path="/footer/btn/" exported="true"/>
+    <image id="pocbv16y" name="tabIconChoose.png" path="/footer/img/" exported="true"/>
+    <image id="pocbv16z" name="yingxiongpeiyang_icon.png" path="/footer/img/" exported="true"/>
+    <image id="pocbv170" name="zhaohuan_icon.png" path="/footer/img/" exported="true"/>
+    <image id="pocbv171" name="wanfa_icon.png" path="/footer/img/" exported="true"/>
+    <image id="pocbv172" name="gonghui_icon.png" path="/footer/img/" exported="true" scale9grid="20,17,40,34"/>
+    <component id="pocbv173" name="ScheduleCom.xml" path="/footer/com/" exported="true"/>
+    <image id="pocbv174" name="guanqiadi.png" path="/footer/img/" exported="true"/>
+    <component id="pocbv179" name="HangUpEntryBtn.xml" path="/footer/btn/" exported="true"/>
+    <component id="pocbv17b" name="HeaderItem2.xml" path="/header/" exported="true"/>
+    <image id="pocbv17c" name="szdi11_frame.png" path="/headerImage/" exported="true" scale="9grid" scale9grid="58,0,5,35"/>
+    <image id="pocbv17d" name="hbl1_01.png" path="/headerImage/" exported="true" scale="9grid" scale9grid="8,0,10,29"/>
+    <component id="pocbv17f" name="HeaderItemProgressBar2.xml" path="/header/comp/" exported="true"/>
+    <image id="pocbv17g" name="hbl1_01.png" path="/progressBarImage/" exported="true" scale="9grid" scale9grid="4,0,14,29"/>
+    <image id="pocbv17i" name="jiahao.png" path="/headerImage/" exported="true"/>
+    <image id="pocbv17j" name="guajiguanqia_title_bg.png" path="/footerImage/" exported="true" scale="9grid" scale9grid="10,1,46,21"/>
+    <component id="jzrtv17l" name="LoadingWin.xml" path="/view/" exported="true"/>
+    <image id="pocbv17k" name="yaoshi.png" path="/buildingImage/" exported="true"/>
+    <image id="pocbv17l" name="jiaohu_0.png" path="/buildingImage/" exported="true"/>
+    <component id="ia0ov17r" name="LoadingCom.xml" path="/view/"/>
+    <image id="pocb5g" name="shuzi_msg.png" path="/redDotImage/" exported="true"/>
+    <component id="pocbv17s" name="CommonSmallItemTextComp.xml" path="/itemText/" exported="true"/>
+    <component id="mnaov17s" name="UnlockResAnimNode.xml" path="/anim/"/>
+    <component id="rqztv17t" name="UnlockBuildingAnimWin.xml" path="/view/" exported="true"/>
+    <component id="pwoev17z" name="HeadItemCompV2.xml" path="/header/" exported="true"/>
+    <image id="pwoev180" name="sd_A_common_szdi1_frame.png" path="/headerImage/" exported="true"/>
+    <image id="pwoev181" name="tuceng78kaobei.png" path="/headerImage/" exported="true"/>
+    <image id="105pvv17z" name="jiantou4_btn.png" path="/btnImage/" exported="true"/>
+    <image id="105pvv180" name="jiantou2_btn.png" path="/btnImage/" exported="true"/>
+    <image id="105pvv181" name="jiantou3_btn.png" path="/btnImage/" exported="true"/>
+    <image id="105pvv182" name="xinghuang2_icon.png" path="/btnImage/" exported="true" scale="tile" scale9grid="9,9,18,18"/>
+    <image id="105pvv184" name="dengji_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="103,29,5,19"/>
+    <image id="105pvv185" name="jnmb_frame.png" path="/bgImage/" exported="true"/>
+    <image id="105pvv186" name="jineng1_frame.png" path="/bgImage/" exported="true"/>
+    <image id="105pvv187" name="shuxingdi_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="76,10,52,20"/>
+    <image id="105pvv188" name="gongji_icon.png" path="/iconImage/" exported="true"/>
+    <image id="105pvv189" name="xueliang_icon.png" path="/iconImage/" exported="true"/>
+    <image id="105pvv18a" name="fangyu_icon.png" path="/iconImage/" exported="true"/>
+    <image id="105pvv18b" name="bisha1tag.png" path="/frameImage/" exported="true"/>
+    <image id="105pvv18c" name="fgx1_line.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="3,0,3,3"/>
+    <image id="105pvv18d" name="bossfydi_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="18,17,10,6"/>
+    <image id="105pvv18e" name="shuxingdi1_frame.png" path="/bgImage/" exported="true"/>
+    <image id="105pvv18f" name="kppydi_blood.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="11,10,3,2"/>
+    <image id="105pvv18g" name="kppy_blood.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="7,6,3,3"/>
+    <image id="105pvv18h" name="jia1_btn1.png" path="/btnImage/"/>
+    <image id="105pvvv18i" name="kpgm1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="235,52,23,8"/>
+    <image id="105pvvv18j" name="gth_btn1.png" path="/btnImage/"/>
+    <image id="105pvvv18k" name="fubiao_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="186,0,17,37"/>
+    <image id="105pvvv18l" name="shouqi.png" path="/btnImage/" exported="true"/>
+    <component id="jmeivvv18n" name="TouchMaskWin.xml" path="/view/" exported="true"/>
+    <component id="jmeivvv18o" name="ViewContainer.xml" path="/ViewContainer/" exported="true"/>
+    <image id="x52evvv18n" name="zhankai_btn.png" path="/btnImage/" exported="true"/>
+    <image id="x52evvv18o" name="shouqi_btn.png" path="/btnImage/" exported="true"/>
+    <image id="x52evvv18q" name="fengexian_line.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="52,0,6,7"/>
+    <component id="kp3wvvv18s" name="BtnBack.xml" path="/back/" exported="true"/>
+    <component id="kp3wvvv18n" name="BtnChangGui1WithItem.xml" path="/btn/" exported="true"/>
+    <component id="fxocvvv18t" name="CaptainSkillOneComp.xml" path="/captainSkill/" exported="true"/>
+    <image id="fxocvvv18u" name="changgui.png" path="/captainSkill/images/" exported="true"/>
+    <image id="fxocvvv18v" name="xiaofeichuantubiao.png" path="/captainSkill/images/" exported="true"/>
+    <image id="fxocvvv18w" name="weijiesuobantoudi.png" path="/captainSkill/images/" exported="true"/>
+    <image id="fxocvvv18x" name="xuanzhongxiaoguo.png" path="/captainSkill/images/" exported="true" scale="9grid" scale9grid="62,67,6,21" disableTrim="true"/>
+    <component id="fxocvvv18y" name="CaptionSkillCommonBattleComp.xml" path="/captainSkill/" exported="true"/>
+    <image id="fxocvvv190" name="fadongjinengdi.png" path="/captainSkill/img/" exported="true"/>
+    <image id="fxocvvv191" name="jineng_0.png" path="/captainSkill/img/" exported="true"/>
+    <image id="fxocvvv193" name="jineng.png" path="/captainSkill/img/" exported="true"/>
+    <image id="fxocvvv195" name="jnjd_blood.png" path="/captainSkill/img/" exported="true"/>
+    <image id="fxocvvv196" name="kjjn_frame.png" path="/captainSkill/img/" exported="true"/>
+    <component id="fxocvvv197" name="CaptionSkillCommonBattleProgressBar.xml" path="/captainSkill/progressBar/" exported="true"/>
+    <component id="fxocvvv198" name="CaptainSkillCanUseComp.xml" path="/captainSkill/components/" exported="true"/>
+    <component id="fxocvvv199" name="CaptainSkillInCdComp.xml" path="/captainSkill/components/" exported="true"/>
+    <component id="ipjzvvv19a" name="BtnChangGui1WithItemList.xml" path="/btn/" exported="true"/>
+    <component id="ipjzvvv19b" name="CommonItemSmallCostComp.xml" path="/item/" exported="true"/>
+    <component id="om4nvvv19c" name="BtnFh1.xml" path="/btn/" exported="true"/>
+    <component id="gkgvvvv19h" name="RankTop3Comp.xml" path="/rank/" exported="true"/>
+    <image id="gkgvvvv19i" name="llinshichenghao.png" path="/rank/images/" exported="true"/>
+    <image id="gkgvvvv19j" name="no1_icon.png" path="/rank/images/" exported="true"/>
+    <image id="gkgvvvv19k" name="no2_icon.png" path="/rank/images/" exported="true"/>
+    <image id="gkgvvvv19l" name="no3_icon.png" path="/rank/images/" exported="true"/>
+    <component id="gkgvvvv19n" name="HeaderItem3.xml" path="/header/" exported="true"/>
+    <image id="gkgvvvv19p" name="tuceng78kaobei.png" path="/header/images/" exported="true"/>
+    <image id="gkgvvvv19t" name="lb8_frame.png" path="/bg/" exported="true" scale="9grid" scale9grid="20,43,25,24"/>
+    <image id="gkgvvvv19u" name="jjc_frame.png" path="/bg/" exported="true" scale="9grid" scale9grid="151,103,41,18"/>
+    <image id="gkgvvvv19v" name="tisp3_frame.png" path="/bg/" exported="true" scale="9grid" scale9grid="19,19,27,18"/>
+    <image id="gkgvvvv19w" name="jiantou4_btn.png" path="/btn/img/" exported="true"/>
+    <component id="gkgvvvv19x" name="BtnJianTou4.xml" path="/btn/" exported="true"/>
+    <image id="mu0uvvv19d" name="suobig1_icon.png" path="/bgImage/" exported="true"/>
+    <image id="mu0uvvv19e" name="zyd_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="22,22,24,18"/>
+    <component id="gkgvvvv1a5" name="BtnChangGui.xml" path="/btn/" exported="true"/>
+    <image id="gkgvvvv1a6" name="changgui_btn.png" path="/btn/img/" exported="true"/>
+    <component id="gkgvvvv1a7" name="BtnChangGui2.xml" path="/btn/" exported="true"/>
+    <image id="gkgvvvv1a8" name="changgui2_btn.png" path="/btn/img/" exported="true"/>
+    <component id="qzovvvv1ay" name="HeroHeadSkillItem.xml" path="/item/" exported="true"/>
+    <component id="qzovvvv1az" name="HeroMaskComp.xml" path="/item/" exported="true"/>
+    <image id="qzovvvv1b0" name="tuceng877.png" path="/bgImage/"/>
+    <component id="qzovvvv1b1" name="JumpBtn.xml" path="/btn/" exported="true"/>
+    <image id="qzovvvv1b2" name="tubiao_zhujiemiantubiao.png" path="/btnImage/"/>
+    <component id="qzovvvv1b5" name="JumpItem.xml" path="/item/"/>
+    <component id="tkxdvvv1c2" name="CommonHeroItemComp.xml" path="/hero/components/" exported="true"/>
+    <image id="tkxdvvv1c3" name="jiaobiao.png" path="/hero/img/" exported="true"/>
+    <image id="qluivvv1c4" name="sd_Rrukoutubiao_rk0004_icon.png" path="/btn/img/" exported="true"/>
+    <component id="qluivvv1c5" name="BtnData.xml" path="/btn/" exported="true"/>
+    <image id="qoezvvv1c6" name="dibanframe.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="289,43,23,21"/>
+    <image id="qoezvvv1c7" name="fdj_icon.png" path="/btnImage/" exported="true"/>
+    <image id="qoezvvv1c8" name="hwdi_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="33,47,18,50"/>
+    <image id="aqfjvvv1c9" name="boss_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="14,13,3,4"/>
+    <component id="c7h6vvv1c6" name="BtnGth3.xml" path="/btn/" exported="true"/>
+    <image id="iuievvv1ca" name="paimingframe.png" path="/bgImage/" exported="true"/>
+    <component id="ffqtvvv1ca" name="CommonPVPRankSmallLogoComp.xml" path="/pvp/" exported="true"/>
+    <image id="ffqtvvv1cb" name="hz001_icon.png" path="/pvp/img/" exported="true"/>
+    <component id="ffqtvvv1cc" name="CommonPVPRankStarListComp.xml" path="/pvp/" exported="true"/>
+    <image id="ffqtvvv1cd" name="scale_60%_sd_A_common_biaoti1_msg.png" path="/pvp/img/" exported="true"/>
+    <component id="ffqtvvv1ce" name="CommonPVPRankStarComp.xml" path="/pvp/" exported="true"/>
+    <image id="ffqtvvv1cf" name="sd_A_common_lxhuang_tag_0.png" path="/pvp/img/" exported="true"/>
+    <image id="ffqtvvv1cg" name="sd_A_common_lxhuang_tag_1.png" path="/pvp/img/" exported="true"/>
+    <image id="e1fvvvv1ch" name="zd_icon.png" path="/img/" exported="true"/>
+    <component id="ffqtvvv1ci" name="RightTabBtn.xml" path="/btn/" exported="true"/>
+    <image id="ffqtvvv1cj" name="sd_Rrukoutubiao_rk0001_icon.png" path="/btn/img/" exported="true"/>
+    <component id="ffqtvvv1cm" name="BtnBuZhen.xml" path="/btn/" exported="true"/>
+    <image id="ffqtvvv1cn" name="buzhen_btn.png" path="/btn/img/" exported="true" scale="9grid" scale9grid="37,16,74,26"/>
+    <image id="bpksvvv1co" name="xjl_word.png" path="/bgImage/" exported="true"/>
+    <component id="ffqtvvv1co" name="HeroAvatar.xml" path="/hero/" exported="true"/>
+    <image id="hewqvvv1cp" name="ts_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="9,11,8,6"/>
+    <image id="hewqvvv1cr" name="cooldown_icon.png" path="/iconImage/" exported="true"/>
+    <image id="hewqvvv1cs" name="range_icon.png" path="/iconImage/" exported="true"/>
+    <image id="hewqvvv1ct" name="tsgj_icon.png" path="/iconImage/" exported="true"/>
+    <component id="caj9vvv1cp" name="ItemListComp.xml" path="/item/" exported="true"/>
+    <component id="cpeevvv1cv" name="Node.xml" path="/com/" exported="true"/>
+    <component id="caj9vvv1cu" name="CommonRankSubTabBtn.xml" path="/rank/" exported="true"/>
+    <image id="caj9vvv1cv" name="bossfy_frame.png" path="/rank/img/" exported="true" scale="9grid" scale9grid="141,17,13,29"/>
+    <component id="caj9vvv1cw" name="CommonSubTabListComp.xml" path="/rank/" exported="true"/>
+    <image id="caj9vvv1cy" name="sd_A_common_bossfgx_line.png" path="/img/" exported="true"/>
+    <component id="caj9vvv1d1" name="RankValueWithLogoComp.xml" path="/rank/" exported="true"/>
+    <image id="caj9vvv1d2" name="bossjy_icon.png" path="/rank/images/" exported="true"/>
+    <image id="olftvvv1d3" name="tsgj_green_icon.png" path="/iconImage/" exported="true"/>
+    <image id="rxmbvvv1do" name="liaotian_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="10,9,5,4"/>
+    <image id="e6dcvvv1dp" name="shuaxin_btn.png" path="/btnImage/" exported="true"/>
+    <image id="ejy3vvv1do" name="beibao.png" path="/btn/img/" exported="true"/>
+    <component id="ejy3vvv1dp" name="BtnBeiBao.xml" path="/btn/" exported="true"/>
+    <image id="ejy3vvv1dq" name="png_baoxiang.png" path="/btnImage/" exported="true"/>
+    <component id="wq7zvvv1dq" name="BackIcon.xml" path="/back/"/>
+    <image id="v891vvv1dr" name="ygm_tag.png" path="/frameImage/" exported="true"/>
+    <image id="v891vvv1ds" name="yhd_tag.png" path="/frameImage/" exported="true"/>
+    <image id="v891vvv1dt" name="ylq_tag.png" path="/frameImage/" exported="true"/>
+    <component id="ejy3vvv1dr" name="BtnCopy.xml" path="/btn/" exported="true"/>
+    <image id="ejy3vvv1ds" name="IDxinxi.png" path="/btn/img/" exported="true"/>
+    <component id="ejy3vvv1dt" name="FightNumComp.xml" path="/fightNum/" exported="true"/>
+    <image id="ejy3vvv1du" name="scale_60%_sd_A_common_zhanli1_frame.png" path="/fightNum/img/" exported="true"/>
+    <component id="ejy3vvv1dv" name="PlayerAvatar.xml" path="/playerInfo/" exported="true"/>
+    <component id="ejy3vvv1dz" name="BtnShuaXin.xml" path="/btn/" exported="true"/>
+    <image id="ejy3vvv1e0" name="shuru_btn.png" path="/btn/img/" exported="true"/>
+    <component id="ejy3vvv1e1" name="BtnShuRu.xml" path="/btn/" exported="true"/>
+    <image id="wq7zvvv1e2" name="suo3_icon.png" path="/btnImage/" exported="true"/>
+    <component id="rurqvvv1e4" name="BackFooter2.xml" path="/back/" exported="true"/>
+    <component id="os46vvv1e6" name="BaseBtnNoScale.xml" path="/btn/" exported="true"/>
+    <image id="frvnvvv1e8" name="tx_006_20.png" path="/playerInfo/img/" exported="true"/>
+    <component id="d4rvvvv1e9" name="BtnBack75.xml" path="/back/" exported="true"/>
+    <image id="v891vvv1ec" name="zz_tag.png" path="/bgImage/" exported="true"/>
+    <component id="qr2yvvv1ed" name="BtnFh2.xml" path="/btn/" exported="true"/>
+    <image id="v891vvv1ee" name="czzl_blood.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="11,10,3,2"/>
+    <image id="v891vvv1eg" name="qd03_frame.png" path="/bg/" exported="true" scale="9grid" scale9grid="221,223,7,10"/>
+    <component id="na34vvv1ee" name="BtnChangGui4.xml" path="/btn/" exported="true"/>
+    <image id="mr0bvvv1ef" name="huagan.png" path="/btnImage/" exported="true"/>
+    <image id="mr0bvvv1eg" name="huagan1.png" path="/btnImage/" exported="true"/>
+    <image id="mr0bvvv1eh" name="dangejiantou.png" path="/btnImage/" exported="true"/>
+    <component id="zzft2x" name="resoureceBtn.xml" path="/header/" exported="true"/>
+    <image id="zzft2w" name="jiahao.png" path="/header/images/" exported="true"/>
+    <component id="zzftvvv1ei" name="ComonBtn.xml" path="/btn/" exported="true"/>
+    <component id="qlkjvvv1ej" name="ItemListComp2.xml" path="/item/" exported="true"/>
+    <image id="d63c3" name="kongcao.png" path="/bg/" exported="true"/>
+    <component id="abqcvvv1ek" name="WeaponBaseItem.xml" path="/item/" exported="true"/>
+    <component id="abqcvvv1el" name="WeaponBagItem.xml" path="/item/" exported="true"/>
+    <component id="r9dwvvv1em" name="BtnWearWeapon.xml" path="/btn/" exported="true"/>
+    <component id="qlkjvvv1en" name="BtnChangGui1WithTime.xml" path="/btn/" exported="true"/>
+    <image id="v891vvv1en" name="qd01_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="58,52,58,8"/>
+    <image id="v891vvv1eo" name="qd02_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="59,51,57,8"/>
+    <component id="v891vvv1er" name="MiniMapItem.xml" path="/miniMap/" exported="true"/>
+    <image id="v891vvv1es" name="xiaoditu_frame.png" path="/miniMap/" scale="9grid" scale9grid="20,19,6,8"/>
+    <component id="v891vvv1ev" name="MaskItem.xml" path="/miniMap/"/>
+    <image id="03e462" name="gou_btn.png" path="/bgImage/" exported="true"/>
+    <image id="03e415" name="gxhdbt_frame.png" path="/bgImage/" exported="true"/>
+    <image id="273c31" name="xdt_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="20,10,97,16"/>
+    <image id="273c22" name="grsz_btn.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="36,14,72,28"/>
+    <component id="cjsd3e" name="BtnGrsz.xml" path="/btn/" exported="true"/>
+    <image id="273c16" name="cha_icon.png" path="/bgImage/" exported="true"/>
+    <image id="cjsda0" name="zp_tag.png" path="/bgImage/" exported="true"/>
+    <image id="v891vvv1ew" name="suo1_icon.png" path="/bgImage/" exported="true"/>
+    <component id="lhcvvvv1es" name="BtnKaoBei.xml" path="/btn/" exported="true"/>
+    <image id="lhcvvvv1et" name="bossxxd_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="203,36,1,21"/>
+    <image id="v891vvv1f1" name="xdt_013.png" path="/miniMap/"/>
+    <component id="v891vvv1f2" name="MiniMapShowBuildingItem.xml" path="/miniMap/" exported="true"/>
+    <image id="v891vvv1f3" name="boss_tag.png" path="/img/" exported="true"/>
+    <image id="uaznvvv1eu" name="redType_0.png" path="/btnImage/" exported="true"/>
+    <image id="uaznvvv1ev" name="redType_1.png" path="/btnImage/" exported="true"/>
+    <image id="uaznvvv1ew" name="redType_2.png" path="/btnImage/" exported="true"/>
+    <image id="uaznvvv1ex" name="redType_3.png" path="/btnImage/" exported="true"/>
+    <image id="uaznvvv1ey" name="redType_4.png" path="/btnImage/" exported="true"/>
+    <image id="uaznvvv1ez" name="redType_5.png" path="/btnImage/" exported="true"/>
+    <image id="uaznvvv1f0" name="redType_7.png" path="/btnImage/" exported="true"/>
+    <component id="uaznvvv1f1" name="RedDot.xml" path="/com/" exported="true"/>
+    <image id="lhcvvvv1f4" name="sd_Rrukoutubiao_rk0009_icon.png" path="/btn/img/" exported="true"/>
+    <component id="ut0gvvv1f6" name="ReconnectWin.xml" path="/reconnect/"/>
+    <image id="ut0gvvv1f7" name="bg_top.png" path="/bg/" exported="true" scale="9grid" scale9grid="35,0,70,1"/>
+    <component id="ppu1vvv1f6" name="HangUpSmallCharItemComp.xml" path="/footer/item/" exported="true"/>
+    <image id="oc78vvv1f7" name="hd_di01.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="186,36,2,13"/>
+    <image id="oc78vvv1f8" name="hd_di02.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="30,30,4,20"/>
+    <image id="dusvvvv1ff" name="VIP_di.png" path="/bgImage/" exported="true"/>
+    <component id="dusvvvv1fg" name="BackFooter3.xml" path="/back/" exported="true"/>
+    <image id="dusvvvv1fh" name="hd_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="7,11,36,77"/>
+    <image id="dusvvvv1fj" name="stjl_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="30,19,2,1"/>
+    <image id="dusvvvv1fi" name="gth4_btn.png" path="/btnImage/" exported="true"/>
+    <component id="dusvvvv1fk" name="VideoNode.xml" path="/node/" exported="true"/>
+    <image id="dusvvvv1fl" name="v_zgbq.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="20,12,4,25"/>
+    <component id="r58c12p" name="ItemFrameBtnWithFirst.xml" path="/item/" exported="true"/>
+    <image id="r58cvvv1fm" name="lvdian.png" path="/miniMap/"/>
+    <component id="c8g7vvv1fn" name="HeroDetailsAvatar.xml" path="/hero/" exported="true"/>
+    <component id="c8g7vvv1fo" name="HeroSkillItem.xml" path="/hero/components/" exported="true"/>
+    <component id="105pv7r" name="skillIconMask.xml" path="/hero/components/" exported="true"/>
+    <image id="bezov8u" name="mask.png" path="/hero/img/" exported="true"/>
+    <image id="c3wzvvv1fp" name="hd_tag.png" path="/bgImage/" exported="true"/>
+    <component id="hqybvvv1fq" name="HangUpPreviewBoxBtn.xml" path="/hangUp/" exported="true"/>
+    <image id="hqybvvv1fr" name="hangUp_box_1.png" path="/hangUp/img/" exported="true"/>
+    <image id="hqybvvv1fs" name="hangUp_box_2.png" path="/hangUp/img/" exported="true"/>
+    <image id="hqybvvv1ft" name="hangUp_box_3.png" path="/hangUp/img/" exported="true"/>
+    <image id="hqybvvv1fu" name="img_hangUp_dialog_yellow.png" path="/hangUp/img/" exported="true" scale="9grid" scale9grid="60,19,6,5"/>
+    <component id="hqybvvv1fv" name="HangUpGainBoxDialogBtn.xml" path="/hangUp/" exported="true"/>
+    <image id="hqybvvv1fw" name="img_hangUp_dialog_white.png" path="/hangUp/img/" exported="true" scale="9grid" scale9grid="66,15,2,30"/>
+    <image id="gs9kvvv1fx" name="sd_Rrukoutubiao_rk0002_icon.png" path="/btn/img/" exported="true"/>
+    <image id="gs9kvvv1fy" name="sd_Rrukoutubiao_rk0003_icon.png" path="/btn/img/" exported="true"/>
+    <image id="gs9kvvv1fz" name="sd_Rrukoutubiao_rk0005_icon.png" path="/btn/img/" exported="true"/>
+    <image id="gs9kvvv1g0" name="sd_Rrukoutubiao_rk0006_icon.png" path="/btn/img/" exported="true"/>
+    <image id="gs9kvvv1g1" name="sd_Rrukoutubiao_rk0007_icon.png" path="/btn/img/" exported="true"/>
+    <image id="gs9kvvv1g2" name="sd_Rrukoutubiao_rk0008_icon.png" path="/btn/img/" exported="true"/>
+    <component id="gs9kvvv1g4" name="BtnEntrance.xml" path="/btn/" exported="true"/>
+    <image id="gs9kvvv1g7" name="dq1_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="30,19,8,1"/>
+    <image id="q6dmvvv1fx" name="lbmb_frame.png" path="/bg/" exported="true" scale="9grid" scale9grid="20,43,20,14"/>
+    <component id="t93evvv1g8" name="BtnGouXuan.xml" path="/btn/" exported="true"/>
+    <image id="q6dmvvv1gd" name="word_tag.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="45,0,36,28"/>
+    <image id="loejvvv1ge" name="ad_icon.png" path="/iconImage/" exported="true"/>
+    <component id="loej1b" name="BtnAd.xml" path="/btn/" exported="true"/>
+    <image id="czc6vvv1gf" name="sd_Rrukoutubiao_rk0013_icon.png" path="/btn/img/" exported="true"/>
+    <component id="czc6vvv1gg" name="BtnFh2WithLb.xml" path="/btn/" exported="true"/>
+    <image id="uvvcvvv1gh" name="shuxingtiao_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="7,7,14,14"/>
+    <image id="k045vvv1gh" name="qipao4_frame.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="76,35,9,8"/>
+    <component id="lg0pvvv1gi" name="BtnChangGui1WithItemList1.xml" path="/btn/" exported="true"/>
+    <component id="lg0pvvv1gj" name="CommonItemSmallCostComp1.xml" path="/item/" exported="true"/>
+    <image id="k045vvv1gi" name="liebiao_yellow.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="0,61,686,5"/>
+    <image id="qhevvvv1gi" name="kong_tag.png" path="/bgImage/" exported="true"/>
+    <image id="qhevvvv1gj" name="qipao_bai.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="60,24,120,40"/>
+    <image id="xiznvvv1gw" name="xj1_icon.png" path="/iconImage/" exported="true" scale="tile"/>
+    <image id="xiznvvv1gx" name="xj2_icon.png" path="/iconImage/" exported="true" scale="tile"/>
+    <image id="xiznvvv1gy" name="xj3_icon.png" path="/iconImage/" exported="true" scale="tile"/>
+    <image id="xiznvvv1gz" name="xj4_icon.png" path="/iconImage/" exported="true" scale="tile"/>
+    <image id="xiznvvv1h0" name="xj5_icon.png" path="/iconImage/" exported="true" scale="tile"/>
+    <image id="xiznvvv1h1" name="xj6_icon.png" path="/iconImage/" exported="true" scale="tile"/>
+    <component id="rsg0vvv1gk" name="ItemFrameBtnWithBubble.xml" path="/item/" exported="true"/>
+    <image id="rsg0vvv1gl" name="sd_A_common_qipao-_huang.png" path="/img/" exported="true" scale="9grid" scale9grid="55,20,88,8"/>
+    <component id="mz6jvvv1h2" name="CornerMark.xml" path="/view/" exported="true"/>
+    <image id="mz6jvvv1h3" name="jiaobiao.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="36,41,4,2"/>
+    <image id="j2wsvvv1h5" name="dilan_frame.png" path="/bgImage/" exported="true"/>
+    <component id="lg0pvvv1h5" name="PetCellH.xml" path="/pet/" exported="true"/>
+    <component id="lg0pvvv1h6" name="PetCellV.xml" path="/pet/" exported="true"/>
+    <image id="dbz0vvv1h9" name="bantoudi.png" path="/formation/" exported="true" scale="9grid" scale9grid="74,11,148,22"/>
+    <image id="dbz0vvv1ha" name="daojukuang.png" path="/formation/" exported="true"/>
+    <image id="dbz0vvv1hd" name="bg_jiaobiao.png" path="/formation/" exported="true"/>
+    <image id="dbz0vvv1he" name="jia_btn.png" path="/formation/" exported="true"/>
+    <component id="dbz0vvv1hf" name="FormationSkillSetComp.xml" path="/formation/" exported="true"/>
+    <component id="dbz0vvv1hg" name="FormationSkillIcon.xml" path="/formation/" exported="true"/>
+    <component id="dbz0vvv1hl" name="FormationSkillInfo.xml" path="/formation/" exported="true"/>
+    <image id="str8vvv1hm" name="jt01_icon.png" path="/btnImage/" exported="true"/>
+    <image id="gtlwvvv1hn" name="tiaoguo.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="26,26,52,52"/>
+    <image id="s8ulvvv1ho" name="szhd_di2.png" path="/bg/" exported="true" scale="9grid" scale9grid="48,49,41,26"/>
+    <image id="gtlwvvv1hp" name="shouyi_0.png" path="/btn/img/" exported="true"/>
+    <image id="gtlwvvv1hq" name="sd_Rrukoutubiao_rk0016_icon.png" path="/btn/img/" exported="true"/>
+    <component id="gtlwvvv1hr" name="PlayerCom.xml" path="/view/" exported="true"/>
+    <image id="gtlwvvv1hs" name="zhandouli.png" path="/bgImage/" exported="true"/>
+    <image id="gtlwvvv1ht" name="dengji.png" path="/bgImage/" exported="true"/>
+    <component id="vdaevvv1hu" name="GoToBackButton_1.xml" path="/btn/" exported="true"/>
+    <component id="gtlwvvv1hz" name="MiniMapIconItem.xml" path="/miniMap/" exported="true"/>
+    <component id="gtlwvvv1i0" name="MiniMapAreaItem.xml" path="/miniMap/" exported="true"/>
+    <image id="gtlwvvv1i1" name="area_1.png" path="/miniMap/" exported="true" scale="9grid" scale9grid="20,20,40,40"/>
+    <image id="gtlwvvv1i2" name="area_2.png" path="/miniMap/" exported="true" scale="9grid" scale9grid="19,19,38,38"/>
+    <image id="gtlwvvv1i3" name="area_3.png" path="/miniMap/" exported="true" scale="9grid" scale9grid="19,19,38,38"/>
+    <component id="vipivvv1i4" name="BtnBuZhen2.xml" path="/btn/" exported="true"/>
+    <image id="vipivvv1i5" name="shangdian111kaobei2.png" path="/btn/img/" exported="true"/>
+    <component id="vdaevvv1hv" name="ItemIconWithChooseCheck.xml" path="/item/" exported="true"/>
+    <component id="vdaevvv1hw" name="ButtonBoxChooseCountView2.xml" path="/progressBar/" exported="true"/>
+    <image id="vdaevvv1hx" name="jian10_btn.png" path="/progressBarImage/" exported="true"/>
+    <image id="vdaevvv1hy" name="jia10_btn.png" path="/progressBarImage/" exported="true"/>
+    <image id="vdaevvv1hz" name="jian1_btn.png" path="/progressBarImage/" exported="true"/>
+    <image id="vdaevvv1i0" name="jia2_btn.png" path="/progressBarImage/" exported="true"/>
+    <image id="vdaevvv1i1" name="zuida_btn2.png" path="/progressBarImage/" exported="true"/>
+    <component id="vipivvv1i6" name="BtnRank.xml" path="/btn/" exported="true"/>
+    <component id="vdaevvv1i9" name="CommonPetSkillItem.xml" path="/hero/components/" exported="true"/>
+    <component id="teoxvvv1ib" name="BaseBtn0.8Scale.xml" path="/btn/" exported="true"/>
+    <image id="teoxvvv1ic" name="touxiang_frame.png" path="/bg/" exported="true" scale="9grid" scale9grid="49,44,8,88"/>
+    <image id="lupevvv1ia" name="close_tisp_btn.png" path="/btnImage/"/>
+    <component id="lupevvv1ib" name="CloseHintBtn.xml" path="/btn/" exported="true"/>
+    <image id="lupevvv1ic" name="pygb_btn.png" path="/btnImage/"/>
+    <component id="lupevvv1id" name="ProgressBar3.xml" path="/progressBar/components/" exported="true"/>
+    <component id="lupevvv1ie" name="CommonCollectionSkillItem.xml" path="/hero/components/" exported="true"/>
+    <image id="lupevvv1if" name="bossbt_framefh1_btnkaobei.png" path="/bgImage/"/>
+    <component id="woygvvv1id" name="HeroItemWithHp.xml" path="/item/" exported="true"/>
+    <component id="woygvvv1ie" name="HeroItemHpProgress.xml" path="/item/" exported="true"/>
+    <component id="woygvvv1if" name="HeroBaseItem.xml" path="/item/" exported="true"/>
+    <image id="woygvvv1ig" name="all_icon.png" path="/iconImage/" exported="true"/>
+    <image id="woygvvv1ij" name="stjl_frame2.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="30,19,4,1"/>
+    <image id="woygvvv1ik" name="stjl_frame3.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="30,19,4,1"/>
+    <image id="woygvvv1il" name="sjkj_bt.png" path="/bgImage/" exported="true"/>
+    <component id="ff5evvv1im" name="BuildingAreaNode.xml" path="/building/" exported="true"/>
+    <component id="pkn9192" name="ItemFrameStateBtn.xml" path="/item/"/>
+    <font id="ger4vvv1in" name="fontItem.fnt" path="/font/" exported="true"/>
+    <image id="ger4vvv1io" name="cj0_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1ip" name="cj1_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1iq" name="cj2_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1ir" name="cj3_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1is" name="cj4_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1it" name="cj5_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1iu" name="cj6_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1iv" name="cj7_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1iw" name="cj8_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1ix" name="cj9_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1iy" name="cjjia_word.png" path="/font/" exported="true"/>
+    <image id="ger4vvv1iz" name="cjjian_word.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j0" name="dj_0.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j1" name="dj_1.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j2" name="dj_2.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j3" name="dj_3.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j4" name="dj_4.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j5" name="dj_5.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j6" name="dj_6.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j7" name="dj_7.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j8" name="dj_8.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1j9" name="dj_9.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1ja" name="dj_dot.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jb" name="dj_K.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jc" name="dj_L.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jd" name="dj_M.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1je" name="dj_v.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jf" name="dj_wan.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jg" name="dj_yi.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jh" name="kp_0.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1ji" name="kp_1.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jj" name="kp_2.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jk" name="kp_3.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jl" name="kp_4.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jm" name="kp_5.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jn" name="kp_6.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jo" name="kp_7.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jp" name="kp_8.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jq" name="kp_9.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jr" name="kp_dia.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1js" name="zl_0.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jt" name="zl_1.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1ju" name="zl_2.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jv" name="zl_3.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jw" name="zl_4.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jx" name="zl_5.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jy" name="zl_6.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1jz" name="zl_7.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k0" name="zl_8.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k1" name="zl_9.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k2" name="zl_B.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k3" name="zl_K.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k4" name="zl_M.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k5" name="zl_yi.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k6" name="zl_dot.png" path="/font/" exported="true"/>
+    <image id="ev7wvvv1k7" name="zl__wan.png" path="/font/" exported="true"/>
+    <font id="ev7wvvv1k8" name="fontLevel.fnt" path="/font/" exported="true" favorite="true"/>
+    <font id="ev7wvvv1k9" name="fontKp.fnt" path="/font/" exported="true" favorite="true"/>
+    <font id="ev7wvvv1ka" name="fontPower.fnt" path="/font/" exported="true"/>
+    <component id="wu6bvvv1kb" name="FormationSkillSelectItem.xml" path="/formation/" exported="true"/>
+    <image id="teoxvvv1kc" name="jiantou5_btn.png" path="/btnImage/" exported="true"/>
+    <image id="wu6bvvv1kd" name="btn_closeRed.png" path="/btnImage/"/>
+    <image id="tafmvvv1ke" name="djs_tag.png" path="/bgImage/" exported="true"/>
+    <image id="if5wvvv1kf" name="dj_jia.png" path="/font/" exported="true"/>
+    <image id="if5wvvv1kg" name="dj_jian.png" path="/font/" exported="true"/>
+    <image id="if5wvvv1kh" name="dj_B.png" path="/font/" exported="true"/>
+    <image id="if5wvvv1ki" name="dj_dia.png" path="/font/" exported="true"/>
+    <image id="loj0vvv1kj" name="xingdi_icon.png" path="/btnImage/" exported="true"/>
+    <image id="loj0vvv1kk" name="sd_Rrukoutubiao_rk0014_icon.png" path="/btn/img/" exported="true"/>
+    <component id="vet6vvv1kl" name="PlayerInfoInfoHeroWeaponItem.xml" path="/btn/" exported="true"/>
+    <image id="k649vvv1km" name="grsz3_btn.png" path="/btnImage/" exported="true" scale="9grid" scale9grid="67,17,11,34"/>
+    <image id="ta4fvvv1kn" name="py_0.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1ko" name="py_1.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1kp" name="py_2.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1kq" name="py_3.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1kr" name="py_4.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1ks" name="py_5.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1kt" name="py_6.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1ku" name="py_7.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1kv" name="py_8.png" path="/font/" exported="true"/>
+    <image id="ta4fvvv1kw" name="py_9.png" path="/font/" exported="true"/>
+    <font id="ta4fvvv1kx" name="fontPy.fnt" path="/font/" exported="true"/>
+    <image id="ta4fvvv1ky" name="lb_unlock.png" path="/hero/img/"/>
+    <image id="ko81vvv1kz" name="ywc_tag.png" path="/frameImage/" exported="true"/>
+    <image id="dx6evvv1kz" name="xlpy_xz.png" path="/img/"/>
+    <component id="dx6evvv1l0" name="scrollTextV.xml" path="/scrollText/" exported="true"/>
+    <component id="gvuzvvv1kz" name="ItemFrameBtnWithExtra.xml" path="/item/" exported="true"/>
+    <component id="gvuzvvv1l0" name="BtnDrawClose.xml" path="/btn/" exported="true"/>
+    <component id="gvuzvvv1l1" name="BtnAdLb.xml" path="/btn/" exported="true"/>
+    <image id="gvuzvvv1l2" name="qipao_bai2.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="74,26,4,14"/>
+    <image id="dx6evvv1l3" name="xlpy_zz.png" path="/bgImage/" exported="true" scale="9grid" scale9grid="48,50,33,25"/>
+    <image id="gvuzvvv1l6" name="line_green.png" path="/btn/img/" scale="9grid" scale9grid="4,4,2,2"/>
+    <component id="gvuzvvv1l7" name="ItemFrameBtnWithLimit.xml" path="/item/" exported="true"/>
+    <image id="gvuzvvv1l8" name="kfxd.png" path="/bgImage/" exported="true"/>
+    <component id="tjmgvvv1l9" name="LabelBtn.xml" path="/btn/" exported="true"/>
+    <image id="8adrvvv1la" name="sq_tag.png" path="/frameImage/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,146 @@
+
+attack_upper.png
+size: 371,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_fadong_0
+  rotate: false
+  xy: 55, 2
+  size: 42, 35
+  orig: 110, 110
+  offset: 21, 44
+  index: -1
+effect/attack_fadong_1
+  rotate: false
+  xy: 2, 16
+  size: 51, 41
+  orig: 110, 110
+  offset: 19, 38
+  index: -1
+effect/attack_fadong_10
+  rotate: true
+  xy: 2, 141
+  size: 72, 73
+  orig: 110, 110
+  offset: 20, 15
+  index: -1
+effect/attack_fadong_11
+  rotate: false
+  xy: 204, 217
+  size: 76, 78
+  orig: 110, 110
+  offset: 15, 16
+  index: -1
+effect/attack_fadong_12
+  rotate: false
+  xy: 2, 215
+  size: 102, 80
+  orig: 110, 110
+  offset: 5, 17
+  index: -1
+effect/attack_fadong_13
+  rotate: false
+  xy: 106, 219
+  size: 96, 76
+  orig: 110, 110
+  offset: 6, 19
+  index: -1
+effect/attack_fadong_14
+  rotate: false
+  xy: 282, 229
+  size: 87, 66
+  orig: 110, 110
+  offset: 9, 28
+  index: -1
+effect/attack_fadong_15
+  rotate: false
+  xy: 162, 82
+  size: 81, 62
+  orig: 110, 110
+  offset: 13, 28
+  index: -1
+effect/attack_fadong_16
+  rotate: false
+  xy: 140, 42
+  size: 79, 38
+  orig: 110, 110
+  offset: 12, 36
+  index: -1
+effect/attack_fadong_17
+  rotate: true
+  xy: 324, 23
+  size: 68, 40
+  orig: 110, 110
+  offset: 14, 34
+  index: -1
+effect/attack_fadong_18
+  rotate: false
+  xy: 140, 2
+  size: 42, 38
+  orig: 110, 110
+  offset: 26, 33
+  index: -1
+effect/attack_fadong_19
+  rotate: false
+  xy: 184, 4
+  size: 41, 36
+  orig: 110, 110
+  offset: 26, 33
+  index: -1
+effect/attack_fadong_2
+  rotate: false
+  xy: 65, 39
+  size: 73, 46
+  orig: 110, 110
+  offset: 17, 32
+  index: -1
+effect/attack_fadong_3
+  rotate: false
+  xy: 245, 41
+  size: 77, 50
+  orig: 110, 110
+  offset: 15, 37
+  index: -1
+effect/attack_fadong_4
+  rotate: true
+  xy: 2, 59
+  size: 80, 61
+  orig: 110, 110
+  offset: 14, 29
+  index: -1
+effect/attack_fadong_5
+  rotate: false
+  xy: 77, 87
+  size: 83, 63
+  orig: 110, 110
+  offset: 13, 28
+  index: -1
+effect/attack_fadong_6
+  rotate: false
+  xy: 282, 159
+  size: 84, 68
+  orig: 110, 110
+  offset: 12, 23
+  index: -1
+effect/attack_fadong_7
+  rotate: false
+  xy: 106, 152
+  size: 85, 65
+  orig: 110, 110
+  offset: 12, 23
+  index: -1
+effect/attack_fadong_8
+  rotate: false
+  xy: 274, 93
+  size: 82, 64
+  orig: 110, 110
+  offset: 14, 23
+  index: -1
+effect/attack_fadong_9
+  rotate: false
+  xy: 193, 146
+  size: 79, 69
+  orig: 110, 110
+  offset: 16, 18
+  index: -1

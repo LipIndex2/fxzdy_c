@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n1_n19g" name="n1" src="8a38125" fileName="bgImage/black1_msg_3.png" xy="28,-32" pivot="0.5,0.5" anchor="true" size="142,28" pkg="38fa8c75"/>
+    <text id="n0_n19g" name="nameLab" xy="25,-32" pivot="0.5,0.5" anchor="true" size="157,34" fontSize="20" color="#ffff00" align="center" vAlign="middle" autoSize="none" text="123123"/>
+  </displayList>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,48">
+  <controller name="style" exported="true" pages="0,,3," selected="1">
+    <remark page="0" value="道具不足"/>
+    <remark page="1" value="道具充足"/>
+  </controller>
+  <displayList>
+    <loader id="n9_lg0p" name="imageItem" xy="0,0" pivot="0.5,0.5" size="48,48" group="n11_lg0p" scale="0.9,0.9" url="ui://38fa8c75j6z934" fill="scale" clearOnPublish="true">
+      <relation target="n10_lg0p" sidePair="right-left"/>
+    </loader>
+    <text id="n10_lg0p" name="labelCount" xy="48,2" size="91,42" group="n11_lg0p" fontSize="30" color="#35fe64" vAlign="middle" leading="0" strokeColor="#116a41" strokeSize="3" singleLine="true" autoClearText="true" text="30/10">
+      <gearColor controller="style" pages="0,3" values="#ff5050,#6d1602|#35fe64,#116a41"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n11_lg0p" name="n11" xy="0,0" size="139,48" advanced="true" layout="hz">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+</component>

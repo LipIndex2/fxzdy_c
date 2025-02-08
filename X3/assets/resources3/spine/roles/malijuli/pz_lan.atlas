@@ -1,0 +1,13 @@
+
+pz_lan.png
+size: 32,30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/J zd11
+  rotate: false
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n60_cjsd" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="30,57" size="689,1206" group="n59_cjsd"/>
+    <image id="n2_03e4" name="n2" src="03e467" fileName="img/diban.png" xy="30,57" group="n59_cjsd"/>
+    <image id="n3_03e4" name="n3" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="102,944" size="546,123" group="n59_cjsd" alpha="0.45"/>
+    <component id="n61_lupe" name="n61" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1258" group="n59_cjsd"/>
+    <text id="n16_03e4" name="lbTitle" xy="248,69" pivot="0.5,0.5" size="253,56" group="n59_cjsd" fontSize="42" color="#31b4ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="自动瞄准芯片"/>
+    <image id="n39_03e4" name="n39" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="363,715" size="24,24" group="n59_cjsd"/>
+    <image id="n43_03e4" name="n43" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="101,930" size="547,3" group="n59_cjsd" color="#3f6cca"/>
+    <image id="n44_03e4" name="n44" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="101,757" size="547,3" group="n59_cjsd" color="#3f6cca"/>
+    <text id="n46_03e4" name="lbConsumeCnt" xy="248,1073" size="248,32" group="n59_cjsd" fontSize="22" color="#aabff1" vAlign="middle" text="升星需要消耗同名武器×2"/>
+    <list id="n50_cjsd" name="listStar" xy="268,140" size="180,30" group="n59_cjsd" scale="1.2,1.2" layout="row" selectionMode="none" overflow="scroll" scroll="horizontal" colGap="2" defaultItem="ui://38fa8c75a0033" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n51_cjsd" name="iconLoader" xy="377,396" pivot="0.5,0.5" anchor="true" size="360,360" group="n59_cjsd" align="center" vAlign="middle" fill="scale"/>
+    <component id="n52_cjsd" name="btnUp" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="221,1110" group="n59_cjsd"/>
+    <list id="n53_cjsd" name="listAdd" xy="102,953" size="546,104" group="n59_cjsd" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://cbfa4e0ccjsd99" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n54_cjsd" name="listAttr" xy="117,768" size="508,160" group="n59_cjsd" overflow="scroll" lineGap="10" defaultItem="ui://cbfa4e0ccjsd9b">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n55_cjsd" name="listStarOld" xy="124,707" size="180,30" group="n59_cjsd" scale="1.2,1.2" layout="row" selectionMode="none" scroll="horizontal" colGap="2" defaultItem="ui://38fa8c75a0033" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n56_cjsd" name="listStarNew" xy="408,707" size="180,30" group="n59_cjsd" scale="1.2,1.2" layout="row" selectionMode="none" scroll="horizontal" colGap="2" defaultItem="ui://38fa8c75a0033" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n57_cjsd" name="btnPrev" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="22,357" group="n59_cjsd"/>
+    <component id="n58_cjsd" name="btnNext" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="680,358" group="n59_cjsd" scale="-1,1"/>
+    <group id="n59_cjsd" name="n59" xy="22,57" size="701,1291" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

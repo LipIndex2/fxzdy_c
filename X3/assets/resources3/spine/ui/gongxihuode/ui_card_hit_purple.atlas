@@ -1,0 +1,146 @@
+
+ui_card_hit_purple.png
+size: 997,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_purple_00
+  rotate: false
+  xy: 943, 195
+  size: 30, 30
+  orig: 256, 256
+  offset: 113, 113
+  index: -1
+hit_purple_01
+  rotate: true
+  xy: 943, 227
+  size: 49, 48
+  orig: 256, 256
+  offset: 104, 104
+  index: -1
+hit_purple_02
+  rotate: false
+  xy: 907, 278
+  size: 81, 81
+  orig: 256, 256
+  offset: 88, 87
+  index: -1
+hit_purple_03
+  rotate: false
+  xy: 191, 62
+  size: 109, 110
+  orig: 256, 256
+  offset: 74, 72
+  index: -1
+hit_purple_04
+  rotate: false
+  xy: 467, 45
+  size: 128, 131
+  orig: 256, 256
+  offset: 65, 60
+  index: -1
+hit_purple_05
+  rotate: false
+  xy: 613, 33
+  size: 143, 147
+  orig: 256, 256
+  offset: 58, 51
+  index: -1
+hit_purple_06
+  rotate: true
+  xy: 310, 43
+  size: 131, 155
+  orig: 256, 256
+  offset: 77, 44
+  index: -1
+hit_purple_07
+  rotate: true
+  xy: 762, 49
+  size: 137, 165
+  orig: 256, 256
+  offset: 75, 39
+  index: -1
+hit_purple_08
+  rotate: false
+  xy: 762, 188
+  size: 143, 171
+  orig: 256, 256
+  offset: 73, 36
+  index: -1
+hit_purple_09
+  rotate: false
+  xy: 613, 182
+  size: 147, 177
+  orig: 256, 256
+  offset: 72, 33
+  index: -1
+hit_purple_10
+  rotate: false
+  xy: 462, 178
+  size: 149, 181
+  orig: 256, 256
+  offset: 72, 31
+  index: -1
+hit_purple_11
+  rotate: false
+  xy: 310, 176
+  size: 150, 183
+  orig: 256, 256
+  offset: 72, 30
+  index: -1
+hit_purple_12
+  rotate: false
+  xy: 156, 174
+  size: 152, 185
+  orig: 256, 256
+  offset: 72, 29
+  index: -1
+hit_purple_13
+  rotate: false
+  xy: 2, 173
+  size: 152, 186
+  orig: 256, 256
+  offset: 72, 29
+  index: -1
+hit_purple_14
+  rotate: true
+  xy: 2, 2
+  size: 83, 186
+  orig: 256, 256
+  offset: 74, 30
+  index: -1
+hit_purple_15
+  rotate: true
+  xy: 2, 87
+  size: 84, 187
+  orig: 256, 256
+  offset: 73, 29
+  index: -1
+hit_purple_16
+  rotate: false
+  xy: 907, 197
+  size: 34, 79
+  orig: 256, 256
+  offset: 74, 29
+  index: -1
+hit_purple_17
+  rotate: false
+  xy: 975, 205
+  size: 20, 20
+  orig: 256, 256
+  offset: 76, 30
+  index: -1
+hit_purple_18
+  rotate: false
+  xy: 975, 184
+  size: 20, 19
+  orig: 256, 256
+  offset: 77, 30
+  index: -1
+hit_purple_19
+  rotate: false
+  xy: 929, 174
+  size: 19, 19
+  orig: 256, 256
+  offset: 78, 30
+  index: -1

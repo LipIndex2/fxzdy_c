@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="199,22" extention="ProgressBar">
+  <displayList>
+    <image id="n0_eowx" name="bg" src="972a4s" fileName="progressBarImage/tianjiadi_blood.png" xy="0,0" size="199,22">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_eowx" name="bar" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" xy="4,4" size="190,14">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_kp1o" name="fakeScoreBar" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" xy="4,4" size="175,14" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

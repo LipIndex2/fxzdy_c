@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="85,23" extention="ProgressBar">
+  <displayList>
+    <image id="n0_hcpc" name="n0" src="v891vvv1ee" fileName="bgImage/czzl_blood.png" pkg="38fa8c75" xy="0,0" size="93,23" color="#22201f">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_hcpc" name="bar" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="2,2" size="93,19"/>
+  </displayList>
+  <ProgressBar/>
+</component>

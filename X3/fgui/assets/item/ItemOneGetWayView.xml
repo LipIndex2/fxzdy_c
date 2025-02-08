@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="479,107">
+  <controller name="lockState" pages="0,lock,1,unlock" selected="1"/>
+  <displayList>
+    <loader id="n6_cb8c" name="bgLock" xy="0,1" size="479,107" url="ui://4cf771cccb8c3"/>
+    <loader id="n10_cb8c" name="bgUnlock" xy="0,0" size="478,107" url="ui://4cf771cccb8c4"/>
+    <text id="n7_cb8c" name="title" xy="18,18" size="71,36" fontSize="26" color="#345165" text="途径1"/>
+    <text id="n8_cb8c" name="desc" xy="17,57" size="135,32" fontSize="22" color="#477d9d" text="来源途径描述"/>
+    <text id="n9_cb8c" name="lockTips" xy="338,22" size="111,66" fontSize="22" color="#345165" align="center" vAlign="middle" autoSize="none" text="解锁条件:未配置">
+      <gearDisplay controller="lockState" pages="0"/>
+    </text>
+    <component id="n15_vdkj" name="btnJump" src="vdkjc" fileName="btnItemComeFromJump.xml" xy="324,28">
+      <gearDisplay controller="lockState" pages="1"/>
+    </component>
+  </displayList>
+</component>

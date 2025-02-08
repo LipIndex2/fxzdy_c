@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n30_105pv" name="n30" xy="0,0" size="750,1334" url="ui://89bef6e1a3e91" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n31_nuub" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,956" group="n29_105pv"/>
+    <loader id="n28_105pv" name="img_Icon" xy="374,955" pivot="0.5,0.5" anchor="true" size="239,469" group="n29_105pv" visible="false" url="ui://7q3fcj1ka3e93" autoSize="true" clearOnPublish="true"/>
+    <image id="n4_a3e9" name="n4" src="a3e94" fileName="img/sd_A_common_zhishi_tag.png" xy="378,1049" group="n29_105pv" visible="false"/>
+    <text id="n5_a3e9" name="T_text" xy="231,644" pivot="0.5,0.5" size="287,36" group="n29_105pv" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="滑动手指，操作英雄移动"/>
+    <group id="n29_105pv" name="n29" xy="231,644" size="287,545" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

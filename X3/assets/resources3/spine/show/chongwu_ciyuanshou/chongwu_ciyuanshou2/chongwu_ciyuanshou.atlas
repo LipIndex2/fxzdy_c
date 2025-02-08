@@ -1,0 +1,251 @@
+
+chongwu_ciyuanshou.png
+size: 800,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinxia
+  rotate: false
+  xy: 219, 110
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+js00
+  rotate: false
+  xy: 757, 196
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 2, 218
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 47, 371
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+js011
+  rotate: 270
+  xy: 279, 28
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 508, 45
+  size: 119, 108
+  orig: 119, 108
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 170, 4
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 681, 368
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 2, 367
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+js016
+  rotate: true
+  xy: 749, 282
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 406, 56
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 362, 4
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 744, 353
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+js020
+  rotate: true
+  xy: 201, 46
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+js021
+  rotate: true
+  xy: 127, 46
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 2, 280
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+js023
+  rotate: false
+  xy: 2, 66
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+js024
+  rotate: false
+  xy: 339, 66
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+js025
+  rotate: 180
+  xy: 626, 47
+  size: 171, 122
+  orig: 171, 122
+  offset: 0, 0
+  index: -1
+js026
+  rotate: false
+  xy: 227, 22
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+js027
+  rotate: 180
+  xy: 2, 4
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+js028
+  rotate: true
+  xy: 416, 4
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+js029
+  rotate: false
+  xy: 532, 21
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+js030
+  rotate: false
+  xy: 72, 69
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+js031
+  rotate: true
+  xy: 597, 9
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+js032
+  rotate: true
+  xy: 746, 11
+  size: 50, 52
+  orig: 50, 53
+  offset: 0, 1
+  index: -1
+js033
+  rotate: false
+  xy: 480, 11
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+js034
+  rotate: false
+  xy: 269, 60
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+js035
+  rotate: false
+  xy: 2, 297
+  size: 772, 84
+  orig: 772, 84
+  offset: 0, 0
+  index: -1
+js036
+  rotate: false
+  xy: 2, 144
+  size: 764, 80
+  orig: 764, 80
+  offset: 0, 0
+  index: -1
+js037
+  rotate: 180
+  xy: 4, 222
+  size: 794, 81
+  orig: 794, 81
+  offset: 0, 0
+  index: -1
+js07
+  rotate: 180
+  xy: 52, 11
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 134, 102
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 25, 367
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 665, 4
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1

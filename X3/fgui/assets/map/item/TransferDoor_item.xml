@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,10">
+  <displayList>
+    <graph id="n15_mc6y" name="n15" xy="0,-185" size="100,195" alpha="0.4" type="eclipse" fillColor="#ff0099ff"/>
+    <loader id="n11_mc6y" name="img_rk" xy="39,-266" size="73,76" url="ui://38fa8c756b2933"/>
+  </displayList>
+</component>

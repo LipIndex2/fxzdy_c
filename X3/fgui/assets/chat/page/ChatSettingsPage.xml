@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="551,1063" designImage="ui://7q3fcj1khcpcs7t" designImageOffsetX="-175" designImageOffsetY="-287" designImageAlpha="30">
+  <displayList>
+    <text id="n45_91d6" name="labelTitle" xy="20,22" size="115,39" fontSize="28" color="#71c1ff" vAlign="middle" strokeColor="#193170" strokeSize="2" text="聊天设置"/>
+    <text id="n46_91d6" name="labelTips" xy="15,147" size="440,32" group="n56_buys" fontSize="22" color="#6497dc" vAlign="middle" text="设置后对应频道不再弹出频道消和喝红点提醒"/>
+    <image id="n73_hcpc" name="bgChangeTitle" src="l2wi40" fileName="img/fubiao.png" xy="11,100" size="521,33" group="n56_buys"/>
+    <text id="n74_hcpc" name="labelEditTitle" xy="19,98" size="170,34" group="n56_buys" fontSize="24" color="#c1daff" vAlign="middle" strokeColor="#445fa6" strokeSize="2" text="频道消息免打扰"/>
+    <list id="n55_buys" name="btnList" xy="14,195" size="514,102" group="n56_buys" layout="flow_hz" selectionMode="multipleSingleClick" lineGap="10" lineItemCount="3" defaultItem="ui://6bce3772buys38" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n56_buys" name="n56" xy="11,98" size="521,199"/>
+    <image id="n58_nl4g" name="imageTabTag" src="91d618" fileName="img/bt_tag_2.png" xy="-5,21"/>
+    <image id="n66_l2wi" name="bgChangeTitle2" src="l2wi40" fileName="img/fubiao.png" xy="11,305" size="520,33" group="n68_l2wi"/>
+    <text id="n67_l2wi" name="labelEditTitle2" xy="19,303" size="218,34" group="n68_l2wi" fontSize="24" color="#c1daff" vAlign="middle" strokeColor="#445fa6" strokeSize="2" text="聊天气泡及文字配色"/>
+    <image id="n59_l2wi" name="bgEditSkin" src="l2wi3x" fileName="img/andi.png" xy="12,355" size="514,210" group="n68_l2wi"/>
+    <image id="n75_lb79" name="imageChatBg" src="lb790" fileName="skin/qipao1.png" pkg="gq5ugm3u" xy="132,388" size="390,120" group="n68_l2wi"/>
+    <text id="n61_l2wi" name="labelFakeChatMsg" xy="183,431" size="287,32" group="n68_l2wi" fontSize="22" color="#284eb8" vAlign="middle" text="探险家，欢迎来到星际世界。"/>
+    <text id="n63_l2wi" name="labelPlayerName" xy="161,373" size="113,32" group="n68_l2wi" fontSize="22" color="#adc8f8" vAlign="middle" text="无敌美少女"/>
+    <component id="n69_l2wi" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="40,373" group="n68_l2wi"/>
+    <component id="n71_l2wi" name="btnEdit" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="206,501" group="n68_l2wi" scale="0.7,0.7">
+      <Button title="编辑"/>
+    </component>
+    <group id="n68_l2wi" name="G_editSkin" xy="11,303" size="520,262" advanced="true">
+      <relation target="n55_buys" sidePair="top-bottom"/>
+    </group>
+  </displayList>
+</component>

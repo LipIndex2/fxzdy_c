@@ -1,0 +1,247 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "3228a": {
+      "importer": "sprite-frame",
+      "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530@3228a",
+      "displayName": "",
+      "id": "3228a",
+      "name": "attack_bullet_upper-attack_0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 106,
+        "height": 28,
+        "rawWidth": 110,
+        "rawHeight": 28,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09f5ea0-5b25-40d2-a361-6da81c52eced@6c48a",
+        "atlasUuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e231e": {
+      "importer": "sprite-frame",
+      "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530@e231e",
+      "displayName": "",
+      "id": "e231e",
+      "name": "attack_bullet_upper-attack_1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 31,
+        "width": 106,
+        "height": 28,
+        "rawWidth": 110,
+        "rawHeight": 28,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09f5ea0-5b25-40d2-a361-6da81c52eced@6c48a",
+        "atlasUuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b4de": {
+      "importer": "sprite-frame",
+      "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530@3b4de",
+      "displayName": "",
+      "id": "3b4de",
+      "name": "attack_bullet_upper-attack_2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 61,
+        "width": 106,
+        "height": 28,
+        "rawWidth": 110,
+        "rawHeight": 28,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09f5ea0-5b25-40d2-a361-6da81c52eced@6c48a",
+        "atlasUuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69d47": {
+      "importer": "sprite-frame",
+      "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530@69d47",
+      "displayName": "",
+      "id": "69d47",
+      "name": "attack_bullet_upper-attack_3",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 91,
+        "width": 106,
+        "height": 28,
+        "rawWidth": 110,
+        "rawHeight": 28,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09f5ea0-5b25-40d2-a361-6da81c52eced@6c48a",
+        "atlasUuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a36df": {
+      "importer": "sprite-frame",
+      "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530@a36df",
+      "displayName": "",
+      "id": "a36df",
+      "name": "attack_bullet_upper-attack_4",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 121,
+        "width": 106,
+        "height": 28,
+        "rawWidth": 110,
+        "rawHeight": 28,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c09f5ea0-5b25-40d2-a361-6da81c52eced@6c48a",
+        "atlasUuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "attack_bullet_upper.png",
+    "format": 3,
+    "uuid": "0e80ee58-e017-4a92-be69-a1e02d9fd530",
+    "textureUuid": "c09f5ea0-5b25-40d2-a361-6da81c52eced@6c48a"
+  }
+}

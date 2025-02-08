@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="128,61" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down,4,disabled,5,selectedDisabled" selected="0"/>
+  <displayList>
+    <image id="n3_be1a" name="n3" src="be1a41" fileName="img/sd_A_common_lmkj_btn.png" xy="0,0" group="n7_h90v"/>
+    <group id="n7_h90v" name="n7" xy="0,0" size="128,61" advanced="true">
+      <gearDisplay controller="button" pages="3,4,5"/>
+    </group>
+    <image id="n5_be1a" name="n5" src="be1a42" fileName="img/sd_A_common_lmkj1_btn.png" xy="0,0" group="n8_h90v"/>
+    <group id="n8_h90v" name="n8" xy="0,0" size="128,61" advanced="true">
+      <gearDisplay controller="button" pages="2"/>
+    </group>
+    <text id="n4_be1a" name="title" xy="33,20" size="61,40" fontSize="29" color="#66667d" text="图标">
+      <gearColor controller="button" pages="2,3,4,5" values="#66667d,#000000|#ffffff,#000000|#ffffff,#000000|#ffffff,#000000"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

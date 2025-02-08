@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klr6v68">
+  <displayList>
+    <image id="n206_ffqt" name="adapt_bg" src="lr6v11q" fileName="bg/bgDailyBoss.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n204_ffqt" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n219_gvuz" name="btnPlayAd" src="gvuzvvv1l1" fileName="btn/BtnAdLb.xml" pkg="38fa8c75" xy="375,1190" pivot="0.5,0.5" anchor="true" size="210,40" group="n203_ffqt" controller="state,0">
+      <Button title="观影招募10/10"/>
+    </component>
+    <component id="n188_ffqt" name="btnChallenge" src="ffqt10j" fileName="btn/DailyBossChallengeBtn.xml" xy="261,1218" group="n203_ffqt"/>
+    <component id="n192_ffqt" name="btnSetUp" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="555,1242" group="n203_ffqt"/>
+    <group id="n203_ffqt" name="footerP" xy="261,1170" size="442,149" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n207_caj9" name="bossModelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,707" pivot="0.5,1" anchor="true" size="468,400" group="n205_ffqt"/>
+    <list id="n208_caj9" name="skillList" xy="30,726" size="689,125" group="n205_ffqt" layout="row" colGap="40" defaultItem="ui://410b0b71caj9114" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n73_ae97" name="myRankComp" src="ffqt10e" fileName="components/DailyBossMyRankComp.xml" xy="185,851" group="n205_ffqt"/>
+    <component id="n197_ffqt" name="damageComp" src="ffqt10f" fileName="components/DailyBossDamageComp.xml" xy="187,895" group="n205_ffqt"/>
+    <image id="n82_ae97" name="bgReward" src="ae9740" fileName="img/bossjl_frame.png" xy="28,942" group="n205_ffqt"/>
+    <list id="n202_ffqt" name="rewardList" xy="50,984" size="650,165" group="n205_ffqt" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="16" colGap="-50" defaultItem="ui://410b0b71ffqt10i" renderOrder="descent" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n205_ffqt" name="bodyP" xy="28,307" size="696,864" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <list id="n198_ffqt" name="tabList" xy="647,64" size="101,378" group="n194_ffqt" lineGap="13" defaultItem="ui://38fa8c75ffqtvvv1ci" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n210_ikw9" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="225,72" group="n209_w6zo"/>
+    <text id="n172_ffqt" name="labelHeaderTitle" xy="20,56" size="194,64" group="n209_w6zo" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="蟑螂之主"/>
+    <text id="n173_ffqt" name="labelResetTime" xy="106,131" size="167,32" group="n209_w6zo" fontSize="22" color="#3cfe33" vAlign="middle" text="03:20:60后结算"/>
+    <component id="n176_ffqt" name="difficultyComp" src="ffqt109" fileName="components/DailyBossDifficultyComp.xml" xy="20,127" group="n209_w6zo"/>
+    <image id="n211_p04m" name="n211" src="gkgvvvv19u" fileName="bg/jjc_frame.png" pkg="38fa8c75" xy="17,185" size="297,155" group="n215_p04m"/>
+    <text id="n212_p04m" name="n212" xy="28,195" size="123,42" group="n215_p04m" fontSize="30" color="#ffe65c" vAlign="middle" leading="0" strokeColor="#010f1f" strokeSize="2" text="推荐阵容"/>
+    <image id="n213_p04m" name="n213" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="32,239" size="266,3" group="n215_p04m" color="#3b54ae"/>
+    <component id="n216_p04m" name="recommendBtn" src="p04m124" fileName="btn/DailyBossFdjBtn.xml" xy="135,178" group="n215_p04m" scale="0.5,0.5"/>
+    <list id="n217_p04m" name="list_hero" xy="30,252" size="354,96" group="n215_p04m" scale="0.76,0.76" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://410b0b71p04m11v" autoClearItems="true">
+      <relation target="" sidePair="top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n215_p04m" name="n215" xy="17,178" size="367,170" group="n209_w6zo"/>
+    <group id="n209_w6zo" name="n209" xy="17,56" size="367,292" group="n194_ffqt" advanced="true"/>
+    <group id="n194_ffqt" name="headerP" xy="17,56" size="731,386" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n198_ffqt" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n203_ffqt" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n205_ffqt" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n209_w6zo" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n198_ffqt" tween="true" startValue="747,64" endValue="647,64" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n203_ffqt" tween="true" startValue="261,1270" endValue="261,1170" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n205_ffqt" tween="true" startValue="28,407" endValue="28,307" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n209_w6zo" tween="true" startValue="-90,56" endValue="10,56" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="520,44">
+  <displayList>
+    <image id="n151_uvvc" name="n151" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="0,0" size="692,58" scale="0.75,0.75" color="#3d5695"/>
+    <image id="n61_4283" name="n61" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="316,12" size="12,19"/>
+    <text id="n62_4283" name="name" xy="96,7" pivot="0.5,0.5" size="62,36" fontSize="26" color="#ffe792" vAlign="middle" text="品阶 "/>
+    <text id="n63_4283" name="nextNum" xy="395,9" pivot="0.5,0.5" size="35,36" fontSize="26" color="#2ce728" vAlign="middle" text="70"/>
+    <text id="n64_4283" name="curNum" xy="217,9" pivot="0.5,0.5" size="66,36" fontSize="26" color="#d5d7d7" vAlign="middle" text="2562"/>
+  </displayList>
+</component>

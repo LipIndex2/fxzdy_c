@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="219,172">
+  <displayList>
+    <loader id="n77_kkiq" name="img_quality" xy="7,15" pivot="0,1" size="205,123" group="n71_kkiq" autoSize="true"/>
+    <loader id="n76_kkiq" name="img_hero" xy="10,133" pivot="0,1" anchor="true" size="199,148" group="n71_kkiq" autoSize="true" clearOnPublish="true"/>
+    <loader id="n75_kkiq" name="img_camp" xy="-2,3" pivot="0.5,0.5" size="46,51" group="n71_kkiq" scale="0.65,0.65" url="ui://38fa8c75cni670" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n13_3cc5" name="n13" src="dtss5p" fileName="frameImage/black2_msg.png" pkg="38fa8c75" xy="8,110" size="203,23" group="n78_kkiq"/>
+    <image id="n93_xizn" name="stars" src="xiznvvv1gw" fileName="iconImage/xj1_icon.png" pkg="38fa8c75" xy="15,122" pivot="0,0.5" anchor="true" size="223,39" group="n78_kkiq" scale="0.6,0.6"/>
+    <group id="n78_kkiq" name="G_star" xy="8,102" size="230,39" group="n71_kkiq" advanced="true"/>
+    <image id="n82_105pv" name="n82" src="105pv7y" fileName="img/jiaobiao.png" xy="148,103" group="n71_kkiq"/>
+    <text id="n16_3cc5" name="T_level" xy="155,102" pivot="0.5,0.5" size="57,34" group="n71_kkiq" font="ui://38fa8c75ev7wvvv1k9" fontSize="24" align="center" vAlign="middle" leading="0" autoSize="shrink" autoClearText="true" text="80/80"/>
+    <component id="n83_bezo" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="197,20" group="n71_kkiq" controller="type,4"/>
+    <component id="n84_bezo" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="167,20" group="n71_kkiq" controller="type,4"/>
+    <image id="n72_kkiq" name="n72" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="15,56" size="187,36" group="n74_kkiq"/>
+    <text id="n73_kkiq" name="n73" xy="63,55" size="87,39" group="n74_kkiq" fontSize="28" color="#fff179" align="center" vAlign="middle" strokeColor="#010c0d" strokeSize="2" text="可合成"/>
+    <group id="n74_kkiq" name="G_activate" xy="15,55" size="187,39" group="n71_kkiq" visible="false" advanced="true"/>
+    <text id="n11_3cc5" name="T_name" xy="80,136" size="55,36" group="n71_kkiq" fontSize="26" color="#fde963" align="center" vAlign="middle" strokeColor="#130000" strokeSize="2" autoClearText="true" text="杨戬">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n71_kkiq" name="mc" xy="-2,-15" size="240,187" advanced="true"/>
+    <component id="n94_xwdv" name="dnaShow" src="xwdvvcq" fileName="item/HeroDnaLittleComp.xml" xy="195,69" skew="270,270"/>
+  </displayList>
+</component>

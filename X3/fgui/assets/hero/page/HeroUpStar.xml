@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="547,485" designImageOffsetX="-87" designImageOffsetY="-723">
+  <controller name="c1" pages="0,升星,1,满星" selected="1"/>
+  <displayList>
+    <image id="n98_105pv" name="n98" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="0,48" size="547,3" color="#3f6cca"/>
+    <image id="n100_105pv" name="n100" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="0,230" size="547,3" color="#3f6cca"/>
+    <component id="n43_b419" name="HeroStarItem" src="dtss5d" fileName="item/HeroStarItem.xml" xy="-16,0">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </component>
+    <component id="n30_b419" name="HeroBar" src="dtss5e" fileName="item/HeroFragmentBarItem.xml" xy="8,242"/>
+    <list id="n94_dtss" name="list_attr" xy="10,57" size="527,151" overflow="scroll" lineGap="8" defaultItem="ui://69f29748dtss5a">
+      <item icon="ui://38fa8c75dtss5g" name="攻击"/>
+      <item icon="ui://38fa8c75dtss5i" name="血量"/>
+      <item icon="ui://38fa8c75dtss5f" name="防御"/>
+    </list>
+    <component id="n97_dtss" name="btn_Up" src="dtss5f" fileName="btn/UpBtn1.xml" xy="120,358">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="升星"/>
+    </component>
+    <image id="n101_105pv" name="n101" src="105pv7q" fileName="img/word_tag.png" xy="32,411">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n102_105pv" name="n102" src="105pv7q" fileName="img/word_tag.png" xy="372,411" flip="hz">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n103_105pv" name="n103" xy="216,403" size="115,49" fontSize="36" color="#8db2ff" strokeColor="#000000" strokeSize="2" text="已满星">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+</component>

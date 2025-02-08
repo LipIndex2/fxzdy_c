@@ -1,0 +1,1185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="50" infinite="0" nextlayerid="14" nextobjectid="7587" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="70">
+ <tileset columns="10" firstgid="1" name="map_ground_5101" tilecount="110" tileheight="120" tilewidth="200">
+  <image height="1320" source="../mapTilesets/masterMap_04/map_ground_5101.png" width="2000" />
+ </tileset>
+ <tileset columns="0" firstgid="111" name="masterMap_04" tilecount="47" tileheight="996" tilewidth="611">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="766" source="../mapTilesets/masterMap_04/map_building_501.png" width="611" />
+  </tile>
+  <tile id="1">
+   <image height="742" source="../mapTilesets/masterMap_04/map_building_502.png" width="605" />
+  </tile>
+  <tile id="2">
+   <image height="452" source="../mapTilesets/masterMap_04/map_building_503.png" width="586" />
+  </tile>
+  <tile id="3">
+   <image height="996" source="../mapTilesets/masterMap_04/map_building_504.png" width="590" />
+  </tile>
+  <tile id="4">
+   <image height="477" source="../mapTilesets/masterMap_04/map_fb_501.png" width="513" />
+  </tile>
+  <tile id="5">
+   <image height="133" source="../mapTilesets/masterMap_04/map_mountain_501.png" width="201" />
+  </tile>
+  <tile id="6">
+   <image height="201" source="../mapTilesets/masterMap_04/map_mountain_502.png" width="224" />
+  </tile>
+  <tile id="7">
+   <image height="316" source="../mapTilesets/masterMap_04/map_mountain_503.png" width="230" />
+  </tile>
+  <tile id="8">
+   <image height="379" source="../mapTilesets/masterMap_04/map_mountain_504.png" width="213" />
+  </tile>
+  <tile id="9">
+   <image height="462" source="../mapTilesets/masterMap_04/map_mountain_505.png" width="233" />
+  </tile>
+  <tile id="10">
+   <image height="143" source="../mapTilesets/masterMap_04/map_mountain_506.png" width="200" />
+  </tile>
+  <tile id="11">
+   <image height="203" source="../mapTilesets/masterMap_04/map_mountain_507.png" width="215" />
+  </tile>
+  <tile id="12">
+   <image height="272" source="../mapTilesets/masterMap_04/map_mountain_508.png" width="224" />
+  </tile>
+  <tile id="13">
+   <image height="377" source="../mapTilesets/masterMap_04/map_mountain_509.png" width="229" />
+  </tile>
+  <tile id="14">
+   <image height="446" source="../mapTilesets/masterMap_04/map_mountain_510.png" width="234" />
+  </tile>
+  <tile id="15">
+   <image height="126" source="../mapTilesets/masterMap_04/map_scene_501.png" width="130" />
+  </tile>
+  <tile id="16">
+   <image height="97" source="../mapTilesets/masterMap_04/map_scene_502.png" width="149" />
+  </tile>
+  <tile id="17">
+   <image height="154" source="../mapTilesets/masterMap_04/map_scene_503.png" width="174" />
+  </tile>
+  <tile id="18">
+   <image height="112" source="../mapTilesets/masterMap_04/map_scene_504.png" width="177" />
+  </tile>
+  <tile id="19">
+   <image height="131" source="../mapTilesets/masterMap_04/map_scene_505.png" width="163" />
+  </tile>
+  <tile id="20">
+   <image height="176" source="../mapTilesets/masterMap_04/map_scene_506.png" width="153" />
+  </tile>
+  <tile id="21">
+   <image height="140" source="../mapTilesets/masterMap_04/map_scene_507.png" width="162" />
+  </tile>
+  <tile id="22">
+   <image height="86" source="../mapTilesets/masterMap_04/map_scene_508.png" width="138" />
+  </tile>
+  <tile id="23">
+   <image height="90" source="../mapTilesets/masterMap_04/map_scene_509.png" width="102" />
+  </tile>
+  <tile id="24">
+   <image height="101" source="../mapTilesets/masterMap_04/map_scene_510.png" width="115" />
+  </tile>
+  <tile id="25">
+   <image height="71" source="../mapTilesets/masterMap_04/map_scene_511.png" width="100" />
+  </tile>
+  <tile id="26">
+   <image height="91" source="../mapTilesets/masterMap_04/map_scene_512.png" width="76" />
+  </tile>
+  <tile id="27">
+   <image height="83" source="../mapTilesets/masterMap_04/map_scene_513.png" width="137" />
+  </tile>
+  <tile id="28">
+   <image height="84" source="../mapTilesets/masterMap_04/map_scene_514.png" width="111" />
+  </tile>
+  <tile id="29">
+   <image height="81" source="../mapTilesets/masterMap_04/map_scene_515.png" width="138" />
+  </tile>
+  <tile id="30">
+   <image height="87" source="../mapTilesets/masterMap_04/map_scene_516.png" width="119" />
+  </tile>
+  <tile id="31">
+   <image height="403" source="../mapTilesets/masterMap_04/map_scene_517.png" width="575" />
+  </tile>
+  <tile id="32">
+   <image height="99" source="../mapTilesets/masterMap_04/map_scene_518.png" width="182" />
+  </tile>
+  <tile id="33">
+   <image height="202" source="../mapTilesets/masterMap_04/map_scene_519.png" width="154" />
+  </tile>
+  <tile id="34">
+   <image height="108" source="../mapTilesets/masterMap_04/map_scene_520.png" width="146" />
+  </tile>
+  <tile id="35">
+   <image height="82" source="../mapTilesets/masterMap_04/map_scene_521.png" width="166" />
+  </tile>
+  <tile id="36">
+   <image height="253" source="../mapTilesets/masterMap_04/map_scene_522.png" width="114" />
+  </tile>
+  <tile id="37">
+   <image height="200" source="../mapTilesets/masterMap_04/map_scene_523.png" width="158" />
+  </tile>
+  <tile id="38">
+   <image height="154" source="../mapTilesets/masterMap_04/map_scene_524.png" width="103" />
+  </tile>
+  <tile id="39">
+   <image height="176" source="../mapTilesets/masterMap_04/map_scene_525.png" width="182" />
+  </tile>
+  <tile id="40">
+   <image height="131" source="../mapTilesets/masterMap_04/map_scene_526.png" width="136" />
+  </tile>
+  <tile id="41">
+   <image height="455" source="../mapTilesets/masterMap_04/map_scene_527.png" width="401" />
+  </tile>
+  <tile id="42">
+   <image height="392" source="../mapTilesets/masterMap_04/map_scene_528.png" width="286" />
+  </tile>
+  <tile id="43">
+   <image height="70" source="../mapTilesets/masterMap_04/map_scene_529.png" width="114" />
+  </tile>
+  <tile id="44">
+   <image height="93" source="../mapTilesets/masterMap_04/map_scene_530.png" width="120" />
+  </tile>
+  <tile id="45">
+   <image height="94" source="../mapTilesets/masterMap_04/map_scene_531.png" width="125" />
+  </tile>
+  <tile id="46">
+   <image height="91" source="../mapTilesets/masterMap_04/map_scene_532.png" width="125" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="158" name="explorationMap" tilecount="18" tileheight="456" tilewidth="456">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory01.png" width="456" />
+  </tile>
+  <tile id="1">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory02.png" width="456" />
+  </tile>
+  <tile id="2">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory03.png" width="456" />
+  </tile>
+  <tile id="3">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory04.png" width="456" />
+  </tile>
+  <tile id="4">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory05.png" width="456" />
+  </tile>
+  <tile id="5">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory06.png" width="456" />
+  </tile>
+  <tile id="6">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory07.png" width="456" />
+  </tile>
+  <tile id="7">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory08.png" width="456" />
+  </tile>
+  <tile id="8">
+   <image height="456" source="../mapTilesets/explorationMap/zykt_factory09.png" width="456" />
+  </tile>
+  <tile id="9">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine01.png" width="138" />
+  </tile>
+  <tile id="10">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine02.png" width="138" />
+  </tile>
+  <tile id="11">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine03.png" width="138" />
+  </tile>
+  <tile id="12">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine04.png" width="138" />
+  </tile>
+  <tile id="13">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine05.png" width="138" />
+  </tile>
+  <tile id="14">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine06.png" width="138" />
+  </tile>
+  <tile id="15">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine07.png" width="138" />
+  </tile>
+  <tile id="16">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine08.png" width="138" />
+  </tile>
+  <tile id="17">
+   <image height="149" source="../mapTilesets/explorationMap/zykt_mine09.png" width="138" />
+  </tile>
+ </tileset>
+ <layer height="50" id="1" name="bottom_layer" width="70">
+  <data compression="zlib" encoding="base64">
+   eJztwzENAAAMBKEb3r/miugKCaumqqqqqqqqqqqqqqqqqs8HWDg2sQ==
+  </data>
+ </layer>
+ <layer height="50" id="7" name="grassland_layer" width="70">
+  <data compression="zlib" encoding="base64">
+   eJzt0LENgDAMRcGMF+hCz/5rhAF+EwkRS9xJ7lzYrzUAAAAAAAAqOHYfUNS1+4CidMl0yXTJdMl0yXTJdMn+0qU/MxbmXtw/v3sFAAAAgBdNnfYLEQ==
+  </data>
+ </layer>
+ <layer height="50" id="9" name="water_layer" width="70">
+  <data compression="zlib" encoding="base64">
+   eJztwTEBAAAAwqD1T20IX6AAAAAAAAAAAAAAAAAA4Dc2sAAB
+  </data>
+ </layer>
+ <layer height="50" id="11" name="mountain_layer" width="70">
+  <data compression="zlib" encoding="base64">
+   eJztmuuKxCAMRvPUnaGtL7JPuxU8zFHK/lmwA/EDsTdtEnNrbMTCwsLCwsLCQsT7aq+r7VcrVzuvdrS+Xt/a8Vttb/3xAL1/odJUWqt0H62vfJzqT42B773dL/HhESCHd+u3dp+5eCdAhpvGPQXWDDqglXU/o6fzaM3rvMdHTkXz8eyu3vrD+7i3adyu52fDOsKaox/IK9o51+50CL3ARg49ewzn8MrzReejLXGvDONn6JH1lXX0WsMbdDGmRL/uI2/wYztCjtYNX9+ilye6+NI76WcAOcAr8vD77SdL9PaHvDyeezyL32D8S+0vPq3DoXlmwTyhy17P0T9u6s2nddzra16sZ8gKPfFcxhm9Lc3EuBboc8Wd7zFf8G9ZWE7MtUXvQ4Dnt89z3IK2J3wxtmz6Klgr24F9jMeN8PMAn2Jdsb6eN2P87pkY9Rq6I3o9KNHbgf2RY7tlx3zwa/2x3zENjm2O6bP8LrDeQ8uh86xgjTh2XJ4ZA74NjkXYA9dn2/Q3wfEIu4742HZWOG/At4Jv+9adCWKEY2bFmJdlg3MV51/Z5YIPcZ7GeWY7GnMV10OW3/34XtdgstuR/YrzvKxyGWsh/h52/SMj+N6rGGu0mf2La/6u93KeFdQ9XKv3nk9WuAYS0edzmfMX1/ZHO8rsXyq83+g8N3NdqsJ7XWPdOyu8p+59Lue9GUFd2XX/u7r8z3zSHoX3g72HQ/zOCuf9JXp7ypzX+T8F246/D7LC9W7vk2TO6yocp527ZI7TFf5nhePsdYYK12FqPPa/ZQsLCwsLC//BL8/LAPI=
+  </data>
+ </layer>
+ <objectgroup id="3" name="player_layer">
+  <object height="149" id="2296" visible="0" width="138" x="3025.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003009" />
+   </properties>
+  </object>
+  <object height="149" id="2365" visible="0" width="138" x="2905.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003008" />
+   </properties>
+  </object>
+  <object height="149" id="2366" visible="0" width="138" x="3145.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003007" />
+   </properties>
+  </object>
+  <object height="149" id="2367" visible="0" width="138" x="3265.67" y="2789.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003006" />
+   </properties>
+  </object>
+  <object height="149" id="2368" visible="0" width="138" x="3745.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003017" />
+   </properties>
+  </object>
+  <object height="149" id="2369" visible="0" width="138" x="4225.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003016" />
+   </properties>
+  </object>
+  <object height="149" id="2370" visible="0" width="138" x="3985.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003015" />
+   </properties>
+  </object>
+  <object height="149" id="2371" visible="0" width="138" x="4225.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003014" />
+   </properties>
+  </object>
+  <object height="149" id="2372" visible="0" width="138" x="3625.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003018" />
+   </properties>
+  </object>
+  <object height="149" id="2373" visible="0" width="138" x="3625.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003019" />
+   </properties>
+  </object>
+  <object height="149" id="2374" visible="0" width="138" x="4225.67" y="2789.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003020" />
+   </properties>
+  </object>
+  <object height="149" id="2375" visible="0" width="138" x="4105.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003021" />
+   </properties>
+  </object>
+  <object height="149" id="2376" visible="0" width="138" x="5065.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003033" />
+   </properties>
+  </object>
+  <object height="149" id="2378" visible="0" width="138" x="5185.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003031" />
+   </properties>
+  </object>
+  <object height="149" id="7477" visible="0" width="138" x="5185.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003032" />
+   </properties>
+  </object>
+  <object height="149" id="2379" visible="0" width="138" x="5185.67" y="2789.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003030" />
+   </properties>
+  </object>
+  <object height="149" id="2380" visible="0" width="138" x="5905.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003041" />
+   </properties>
+  </object>
+  <object height="149" id="2381" visible="0" width="138" x="5665.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003040" />
+   </properties>
+  </object>
+  <object height="149" id="2382" visible="0" width="138" x="5545.67" y="2429.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003039" />
+   </properties>
+  </object>
+  <object height="149" id="2383" visible="0" width="138" x="5545.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003038" />
+   </properties>
+  </object>
+  <object height="149" id="2384" visible="0" width="138" x="6145.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003042" />
+   </properties>
+  </object>
+  <object height="149" id="2385" visible="0" width="138" x="6145.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003043" />
+   </properties>
+  </object>
+  <object height="149" id="2386" visible="0" width="138" x="6145.67" y="2789.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003044" />
+   </properties>
+  </object>
+  <object height="149" id="2387" visible="0" width="138" x="6025.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003045" />
+   </properties>
+  </object>
+  <object height="149" id="2388" visible="0" width="138" x="2665.67" y="2429.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003005" />
+   </properties>
+  </object>
+  <object height="149" id="2389" visible="0" width="138" x="2785.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003004" />
+   </properties>
+  </object>
+  <object height="149" id="2390" visible="0" width="138" x="3265.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003003" />
+   </properties>
+  </object>
+  <object height="149" id="2391" visible="0" width="138" x="2665.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003002" />
+   </properties>
+  </object>
+  <object height="149" id="2392" visible="0" width="138" x="3625.67" y="2429.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003013" />
+   </properties>
+  </object>
+  <object height="149" id="2393" visible="0" width="138" x="3025.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003012" />
+   </properties>
+  </object>
+  <object height="149" id="2394" visible="0" width="138" x="2905.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003011" />
+   </properties>
+  </object>
+  <object height="149" id="2395" visible="0" width="138" x="3265.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003010" />
+   </properties>
+  </object>
+  <object height="149" id="2396" visible="0" width="138" x="3865.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003022" />
+   </properties>
+  </object>
+  <object height="149" id="2397" visible="0" width="138" x="3865.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003023" />
+   </properties>
+  </object>
+  <object height="149" id="2398" visible="0" width="138" x="3985.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003024" />
+   </properties>
+  </object>
+  <object height="149" id="2399" visible="0" width="138" x="4585.67" y="2429.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003025" />
+   </properties>
+  </object>
+  <object height="149" id="2400" visible="0" width="138" x="4705.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003029" />
+   </properties>
+  </object>
+  <object height="149" id="2401" visible="0" width="138" x="4585.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003028" />
+   </properties>
+  </object>
+  <object height="149" id="2402" visible="0" width="138" x="4945.67" y="2309.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003027" />
+   </properties>
+  </object>
+  <object height="149" id="2403" visible="0" width="138" x="4585.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003026" />
+   </properties>
+  </object>
+  <object height="149" id="2404" visible="0" width="138" x="5545.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003037" />
+   </properties>
+  </object>
+  <object height="149" id="2405" visible="0" width="138" x="4945.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003036" />
+   </properties>
+  </object>
+  <object height="149" id="2406" visible="0" width="138" x="4825.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003035" />
+   </properties>
+  </object>
+  <object height="149" id="2407" visible="0" width="138" x="4825.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003034" />
+   </properties>
+  </object>
+  <object height="149" id="2408" visible="0" width="138" x="5785.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003046" />
+   </properties>
+  </object>
+  <object height="149" id="2409" visible="0" width="138" x="5785.67" y="2549.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003047" />
+   </properties>
+  </object>
+  <object height="149" id="2410" visible="0" width="138" x="5905.67" y="2669.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003048" />
+   </properties>
+  </object>
+  <object height="149" id="2411" visible="0" width="138" x="4587.67" y="3391.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003049" />
+   </properties>
+  </object>
+  <object height="149" id="2412" visible="0" width="138" x="4587.67" y="3631.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003050" />
+   </properties>
+  </object>
+  <object height="149" id="2413" visible="0" width="138" x="4587.67" y="3871.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003051" />
+   </properties>
+  </object>
+  <object height="149" id="2414" visible="0" width="138" x="4827.67" y="3871.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003052" />
+   </properties>
+  </object>
+  <object height="149" id="2415" visible="0" width="138" x="5067.67" y="3871.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003053" />
+   </properties>
+  </object>
+  <object height="149" id="2416" visible="0" width="138" x="4827.67" y="3631.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003058" />
+   </properties>
+  </object>
+  <object height="149" id="2417" visible="0" width="138" x="4947.67" y="3511.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003059" />
+   </properties>
+  </object>
+  <object height="149" id="2418" visible="0" width="138" x="4947.67" y="3271.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003060" />
+   </properties>
+  </object>
+  <object height="149" id="2419" visible="0" width="138" x="3625.67" y="3629.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003061" />
+   </properties>
+  </object>
+  <object height="149" id="2436" visible="0" width="138" x="5187.67" y="3751.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003054" />
+   </properties>
+  </object>
+  <object height="149" id="2437" visible="0" width="138" x="5187.67" y="3511.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003055" />
+   </properties>
+  </object>
+  <object height="149" id="2438" visible="0" width="138" x="5187.67" y="3271.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003056" />
+   </properties>
+  </object>
+  <object height="149" id="2439" visible="0" width="138" x="4707.67" y="3271.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003057" />
+   </properties>
+  </object>
+  <object height="149" id="2440" visible="0" width="138" x="3625.67" y="3869.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003062" />
+   </properties>
+  </object>
+  <object height="149" id="2441" visible="0" width="138" x="3625.67" y="3389.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003063" />
+   </properties>
+  </object>
+  <object height="149" id="2442" visible="0" width="138" x="3745.67" y="3269.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003064" />
+   </properties>
+  </object>
+  <object height="149" id="2443" visible="0" width="138" x="3985.67" y="3269.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003065" />
+   </properties>
+  </object>
+  <object height="149" id="2748" visible="0" width="138" x="4225.67" y="3269.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003066" />
+   </properties>
+  </object>
+  <object height="149" id="2749" visible="0" width="138" x="4225.67" y="3509.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003067" />
+   </properties>
+  </object>
+  <object height="149" id="2750" visible="0" width="138" x="4225.67" y="3749.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003068" />
+   </properties>
+  </object>
+  <object height="149" id="2751" visible="0" width="138" x="4105.67" y="3869.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003069" />
+   </properties>
+  </object>
+  <object height="149" id="2753" visible="0" width="138" x="5668.23" y="3871.29">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003080" />
+   </properties>
+  </object>
+  <object height="149" id="2754" visible="0" width="138" x="5668.23" y="3631.29">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003079" />
+   </properties>
+  </object>
+  <object height="149" id="2755" visible="0" width="138" x="5668.23" y="3391.29">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003078" />
+   </properties>
+  </object>
+  <object height="149" id="2756" visible="0" width="138" x="3865.67" y="3869.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003070" />
+   </properties>
+  </object>
+  <object height="149" id="2757" visible="0" width="138" x="3865.67" y="3509.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003071" />
+   </properties>
+  </object>
+  <object height="149" id="2758" visible="0" width="138" x="3985.67" y="3629.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003072" />
+   </properties>
+  </object>
+  <object height="149" id="2759" visible="0" width="138" x="3037.89" y="3870.91">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003073" />
+   </properties>
+  </object>
+  <object height="149" id="2760" visible="0" width="138" x="5665.7" y="3155.15">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003077" />
+   </properties>
+  </object>
+  <object height="149" id="2761" visible="0" width="138" x="3036.09" y="3152.71">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003076" />
+   </properties>
+  </object>
+  <object height="149" id="2762" visible="0" width="138" x="3037.89" y="3390.91">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003075" />
+   </properties>
+  </object>
+  <object height="149" id="2763" visible="0" width="138" x="3037.89" y="3630.91">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003074" />
+   </properties>
+  </object>
+  <object height="149" id="2883" visible="0" width="138" x="2665.67" y="2909.67">
+   <properties>
+    <property name="building_type" value="mine" />
+    <property name="object_id" type="int" value="10003001" />
+   </properties>
+  </object>
+  <object id="7467" visible="0" x="3348.15" y="4004.36">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10003901" />
+   </properties>
+   <point />
+  </object>
+  <object id="7468" visible="0" x="4388.11" y="3984.59">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10003902" />
+   </properties>
+   <point />
+  </object>
+  <object id="7469" visible="0" x="5339.93" y="3962.74">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10003903" />
+   </properties>
+   <point />
+  </object>
+  <object id="7470" visible="0" x="3281.09" y="2949.51">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10003906" />
+   </properties>
+   <point />
+  </object>
+  <object id="7471" visible="0" x="4296.93" y="2993.07">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10003905" />
+   </properties>
+   <point />
+  </object>
+  <object id="7472" visible="0" x="5284.95" y="3001.68">
+   <properties>
+    <property name="building_type" value="teleportPoint" />
+    <property name="object_id" type="int" value="10003904" />
+   </properties>
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="5" locked="1" name="ornament_layer">
+  <object gid="124" height="377" id="4336" width="229" x="3262.82" y="4937.07" />
+  <object gid="118" height="316" id="4356" width="230" x="2662.77" y="5014.43" />
+  <object gid="124" height="377" id="4359" width="229" x="3358.52" y="5037.07" />
+  <object gid="120" height="462" id="4360" width="233" x="3168.92" y="5068.37" />
+  <object gid="124" height="377" id="4368" width="229" x="1997.72" y="5054.1" />
+  <object gid="125" height="446" id="4373" width="234" x="2117.82" y="5016.3" />
+  <object gid="118" height="316" id="4376" width="230" x="2243.72" y="5124" />
+  <object gid="120" height="462" id="4380" width="233" x="2221.27" y="4777.33" />
+  <object gid="123" height="272" id="4383" width="224" x="2360.57" y="4720.73" />
+  <object gid="123" height="272" id="4384" width="224" x="2564.82" y="4510.47" />
+  <object gid="119" height="379" id="4385" width="213" x="2505.77" y="4647.23" />
+  <object gid="124" height="377" id="4386" width="229" x="2458.68" y="5171.04" />
+  <object gid="119" height="379" id="4387" width="213" x="2500.82" y="4442.27" />
+  <object gid="119" height="379" id="4388" width="213" x="2358.67" y="4606.73" />
+  <object gid="123" height="272" id="4389" width="224" x="2461.17" y="4532.23" />
+  <object gid="124" height="377" id="4390" width="229" x="2667.92" y="4470.07" />
+  <object gid="124" height="377" id="4391" width="229" x="2569.77" y="4731.83" />
+  <object gid="125" height="446" id="4392" width="234" x="2319.57" y="5406.57" />
+  <object gid="122" height="203" id="4393" width="215" x="2820.92" y="4579.37" />
+  <object gid="119" height="379" id="4394" width="213" x="2883.52" y="4511.07" />
+  <object gid="118" height="316" id="4395" width="230" x="2874.82" y="4782.97" />
+  <object gid="123" height="272" id="4396" width="224" x="2952.82" y="4642.77" />
+  <object gid="124" height="377" id="4397" width="229" x="3313.72" y="5193.97" />
+  <object gid="124" height="377" id="4398" width="229" x="3146.72" y="4694.27" />
+  <object gid="120" height="462" id="4399" width="233" x="3056.62" y="4880.57" />
+  <object gid="120" height="462" id="4400" width="233" x="2425.67" y="4875.03" />
+  <object gid="124" height="377" id="4401" width="229" x="2880.62" y="4911.77" />
+  <object gid="123" height="272" id="4402" width="224" x="2577.07" y="4867.03" />
+  <object gid="122" height="203" id="4404" width="215" x="2223.54" y="5183.58" />
+  <object gid="119" height="379" id="4405" width="213" x="2113.92" y="5226.8" />
+  <object gid="123" height="272" id="4407" width="224" x="2373.02" y="5290.01" />
+  <object gid="124" height="377" id="4408" width="229" x="2254.12" y="5199.7" />
+  <object gid="124" height="377" id="4409" width="229" x="2228.32" y="4948.61" />
+  <object gid="124" height="377" id="4411" width="229" x="2361.57" y="4983.83" />
+  <object gid="124" height="377" id="4412" width="229" x="3033.92" y="4467.37" />
+  <object gid="122" height="203" id="4413" width="215" x="3186.92" y="4576.67" />
+  <object gid="119" height="379" id="4414" width="213" x="3249.42" y="4508.37" />
+  <object gid="118" height="316" id="4415" width="230" x="3240.82" y="4780.27" />
+  <object gid="123" height="272" id="4416" width="224" x="3318.82" y="4640.07" />
+  <object gid="124" height="377" id="4417" width="229" x="3799.32" y="5159.67" />
+  <object gid="124" height="377" id="4418" width="229" x="3503.92" y="5232.37" />
+  <object gid="120" height="462" id="4419" width="233" x="3499.42" y="4873.07" />
+  <object gid="124" height="377" id="4428" width="229" x="5999.94" y="4558.28" />
+  <object gid="122" height="203" id="4432" width="215" x="3910.14" y="5421.18" />
+  <object gid="123" height="272" id="4434" width="224" x="4067.54" y="5331.88" />
+  <object gid="119" height="379" id="4435" width="213" x="3773.33" y="5346.22" />
+  <object gid="119" height="379" id="4438" width="213" x="3977.14" y="5482.08" />
+  <object gid="123" height="272" id="4439" width="224" x="4079.64" y="5407.58" />
+  <object gid="124" height="377" id="4440" width="229" x="4170.64" y="5291.48" />
+  <object gid="124" height="377" id="4441" width="229" x="5828.24" y="5351.18" />
+  <object gid="125" height="446" id="4442" width="234" x="5891.64" y="5240.68" />
+  <object gid="122" height="203" id="4443" width="215" x="5963.64" y="5144.78" />
+  <object gid="119" height="379" id="4444" width="213" x="4386.24" y="5332.48" />
+  <object gid="118" height="316" id="4445" width="230" x="6017.54" y="5348.38" />
+  <object gid="123" height="272" id="4446" width="224" x="6095.54" y="5208.18" />
+  <object gid="124" height="377" id="4447" width="229" x="4526.44" y="5305.38" />
+  <object gid="124" height="377" id="4448" width="229" x="4691.04" y="5394.08" />
+  <object gid="120" height="462" id="4449" width="233" x="4642.94" y="5562.38" />
+  <object gid="124" height="377" id="4451" width="229" x="6185.74" y="5406.78" />
+  <object gid="123" height="272" id="4452" width="224" x="5930.74" y="5447.18" />
+  <object gid="125" height="446" id="4453" width="234" x="3494.32" y="5028.47" />
+  <object gid="122" height="203" id="4454" width="215" x="3566.42" y="4932.57" />
+  <object gid="119" height="379" id="4455" width="213" x="3628.92" y="4864.27" />
+  <object gid="118" height="316" id="4456" width="230" x="3620.22" y="5136.17" />
+  <object gid="123" height="272" id="4457" width="224" x="3698.32" y="4995.97" />
+  <object gid="120" height="462" id="4460" width="233" x="2864.57" y="5015.63" />
+  <object gid="125" height="446" id="4468" width="234" x="4492.44" y="5278.08" />
+  <object gid="122" height="203" id="4476" width="215" x="4212.44" y="5098.48" />
+  <object gid="119" height="379" id="4477" width="213" x="4274.94" y="5030.18" />
+  <object gid="123" height="272" id="4478" width="224" x="4344.34" y="5161.88" />
+  <object gid="124" height="377" id="4480" width="229" x="4653.04" y="5234.58" />
+  <object gid="119" height="379" id="5212" width="213" x="4272.14" y="5226.48" />
+  <object gid="119" height="379" id="5213" width="213" x="4245.74" y="5444.88" />
+  <object gid="123" height="272" id="5214" width="224" x="4348.24" y="5370.38" />
+  <object gid="124" height="377" id="5215" width="229" x="4439.24" y="5254.28" />
+  <object gid="124" height="377" id="5216" width="229" x="6096.84" y="5313.98" />
+  <object gid="125" height="446" id="5217" width="234" x="4520.24" y="5459.48" />
+  <object gid="122" height="203" id="5218" width="215" x="4592.24" y="5363.58" />
+  <object gid="119" height="379" id="5219" width="213" x="4654.74" y="5295.28" />
+  <object gid="118" height="316" id="5220" width="230" x="4646.14" y="5567.18" />
+  <object gid="123" height="272" id="5221" width="224" x="4724.14" y="5426.98" />
+  <object gid="124" height="377" id="5222" width="229" x="4794.94" y="5268.18" />
+  <object gid="124" height="377" id="5223" width="229" x="4918.04" y="5478.48" />
+  <object gid="120" height="462" id="5224" width="233" x="4918.84" y="5646.58" />
+  <object gid="120" height="462" id="5225" width="233" x="3577.27" y="5373.22" />
+  <object gid="118" height="316" id="5226" width="230" x="4990.94" y="5301.08" />
+  <object gid="122" height="203" id="5227" width="215" x="4989.24" y="5415.08" />
+  <object gid="123" height="272" id="5228" width="224" x="5058.04" y="5589.98" />
+  <object gid="123" height="272" id="5229" width="224" x="5146.54" y="5325.78" />
+  <object gid="119" height="379" id="5230" width="213" x="5203.24" y="5516.48" />
+  <object gid="124" height="377" id="5231" width="229" x="4488.54" y="5548.38" />
+  <object gid="123" height="272" id="5232" width="224" x="5724.54" y="4498.38" />
+  <object gid="119" height="379" id="5233" width="213" x="5082.64" y="5257.58" />
+  <object gid="119" height="379" id="5234" width="213" x="5056.24" y="5475.98" />
+  <object gid="123" height="272" id="5235" width="224" x="5158.64" y="5401.48" />
+  <object gid="124" height="377" id="5236" width="229" x="5249.64" y="5285.38" />
+  <object gid="124" height="377" id="5237" width="229" x="5272.84" y="5587.48" />
+  <object gid="125" height="446" id="5238" width="234" x="5336.24" y="5476.98" />
+  <object gid="122" height="203" id="5239" width="215" x="5402.64" y="5394.68" />
+  <object gid="119" height="379" id="5240" width="213" x="5470.84" y="5312.78" />
+  <object gid="118" height="316" id="5241" width="230" x="5462.14" y="5584.68" />
+  <object gid="123" height="272" id="5242" width="224" x="5540.14" y="5444.48" />
+  <object gid="124" height="377" id="5243" width="229" x="5611.04" y="5285.68" />
+  <object gid="124" height="377" id="5244" width="229" x="5734.04" y="5495.98" />
+  <object gid="120" height="462" id="5245" width="233" x="6303.94" y="5190.28" />
+  <object gid="120" height="462" id="5246" width="233" x="6279.24" y="4956.28" />
+  <object gid="118" height="316" id="5247" width="230" x="2446.24" y="5231.38" />
+  <object gid="122" height="203" id="5248" width="215" x="5805.24" y="5432.58" />
+  <object gid="123" height="272" id="5249" width="224" x="6238.44" y="5264.68" />
+  <object gid="123" height="272" id="5250" width="224" x="2601.74" y="5256.08" />
+  <object gid="119" height="379" id="5251" width="213" x="6056.44" y="5443.98" />
+  <object gid="124" height="377" id="5252" width="229" x="6176.04" y="5005.48" />
+  <object gid="123" height="272" id="5253" width="224" x="6118.54" y="4684.28" />
+  <object gid="119" height="379" id="5254" width="213" x="2605.24" y="5171.18" />
+  <object gid="119" height="379" id="5255" width="213" x="2578.84" y="5389.58" />
+  <object gid="123" height="272" id="5256" width="224" x="2681.34" y="5315.08" />
+  <object gid="124" height="377" id="5257" width="229" x="2772.34" y="5198.98" />
+  <object gid="124" height="377" id="5258" width="229" x="2475.39" y="5465.59" />
+  <object gid="122" height="203" id="5260" width="215" x="2925.34" y="5308.28" />
+  <object gid="118" height="316" id="5262" width="230" x="2891.36" y="5260.36" />
+  <object gid="123" height="272" id="5263" width="224" x="2969.36" y="5120.16" />
+  <object gid="124" height="377" id="5265" width="229" x="3163.26" y="5171.66" />
+  <object gid="120" height="462" id="5266" width="233" x="3164.06" y="5339.76" />
+  <object gid="120" height="462" id="5267" width="233" x="5913.34" y="4658.68" />
+  <object gid="123" height="272" id="5270" width="224" x="3303.26" y="5283.16" />
+  <object gid="124" height="377" id="5273" width="229" x="3022.08" y="5379.53" />
+  <object gid="123" height="272" id="5274" width="224" x="2848.16" y="5417.16" />
+  <object gid="120" height="462" id="5288" width="233" x="3327.25" y="5290.8" />
+  <object gid="125" height="446" id="6853" width="234" x="6300.54" y="4972.58" />
+  <object gid="124" height="377" id="6857" width="229" x="6573.74" y="4887.88" />
+  <object gid="124" height="377" id="6858" width="229" x="6522.74" y="4783.08" />
+  <object gid="120" height="462" id="6859" width="233" x="6459.54" y="5032.08" />
+  <object gid="124" height="377" id="6861" width="229" x="6604.34" y="5157.58" />
+  <object gid="124" height="377" id="6862" width="229" x="6610.04" y="5295.28" />
+  <object gid="125" height="446" id="6863" width="234" x="6462.14" y="4534.48" />
+  <object gid="118" height="316" id="6864" width="230" x="6588.04" y="4642.28" />
+  <object gid="120" height="462" id="6865" width="233" x="6417.64" y="5237.98" />
+  <object gid="125" height="446" id="6866" width="234" x="6730.34" y="5446.08" />
+  <object gid="119" height="379" id="6867" width="213" x="6762.54" y="5299.38" />
+  <object gid="124" height="377" id="6868" width="229" x="6776.34" y="5054.68" />
+  <object gid="125" height="446" id="6869" width="234" x="6742.24" y="5027.38" />
+  <object gid="120" height="462" id="6870" width="233" x="6889.14" y="5505.38" />
+  <object gid="124" height="377" id="6872" width="229" x="6709.34" y="4811.58" />
+  <object gid="125" height="446" id="6886" width="234" x="6632.74" y="4671.58" />
+  <object gid="118" height="316" id="6897" width="230" x="6273.5" y="5465.1" />
+  <object gid="125" height="446" id="6903" width="234" x="6447.4" y="5295.4" />
+  <object gid="119" height="379" id="6904" width="213" x="6479.6" y="5148.8" />
+  <object gid="124" height="377" id="6905" width="229" x="6493.4" y="4904.1" />
+  <object gid="125" height="446" id="6906" width="234" x="6459.5" y="4876.7" />
+  <object gid="124" height="377" id="6907" width="229" x="6846.9" y="5428.2" />
+  <object gid="124" height="377" id="6908" width="229" x="6796" y="5323.5" />
+  <object gid="125" height="446" id="6913" width="234" x="6609" y="4857.3" />
+  <object gid="118" height="316" id="6914" width="230" x="6734.9" y="4965" />
+  <object gid="119" height="379" id="6917" width="213" x="6551.7" y="5523.8" />
+  <object gid="124" height="377" id="6918" width="229" x="6462.4" y="5430.2" />
+  <object gid="125" height="446" id="6919" width="234" x="6684.3" y="5490.9" />
+  <object gid="125" height="446" id="6921" width="234" x="6407.4" y="4692.2" />
+  <object gid="124" height="377" id="6922" width="229" x="6856.2" y="5134.2" />
+  <object gid="119" height="379" id="6924" width="213" x="6594.4" y="4915.7" />
+  <object gid="120" height="462" id="6925" width="233" x="6170.5" y="4582.5" />
+  <object gid="119" height="379" id="6926" width="213" x="6401.4" y="4800.1" />
+  <object gid="120" height="462" id="6927" width="233" x="6742.2" y="4867.4" />
+  <object gid="124" height="377" id="6932" width="229" x="6407.4" y="4643.5" />
+  <object gid="123" height="272" id="6933" width="224" x="6509.8" y="4739.6" />
+  <object gid="119" height="379" id="6935" width="213" x="6523.7" y="5528.7" />
+  <object gid="124" height="377" id="6936" width="229" x="6689.5" y="4956" />
+  <object gid="125" height="446" id="6937" width="234" x="6655.5" y="4928.7" />
+  <object gid="124" height="377" id="6938" width="229" x="6916.5" y="5262.6" />
+  <object gid="124" height="377" id="6939" width="229" x="6865.5" y="5157.9" />
+  <object gid="125" height="446" id="6941" width="234" x="6557.1" y="4586.4" />
+  <object gid="125" height="446" id="6944" width="234" x="6804.9" y="4909.2" />
+  <object gid="118" height="316" id="6945" width="230" x="6930.9" y="5016.9" />
+  <object gid="124" height="377" id="6949" width="229" x="7119.2" y="5429.5" />
+  <object gid="125" height="446" id="6950" width="234" x="7085.1" y="5402.1" />
+  <object gid="125" height="446" id="6952" width="234" x="6603.6" y="4744.2" />
+  <object gid="124" height="377" id="6953" width="229" x="7052.2" y="5186.3" />
+  <object gid="120" height="462" id="6954" width="233" x="6851.7" y="4912.5" />
+  <object gid="119" height="379" id="6955" width="213" x="6800.1" y="5054.1" />
+  <object gid="120" height="462" id="6956" width="233" x="6481.8" y="4807.2" />
+  <object gid="119" height="379" id="6957" width="213" x="6607" y="4938.5" />
+  <object gid="120" height="462" id="6958" width="233" x="6947.8" y="5005.7" />
+  <object gid="119" height="379" id="6961" width="213" x="6549" y="4697.4" />
+  <object gid="123" height="272" id="6962" width="224" x="6504.4" y="4582.3" />
+  <object gid="124" height="377" id="6963" width="229" x="6613" y="4781.9" />
+  <object gid="123" height="272" id="6964" width="224" x="6715.4" y="4877.9" />
+  <object gid="124" height="377" id="6967" width="229" x="6869.4" y="5640" />
+  <object gid="125" height="446" id="6968" width="234" x="7013" y="5443.1" />
+  <object gid="125" height="446" id="6975" width="234" x="6985" y="5593.2" />
+  <object gid="120" height="462" id="6982" width="233" x="6310.5" y="4521.7" />
+  <object gid="125" height="446" id="6983" width="234" x="6783.6" y="5428.2" />
+  <object gid="120" height="462" id="6985" width="233" x="7057.3" y="5051" />
+  <object gid="125" height="446" id="6986" width="234" x="6588.2" y="5426.5" />
+  <object gid="119" height="379" id="6987" width="213" x="6620.4" y="5279.9" />
+  <object gid="124" height="377" id="6988" width="229" x="6760.7" y="5252.8" />
+  <object gid="125" height="446" id="6989" width="234" x="6726.7" y="5225.5" />
+  <object gid="124" height="377" id="6990" width="229" x="6987.7" y="5559.4" />
+  <object gid="124" height="377" id="6991" width="229" x="6936.7" y="5454.6" />
+  <object gid="120" height="462" id="6992" width="233" x="6747.1" y="5485.9" />
+  <object gid="124" height="377" id="6993" width="229" x="6892" y="5611.6" />
+  <object gid="125" height="446" id="6995" width="234" x="6876.2" y="5206" />
+  <object gid="118" height="316" id="6996" width="230" x="7002.1" y="5313.7" />
+  <object gid="125" height="446" id="7003" width="234" x="6674.7" y="5041" />
+  <object gid="124" height="377" id="7004" width="229" x="7123.5" y="5483" />
+  <object gid="119" height="379" id="7005" width="213" x="6851.9" y="5298.1" />
+  <object gid="120" height="462" id="7006" width="233" x="7297.8" y="4399.2" />
+  <object gid="119" height="379" id="7007" width="213" x="6658.9" y="5182.5" />
+  <object gid="120" height="462" id="7008" width="233" x="6999.9" y="5249.7" />
+  <object gid="118" height="316" id="7009" width="230" x="7256.7" y="4153.9" />
+  <object gid="123" height="272" id="7010" width="224" x="6544.1" y="4750.7" />
+  <object gid="119" height="379" id="7011" width="213" x="7194.5" y="4531.8" />
+  <object gid="123" height="272" id="7012" width="224" x="6556.2" y="4826.3" />
+  <object gid="124" height="377" id="7013" width="229" x="6664.9" y="5026" />
+  <object gid="123" height="272" id="7014" width="224" x="6767.4" y="5121.9" />
+  <object gid="125" height="446" id="7015" width="234" x="7261" y="4001.7" />
+  <object gid="119" height="379" id="7016" width="213" x="6594.7" y="4409.6" />
+  <object gid="124" height="377" id="7017" width="229" x="6735" y="4382.4" />
+  <object gid="125" height="446" id="7018" width="234" x="6701" y="4355.1" />
+  <object gid="124" height="377" id="7019" width="229" x="6962.2" y="4689.1" />
+  <object gid="124" height="377" id="7020" width="229" x="6911.2" y="4584.2" />
+  <object gid="120" height="462" id="7021" width="233" x="6721.4" y="4615.5" />
+  <object gid="125" height="446" id="7022" width="234" x="6814.7" y="4968.8" />
+  <object gid="124" height="377" id="7023" width="229" x="6866.3" y="4741.2" />
+  <object gid="124" height="377" id="7024" width="229" x="6872.2" y="4878.8" />
+  <object gid="125" height="446" id="7025" width="234" x="6850.6" y="4335.6" />
+  <object gid="118" height="316" id="7026" width="230" x="6976.5" y="4443.4" />
+  <object gid="120" height="462" id="7027" width="233" x="6679.7" y="4821.5" />
+  <object gid="125" height="446" id="7028" width="234" x="6992.4" y="5029.5" />
+  <object gid="119" height="379" id="7029" width="213" x="7024.4" y="4882.9" />
+  <object gid="124" height="377" id="7030" width="229" x="7164.7" y="4855.8" />
+  <object gid="125" height="446" id="7031" width="234" x="7130.7" y="4828.5" />
+  <object gid="120" height="462" id="7032" width="233" x="7151.2" y="5088.9" />
+  <object gid="125" height="446" id="7033" width="234" x="7145.9" y="3841.8" />
+  <object gid="124" height="377" id="7034" width="229" x="7097.8" y="4612.6" />
+  <object gid="120" height="462" id="7035" width="233" x="7109.3" y="5294.9" />
+  <object gid="119" height="379" id="7036" width="213" x="6836" y="4394.1" />
+  <object gid="120" height="462" id="7037" width="233" x="7253.8" y="3731.2" />
+  <object gid="119" height="379" id="7038" width="213" x="6643" y="4278.5" />
+  <object gid="120" height="462" id="7039" width="233" x="6983.9" y="4345.7" />
+  <object gid="118" height="316" id="7040" width="230" x="7183.9" y="3490.7" />
+  <object gid="123" height="272" id="7041" width="224" x="6528.2" y="3846.6" />
+  <object gid="119" height="379" id="7042" width="213" x="6584.9" y="4037.3" />
+  <object gid="123" height="272" id="7043" width="224" x="6540.3" y="3922.3" />
+  <object gid="124" height="377" id="7044" width="229" x="6648.9" y="4121.9" />
+  <object gid="123" height="272" id="7045" width="224" x="6751.4" y="4217.9" />
+  <object gid="125" height="446" id="7046" width="234" x="7229" y="3321.7" />
+  <object gid="119" height="379" id="7047" width="213" x="6578.8" y="3505.5" />
+  <object gid="124" height="377" id="7048" width="229" x="6719" y="3478.5" />
+  <object gid="125" height="446" id="7049" width="234" x="7259.5" y="3060.7" />
+  <object gid="124" height="377" id="7050" width="229" x="6946.1" y="3785" />
+  <object gid="124" height="377" id="7051" width="229" x="6895.1" y="3680.2" />
+  <object gid="120" height="462" id="7052" width="233" x="6705.5" y="3711.5" />
+  <object gid="125" height="446" id="7053" width="234" x="6798.7" y="4064.8" />
+  <object gid="124" height="377" id="7054" width="229" x="6850.3" y="3837.1" />
+  <object gid="124" height="377" id="7055" width="229" x="6856.2" y="3974.8" />
+  <object gid="125" height="446" id="7056" width="234" x="6834.4" y="3431.6" />
+  <object gid="118" height="316" id="7057" width="230" x="6960.5" y="3539.3" />
+  <object gid="120" height="462" id="7058" width="233" x="6663.7" y="3917.5" />
+  <object gid="125" height="446" id="7059" width="234" x="6976.4" y="4125.5" />
+  <object gid="119" height="379" id="7060" width="213" x="7008.5" y="3979" />
+  <object gid="124" height="377" id="7061" width="229" x="7148.7" y="3951.8" />
+  <object gid="125" height="446" id="7062" width="234" x="7114.7" y="3924.5" />
+  <object gid="120" height="462" id="7063" width="233" x="7135.2" y="4184.9" />
+  <object gid="125" height="446" id="7064" width="234" x="6633.2" y="3266.6" />
+  <object gid="124" height="377" id="7065" width="229" x="7081.7" y="3708.6" />
+  <object gid="120" height="462" id="7066" width="233" x="7093.2" y="4390.9" />
+  <object gid="119" height="379" id="7067" width="213" x="6829.7" y="3576.5" />
+  <object gid="120" height="462" id="7068" width="233" x="7256.2" y="2888.8" />
+  <object gid="119" height="379" id="7069" width="213" x="6636.5" y="3460.9" />
+  <object gid="120" height="462" id="7070" width="233" x="6977.5" y="3528.1" />
+  <object gid="118" height="316" id="7071" width="230" x="7143" y="2571.5" />
+  <object gid="123" height="272" id="7072" width="224" x="6521.7" y="3029" />
+  <object gid="119" height="379" id="7073" width="213" x="6578.5" y="3219.7" />
+  <object gid="123" height="272" id="7074" width="224" x="6533.9" y="3104.7" />
+  <object gid="124" height="377" id="7075" width="229" x="6642.6" y="3304.3" />
+  <object gid="123" height="272" id="7076" width="224" x="6744.9" y="3400.3" />
+  <object gid="125" height="446" id="7077" width="234" x="7285.1" y="2849.75" />
+  <object gid="119" height="379" id="7078" width="213" x="6572.5" y="2687.95" />
+  <object gid="124" height="377" id="7079" width="229" x="6712.6" y="2660.85" />
+  <object gid="125" height="446" id="7080" width="234" x="6856.2" y="2463.95" />
+  <object gid="124" height="377" id="7081" width="229" x="6939.7" y="2967.45" />
+  <object gid="124" height="377" id="7082" width="229" x="6888.8" y="2862.65" />
+  <object gid="120" height="462" id="7083" width="233" x="6699.2" y="2893.95" />
+  <object gid="125" height="446" id="7084" width="234" x="6792.3" y="3247.2" />
+  <object gid="124" height="377" id="7085" width="229" x="6843.9" y="3019.5" />
+  <object gid="124" height="377" id="7086" width="229" x="6849.7" y="3157.2" />
+  <object gid="125" height="446" id="7087" width="234" x="7331.84" y="2710.41" />
+  <object gid="118" height="316" id="7088" width="230" x="6954.1" y="2721.75" />
+  <object gid="120" height="462" id="7089" width="233" x="6703.7" y="3045.5" />
+  <object gid="125" height="446" id="7090" width="234" x="6969.9" y="3307.9" />
+  <object gid="119" height="379" id="7091" width="213" x="7002.2" y="3161.3" />
+  <object gid="124" height="377" id="7092" width="229" x="7142.4" y="3134.2" />
+  <object gid="125" height="446" id="7093" width="234" x="7108.3" y="3106.9" />
+  <object gid="120" height="462" id="7094" width="233" x="7128.8" y="3367.3" />
+  <object gid="125" height="446" id="7095" width="234" x="6626.8" y="2449.05" />
+  <object gid="124" height="377" id="7096" width="229" x="7075.4" y="2891.05" />
+  <object gid="120" height="462" id="7097" width="233" x="7087" y="3573.3" />
+  <object gid="125" height="446" id="7098" width="234" x="6345" y="2101.75" />
+  <object gid="119" height="379" id="7099" width="213" x="6377.3" y="1955.15" />
+  <object gid="124" height="377" id="7100" width="229" x="6517.5" y="1928.05" />
+  <object gid="125" height="446" id="7101" width="234" x="7097.63" y="1913.28" />
+  <object gid="124" height="377" id="7102" width="229" x="6744.6" y="2234.65" />
+  <object gid="124" height="377" id="7103" width="229" x="6693.5" y="2129.85" />
+  <object gid="120" height="462" id="7104" width="233" x="6503.9" y="2161.15" />
+  <object gid="124" height="377" id="7105" width="229" x="6648.8" y="2286.75" />
+  <object gid="124" height="377" id="7106" width="229" x="6654.6" y="2424.45" />
+  <object gid="120" height="462" id="7109" width="233" x="7300.4" y="2120.75" />
+  <object gid="125" height="446" id="7110" width="234" x="6774.8" y="2575.15" />
+  <object gid="119" height="379" id="7111" width="213" x="6806.9" y="2428.55" />
+  <object gid="124" height="377" id="7112" width="229" x="6947.2" y="2401.45" />
+  <object gid="125" height="446" id="7113" width="234" x="6913.1" y="2374.15" />
+  <object gid="120" height="462" id="7114" width="233" x="6933.6" y="2634.55" />
+  <object gid="119" height="379" id="7117" width="213" x="6608.8" y="1973.35" />
+  <object gid="120" height="462" id="7118" width="233" x="6290.6" y="1726.45" />
+  <object gid="119" height="379" id="7119" width="213" x="6415.8" y="1857.75" />
+  <object gid="124" height="377" id="7478" width="229" x="4115.01" y="4830.83" />
+  <object gid="124" height="377" id="7479" width="229" x="4210.71" y="4930.83" />
+  <object gid="120" height="462" id="7480" width="233" x="4021.11" y="4962.13" />
+  <object gid="119" height="379" id="7481" width="213" x="3494.92" y="4634.32" />
+  <object gid="123" height="272" id="7482" width="224" x="3429.11" y="4479.93" />
+  <object gid="124" height="377" id="7483" width="229" x="3520.11" y="4363.83" />
+  <object gid="124" height="377" id="7484" width="229" x="3558.92" y="4718.92" />
+  <object gid="125" height="446" id="7485" width="234" x="3967.51" y="5110.63" />
+  <object gid="122" height="203" id="7486" width="215" x="3673.11" y="4473.13" />
+  <object gid="119" height="379" id="7487" width="213" x="3735.71" y="4404.83" />
+  <object gid="118" height="316" id="7488" width="230" x="3727.01" y="4676.73" />
+  <object gid="123" height="272" id="7489" width="224" x="3805.01" y="4536.53" />
+  <object gid="124" height="377" id="7490" width="229" x="4165.91" y="5087.73" />
+  <object gid="124" height="377" id="7491" width="229" x="3998.91" y="4588.03" />
+  <object gid="120" height="462" id="7492" width="233" x="3908.81" y="4774.33" />
+  <object gid="124" height="377" id="7493" width="229" x="3732.81" y="4805.53" />
+  <object gid="123" height="272" id="7494" width="224" x="3566.22" y="4854.12" />
+  <object gid="124" height="377" id="7495" width="229" x="3886.11" y="4361.13" />
+  <object gid="122" height="203" id="7496" width="215" x="4039.11" y="4470.43" />
+  <object gid="119" height="379" id="7497" width="213" x="4101.61" y="4402.13" />
+  <object gid="118" height="316" id="7498" width="230" x="4093.01" y="4674.03" />
+  <object gid="123" height="272" id="7499" width="224" x="4171.01" y="4533.83" />
+  <object gid="124" height="377" id="7500" width="229" x="4651.51" y="5053.43" />
+  <object gid="124" height="377" id="7501" width="229" x="4356.11" y="5126.13" />
+  <object gid="120" height="462" id="7502" width="233" x="4351.61" y="4766.83" />
+  <object gid="125" height="446" id="7503" width="234" x="4346.51" y="4922.23" />
+  <object gid="122" height="203" id="7504" width="215" x="4418.61" y="4826.33" />
+  <object gid="119" height="379" id="7505" width="213" x="4481.11" y="4758.03" />
+  <object gid="118" height="316" id="7506" width="230" x="4472.41" y="5029.93" />
+  <object gid="123" height="272" id="7507" width="224" x="4550.51" y="4889.73" />
+  <object gid="120" height="462" id="7508" width="233" x="3832.51" y="4963.33" />
+  <object gid="124" height="377" id="7509" width="229" x="4692.14" y="4944.27" />
+  <object gid="124" height="377" id="7510" width="229" x="4787.84" y="5044.27" />
+  <object gid="120" height="462" id="7511" width="233" x="4650.96" y="4931.93" />
+  <object gid="124" height="377" id="7512" width="229" x="4795.76" y="5057.53" />
+  <object gid="124" height="377" id="7513" width="229" x="4576.04" y="4701.47" />
+  <object gid="120" height="462" id="7514" width="233" x="4538.66" y="4744.13" />
+  <object gid="122" height="203" id="7515" width="215" x="4616.24" y="4583.87" />
+  <object gid="119" height="379" id="7516" width="213" x="4678.74" y="4515.57" />
+  <object gid="118" height="316" id="7517" width="230" x="4670.14" y="4787.47" />
+  <object gid="123" height="272" id="7518" width="224" x="4748.14" y="4647.27" />
+  <object gid="124" height="377" id="7519" width="229" x="5228.64" y="5166.87" />
+  <object gid="124" height="377" id="7520" width="229" x="4933.24" y="5239.57" />
+  <object gid="120" height="462" id="7521" width="233" x="4928.74" y="4880.27" />
+  <object gid="125" height="446" id="7522" width="234" x="4923.64" y="5035.67" />
+  <object gid="122" height="203" id="7523" width="215" x="4995.74" y="4939.77" />
+  <object gid="119" height="379" id="7524" width="213" x="5058.24" y="4871.47" />
+  <object gid="118" height="316" id="7525" width="230" x="5049.54" y="5143.37" />
+  <object gid="123" height="272" id="7526" width="224" x="5127.64" y="5003.17" />
+  <object gid="124" height="377" id="7527" width="229" x="5565.54" y="4877.47" />
+  <object gid="124" height="377" id="7528" width="229" x="5661.24" y="4977.37" />
+  <object gid="120" height="462" id="7529" width="233" x="5471.64" y="5008.77" />
+  <object gid="119" height="379" id="7530" width="213" x="4924.24" y="4641.47" />
+  <object gid="123" height="272" id="7531" width="224" x="4879.64" y="4526.47" />
+  <object gid="124" height="377" id="7532" width="229" x="4970.64" y="4410.37" />
+  <object gid="124" height="377" id="7533" width="229" x="4988.24" y="4726.07" />
+  <object gid="125" height="446" id="7534" width="234" x="5418.04" y="5157.17" />
+  <object gid="122" height="203" id="7535" width="215" x="5123.64" y="4519.67" />
+  <object gid="119" height="379" id="7536" width="213" x="5186.24" y="4451.37" />
+  <object gid="118" height="316" id="7537" width="230" x="5177.54" y="4723.27" />
+  <object gid="123" height="272" id="7538" width="224" x="5255.54" y="4583.07" />
+  <object gid="124" height="377" id="7539" width="229" x="5616.44" y="5134.27" />
+  <object gid="124" height="377" id="7540" width="229" x="5449.44" y="4634.57" />
+  <object gid="120" height="462" id="7541" width="233" x="5359.34" y="4820.97" />
+  <object gid="124" height="377" id="7542" width="229" x="5183.34" y="4852.17" />
+  <object gid="123" height="272" id="7543" width="224" x="4995.54" y="4861.27" />
+  <object gid="124" height="377" id="7544" width="229" x="5336.64" y="4407.67" />
+  <object gid="122" height="203" id="7545" width="215" x="5489.64" y="4517.07" />
+  <object gid="119" height="379" id="7546" width="213" x="5552.14" y="4448.77" />
+  <object gid="118" height="316" id="7547" width="230" x="5543.54" y="4720.67" />
+  <object gid="123" height="272" id="7548" width="224" x="5621.54" y="4580.37" />
+  <object gid="124" height="377" id="7549" width="229" x="6102.04" y="5100.07" />
+  <object gid="124" height="377" id="7550" width="229" x="5806.64" y="5172.67" />
+  <object gid="120" height="462" id="7551" width="233" x="5802.14" y="4813.47" />
+  <object gid="125" height="446" id="7552" width="234" x="5797.04" y="4968.77" />
+  <object gid="122" height="203" id="7553" width="215" x="5869.14" y="4872.87" />
+  <object gid="119" height="379" id="7554" width="213" x="5931.64" y="4804.67" />
+  <object gid="118" height="316" id="7555" width="230" x="5922.94" y="5076.57" />
+  <object gid="123" height="272" id="7556" width="224" x="6001.04" y="4936.27" />
+  <object gid="120" height="462" id="7557" width="233" x="5283.04" y="5009.87" />
+  <object gid="120" height="462" id="7558" width="233" x="7356.45" y="2507.13" />
+  <object gid="118" height="316" id="7559" width="230" x="7146.45" y="2198.63" />
+  <object gid="125" height="446" id="7560" width="234" x="7259.75" y="2457.67" />
+  <object gid="125" height="446" id="7561" width="234" x="6956.45" y="2082.28" />
+  <object gid="125" height="446" id="7562" width="234" x="7335.12" y="2304.5" />
+  <object gid="118" height="316" id="7563" width="230" x="7054.35" y="2340.08" />
+  <object gid="125" height="446" id="7564" width="234" x="6875.05" y="2193.48" />
+  <object gid="119" height="379" id="7565" width="213" x="6907.15" y="2046.88" />
+  <object gid="124" height="377" id="7566" width="229" x="7047.45" y="2019.77" />
+  <object gid="125" height="446" id="7567" width="234" x="7013.35" y="1992.47" />
+  <object gid="120" height="462" id="7568" width="233" x="7033.85" y="2252.88" />
+  <object gid="120" height="462" id="7569" width="233" x="7057" y="2053.53" />
+  <object gid="118" height="316" id="7570" width="230" x="6847" y="1745.03" />
+  <object gid="125" height="446" id="7571" width="234" x="6960.3" y="2004.07" />
+  <object gid="125" height="446" id="7572" width="234" x="6657" y="1628.68" />
+  <object gid="125" height="446" id="7573" width="234" x="6993" y="1734.77" />
+  <object gid="118" height="316" id="7574" width="230" x="6754.9" y="1886.48" />
+  <object gid="125" height="446" id="7575" width="234" x="6575.6" y="1739.88" />
+  <object gid="119" height="379" id="7576" width="213" x="6607.7" y="1593.28" />
+  <object gid="124" height="377" id="7577" width="229" x="6748" y="1566.17" />
+  <object gid="125" height="446" id="7578" width="234" x="6723.4" y="1505.27" />
+  <object gid="120" height="462" id="7579" width="233" x="6734.4" y="1799.28" />
+ </objectgroup>
+ <objectgroup id="6" name="role_layer" />
+ <objectgroup id="4" locked="1" name="collider_layer" visible="0">
+  <object id="7580" x="2100" y="8316">
+   <polygon points="56.8,-2544.8 81.8182,-7693.45 -1478.18,-7693.45 -1623.2,-3504.8" />
+  </object>
+  <object id="7581" x="1440" y="2040">
+   <polygon points="0,0 5640,0 4680,-1440 0,-1200" />
+  </object>
+  <object id="7584" x="6420" y="7236">
+   <polygon points="-65.6,-1606.4 0,-3960 -120,-6120 -240,-6600 600,-6840 827.2,-1923.2 792.8,-1520.8" />
+  </object>
+  <object id="7586" x="1860" y="4236">
+   <polygon points="0,0 1447.2,64.8 1453.6,-53.6 2156,-4 2290.4,125.6 2538.4,205.6 2611.2,76.8 2901.6,74.4 2945.6,-25.6 4022.4,81.6 4681.6,-377.6 4701.6,1226.4 -509.6,997.6" />
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="ui_layer" />
+</map>

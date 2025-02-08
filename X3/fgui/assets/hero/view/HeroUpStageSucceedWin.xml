@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,有技能,1,无技能" selected="0"/>
+  <displayList>
+    <loader id="n93_105pv" name="img_bg" xy="-125,-146" size="1000,1626" url="ui://7cvz7rmmdclxx" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <component id="n96_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="397,126" group="n88_dtss"/>
+    <loader id="n71_dtss" name="img_title" xy="397,126" pivot="0.5,0.5" anchor="true" size="326,68" group="n88_dtss" url="ui://38fa8c7503e415" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n97_bezo" name="n97" src="dtss67" fileName="img/shengjiechenggong_word.png" xy="398,124" pivot="0.5,0.5" anchor="true" size="241,53" group="n88_dtss"/>
+    <image id="n15_deb3" name="bgMask" src="6ihgv8l" fileName="img/sxcg_frame.png" xy="110,569" pivot="0.5,0" size="525,654" group="n88_dtss"/>
+    <image id="n16_deb3" name="n16" src="6ihgvvv1e3" fileName="img/dizuo.png" pkg="72zq62ea" xy="100,357" pivot="0.5,0.5" group="n88_dtss"/>
+    <component id="n91_odo5" name="anim" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="355,560" pivot="0.5,1" anchor="true" size="354,373" group="n88_dtss"/>
+    <image id="n24_deb3" name="n24" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="358,694" group="n95_n19g"/>
+    <component id="n79_dtss" name="stageOld" src="frvnv8m" fileName="btn/BtnStage.xml" xy="274,675" group="n95_n19g"/>
+    <component id="n25_deb3" name="stageNew" src="frvnv8m" fileName="btn/BtnStage.xml" xy="413,675" group="n95_n19g"/>
+    <group id="n95_n19g" name="stageP" xy="274,675" size="195,62" group="n88_dtss" advanced="true"/>
+    <list id="n81_dtss" name="list_attr" xy="115,750" size="521,210" group="n88_dtss" lineGap="1" defaultItem="ui://69f297486ihgv8f">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n74_dtss" name="btn_good" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="225,1138" size="300,122" group="n88_dtss">
+      <Button title="太棒了" titleColor="#fef2ba" titleFontSize="38" icon="ui://38fa8c75dtss59"/>
+    </component>
+    <text id="n83_dtss" name="T_skillUnlock" xy="321,968" pivot="0.5,0.5" size="107,36" group="n87_dtss" fontSize="26" color="#f7fcc4" align="center" vAlign="middle" text="技能解锁"/>
+    <component id="n89_dtss" name="skill" src="c8g7vvv1fo" fileName="item/HeroSkillItem.xml" xy="321,1008" group="n87_dtss" pkg="38fa8c75"/>
+    <group id="n87_dtss" name="G_skill" xy="321,968" size="107,164" group="n88_dtss" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <group id="n88_dtss" name="G_all" xy="100,92" size="543,1168" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n74_dtss" value="1"/>
+    <item time="0" type="Alpha" target="n74_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n81_dtss" value="1"/>
+    <item time="0" type="Alpha" target="n81_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n87_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n87_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n91_odo5" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n95_n19g" value="1"/>
+    <item time="0" type="Alpha" target="n95_n19g" value="0"/>
+    <item time="0" type="Scale" target="n71_dtss" value="0,0"/>
+    <item time="0" type="Scale" target="n91_odo5" tween="true" startValue="0,0" endValue="1,1" duration="10"/>
+    <item time="0" type="Scale" target="n97_bezo" value="0,0"/>
+    <item time="0" type="Size" target="n15_deb3" value="0,0"/>
+    <item time="3" type="Scale" target="n71_dtss" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="3" type="Scale" target="n97_bezo" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="8" type="Size" target="n15_deb3" tween="true" startValue="0,0" endValue="525,200" duration="6"/>
+    <item time="11" type="Alpha" target="n95_n19g" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="14" type="Alpha" target="n81_dtss" tween="true" startValue="0" endValue="1" duration="3"/>
+    <item time="14" type="Size" target="n15_deb3" tween="true" startValue="525,200" endValue="525,654" duration="5" ease="Circ.Out"/>
+    <item time="15" type="Alpha" target="n87_dtss" tween="true" startValue="0" endValue="1" duration="4"/>
+    <item time="18" type="Alpha" target="n74_dtss" tween="true" startValue="0" endValue="1" duration="2"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n74_dtss" value="1"/>
+    <item time="0" type="Alpha" target="n74_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n81_dtss" value="1"/>
+    <item time="0" type="Alpha" target="n81_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n87_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n87_dtss" value="0"/>
+    <item time="0" type="Alpha" target="n91_odo5" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Alpha" target="n95_n19g" value="1"/>
+    <item time="0" type="Alpha" target="n95_n19g" value="0"/>
+    <item time="0" type="Scale" target="n71_dtss" value="0,0"/>
+    <item time="0" type="Scale" target="n91_odo5" tween="true" startValue="0,0" endValue="1,1" duration="10"/>
+    <item time="0" type="Scale" target="n97_bezo" value="0,0"/>
+    <item time="0" type="Size" target="n15_deb3" value="0,0"/>
+    <item time="3" type="Scale" target="n71_dtss" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="3" type="Scale" target="n97_bezo" tween="true" startValue="3,3" endValue="1,1" duration="6" ease="Back.Out"/>
+    <item time="8" type="Size" target="n15_deb3" tween="true" startValue="0,0" endValue="525,200" duration="6"/>
+    <item time="11" type="Alpha" target="n95_n19g" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="14" type="Alpha" target="n81_dtss" tween="true" startValue="0" endValue="1" duration="3"/>
+    <item time="14" type="Size" target="n15_deb3" tween="true" startValue="525,200" endValue="525,654" duration="5" ease="Circ.Out"/>
+    <item time="18" type="Alpha" target="n74_dtss" tween="true" startValue="0" endValue="1" duration="2"/>
+  </transition>
+</component>

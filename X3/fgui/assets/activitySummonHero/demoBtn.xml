@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="91,113" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n50_d91a" name="n50" src="d91a31" fileName="img/shiwan_4.png" xy="0,0"/>
+    <text id="n51_d91a" name="n51" xy="20,79" size="52,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="试玩"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

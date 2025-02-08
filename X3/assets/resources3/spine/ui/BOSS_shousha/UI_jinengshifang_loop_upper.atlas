@@ -1,0 +1,146 @@
+
+UI_jinengshifang_loop_upper.png
+size: 454,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiuxu_loop100_add_00000
+  rotate: false
+  xy: 2, 498
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00001
+  rotate: false
+  xy: 2, 374
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00002
+  rotate: false
+  xy: 2, 250
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00003
+  rotate: false
+  xy: 2, 126
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00004
+  rotate: false
+  xy: 2, 2
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00005
+  rotate: false
+  xy: 230, 498
+  size: 111, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00006
+  rotate: false
+  xy: 230, 251
+  size: 110, 121
+  orig: 128, 128
+  offset: 9, 3
+  index: -1
+effect/jiuxu_loop100_add_00007
+  rotate: false
+  xy: 230, 128
+  size: 110, 121
+  orig: 128, 128
+  offset: 9, 3
+  index: -1
+effect/jiuxu_loop100_add_00008
+  rotate: false
+  xy: 342, 252
+  size: 110, 120
+  orig: 128, 128
+  offset: 9, 4
+  index: -1
+effect/jiuxu_loop100_add_00009
+  rotate: false
+  xy: 343, 502
+  size: 108, 118
+  orig: 128, 128
+  offset: 10, 5
+  index: -1
+effect/jiuxu_loop100_add_00010
+  rotate: false
+  xy: 343, 395
+  size: 63, 105
+  orig: 128, 128
+  offset: 14, 7
+  index: -1
+effect/jiuxu_loop100_add_00011
+  rotate: false
+  xy: 342, 9
+  size: 108, 119
+  orig: 128, 128
+  offset: 10, 4
+  index: -1
+effect/jiuxu_loop100_add_00012
+  rotate: false
+  xy: 342, 130
+  size: 110, 120
+  orig: 128, 128
+  offset: 9, 4
+  index: -1
+effect/jiuxu_loop100_add_00013
+  rotate: false
+  xy: 230, 5
+  size: 110, 121
+  orig: 128, 128
+  offset: 9, 3
+  index: -1
+effect/jiuxu_loop100_add_00014
+  rotate: false
+  xy: 230, 374
+  size: 111, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00015
+  rotate: false
+  xy: 116, 498
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00016
+  rotate: false
+  xy: 116, 374
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00017
+  rotate: false
+  xy: 116, 250
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00018
+  rotate: false
+  xy: 116, 126
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1
+effect/jiuxu_loop100_add_00019
+  rotate: false
+  xy: 116, 2
+  size: 112, 122
+  orig: 128, 128
+  offset: 8, 3
+  index: -1

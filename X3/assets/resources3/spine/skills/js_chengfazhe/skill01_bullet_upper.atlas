@@ -1,0 +1,83 @@
+
+skill01_bullet_upper.png
+size: 298,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill_bing_1
+  rotate: false
+  xy: 2, 82
+  size: 95, 67
+  orig: 113, 80
+  offset: 10, 7
+  index: -1
+images/effect/skill_dandao1_01
+  rotate: false
+  xy: 257, 60
+  size: 38, 34
+  orig: 64, 40
+  offset: 7, 4
+  index: -1
+images/effect/skill_dandao1_02
+  rotate: false
+  xy: 57, 46
+  size: 38, 34
+  orig: 64, 40
+  offset: 15, 4
+  index: -1
+images/effect/skill_dandao1_03
+  rotate: false
+  xy: 2, 46
+  size: 53, 34
+  orig: 64, 40
+  offset: 7, 4
+  index: -1
+images/effect/skill_dandao1_04
+  rotate: false
+  xy: 201, 60
+  size: 54, 34
+  orig: 64, 40
+  offset: 7, 4
+  index: -1
+images/effect/skill_dandao1_05
+  rotate: false
+  xy: 256, 24
+  size: 38, 34
+  orig: 64, 40
+  offset: 15, 4
+  index: -1
+images/effect/skill_dandao1_06
+  rotate: false
+  xy: 201, 24
+  size: 53, 34
+  orig: 64, 40
+  offset: 7, 4
+  index: -1
+images/effect/skill_dandao_00000
+  rotate: false
+  xy: 99, 44
+  size: 100, 50
+  orig: 120, 63
+  offset: 7, 6
+  index: -1
+images/effect/skill_dandao_00001
+  rotate: false
+  xy: 200, 96
+  size: 96, 53
+  orig: 120, 63
+  offset: 11, 6
+  index: -1
+images/effect/skill_dandao_00002
+  rotate: false
+  xy: 99, 97
+  size: 99, 52
+  orig: 120, 63
+  offset: 7, 5
+  index: -1
+images/effect/skill_dandao_00003
+  rotate: false
+  xy: 2, 2
+  size: 99, 40
+  orig: 120, 63
+  offset: 8, 11
+  index: -1

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="126,51" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n14_k045" name="n14" src="430e6" fileName="img/qieye1.png" xy="-1,5">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <image id="n9_430e" name="n9" src="430e7" fileName="img/qieye2_13.png" xy="0,10">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <text id="n11_430e" name="T_day" xy="24,16" pivot="0.5,0.5" size="69,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#3b2a68" strokeSize="2" text="第二天">
+      <gearDisplay controller="button" pages="0"/>
+    </text>
+    <text id="n15_k045" name="T_day2" xy="24,16" pivot="0.5,0.5" size="69,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="2" text="第一天">
+      <gearDisplay controller="button" pages="1"/>
+    </text>
+    <text id="n17_k045" name="T_day3" xy="24,16" size="69,32" visible="false" fontSize="22" color="#98a9f5" vAlign="middle" strokeColor="#000000" strokeSize="3" text="第三天"/>
+    <image id="n16_k045" name="img_suo" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="97,1" scale="0.5,0.5"/>
+    <loader id="n21_k045" name="img_tips" xy="22,-51" pivot="1,0.5" size="130,51" group="n20_k045" url="ui://38fa8c75tml513c" align="right" fill="scaleFree"/>
+    <richtext id="n22_k045" name="T_tips" xy="25,-44" pivot="0.5,0.5" size="124,28" group="n20_k045" fontSize="19" color="#e27500" align="center" vAlign="middle" ubb="true" vars="true" text="VIP6提前解锁"/>
+    <group id="n20_k045" name="gp_tips" xy="22,-51" size="130,51" visible="false" advanced="true"/>
+    <component id="n23_s8ul" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="111,15"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,138">
+  <controller name="c1" pages="0,未完成,1,已完成,2,已领取" selected="0"/>
+  <displayList>
+    <image id="n55_c83b" name="n55" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="611,138"/>
+    <component id="n56_c83b" name="bar" src="ko814a" fileName="item/taskBar.xml" xy="131,82">
+      <ProgressBar max="100"/>
+    </component>
+    <text id="n59_c83b" name="T_taskDesc" xy="129,35" pivot="0,0.5" size="302,34" fontSize="24" color="#9eecff" vAlign="middle" autoSize="shrink" strokeColor="#013698" strokeSize="2" text="领取一次挂机奖励"/>
+    <component id="n79_ko81" name="btn_goto" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="435,35" size="161,74">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="前往" titleFontSize="30"/>
+    </component>
+    <component id="n80_ko81" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="19,18"/>
+    <component id="n81_ko81" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="435,35" size="161,74">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="领取" titleFontSize="30"/>
+    </component>
+    <image id="n82_ko81" name="n82" src="ko81vvv1kz" fileName="frameImage/ywc_tag.png" pkg="38fa8c75" xy="444,43">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+
+chongwu_hudun.png
+size: 77,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 2, 3
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1

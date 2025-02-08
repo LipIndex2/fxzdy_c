@@ -1,0 +1,139 @@
+
+skill01_start_upper.png
+size: 674,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_huo1upper_00000
+  rotate: true
+  xy: 529, 2
+  size: 114, 66
+  orig: 320, 90
+  offset: 197, 10
+  index: -1
+effect/skill01_huo1upper_00001
+  rotate: false
+  xy: 304, 118
+  size: 272, 69
+  orig: 320, 90
+  offset: 39, 7
+  index: -1
+effect/skill01_huo1upper_00002
+  rotate: false
+  xy: 2, 325
+  size: 303, 69
+  orig: 320, 90
+  offset: 8, 7
+  index: -1
+effect/skill01_huo1upper_00003
+  rotate: false
+  xy: 307, 325
+  size: 303, 69
+  orig: 320, 90
+  offset: 9, 7
+  index: -1
+effect/skill01_huo1upper_00004
+  rotate: false
+  xy: 2, 254
+  size: 302, 69
+  orig: 320, 90
+  offset: 9, 7
+  index: -1
+effect/skill01_huo1upper_00005
+  rotate: false
+  xy: 306, 254
+  size: 301, 69
+  orig: 320, 90
+  offset: 11, 7
+  index: -1
+effect/skill01_huo1upper_00006
+  rotate: false
+  xy: 2, 184
+  size: 300, 68
+  orig: 320, 90
+  offset: 11, 8
+  index: -1
+effect/skill01_huo1upper_00007
+  rotate: false
+  xy: 304, 189
+  size: 299, 63
+  orig: 320, 90
+  offset: 12, 13
+  index: -1
+effect/skill01_zhongxinhuoupper_00000
+  rotate: false
+  xy: 234, 33
+  size: 39, 22
+  orig: 240, 100
+  offset: 6, 32
+  index: -1
+effect/skill01_zhongxinhuoupper_00001
+  rotate: false
+  xy: 147, 23
+  size: 85, 32
+  orig: 240, 100
+  offset: 8, 20
+  index: -1
+effect/skill01_zhongxinhuoupper_00002
+  rotate: false
+  xy: 2, 17
+  size: 143, 39
+  orig: 240, 100
+  offset: 12, 14
+  index: -1
+effect/skill01_zhongxinhuoupper_00003
+  rotate: false
+  xy: 346, 7
+  size: 180, 52
+  orig: 240, 100
+  offset: 20, 13
+  index: -1
+effect/skill01_zhongxinhuoupper_00004
+  rotate: false
+  xy: 346, 61
+  size: 181, 55
+  orig: 240, 100
+  offset: 24, 13
+  index: -1
+effect/skill01_zhongxinhuoupper_00005
+  rotate: true
+  xy: 612, 219
+  size: 175, 60
+  orig: 240, 100
+  offset: 38, 14
+  index: -1
+effect/skill01_zhongxinhuoupper_00006
+  rotate: false
+  xy: 2, 121
+  size: 173, 61
+  orig: 240, 100
+  offset: 44, 14
+  index: -1
+effect/skill01_zhongxinhuoupper_00007
+  rotate: false
+  xy: 173, 57
+  size: 171, 59
+  orig: 240, 100
+  offset: 49, 16
+  index: -1
+effect/skill01_zhongxinhuoupper_00008
+  rotate: false
+  xy: 2, 58
+  size: 169, 61
+  orig: 240, 100
+  offset: 54, 16
+  index: -1
+effect/skill01_zhongxinhuoupper_00009
+  rotate: true
+  xy: 605, 51
+  size: 166, 59
+  orig: 240, 100
+  offset: 57, 19
+  index: -1
+effect/skill01_zhongxinhuoupper_00010
+  rotate: false
+  xy: 177, 133
+  size: 124, 49
+  orig: 240, 100
+  offset: 104, 29
+  index: -1

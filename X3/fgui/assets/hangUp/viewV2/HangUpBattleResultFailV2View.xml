@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kpocb4s">
+  <displayList>
+    <component id="n16_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,740" pivot="0.5,1" anchor="true" size="880,742"/>
+    <component id="n0_pocb" name="panel" src="iydi153" fileName="componentsV2/HangUpFailTips.xml" xy="98,631" pivot="0.5,0.8" size="558,279"/>
+    <text id="n18_iydi" name="labelTips" xy="306,1232" size="143,29" fontSize="20" color="#fffefe" singleLine="true" text="点击空白处关闭"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n0_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n18_iydi" value="0"/>
+    <item time="0" type="Size" target="n0_pocb" value="558,279"/>
+    <item time="0" type="XY" target="n0_pocb" value="98,800.002,0.131,0.6"/>
+    <item time="36" type="Alpha" target="n0_pocb" tween="true" startValue="0" endValue="1" duration="16"/>
+    <item time="36" type="Size" target="n0_pocb" tween="true" startValue="514,279" endValue="558,279" duration="16"/>
+    <item time="36" type="XY" target="n0_pocb" tween="true" startValue="98,700,0.131,0.525" endValue="98,632,0.131,0.474" duration="16"/>
+    <item time="52" type="Alpha" target="n18_iydi" tween="true" startValue="0" endValue="1" duration="8"/>
+  </transition>
+</component>

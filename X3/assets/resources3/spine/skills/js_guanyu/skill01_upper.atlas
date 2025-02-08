@@ -1,0 +1,272 @@
+
+skill01_upper.png
+size: 1022,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_fang
+  rotate: false
+  xy: 990, 744
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+effect/daoguang_00000
+  rotate: true
+  xy: 872, 10
+  size: 47, 59
+  orig: 356, 300
+  offset: 307, 157
+  index: -1
+effect/daoguang_00001
+  rotate: false
+  xy: 2, 688
+  size: 351, 279
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/daoguang_00002
+  rotate: false
+  xy: 355, 688
+  size: 351, 279
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/daoguang_00003
+  rotate: true
+  xy: 708, 647
+  size: 320, 280
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/daoguang_00004
+  rotate: true
+  xy: 2, 477
+  size: 209, 278
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/daoguang_00005
+  rotate: true
+  xy: 525, 164
+  size: 140, 278
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/daoguang_00006
+  rotate: true
+  xy: 525, 80
+  size: 82, 269
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/daoguang_00007
+  rotate: true
+  xy: 796, 59
+  size: 69, 205
+  orig: 356, 300
+  offset: 3, 11
+  index: -1
+effect/dimian_00000
+  rotate: false
+  xy: 524, 19
+  size: 110, 59
+  orig: 300, 200
+  offset: 117, 8
+  index: -1
+effect/dimian_00001
+  rotate: false
+  xy: 242, 46
+  size: 158, 111
+  orig: 300, 200
+  offset: 104, 2
+  index: -1
+effect/dimian_00002
+  rotate: false
+  xy: 2, 153
+  size: 238, 159
+  orig: 300, 200
+  offset: 41, 0
+  index: -1
+effect/dimian_00003
+  rotate: false
+  xy: 282, 499
+  size: 263, 187
+  orig: 300, 200
+  offset: 14, 1
+  index: -1
+effect/dimian_00004
+  rotate: true
+  xy: 810, 385
+  size: 260, 182
+  orig: 300, 200
+  offset: 17, 3
+  index: -1
+effect/dimian_00005
+  rotate: false
+  xy: 282, 315
+  size: 259, 182
+  orig: 300, 200
+  offset: 17, 3
+  index: -1
+effect/dimian_00006
+  rotate: false
+  xy: 547, 463
+  size: 261, 182
+  orig: 300, 200
+  offset: 17, 1
+  index: -1
+effect/dimian_00007
+  rotate: false
+  xy: 2, 314
+  size: 262, 161
+  orig: 300, 200
+  offset: 16, 24
+  index: -1
+effect/dimian_00008
+  rotate: false
+  xy: 543, 306
+  size: 262, 155
+  orig: 300, 200
+  offset: 16, 30
+  index: -1
+effect/dimian_00009
+  rotate: false
+  xy: 266, 159
+  size: 257, 154
+  orig: 300, 200
+  offset: 18, 31
+  index: -1
+effect/dimian_00010
+  rotate: true
+  xy: 807, 130
+  size: 253, 145
+  orig: 300, 200
+  offset: 22, 35
+  index: -1
+effect/dimian_00011
+  rotate: true
+  xy: 2, 22
+  size: 129, 134
+  orig: 300, 200
+  offset: 21, 47
+  index: -1
+effect/skill_chilun
+  rotate: false
+  xy: 990, 840
+  size: 29, 30
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+effect/skill_cihua_00000
+  rotate: false
+  xy: 990, 772
+  size: 22, 33
+  orig: 80, 80
+  offset: 18, 29
+  index: -1
+effect/skill_cihua_00001
+  rotate: false
+  xy: 261, 2
+  size: 40, 42
+  orig: 80, 80
+  offset: 18, 20
+  index: -1
+effect/skill_cihua_00002
+  rotate: true
+  xy: 933, 6
+  size: 51, 52
+  orig: 80, 80
+  offset: 15, 14
+  index: -1
+effect/skill_cihua_00003
+  rotate: true
+  xy: 954, 213
+  size: 64, 62
+  orig: 80, 80
+  offset: 7, 7
+  index: -1
+effect/skill_cihua_00004
+  rotate: false
+  xy: 138, 15
+  size: 72, 64
+  orig: 80, 80
+  offset: 1, 2
+  index: -1
+effect/skill_cihua_00005
+  rotate: true
+  xy: 954, 147
+  size: 64, 55
+  orig: 80, 80
+  offset: 7, 13
+  index: -1
+effect/skill_cihua_00006
+  rotate: false
+  xy: 138, 81
+  size: 76, 70
+  orig: 80, 80
+  offset: 0, 3
+  index: -1
+effect/skill_cihua_00007
+  rotate: false
+  xy: 990, 905
+  size: 25, 62
+  orig: 80, 80
+  offset: 14, 12
+  index: -1
+effect/skill_cihua_00008
+  rotate: true
+  xy: 990, 872
+  size: 31, 30
+  orig: 80, 80
+  offset: 24, 3
+  index: -1
+effect/xishou_00000
+  rotate: true
+  xy: 990, 807
+  size: 31, 25
+  orig: 60, 110
+  offset: 22, 82
+  index: -1
+effect/xishou_00001
+  rotate: true
+  xy: 726, 10
+  size: 47, 71
+  orig: 60, 110
+  offset: 6, 36
+  index: -1
+effect/xishou_00002
+  rotate: false
+  xy: 954, 279
+  size: 47, 104
+  orig: 60, 110
+  offset: 6, 3
+  index: -1
+effect/xishou_00003
+  rotate: true
+  xy: 636, 34
+  size: 44, 88
+  orig: 60, 110
+  offset: 8, 3
+  index: -1
+effect/xishou_00004
+  rotate: true
+  xy: 799, 14
+  size: 43, 71
+  orig: 60, 110
+  offset: 9, 3
+  index: -1
+effect/xishou_00005
+  rotate: true
+  xy: 212, 2
+  size: 42, 47
+  orig: 60, 110
+  offset: 10, 4
+  index: -1
+effect/xuanzhuan
+  rotate: true
+  xy: 402, 36
+  size: 121, 120
+  orig: 128, 128
+  offset: 6, 0
+  index: -1

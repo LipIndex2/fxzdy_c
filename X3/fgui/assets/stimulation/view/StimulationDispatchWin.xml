@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n34_str8" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="34,269" size="682,790" group="n33_str8"/>
+    <image id="n0_4651" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="34,269" size="682,790" group="n33_str8"/>
+    <image id="n1_4651" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,361" size="638,668" group="n33_str8"/>
+    <image id="n2_4651" name="n2" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="70,610" size="610,405" group="n33_str8"/>
+    <component id="n36_lupe" name="n36" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1066" group="n33_str8"/>
+    <list id="n31_str8" name="listHero" xy="97,637" size="668,419" group="n33_str8" scale="0.83,0.83" layout="flow_hz" overflow="scroll" lineGap="20" colGap="48" defaultItem="ui://9c1945cestr856" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n32_str8" name="listPos" xy="370,488" pivot="0.5,0.5" anchor="true" size="564,170" group="n33_str8" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="34" defaultItem="ui://9c1945cestr857" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n35_str8" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="450,297" group="n33_str8"/>
+    <text id="n29_4651" name="lbTitle" xy="376,314" pivot="0.5,0.5" anchor="true" size="131,44" group="n33_str8" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="派遣英雄"/>
+    <group id="n33_str8" name="gAll" xy="34,269" size="731,887" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+info size=24 resizable=true colored=false
+common xadvance=48
+char id=49 img=pdp1v16u xoffset=0 yoffset=0 xadvance=0
+char id=66 img=pdp1v16v xoffset=0 yoffset=0 xadvance=0
+char id=50 img=pdp1v16w xoffset=0 yoffset=0 xadvance=0
+char id=51 img=pdp1v16x xoffset=0 yoffset=0 xadvance=0
+char id=52 img=pdp1v16y xoffset=0 yoffset=0 xadvance=0
+char id=53 img=pdp1v16z xoffset=0 yoffset=0 xadvance=0
+char id=54 img=pdp1v170 xoffset=0 yoffset=0 xadvance=0
+char id=55 img=pdp1v171 xoffset=0 yoffset=0 xadvance=0
+char id=56 img=pdp1v172 xoffset=0 yoffset=0 xadvance=0
+char id=57 img=pdp1v173 xoffset=0 yoffset=0 xadvance=0
+char id=75 img=pdp1v175 xoffset=0 yoffset=0 xadvance=0
+char id=48 img=pdp1v16t xoffset=0 yoffset=0 xadvance=0

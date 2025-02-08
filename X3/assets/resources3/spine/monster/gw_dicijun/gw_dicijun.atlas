@@ -1,0 +1,125 @@
+
+gw_dicijun.png
+size: 149,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dicijun_0
+  rotate: false
+  xy: 105, 10
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+dicijun_1
+  rotate: false
+  xy: 56, 8
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dicijun_10
+  rotate: false
+  xy: 134, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dicijun_11
+  rotate: false
+  xy: 134, 11
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dicijun_12
+  rotate: true
+  xy: 122, 23
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dicijun_13
+  rotate: false
+  xy: 84, 26
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+dicijun_14
+  rotate: false
+  xy: 69, 10
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dicijun_15
+  rotate: false
+  xy: 2, 17
+  size: 80, 31
+  orig: 80, 32
+  offset: 0, 1
+  index: -1
+dicijun_16
+  rotate: false
+  xy: 2, 11
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dicijun_2
+  rotate: true
+  xy: 88, 12
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dicijun_3
+  rotate: true
+  xy: 119, 10
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dicijun_4
+  rotate: false
+  xy: 28, 7
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dicijun_5
+  rotate: false
+  xy: 88, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dicijun_6
+  rotate: true
+  xy: 2, 3
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+dicijun_7
+  rotate: false
+  xy: 16, 8
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dicijun_8
+  rotate: true
+  xy: 138, 31
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+dicijun_9
+  rotate: false
+  xy: 42, 7
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1

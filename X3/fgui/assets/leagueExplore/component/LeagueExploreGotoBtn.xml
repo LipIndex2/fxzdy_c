@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="99,34" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n32_fdf1" name="n32" xy="0,0" size="99,34" fontSize="24" color="#19df51" vAlign="middle" underline="true" text="前往占领"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

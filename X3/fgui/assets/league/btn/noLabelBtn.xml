@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="57,58" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n23_h90v" name="icon" xy="0,0" size="57,58" url="ui://6be81224be1a90" autoSize="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

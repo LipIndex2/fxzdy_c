@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n68_ohdt" name="page1" src="ohdt3b" fileName="page/LimitPackPage1.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n69_ohdt" name="page2" src="ohdt3a" fileName="page/LimitPackPage2.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n74_qhev" name="page3" src="qhev45" fileName="page/LimitPackPage3.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n76_woe4" name="page4" src="nj014f" fileName="page/LimitPackPage4.xml" xy="0,0"/>
+    <component id="n10_cae0" name="btnPrev" src="ohdt3h" fileName="component/LimitPackPageBtn.xml" xy="24,788" pivot="0.5,0.5" anchor="true" group="n73_ohdt"/>
+    <component id="n70_ohdt" name="btnNext" src="ohdt3h" fileName="component/LimitPackPageBtn.xml" xy="730,788" pivot="0.5,0.5" anchor="true" group="n73_ohdt" rotation="180"/>
+    <list id="n71_ohdt" name="listTab" xy="375,1290" pivot="0.5,0.5" anchor="true" size="750,60" group="n73_ohdt" layout="row" overflow="scroll" scroll="horizontal" colGap="16" defaultItem="ui://1d0b8bbfohdt3i" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n73_ohdt" name="n73" xy="-16,738" size="786,582" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

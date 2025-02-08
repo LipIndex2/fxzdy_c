@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n40_ukhs" name="bg" xy="33,40" size="686,1214" group="n41_ipjz" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n39_ukhs" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="59,195" size="635,875" group="n41_ipjz"/>
+    <richtext id="n2_68b5" name="labelEmailCount" xy="60,147" size="630,32" group="n41_ipjz" fontSize="22" color="#ddfbff" align="center" ubb="true" vars="true" autoSize="none" singleLine="true" text="邮箱可容纳[color={colorHex=#62EE79}]{haveCount=0}/{maxCount=100}[/color]封邮件，请注意查收"/>
+    <component id="n26_68b5" name="btnGainAll" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="406,1100" group="n41_ipjz"/>
+    <component id="n28_68b5" name="btnDeleteRead" src="fsx56k" fileName="btn/BtnCancel.xml" pkg="38fa8c75" xy="122,1100" group="n41_ipjz"/>
+    <text id="n30_68b5" name="labelTitle" xy="343,70" size="67,44" group="n41_ipjz" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="邮件"/>
+    <list id="n38_fsx5" name="mailList" xy="71,198" size="614,868" group="n41_ipjz" overflow="scroll" lineGap="5" defaultItem="ui://e73d6e74fsx529" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <group id="n41_ipjz" name="n41" xy="33,40" size="686,1214" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n42_vdae" name="n42" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1267">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

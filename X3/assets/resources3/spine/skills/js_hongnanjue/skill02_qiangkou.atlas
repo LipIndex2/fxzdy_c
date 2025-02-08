@@ -1,0 +1,27 @@
+
+skill02_qiangkou.png
+size: 281,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_qiangkou_01
+  rotate: true
+  xy: 151, 2
+  size: 18, 24
+  orig: 150, 150
+  offset: 65, 65
+  index: -1
+effect/skill02_qiangkou_02
+  rotate: true
+  xy: 151, 22
+  size: 98, 128
+  orig: 150, 150
+  offset: 39, 7
+  index: -1
+effect/skill02_qiangkou_03
+  rotate: false
+  xy: 2, 21
+  size: 147, 99
+  orig: 150, 150
+  offset: 3, 27
+  index: -1

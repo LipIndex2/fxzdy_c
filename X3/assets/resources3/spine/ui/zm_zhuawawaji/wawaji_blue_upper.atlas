@@ -1,0 +1,41 @@
+
+wawaji_blue_upper.png
+size: 489,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bai
+  rotate: false
+  xy: 470, 76
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+images/effect/glow
+  rotate: false
+  xy: 256, 76
+  size: 188, 188
+  orig: 256, 256
+  offset: 34, 34
+  index: -1
+images/effect/guang
+  rotate: false
+  xy: 2, 12
+  size: 252, 252
+  orig: 256, 256
+  offset: 4, 0
+  index: -1
+images/effect/guangshu
+  rotate: false
+  xy: 256, 2
+  size: 212, 72
+  orig: 256, 128
+  offset: 0, 28
+  index: -1
+images/effect/kuangfaguang
+  rotate: false
+  xy: 2, 266
+  size: 485, 494
+  orig: 512, 512
+  offset: 14, 9
+  index: -1

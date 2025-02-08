@@ -1,0 +1,13 @@
+
+woerte_attack_bullet.png
+size: 24,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_01
+  rotate: false
+  xy: 2, 2
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,41" extention="Label">
+  <controller name="showAdd" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n15_pocb" name="progressBarItem" src="kp1o4i" fileName="header/comp/HeaderItemProgressBar.xml" xy="26,4" size="108,33" group="n18_pocb">
+      <ProgressBar max="100"/>
+    </component>
+    <image id="n12_j6z9" name="imageBuy" src="j6z932" fileName="iconImage/jia__btn.png" xy="68,27" group="n18_pocb">
+      <gearDisplay controller="showAdd" pages="1"/>
+    </image>
+    <text id="n16_pocb" name="labelTitle" xy="138,20" pivot="1,0.5" anchor="true" size="90,34" group="n18_pocb" fontSize="24" color="#fffefe" vAlign="middle" leading="0" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="0"/>
+    <loader id="n17_pocb" name="imageItem" xy="24,17" pivot="0.5,0.5" anchor="true" size="48,48" group="n18_pocb" url="ui://8982be53ual24h" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <group id="n18_pocb" name="n18" xy="0,-7" size="138,60"/>
+  </displayList>
+</component>

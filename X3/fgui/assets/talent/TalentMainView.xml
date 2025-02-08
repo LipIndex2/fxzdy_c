@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kkp3w59">
+  <controller name="canOneKey" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n1_e3a2" name="adapt_bg" src="pwoe2x" fileName="img/tuceng46.jpg" xy="375,523" pivot="0.5,0.5" anchor="true" size="919,1626" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_e3a2" name="barBgL" src="pwoe3x" fileName="progressBar/TalentFgProgressBar.xml" xy="6,310" size="372,920" group="n58_kp3w">
+      <relation target="" sidePair="height-height"/>
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n69_db4z" name="barBgR" src="db4z47" fileName="bar/TalentBgBarR.xml" xy="376,310" size="390,920" group="n58_kp3w">
+      <relation target="" sidePair="height-height"/>
+      <ProgressBar max="100"/>
+    </component>
+    <list id="n53_pwoe" name="talentList" xy="8,310" size="743,920" group="n58_kp3w" overflow="scroll" scrollBarFlags="128" lineGap="-122" defaultItem="ui://2cb2b961pwoe3t" vAlign="bottom" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n63_kp3w" name="header1" src="pwoev17z" fileName="header/HeadItemCompV2.xml" pkg="38fa8c75" xy="513,28" group="n52_pwoe"/>
+    <component id="n64_kp3w" name="header2" src="pwoev17z" fileName="header/HeadItemCompV2.xml" pkg="38fa8c75" xy="290,28" group="n52_pwoe"/>
+    <group id="n52_pwoe" name="headPart" xy="290,28" size="428,54" group="n58_kp3w"/>
+    <image id="n20_e3a2" name="n20" src="pwoe3d" fileName="img/sd_A_common_bossbt_frame.png" xy="164,141" group="n46_pwoe"/>
+    <text id="n22_e3a2" name="n22" xy="321,152" size="99,64" group="n46_pwoe" fontSize="48" color="#052664" align="center" vAlign="middle" singleLine="true" text="天赋"/>
+    <component id="n68_oc78" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="478,168" group="n46_pwoe"/>
+    <group id="n46_pwoe" name="tips" xy="164,141" size="414,89" group="n58_kp3w"/>
+    <image id="n23_e3a2" name="n23" src="pwoe3f" fileName="img/sd_A_common_liaotian_frame_3.png" xy="204,256" size="327,53" group="n44_pwoe"/>
+    <text id="n24_e3a2" name="labelLv" xy="209,261" pivot="0.5,0.5" size="317,42" group="n44_pwoe" fontSize="30" color="#acacc8" align="center" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="平均上阵等级: {lv=12}"/>
+    <group id="n44_pwoe" name="title" xy="204,256" size="327,53" group="n58_kp3w"/>
+    <component id="n71_db4z" name="btnOneKeyLvUp" src="db4z48" fileName="btn/TalentOneKeyLvUpBtn.xml" xy="-617,1062" group="n58_kp3w">
+      <gearXY controller="canOneKey" pages="0,1" values="-617,1062|49,1092"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n73_db4z" name="lvUpTalentTipsTop" src="db4z4c" fileName="btn/TalentRedDotTipsBtn.xml" xy="607,309" group="n58_kp3w">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n74_db4z" name="lvUpTalentTipsDown" src="db4z4c" fileName="btn/TalentRedDotTipsBtn.xml" xy="607,1108" group="n58_kp3w" scale="1,-1">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <group id="n58_kp3w" name="n58" xy="-617,28" size="1383,1202" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <component id="n67_ov08" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-2,-3" size="752,1228" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n65_ov08" name="confirmComp" src="kp1o24" fileName="TalentConfirmLvUpView.xml" xy="-204,284"/>
+    <component id="n59_kp3w" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

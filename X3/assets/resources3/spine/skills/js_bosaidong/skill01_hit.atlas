@@ -1,0 +1,118 @@
+
+skill01_hit.png
+size: 1491,1427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Effect/jinengbaodian_01
+  rotate: false
+  xy: 422, 2
+  size: 281, 263
+  orig: 512, 512
+  offset: 117, 98
+  index: -1
+images/Effect/jinengbaodian_02
+  rotate: false
+  xy: 829, 469
+  size: 333, 322
+  orig: 512, 512
+  offset: 95, 81
+  index: -1
+images/Effect/jinengbaodian_03
+  rotate: false
+  xy: 447, 723
+  size: 380, 332
+  orig: 512, 512
+  offset: 77, 75
+  index: -1
+images/Effect/jinengbaodian_04
+  rotate: false
+  xy: 933, 1053
+  size: 417, 372
+  orig: 512, 512
+  offset: 58, 31
+  index: -1
+images/Effect/jinengbaodian_05
+  rotate: false
+  xy: 483, 1057
+  size: 448, 368
+  orig: 512, 512
+  offset: 44, 35
+  index: -1
+images/Effect/jinengbaodian_06
+  rotate: false
+  xy: 2, 1073
+  size: 479, 352
+  orig: 512, 512
+  offset: 29, 49
+  index: -1
+images/Effect/jinengbaodian_07
+  rotate: false
+  xy: 2, 759
+  size: 443, 312
+  orig: 512, 512
+  offset: 36, 78
+  index: -1
+images/Effect/jinengbaodian_08
+  rotate: false
+  xy: 829, 793
+  size: 447, 258
+  orig: 512, 512
+  offset: 34, 107
+  index: -1
+images/Effect/jinengbaodian_09
+  rotate: true
+  xy: 465, 271
+  size: 450, 209
+  orig: 512, 512
+  offset: 33, 105
+  index: -1
+images/Effect/jinengbaodian_10
+  rotate: true
+  xy: 1278, 593
+  size: 458, 211
+  orig: 512, 512
+  offset: 29, 104
+  index: -1
+images/Effect/jinengbaodian_11
+  rotate: false
+  xy: 2, 296
+  size: 458, 211
+  orig: 512, 512
+  offset: 29, 104
+  index: -1
+images/Effect/jinengbaodian_12
+  rotate: false
+  xy: 676, 267
+  size: 460, 200
+  orig: 512, 512
+  offset: 28, 116
+  index: -1
+images/Effect/jinengbaodian_13
+  rotate: false
+  xy: 2, 509
+  size: 461, 212
+  orig: 512, 512
+  offset: 28, 104
+  index: -1
+images/Effect/jinengbaodian_14
+  rotate: true
+  xy: 1164, 133
+  size: 458, 200
+  orig: 512, 512
+  offset: 33, 116
+  index: -1
+images/Effect/jinengbaodian_15
+  rotate: false
+  xy: 2, 92
+  size: 418, 202
+  orig: 512, 512
+  offset: 73, 115
+  index: -1
+images/Effect/jinengbaodian_16
+  rotate: false
+  xy: 2, 747
+  size: 47, 10
+  orig: 512, 512
+  offset: 86, 205
+  index: -1

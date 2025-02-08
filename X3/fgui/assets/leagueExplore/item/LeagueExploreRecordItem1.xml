@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="626,194">
+  <controller name="attkState" pages="0,,1," selected="0">
+    <remark page="0" value="我是攻击方"/>
+    <remark page="1" value="我是防守方"/>
+  </controller>
+  <controller name="winState" pages="0,,1," selected="0">
+    <remark page="0" value="胜利"/>
+    <remark page="1" value="失败"/>
+  </controller>
+  <displayList>
+    <image id="n16_fdf1" name="n16" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="8,150" size="610,44" alpha="0.14"/>
+    <image id="n17_fdf1" name="n17" src="fdf154" fileName="img/beijing_27.png" xy="8,6"/>
+    <image id="n25_fdf1" name="n25" src="fdf158" fileName="img/sheng.png" xy="265,9">
+      <gearDisplay controller="winState" pages="0"/>
+    </image>
+    <image id="n43_gtlw" name="n43" src="fdf161" fileName="img/bai.png" xy="274,18">
+      <gearDisplay controller="winState" pages="1"/>
+    </image>
+    <component id="n26_fdf1" name="btnReport" src="gtlw12c" fileName="component/LeagueExploreReportBtn.xml" xy="294,102"/>
+    <component id="n38_gtlw" name="avatarMy" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="71,78" pivot="0.5,0.5" anchor="true" scale="0.9,0.9"/>
+    <component id="n39_gtlw" name="avatarEnemy" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="555,78" pivot="0.5,0.5" anchor="true" scale="0.9,0.9"/>
+    <image id="n36_fdf1" name="iconEnemyAttk" src="fdf165" fileName="img/gongjitubiao.png" xy="577,0">
+      <gearDisplay controller="attkState" pages="1"/>
+    </image>
+    <image id="n37_gtlw" name="iconMyAttk" src="fdf165" fileName="img/gongjitubiao.png" xy="0,0">
+      <gearDisplay controller="attkState" pages="0"/>
+    </image>
+    <richtext id="n40_gtlw" name="lbDes" xy="313,174" pivot="0.5,0.5" anchor="true" size="462,32" fontSize="22" color="#bcf4fc" align="center" vAlign="middle" ubb="true" text="[color=#FF5555]8级巨型工厂[/color]防守成功   2024/10/28 22:12:20"/>
+    <text id="n20_fdf1" name="lbMyName" xy="120,41" size="107,36" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#020202" strokeSize="2" text="星际恶霸"/>
+    <text id="n21_fdf1" name="lbMyLeague" xy="122,84" size="103,29" fontSize="20" color="#bcf4fc" vAlign="middle" strokeColor="#020202" strokeSize="2" text="星际村委会"/>
+    <text id="n41_gtlw" name="lbEnemyName" xy="506,41" pivot="1,0" anchor="true" size="107,36" fontSize="26" color="#ffffff" align="right" vAlign="middle" strokeColor="#020202" strokeSize="2" text="星际恶霸"/>
+    <text id="n42_gtlw" name="lbEnemyLeague" xy="506,84" pivot="1,0" anchor="true" size="103,29" fontSize="20" color="#bcf4fc" align="right" vAlign="middle" strokeColor="#020202" strokeSize="2" text="星际村委会"/>
+    <component id="n44_woyg" name="btnGoto" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="82,158" size="140,32">
+      <relation target="n40_gtlw" sidePair="left-left"/>
+    </component>
+  </displayList>
+</component>

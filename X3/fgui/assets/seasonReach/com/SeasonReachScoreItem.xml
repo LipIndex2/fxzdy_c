@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,188">
+  <displayList>
+    <image id="n0_pkn9" name="n0" src="74e59" fileName="img/liebiao.png" xy="0,0"/>
+    <text id="n7_pkn9" name="lbTask" xy="42,14" size="195,36" fontSize="26" color="#fbf5ff" vAlign="middle" text="目标积分：1000"/>
+    <text id="n8_pkn9" name="lbPro" xy="483,21" size="174,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="1800/1000"/>
+    <image id="n9_pkn9" name="imgGet" src="74e520" fileName="img/ylq_tag.png" xy="500,94"/>
+    <component id="n11_pkn9" name="btnGo" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="491,85" size="161,71">
+      <Button title="前往" titleFontSize="30"/>
+    </component>
+    <component id="n12_pkn9" name="btnGet" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="491,85" size="161,71">
+      <Button title="领取" titleFontSize="30"/>
+    </component>
+    <list id="n13_pkn9" name="listItems" xy="23,70" size="416,112" layout="row" overflow="scroll" scroll="horizontal" colGap="13" defaultItem="ui://38fa8c75pkn9192">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tkr2g69t">
+  <resources>
+    <component id="lupe116" name="FooterItem.xml" path="/ui/cmp/item/"/>
+    <component id="lupe0" name="CollectionsMainView.xml" path="/ui/view/"/>
+    <image id="lupe1" name="bg.png" path="/img/" scale="9grid" scale9grid="268,256,212,199"/>
+    <image id="lupe2" name="lanSe.png" path="/img/itemPedestal/"/>
+    <image id="lupe3" name="zi.png" path="/img/itemPedestal/"/>
+    <image id="lupe4" name="caiSe.png" path="/img/itemPedestal/"/>
+    <image id="lupe5" name="hongSe.png" path="/img/itemPedestal/"/>
+    <image id="lupe6" name="chengSe.png" path="/img/itemPedestal/"/>
+    <component id="lupe7" name="CollectionItem.xml" path="/ui/cmp/item/"/>
+    <image id="lupe9" name="scp_mzd.png" path="/img/"/>
+    <image id="lupea" name="zhezhao.png" path="/img/"/>
+    <image id="lupeb" name="kehecheng_60.png" path="/img/"/>
+    <component id="lupec" name="CollectionsItemsSubPage.xml" path="/ui/view/page/"/>
+    <image id="luped" name="guang.png" path="/img/"/>
+    <image id="lupee" name="taizi.png" path="/img/"/>
+    <component id="lupef" name="CollectionsListItem.xml" path="/ui/cmp/item/"/>
+    <component id="lupeg" name="CollectionsSetListItem.xml" path="/ui/cmp/item/"/>
+    <image id="lupeh" name="di2.png" path="/img/"/>
+    <image id="lupei" name="di1.png" path="/img/"/>
+    <component id="lupel" name="CollectionsSetSubPage.xml" path="/ui/view/page/"/>
+    <component id="lupem" name="CollectionsSetAttrDesc.xml" path="/ui/cmp/item/"/>
+    <component id="lupen" name="CollectionsSetEffActiveBtn.xml" path="/ui/cmp/btn/"/>
+    <component id="lupeo" name="CollectionSetItem.xml" path="/ui/cmp/item/"/>
+    <component id="lupep" name="CollectionsSetActiveWin.xml" path="/ui/win/"/>
+    <image id="lupes" name="di_39.png" path="/img/"/>
+    <image id="lupet" name="xin_35.png" path="/img/"/>
+    <component id="lupeu" name="CollectionInfoWin.xml" path="/ui/win/"/>
+    <image id="lupey" name="scp_qy2.png" path="/img/"/>
+    <image id="lupez" name="scp_qy1.png" path="/img/"/>
+    <component id="lupe13" name="CollectionsUpTabBtn.xml" path="/ui/cmp/btn/"/>
+    <component id="lupe14" name="CollectionItem2.xml" path="/ui/cmp/item/"/>
+    <component id="lupe15" name="CollectionsUpTipsWin.xml" path="/ui/win/"/>
+    <image id="lupe1c" name="shengxingchenggong.png" path="/img/"/>
+    <image id="lupe1d" name="sxcg_frame.png" path="/img/" scale="9grid" scale9grid="4,5,8,26"/>
+    <image id="lupe1f" name="scp_tz1.png" path="/img/footerIcons/" exported="true"/>
+    <image id="lupe1g" name="scp_tz2.png" path="/img/footerIcons/" exported="true"/>
+    <image id="lupe1h" name="scp_sc1.png" path="/img/footerIcons/" exported="true"/>
+    <image id="lupe1i" name="scp_sc2.png" path="/img/footerIcons/" exported="true"/>
+    <image id="pmhw117" name="shengjiechenggong_word.png" path="/img/"/>
+    <component id="pmhw118" name="CollectionUpTipsLVPanel.xml" path="/ui/win/UpTipsWin/"/>
+    <component id="pmhw119" name="CollectionsUpTipsStarPanel.xml" path="/ui/win/UpTipsWin/"/>
+    <component id="pmhw11a" name="CollectionBaseEffUpTipListItem.xml" path="/ui/win/UpTipsWin/"/>
+    <component id="6v98vvv1kd" name="CommonCollectionSkillInfoWin.xml" path="/ui/win/skill/"/>
+    <component id="6v98vvv1ke" name="SkillFeatureItem.xml" path="/ui/win/skill/"/>
+    <component id="6v98vvv1kf" name="TextItem.xml" path="/ui/win/skill/"/>
+    <component id="tafmvvv1kg" name="CollectionInfoContent.xml" path="/ui/win/"/>
+    <image id="6v98vvv1kh" name="lan.png" path="/img/infoBottm/"/>
+    <image id="6v98vvv1ki" name="cai.png" path="/img/infoBottm/"/>
+    <image id="6v98vvv1kj" name="hong.png" path="/img/infoBottm/"/>
+    <image id="6v98vvv1kk" name="huang.png" path="/img/infoBottm/"/>
+    <image id="6v98vvv1kl" name="zi.png" path="/img/infoBottm/"/>
+    <component id="xwdvvvv1km" name="CollectionsHubSubPage.xml" path="/ui/view/page/"/>
+    <image id="xwdvvvv1kn" name="changjing.jpg" path="/img/" scale="9grid" scale9grid="185,933,374,203"/>
+    <image id="xwdvvvv1ko" name="weixinanniu.png" path="/img/"/>
+    <image id="xwdvvvv1kp" name="sd_A_common_sjkj_bt.png" path="/img/"/>
+    <image id="xwdvvvv1kq" name="biaoti.png" path="/img/"/>
+    <image id="xwdvvvv1kr" name="xingzhuang20kaobei2.png" path="/img/"/>
+    <component id="xwdvvvv1ks" name="CharacterComp.xml" path="/ui/cmp/item/"/>
+    <image id="xwdvvvv1kt" name="shiyong9gong.png" path="/img/"/>
+    <image id="xwdvvvv1ku" name="sd_A_common_liaotian_frame_1.png" path="/img/"/>
+    <image id="xwdvvvv1kv" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <component id="xwdvvvv1kw" name="CharactorComp.xml" path="/ui/cmp/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

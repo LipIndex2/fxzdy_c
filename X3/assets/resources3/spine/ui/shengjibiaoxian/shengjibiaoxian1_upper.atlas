@@ -1,0 +1,27 @@
+
+shengjibiaoxian1_upper.png
+size: 282,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ef_shengjibiaoxian1_glo
+  rotate: false
+  xy: 2, 186
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/ef_shengjibiaoxian1_guangzhu
+  rotate: false
+  xy: 204, 24
+  size: 76, 362
+  orig: 76, 362
+  offset: 0, 0
+  index: -1
+images/ef_shengjibiaoxian1_line
+  rotate: true
+  xy: 2, 2
+  size: 20, 220
+  orig: 20, 220
+  offset: 0, 0
+  index: -1

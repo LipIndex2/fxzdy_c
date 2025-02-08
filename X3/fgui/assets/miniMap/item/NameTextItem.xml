@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="121,44" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n28_k045" name="n28" xy="0,0" size="121,44">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n26_773e" name="T_name" xy="0,10" size="142,34" fontSize="24" color="#ffffff" vAlign="middle" text="蒸汽星球111">
+      <gearDisplay controller="button" pages="0,1"/>
+      <gearColor controller="button" pages="1" values="#ffdc50,#000000" default="#ffffff,#000000"/>
+    </text>
+    <component id="n29_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="111,12" size="20,20" touchable="false" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="42,40" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n23_8301" name="bgGou" xy="20,20" pivot="0.5,0.5" anchor="true" size="40,40" url="ui://38fa8c75830116" fill="scaleFree"/>
+    <loader id="n24_8301" name="imageGou" xy="20,19" pivot="0.5,0.5" anchor="true" size="44,34" url="ui://38fa8c758qld1z" fill="scaleFree"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

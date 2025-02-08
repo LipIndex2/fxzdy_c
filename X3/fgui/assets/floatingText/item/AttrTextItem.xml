@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="513,76" pivot="0.5,0.5" anchor="true" opaque="false">
+  <displayList>
+    <text id="n19_bezo" name="T_attrCount" xy="256,38" pivot="0.5,0.5" anchor="true" size="82,36" fontSize="26" color="#6ef96a" align="right" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="12044"/>
+  </displayList>
+</component>

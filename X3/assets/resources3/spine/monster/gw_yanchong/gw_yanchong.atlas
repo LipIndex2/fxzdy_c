@@ -1,0 +1,251 @@
+
+gw_yanchong.png
+size: 253,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 57, 49
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 240, 33
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 138, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 220, 12
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 175, 51
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 188, 25
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 205, 21
+  size: 13, 13
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 117, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 205, 10
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 207, 36
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 152, 3
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 87, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 105, 49
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 196, 41
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 220, 23
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 205, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 190, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 190, 9
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 223, 35
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 167, 25
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 2, 42
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 65, 27
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 103, 2
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 141, 45
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 173, 6
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 43, 11
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 141, 25
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 240, 50
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+35
+  rotate: true
+  xy: 2, 2
+  size: 38, 39
+  orig: 41, 41
+  offset: 0, 2
+  index: -1
+4
+  rotate: false
+  xy: 57, 42
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 175, 41
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 65, 2
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 209, 49
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 95, 27
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 117, 26
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

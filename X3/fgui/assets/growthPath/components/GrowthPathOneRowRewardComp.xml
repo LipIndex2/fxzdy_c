@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="599,128" designImage="ui://7q3fcj1ktl0c6j" designImageOffsetX="-74" designImageOffsetY="-343" designImageAlpha="5">
+  <displayList>
+    <image id="n50_ed86" name="bg" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="600,128"/>
+    <image id="n51_ed86" name="fg" src="iuievvv1ca" fileName="bgImage/paimingframe.png" pkg="38fa8c75" xy="3,3" size="139,122"/>
+    <text id="n57_ed86" name="labelNoNum" xy="15,29" pivot="0.5,0.5" size="106,68" fontSize="46" color="#58c2ff" align="center" vAlign="middle" autoSize="none" strokeColor="#010e16" strokeSize="2" text="1"/>
+    <list id="n59_tl0c" name="itemList" xy="157,13" size="414,103" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

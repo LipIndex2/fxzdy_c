@@ -1,0 +1,34 @@
+
+map_wall_201.png
+size: 116,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: 180
+  xy: 2, 4
+  size: 93, 60
+  orig: 94, 61
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 97
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 23
+  size: 102, 66
+  orig: 105, 66
+  offset: 2, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 56
+  size: 111, 68
+  orig: 114, 68
+  offset: 2, 0
+  index: -1

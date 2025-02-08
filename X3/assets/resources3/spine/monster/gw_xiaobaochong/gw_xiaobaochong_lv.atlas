@@ -1,0 +1,97 @@
+
+gw_xiaobaochong_lv.png
+size: 76,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 28, 7
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 64, 56
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 64, 56
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 50, 56
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 62, 15
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 66, 28
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 50, 27
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 50, 37
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 64, 63
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 62, 4
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 63, 40
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 2, 27
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1

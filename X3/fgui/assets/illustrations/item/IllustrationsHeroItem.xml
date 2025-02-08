@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,345">
+  <displayList>
+    <loader id="n31_lhcv" name="bgLoader" xy="0,0" size="227,345" align="center" vAlign="middle"/>
+    <image id="n28_lhcv" name="iconSihouette" src="lhcv3e" fileName="img/silhouette_hero.png" xy="121,186" pivot="0.5,1" anchor="true"/>
+    <component id="n33_lhcv" name="btnBg" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="227,345"/>
+    <component id="n23_424b" name="btnScore" src="lhcv3r" fileName="btn/IllustrationsScoreBtn.xml" xy="21,263"/>
+    <list id="n32_lhcv" name="listStar" xy="113,230" pivot="0.5,0.5" anchor="true" size="200,32" scale="0.9,0.9" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n30_lhcv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="108,185" pivot="0.5,1" anchor="true"/>
+    <text id="n22_424b" name="lbName" xy="113,187" pivot="0.5,0.5" anchor="true" size="55,36" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#000205" strokeSize="3" text="赫娅"/>
+    <component id="n34_auyi" name="aniNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="113,172" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+</component>

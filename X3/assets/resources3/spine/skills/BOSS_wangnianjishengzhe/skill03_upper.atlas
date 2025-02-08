@@ -1,0 +1,132 @@
+
+skill03_upper.png
+size: 487,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/bt01
+  rotate: false
+  xy: 164, 252
+  size: 86, 120
+  orig: 256, 256
+  offset: 107, 92
+  index: -1
+images/effect/bt02
+  rotate: false
+  xy: 162, 99
+  size: 143, 151
+  orig: 256, 256
+  offset: 89, 88
+  index: -1
+images/effect/bt03
+  rotate: false
+  xy: 2, 252
+  size: 160, 182
+  orig: 256, 256
+  offset: 21, 52
+  index: -1
+images/effect/bt04
+  rotate: false
+  xy: 410, 45
+  size: 75, 101
+  orig: 256, 256
+  offset: 81, 96
+  index: -1
+images/effect/huan01
+  rotate: true
+  xy: 2, 82
+  size: 168, 158
+  orig: 256, 256
+  offset: 44, 44
+  index: -1
+images/effect/yan01
+  rotate: false
+  xy: 219, 410
+  size: 16, 24
+  orig: 128, 128
+  offset: 50, 22
+  index: -1
+images/effect/yan02
+  rotate: false
+  xy: 164, 375
+  size: 53, 59
+  orig: 128, 128
+  offset: 33, 21
+  index: -1
+images/effect/yan03
+  rotate: false
+  xy: 252, 374
+  size: 75, 60
+  orig: 128, 128
+  offset: 22, 21
+  index: -1
+images/effect/yan04
+  rotate: false
+  xy: 262, 2
+  size: 85, 64
+  orig: 128, 128
+  offset: 18, 21
+  index: -1
+images/effect/yan05
+  rotate: true
+  xy: 416, 265
+  size: 90, 66
+  orig: 128, 128
+  offset: 16, 21
+  index: -1
+images/effect/yan06
+  rotate: false
+  xy: 2, 10
+  size: 95, 70
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+images/effect/yan07
+  rotate: false
+  xy: 162, 23
+  size: 98, 74
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+images/effect/yan08
+  rotate: false
+  xy: 334, 357
+  size: 99, 77
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+images/effect/yan09
+  rotate: true
+  xy: 389, 148
+  size: 100, 78
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+images/effect/yan10
+  rotate: false
+  xy: 307, 68
+  size: 101, 78
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+images/effect/yan11
+  rotate: true
+  xy: 307, 148
+  size: 102, 80
+  orig: 128, 128
+  offset: 14, 21
+  index: -1
+images/effect/yan12
+  rotate: true
+  xy: 334, 252
+  size: 102, 80
+  orig: 128, 128
+  offset: 15, 21
+  index: -1
+images/effect/yan13
+  rotate: true
+  xy: 252, 252
+  size: 103, 80
+  orig: 128, 128
+  offset: 16, 21
+  index: -1

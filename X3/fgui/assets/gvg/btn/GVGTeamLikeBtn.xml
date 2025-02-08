@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,100" pivot="0.5,0.5" extention="Button" initName="btnTeamLike">
+  <displayList>
+    <image id="n123_ac45" name="n123" src="ac4571" fileName="img/sd_Rrukoutubiao_rk0012_icon.png" xy="3,0"/>
+    <text id="n124_hd60" name="n124" xy="6,70" pivot="0.5,0.5" size="77,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="布阵"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

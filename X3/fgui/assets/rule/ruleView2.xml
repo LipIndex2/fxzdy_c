@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <loader id="n0_7343" name="n0" xy="34,160" size="682,1014" group="n13_uazn" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n1_7343" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,247" size="638,902" group="n13_uazn"/>
+    <text id="n2_7343" name="title" xy="325,180" size="99,44" group="n13_uazn" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="竞技场"/>
+    <component id="n12_uazn" name="content" src="uazna" fileName="ruleContentCom.xml" xy="76,286" group="n13_uazn"/>
+    <group id="n13_uazn" name="n13" xy="34,160" size="682,1014"/>
+  </displayList>
+</component>

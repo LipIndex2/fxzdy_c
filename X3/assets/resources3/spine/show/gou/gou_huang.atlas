@@ -1,0 +1,188 @@
+
+gou_huang.png
+size: 500,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 418, 51
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 2, 49
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 83, 13
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 109, 8
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 351, 46
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 201, 18
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 2, 3
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 277, 35
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: 270
+  xy: 462, 133
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 116, 33
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 402, 92
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 462, 8
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: true
+  xy: 269, 10
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: true
+  xy: 172, 5
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: false
+  xy: 411, 10
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: true
+  xy: 370, 5
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 397, 27
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: 180
+  xy: 468, 31
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 76, 31
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 44, 30
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 339, 7
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 156, 34
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 11
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+goumohu2
+  rotate: true
+  xy: 237, 94
+  size: 186, 163
+  orig: 186, 165
+  offset: 0, 1
+  index: -1
+gutou
+  rotate: true
+  xy: 402, 183
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+mohu2
+  rotate: false
+  xy: 2, 91
+  size: 233, 189
+  orig: 233, 189
+  offset: 0, 0
+  index: -1

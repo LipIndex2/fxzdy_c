@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n39_f3sk" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-365" pivot="0,1" anchor="true" size="750,250" scale="1,-1" color="#413750">
+      <relation target="" sidePair="width-width,height-height,top-top"/>
+    </image>
+    <image id="n40_f3sk" name="bgB" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,1714" pivot="0,1" anchor="true" size="750,250" color="#413750">
+      <relation target="" sidePair="width-width,height-height,bottom-bottom"/>
+    </image>
+    <image id="n38_gsa5" name="adapt_bg" src="gsa52c" fileName="bg/bgLogin.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n37_llxc" name="login" src="hcpc25" fileName="subView/SevenDayLoginSubView.xml" xy="0,100">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

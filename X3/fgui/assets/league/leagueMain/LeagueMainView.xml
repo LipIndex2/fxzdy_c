@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n2_h90v" name="adapt_bg" src="qr2a11a" fileName="img/tiankong1.png" xy="0,-146" pivot="0.5,0.5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n6_qr2a" name="leagueList" src="be1a93" fileName="leagueList.xml" xy="0,0" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <loader id="n19_qr2a" name="bgPanel1" xy="372,891" pivot="0.5,0.5" anchor="true" size="1420,1178" group="n7_qr2a" url="ui://7cvz7rmmry80vv1i" autoSize="true"/>
+    <loader id="n20_qr2a" name="bgPanel2" xy="372,891" pivot="0.5,0.5" anchor="true" size="1420,1178" group="n7_qr2a" scale="0.7,0.7" url="ui://7cvz7rmmry80vv1i" autoSize="true"/>
+    <component id="n8_qr2a" name="btnPanel1" src="qr2a11h" fileName="leagueMain/btnPanel1.xml" xy="372,833" pivot="0.5,0.5" anchor="true" group="n7_qr2a"/>
+    <component id="n11_qr2a" name="btnPanel2" src="qr2a11i" fileName="leagueMain/btnPanel2.xml" xy="376,777" pivot="0.5,0.5" anchor="true" group="n7_qr2a" touchable="false"/>
+    <component id="n0_h90v" name="pMenu" src="h90v2l" fileName="leagueMain/com/leagueMenu.xml" xy="0,500" group="n7_qr2a">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n3_h90v" name="myLeagueCom" src="h90v2g" fileName="leagueMain/com/myLeagueCom.xml" xy="16,18" group="n5_wq7z"/>
+    <component id="n4_h90v" name="rankBtn" src="h90v2h" fileName="leagueMain/com/myLeagueRank.xml" xy="599,50" group="n5_wq7z"/>
+    <group id="n5_wq7z" name="n5" xy="16,18" size="704,136" group="n7_qr2a" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <group id="n7_qr2a" name="leagueMain" xy="-338,18" size="1420,1462" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+  <transition name="up">
+    <item time="0" type="Alpha" target="n11_qr2a" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="0" type="Alpha" target="n19_qr2a" tween="true" startValue="1" endValue="0" duration="11"/>
+    <item time="0" type="Alpha" target="n20_qr2a" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="0" type="Alpha" target="n8_qr2a" tween="true" startValue="1" endValue="0" duration="11"/>
+  </transition>
+  <transition name="down">
+    <item time="0" type="Alpha" target="n11_qr2a" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="0" type="Alpha" target="n19_qr2a" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n20_qr2a" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="0" type="Alpha" target="n8_qr2a" tween="true" startValue="0" endValue="1" duration="12"/>
+  </transition>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n3_h90v" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n4_h90v" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Scale" target="n11_qr2a" tween="true" startValue="0.5,0.5" endValue="1,1" duration="12"/>
+    <item time="0" type="Scale" target="n19_qr2a" tween="true" startValue="0.5,0.5" endValue="1,1" duration="12"/>
+    <item time="0" type="Scale" target="n20_qr2a" tween="true" startValue="0.45,0.45" endValue="0.7,0.7" duration="12"/>
+    <item time="0" type="Scale" target="n8_qr2a" tween="true" startValue="0.5,0.5" endValue="1,1" duration="12"/>
+    <item time="0" type="XY" target="n3_h90v" tween="true" startValue="-84,18" endValue="16,18" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n4_h90v" tween="true" startValue="699,50" endValue="599,50" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

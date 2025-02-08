@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="60" infinite="0" nextlayerid="9" nextobjectid="170" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="40">
+ <tileset columns="6" firstgid="1" name="map_ground_2102" tilecount="42" tileheight="120" tilewidth="200">
+  <image height="840" source="../mapTilesets/masterMap_01/map_ground_2102.png" width="1200" />
+ </tileset>
+ <tileset columns="0" firstgid="43" name="masterMap_01" tilecount="16" tileheight="629" tilewidth="535">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="120" source="../mapTilesets/masterMap_01/map_scene_2103.png" width="101" />
+  </tile>
+  <tile id="1">
+   <image height="302" source="../mapTilesets/masterMap_01/map_scene_2104.png" width="200" />
+  </tile>
+  <tile id="2">
+   <image height="116" source="../mapTilesets/masterMap_01/map_scene_2105.png" width="80" />
+  </tile>
+  <tile id="3">
+   <image height="88" source="../mapTilesets/masterMap_01/map_scene_2106.png" width="56" />
+  </tile>
+  <tile id="4">
+   <image height="69" source="../mapTilesets/masterMap_01/map_scene_2107.png" width="55" />
+  </tile>
+  <tile id="5">
+   <image height="495" source="../mapTilesets/masterMap_01/map_scene_2117.png" width="366" />
+  </tile>
+  <tile id="6">
+   <image height="160" source="../mapTilesets/masterMap_01/map_scene_2121.png" width="202" />
+  </tile>
+  <tile id="7">
+   <image height="223" source="../mapTilesets/masterMap_01/map_scene_2123.png" width="210" />
+  </tile>
+  <tile id="8">
+   <image height="629" source="../mapTilesets/masterMap_01/map_scene_2134.png" width="535" />
+  </tile>
+  <tile id="9">
+   <image height="154" source="../mapTilesets/masterMap_01/map_scene_2142.png" width="135" />
+  </tile>
+  <tile id="10">
+   <image height="115" source="../mapTilesets/masterMap_01/map_scene_2108.png" width="49" />
+  </tile>
+  <tile id="11">
+   <image height="134" source="../mapTilesets/masterMap_01/map_scene_2110.png" width="101" />
+  </tile>
+  <tile id="12">
+   <image height="104" source="../mapTilesets/masterMap_01/map_scene_2111.png" width="166" />
+  </tile>
+  <tile id="13">
+   <image height="145" source="../mapTilesets/masterMap_01/map_scene_2112.png" width="172" />
+  </tile>
+  <tile id="14">
+   <image height="215" source="../mapTilesets/masterMap_01/map_scene_2113.png" width="155" />
+  </tile>
+  <tile id="15">
+   <image height="509" source="../mapTilesets/masterMap_01/map_scene_2132.png" width="514" />
+  </tile>
+ </tileset>
+ <tileset columns="10" firstgid="59" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <tileset firstgid="229" source="../mapTilesets/masterMap_01.tsx" />
+ <tileset columns="5" firstgid="339" name="map_ground_duyechi" tilecount="15" tileheight="120" tilewidth="200">
+  <image height="360" source="../mapTilesets/masterMap_01/map_ground_duyechi.png" width="1000" />
+ </tileset>
+ <layer height="60" id="1" name="bottom_layer" width="40">
+  <data compression="zlib" encoding="base64">
+   eJztmTlz1EAQhft/gbmLAhOwOOPIODK8oXFoIMMm48hWkGHIODJ+BFWGRDa/hZ4qveLpeUbaLWaGDdRVr6SRZne/7dF094zMJptssly25XrnOreCbrvuVOL74DrpdNRpOyHc++X6XIlvg/iOB9hmdAx9G9eXynwt8dxwXXBdoWvHxPfE9b0yH4/tdddF12bHpb4NfD8q8zGHHlU1+Vrrj21KgXXenb93/a7Ex3NzbG6A76PrUyU+ZoMfZ6SWuKAzmTlScfia/C5YmAftmZXjQxwO331op+drTHMR/BnuNZY3/uE54zHEdZ4b7CNt8/OXO/7hOeM4HONL+UvPc8cX9R9fP7E+X2qsZ3T+P/lic4N9Go65498YH487GGJje9Tdyx3/OM6l+LRG0LGd299nuMnIBg78f+Z77Ppp/RoB45t6Fr+67lXie+R66Fq4djq9cD1z3bLTMfKqa991vwBfbHxhu67nrj3XN9cri+fmUnVfan6MfQZsOJaqq9gXy66DNDeX5kPejeXeZdul6j7OYzjqei3WVv+Vqvs0z6ZyV8p3uNZYmXUb88Xim8Y6rUlx/tLKzV/kAHAilmncW3Rif6PvgettQT6NZXskxL1gu9b3J/q+dr0pxNdaP9eP1egl63k1+I99OPab7OtafKv85vYKff/VeHzBeNOG8wf/F+5bYn9N/Yc9A7Sxj6Gxr5W+4TtK7K8pX4oHbexT8TmrsfzrS14fal3C93QtFMs5uess1Mmx/KH5LdWHWXPXMUN18k5EXEPDtyX5YLE6ma9pLuG6tkYduKqBT/dQ141v3f23Lny6T8hrEN4HKZ1PUhb2CQ+tnzuUTRXyyd1KfKnxVGm8bKze+xplwbsaCO9sdD7Xel/DtUE4nnddJl2K/IfA97QyH/yDd0nQZqRP7fchsZis4ns134csw6PcuffbUsZ1zpC4biyxH5gy1DlnO8XqnYW0H1j+/cBlbaje4fXyZJMF+wNfKrEr
+  </data>
+ </layer>
+ <layer height="60" id="8" name="water_layer" width="40">
+  <data compression="zlib" encoding="base64">
+   eJzt1ksKgDAMANH0jCr4Qb3/LazQRVCQSKGJMg+ydhBJFAEAAEBrXRLpy6zJu+Zuyk1DmZm+1+irQ1+dL/Utahdex2s36r6n8Xq30fv2/NzRMFvAbxNoRf8HRtuBJ8ue8bwv9P27z3JHuCEAAAAAgIgO1jAujQ==
+  </data>
+ </layer>
+ <layer height="60" id="2" name="road_layer" width="40">
+  <data compression="zlib" encoding="base64">
+   eJzt10kKgDAQBdG+hiM43f+KCiJqEKJ+sBupB73IrkgIJGYAAPjqvAMyCu+ADPqeGZcpDzMl694v7VK0/UvRp4ne19p6L2rvkIzo+0ifhj4NfRr6dpWd30x3pvmwj7PS0KehT0OfJnrf9qd4M/xDNPRp6NNE7xu8AwAAwC/NroIHvQ==
+  </data>
+ </layer>
+ <objectgroup id="3" name="player_layer">
+  <object id="29" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2915.1" y="5188.42">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800101" />
+   </properties>
+  </object>
+  <object id="30" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2807.21" y="4832.67">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800102" />
+   </properties>
+  </object>
+  <object id="31" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2620.84" y="4658.08">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800103" />
+   </properties>
+  </object>
+  <object id="32" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2401.12" y="4645.92">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800104" />
+   </properties>
+  </object>
+  <object id="33" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1632.41" y="4728.92">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800105" />
+   </properties>
+  </object>
+  <object id="34" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1174.92" y="4658.78">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800106" />
+   </properties>
+  </object>
+  <object id="35" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1073.01" y="4213.3">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800107" />
+   </properties>
+  </object>
+  <object id="158" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1082.42" y="3566.06">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800108" />
+   </properties>
+  </object>
+  <object id="159" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1183.75" y="3483.53">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800109" />
+   </properties>
+  </object>
+  <object id="160" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1301.75" y="3565.53">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800110" />
+   </properties>
+  </object>
+  <object id="161" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1799.12" y="3486.82">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800111" />
+   </properties>
+  </object>
+  <object id="162" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2438.49" y="3509.62">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800112" />
+   </properties>
+  </object>
+  <object id="163" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2684.82" y="3148.02">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800113" />
+   </properties>
+  </object>
+  <object id="164" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2579.28" y="2582.41">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800114" />
+   </properties>
+  </object>
+  <object id="165" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2283.2" y="1820.07">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800115" />
+   </properties>
+  </object>
+  <object id="166" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2260.97" y="1697.7">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800116" />
+   </properties>
+  </object>
+  <object id="167" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2352.8" y="1650.84">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800117" />
+   </properties>
+  </object>
+  <object id="168" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2426.59" y="1803.1">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="800118" />
+   </properties>
+  </object>
+  <object id="169" x="2824.24" y="6042.42">
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="ornament_layer">
+  <object gid="49" height="160" id="1" width="202" x="1680" y="2640" />
+  <object gid="49" height="160" id="2" width="202" x="1800" y="2640" />
+  <object gid="49" height="160" id="3" width="202" x="1800" y="2760" />
+  <object gid="49" height="160" id="4" width="202" x="1680" y="2760" />
+  <object gid="45" height="116" id="6" width="80" x="2040" y="720" />
+  <object gid="2147483692" height="302" id="7" width="200" x="1614.2" y="1311.8" />
+  <object gid="2147483691" height="120" id="8" width="101" x="3120" y="960" />
+  <object gid="2147483691" height="120" id="10" width="101" x="3120" y="840" />
+  <object gid="2147483693" height="116" id="11" width="80" x="3120" y="1080" />
+  <object gid="43" height="120" id="12" width="101" x="2970.93" y="2759.73" />
+  <object gid="43" height="120" id="13" width="101" x="3090.93" y="2759.73" />
+  <object gid="43" height="120" id="14" width="101" x="2280" y="2760" />
+  <object gid="45" height="116" id="15" width="80" x="2147" y="2747" />
+  <object gid="2147483691" height="120" id="18" width="101" x="1514.3" y="2149.7" />
+  <object gid="2147483691" height="120" id="19" width="101" x="1511.1" y="2016.9" />
+  <object gid="2147483700" height="154" id="20" width="135" x="3000" y="840" />
+  <object gid="2147483700" height="154" id="21" width="135" x="2880" y="840" />
+  <object gid="52" height="154" id="23" width="135" x="3120" y="2640" />
+  <object gid="52" height="154" id="24" width="135" x="3120" y="2520" />
+  <object gid="52" height="154" id="43" width="135" x="962.424" y="4926.06" />
+  <object gid="52" height="154" id="44" width="135" x="962.424" y="4806.06" />
+  <object gid="53" height="115" id="46" width="49" x="889.6" y="3282.4" />
+  <object gid="53" height="115" id="47" width="49" x="2872" y="3700" />
+  <object gid="58" height="509" id="49" width="514" x="1778.64" y="1040.45" />
+  <object gid="55" height="104" id="50" width="166" x="2002.3" y="853.21" />
+  <object gid="52" height="154" id="72" width="135" x="3170.68" y="4726.64" />
+  <object gid="52" height="154" id="73" width="135" x="3170.68" y="4606.64" />
+  <object gid="43" height="120" id="78" width="101" x="1028.42" y="4932.05" />
+  <object gid="43" height="120" id="79" width="101" x="1148.42" y="4932.05" />
+  <object gid="43" height="120" id="80" width="101" x="1268.15" y="4930.98" />
+  <object gid="53" height="115" id="87" width="49" x="2497.1" y="4898.9" />
+  <object gid="239" height="120" id="89" width="101" x="2168.77" y="5615.62" />
+  <object gid="239" height="120" id="90" width="101" x="2288.77" y="5615.62" />
+  <object gid="239" height="120" id="91" width="101" x="2408.77" y="5615.62" />
+  <object gid="239" height="120" id="92" width="101" x="3361.57" y="5622.82" />
+  <object gid="239" height="120" id="93" width="101" x="3481.57" y="5622.82" />
+  <object gid="2147483887" height="120" id="94" width="101" x="3619.3" y="5763.75" />
+  <object gid="2147483887" height="120" id="95" width="101" x="3619.3" y="5883.75" />
+  <object gid="2147483887" height="120" id="96" width="101" x="3619.3" y="6003.75" />
+  <object gid="2147483887" height="120" id="97" width="101" x="3619.3" y="6123.75" />
+  <object gid="254" height="313" id="98" width="358" x="2315.77" y="6101.62" />
+  <object gid="264" height="221" id="99" width="212" x="2189.3" y="6597.76" />
+  <object gid="264" height="221" id="100" width="212" x="2189.3" y="6477.76" />
+  <object gid="2147483909" height="215" id="101" width="186" x="2309.3" y="6597.76" />
+  <object gid="251" height="175" id="102" width="241" x="3438.07" y="5846.32" />
+  <object gid="250" height="52" id="103" width="59" x="3351.87" y="5888.52" />
+  <object gid="250" height="52" id="104" width="59" x="3464.07" y="5884.32" />
+  <object gid="252" height="356" id="105" width="371" x="3650.17" y="6666.22" />
+  <object gid="240" height="302" id="106" width="200" x="2638.17" y="6712.22" />
+  <object gid="239" height="120" id="107" width="101" x="2734.67" y="6621.72" />
+  <object gid="239" height="120" id="108" width="101" x="2854.67" y="6621.72" />
+  <object gid="239" height="120" id="109" width="101" x="2974.67" y="6621.72" />
+  <object gid="2147483887" height="120" id="110" width="101" x="2024.17" y="5791.22" />
+  <object gid="2147483887" height="120" id="111" width="101" x="2024.17" y="6031.22" />
+  <object gid="2147483887" height="120" id="112" width="101" x="2024.17" y="5911.22" />
+  <object gid="259" height="223" id="113" width="210" x="2165.3" y="5773.76" />
+  <object gid="248" height="145" id="114" width="172" x="2287.97" y="5768.42" />
+  <object gid="258" height="55" id="115" width="90" x="2098.57" y="6089.82" />
+  <object gid="258" height="55" id="116" width="90" x="3600.37" y="6314.02" />
+  <object gid="2147483906" height="55" id="117" width="90" x="3343.97" y="6572.42" />
+  <object gid="52" height="154" id="119" width="135" x="2642.5" y="5549" />
+  <object gid="52" height="154" id="120" width="135" x="2642.5" y="5429" />
+  <object gid="274" height="232" id="127" width="286" x="2153.33" y="4241.33" />
+  <object gid="273" height="35" id="128" width="66" x="1696.93" y="4101.73" />
+  <object gid="273" height="35" id="129" width="66" x="2337.47" y="4031.87" />
+  <object gid="246" height="134" id="130" width="101" x="2624.1" y="4413.9" />
+  <object gid="2147483924" height="128" id="131" width="206" x="2637.6" y="4330.4" />
+  <object gid="246" height="134" id="132" width="101" x="2612.3" y="3810.2" />
+  <object gid="2147483924" height="128" id="133" width="206" x="2636.6" y="3892.4" />
+  <object gid="2147483923" height="166" id="134" width="144" x="2400" y="4560" />
+  <object gid="2147483923" height="166" id="135" width="144" x="2280" y="4560" />
+  <object gid="2147483923" height="166" id="136" width="144" x="1800" y="4560" />
+  <object gid="2147483923" height="166" id="137" width="144" x="1680" y="4560" />
+  <object gid="276" height="128" id="138" width="206" x="1320" y="4200" />
+  <object gid="276" height="128" id="139" width="206" x="1320" y="4320" />
+  <object gid="276" height="128" id="140" width="206" x="1320" y="4080" />
+  <object gid="276" height="128" id="141" width="206" x="1320" y="3960" />
+  <object gid="2147483923" height="166" id="142" width="144" x="2338.13" y="3765.53" />
+  <object gid="2147483923" height="166" id="143" width="144" x="2218.13" y="3765.53" />
+  <object gid="2147483923" height="166" id="144" width="144" x="1738.13" y="3765.53" />
+  <object gid="2147483923" height="166" id="145" width="144" x="1618.13" y="3765.53" />
+  <object gid="246" height="134" id="146" width="101" x="1054.25" y="3202.75" />
+  <object gid="2147483924" height="128" id="147" width="206" x="1067.75" y="3119.25" />
+  <object gid="246" height="134" id="148" width="101" x="932.65" y="3196.35" />
+  <object gid="2147483924" height="128" id="149" width="206" x="946.15" y="3112.85" />
+  <object gid="248" height="145" id="150" width="172" x="2619.28" y="4133.37" />
+  <object gid="248" height="145" id="151" width="172" x="1071.6" y="2901.9" />
+  <object gid="248" height="145" id="152" width="172" x="1075.6" y="2329.9" />
+  <object gid="274" height="232" id="153" width="286" x="1429.12" y="2463.39" />
+  <object gid="273" height="35" id="154" width="66" x="1275.2" y="2556.8" />
+  <object gid="273" height="35" id="155" width="66" x="1760.8" y="3047.2" />
+  <object gid="273" height="35" id="156" width="66" x="2180.8" y="3023.2" />
+  <object gid="273" height="35" id="157" width="66" x="1684" y="3076" />
+ </objectgroup>
+ <objectgroup id="4" name="role_layer" />
+ <objectgroup id="5" locked="1" name="collider_layer">
+  <object id="51" x="1080" y="3240">
+   <polygon points="-396.667,7.33333 -396.4,-2875.6 491.6,-2755.6 493.533,-484.867 1324.07,-488.733 1321.87,3.46667" />
+  </object>
+  <object id="52" x="1440" y="2520">
+   <polygon points="0.533333,-9.86667 366.8,-10.8 366.267,359.067 0,360" />
+  </object>
+  <object id="53" x="1440.6" y="1115.4">
+   <polygon points="0,0 338.8,11.2 487,-149 462.8,-284.8 8,-610 -115.8,-310.2" />
+  </object>
+  <object id="54" x="2760" y="3960">
+   <polygon points="114.133,-7.46667 108.933,-1210.27 352.267,-1210.93 360,-3480 840,-3240 600,-360 240,120" />
+  </object>
+  <object id="55" x="3204" y="852">
+   <polygon points="0,0 -108.8,-123.2 -1712.8,-119.2 -1515.2,-792.8 115.6,-575.6 194.4,213.6" />
+  </object>
+  <object id="74" x="3000" y="3720">
+   <polygon points="0,0 -1680,0 -1680,720 240,720" />
+  </object>
+  <object id="121" x="840" y="3000">
+   <polygon points="0,0 2.15758,2415.54 -237.842,2295.54 -240,-120" />
+  </object>
+  <object id="122" x="720" y="4920">
+   <polygon points="0,0 1800,0 1800,720 720,720" />
+  </object>
+  <object id="123" x="3038" y="4382">
+   <polygon points="0,0 64.4,71.6 82,1258 682,1258 562,178 82,-182" />
+  </object>
+  <object id="124" x="3600" y="5520">
+   <polygon points="0,0 0,840 -240,840 -240,1200 240,1200 240,-120" />
+  </object>
+  <object id="125" x="2316.4" y="5551.6">
+   <polygon points="0,0 15.6,236.4 -54.8,242.8 -37.6,485.6 -268.4,480.4 -254.8,786.8 -134,790 -128.8,1248.8 -571.2,1207.2 -593.6,-238.4" />
+  </object>
+  <object id="126" x="1920" y="6600">
+   <polygon points="0,0 1800,0 1800,240 120,240" />
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="ui_layer" />
+</map>

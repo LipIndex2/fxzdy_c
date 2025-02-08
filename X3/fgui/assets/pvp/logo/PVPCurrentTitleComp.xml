@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="68,39">
+  <displayList>
+    <image id="n192_qlui" name="n192" src="b6a296" fileName="img/xingzhuang701kaobei.png" xy="0,0"/>
+    <text id="n193_qlui" name="labelCurrent" xy="33,20" pivot="0.5,0.5" anchor="true" size="52,34" fontSize="24" color="#fff6e1" align="center" vAlign="middle" singleLine="true" text="当前"/>
+  </displayList>
+</component>

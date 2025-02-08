@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="621c109b">
+  <resources>
+    <image id="95c23" name="liebiao_2.png" path="/img/"/>
+    <component id="95c221" name="TotalChargeView.xml" path="/view/"/>
+    <image id="ni0722" name="kflc_bg.jpg" path="/img/"/>
+    <component id="ni0723" name="TotalChargeItem.xml" path="/item/"/>
+    <image id="z7ud24" name="chaochaojifanli.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

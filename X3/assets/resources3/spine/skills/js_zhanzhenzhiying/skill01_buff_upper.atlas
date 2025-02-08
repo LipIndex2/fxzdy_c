@@ -1,0 +1,62 @@
+
+skill01_buff_upper.png
+size: 222,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_guangshu_00000
+  rotate: false
+  xy: 160, 22
+  size: 32, 19
+  orig: 256, 32
+  offset: 211, 5
+  index: -1
+effect/skill01_guangshu_00001
+  rotate: true
+  xy: 179, 44
+  size: 70, 25
+  orig: 256, 32
+  offset: 170, 2
+  index: -1
+effect/skill01_guangshu_00002
+  rotate: false
+  xy: 2, 89
+  size: 174, 25
+  orig: 256, 32
+  offset: 41, 2
+  index: -1
+effect/skill01_guangshu_00003
+  rotate: false
+  xy: 2, 64
+  size: 175, 23
+  orig: 256, 32
+  offset: 38, 3
+  index: -1
+effect/skill01_guangshu_00004
+  rotate: false
+  xy: 2, 43
+  size: 174, 19
+  orig: 256, 32
+  offset: 34, 5
+  index: -1
+effect/skill01_guangshu_00005
+  rotate: false
+  xy: 2, 24
+  size: 155, 17
+  orig: 256, 32
+  offset: 34, 6
+  index: -1
+effect/skill01_guangshu_00006
+  rotate: false
+  xy: 2, 6
+  size: 156, 16
+  orig: 256, 32
+  offset: 33, 7
+  index: -1
+effect/skill01_guangshu_00007
+  rotate: true
+  xy: 206, 2
+  size: 112, 14
+  orig: 256, 32
+  offset: 33, 8
+  index: -1

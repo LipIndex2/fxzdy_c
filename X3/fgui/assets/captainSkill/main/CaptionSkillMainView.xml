@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n36_ta4f" name="bg" xy="0,-146" size="750,1626" url="ui://7cvz7rmmwoygvv23" align="center" vAlign="middle">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n37_ta4f" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-190" pivot="0.5,0.5" anchor="true" size="750,250" color="#132239">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n38_ta4f" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1589" pivot="0.5,0.5" anchor="true" size="750,400" color="#3a4968" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n31_ta4f" name="bgTitle" src="06d73" fileName="img/sd_A_common_bossbt_frame.png" xy="168,29" group="n34_ta4f"/>
+    <text id="n32_ta4f" name="labelTitle" xy="242,40" size="269,64" group="n34_ta4f" fontSize="48" color="#052664" align="center" vAlign="middle" autoSize="none" singleLine="true" text="职业科技"/>
+    <component id="n33_ta4f" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="488,54" group="n34_ta4f"/>
+    <group id="n34_ta4f" name="titlePart" xy="168,29" size="414,89"/>
+    <list id="n35_ta4f" name="listHeaderItem" xy="589,98" size="140,150" lineGap="6" defaultItem="ui://07ac155bwoyg3l" autoClearItems="true">
+      <relation target="" sidePair="right-right,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n1_90b0" name="n1" src="ta4f3p" fileName="main/img/zykjyh_zx2.png" xy="155,249" group="n45_ta4f"/>
+    <image id="n2_90b0" name="n2" src="ta4f3q" fileName="main/img/zykjyh_zx1.png" xy="107,197" group="n45_ta4f"/>
+    <image id="n10_90b0" name="n10" src="ta4f3y" fileName="main/img/zykjyh_zhidi1.png" xy="303,575" group="n45_ta4f"/>
+    <text id="n11_90b0" name="lbLv" xy="374,600" pivot="0.5,0.5" anchor="true" size="99,39" group="n45_ta4f" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="Lv:200"/>
+    <component id="n39_ta4f" name="btn1" src="ta4f4b" fileName="main/CaptionSkillLvMainBtn.xml" xy="16,262" group="n45_ta4f"/>
+    <component id="n40_ta4f" name="btn2" src="ta4f4b" fileName="main/CaptionSkillLvMainBtn.xml" xy="552,262" group="n45_ta4f"/>
+    <component id="n41_ta4f" name="btn3" src="ta4f4b" fileName="main/CaptionSkillLvMainBtn.xml" xy="16,512" group="n45_ta4f"/>
+    <component id="n42_ta4f" name="btn4" src="ta4f4b" fileName="main/CaptionSkillLvMainBtn.xml" xy="552,512" group="n45_ta4f"/>
+    <component id="n43_ta4f" name="btn5" src="ta4f4b" fileName="main/CaptionSkillLvMainBtn.xml" xy="285,108" group="n45_ta4f"/>
+    <component id="n44_ta4f" name="btn6" src="ta4f4b" fileName="main/CaptionSkillLvMainBtn.xml" xy="285,650" group="n45_ta4f"/>
+    <component id="n50_ta4f" name="aniNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="370,379" group="n45_ta4f">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <group id="n45_ta4f" name="gCenter" xy="16,108" size="716,724" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n15_90b0" name="n15" src="105pvvv18i" fileName="bgImage/kpgm1_frame.png" pkg="38fa8c75" xy="0,868" size="750,855" group="n49_ta4f"/>
+    <image id="n16_90b0" name="n16" src="ta4f42" fileName="main/img/zykjyh_dilan.png" xy="24,972" group="n49_ta4f"/>
+    <text id="n25_90b0" name="n25" xy="379,944" pivot="0.5,0.5" anchor="true" size="226,39" group="n49_ta4f" fontSize="28" color="#ffe57c" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="所有英雄属性加成"/>
+    <image id="n26_90b0" name="n26" src="ta4f48" fileName="main/img/scale_90%_gongmingdengji.png" xy="225,845" size="303,69" group="n49_ta4f"/>
+    <text id="n27_90b0" name="lbLv2" xy="374,879" pivot="0.5,0.5" anchor="true" size="209,46" group="n49_ta4f" fontSize="34" color="#0266c3" align="center" vAlign="middle" text="核心等级 200"/>
+    <list id="n47_ta4f" name="listAttr" xy="121,995" size="508,167" group="n49_ta4f" overflow="scroll" scrollBarFlags="128" lineGap="16" defaultItem="ui://07ac155bta4f4c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n48_ta4f" name="btnUp" src="lg0pvvv1gi" fileName="btn/BtnChangGui1WithItemList1.xml" pkg="38fa8c75" xy="162,1203" size="434,117" group="n49_ta4f"/>
+    <group id="n49_ta4f" name="gBottom" xy="0,845" size="750,878" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n46_ta4f" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

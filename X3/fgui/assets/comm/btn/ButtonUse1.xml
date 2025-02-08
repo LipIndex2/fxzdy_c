@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,101" pivot="0.5,0.5" extention="Button">
+  <controller name="canUseState" pages="0,notCanUse,1,canUse" selected="0"/>
+  <displayList>
+    <image id="n17_pv7c" name="bgNotUse" src="pv7c6h" fileName="bgImage/image_btnUse_whenNoUse.png" xy="0,0">
+      <gearDisplay controller="canUseState" pages="0"/>
+    </image>
+    <image id="n19_ukhs" name="bgCanUse" src="dtss59" fileName="btnImage/changgui_btn.png" xy="0,0">
+      <gearDisplay controller="canUseState" pages="1"/>
+    </image>
+    <text id="n16_3cd6" name="Title" xy="13,23" size="201,56" fontSize="37" color="#fef2ba" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" text="使用"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

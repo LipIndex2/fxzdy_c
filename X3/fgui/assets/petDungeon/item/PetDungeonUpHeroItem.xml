@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="116,111">
+  <controller name="state" pages="0,,1,,2," selected="2">
+    <remark page="0" value="有英雄"/>
+    <remark page="1" value="空位置"/>
+    <remark page="2" value="未解锁"/>
+  </controller>
+  <displayList>
+    <loader id="n24_woyg" name="bgLoader" xy="10,7" size="104,104" group="n30_woyg" url="ui://38fa8c75f0d84" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n25_woyg" name="iconLoader" xy="17,14" size="90,90" group="n30_woyg" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n26_woyg" name="careerLoader" xy="0,0" size="44,44" group="n30_woyg" url="ui://38fa8c75cni66y" align="center" vAlign="middle" fill="scale"/>
+    <image id="n27_woyg" name="n27" src="dtss5p" fileName="frameImage/black2_msg.png" pkg="38fa8c75" xy="10,83" size="104,28" group="n30_woyg"/>
+    <image id="n20_bfe7" name="iconUpLock" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="90,4" size="26,31" group="n30_woyg"/>
+    <list id="n28_woyg" name="listStar" xy="62,97" pivot="0.5,0.5" anchor="true" size="171,32" group="n30_woyg" scale="0.5,0.5" layout="row" defaultItem="ui://38fa8c75dclx138" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n30_woyg" name="gHero" xy="-23,0" size="171,113" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+    <image id="n31_woyg" name="n31" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="10,7" size="104,104" group="n34_woyg" alpha="0.65"/>
+    <image id="n33_woyg" name="n33" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="41,38" size="42,42" group="n34_woyg"/>
+    <group id="n34_woyg" name="gEmpty" xy="10,7" size="104,104" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <loader id="n38_woyg" name="lockBgLoader" xy="10,7" size="104,104" group="n39_woyg" url="ui://38fa8c75f0d84" align="center" vAlign="middle" fill="scale"/>
+    <image id="n36_woyg" name="n36" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="61,36" pivot="0.5,0.5" anchor="true" group="n39_woyg" scale="0.6,0.6"/>
+    <text id="n37_woyg" name="lbLockTip" xy="61,91" pivot="0.5,0.5" anchor="true" size="93,26" group="n39_woyg" fontSize="18" color="#8df5ff" align="right" vAlign="middle" strokeColor="#000000" text="通关后解锁"/>
+    <text id="n40_gl0p" name="lbLock" xy="60,67" pivot="0.5,0.5" anchor="true" size="93,26" group="n39_woyg" fontSize="18" color="#8df5ff" align="right" vAlign="middle" strokeColor="#000000" text="通关后解锁"/>
+    <group id="n39_woyg" name="gLock" xy="10,5" size="104,106" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+    </group>
+  </displayList>
+</component>

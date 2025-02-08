@@ -1,0 +1,20 @@
+
+skill02_upper.png
+size: 144,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_fang
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effect/skill02_guang
+  rotate: false
+  xy: 2, 36
+  size: 140, 178
+  orig: 160, 200
+  offset: 10, 6
+  index: -1

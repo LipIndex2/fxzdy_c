@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1k7g4as7q" designImageOffsetY="-154" designImageAlpha="0">
+  <controller name="drawState" pages="0,,1,,2," selected="1">
+    <remark page="0" value="初始状态"/>
+    <remark page="1" value="有可领取"/>
+    <remark page="2" value="等待领取"/>
+  </controller>
+  <controller name="giftState" pages="0,,1,,2," selected="1">
+    <remark page="0" value="隐藏"/>
+    <remark page="1" value="关卡未达到"/>
+    <remark page="2" value="关卡达到"/>
+    <action type="play_transition" fromPage="" toPage="1" transition="t0" repeat="-1" stopOnExit="true"/>
+  </controller>
+  <displayList>
+    <component id="n50_lg0p" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,223" size="387,174" group="n37_7g4a"/>
+    <image id="n9_8902" name="n9" src="6v981e" fileName="img/tuceng45.png" xy="0,230" group="n37_7g4a"/>
+    <image id="n10_8902" name="n10" src="89026" fileName="img/xzyh_js.png" xy="57,337" group="n37_7g4a"/>
+    <text id="n11_8902" name="unlockLbl" xy="88,338" pivot="0.5,0.5" size="123,36" group="n37_7g4a" fontSize="26" color="#fffe80" leading="0" strokeColor="#7b2124" strokeSize="2" autoClearText="true" text="6元去解锁"/>
+    <image id="n12_8902" name="n12" src="89027" fileName="img/jiantou.png" xy="216,340" group="n37_7g4a"/>
+    <component id="n31_7g4a" name="gotoChargeBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="55,333" size="214,46" group="n37_7g4a"/>
+    <text id="n16_8902" name="n16" xy="28,255" size="99,34" group="n37_7g4a" fontSize="24" color="#a2cdf2" vAlign="middle" strokeColor="#000000" strokeSize="2" text="提前解锁">
+      <gearText controller="giftState" pages="2" values="解锁奖励" default="提前解锁"/>
+    </text>
+    <text id="n17_8902" name="n17" xy="56,287" size="99,34" group="n37_7g4a" fontSize="24" color="#a2cdf2" vAlign="middle" strokeColor="#000000" strokeSize="2" text="即可拥有"/>
+    <component id="n41_7g4a" name="rewards" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="165,251" size="226,109" group="n37_7g4a" scale="0.7,0.7"/>
+    <image id="n54_lupe" name="n54" src="6v981f" fileName="img/zu3.png" xy="203,169" pivot="0.5,0.5" group="n37_7g4a">
+      <gearDisplay controller="giftState" pages="1"/>
+    </image>
+    <group id="n37_7g4a" name="unlockTip" xy="0,169" size="415,228" advanced="true">
+      <gearDisplay controller="giftState" pages="1,2"/>
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n51_lg0p" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="71,475" size="610,604" group="n43_97di"/>
+    <image id="n0_8902" name="n0" src="89020" fileName="img/xzyh_xzd.png" xy="66,479" group="n43_97di"/>
+    <image id="n1_8902" name="n1" src="89021" fileName="img/xzyh_zhi.png" xy="149,431" group="n43_97di"/>
+    <image id="n44_97di" name="n11" src="89022" fileName="img/xzyh_jdt1.png" xy="153,888" group="n43_97di"/>
+    <component id="n24_7g4a" name="barStorage" src="7g4a15" fileName="DiamondBankBarStorage.xml" xy="153,888" group="n43_97di">
+      <ProgressBar value="29" max="100"/>
+    </component>
+    <text id="n32_7g4a" name="t1" xy="269,577" pivot="1,0.5" size="103,29" group="n43_97di" fontSize="20" color="#a2cdf2" align="right" vAlign="middle" strokeColor="#000000" strokeSize="2" text="星钻效率："/>
+    <richtext id="n7_8902" name="addRate" xy="372,578" pivot="0,0.5" size="80,29" group="n43_97di" fontSize="20" color="#e3863c" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="999小时"/>
+    <text id="n6_8902" name="t2" xy="272,606" pivot="1,0.5" size="72,29" group="n43_97di" fontSize="20" color="#a2cdf2" vAlign="middle" strokeColor="#000000" strokeSize="2" text="已存储:"/>
+    <text id="n34_7g4a" name="storageNum" xy="372,606" pivot="0,0.5" size="60,29" group="n43_97di" fontSize="20" color="#e3863c" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="999万"/>
+    <text id="n46_97di" name="n12" xy="150,909" pivot="1,0.5" size="75,30" group="n43_97di" fontSize="21" color="#ffffff" align="right" vAlign="middle" strokeColor="#000000" strokeSize="2" text="已领取:"/>
+    <text id="n47_97di" name="drawNum" xy="226,907" pivot="0,0.5" size="42,30" group="n43_97di" fontSize="21" color="#e3863c" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="100"/>
+    <text id="n48_97di" name="storageInfo" xy="314,882" pivot="0.5,0.5" size="117,34" group="n43_97di" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="198/1000"/>
+    <component id="n22_7g4a" name="getBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="275,958" size="202,86" group="n43_97di">
+      <gearDisplay controller="drawState" pages="0,1"/>
+      <Button title="领取" titleFontSize="34"/>
+    </component>
+    <component id="n49_97di" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="462,467" group="n43_97di"/>
+    <image id="n20_8902" name="lock" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="419,976" group="n43_97di" scale="0.7,0.7"/>
+    <richtext id="n21_8902" name="tips" xy="267,1044" pivot="0.5,0.5" size="214,34" group="n43_97di" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" autoClearText="true" text="挂机关卡通关[color=#E3863C]222[/color]关"/>
+    <loader id="n33_7g4a" name="goldIcon" xy="345,606" pivot="0.5,0.5" size="26,26" group="n43_97di" url="ui://7q3fcj1k7g4as7r" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <text id="n35_7g4a" name="n11" xy="336,503" pivot="0,0.5" size="109,34" group="n36_7g4a" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="剩余时间:"/>
+    <text id="n5_8902" name="existTime" xy="445,503" pivot="0,0.5" size="95,34" group="n36_7g4a" fontSize="24" color="#3efed5" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="5天12时"/>
+    <group id="n36_7g4a" name="n36" xy="336,503" size="204,34" group="n43_97di" advanced="true" layout="hz" lineGap="8" excludeInvisibles="true"/>
+    <text id="n52_rzse" name="waitDrawDesc" xy="231,984" pivot="0.5,0.5" size="288,34" group="n43_97di" fontSize="24" color="#ffffff" autoClearText="true" text="XX分钟XX秒后可再次领取">
+      <gearDisplay controller="drawState" pages="2"/>
+    </text>
+    <group id="n43_97di" name="n43" xy="66,431" size="617,648" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n53_vdae" name="n53" xy="289,1109" pivot="0.5,0.5" size="170,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Rotation" target="n54_lupe" tween="true" startValue="3" endValue="-3" duration="15" ease="Quad.InOut" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

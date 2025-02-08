@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="560,302">
+  <displayList>
+    <image id="n0_ef21" name="n0" src="ef210" fileName="img/libao_frame.png" xy="0,0" group="n19_e53p"/>
+    <text id="n6_ef21" name="lbName" xy="238,94" size="234,39" group="n19_e53p" fontSize="28" color="#fff5a1" vAlign="middle" text="赛季战令DNA礼包"/>
+    <text id="n7_ef21" name="lbLimit" xy="307,144" size="106,26" group="n19_e53p" fontSize="18" color="#ffedf5" vAlign="middle" text="限购（2/2）"/>
+    <component id="n10_ef21" name="btnGoto" src="e53p75" fileName="ItemGotoShopBtn.xml" xy="81,230" group="n19_e53p"/>
+    <list id="n18_e53p" name="listReward" xy="358,202" pivot="0.5,0.5" anchor="true" size="390,104" group="n19_e53p" scale="0.6,0.6" layout="row" overflow="scroll" scroll="horizontal" colGap="18" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n13_ef21" name="n13" src="ef217" fileName="img/chaozhiyeqian.png" xy="473,90" group="n20_e53p"/>
+    <text id="n14_ef21" name="lbDiscount" xy="515,97" pivot="0.5,0.5" anchor="true" size="75,38" group="n20_e53p" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#cf411a" strokeSize="3" text="650%"/>
+    <text id="n15_ef21" name="n15" xy="497,119" pivot="0.5,0.5" anchor="true" size="42,28" group="n20_e53p" fontSize="19" color="#fffe80" align="center" vAlign="middle" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+    <group id="n20_e53p" name="pDiscount" xy="473,78" size="87,55" group="n19_e53p" advanced="true"/>
+    <component id="n22_f9dq" name="btnBuy" src="f9dq79" fileName="btn/ItemNotEnoughBuyBtn.xml" xy="295,280" pivot="0.5,0.5" anchor="true" group="n19_e53p"/>
+    <group id="n19_e53p" name="n19" xy="0,0" size="560,309" advanced="true"/>
+  </displayList>
+</component>

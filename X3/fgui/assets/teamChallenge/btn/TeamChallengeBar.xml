@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="561,64" extention="ProgressBar">
+  <displayList>
+    <image id="n3_ig8t" name="n3" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="30,18" size="503,23" color="#29243a"/>
+    <image id="n4_ig8t" name="bar" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="30,21" size="503,17" color="#f5bf1c"/>
+    <list id="n6_ig8t" name="list" xy="0,0" size="561,64" layout="row" scroll="horizontal" colGap="96" defaultItem="ui://dhpy5xezvmq618g" vAlign="middle">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <ProgressBar/>
+</component>

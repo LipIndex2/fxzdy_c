@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="198,84" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n35_df6e" name="n35" src="df6e22" fileName="img/scyq_btn.png" xy="5,15">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <image id="n41_v891" name="n41" src="df6e23" fileName="img/scyq1_btn.png" xy="5,15">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+    <text id="n36_df6e" name="T_price" xy="74,30" size="52,42" fontSize="30" color="#ffffff" text="6元">
+      <gearDisplay controller="button" pages="0,1"/>
+      <gearColor controller="button" pages="0" values="#ffffff,#000000" default="#000000,#000000"/>
+    </text>
+    <image id="n40_df6e" name="img_buy" src="v891vvv1dr" fileName="frameImage/ygm_tag.png" pkg="38fa8c75" xy="0,0" size="92,33"/>
+    <component id="n42_c3wz" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="177,17"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

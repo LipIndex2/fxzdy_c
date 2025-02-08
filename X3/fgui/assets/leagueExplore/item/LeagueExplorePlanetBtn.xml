@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="360,320" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="1">
+    <remark page="0" value="已解锁"/>
+    <remark page="1" value="未解锁"/>
+  </controller>
+  <displayList>
+    <graph id="n35_woyg" name="bg" xy="0,0" size="360,320" group="n36_woyg"/>
+    <loader id="n29_gtlw" name="iconLoader" xy="169,160" pivot="0.5,0.5" anchor="true" size="274,274" group="n36_woyg" grayed="true" align="center" vAlign="middle" fill="scale" autoSize="true">
+      <gearLook controller="state" pages="0,1" values="1,0,0,1|1,0,1,1"/>
+    </loader>
+    <text id="n37_gl0p" name="lbUnlock" xy="169,280" pivot="0.5,0.5" anchor="true" size="10,34" group="n36_woyg" fontSize="24" color="#feffff" vAlign="middle" text="">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <image id="n23_9c3b" name="n23" src="gtlw131" fileName="img/mingzidi.png" xy="300,139" pivot="0.5,0.5" anchor="true" size="44,193" group="n38_gl0p"/>
+    <image id="n28_9c3b" name="iconMyLeague" src="gtlw12y" fileName="img/meng.png" xy="310,17" size="43,55" group="n38_gl0p" visible="false"/>
+    <text id="n24_9c3b" name="lbName" xy="285,63" pivot="0.5,0.5" size="30,153" group="n38_gl0p" fontSize="24" color="#feffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="初级星球1"/>
+    <image id="n31_gtlw" name="n31" src="gtlw130" fileName="img/jindudi.png" xy="299,257" pivot="0.5,0.5" anchor="true" size="79,26" group="n33_8g0d" alpha="0.5"/>
+    <text id="n30_gtlw" name="lbProgress" xy="300,257" pivot="0.5,0.5" anchor="true" size="18,34" group="n33_8g0d" fontSize="24" color="#feffff" vAlign="middle" text="1"/>
+    <group id="n33_8g0d" name="gProgress" xy="259,240" size="79,34" group="n38_gl0p" advanced="true"/>
+    <component id="n34_woyg" name="iconMine" src="woyg13e" fileName="item/LeagueExploreSmallAvatar.xml" xy="310,28" size="42,42" group="n38_gl0p"/>
+    <group id="n38_gl0p" name="gInfo" xy="259,17" size="93,257" group="n36_woyg" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+    <group id="n36_woyg" name="gAll" xy="0,0" size="360,320" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="430,101">
+  <controller name="gainFlag" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n102_gkgv" name="bg" src="gkgvvvv19v" fileName="bg/tisp3_frame.png" pkg="38fa8c75" xy="0,0" size="430,101" group="n107_gkgv"/>
+    <text id="n103_gkgv" name="labelTitle" xy="20,37" pivot="0,0.5" size="230,34" group="n107_gkgv" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" singleLine="true" text="5场奖励"/>
+    <image id="n109_gkgv" name="n109" src="b6a247" fileName="img/sd_A_common_liaotian_frame.png" xy="0,0" size="430,101" group="n107_gkgv" alpha="0.4">
+      <gearDisplay controller="gainFlag" pages="1"/>
+    </image>
+    <list id="n111_t1qh" name="listReward" xy="415,50" pivot="1,0.5" anchor="true" size="218,104" group="n107_gkgv" scale="0.7,0.7" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="right" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n107_gkgv" name="n107" xy="0,-2" size="430,104" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

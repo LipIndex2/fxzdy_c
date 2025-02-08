@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n7_dusv" name="bagNode" src="dusv8" fileName="GainItemBag.xml" xy="644,960" touchable="false">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </component>
+    <component id="n8_dusv" name="startNode" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,500" size="0,0">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </component>
+  </displayList>
+</component>

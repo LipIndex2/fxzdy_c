@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="96,106">
+  <displayList>
+    <loader id="n10_dbe9" name="imageArrowToTarget" xy="49,54" pivot="0.5,0.5" anchor="true" size="96,105" url="ui://38fa8c75odo5az" align="center" vAlign="middle"/>
+  </displayList>
+</component>

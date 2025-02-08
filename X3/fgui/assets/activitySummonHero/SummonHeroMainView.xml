@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n99_ko81" name="n99" xy="0,-146" size="750,1626" url="ui://7cvz7rmmko81vv2f" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n120_ko81" name="n120" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-289" size="750,232" color="#323048">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n112_ko81" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,603" pivot="0.5,1" anchor="true" size="252,290">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n118_ko81" name="aniNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,603" size="0,0"/>
+    <component id="n50_d91a" name="btn_shiwan" src="ko8158" fileName="demoBtn.xml" xy="633,239"/>
+    <component id="n122_8adr" name="demoGetBtn" src="8adr5h" fileName="btn/DemoGetBtn.xml" xy="569,168"/>
+    <image id="n52_d91a" name="n52" src="d91a32" fileName="img/biaotidi.png" xy="3,37" group="n100_ko81"/>
+    <text id="n103_ko81" name="T_name4" xy="86,61" pivot="0.5,0.5" size="147,64" group="n100_ko81" fontSize="48" color="#44eaed" align="center" vAlign="middle" text="唤英雄"/>
+    <text id="n54_d91a" name="T_name1" xy="21,42" pivot="0.5,0.5" size="73,92" group="n100_ko81" fontSize="70" color="#44eaed" align="center" vAlign="middle" text="召"/>
+    <text id="n102_ko81" name="T_name5" xy="90,63" pivot="0.5,0.5" size="147,64" group="n100_ko81" fontSize="48" color="#c710b4" align="center" vAlign="middle" text="唤英雄"/>
+    <text id="n55_d91a" name="T_name2" xy="25,44" pivot="0.5,0.5" size="73,92" group="n100_ko81" fontSize="70" color="#c710b4" align="center" vAlign="middle" text="召"/>
+    <text id="n56_d91a" name="T_name6" xy="88,61" pivot="0.5,0.5" size="147,64" group="n100_ko81" fontSize="48" color="#ffffff" align="center" vAlign="middle" text="唤英雄"/>
+    <text id="n57_d91a" name="T_name3" xy="23,42" pivot="0.5,0.5" size="73,92" group="n100_ko81" fontSize="70" color="#ffffff" align="center" vAlign="middle" text="召"/>
+    <richtext id="n101_ko81" name="T_time" xy="43,118" pivot="0,0.5" size="207,29" group="n100_ko81" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" text="活动倒计时:[color=#6AFF63]5天30小时[/color]"/>
+    <component id="n104_ko81" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="481,72" group="n100_ko81" controller="isTop,1"/>
+    <component id="n105_ko81" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="274,74" group="n100_ko81"/>
+    <group id="n100_ko81" name="n100" xy="3,37" size="631,110"/>
+    <image id="n47_d91a" name="n47" src="gkgvvvv19u" fileName="bg/jjc_frame.png" pkg="38fa8c75" xy="15,153" size="336,134" group="n106_ko81" alpha="0.98"/>
+    <text id="n48_d91a" name="n48" xy="33,164" pivot="0.5,0.5" size="210,36" group="n106_ko81" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="招募冲榜积分说明"/>
+    <text id="n49_d91a" name="n49" xy="33,207" pivot="0,0.5" size="310,62" group="n106_ko81" fontSize="22" color="#8cedff" vAlign="middle" autoSize="height" text="招募冲榜/招募达标活动期间,&#xA;每次限时招募，获得2招募积分"/>
+    <group id="n106_ko81" name="n106" xy="15,153" size="336,134" visible="false" advanced="true"/>
+    <text id="n41_d91a" name="n41" xy="11,584" size="184,36" fontSize="26" color="#fff260" vAlign="middle" strokeColor="#924506" strokeSize="2" text="恭喜以下玩家：">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n42_d91a" name="dialogPage" src="ko815e" fileName="DialogBoxPage.xml" xy="11,621" size="410,68">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n23_d91a" name="n23" src="d91a17" fileName="img/wenzidi.png" xy="303,606" group="n108_ko81"/>
+    <text id="n24_d91a" name="n24" xy="455,642" pivot="0.5,0.5" size="242,54" group="n108_ko81" fontSize="40" color="#fef0db" align="center" vAlign="middle" italic="true" strokeColor="#e84200" strokeSize="3" text="次召唤内必得"/>
+    <text id="n26_d91a" name="T_name" xy="414,688" pivot="0.5,0.5" size="320,66" group="n108_ko81" fontSize="50" color="#ff4343" align="center" vAlign="middle" italic="true" strokeColor="#980001" strokeSize="3" text="骗术之神·洛基"/>
+    <text id="n25_d91a" name="T_count" xy="344,627" pivot="1,0.5" size="112,79" group="n108_ko81" fontSize="60" color="#2eff55" align="right" vAlign="middle" italic="true" strokeColor="#16590a" strokeSize="3" text="168"/>
+    <text id="n119_ko81" name="T_count2" xy="344,577" pivot="1,0.5" size="112,79" group="n108_ko81" alpha="0" fontSize="60" color="#2eff55" align="right" vAlign="middle" italic="true" strokeColor="#16590a" strokeSize="3" text="168"/>
+    <group id="n108_ko81" name="n108" xy="303,577" size="440,177" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <image id="n14_d91a" name="n14" src="d91a9" fileName="img/dizuo.png" xy="13,731" group="n109_ko81"/>
+    <image id="n15_d91a" name="n15" src="d91a10" fileName="img/tuceng60kaobei.png" xy="47,706" group="n109_ko81"/>
+    <text id="n16_d91a" name="n16" xy="62,711" pivot="0.5,0.5" size="107,36" group="n109_ko81" fontSize="26" color="#ffdf2b" align="center" vAlign="middle" strokeColor="#5d04a9" strokeSize="2" text="本轮大奖"/>
+    <component id="n110_ko81" name="awardItem" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="69,768" group="n109_ko81"/>
+    <component id="n111_ko81" name="btn_shuaxin" src="teoxvvv1ib" fileName="btn/BaseBtn0.8Scale.xml" pkg="38fa8c75" xy="143,760" size="41,34" group="n109_ko81">
+      <Button icon="ui://38fa8c75e6dcvvv1dp"/>
+    </component>
+    <group id="n109_ko81" name="n109" xy="13,706" size="219,273" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <image id="n27_d91a" name="n27" src="d91a18" fileName="img/jlyl_frame.png" xy="274,765" size="460,190" group="n113_ko81"/>
+    <text id="n28_d91a" name="n28" xy="450,778" pivot="0.5,0.5" size="107,36" group="n113_ko81" fontSize="26" color="#f6ffff" align="center" vAlign="middle" strokeColor="#490e95" strokeSize="3" text="奖励预览"/>
+    <list id="n114_ko81" name="list_award" xy="293,821" size="421,120" group="n113_ko81" layout="row" overflow="scroll" scroll="horizontal" colGap="8" defaultItem="ui://7d3a8dafko8159">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n113_ko81" name="n113" xy="274,765" size="460,190" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n115_ko81" name="btn_get1" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="58,998" controller="style,1">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="招募1次"/>
+    </component>
+    <component id="n116_ko81" name="btn_get10" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="390,999">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="招募10次"/>
+    </component>
+    <component id="n117_ko81" name="skipItem" src="ko815a" fileName="item/DrawSkipAnimItem.xml" xy="540,1126" size="147,40">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

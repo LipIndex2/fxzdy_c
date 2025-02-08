@@ -1,0 +1,41 @@
+
+shu.png
+size: 404,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 375, 19
+  size: 35, 20
+  orig: 37, 22
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 330, 15
+  size: 79, 43
+  orig: 85, 47
+  offset: 3, 2
+  index: -1
+bai
+  rotate: true
+  xy: 2, 2
+  size: 92, 162
+  orig: 92, 162
+  offset: 0, 0
+  index: -1
+map_stump_1101
+  rotate: false
+  xy: 375, 56
+  size: 27, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+map_tree_1101
+  rotate: true
+  xy: 166, 2
+  size: 92, 162
+  orig: 92, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+skill02_hit_lower.png
+size: 288,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 2, 147
+  size: 140, 140
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+effect/skill02_hit_lower1
+  rotate: false
+  xy: 2, 71
+  size: 202, 74
+  orig: 260, 120
+  offset: 31, 21
+  index: -1
+effect/skill02_hit_lowerkuosan_0
+  rotate: true
+  xy: 147, 2
+  size: 67, 25
+  orig: 160, 60
+  offset: 46, 16
+  index: -1
+effect/skill02_hit_lowerkuosan_1
+  rotate: true
+  xy: 251, 48
+  size: 97, 35
+  orig: 160, 60
+  offset: 33, 11
+  index: -1
+effect/skill02_hit_lowerkuosan_2
+  rotate: true
+  xy: 240, 147
+  size: 117, 39
+  orig: 160, 60
+  offset: 21, 9
+  index: -1
+effect/skill02_hit_lowerkuosan_3
+  rotate: true
+  xy: 206, 19
+  size: 126, 43
+  orig: 160, 60
+  offset: 16, 7
+  index: -1
+effect/skill02_hit_lowerkuosan_4
+  rotate: true
+  xy: 193, 147
+  size: 132, 45
+  orig: 160, 60
+  offset: 13, 6
+  index: -1
+effect/skill02_hit_lowerkuosan_5
+  rotate: true
+  xy: 144, 147
+  size: 138, 47
+  orig: 160, 60
+  offset: 10, 5
+  index: -1
+effect/skill02_hit_lowerkuosan_6
+  rotate: false
+  xy: 2, 21
+  size: 143, 48
+  orig: 160, 60
+  offset: 8, 5
+  index: -1

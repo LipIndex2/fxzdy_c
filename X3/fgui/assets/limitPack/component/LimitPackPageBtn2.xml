@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,60" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n7_cae0" name="n7" src="cae05" fileName="img/fanye_xuanzhong.png" xy="9,9">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <image id="n8_ohdt" name="n8" src="cae04" fileName="img/fanye.png" xy="10,10">
+      <gearDisplay controller="button" pages="0"/>
+    </image>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

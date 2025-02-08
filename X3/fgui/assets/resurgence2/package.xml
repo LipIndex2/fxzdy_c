@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="7a71602a">
+  <resources>
+    <image id="e7881" name="guang.png" path="/img/"/>
+    <image id="e7882" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="e7883" name="bantoudi.png" path="/img/"/>
+    <image id="e7884" name="sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="e7886" name="sd_Ttubiao_zhujiemiantubiao_zhujiemian_0003.png" path="/img/"/>
+    <image id="e7887" name="zhujiemian_0002.png" path="/img/"/>
+    <image id="e7888" name="zhujiemian_0008.png" path="/img/"/>
+    <image id="e7889" name="guangxiao1.png" path="/img/"/>
+    <image id="e78810" name="shibai1.png" path="/img/"/>
+    <image id="e78811" name="scale_80%_sd_Rrukoutubiao_rk0004_icon.png" path="/img/"/>
+    <image id="e78813" name="shibaidi.png" path="/img/"/>
+    <image id="e78814" name="shibaizi.png" path="/img/"/>
+    <image id="e78815" name="dian.png" path="/img/"/>
+    <image id="e78816" name="scale_80%_sd_A_common_changgui3_btn.png" path="/img/"/>
+    <image id="e78817" name="scale_80%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="e78818" name="icgoods_10001.png" path="/img/"/>
+    <image id="e78819" name="scale_80%_sd_A_common_qipao1_frame.png" path="/img/"/>
+    <component id="e78820" name="resurgenceView.xml" path="/"/>
+    <component id="wq7z21" name="btn_goto.xml" path="/"/>
+    <image id="wq7z22" name="zb_icon.png" path="/img/"/>
+    <component id="wq7z23" name="backBtn.xml" path="/"/>
+    <component id="wq7z24" name="reliveBtn.xml" path="/"/>
+    <component id="wq7z25" name="btnData.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,55 @@
+
+attack_upper.png
+size: 371,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_zhua_00000
+  rotate: false
+  xy: 77, 7
+  size: 63, 58
+  orig: 100, 200
+  offset: 26, 126
+  index: -1
+effect/attack_zhua_00001
+  rotate: false
+  xy: 77, 67
+  size: 79, 154
+  orig: 100, 200
+  offset: 10, 29
+  index: -1
+effect/attack_zhua_00002
+  rotate: false
+  xy: 158, 50
+  size: 67, 171
+  orig: 100, 200
+  offset: 13, 8
+  index: -1
+effect/attack_zhua_00003
+  rotate: false
+  xy: 2, 50
+  size: 73, 171
+  orig: 100, 200
+  offset: 14, 10
+  index: -1
+effect/attack_zhua_00004
+  rotate: false
+  xy: 227, 55
+  size: 63, 166
+  orig: 100, 200
+  offset: 26, 15
+  index: -1
+effect/attack_zhua_00005
+  rotate: false
+  xy: 292, 53
+  size: 60, 168
+  orig: 100, 200
+  offset: 28, 13
+  index: -1
+effect/attack_zhua_00006
+  rotate: true
+  xy: 227, 2
+  size: 49, 142
+  orig: 100, 200
+  offset: 31, 16
+  index: -1

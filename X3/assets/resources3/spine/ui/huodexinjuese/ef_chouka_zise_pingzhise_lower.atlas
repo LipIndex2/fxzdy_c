@@ -1,0 +1,27 @@
+
+ef_chouka_zise_pingzhise_lower.png
+size: 1323,1819
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chouka_guang
+  rotate: false
+  xy: 2, 696
+  size: 750, 1123
+  orig: 750, 1216
+  offset: 0, 75
+  index: -1
+images/chouka_zise_pingzhiseshang
+  rotate: 270
+  xy: 748, 441
+  size: 1376, 572
+  orig: 1376, 572
+  offset: 0, 0
+  index: -1
+images/chouka_zise_pingzhisexia
+  rotate: false
+  xy: 2, 3
+  size: 904, 766
+  orig: 904, 766
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n7_be1a" name="n7" src="be1a43" fileName="img/sd_A_common_gray_frame.png" xy="4,9" group="n22_qr2a"/>
+    <loader id="n15_h90v" name="imageLoader" xy="22,26" size="48,49" group="n22_qr2a" align="center" vAlign="middle" fill="scale"/>
+    <image id="n21_qr2a" name="n21" src="qr2a111" fileName="img/xuanzhong_frame.png" xy="-4,0" size="98,99" group="n19_qr2a"/>
+    <image id="n18_qr2a" name="n18" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="61,2" size="58,46" group="n19_qr2a" scale="0.65,0.65"/>
+    <group id="n19_qr2a" name="select_img" xy="-4,0" size="123,99" group="n22_qr2a" visible="false" advanced="true"/>
+    <group id="n22_qr2a" name="n22" xy="-4,0" size="123,99" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

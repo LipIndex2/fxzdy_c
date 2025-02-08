@@ -1,0 +1,27 @@
+
+skill05_loop_upper.png
+size: 104,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/leaderskill05_loop
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+effect/leaderskill05_start1_00009
+  rotate: false
+  xy: 2, 99
+  size: 100, 84
+  orig: 110, 90
+  offset: 5, 2
+  index: -1
+effect/leaderskill05_start2
+  rotate: false
+  xy: 2, 24
+  size: 99, 73
+  orig: 110, 90
+  offset: 6, 2
+  index: -1

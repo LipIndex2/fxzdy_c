@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="536,110">
+  <controller name="type" pages="3,content,4,card" selected="0"/>
+  <displayList>
+    <component id="n44_k3sy" name="partContent" src="k3sy3v" fileName="components/ChatOneRowContentComp.xml" xy="0,0">
+      <gearDisplay controller="type" pages="3"/>
+    </component>
+    <component id="n45_k3sy" name="partCard" src="k3sy3u" fileName="components/ChatOneRowCardComp.xml" xy="0,0">
+      <gearDisplay controller="type" pages="4"/>
+    </component>
+  </displayList>
+</component>

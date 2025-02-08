@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1665">
+  <displayList>
+    <image id="n0_74e5" name="n0" src="74e50" fileName="img/banner.png" xy="-1,0" group="n58_hz6e"/>
+    <image id="n1_74e5" name="n1" src="74e51" fileName="img/shuzidi.png" xy="599,321" group="n58_hz6e"/>
+    <text id="n2_74e5" name="n2" xy="392,308" size="209,58" group="n58_hz6e" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#060606" strokeSize="3" text="活动总积分:"/>
+    <text id="n3_74e5" name="lbScore" xy="602,318" size="121,42" group="n58_hz6e" fontSize="30" color="#ff8651" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text=""/>
+    <image id="n56_pkn9" name="n56" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="-1,367" size="750,1259" group="n58_hz6e"/>
+    <image id="n31_74e5" name="imgTips" src="74e521" fileName="img/huodongyijieshu.png" xy="237,864" group="n58_hz6e">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n52_pkn9" name="n52" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="8,479" size="730,1052" group="n58_hz6e">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n6_74e5" name="n6" src="74e54" fileName="img/di.png" xy="16,484" group="n58_hz6e"/>
+    <text id="n7_74e5" name="lvTS" xy="36,489" size="226,39" group="n58_hz6e" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#3a2866" strokeSize="3" text="竞技场活动积分："/>
+    <text id="n39_74e5" name="n39" xy="35,181" size="206,46" group="n58_hz6e" fontSize="34" color="#5eeaff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="空间宝石试炼"/>
+    <image id="n61_9zn0" name="n61" src="woygvvv1il" fileName="bgImage/sjkj_bt.png" pkg="38fa8c75" xy="5,84" group="n58_hz6e"/>
+    <list id="n51_pkn9" name="listItems" xy="30,555" size="700,964" group="n58_hz6e" overflow="scroll" lineGap="10" defaultItem="ui://54da9fd9pkn932">
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n53_pkn9" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="299,93" size="41,34" group="n58_hz6e"/>
+    <list id="n54_pkn9" name="listTabs" xy="21,405" size="716,64" group="n58_hz6e" layout="row" colGap="39" defaultItem="ui://54da9fd9pkn9193">
+      <item/>
+      <item/>
+    </list>
+    <component id="n55_pkn9" name="btnScoRule" src="pkn93c" fileName="btn/SeasonReachBtn.xml" xy="530,490" group="n58_hz6e"/>
+    <richtext id="n57_u8y2" name="lbCd" xy="54,134" size="204,45" group="n58_hz6e" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="5"/>
+    <image id="n60_hz6e" name="n60" src="hz6e194" fileName="img/sjkj_bt2.png" xy="36,74" group="n58_hz6e"/>
+    <group id="n58_hz6e" name="n58" xy="-1,0" size="750,1626"/>
+    <image id="n59_hz6e" name="n59" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-268" size="750,350" color="#382785">
+      <relation target="" sidePair="top-top"/>
+    </image>
+  </displayList>
+</component>

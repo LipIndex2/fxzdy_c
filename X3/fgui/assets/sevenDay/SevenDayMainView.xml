@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1khcpcs7q">
+  <controller name="page" pages="0,登录,1,任务" selected="0"/>
+  <displayList>
+    <component id="n76_hcpc" name="loginSubView" src="hcpc25" fileName="subView/SevenDayLoginSubView.xml" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n75_hcpc" name="taskSubView" src="hcpc19" fileName="subView/SevenDayTaskSubView.xml" xy="0,0">
+      <gearDisplay controller="page" pages="1"/>
+      <relation target="" sidePair="height-height,top-top"/>
+    </component>
+    <image id="n49_6950" name="n49" src="dusvvvv1fh" fileName="bgImage/hd_frame.png" pkg="38fa8c75" xy="-9,1246" size="772,88" group="n74_hcpc"/>
+    <list id="n59_hcpc" name="tabList" xy="461,1214" size="293,115" group="n74_hcpc" pageController="page" layout="row" overflow="scroll" scroll="horizontal" colGap="15" defaultItem="ui://5d5abdd8hcpc1h" align="right" selectionController="page" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n73_hcpc" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215" size="150,119" group="n74_hcpc"/>
+    <group id="n74_hcpc" name="G_bottom" xy="-9,1214" size="772,120" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,244 @@
+
+BOSS_tanglanglieshou.png
+size: 400,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tanglang_0
+  rotate: false
+  xy: 90, 97
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+tanglang_1
+  rotate: true
+  xy: 97, 63
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+tanglang_10
+  rotate: true
+  xy: 49, 32
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+tanglang_11
+  rotate: true
+  xy: 87, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+tanglang_12
+  rotate: false
+  xy: 116, 6
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+tanglang_13
+  rotate: false
+  xy: 238, 103
+  size: 46, 91
+  orig: 46, 96
+  offset: 0, 4
+  index: -1
+tanglang_14
+  rotate: true
+  xy: 100, 26
+  size: 35, 40
+  orig: 35, 43
+  offset: 0, 2
+  index: -1
+tanglang_15
+  rotate: true
+  xy: 2, 67
+  size: 28, 93
+  orig: 28, 94
+  offset: 0, 1
+  index: -1
+tanglang_16
+  rotate: true
+  xy: 226, 7
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+tanglang_17
+  rotate: true
+  xy: 49, 10
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+tanglang_18
+  rotate: false
+  xy: 317, 12
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+tanglang_19
+  rotate: true
+  xy: 169, 59
+  size: 41, 66
+  orig: 41, 67
+  offset: 0, 1
+  index: -1
+tanglang_2
+  rotate: false
+  xy: 238, 88
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+tanglang_20
+  rotate: true
+  xy: 260, 10
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+tanglang_21
+  rotate: true
+  xy: 237, 58
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+tanglang_22
+  rotate: false
+  xy: 2, 32
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+tanglang_23
+  rotate: true
+  xy: 142, 23
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+tanglang_24
+  rotate: true
+  xy: 2, 9
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+tanglang_25
+  rotate: true
+  xy: 184, 23
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+tanglang_26
+  rotate: false
+  xy: 286, 107
+  size: 45, 87
+  orig: 45, 88
+  offset: 0, 1
+  index: -1
+tanglang_27
+  rotate: true
+  xy: 333, 129
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+tanglang_28
+  rotate: false
+  xy: 275, 25
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+tanglang_29
+  rotate: false
+  xy: 226, 28
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+tanglang_3
+  rotate: false
+  xy: 260, 93
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+tanglang_30
+  rotate: 180
+  xy: 285, 51
+  size: 102, 55
+  orig: 171, 55
+  offset: 69, 0
+  index: -1
+tanglang_31
+  rotate: true
+  xy: 356, 26
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+tanglang_32
+  rotate: false
+  xy: 338, 3
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+tanglang_33
+  rotate: true
+  xy: 333, 98
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+tanglang_4
+  rotate: false
+  xy: 387, 180
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+tanglang_5
+  rotate: false
+  xy: 387, 173
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+tanglang_6
+  rotate: false
+  xy: 365, 7
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+tanglang_7
+  rotate: false
+  xy: 387, 187
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+tanglang_8
+  rotate: true
+  xy: 169, 102
+  size: 92, 67
+  orig: 92, 68
+  offset: 0, 1
+  index: -1
+tanglang_9
+  rotate: false
+  xy: 2, 100
+  size: 86, 94
+  orig: 86, 96
+  offset: 0, 2
+  index: -1

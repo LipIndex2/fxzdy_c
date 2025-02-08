@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_f454" name="n0" src="f4540" fileName="img/tongyongchouka.jpg" xy="0,-291">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_f454" name="bgProgress" src="f4541" fileName="img/beijing.jpg" xy="375,1298" pivot="0.5,1" anchor="true" size="750,722">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <image id="n2_f454" name="n2" src="f4542" fileName="img/jindutiao.png" xy="32,-297">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_f454" name="progressScore" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" pkg="38fa8c75" xy="47,1224" pivot="0.5,1" anchor="true" size="15,648">
+      <relation target="" sidePair="bottom-bottom"/>
+    </image>
+    <list id="n26_lhcv" name="listReward" xy="65,1230" pivot="0,1" anchor="true" size="630,1230" overflow="scroll" lineGap="10" defaultItem="ui://dc8e4339lhcv3m" vAlign="bottom" renderOrder="descent" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n23_f454" name="n23" src="f45417" fileName="img/tjsz_001.png" xy="131,576" pivot="0.5,0.5" anchor="true" group="n28_lhcv"/>
+    <text id="n24_f454" name="lbScore" xy="116,576" pivot="0,0.5" anchor="true" size="67,36" group="n28_lhcv" fontSize="26" color="#fefefe" vAlign="middle" strokeColor="#8f5407" strokeSize="2" text="1000"/>
+    <image id="n25_f454" name="n25" src="f4549" fileName="img/zu1041kaobei7.png" xy="97,578" pivot="0.5,0.5" anchor="true" group="n28_lhcv"/>
+    <group id="n28_lhcv" name="pCurScore" xy="65,554" size="133,45" advanced="true"/>
+    <component id="n36_c3wz" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

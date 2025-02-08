@@ -1,0 +1,83 @@
+
+skill011_lower.png
+size: 253,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill011_shanxing_50_0
+  rotate: true
+  xy: 156, 245
+  size: 43, 36
+  orig: 160, 100
+  offset: 117, 36
+  index: -1
+effect/skill011_shanxing_50_1
+  rotate: false
+  xy: 2, 2
+  size: 120, 63
+  orig: 160, 100
+  offset: 40, 19
+  index: -1
+effect/skill011_shanxing_50_10
+  rotate: true
+  xy: 230, 47
+  size: 114, 10
+  orig: 160, 100
+  offset: 39, 53
+  index: -1
+effect/skill011_shanxing_50_2
+  rotate: false
+  xy: 2, 132
+  size: 148, 73
+  orig: 160, 100
+  offset: 11, 10
+  index: -1
+effect/skill011_shanxing_50_3
+  rotate: false
+  xy: 2, 207
+  size: 152, 81
+  orig: 160, 100
+  offset: 7, 8
+  index: -1
+effect/skill011_shanxing_50_4
+  rotate: false
+  xy: 2, 67
+  size: 148, 63
+  orig: 160, 100
+  offset: 8, 21
+  index: -1
+effect/skill011_shanxing_50_5
+  rotate: true
+  xy: 152, 57
+  size: 148, 42
+  orig: 160, 100
+  offset: 6, 36
+  index: -1
+effect/skill011_shanxing_50_6
+  rotate: true
+  xy: 196, 144
+  size: 144, 31
+  orig: 160, 100
+  offset: 14, 41
+  index: -1
+effect/skill011_shanxing_50_7
+  rotate: true
+  xy: 196, 144
+  size: 144, 31
+  orig: 160, 100
+  offset: 14, 41
+  index: -1
+effect/skill011_shanxing_50_8
+  rotate: true
+  xy: 196, 10
+  size: 132, 32
+  orig: 160, 100
+  offset: 24, 42
+  index: -1
+effect/skill011_shanxing_50_9
+  rotate: true
+  xy: 229, 163
+  size: 125, 22
+  orig: 160, 100
+  offset: 28, 48
+  index: -1

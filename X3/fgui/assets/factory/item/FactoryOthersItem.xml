@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,128">
+  <controller name="rank" exported="true" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="第一名"/>
+    <remark page="1" value="第二名"/>
+    <remark page="2" value="第三名"/>
+    <remark page="3" value="其他"/>
+  </controller>
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="没有数据"/>
+    <remark page="1" value="有数据"/>
+  </controller>
+  <displayList>
+    <image id="n0_51a6" name="n0" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="607,128"/>
+    <component id="n14_czc6" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="67,64" pivot="0.5,0.5" anchor="true" group="n25_t5gy"/>
+    <component id="n19_czc6" name="btnGoto" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="431,36" size="145,58" group="n25_t5gy" controller="color,1">
+      <Button title="前往" titleFontSize="26"/>
+    </component>
+    <loader id="n23_t5gy" name="rankLoader" xy="92,74" size="47,54" group="n25_t5gy" url="ui://3cd6950951a665" fill="scale">
+      <gearIcon controller="rank" pages="0,1,2,3" values="ui://3cd6950951a665|ui://3cd6950951a666|ui://3cd6950951a667|ui://3cd6950951a668"/>
+    </loader>
+    <image id="n6_51a6" name="n6" src="51a660" fileName="img/biaozhi_di.png" xy="139,80" size="147,32" group="n15_czc6"/>
+    <image id="n8_51a6" name="n8" src="51a659" fileName="img/gou_tag.png" xy="145,83" group="n15_czc6"/>
+    <text id="n7_51a6" name="lbProductLine" xy="172,81" size="103,29" group="n15_czc6" fontSize="20" color="#ffe57c" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text="尖端生产线"/>
+    <group id="n15_czc6" name="gProductLine" xy="139,80" size="147,32" group="n25_t5gy" advanced="true"/>
+    <image id="n9_51a6" name="n9" src="51a660" fileName="img/biaozhi_di.png" xy="291,80" size="136,32" group="n16_czc6"/>
+    <image id="n11_51a6" name="n11" src="51a661" fileName="img/tanhao_tag.png" xy="297,83" group="n16_czc6"/>
+    <text id="n10_51a6" name="lbOccupied" xy="328,81" size="95,29" group="n16_czc6" fontSize="20" color="#90cfff" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text="已被占领"/>
+    <group id="n16_czc6" name="gOccupied" xy="291,80" size="136,32" group="n25_t5gy" advanced="true"/>
+    <text id="n5_51a6" name="lbName" xy="133,13" size="135,32" group="n25_t5gy" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n12_51a6" name="lbFight" xy="135,46" size="136,32" group="n25_t5gy" fontSize="22" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <text id="n24_t5gy" name="lbRank" xy="115,98" pivot="0.5,0.5" anchor="true" size="20,36" group="n25_t5gy" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#1c1c28" strokeSize="2" text="4">
+      <gearDisplay controller="rank" pages="3"/>
+    </text>
+    <group id="n25_t5gy" name="gInfo" xy="15,12" size="561,116" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+  </displayList>
+</component>

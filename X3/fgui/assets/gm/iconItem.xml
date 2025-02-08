@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104" extention="Button">
+  <displayList>
+    <loader id="n2_f0d8" name="bg" xy="0,0" size="104,104" url="ui://38fa8c75f0d84"/>
+    <loader id="n9_f0d8" name="itemIcon" xy="52,52" pivot="0.5,0.5" anchor="true" size="92,92" url="ui://7q3fcj1kt6mg9" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <text id="n12_f0d8" name="labelItemId" xy="102,77" pivot="1,0" anchor="true" size="99,29" fontSize="20" color="#fefefe" align="right" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="10"/>
+    <text id="n13_m43k" name="itemName" xy="102,2" pivot="1,0" anchor="true" size="99,29" fontSize="20" color="#fefefe" autoSize="shrink" strokeColor="#000000" strokeSize="3" text="道具名"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

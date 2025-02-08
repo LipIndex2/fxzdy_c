@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_1794" name="bgTitle" src="179427" fileName="img/biaoti.png" xy="164,176" group="n31_gs9k"/>
+    <text id="n1_1794" name="lbTitle" xy="368,209" pivot="0.5,0.5" anchor="true" size="162,54" group="n31_gs9k" fontSize="40" color="#ffffff" align="center" vAlign="middle" text="技能选择"/>
+    <list id="n30_gs9k" name="listBuff" xy="0,343" size="750,608" group="n31_gs9k" layout="row" overflow="hidden" colGap="16" defaultItem="ui://ae4de3b1gs9k8i" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n35_loej" name="btnRefresh" src="loej91" fileName="component/GuardShipRefreshBuffBtn.xml" xy="375,1055" pivot="0.5,0.5" anchor="true" group="n31_gs9k"/>
+    <group id="n31_gs9k" name="gAll" xy="0,176" size="750,931" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

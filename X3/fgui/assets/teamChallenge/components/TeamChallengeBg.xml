@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1004" overflow="scroll" scroll="horizontal">
+  <displayList>
+    <image id="n98_oyy6" name="foreground1" src="oyy618t" fileName="img/road2.png" xy="0,0" size="750,1004"/>
+    <image id="n99_gwdp" name="foreground2" src="oyy618t" fileName="img/road2.png" xy="750,0" size="750,1004"/>
+  </displayList>
+</component>

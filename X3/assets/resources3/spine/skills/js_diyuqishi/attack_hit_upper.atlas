@@ -1,0 +1,132 @@
+
+attack_hit_upper.png
+size: 290,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_hit_baodian_00000
+  rotate: true
+  xy: 216, 70
+  size: 49, 30
+  orig: 80, 80
+  offset: 23, 23
+  index: -1
+effect/attack_hit_baodian_00001
+  rotate: true
+  xy: 60, 52
+  size: 67, 55
+  orig: 80, 80
+  offset: 4, 16
+  index: -1
+effect/attack_hit_baodian_00002
+  rotate: false
+  xy: 2, 52
+  size: 56, 67
+  orig: 80, 80
+  offset: 23, 4
+  index: -1
+effect/attack_hit_baodian_00003
+  rotate: true
+  xy: 216, 12
+  size: 33, 34
+  orig: 80, 80
+  offset: 32, 17
+  index: -1
+effect/attack_hit_ci_00000
+  rotate: true
+  xy: 268, 31
+  size: 88, 14
+  orig: 100, 24
+  offset: 12, 4
+  index: -1
+effect/attack_hit_ci_00001
+  rotate: true
+  xy: 195, 21
+  size: 98, 19
+  orig: 100, 24
+  offset: 0, 2
+  index: -1
+effect/attack_hit_ci_00002
+  rotate: true
+  xy: 248, 47
+  size: 72, 18
+  orig: 100, 24
+  offset: 3, 3
+  index: -1
+effect/attack_hit_ci_00003
+  rotate: false
+  xy: 118, 10
+  size: 52, 17
+  orig: 100, 24
+  offset: 8, 3
+  index: -1
+effect/attack_hit_dihuo_00000
+  rotate: true
+  xy: 143, 45
+  size: 74, 26
+  orig: 130, 32
+  offset: 54, 2
+  index: -1
+effect/attack_hit_dihuo_00001
+  rotate: false
+  xy: 2, 26
+  size: 114, 24
+  orig: 130, 32
+  offset: 11, 4
+  index: -1
+effect/attack_hit_dihuo_00002
+  rotate: true
+  xy: 118, 29
+  size: 90, 23
+  orig: 130, 32
+  offset: 8, 5
+  index: -1
+effect/attack_hit_dihuo_00003
+  rotate: true
+  xy: 171, 33
+  size: 86, 22
+  orig: 130, 32
+  offset: 3, 6
+  index: -1
+effect/attack_huohua_add_00000
+  rotate: false
+  xy: 172, 19
+  size: 11, 12
+  orig: 50, 30
+  offset: 4, 9
+  index: -1
+effect/attack_huohua_add_00001
+  rotate: false
+  xy: 66, 3
+  size: 25, 21
+  orig: 50, 30
+  offset: 4, 4
+  index: -1
+effect/attack_huohua_add_00002
+  rotate: false
+  xy: 252, 9
+  size: 36, 20
+  orig: 50, 30
+  offset: 5, 5
+  index: -1
+effect/attack_huohua_add_00003
+  rotate: false
+  xy: 2, 3
+  size: 34, 21
+  orig: 50, 30
+  offset: 11, 3
+  index: -1
+effect/attack_huohua_add_00004
+  rotate: false
+  xy: 38, 2
+  size: 26, 22
+  orig: 50, 30
+  offset: 19, 3
+  index: -1
+effect/attack_huohua_add_00005
+  rotate: false
+  xy: 93, 3
+  size: 18, 21
+  orig: 50, 30
+  offset: 25, 2
+  index: -1

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_a664" name="n0" src="lhcv1g" fileName="img/cz_bg.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n35_k3my" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="529,16">
+      <relation target="" sidePair=""/>
+    </component>
+    <image id="n30_a664" name="iconTitle" src="a66416" fileName="img/xingzuanshangdian.png" xy="74,124" group="n36_ni07"/>
+    <component id="n31_lhcv" name="btnPrivilege" src="lhcv19" fileName="component/ChargePrivilegeBtn.xml" xy="566,1134" group="n36_ni07">
+      <relation target="" sidePair=""/>
+    </component>
+    <component id="n32_lhcv" name="progressVip" src="lhcv1a" fileName="component/ChargeProgress.xml" xy="228,1186" size="302,23" group="n36_ni07">
+      <relation target="" sidePair=""/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n2_a664" name="lbVipDes" xy="237,1152" pivot="0.5,0.5" size="279,34" group="n36_ni07" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" text="再充值99元，可成为[color=#FFD201]VIP3[/color]">
+      <relation target="" sidePair=""/>
+    </text>
+    <text id="n4_a664" name="lbVip" xy="100,1159" pivot="0.5,0.5" size="91,49" group="n36_ni07" fontSize="36" color="#ffd201" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="vip 2">
+      <relation target="" sidePair=""/>
+    </text>
+    <list id="n34_lhcv" name="list" xy="66,357" size="620,708" group="n36_ni07" overflow="scroll" scrollBarFlags="160" lineGap="16" defaultItem="ui://7cf99be8lhcv1d" autoClearItems="true">
+      <relation target="" sidePair=""/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n36_ni07" name="panel" xy="66,124" size="620,1097" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n38_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-56" pivot="0.5,1" anchor="true" size="750,220" color="#432638">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+  </displayList>
+</component>

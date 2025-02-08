@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="123,74" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <text id="n50_3bca" name="n50" xy="0,45" size="123,29" fontSize="20" color="#91a0e5" vAlign="middle" strokeColor="#000307" strokeSize="2" text="锁定当前属性"/>
+    <image id="n51_3bca" name="n51" src="830116" fileName="bgImage/gouxuan_frame.png" pkg="38fa8c75" xy="41,0" size="40,40"/>
+    <image id="n52_3bca" name="Img_gou" src="03e462" fileName="bgImage/gou_btn.png" pkg="38fa8c75" xy="48,3" size="41,29"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

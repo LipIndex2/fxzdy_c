@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="155,375" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n15_d6aa" name="n15" src="d6aa80" fileName="img/scale_80%_zt2_tag.png" xy="0,216"/>
+    <component id="n62_qr2a" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="77,258" pivot="0.5,1" anchor="true" size="152,247"/>
+    <image id="n16_d6aa" name="n16" src="d6aa81" fileName="img/scale_70%_no2_icon.png" xy="31,0"/>
+    <text id="n17_d6aa" name="nameLabel" xy="30,282" pivot="0.5,0.5" size="99,29" fontSize="20" color="#d563ff" align="center" vAlign="middle" strokeColor="#2c0b54" strokeSize="3" text="探险家111"/>
+    <text id="n49_uug0" name="noRank" xy="39,166" pivot="0.5,0.5" size="75,26" visible="false" fontSize="18" color="#ffffff" text="虚位以待"/>
+    <component id="n61_e1fv" name="damageCom" src="e1fv144" fileName="component/worldBossDamager3.xml" xy="6,339">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n63_loj0" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="77,265" pivot="0.5,0.5" anchor="true" size="100,42" aspect="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

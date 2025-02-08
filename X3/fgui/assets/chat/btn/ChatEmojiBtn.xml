@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,60" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n17_91d6" name="imageEmoji" xy="0,0" pivot="0.5,0.5" size="60,60" url="ui://6bce377291d612" align="center" vAlign="middle"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

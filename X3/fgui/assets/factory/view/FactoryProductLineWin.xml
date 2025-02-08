@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="state" pages="2,,0,,3,,1,,4," selected="0">
+    <remark page="0" value="初始化"/>
+    <remark page="1" value="我占领"/>
+    <remark page="2" value="其他人占领"/>
+    <remark page="3" value="未被占领"/>
+    <remark page="4" value="可领取"/>
+  </controller>
+  <displayList>
+    <component id="n31_t5gy" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="53,53" size="643,1235" group="n30_t5gy"/>
+    <image id="n0_51a6" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="53,53" size="643,1235" group="n30_t5gy"/>
+    <image id="n1_51a6" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="76,140" size="596,991" group="n30_t5gy"/>
+    <component id="n2_51a6" name="pContent" src="t5gy9a" fileName="component/FactoryProductLineContent.xml" xy="89,203" group="n30_t5gy"/>
+    <text id="n17_51a6" name="lbTitle" xy="372,99" pivot="0.5,0.5" anchor="true" size="10,44" group="n30_t5gy" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text=""/>
+    <component id="n27_t5gy" name="btnGiveUp" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="75,1143" size="306,122" group="n30_t5gy" scale="0.8,0.8">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="放弃"/>
+    </component>
+    <component id="n28_t5gy" name="btnDraw" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="371,1145" group="n30_t5gy" scale="0.8,0.8">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="立即领取"/>
+    </component>
+    <component id="n29_t5gy" name="btnAttack" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="222,1145" group="n30_t5gy" scale="0.8,0.8">
+      <gearDisplay controller="state" pages="3"/>
+      <Button title="布阵进攻"/>
+    </component>
+    <component id="n32_t5gy" name="btnDef" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="229,1145" group="n30_t5gy" scale="0.8,0.8">
+      <gearDisplay controller="state" pages="1"/>
+      <Button title="防守布阵"/>
+    </component>
+    <component id="n33_t5gy" name="btnDraw2" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="229,1145" size="306,122" group="n30_t5gy" scale="0.8,0.8">
+      <gearDisplay controller="state" pages="4"/>
+      <Button title="领取"/>
+    </component>
+    <text id="n14_51a6" name="lbTimeTitle" xy="460,177" pivot="0.5,0.5" anchor="true" size="10,34" group="n35_t5gy" fontSize="24" color="#82acfb" vAlign="middle" text="">
+      <relation target="n34_t5gy" sidePair="right-left"/>
+    </text>
+    <text id="n34_t5gy" name="lbTime" xy="472,177" pivot="0.5,0.5" anchor="true" size="10,34" group="n35_t5gy" fontSize="24" color="#32de6d" vAlign="middle" text="">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n35_t5gy" name="n35" xy="455,160" size="21,34" group="n30_t5gy"/>
+    <group id="n30_t5gy" name="gAll" xy="53,53" size="643,1235" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n38_vdae" name="n38" xy="290,1300" pivot="0.5,0.5" size="170,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

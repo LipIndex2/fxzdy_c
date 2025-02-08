@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="166,47">
+  <displayList>
+    <image id="n20_5da5" name="n20" src="tml513a" fileName="bgImage/zhanli1_frame.png" xy="0,0" scale="0.6,0.6"/>
+    <text id="n23_5da5" name="labelFightNum" xy="52,5" pivot="0,0.5" size="103,36" fontSize="26" color="#fefefe" vAlign="middle" autoSize="none" text="28399"/>
+  </displayList>
+</component>

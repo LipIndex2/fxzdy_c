@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="isBuy" pages="0,,1," selected="0"/>
+  <controller name="isGainAll" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n70_a8h3" name="n70" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,24" size="750,263" scale="1,-1" color="#ad6e3b">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n0_4b21" name="bg" src="lnj72b" fileName="bg/yxbg_bg.jpg" xy="0,0" size="750,2000">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <image id="n2_4b21" name="n2" src="4b212" fileName="img/xingzhuang576kaobei3.png" xy="660,91" size="46,51" group="n59_lnj7"/>
+    <text id="n8_4b21" name="n8" xy="667,145" size="33,148" group="n59_lnj7" fontSize="26" color="#fff9ca" autoSize="none" strokeColor="#100a00" strokeSize="2" text="深海歌姬"/>
+    <group id="n59_lnj7" name="n59" xy="660,91" size="46,202" group="n58_lnj7"/>
+    <text id="n13_4b21" name="labelTitle" xy="38,55" size="194,64" group="n58_lnj7" fontSize="48" color="#fffee0" vAlign="middle" text="英雄补给"/>
+    <text id="n9_4b21" name="labelRestTimeTitle" xy="42,117" size="111,29" group="n58_lnj7" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <text id="n10_4b21" name="labelRestTime" xy="152,117" size="99,29" group="n58_lnj7" fontSize="20" color="#6aff63" vAlign="middle" text="5天30小时"/>
+    <text id="n3_4b21" name="labelKillPrice" xy="45,187" size="238,94" group="n58_lnj7" fontSize="72" color="#6bf6ff" vAlign="middle" strokeColor="#9b1a26" strokeSize="4" text="5000%"/>
+    <text id="n4_4b21" name="n4" xy="275,200" size="147,94" group="n58_lnj7" fontSize="72" color="#fffd4c" vAlign="middle" strokeColor="#9b1a26" strokeSize="4" text="返利"/>
+    <text id="n5_4b21" name="n5" xy="236,297" size="315,52" group="n58_lnj7" fontSize="38" color="#fff8a5" vAlign="middle" strokeColor="#230900" strokeSize="3" text="辅助 超强群体回复"/>
+    <text id="n6_4b21" name="n6" xy="160,297" size="79,52" group="n58_lnj7" fontSize="38" color="#ff5858" vAlign="middle" strokeColor="#732000" strokeSize="3" text="神话"/>
+    <text id="n11_4b21" name="n11" xy="40,58" size="194,64" group="n58_lnj7" fontSize="48" color="#dc14c7" vAlign="middle" text="英雄补给"/>
+    <text id="n12_4b21" name="n12" xy="36,54" size="194,64" group="n58_lnj7" fontSize="48" color="#5feefb" vAlign="middle" text="英雄补给"/>
+    <component id="n14_4b21" name="btnInfo" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="263,74" group="n58_lnj7"/>
+    <group id="n58_lnj7" name="G_header" xy="36,54" size="670,295" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n60_lnj7" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="226,1020" size="298,122" group="n61_lnj7">
+      <Button title="198元"/>
+    </component>
+    <group id="n61_lnj7" name="G_noBuyBtn" xy="226,1020" size="298,122" advanced="true">
+      <gearDisplay controller="isBuy" pages="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n1_4b21" name="fg" src="lnj729" fileName="bg/fg_hero_si.png" xy="15,457" size="721,527">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n62_lnj7" name="itemList" xy="42,475" size="675,486" layout="flow_hz" overflow="scroll" lineGap="20" colGap="20" defaultItem="ui://f5c5762elnj728" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n7_4b21" name="labelBuyTipsCenter" xy="143,418" size="462,34" group="n64_lnj7" fontSize="24" color="#fffcdf" vAlign="middle" strokeColor="#904503" strokeSize="3" text="购买后立即获得        1980及对应VIP经验值"/>
+    <image id="n63_lnj7" name="n63" src="4b217" fileName="img/icon_zd02.png" xy="317,410" size="37,42" group="n64_lnj7"/>
+    <group id="n64_lnj7" name="G_t2" xy="143,410" size="462,42" advanced="true">
+      <gearDisplay controller="isBuy" pages="0"/>
+    </group>
+    <component id="n66_a8h3" name="btnGain" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="226,1020" size="298,122" group="n67_a8h3">
+      <Button title="领取"/>
+    </component>
+    <group id="n67_a8h3" name="G_buyNoGain" xy="226,1020" size="298,122" advanced="true">
+      <gearDisplay controller="isBuy" pages="1"/>
+      <gearDisplay2 controller="isGainAll" pages="0" condition="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <text id="n26_4b21" name="labelNextGainTime" xy="246,1071" pivot="0.5,0.5" size="257,34" group="n69_a8h3" fontSize="24" color="#faefb2" align="center" vAlign="middle" text="00时00分00秒后可领取"/>
+    <group id="n69_a8h3" name="G_buyGain" xy="246,1071" size="257,34" advanced="true">
+      <gearDisplay controller="isBuy" pages="1"/>
+      <gearDisplay2 controller="isGainAll" pages="1" condition="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

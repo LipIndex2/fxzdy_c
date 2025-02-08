@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,150">
+  <controller name="lockFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <controller name="maxLvFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <controller name="chooseFlag" pages="0,0,1,1" selected="0"/>
+  <controller name="occupy" pages="0,,1," selected="0">
+    <remark page="0" value="未被占用"/>
+    <remark page="1" value="被占用"/>
+  </controller>
+  <displayList>
+    <image id="n8_06d7" name="bg" src="fxocvvv18u" fileName="captainSkill/images/changgui.png" xy="9,2" group="n81_kp3w"/>
+    <loader id="n9_06d7" name="imageSkill" xy="17,11" size="109,90" group="n81_kp3w" url="ui://38fa8c75fxocvvv18v"/>
+    <image id="n10_06d7" name="fgMask" src="fxocvvv18w" fileName="captainSkill/images/weijiesuobantoudi.png" xy="11,5" group="n81_kp3w" alpha="0.41">
+      <gearDisplay controller="lockFlag" pages="1"/>
+    </image>
+    <image id="n13_06d7" name="fgMaxLv" src="fxocvvv18x" fileName="captainSkill/images/xuanzhongxiaoguo.png" xy="-1,-7" group="n81_kp3w">
+      <gearDisplay controller="chooseFlag" pages="1"/>
+    </image>
+    <group id="n81_kp3w" name="imagePart" xy="-1,-7" size="140,159"/>
+    <text id="n11_06d7" name="labelLv" xy="18,101" size="86,42" group="n82_kp3w" fontSize="30" color="#ffffff" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" autoClearText="true" text="+10">
+      <gearDisplay controller="lockFlag" pages="0"/>
+    </text>
+    <text id="n80_kp3w" name="labelLock" xy="21,108" size="63,29" group="n82_kp3w" fontSize="20" color="#8ddcfd" strokeColor="#000000" strokeSize="3" singleLine="true" text="未解锁">
+      <gearDisplay controller="lockFlag" pages="1"/>
+    </text>
+    <group id="n82_kp3w" name="labelPart" xy="18,101" size="86,42"/>
+    <image id="n83_pfd4" name="n83" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" xy="9,2" size="122,141" group="n85_pfd4" alpha="0.5"/>
+    <text id="n84_pfd4" name="n84" xy="69,72" pivot="0.5,0.5" anchor="true" size="75,34" group="n85_pfd4" fontSize="24" color="#ff4c4c" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="已占用"/>
+    <group id="n85_pfd4" name="gOccupy" xy="9,2" size="122,141" advanced="true">
+      <gearDisplay controller="occupy" pages="1"/>
+    </group>
+  </displayList>
+</component>

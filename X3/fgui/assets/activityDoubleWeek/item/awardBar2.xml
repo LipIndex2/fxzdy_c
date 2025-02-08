@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="288,23" extention="ProgressBar">
+  <displayList>
+    <image id="n14_s8ul" name="n14" src="105pvv18f" fileName="bgImage/kppydi_blood.png" pkg="38fa8c75" xy="0,0" size="288,23" color="#000000"/>
+    <loader id="n17_s8ul" name="bar" xy="3,3" size="282,17" url="ui://38fa8c75v891vvv1ee" fill="scaleFree" color="#1ce2f5"/>
+    <text id="n13_230d" name="title" xy="119,-3" pivot="0.5,0.5" size="50,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#100900" strokeSize="2" text="10/5"/>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

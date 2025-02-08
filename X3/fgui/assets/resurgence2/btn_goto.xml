@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="101,90" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n3_fff6" name="n3" src="j6z929" fileName="btnImage/gntb_default.png" pkg="38fa8c75" xy="0,0" size="101,90"/>
+    <loader id="n26_qoer" name="icon" xy="15,12" size="71,65" url="ui://7a71602awq7z22" align="center" vAlign="middle" fill="scale"/>
+    <text id="n4_fff6" name="title" xy="25,71" size="55,6" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="4" text="装备">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

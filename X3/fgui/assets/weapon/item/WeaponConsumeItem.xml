@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,150">
+  <displayList>
+    <component id="n25_abqc" name="base" src="abqcvvv1ek" fileName="item/WeaponBaseItem.xml" pkg="38fa8c75" xy="0,0" group="n27_r9dw"/>
+    <image id="n28_sxwp" name="bgNone" src="03e463" fileName="img/gouxuan_frame.png" xy="32,106" group="n27_r9dw"/>
+    <image id="n29_sxwp" name="bgSelect" src="830116" fileName="bgImage/gouxuan_frame.png" pkg="38fa8c75" xy="32,106" group="n27_r9dw"/>
+    <image id="n30_sxwp" name="iconSelect" src="03e462" fileName="bgImage/gou_btn.png" pkg="38fa8c75" xy="32,110" group="n27_r9dw"/>
+    <group id="n27_r9dw" name="n27" xy="0,0" size="104,146"/>
+  </displayList>
+</component>

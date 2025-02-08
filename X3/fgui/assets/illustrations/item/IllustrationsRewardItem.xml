@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="630,200">
+  <displayList>
+    <image id="n4_f454" name="n4" src="f4544" fileName="img/tjlb.png" xy="149,0"/>
+    <image id="n9_f454" name="n9" src="f4548" fileName="img/tjsz_002.png" xy="0,48"/>
+    <image id="n11_f454" name="iconScore" src="f4549" fileName="img/zu1041kaobei7.png" xy="16,52"/>
+    <list id="n12_lhcv" name="listIcon" xy="167,18" size="440,104" layout="row" overflow="scroll" scroll="horizontal" colGap="26" defaultItem="ui://dc8e4339lhcv3n" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n10_f454" name="lbScore" xy="51,71" pivot="0,0.5" anchor="true" size="67,36" fontSize="26" color="#fefefe" vAlign="middle" strokeColor="#232e58" strokeSize="2" text="1000"/>
+    <image id="n13_lhcv" name="bgMask" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="149,0" size="481,139" alpha="0.4"/>
+  </displayList>
+</component>

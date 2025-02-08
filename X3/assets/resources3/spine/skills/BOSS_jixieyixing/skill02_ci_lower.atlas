@@ -1,0 +1,13 @@
+
+skill02_ci_lower.png
+size: 218,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_di2
+  rotate: false
+  xy: 2, 2
+  size: 214, 50
+  orig: 220, 50
+  offset: 3, 0
+  index: -1

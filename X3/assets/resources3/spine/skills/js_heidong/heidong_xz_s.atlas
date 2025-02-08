@@ -1,0 +1,153 @@
+
+heidong_xz_s.png
+size: 557,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill1heidong1_001
+  rotate: true
+  xy: 2, 140
+  size: 128, 126
+  orig: 180, 158
+  offset: 25, 17
+  index: -1
+images/effect/skill1heidong_00
+  rotate: true
+  xy: 177, 360
+  size: 89, 13
+  orig: 180, 158
+  offset: 47, 73
+  index: -1
+images/effect/skill1heidong_01
+  rotate: false
+  xy: 277, 353
+  size: 98, 28
+  orig: 180, 158
+  offset: 43, 67
+  index: -1
+images/effect/skill1heidong_02
+  rotate: true
+  xy: 140, 331
+  size: 118, 35
+  orig: 180, 158
+  offset: 32, 63
+  index: -1
+images/effect/skill1heidong_03
+  rotate: true
+  xy: 416, 8
+  size: 162, 63
+  orig: 180, 158
+  offset: 10, 48
+  index: -1
+images/effect/skill1heidong_04
+  rotate: false
+  xy: 340, 384
+  size: 162, 67
+  orig: 180, 158
+  offset: 12, 47
+  index: -1
+images/effect/skill1heidong_05
+  rotate: true
+  xy: 316, 172
+  size: 179, 118
+  orig: 180, 158
+  offset: 1, 22
+  index: -1
+images/effect/skill1heidong_06
+  rotate: false
+  xy: 140, 197
+  size: 174, 132
+  orig: 180, 158
+  offset: 4, 13
+  index: -1
+images/effect/skill1heidong_07
+  rotate: true
+  xy: 200, 383
+  size: 172, 138
+  orig: 180, 158
+  offset: 6, 11
+  index: -1
+images/effect/skill1heidong_08
+  rotate: true
+  xy: 2, 270
+  size: 179, 136
+  orig: 180, 158
+  offset: 1, 13
+  index: -1
+images/effect/skill1heidonglizi_00
+  rotate: false
+  xy: 436, 176
+  size: 95, 57
+  orig: 256, 128
+  offset: 89, 47
+  index: -1
+images/effect/skill1heidonglizi_01
+  rotate: true
+  xy: 436, 235
+  size: 147, 93
+  orig: 256, 128
+  offset: 52, 14
+  index: -1
+images/effect/skill1heidonglizi_02
+  rotate: true
+  xy: 130, 12
+  size: 183, 100
+  orig: 256, 128
+  offset: 30, 8
+  index: -1
+images/effect/skill1heidonglizi_03
+  rotate: false
+  xy: 340, 453
+  size: 191, 102
+  orig: 256, 128
+  offset: 28, 5
+  index: -1
+images/effect/skill1heidonglizi_04
+  rotate: false
+  xy: 2, 451
+  size: 196, 104
+  orig: 256, 128
+  offset: 25, 3
+  index: -1
+images/effect/skill1heidongshizi_001
+  rotate: true
+  xy: 232, 25
+  size: 170, 73
+  orig: 170, 73
+  offset: 0, 0
+  index: -1
+images/effect/skill1heitiaodai_00
+  rotate: true
+  xy: 481, 83
+  size: 91, 66
+  orig: 128, 128
+  offset: 16, 4
+  index: -1
+images/effect/skill1heitiaodai_01
+  rotate: false
+  xy: 2, 26
+  size: 104, 112
+  orig: 128, 128
+  offset: 5, 14
+  index: -1
+images/effect/skill1heitiaodai_02
+  rotate: false
+  xy: 307, 76
+  size: 107, 94
+  orig: 128, 128
+  offset: 2, 34
+  index: -1
+images/effect/skill1heitiaodai_03
+  rotate: false
+  xy: 307, 2
+  size: 104, 72
+  orig: 128, 128
+  offset: 3, 56
+  index: -1
+images/effect/skill1heitiaodai_04
+  rotate: false
+  xy: 192, 332
+  size: 83, 49
+  orig: 128, 128
+  offset: 14, 75
+  index: -1

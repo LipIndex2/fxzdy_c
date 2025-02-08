@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n19_ho2j" name="img_bg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n25_cpee" name="posNode" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="374,893">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n14_x52e" name="n14" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="547,601" size="52,52" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75x52evvv18n" controller="c1" page="1"/>
+    </component>
+    <component id="n15_x52e" name="n15" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="547,392" size="52,52" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75x52evvv18o" controller="c1" page="0"/>
+    </component>
+    <loader id="n0_3ae7" name="bg" xy="130,683" size="487,209" url="ui://u3k6kdotx52evvv18p" fill="scaleFree">
+      <relation target="n25_cpee" sidePair="bottom-bottom"/>
+      <relation target="" sidePair="center-center"/>
+    </loader>
+    <image id="n16_x52e" name="n16" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="175,824" size="403,8" group="n26_cpee"/>
+    <list id="n24_hewq" name="featureList" xy="180,766" size="393,32" group="n26_cpee" layout="row" colGap="8" defaultItem="ui://69f29748hewqv8e" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n2_3ae7" name="T_name" xy="176,717" size="123,42" group="n26_cpee" fontSize="30" color="#ffcd54" text="技能名称"/>
+    <richtext id="n4_3ae7" name="T_info" xy="178,852" size="392,32" group="n26_cpee" fontSize="22" color="#e9ecee" leading="7" ubb="true" autoSize="height" text=""/>
+    <group id="n26_cpee" name="titleGrop" xy="175,717" size="403,167" advanced="true">
+      <relation target="" sidePair="center-center"/>
+      <relation target="n0_3ae7" sidePair="top-top"/>
+    </group>
+    <image id="n17_x52e" name="n17" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="172,833" size="403,8" group="n28_cpee">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="n18_x52e" sidePair="top-top"/>
+    </image>
+    <list id="n18_x52e" name="list" xy="377,865" pivot="0.5,1" anchor="true" size="403,0" group="n28_cpee" overflow="scroll" lineGap="5" defaultItem="ui://69f29748x52ev8c">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n28_cpee" name="n28" xy="172,833" size="406,32" advanced="true">
+      <relation target="" sidePair="center-center"/>
+      <relation target="n0_3ae7" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

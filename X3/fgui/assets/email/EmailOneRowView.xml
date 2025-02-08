@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,178">
+  <controller name="readState" pages="0,unRead,1,readNotGain,2,readAndGain,3,delete" selected="0"/>
+  <controller name="withRewardState" pages="0,noReward,1,haveReward" selected="0"/>
+  <displayList>
+    <image id="n8_68b5" name="bgNotRead" src="68b54" fileName="bgImage/lb4_frame.png" pkg="38fa8c75" xy="6,7" size="600,164">
+      <gearDisplay controller="readState" pages="0"/>
+    </image>
+    <image id="n29_fsx5" name="bgRead" src="68b59" fileName="bgImage/lb5_frame.png" pkg="38fa8c75" xy="6,7" size="600,164">
+      <gearDisplay controller="readState" pages="1,2,3"/>
+    </image>
+    <image id="n9_68b5" name="iconNotRead" src="68b55" fileName="img/youjian_icon.png" xy="20,24">
+      <gearDisplay controller="readState" pages="0"/>
+    </image>
+    <image id="n26_fsx5" name="iconRead" src="68b510" fileName="img/youjian1_icon.png" xy="20,24">
+      <gearDisplay controller="readState" pages="1,2,3"/>
+    </image>
+    <text id="n10_68b5" name="labelTitle" xy="147,23" size="257,43" fontSize="26" color="#c1e8ff" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="竞技场每周排行榜"/>
+    <text id="n11_68b5" name="labelSendTime" xy="407,27" size="175,36" fontSize="20" color="#62ee79" align="right" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="{title=时间}: {sendTimeText=1分钟前}"/>
+    <text id="n23_68b5" name="labelReadState" xy="48,119" size="55,36" fontSize="26" color="#ff7171" strokeColor="#590606" strokeSize="2" text="未读"/>
+    <list id="n24_fsx5" name="itemList" xy="147,76" size="539,107" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <gearDisplay controller="withRewardState" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n27_fsx5" name="labelSender" xy="389,80" size="199,40" fontSize="26" color="#ddfbff" align="right" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="{title=发件人}：{senderName=系统}">
+      <gearDisplay controller="withRewardState" pages="0"/>
+    </text>
+    <component id="n30_db4z" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="596,20" size="32,30" controller="type,0"/>
+  </displayList>
+</component>

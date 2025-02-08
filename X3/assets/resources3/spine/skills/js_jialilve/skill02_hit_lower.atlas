@@ -1,0 +1,90 @@
+
+skill02_hit_lower.png
+size: 998,649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_dimian_00000
+  rotate: false
+  xy: 243, 28
+  size: 188, 100
+  orig: 360, 200
+  offset: 89, 43
+  index: -1
+effect/skill02_dimian_00001
+  rotate: false
+  xy: 2, 2
+  size: 239, 126
+  orig: 360, 200
+  offset: 63, 34
+  index: -1
+effect/skill02_dimian_00002
+  rotate: true
+  xy: 850, 395
+  size: 252, 134
+  orig: 360, 200
+  offset: 56, 30
+  index: -1
+effect/skill02_dimian_00003
+  rotate: false
+  xy: 661, 2
+  size: 291, 155
+  orig: 360, 200
+  offset: 36, 20
+  index: -1
+effect/skill02_dimian_00004
+  rotate: false
+  xy: 2, 130
+  size: 306, 157
+  orig: 360, 200
+  offset: 27, 19
+  index: -1
+effect/skill02_dimian_00005
+  rotate: false
+  xy: 681, 159
+  size: 315, 159
+  orig: 360, 200
+  offset: 22, 18
+  index: -1
+effect/skill02_dimian_00006
+  rotate: false
+  xy: 335, 130
+  size: 324, 160
+  orig: 360, 200
+  offset: 15, 18
+  index: -1
+effect/skill02_dimian_00007
+  rotate: true
+  xy: 685, 320
+  size: 327, 163
+  orig: 360, 200
+  offset: 13, 17
+  index: -1
+effect/skill02_dimian_00008
+  rotate: false
+  xy: 2, 289
+  size: 331, 171
+  orig: 360, 200
+  offset: 12, 12
+  index: -1
+effect/skill02_dimian_00009
+  rotate: false
+  xy: 343, 292
+  size: 336, 175
+  orig: 360, 200
+  offset: 9, 10
+  index: -1
+effect/skill02_dimian_00010
+  rotate: false
+  xy: 343, 469
+  size: 340, 178
+  orig: 360, 200
+  offset: 7, 8
+  index: -1
+effect/skill02_dimian_00011
+  rotate: false
+  xy: 2, 462
+  size: 339, 185
+  orig: 360, 200
+  offset: 8, 6
+  index: -1

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n1_1dfc" name="n1" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="53,136" size="643,1019" group="n17_gtlw"/>
+    <image id="n2_1dfc" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="76,223" size="596,897" group="n17_gtlw"/>
+    <list id="n16_gtlw" name="list" xy="88,236" size="572,871" group="n17_gtlw" overflow="scroll" lineGap="9" defaultItem="ui://6be81224gtlw124" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n15_1dfc" name="n15" xy="372,182" pivot="0.5,0.5" anchor="true" size="131,44" group="n17_gtlw" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="星际争霸"/>
+    <text id="n0_1dfc" name="n0" xy="303,1221" size="143,29" group="n17_gtlw" fontSize="20" color="#fffefe" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="middle-middle"/>
+    </text>
+    <group id="n17_gtlw" name="gAll" xy="53,136" size="643,1114" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n48_ac45" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,157" size="643,1020" group="n91_hd60"/>
+    <image id="n66_k3sy" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,249" size="596,907" group="n91_hd60"/>
+    <text id="n63_ac45" name="textTitle" xy="341,182" size="67,44" group="n91_hd60" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="奖励"/>
+    <image id="n75_k3sy" name="bg_my" src="ac4533" fileName="img/sd_A_common_bossfydi_frame_21.png" xy="93,759" group="n91_hd60" alpha="0.8"/>
+    <image id="n76_k3sy" name="n76" src="ac4532" fileName="img/sd_A_common_fubiao_frame.png" xy="93,706" group="n88_k3sy"/>
+    <text id="n81_k3sy" name="labelMy" xy="119,708" size="107,36" group="n88_k3sy" fontSize="26" color="#ffffff" vAlign="middle" text="个人奖励"/>
+    <group id="n88_k3sy" name="G_titleM" xy="93,706" size="564,38" group="n91_hd60"/>
+    <image id="n77_k3sy" name="n77" src="ac4536" fileName="img/scale_60%_sd_A_common_biaoti1_msg_18.png" xy="271,778" group="n89_k3sy"/>
+    <text id="n78_k3sy" name="labelMyWin" xy="328,782" size="91,32" group="n89_k3sy" fontSize="22" color="#88ceff" vAlign="middle" text="挑战胜利"/>
+    <component id="n71_k3sy" name="itemListForMyWin" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="126,833" size="498,109" group="n89_k3sy"/>
+    <group id="n89_k3sy" name="G_mw" xy="126,778" size="498,164" group="n91_hd60"/>
+    <image id="n79_k3sy" name="n79" src="ac4536" fileName="img/scale_60%_sd_A_common_biaoti1_msg_18.png" xy="266,952" group="n90_k3sy"/>
+    <text id="n80_k3sy" name="labelMyFail" xy="323,956" size="91,32" group="n90_k3sy" fontSize="22" color="#88ceff" vAlign="middle" text="挑战失败"/>
+    <component id="n72_k3sy" name="itemListForMyFail" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="126,1006" size="498,109" group="n90_k3sy"/>
+    <group id="n90_k3sy" name="G_mf" xy="126,952" size="498,163" group="n91_hd60"/>
+    <image id="n65_k3sy" name="bgLeague" src="ac4533" fileName="img/sd_A_common_bossfydi_frame_21.png" xy="94,317" group="n91_hd60" alpha="0.8"/>
+    <image id="n56_ac45" name="n56" src="ac4536" fileName="img/scale_60%_sd_A_common_biaoti1_msg_18.png" xy="271,336" group="n85_k3sy"/>
+    <text id="n57_ac45" name="labelLeagueWin" xy="328,340" size="91,32" group="n85_k3sy" fontSize="22" color="#88ceff" vAlign="middle" text="对决胜利"/>
+    <component id="n69_k3sy" name="itemListForLeagueWin" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="126,387" size="498,109" group="n85_k3sy"/>
+    <group id="n85_k3sy" name="G_lw" xy="126,336" size="498,160" group="n91_hd60"/>
+    <image id="n59_ac45" name="n59" src="ac4536" fileName="img/scale_60%_sd_A_common_biaoti1_msg_18.png" xy="267,510" group="n86_k3sy"/>
+    <text id="n60_ac45" name="labelLeagueFail" xy="324,514" size="91,32" group="n86_k3sy" fontSize="22" color="#88ceff" vAlign="middle" text="对决失败"/>
+    <component id="n70_k3sy" name="itemListForLeagueFail" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="126,561" size="498,109" group="n86_k3sy"/>
+    <group id="n86_k3sy" name="G_lf" xy="126,510" size="498,160" group="n91_hd60"/>
+    <image id="n50_ac45" name="n50" src="ac4532" fileName="img/sd_A_common_fubiao_frame.png" xy="94,264" group="n87_k3sy"/>
+    <text id="n61_ac45" name="labelLeaguePart" xy="120,266" size="107,36" group="n87_k3sy" fontSize="26" color="#ffffff" vAlign="middle" text="联盟奖励"/>
+    <group id="n87_k3sy" name="G_titleL" xy="94,264" size="564,38" group="n91_hd60"/>
+    <group id="n91_hd60" name="G_all" xy="54,157" size="643,1020" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

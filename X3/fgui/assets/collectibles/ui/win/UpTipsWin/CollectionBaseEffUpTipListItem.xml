@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="430,32">
+  <displayList>
+    <text id="n138_a01c" name="lbAttrR" xy="299,0" pivot="0.5,0.5" size="83,32" fontSize="22" color="#2ce728" vAlign="middle" autoClearText="true" text="+10000"/>
+    <text id="n139_a01c" name="lbAttrL" xy="144,0" pivot="0.5,0.5" size="57,32" fontSize="22" color="#d5d7d7" vAlign="middle" autoClearText="true" text="+999"/>
+    <text id="n140_a01c" name="lbBaseAtt" xy="0,0" pivot="0,0.5" size="91,32" fontSize="22" color="#dbc977" vAlign="middle" autoClearText="true" text="全体生命"/>
+    <image id="n141_a01c" name="n141" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="246,6" size="12,19"/>
+  </displayList>
+</component>

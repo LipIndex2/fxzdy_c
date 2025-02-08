@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n11_a3e9" name="dialog" src="105pv16" fileName="item/GuideDialogItem.xml" xy="17,898" touchable="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

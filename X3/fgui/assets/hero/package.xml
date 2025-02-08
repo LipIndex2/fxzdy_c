@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="69f29748">
+  <resources>
+    <component id="dtss54" name="TabBtn.xml" path="/btn/"/>
+    <component id="dtss55" name="WeaponItem.xml" path="/item/"/>
+    <component id="dtss56" name="HeroSwitchPage.xml" path="/page/"/>
+    <component id="dtss58" name="HeroUpLevelPage.xml" path="/page/"/>
+    <component id="dtss59" name="HeroUpStar.xml" path="/page/"/>
+    <component id="dtss5a" name="HeroAttrItem.xml" path="/item/"/>
+    <component id="dtss5d" name="HeroStarItem.xml" path="/item/"/>
+    <component id="dtss5e" name="HeroFragmentBarItem.xml" path="/item/"/>
+    <component id="dtss5f" name="UpBtn1.xml" path="/btn/"/>
+    <component id="dtss5g" name="UpBtn2.xml" path="/btn/"/>
+    <component id="dtss5i" name="HeroUpStageWin.xml" path="/view/"/>
+    <component id="dtss6k" name="HeroUpStageSucceedWin.xml" path="/view/"/>
+    <component id="dtss6l" name="HeroUpStarSucceedWin.xml" path="/view/"/>
+    <component id="dtss6m" name="HeroAttrItem2.xml" path="/item/"/>
+    <component id="dtss6n" name="HeroInfoWin.xml" path="/view/"/>
+    <component id="kkiq6r" name="HeroMainView.xml" path="/view/"/>
+    <component id="kkiq6s" name="BtnCamp.xml" path="/btn/"/>
+    <component id="kkiq71" name="HeroItem2.xml" path="/item/"/>
+    <component id="kkiq76" name="BtnManual.xml" path="/btn/"/>
+    <component id="kkiq78" name="BtnItem1.xml" path="/btn/"/>
+    <component id="dclx7i" name="HeroStarIconItem.xml" path="/item/"/>
+    <component id="dclx7k" name="HeroMainScrollPane.xml" path="/pane/"/>
+    <component id="dclx7l" name="HeroScrollPane.xml" path="/pane/"/>
+    <component id="x52ev8c" name="TextItem.xml" path="/item/"/>
+    <component id="groov8d" name="SkillInfoWin.xml" path="/view/"/>
+    <component id="hewqv8e" name="SkillFeatureItem.xml" path="/item/"/>
+    <component id="6ihgv8f" name="HeroStarUpAttrOneRowItem.xml" path="/item/"/>
+    <component id="frvnv8m" name="BtnStage.xml" path="/btn/"/>
+    <component id="lhcvv8n" name="HeroInfoPreviewWin.xml" path="/view/"/>
+    <component id="bezov8q" name="HeroAttrPreviewWin.xml" path="/view/"/>
+    <component id="bezov8r" name="TextItem2.xml" path="/item/"/>
+    <component id="bezov8t" name="HeroAttrTips.xml" path="/item/"/>
+    <component id="fhn9v8u" name="HeroSkinPage.xml" path="/page/"/>
+    <component id="fhn9v8v" name="HeroSkinAttrItem.xml" path="/item/"/>
+    <component id="fhn9v8w" name="HeroSkinItem.xml" path="/item/"/>
+    <component id="fhn9v8x" name="HeroSkinFirstGetView.xml" path="/view/"/>
+    <component id="8ixj2a" name="HeroSkinFirstGetAttrItem.xml" path="/item/"/>
+    <component id="q6dmv9w" name="MagicCubeBtnItem.xml" path="/item/"/>
+    <component id="q6dmv9x" name="MagicCubeBtn.xml" path="/btn/"/>
+    <component id="q6dmva0" name="MagicCubeInfoItem.xml" path="/item/"/>
+    <component id="ko81va6" name="SkinAttrPreviewWin.xml" path="/view/"/>
+    <component id="vet6va6" name="MagicCubeOtherItem.xml" path="/item/"/>
+    <component id="xwdvvaa" name="potentailBtn.xml" path="/btn/"/>
+    <component id="xwdvvaq" name="ProgressBar1.xml" path="/item/"/>
+    <component id="xwdvvas" name="DNAProgress.xml" path="/btn/"/>
+    <component id="xwdvvau" name="HeroPotentialBtnComp.xml" path="/item/"/>
+    <component id="xwdvvb7" name="HeroPotentialPage.xml" path="/page/"/>
+    <component id="xwdvvc1" name="infoBtn.xml" path="/btn/" exported="true"/>
+    <component id="xwdvvc2" name="HeroDNAWin.xml" path="/view/"/>
+    <component id="xwdvvc8" name="HeroDNAAttr.xml" path="/item/"/>
+    <component id="xwdvvcc" name="HeroPotentialAttr.xml" path="/item/"/>
+    <component id="xwdvvcd" name="HeroDnaTipWin.xml" path="/view/"/>
+    <component id="xwdvvcn" name="HeroTipBtn.xml" path="/btn/"/>
+    <component id="xwdvvcp" name="HeroDnaAttrList.xml" path="/item/"/>
+    <component id="xwdvvcq" name="HeroDnaLittleComp.xml" path="/item/" exported="true"/>
+    <image id="dtss66" name="shengxingchenggong.png" path="/img/"/>
+    <image id="dtss67" name="shengjiechenggong_word.png" path="/img/"/>
+    <image id="kkiq6t" name="buzhen_icon.png" path="/img/"/>
+    <image id="105pv7o" name="tuceng4.png" path="/img/"/>
+    <image id="105pv7p" name="yeqian4_tab.png" path="/img/"/>
+    <image id="105pv7q" name="word_tag.png" path="/img/" scale="9grid" scale9grid="35,7,43,14"/>
+    <image id="105pv7s" name="dengji.png" path="/img/"/>
+    <image id="105pv7t" name="sd_Rrukoutubiao_rk0005_icon.png" path="/img/"/>
+    <image id="105pv7v" name="daanniu_0.png" path="/img/"/>
+    <image id="105pv7y" name="jiaobiao.png" path="/img/"/>
+    <image id="6ihgv8l" name="sxcg_frame.png" path="/img/" scale="9grid" scale9grid="3,119,12,438"/>
+    <image id="g256v8o" name="beijing.jpg" path="/img/" scale="9grid" scale9grid="0,671,750,53"/>
+    <image id="bezov8p" name="rk0010_icon.png" path="/img/"/>
+    <image id="bezov8s" name="tips_frame.png" path="/img/" scale="9grid" scale9grid="16,13,11,13"/>
+    <image id="uelqv9a" name="sd_A_common_black2_msg.png" path="/img/"/>
+    <image id="uelqv9e" name="sd_A_common_word_tag.png" path="/img/"/>
+    <image id="8ixjv9l" name="name_frame.png" path="/img/"/>
+    <image id="8ixjv9m" name="pifujiesuo.png" path="/img/"/>
+    <image id="8ixjv9s" name="tuceng18.jpg" path="/img/"/>
+    <image id="8ixjv9v" name="biaotidi1.png" path="/img/"/>
+    <image id="dbz0va1" name="icon_captain.png" path="/img/"/>
+    <image id="dbz0va2" name="icon_equip.png" path="/img/"/>
+    <image id="dbz0va3" name="icon_pet.png" path="/img/"/>
+    <image id="dbz0va4" name="icon_talent.png" path="/img/"/>
+    <image id="pmhwva5" name="icon_collectons.png" path="/img/"/>
+    <image id="xwdvva6" name="xian.png" path="/img/"/>
+    <image id="xwdvvab" name="dna_icon_0.png" path="/img/" exported="true"/>
+    <image id="xwdvvac" name="dna_progress_0.png" path="/img/" exported="true"/>
+    <image id="xwdvvad" name="dna_icon_1.png" path="/img/" exported="true"/>
+    <image id="xwdvvae" name="dna_progress_1.png" path="/img/" exported="true"/>
+    <image id="xwdvvaf" name="dna_icon_2.png" path="/img/" exported="true"/>
+    <image id="xwdvvag" name="dna_progress_2.png" path="/img/" exported="true"/>
+    <image id="xwdvvah" name="dna_icon_4.png" path="/img/" exported="true"/>
+    <image id="xwdvvai" name="dna_progress_4.png" path="/img/" exported="true"/>
+    <image id="xwdvvaj" name="dna_icon_3.png" path="/img/" exported="true"/>
+    <image id="xwdvvak" name="dna_progress_3.png" path="/img/" exported="true"/>
+    <image id="xwdvval" name="dna_icon_5.png" path="/img/" exported="true"/>
+    <image id="xwdvvam" name="dna_progress_5.png" path="/img/" exported="true"/>
+    <image id="xwdvvan" name="xuanzhong.png" path="/img/"/>
+    <image id="xwdvvbb" name="sd_A_common_shuxingdi1_frame_25.png" path="/img/"/>
+    <image id="xwdvvbc" name="sd_A_common_xueliang_icon_24.png" path="/img/"/>
+    <image id="xwdvvbh" name="scale_90%_sd_A_common_fubiao_frame.png" path="/img/"/>
+    <image id="xwdvvbj" name="scale_70%_sd_A_common_biaoti1_msg1.png" path="/img/"/>
+    <image id="xwdvvbk" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="xwdvvbz" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="xwdvvc0" name="scale_50%_sd_sd_A_common_suo1_icon.png" path="/img/"/>
+    <image id="xwdvvc3" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="xwdvvc4" name="scale_60%_sd_A_common_biaoti1_msg3.png" path="/img/"/>
+    <image id="xwdvvc7" name="sd_A_common_fgx1_line.png" path="/img/"/>
+    <image id="xwdvvce" name="sd_A_common_tc1_frame_20.png" path="/img/"/>
+    <image id="xwdvvcf" name="sd_A_common_tc2_frame_10.png" path="/img/"/>
+    <image id="xwdvvcg" name="scale_65%_sd_A_common_biaoti1_msg2.png" path="/img/"/>
+    <image id="xwdvvck" name="sd_A_common_tc2_frame_19.png" path="/img/"/>
+    <image id="xwdvvcl" name="sd_A_common_gouxuan_frame.png" path="/img/"/>
+    <image id="xwdvvcm" name="sd_A_common_gou_btn.png" path="/img/"/>
+    <image id="xwdvvco" name="scale_65%_sd_A_common_biaoti1_msg2biaoti1_msg2_7.png" path="/img/"/>
+    <image id="xwdvvcr" name="dl.png" path="/img/"/>
+    <image id="xwdvvcs" name="dl_cai.png" path="/img/"/>
+    <image id="xwdvvct" name="dl_hong.png" path="/img/"/>
+    <image id="xwdvvcu" name="dl_huang.png" path="/img/"/>
+    <image id="xwdvvcv" name="dl_zi.png" path="/img/"/>
+    <image id="xwdvvcw" name="dl_lan.png" path="/img/"/>
+    <image id="xwdvvcx" name="dl_lv.png" path="/img/"/>
+    <image id="xwdvvcy" name="taizi.png" path="/img/"/>
+    <image id="xwdvvcz" name="teshuanniuhuang.png" path="/img/"/>
+    <image id="xwdvvd0" name="teshuanniulan.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

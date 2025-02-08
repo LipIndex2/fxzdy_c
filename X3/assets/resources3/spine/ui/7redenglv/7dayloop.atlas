@@ -1,0 +1,146 @@
+
+7dayloop.png
+size: 830,1400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/7day_loop_00000
+  rotate: false
+  xy: 2, 1226
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00001
+  rotate: false
+  xy: 2, 1052
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00002
+  rotate: false
+  xy: 2, 878
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00003
+  rotate: false
+  xy: 2, 704
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00004
+  rotate: false
+  xy: 2, 530
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00005
+  rotate: false
+  xy: 2, 356
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00006
+  rotate: false
+  xy: 2, 182
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00007
+  rotate: false
+  xy: 2, 8
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00008
+  rotate: true
+  xy: 308, 1094
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00009
+  rotate: true
+  xy: 308, 788
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00010
+  rotate: true
+  xy: 308, 482
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00011
+  rotate: true
+  xy: 308, 176
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00012
+  rotate: false
+  xy: 308, 2
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00013
+  rotate: true
+  xy: 482, 788
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00014
+  rotate: true
+  xy: 482, 176
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00015
+  rotate: false
+  xy: 482, 1226
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00016
+  rotate: false
+  xy: 482, 614
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00017
+  rotate: true
+  xy: 656, 308
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00018
+  rotate: true
+  xy: 656, 2
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1
+effect/7day_loop_00019
+  rotate: true
+  xy: 656, 920
+  size: 304, 172
+  orig: 320, 200
+  offset: 9, 15
+  index: -1

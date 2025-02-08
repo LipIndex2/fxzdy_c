@@ -1,0 +1,230 @@
+
+chongwu_xiaoxueyuan.png
+size: 425,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 78, 8
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+js01
+  rotate: 180
+  xy: 2, 70
+  size: 152, 53
+  orig: 152, 53
+  offset: 0, 0
+  index: -1
+js010
+  rotate: true
+  xy: 2, 261
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 239, 133
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+js012
+  rotate: true
+  xy: 118, 3
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 198, 10
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 383, 404
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+js015
+  rotate: false
+  xy: 153, 14
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 307, 300
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 326, 22
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+js018
+  rotate: true
+  xy: 95, 195
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 2, 367
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 145, 183
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+js020
+  rotate: false
+  xy: 188, 486
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+js021
+  rotate: false
+  xy: 5, 123
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 2, 398
+  size: 184, 134
+  orig: 184, 134
+  offset: 0, 0
+  index: -1
+js023
+  rotate: false
+  xy: 2, 19
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+js024
+  rotate: true
+  xy: 334, 48
+  size: 77, 87
+  orig: 77, 87
+  offset: 0, 0
+  index: -1
+js025
+  rotate: false
+  xy: 239, 219
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+js026
+  rotate: false
+  xy: 78, 34
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+js027
+  rotate: false
+  xy: 118, 35
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+js028
+  rotate: false
+  xy: 385, 497
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+js029
+  rotate: true
+  xy: 310, 207
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 121, 259
+  size: 187, 75
+  orig: 187, 75
+  offset: 0, 0
+  index: -1
+js030
+  rotate: false
+  xy: 2, 179
+  size: 91, 80
+  orig: 91, 80
+  offset: 0, 0
+  index: -1
+js031
+  rotate: true
+  xy: 259, 26
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 207, 81
+  size: 125, 50
+  orig: 125, 50
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 155, 42
+  size: 102, 37
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 95, 117
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 100, 333
+  size: 205, 74
+  orig: 205, 89
+  offset: 0, 15
+  index: -1
+js08
+  rotate: 180
+  xy: 184, 396
+  size: 219, 138
+  orig: 225, 194
+  offset: 6, 30
+  index: -1
+js09
+  rotate: false
+  xy: 342, 127
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1

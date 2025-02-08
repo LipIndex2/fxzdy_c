@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,217" overflow="scroll">
+  <displayList>
+    <richtext id="n22_loej" name="lbDes" xy="15,4" size="150,110" fontSize="20" color="#ffffff" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="2" text="没击杀一波怪物，全体智械单位位，冷却缩减+1%"/>
+  </displayList>
+</component>

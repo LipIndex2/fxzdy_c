@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,119">
+  <controller name="reachFlag" exported="true" pages="0,f,1,t" selected="0"/>
+  <displayList>
+    <loader id="n64_phyf" name="light" xy="0,18" size="132,98" url="ui://e93efac4phyf4q" align="center" vAlign="middle" fill="scaleFree">
+      <gearDisplay controller="reachFlag" pages="1"/>
+    </loader>
+    <loader id="n41_n9t5" name="head" xy="64,41" pivot="0.5,0.5" anchor="true" size="92,87" url="ui://e93efac4830121" align="center" vAlign="middle" fill="scaleFree"/>
+    <component id="n65_gsa5" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="106,11" controller="type,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="189,57">
+  <displayList>
+    <image id="n20_k045" name="n20" src="tml513e" fileName="bgImage/qipao1_frame.png" pkg="38fa8c75" xy="0,0" size="300,90" scale="0.63,0.63">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n18_96e1" name="T_tips" xy="7,11" size="173,26" fontSize="18" color="#0060b9" vAlign="middle" text="解锁XX区域增加上限"/>
+  </displayList>
+</component>

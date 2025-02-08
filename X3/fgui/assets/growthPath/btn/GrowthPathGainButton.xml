@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,61" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n15_ed86" name="n15" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="135,62"/>
+    <text id="n16_ed86" name="title" xy="36,12" size="62,36" fontSize="26" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="领 取"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

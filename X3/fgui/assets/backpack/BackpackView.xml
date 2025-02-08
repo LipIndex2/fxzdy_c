@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kvdaes8n" designImageAlpha="30">
+  <displayList>
+    <loader id="n0_f0d8" name="background" xy="34,158" size="682,1014" group="n32_ipjz" url="ui://38700442f0d82" fill="scaleFree"/>
+    <image id="n1_f0d8" name="foreground" src="f0d83" fileName="img/bagpackBackground.png" xy="56,243" size="638,803" group="n32_ipjz"/>
+    <text id="n17_f0d8" name="title" xy="340,184" size="76,44" group="n32_ipjz" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="背 包"/>
+    <list id="n28_t6mg" name="itemList" xy="67,271" size="523,631" group="n32_ipjz" scale="1.2,1.2" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" margin="0,0,10,10" lineGap="12" colGap="12" lineItemCount="4" defaultItem="ui://38700442t6mg22" autoClearItems="true">
+      <relation target="n1_f0d8" sidePair="center-center"/>
+      <item title="item1"/>
+      <item title="item2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n31_105pv" name="equipList" xy="73,269" size="508,635" group="n32_ipjz" scale="1.2,1.2" visible="false" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" margin="0,0,10,10" lineGap="15" colGap="12" lineItemCount="4" defaultItem="ui://38fa8c75pf1a144" autoClearItems="true">
+      <item title="item1"/>
+      <item title="item2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n33_cjsd" name="weaponList" xy="73,263" size="509,641" group="n32_ipjz" scale="1.2,1.2" visible="false" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" lineGap="-6" colGap="2" lineItemCount="4" defaultItem="ui://38fa8c75abqcvvv1el" autoClearItems="true">
+      <item title="item1"/>
+      <item title="item2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n30_t6mg" name="itemTypeList" xy="59,1064" size="634,77" group="n32_ipjz" layout="row" overflow="scroll" scroll="horizontal" margin="5,5,5,5" colGap="10" defaultItem="ui://38700442t6mg23" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n34_q6dm" name="btn_recycle" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="536,974" size="145,58" group="n32_ipjz" visible="false">
+      <Button title="批量分解"/>
+    </component>
+    <group id="n32_ipjz" name="all" xy="34,158" size="682,1014" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n35_vdae" name="n35" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1197">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

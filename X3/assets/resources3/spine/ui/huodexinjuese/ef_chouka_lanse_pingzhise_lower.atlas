@@ -1,0 +1,27 @@
+
+ef_chouka_lanse_pingzhise_lower.png
+size: 1323,1808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chouka_guang
+  rotate: false
+  xy: 2, 686
+  size: 750, 1121
+  orig: 750, 1216
+  offset: 0, 76
+  index: -1
+images/chouka_lan_pingzhiseshang
+  rotate: 270
+  xy: 749, 430
+  size: 1376, 572
+  orig: 1376, 572
+  offset: 0, 0
+  index: -1
+images/chouka_lan_pingzhisexia
+  rotate: false
+  xy: 2, 3
+  size: 903, 765
+  orig: 903, 765
+  offset: 0, 0
+  index: -1

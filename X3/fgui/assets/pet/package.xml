@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="00e7db15">
+  <resources>
+    <image id="42831" name="bg.jpg" path="/img/"/>
+    <image id="428314" name="xl_xinxidi.png" path="/img/"/>
+    <image id="428331" name="xinglingshengji_26.png" path="/img/"/>
+    <image id="428335" name="jinjiechenggongkaobei4.jpg" path="/img/"/>
+    <image id="428343" name="dengji.png" path="/img/"/>
+    <image id="428349" name="jinjiechenggongkaobei5.png" path="/img/"/>
+    <image id="428350" name="tujiananniukaobei.jpg" path="/img/"/>
+    <image id="428351" name="tuceng1192.png" path="/img/"/>
+    <image id="428352" name="tuceng502.png" path="/img/"/>
+    <image id="428353" name="anniuyeqian_8.png" path="/img/"/>
+    <image id="428354" name="xingling_icon.png" path="/img/"/>
+    <image id="428355" name="tianfu_icon.png" path="/img/"/>
+    <image id="428356" name="zhanduikeji_icon.png" path="/img/"/>
+    <image id="428357" name="zhuangbei_icon.png" path="/img/"/>
+    <image id="428358" name="diban.png" path="/img/"/>
+    <image id="428372" name="map_building_305.png" path="/img/"/>
+    <image id="428373" name="shuliangdi.png" path="/img/"/>
+    <image id="428377" name="tarenxinxikaobei.png" path="/img/"/>
+    <image id="428378" name="zu2.png" path="/img/"/>
+    <image id="uvvc8i" name="sxcg_frame.png" path="/img/" scale="9grid" scale9grid="3,119,12,438"/>
+    <image id="uvvc8j" name="shengJieChengGong.png" path="/img/"/>
+    <image id="uvvc8k" name="shengXingChengGong.png" path="/img/"/>
+    <component id="uvvc81" name="PetMainView.xml" path="/view/"/>
+    <component id="uvvc82" name="LVUpBtn.xml" path="/com/"/>
+    <component id="uvvc8c" name="PetUpLVView.xml" path="/view/"/>
+    <component id="uvvc8d" name="PetAttCell.xml" path="/com/"/>
+    <component id="uvvc8e" name="PetUpStageView.xml" path="/view/"/>
+    <component id="uvvc8f" name="PetUpStageListCell.xml" path="/com/"/>
+    <component id="uvvc8g" name="PetUpStarSuccessView.xml" path="/view/"/>
+    <component id="uvvc8h" name="PetUpSuccessList.xml" path="/com/"/>
+    <component id="uvvc8l" name="PetUpSuccessCell.xml" path="/com/"/>
+    <component id="uvvc8m" name="PetUpStageSuccessView.xml" path="/view/"/>
+    <component id="lg0p8n" name="PetAttMaxLVCell.xml" path="/com/"/>
+    <component id="lg0p8o" name="PetSkillItem.xml" path="/com/"/>
+    <component id="bpci8t" name="PetUpLvInfoCom.xml" path="/com/"/>
+    <component id="rt8z8u" name="PetMainAttrItem.xml" path="/com/"/>
+    <component id="sv988y" name="PetInfoPreviewWin.xml" path="/view/"/>
+    <component id="sv988z" name="PetSwitchPage.xml" path="/page/"/>
+    <component id="sv9892" name="PetUpLevelPage.xml" path="/page/"/>
+    <component id="dx6e94" name="petGroupBtn.xml" path="/com/"/>
+    <image id="dx6e95" name="xljb_rukou.png" path="/img/"/>
+    <image id="dx6e96" name="lan.png" path="/img/nameBottom/"/>
+    <image id="dx6e97" name="dian.png" path="/img/"/>
+    <image id="dx6e98" name="xlpy_tiao.png" path="/img/"/>
+    <image id="dx6e99" name="chongwu.png" path="/img/"/>
+    <image id="dx6e9a" name="zu130435.png" path="/img/"/>
+    <component id="dx6e9b" name="detailBtn.xml" path="/com/"/>
+    <component id="dx6e9c" name="PetStarAddInfoView.xml" path="/view/PetAddInfo/"/>
+    <image id="dx6e9d" name="bantoudi.png" path="/img/" scale="9grid" scale9grid="12,12,24,24"/>
+    <component id="dx6e9e" name="PetStarAddDescLIstItem.xml" path="/view/PetAddInfo/"/>
+    <component id="dx6e9f" name="PetStarAddAttrListItem.xml" path="/view/PetAddInfo/"/>
+    <image id="dx6e9h" name="zi.png" path="/img/nameBottom/"/>
+    <image id="dx6e9i" name="cai.png" path="/img/nameBottom/"/>
+    <image id="dx6e9j" name="cheng.png" path="/img/nameBottom/"/>
+    <image id="dx6e9k" name="hong.png" path="/img/nameBottom/"/>
+    <image id="dx6e9l" name="lv.png" path="/img/nameBottom/"/>
+    <image id="xwdv9m" name="xlpy_xlzm.png" path="/img/"/>
+    <component id="xwdv9n" name="drawCardBtn.xml" path="/com/"/>
+    <component id="xwdvvvv1km" name="CollectionsHubSubPage.xml" path="/view/"/>
+    <component id="xwdvvvv1kw" name="CharactorsComp.xml" path="/com/"/>
+    <image id="xwdvvvv1kq" name="biaoti.png" path="/img/" exported="true"/>
+    <image id="xwdvvvv1kn" name="changjing.jpg" path="/img/" exported="true" scale="9grid" scale9grid="184,812,374,503"/>
+    <image id="xwdvvvv1kv" name="sd_A_common_liaotian_frame.png" path="/img/" exported="true"/>
+    <image id="xwdvvvv1ku" name="sd_A_common_liaotian_frame_1.png" path="/img/" exported="true"/>
+    <image id="xwdvvvv1kp" name="sd_A_common_sjkj_bt.png" path="/img/" exported="true"/>
+    <image id="xwdvvvv1kt" name="shiyong9gong.png" path="/img/" exported="true"/>
+    <image id="xwdvvvv1kr" name="xingzhuang20kaobei2.png" path="/img/"/>
+    <component id="xwdvvvv1ks" name="CharacterComp.xml" path="/com/"/>
+    <component id="xwdv9p" name="PetHubComp.xml" path="/com/"/>
+    <image id="xwdv9q" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <component id="xwdv9r" name="infoBtn.xml" path="/com/"/>
+    <component id="xwdv9s" name="PetHubInfoPage.xml" path="/page/"/>
+    <component id="xwdv9t" name="ruleContentCom.xml" path="/"/>
+    <component id="xwdv9u" name="PetHubInfoComp.xml" path="/com/"/>
+    <image id="xwdv9z" name="bg2.png" path="/img/"/>
+    <image id="xwdva0" name="light.png" path="/img/"/>
+    <image id="xwdva1" name="bg3.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

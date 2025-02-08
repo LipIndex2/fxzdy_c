@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6bce3772">
+  <resources>
+    <image id="91d60" name="juxing1.jpg" path="/img/"/>
+    <image id="91d61" name="juxing5.png" path="/img/"/>
+    <image id="91d62" name="tuceng48.png" path="/img/"/>
+    <image id="91d63" name="tuceng47.png" path="/img/"/>
+    <image id="91d64" name="xuanzhong.png" path="/img/" scale="9grid" scale9grid="34,33,68,66"/>
+    <image id="91d65" name="xingzhuang1.png" path="/img/"/>
+    <image id="91d66" name="zu3kaobei.png" path="/img/"/>
+    <image id="91d67" name="tuoyuan3kaobei2.png" path="/img/"/>
+    <image id="91d68" name="zu4.png" path="/img/"/>
+    <image id="91d69" name="xingzhuang4kaobei2.png" path="/img/"/>
+    <image id="91d610" name="sd_A_common_xdt_frame.png" path="/img/"/>
+    <image id="91d611" name="shurukuangtianchongyanse.png" path="/img/"/>
+    <image id="91d612" name="tuoyuan4kaobei2.png" path="/img/"/>
+    <image id="91d613" name="tuceng22.png" path="/img/"/>
+    <image id="91d614" name="wudimeishaonü_5.png" path="/img/"/>
+    <image id="91d615" name="wudimeishaonükaobei.png" path="/img/"/>
+    <image id="91d616" name="sd_A_common_shuzi_msg.png" path="/img/"/>
+    <image id="91d617" name="shuzilü_msg.png" path="/img/"/>
+    <image id="91d618" name="bt_tag_2.png" path="/img/"/>
+    <image id="91d619" name="lt_frame.png" path="/img/" scale="9grid" scale9grid="31,28,263,8"/>
+    <image id="91d621" name="scale_80%_Ttouxiang_tx_006.png" path="/img/"/>
+    <image id="91d622" name="zu1kaobei5.png" path="/img/"/>
+    <image id="91d623" name="zu5.png" path="/img/"/>
+    <image id="91d624" name="tuceng40.png" path="/img/"/>
+    <image id="91d625" name="xdt_frame.png" path="/img/"/>
+    <image id="91d626" name="xuanzhongditianchongyanse.png" path="/img/"/>
+    <image id="91d627" name="biaoqing_1.png" path="/img/"/>
+    <image id="91d628" name="biaoqing_0.png" path="/img/"/>
+    <image id="91d629" name="99kaobei2.png" path="/img/"/>
+    <image id="91d630" name="fengexiantianchongyanse.png" path="/img/"/>
+    <image id="91d631" name="baise.png" path="/img/"/>
+    <image id="91d632" name="lanse.png" path="/img/"/>
+    <image id="91d633" name="lüse.png" path="/img/"/>
+    <image id="91d634" name="sd_A_common_gou_btn.png" path="/img/"/>
+    <image id="91d635" name="zu7kaobei3.png" path="/img/"/>
+    <component id="buys38" name="ChatTypeChooseBoxBtn.xml" path="/btn/"/>
+    <component id="buys3a" name="ChatSettingsPage.xml" path="/page/"/>
+    <component id="buys3b" name="ChatTabBtn.xml" path="/btn/"/>
+    <component id="buys3c" name="ChatSettingBtn.xml" path="/btn/"/>
+    <component id="buys3d" name="ChatEmojiWin.xml" path="/"/>
+    <component id="buys3e" name="ChatOneRowComp.xml" path="/components/"/>
+    <component id="buys3f" name="ChatContentPage.xml" path="/page/"/>
+    <component id="buys3g" name="ChatSendMessageBtn.xml" path="/btn/"/>
+    <component id="buys3h" name="ChatEmojiBtn.xml" path="/btn/"/>
+    <component id="buys3i" name="ChatPlayerAvatarComp.xml" path="/components/"/>
+    <component id="buys3j" name="ChatMainView.xml" path="/"/>
+    <component id="buys3k" name="ChatLeftItemBtn.xml" path="/btn/"/>
+    <component id="nl4g3m" name="ChatEmojiTypeBtn.xml" path="/btn/"/>
+    <image id="ppu13n" name="img_chat_delete.png" path="/img/"/>
+    <component id="ppu13o" name="ChatDeleteBtn.xml" path="/btn/"/>
+    <component id="nwvr3p" name="ChatOneRowCompForLeagueInvite.xml" path="/components/"/>
+    <image id="e53p3q" name="bg_invite.png" path="/img/" scale="9grid" scale9grid="16,16,8,8"/>
+    <image id="bbef3" name="scale_65%_sd_A_common_tgrsz_btn.png" path="/img/"/>
+    <component id="e53p3r" name="ChatInviteBtn.xml" path="/btn/"/>
+    <image id="bbef2" name="fgx1_line.png" path="/img/"/>
+    <image id="k3sy3t" name="zhongshengka.png" path="/components/img/"/>
+    <component id="k3sy3u" name="ChatOneRowCardComp.xml" path="/components/"/>
+    <component id="k3sy3v" name="ChatOneRowContentComp.xml" path="/components/"/>
+    <component id="k3sy3w" name="ChatJumpForVipBtn.xml" path="/btn/"/>
+    <image id="l2wi3x" name="andi.png" path="/img/"/>
+    <image id="l2wi3y" name="lt_frame_23.png" path="/img/"/>
+    <image id="l2wi40" name="fubiao.png" path="/img/"/>
+    <component id="bgzy42" name="ChatOneRowComTCInvite.xml" path="/components/"/>
+    <component id="ig8t43" name="ChatOneRowComTCFail.xml" path="/components/"/>
+    <image id="ig8t44" name="sd_A_common_black1_msg.png" path="/img/"/>
+    <image id="uk3p46" name="jytx_tag.png" path="/img/"/>
+    <image id="uk3p47" name="sd_A_common_tiaoguo.png" path="/img/"/>
+    <component id="8g0d48" name="ChatOneRowCompForLeagueExplore.xml" path="/components/"/>
+    <image id="8g0d49" name="qianwang.png" path="/img/"/>
+    <component id="8g0d4a" name="ChatGotoExploreBtn.xml" path="/components/"/>
+    <component id="v93u4c" name="ChatLeagueExploreGotoBtn.xml" path="/btn/"/>
+    <component id="v93u4d" name="ChatOneRowCompForLeagueExplore2.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

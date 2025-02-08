@@ -1,0 +1,90 @@
+
+skill01_bullet_upper.png
+size: 660,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet
+  rotate: false
+  xy: 2, 103
+  size: 347, 73
+  orig: 384, 128
+  offset: 18, 30
+  index: -1
+hit_upper_00
+  rotate: false
+  xy: 119, 192
+  size: 46, 37
+  orig: 256, 256
+  offset: 107, 83
+  index: -1
+hit_upper_01
+  rotate: false
+  xy: 2, 199
+  size: 115, 90
+  orig: 256, 256
+  offset: 69, 81
+  index: -1
+hit_upper_02
+  rotate: false
+  xy: 377, 150
+  size: 150, 128
+  orig: 256, 256
+  offset: 47, 69
+  index: -1
+hit_upper_03
+  rotate: false
+  xy: 201, 178
+  size: 174, 153
+  orig: 256, 256
+  offset: 34, 58
+  index: -1
+hit_upper_04
+  rotate: false
+  xy: 2, 291
+  size: 197, 173
+  orig: 256, 256
+  offset: 20, 51
+  index: -1
+hit_upper_05
+  rotate: false
+  xy: 445, 280
+  size: 205, 185
+  orig: 256, 256
+  offset: 15, 48
+  index: -1
+hit_upper_06
+  rotate: false
+  xy: 445, 467
+  size: 213, 191
+  orig: 256, 256
+  offset: 10, 45
+  index: -1
+hit_upper_07
+  rotate: false
+  xy: 2, 466
+  size: 220, 192
+  orig: 256, 256
+  offset: 9, 47
+  index: -1
+hit_upper_08
+  rotate: false
+  xy: 224, 466
+  size: 219, 192
+  orig: 256, 256
+  offset: 15, 44
+  index: -1
+hit_upper_09
+  rotate: false
+  xy: 201, 333
+  size: 215, 131
+  orig: 256, 256
+  offset: 20, 46
+  index: -1
+spark
+  rotate: false
+  xy: 119, 231
+  size: 40, 58
+  orig: 64, 64
+  offset: 12, 3
+  index: -1

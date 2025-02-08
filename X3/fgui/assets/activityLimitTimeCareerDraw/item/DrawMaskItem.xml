@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="112,112" mask="n106_qq3q">
+  <displayList>
+    <graph id="n106_qq3q" name="n106" xy="7,3" size="100,100" type="eclipse" lineSize="0"/>
+    <loader id="n104_teox" name="img_head" xy="0,0" pivot="0.5,0.5" size="112,112" url="ui://1d2t7iwtteoxk" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

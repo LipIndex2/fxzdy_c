@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n33_deb3" name="n33" xy="68,262" size="616,882" group="n68_dtss" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n34_deb3" name="n34" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="91,349" size="570,626" group="n68_dtss"/>
+    <image id="n35_deb3" name="n35" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="111,627" size="530,46" group="n68_dtss" alpha="0.25" color="#243868"/>
+    <image id="n36_deb3" name="n36" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="111,581" size="530,46" group="n68_dtss" alpha="0.25" color="#4969a6"/>
+    <image id="n76_dtss" name="n76" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="111,719" size="530,46" group="n68_dtss" alpha="0.25" color="#243868"/>
+    <image id="n77_dtss" name="n77" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="111,673" size="530,46" group="n68_dtss" alpha="0.25" color="#4969a6"/>
+    <text id="n40_deb3" name="n40" xy="309,286" pivot="0.5,0.5" size="131,44" group="n68_dtss" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="英雄升级"/>
+    <text id="n60_deb3" name="n60" xy="391,381" size="28,29" group="n68_dtss" fontSize="20" color="#ffffff" strokeColor="#000000" strokeSize="2" text="80"/>
+    <image id="n69_dtss" name="n69" src="dtss5x" fileName="btnImage/jiantou_tag_9.png" pkg="38fa8c75" xy="358,516" group="n74_dtss" color="#fad44e"/>
+    <image id="n70_dtss" name="n70" src="dtss61" fileName="bgImage/sjcg_frame_8.png" pkg="38fa8c75" xy="413,499" group="n74_dtss"/>
+    <image id="n71_dtss" name="n71" src="dtss61" fileName="bgImage/sjcg_frame_8.png" pkg="38fa8c75" xy="274,499" group="n74_dtss"/>
+    <text id="n72_dtss" name="T_stageNextNum" xy="412,509" pivot="0.5,0.5" size="58,42" group="n74_dtss" fontSize="30" color="#ffda59" align="center" vAlign="middle" strokeColor="#1f3473" strokeSize="2" text="+20"/>
+    <text id="n73_dtss" name="T_stageNum" xy="282,509" pivot="0.5,0.5" size="40,42" group="n74_dtss" fontSize="30" color="#ffda59" align="center" vAlign="middle" strokeColor="#1f3473" strokeSize="2" text="+2"/>
+    <group id="n74_dtss" name="n74" xy="274,499" size="196,62" group="n68_dtss"/>
+    <component id="n82_odo5" name="item_hero" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="317,371" group="n68_dtss" scale="0.85,0.85"/>
+    <component id="n75_dtss" name="n75" src="dtss55" fileName="item/WeaponItem.xml" xy="322,376" group="n68_dtss" visible="false"/>
+    <list id="n78_dtss" name="list_attr" xy="198,586" size="383,178" group="n68_dtss" lineGap="10" defaultItem="ui://69f29748dtss6m">
+      <relation target="" sidePair="center-center"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n81_dtss" name="btn_qd" src="dtss5f" fileName="btn/UpBtn1.xml" xy="222,1002" group="n68_dtss">
+      <Button title="升级"/>
+    </component>
+    <image id="n54_deb3" name="n54" src="dtss5z" fileName="bgImage/biaoti_msg.png" pkg="38fa8c75" xy="260,781" size="233,45" group="n84_odo5" color="#2f457b"/>
+    <text id="n56_deb3" name="n56" xy="320,785" size="107,36" group="n84_odo5" fontSize="26" color="#f7fcc4" text="解锁技能"/>
+    <component id="n80_dtss" name="item_skill" src="c8g7vvv1fo" fileName="item/HeroSkillItem.xml" xy="329,816" group="n84_odo5" pkg="38fa8c75"/>
+    <group id="n84_odo5" name="G_skill" xy="260,781" size="233,159" group="n68_dtss" advanced="true"/>
+    <group id="n68_dtss" name="n68" xy="68,262" size="616,882"/>
+  </displayList>
+</component>

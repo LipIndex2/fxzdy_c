@@ -1,0 +1,202 @@
+
+oketaer_upper.png
+size: 700,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack1_shaohong_1
+  rotate: false
+  xy: 490, 300
+  size: 49, 52
+  orig: 175, 150
+  offset: 46, 38
+  index: -1
+images/effect/attack1_shaohong_10
+  rotate: true
+  xy: 386, 6
+  size: 44, 47
+  orig: 175, 150
+  offset: 55, 66
+  index: -1
+images/effect/attack1_shaohong_11
+  rotate: false
+  xy: 620, 3
+  size: 44, 42
+  orig: 175, 150
+  offset: 55, 71
+  index: -1
+images/effect/attack1_shaohong_12
+  rotate: false
+  xy: 655, 21
+  size: 44, 47
+  orig: 175, 150
+  offset: 55, 67
+  index: -1
+images/effect/attack1_shaohong_13
+  rotate: true
+  xy: 514, 4
+  size: 46, 47
+  orig: 175, 150
+  offset: 58, 75
+  index: -1
+images/effect/attack1_shaohong_14
+  rotate: false
+  xy: 578, 26
+  size: 51, 51
+  orig: 175, 150
+  offset: 58, 71
+  index: -1
+images/effect/attack1_shaohong_15
+  rotate: false
+  xy: 628, 153
+  size: 70, 74
+  orig: 175, 150
+  offset: 1, 38
+  index: -1
+images/effect/attack1_shaohong_16
+  rotate: false
+  xy: 421, 29
+  size: 64, 71
+  orig: 175, 150
+  offset: 14, 38
+  index: -1
+images/effect/attack1_shaohong_17
+  rotate: false
+  xy: 504, 240
+  size: 63, 64
+  orig: 175, 150
+  offset: 19, 36
+  index: -1
+images/effect/attack1_shaohong_18
+  rotate: false
+  xy: 364, 42
+  size: 56, 68
+  orig: 175, 150
+  offset: 24, 34
+  index: -1
+images/effect/attack1_shaohong_19
+  rotate: false
+  xy: 519, 43
+  size: 67, 63
+  orig: 175, 150
+  offset: 18, 36
+  index: -1
+images/effect/attack1_shaohong_2
+  rotate: false
+  xy: 174, 31
+  size: 50, 50
+  orig: 175, 150
+  offset: 46, 39
+  index: -1
+images/effect/attack1_shaohong_3
+  rotate: false
+  xy: 268, 28
+  size: 47, 55
+  orig: 175, 150
+  offset: 45, 38
+  index: -1
+images/effect/attack1_shaohong_4
+  rotate: false
+  xy: 314, 41
+  size: 50, 60
+  orig: 175, 150
+  offset: 44, 41
+  index: -1
+images/effect/attack1_shaohong_5
+  rotate: false
+  xy: 126, 30
+  size: 49, 56
+  orig: 175, 150
+  offset: 46, 48
+  index: -1
+images/effect/attack1_shaohong_6
+  rotate: false
+  xy: 613, 108
+  size: 50, 55
+  orig: 175, 150
+  offset: 51, 53
+  index: -1
+images/effect/attack1_shaohong_7
+  rotate: false
+  xy: 222, 22
+  size: 43, 53
+  orig: 175, 150
+  offset: 53, 56
+  index: -1
+images/effect/attack1_shaohong_8
+  rotate: 270
+  xy: 296, 7
+  size: 41, 47
+  orig: 175, 150
+  offset: 58, 61
+  index: -1
+images/effect/attack1_shaohong_9
+  rotate: false
+  xy: 476, 18
+  size: 43, 47
+  orig: 175, 150
+  offset: 56, 61
+  index: -1
+images/effect/attack1_shifa_0
+  rotate: 270
+  xy: 2, 3
+  size: 201, 125
+  orig: 340, 140
+  offset: 7, 5
+  index: -1
+images/effect/attack1_shifa_1
+  rotate: false
+  xy: 2, 340
+  size: 263, 140
+  orig: 340, 140
+  offset: 26, 0
+  index: -1
+images/effect/attack1_shifa_2
+  rotate: 180
+  xy: 263, 340
+  size: 277, 140
+  orig: 340, 140
+  offset: 19, 0
+  index: -1
+images/effect/attack1_shifa_3
+  rotate: false
+  xy: 2, 198
+  size: 257, 140
+  orig: 340, 140
+  offset: 44, 0
+  index: -1
+images/effect/attack1_shifa_4
+  rotate: false
+  xy: 259, 198
+  size: 250, 140
+  orig: 340, 140
+  offset: 54, 0
+  index: -1
+images/effect/attack1_shifa_5
+  rotate: true
+  xy: 540, 224
+  size: 258, 140
+  orig: 340, 140
+  offset: 49, 0
+  index: -1
+images/effect/attack1_shifa_6
+  rotate: 180
+  xy: 389, 95
+  size: 234, 140
+  orig: 340, 140
+  offset: 68, 0
+  index: -1
+images/effect/attack1_shifa_7
+  rotate: 180
+  xy: 146, 77
+  size: 217, 140
+  orig: 340, 140
+  offset: 75, 0
+  index: -1
+images/effect/attack1_shifa_8
+  rotate: false
+  xy: 566, 64
+  size: 132, 46
+  orig: 340, 140
+  offset: 171, 13
+  index: -1

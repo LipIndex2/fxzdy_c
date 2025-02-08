@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kd299s7a">
+  <displayList>
+    <component id="n89_d299" name="timeComp" src="ejy36e" fileName="components/PlayerInfoCountDownTimeComp.xml" xy="405,397"/>
+    <text id="n70_a9a7" name="labelName" xy="212,396" size="55,36" fontSize="26" color="#ffffff" vAlign="middle" text="雷诺"/>
+    <text id="n71_a9a7" name="labelDesc" xy="212,442" size="435,66" fontSize="24" color="#fefefe" vAlign="middle" autoSize="shrink" text="运营活动获得，有效期30天运营活动获得，有效期30天"/>
+    <component id="n90_d299" name="changeComp" src="d2997y" fileName="components/PlayerInfoChangeBtnGroupComp.xml" xy="172,1035"/>
+    <image id="n81_d299" name="bgContent" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="83,552" size="574,470"/>
+    <list id="n84_d299" name="itemList" xy="90,560" size="570,450" layout="flow_hz" overflow="scroll" defaultItem="ui://d4f26126d2997m" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n88_d299" name="n88" src="caj9vvv1cy" fileName="img/sd_A_common_bossfgx_line.png" pkg="38fa8c75" xy="88,521" size="573,3"/>
+    <component id="n91_d299" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="90,383"/>
+  </displayList>
+</component>

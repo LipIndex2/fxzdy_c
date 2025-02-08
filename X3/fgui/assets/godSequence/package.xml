@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="f57ea91d">
+  <resources>
+    <image id="ac400" name="liangdu_duibidu774.png" path="/img/" scale="9grid" scale9grid="0,638,750,52"/>
+    <image id="ac402" name="icgoods_10008_3.png" path="/img/"/>
+    <image id="ac4017" name="cengji_0.png" path="/img/"/>
+    <image id="ac4019" name="sd_A_common_black1_msg.png" path="/img/"/>
+    <image id="ac4020" name="scale_50%_sd_A_common_suo1_icon.png" path="/img/"/>
+    <image id="ac4021" name="yindaoxian.png" path="/img/"/>
+    <image id="ac4027" name="sd_A_common_qipao2_frame.png" path="/img/"/>
+    <component id="ac4028" name="GodSequenceChallengeView.xml" path="/"/>
+    <component id="tl0c29" name="GodSequenceOneGridComp.xml" path="/components/"/>
+    <component id="tl0c2a" name="GodSequenceDialog.xml" path="/components/"/>
+    <component id="qr2y2b" name="GodSequenceLeftRightComp.xml" path="/components/"/>
+    <component id="qr2y2c" name="GodSequenceRewardItemComp.xml" path="/components/"/>
+    <image id="na342d" name="racialPerson1.png" path="/bar/image/" exported="true"/>
+    <image id="na342e" name="racialPerson2.png" path="/bar/image/" exported="true"/>
+    <image id="na342f" name="racialGod1.png" path="/bar/image/" exported="true" scale="tile"/>
+    <image id="na342g" name="racialGod2.png" path="/bar/image/" exported="true" scale="tile"/>
+    <image id="na342h" name="racialMonster1.png" path="/bar/image/" exported="true"/>
+    <image id="na342i" name="racialMonster2.png" path="/bar/image/" exported="true"/>
+    <image id="na342j" name="racialMachine1.png" path="/bar/image/" exported="true"/>
+    <image id="na342k" name="racialMachine2.png" path="/bar/image/" exported="true"/>
+    <component id="na342m" name="GodSequenceShortBar.xml" path="/bar/"/>
+    <component id="na342p" name="GodSequenceChooseView.xml" path="/"/>
+    <component id="na342u" name="GodSequenceOneColComp.xml" path="/components/"/>
+    <image id="na342v" name="tiaomu.png" path="/img/"/>
+    <image id="na342z" name="xlxy1_bg.jpg" path="/img/"/>
+    <image id="116zs30" name="bgCurrentGS.png" path="/img/"/>
+    <component id="vipis31" name="GodSequenceLimitTimeDrawCardBtn.xml" path="/btn/"/>
+    <image id="vipis32" name="zu130451.png" path="/btn/img/"/>
+    <image id="vipis33" name="tubiao.png" path="/btn/img/"/>
+    <image id="8adrs34" name="jijin.png" path="/img/"/>
+    <component id="8adrs35" name="btnjj.xml" path="/btn/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

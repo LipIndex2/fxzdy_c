@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,10" extention="ProgressBar">
+  <displayList>
+    <image id="n0_fxoc" name="n0" src="fxocvvv195" fileName="captainSkill/img/jnjd_blood.png" xy="0,0" size="110,10" color="#29344b">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_fxoc" name="bar" src="fxocvvv195" fileName="captainSkill/img/jnjd_blood.png" xy="0,2" size="110,6" color="#e2bf43">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

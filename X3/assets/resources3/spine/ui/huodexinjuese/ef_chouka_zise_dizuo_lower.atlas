@@ -1,0 +1,13 @@
+
+ef_chouka_zise_dizuo_lower.png
+size: 547,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chouka_zise_dizuo
+  rotate: false
+  xy: 2, 2
+  size: 543, 309
+  orig: 560, 320
+  offset: 8, 1
+  index: -1

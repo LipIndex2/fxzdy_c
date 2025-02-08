@@ -1,0 +1,272 @@
+
+skill01_dilei_loop.png
+size: 876,939
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/duyean01
+  rotate: false
+  xy: 700, 785
+  size: 30, 30
+  orig: 170, 170
+  offset: 58, 37
+  index: -1
+images/effect/duyean02
+  rotate: false
+  xy: 797, 630
+  size: 61, 67
+  orig: 170, 170
+  offset: 49, 36
+  index: -1
+images/effect/duyean03
+  rotate: false
+  xy: 751, 25
+  size: 89, 108
+  orig: 170, 170
+  offset: 44, 36
+  index: -1
+images/effect/duyean04
+  rotate: false
+  xy: 733, 703
+  size: 105, 112
+  orig: 170, 170
+  offset: 39, 36
+  index: -1
+images/effect/duyean05
+  rotate: false
+  xy: 711, 393
+  size: 108, 116
+  orig: 170, 170
+  offset: 39, 35
+  index: -1
+images/effect/duyean06
+  rotate: false
+  xy: 638, 14
+  size: 111, 119
+  orig: 170, 170
+  offset: 40, 32
+  index: -1
+images/effect/duyean07
+  rotate: false
+  xy: 710, 511
+  size: 111, 117
+  orig: 170, 170
+  offset: 40, 32
+  index: -1
+images/effect/duyean08
+  rotate: false
+  xy: 757, 160
+  size: 76, 115
+  orig: 170, 170
+  offset: 77, 31
+  index: -1
+images/effect/duyean09
+  rotate: true
+  xy: 456, 273
+  size: 74, 97
+  orig: 170, 170
+  offset: 78, 32
+  index: -1
+images/effect/duyeliang01
+  rotate: false
+  xy: 555, 270
+  size: 75, 76
+  orig: 128, 128
+  offset: 26, 22
+  index: -1
+images/effect/duyeliang02
+  rotate: false
+  xy: 746, 838
+  size: 99, 99
+  orig: 128, 128
+  offset: 13, 15
+  index: -1
+images/effect/duyeliang03
+  rotate: true
+  xy: 638, 135
+  size: 120, 117
+  orig: 128, 128
+  offset: 0, 10
+  index: -1
+images/effect/duyeliang04
+  rotate: true
+  xy: 586, 348
+  size: 124, 123
+  orig: 128, 128
+  offset: 0, 5
+  index: -1
+images/effect/duyeliang05
+  rotate: false
+  xy: 456, 349
+  size: 128, 125
+  orig: 128, 128
+  offset: 0, 3
+  index: -1
+images/effect/duyeliang06
+  rotate: false
+  xy: 456, 476
+  size: 128, 126
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+images/effect/duyeliang07
+  rotate: true
+  xy: 586, 474
+  size: 128, 122
+  orig: 128, 128
+  offset: 0, 6
+  index: -1
+images/effect/duyeliang08
+  rotate: true
+  xy: 613, 630
+  size: 128, 118
+  orig: 128, 128
+  offset: 0, 10
+  index: -1
+images/effect/duyeliang09
+  rotate: true
+  xy: 711, 277
+  size: 114, 109
+  orig: 128, 128
+  offset: 11, 15
+  index: -1
+images/effect/glow01
+  rotate: false
+  xy: 236, 257
+  size: 218, 218
+  orig: 256, 256
+  offset: 19, 19
+  index: -1
+images/effect/pao01
+  rotate: false
+  xy: 823, 565
+  size: 51, 50
+  orig: 85, 85
+  offset: 18, 15
+  index: -1
+images/effect/pao02
+  rotate: true
+  xy: 823, 511
+  size: 52, 51
+  orig: 85, 85
+  offset: 16, 15
+  index: -1
+images/effect/pao03
+  rotate: false
+  xy: 576, 2
+  size: 51, 57
+  orig: 85, 85
+  offset: 18, 14
+  index: -1
+images/effect/pao04
+  rotate: true
+  xy: 511, 3
+  size: 56, 63
+  orig: 85, 85
+  offset: 17, 13
+  index: -1
+images/effect/pao05
+  rotate: false
+  xy: 733, 630
+  size: 62, 68
+  orig: 85, 85
+  offset: 12, 9
+  index: -1
+images/effect/pao06
+  rotate: false
+  xy: 447, 2
+  size: 62, 57
+  orig: 85, 85
+  offset: 14, 12
+  index: -1
+images/effect/pao07
+  rotate: false
+  xy: 625, 766
+  size: 73, 49
+  orig: 85, 85
+  offset: 10, 12
+  index: -1
+images/effect/quan01
+  rotate: true
+  xy: 625, 817
+  size: 120, 119
+  orig: 256, 256
+  offset: 81, 78
+  index: -1
+images/effect/quan03
+  rotate: false
+  xy: 456, 604
+  size: 155, 154
+  orig: 256, 256
+  offset: 64, 67
+  index: -1
+images/effect/quan05
+  rotate: false
+  xy: 448, 760
+  size: 175, 177
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+images/effect/quan07
+  rotate: true
+  xy: 447, 61
+  size: 194, 189
+  orig: 256, 256
+  offset: 44, 51
+  index: -1
+images/effect/quan09
+  rotate: false
+  xy: 240, 509
+  size: 214, 197
+  orig: 256, 256
+  offset: 33, 48
+  index: -1
+images/effect/quan11
+  rotate: true
+  xy: 238, 708
+  size: 229, 208
+  orig: 256, 256
+  offset: 25, 43
+  index: -1
+images/effect/quan13
+  rotate: true
+  xy: 234, 16
+  size: 230, 211
+  orig: 256, 256
+  offset: 24, 43
+  index: -1
+images/effect/quan16
+  rotate: false
+  xy: 2, 248
+  size: 232, 227
+  orig: 256, 256
+  offset: 24, 29
+  index: -1
+images/effect/quan18
+  rotate: false
+  xy: 2, 707
+  size: 234, 230
+  orig: 256, 256
+  offset: 22, 26
+  index: -1
+images/effect/quan20
+  rotate: false
+  xy: 2, 19
+  size: 230, 227
+  orig: 256, 256
+  offset: 23, 29
+  index: -1
+images/effect/quan22
+  rotate: false
+  xy: 2, 477
+  size: 236, 228
+  orig: 256, 256
+  offset: 17, 28
+  index: -1
+images/effect/quan24
+  rotate: true
+  xy: 822, 280
+  size: 229, 25
+  orig: 256, 256
+  offset: 22, 68
+  index: -1

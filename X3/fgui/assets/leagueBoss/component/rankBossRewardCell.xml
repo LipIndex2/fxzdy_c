@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="599,130">
+  <controller name="rank" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n18_bc8b" name="n18" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="599,128"/>
+    <image id="n19_bc8b" name="n19" src="bc8b35" fileName="img/scale_85%_sd_A_common_paimingframe.png" xy="3,3"/>
+    <image id="n26_bc8b" name="n26" src="gkgvvvv19k" fileName="rank/images/no2_icon.png" pkg="38fa8c75" xy="34,30">
+      <gearDisplay controller="rank" pages="1"/>
+    </image>
+    <image id="n28_bc8b" name="n28" src="gkgvvvv19l" fileName="rank/images/no3_icon.png" pkg="38fa8c75" xy="39,30">
+      <gearDisplay controller="rank" pages="2"/>
+    </image>
+    <text id="n30_bc8b" name="rankTxt" xy="5,33" pivot="0.5,0.5" size="170,62" fontSize="46" color="#58c2ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="40000-8000">
+      <gearDisplay controller="rank" pages="3"/>
+    </text>
+    <component id="n33_sh62" name="rewardList" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="188,18" size="424,109" scale="0.9,0.9"/>
+    <image id="n34_sh62" name="n34" src="gkgvvvv19j" fileName="rank/images/no1_icon.png" pkg="38fa8c75" xy="34,30">
+      <gearDisplay controller="rank" pages="0"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="628,165">
+  <controller name="state" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="无人驻守"/>
+    <remark page="1" value="我驻守"/>
+    <remark page="2" value="同盟驻守"/>
+    <remark page="3" value="敌方驻守"/>
+  </controller>
+  <controller name="style" pages="0,,1," selected="0">
+    <remark page="0" value="工厂"/>
+    <remark page="1" value="矿"/>
+  </controller>
+  <displayList>
+    <image id="n3_fdf1" name="n3" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,28" size="608,137"/>
+    <component id="n33_fdf1" name="iconMarker" src="gtlw125" fileName="component/LeagueExploreMarker.xml" xy="526,0"/>
+    <image id="n37_gtlw" name="n37" src="gtlwvvv1hn" fileName="bgImage/tiaoguo.png" pkg="38fa8c75" xy="70,45" size="104,104" group="n38_gtlw" alpha="0.5"/>
+    <image id="n35_gtlw" name="n35" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="94,69" size="56,56" group="n38_gtlw"/>
+    <text id="n36_gtlw" name="lbOccupyTip" xy="192,75" size="93,42" group="n38_gtlw" fontSize="30" color="#9bbeff" vAlign="middle" text="未驻守"/>
+    <group id="n38_gtlw" name="gNone" xy="70,45" size="215,104" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+      <gearXY controller="style" pages="1" values="20,45" default="70,45"/>
+    </group>
+    <component id="n34_gtlw" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="122,97" pivot="0.5,0.5" anchor="true" group="n39_gtlw"/>
+    <text id="n9_fdf1" name="lbName" xy="192,56" size="184,36" group="n39_gtlw" fontSize="26" color="#f65a5c" vAlign="middle" strokeColor="#161717" strokeSize="2" text="玩家名字六个字">
+      <gearColor controller="state" pages="1,2" values="#1de756,#161717|#2eaeff,#161717" default="#f65a5c,#161717"/>
+    </text>
+    <text id="n10_fdf1" name="lbFight" xy="192,101" size="145,36" group="n39_gtlw" fontSize="26" color="#e7f7ff" vAlign="middle" strokeColor="#171718" strokeSize="2" text="战力:25000"/>
+    <group id="n39_gtlw" name="gInfo" xy="70,45" size="306,104" advanced="true">
+      <gearDisplay controller="state" pages="1,2,3"/>
+      <gearXY controller="style" pages="1" values="20,45" default="70,45"/>
+    </group>
+    <component id="n40_8g0d" name="btnTop" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="476,79" size="115,58">
+      <Button title="置顶"/>
+    </component>
+    <image id="n4_fdf1" name="n4" src="fdf1109" fileName="img/bianhao.png" xy="4,37" group="n41_woyg"/>
+    <text id="n5_fdf1" name="lbIdx" xy="37,96" pivot="0.5,0.5" anchor="true" size="30,70" group="n41_woyg" fontSize="26" color="#ebf7fa" align="center" vAlign="middle" autoSize="none" strokeColor="#171718" strokeSize="2" text="1号"/>
+    <group id="n41_woyg" name="gIdx" xy="4,37" size="58,119" advanced="true">
+      <gearDisplay controller="style" pages="0"/>
+    </group>
+  </displayList>
+</component>

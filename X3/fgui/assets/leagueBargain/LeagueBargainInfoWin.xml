@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kc9kws8l">
+  <displayList>
+    <component id="n45_c9kw" name="bgM" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="124,333" size="498,572" group="n44_mki7"/>
+    <image id="n37_26e0" name="n37" src="26e019" fileName="img/sd_A_common_tisp_frame.png" xy="138,392" group="n44_mki7"/>
+    <text id="n38_26e0" name="labelTitle" xy="301,408" size="153,42" group="n44_mki7" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="未砍价成员"/>
+    <image id="n39_26e0" name="n39" src="26e020" fileName="img/scale_55%_sd_A_common_word_tag_0.png" xy="173,428" group="n44_mki7" alpha="0.5"/>
+    <image id="n40_26e0" name="n40" src="26e021" fileName="img/scale_55%_sd_A_common_word_tag.png" xy="465,428" group="n44_mki7" alpha="0.5"/>
+    <list id="n43_mki7" name="rowList" xy="169,473" size="434,404" group="n44_mki7" overflow="scroll" lineGap="3" defaultItem="ui://0260141fmki724" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n44_mki7" name="G_a" xy="124,333" size="498,572" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

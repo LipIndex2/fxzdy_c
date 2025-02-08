@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="125,46">
+  <displayList>
+    <image id="n61_eu7e" name="n61" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="125,37" group="n64_eu7e" alpha="0.5"/>
+    <image id="n62_eu7e" name="n62" src="26e04" fileName="img/scale_60%_sd_A_common_icgoods_10032_4.png" xy="24,18" pivot="0.5,0.5" anchor="true" group="n64_eu7e"/>
+    <text id="n63_eu7e" name="labelCount" xy="46,1" size="72,34" group="n64_eu7e" fontSize="24" color="#ffe673" autoSize="none" text="-13"/>
+    <group id="n64_eu7e" name="n64" xy="0,0" size="125,37"/>
+  </displayList>
+</component>

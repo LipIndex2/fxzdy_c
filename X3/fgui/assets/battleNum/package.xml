@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rdjzh7h2">
+  <resources>
+    <font id="jy2zv16i" name="Font_battle_blue.fnt" path="/" exported="true"/>
+    <font id="jy2zv16k" name="Font_battle_green.fnt" path="/" exported="true"/>
+    <font id="jy2zv16h" name="Font_battle_red.fnt" path="/" exported="true"/>
+    <font id="jy2zv150" name="Font_battle_white.fnt" path="/" exported="true"/>
+    <font id="8qld1s" name="Font_blue.fnt" path="/" exported="true"/>
+    <font id="eowx80" name="Font_dailyTaskScore.fnt" path="/" exported="true"/>
+    <font id="8qldc" name="Font_green.fnt" path="/" exported="true"/>
+    <font id="8qldr" name="Font_red.fnt" path="/" exported="true"/>
+    <font id="8qld1u" name="Font_white.fnt" path="/" exported="true"/>
+    <font id="8qld1t" name="Font_yellow.fnt" path="/" exported="true"/>
+    <image id="8qlds" name="bj0_word.png" path="/" exported="true"/>
+    <image id="jy2zv151" name="bj1_0.png" path="/" exported="true"/>
+    <image id="jy2zv152" name="bj1_1.png" path="/" exported="true"/>
+    <image id="jy2zv153" name="bj1_10.png" path="/" exported="true"/>
+    <image id="jy2zv154" name="bj1_2.png" path="/" exported="true"/>
+    <image id="jy2zv155" name="bj1_3.png" path="/" exported="true"/>
+    <image id="jy2zv156" name="bj1_4.png" path="/" exported="true"/>
+    <image id="jy2zv157" name="bj1_5.png" path="/" exported="true"/>
+    <image id="jy2zv158" name="bj1_6.png" path="/" exported="true"/>
+    <image id="jy2zv159" name="bj1_7.png" path="/" exported="true"/>
+    <image id="jy2zv15a" name="bj1_8.png" path="/" exported="true"/>
+    <image id="jy2zv15b" name="bj1_9.png" path="/" exported="true"/>
+    <image id="jy2zv15c" name="bj1_k.png" path="/" exported="true"/>
+    <image id="8qldt" name="bj1_word.png" path="/" exported="true"/>
+    <image id="8qldu" name="bj2_word.png" path="/" exported="true"/>
+    <image id="8qldv" name="bj3_word.png" path="/" exported="true"/>
+    <image id="8qldw" name="bj4_word.png" path="/" exported="true"/>
+    <image id="8qldx" name="bj5_word.png" path="/" exported="true"/>
+    <image id="8qldy" name="bj6_word.png" path="/" exported="true"/>
+    <image id="8qldz" name="bj7_word.png" path="/" exported="true"/>
+    <image id="8qld10" name="bj8_word.png" path="/" exported="true"/>
+    <image id="8qld11" name="bj9_word.png" path="/" exported="true"/>
+    <image id="jy2zv15d" name="bj_0.png" path="/" exported="true"/>
+    <image id="jy2zv15e" name="bj_1.png" path="/" exported="true"/>
+    <image id="jy2zv15f" name="bj_10.png" path="/" exported="true"/>
+    <image id="jy2zv15g" name="bj_2.png" path="/" exported="true"/>
+    <image id="jy2zv15h" name="bj_3.png" path="/" exported="true"/>
+    <image id="jy2zv15i" name="bj_4.png" path="/" exported="true"/>
+    <image id="jy2zv15j" name="bj_5.png" path="/" exported="true"/>
+    <image id="jy2zv15k" name="bj_6.png" path="/" exported="true"/>
+    <image id="jy2zv15l" name="bj_7.png" path="/" exported="true"/>
+    <image id="jy2zv15m" name="bj_8.png" path="/" exported="true"/>
+    <image id="jy2zv15n" name="bj_9.png" path="/" exported="true"/>
+    <image id="jy2zv15o" name="bj_K.png" path="/" exported="true"/>
+    <image id="8qld12" name="bjjia_word.png" path="/" exported="true"/>
+    <image id="8qld13" name="bjjian_word.png" path="/" exported="true"/>
+    <image id="8qld14" name="cj0_word.png" path="/" exported="true"/>
+    <image id="8qld15" name="cj1_word.png" path="/" exported="true"/>
+    <image id="8qld16" name="cj2_word.png" path="/" exported="true"/>
+    <image id="8qld17" name="cj3_word.png" path="/" exported="true"/>
+    <image id="8qld18" name="cj4_word.png" path="/" exported="true"/>
+    <image id="8qld19" name="cj5_word.png" path="/" exported="true"/>
+    <image id="8qld1a" name="cj6_word.png" path="/" exported="true"/>
+    <image id="8qld1b" name="cj7_word.png" path="/" exported="true"/>
+    <image id="8qld1c" name="cj8_word.png" path="/" exported="true"/>
+    <image id="8qld1d" name="cj9_word.png" path="/" exported="true"/>
+    <image id="8qld1e" name="cjexp_word.png" path="/" exported="true"/>
+    <image id="8qld1f" name="cjjia_word.png" path="/" exported="true"/>
+    <image id="8qld1g" name="cjjian_word.png" path="/" exported="true"/>
+    <image id="jy2zv15p" name="fangyu_icon.png" path="/" exported="true"/>
+    <image id="eowx7q" name="hyd_0.png" path="/" exported="true"/>
+    <image id="eowx7r" name="hyd_1.png" path="/" exported="true"/>
+    <image id="eowx7s" name="hyd_2.png" path="/" exported="true"/>
+    <image id="eowx7t" name="hyd_3.png" path="/" exported="true"/>
+    <image id="eowx7u" name="hyd_4.png" path="/" exported="true"/>
+    <image id="eowx7v" name="hyd_5.png" path="/" exported="true"/>
+    <image id="eowx7w" name="hyd_6.png" path="/" exported="true"/>
+    <image id="eowx7x" name="hyd_7.png" path="/" exported="true"/>
+    <image id="eowx7y" name="hyd_8.png" path="/" exported="true"/>
+    <image id="eowx7z" name="hyd_9.png" path="/" exported="true"/>
+    <image id="jy2zv15r" name="lanse_0.png" path="/" exported="true"/>
+    <image id="jy2zv15s" name="lanse_1.png" path="/" exported="true"/>
+    <image id="jy2zv15t" name="lanse_2.png" path="/" exported="true"/>
+    <image id="jy2zv15u" name="lanse_3.png" path="/" exported="true"/>
+    <image id="jy2zv15v" name="lanse_4.png" path="/" exported="true"/>
+    <image id="jy2zv15w" name="lanse_5.png" path="/" exported="true"/>
+    <image id="jy2zv15x" name="lanse_6.png" path="/" exported="true"/>
+    <image id="jy2zv15y" name="lanse_7.png" path="/" exported="true"/>
+    <image id="jy2zv15z" name="lanse_9.png" path="/" exported="true"/>
+    <image id="jy2zv160" name="lanse_98.png" path="/" exported="true"/>
+    <image id="jy2zv163" name="lanse_K.png" path="/" exported="true"/>
+    <image id="jy2zv161" name="lanse_jia.png" path="/" exported="true"/>
+    <image id="jy2zv162" name="lanse_jian.png" path="/" exported="true"/>
+    <image id="jy2zv164" name="luse_0.png" path="/" exported="true"/>
+    <image id="jy2zv165" name="luse_1.png" path="/" exported="true"/>
+    <image id="jy2zv166" name="luse_2.png" path="/" exported="true"/>
+    <image id="jy2zv167" name="luse_3.png" path="/" exported="true"/>
+    <image id="jy2zv168" name="luse_4.png" path="/" exported="true"/>
+    <image id="jy2zv169" name="luse_5.png" path="/" exported="true"/>
+    <image id="jy2zv16a" name="luse_6.png" path="/" exported="true"/>
+    <image id="jy2zv16b" name="luse_7.png" path="/" exported="true"/>
+    <image id="jy2zv16c" name="luse_8.png" path="/" exported="true"/>
+    <image id="jy2zv16d" name="luse_9.png" path="/" exported="true"/>
+    <image id="jy2zv16g" name="luse_K.png" path="/" exported="true"/>
+    <image id="jy2zv16e" name="luse_jia.png" path="/" exported="true"/>
+    <image id="jy2zv16f" name="luse_jiantou.png" path="/" exported="true"/>
+    <image id="8qld1w" name="miss0_word.png" path="/" exported="true"/>
+    <image id="8qld1h" name="miss1_word.png" path="/" exported="true"/>
+    <image id="8qld1i" name="miss2_word.png" path="/" exported="true"/>
+    <image id="8qld1j" name="miss3_word.png" path="/" exported="true"/>
+    <image id="8qld1k" name="miss4_word.png" path="/" exported="true"/>
+    <image id="8qld1l" name="miss5_word.png" path="/" exported="true"/>
+    <image id="8qld1m" name="miss6_word.png" path="/" exported="true"/>
+    <image id="8qld1n" name="miss7_word.png" path="/" exported="true"/>
+    <image id="8qld1o" name="miss8_word.png" path="/" exported="true"/>
+    <image id="8qld1p" name="miss9_word.png" path="/" exported="true"/>
+    <image id="8qld1q" name="missjia_word.png" path="/" exported="true"/>
+    <image id="8qld1r" name="missjian_word_0004_-.png" path="/" exported="true"/>
+    <image id="8qldo" name="sh0_word.png" path="/" exported="true"/>
+    <image id="8qldp" name="sh1_word.png" path="/" exported="true"/>
+    <image id="8qldq" name="sh2_word.png" path="/" exported="true"/>
+    <image id="8qldf" name="sh3_word.png" path="/" exported="true"/>
+    <image id="8qldg" name="sh4_word.png" path="/" exported="true"/>
+    <image id="8qldh" name="sh5_word.png" path="/" exported="true"/>
+    <image id="8qldi" name="sh6_word.png" path="/" exported="true"/>
+    <image id="8qldj" name="sh7_word.png" path="/" exported="true"/>
+    <image id="8qldk" name="sh8_word.png" path="/" exported="true"/>
+    <image id="8qldl" name="sh9_word.png" path="/" exported="true"/>
+    <image id="8qldm" name="shjia_word.png" path="/" exported="true"/>
+    <image id="8qldn" name="shjian_word.png" path="/" exported="true"/>
+    <image id="8qld8" name="zl0_word.png" path="/" exported="true"/>
+    <image id="8qld9" name="zl1_word.png" path="/" exported="true"/>
+    <image id="8qlda" name="zl2_word.png" path="/" exported="true"/>
+    <image id="8qldb" name="zl3_word.png" path="/" exported="true"/>
+    <image id="8qld2" name="zl4_word.png" path="/" exported="true"/>
+    <image id="8qld3" name="zl5_word.png" path="/" exported="true"/>
+    <image id="8qld4" name="zl6_word.png" path="/" exported="true"/>
+    <image id="8qld5" name="zl7_word.png" path="/" exported="true"/>
+    <image id="8qld6" name="zl8_word.png" path="/" exported="true"/>
+    <image id="8qld7" name="zl9_word.png" path="/" exported="true"/>
+    <image id="8qlde" name="zljia_word.png" path="/" exported="true"/>
+    <image id="8qldd" name="zljian_word.png" path="/" exported="true"/>
+    <component id="lqg622" name="HurtNum.xml" path="/num/" exported="true"/>
+    <component id="lqg623" name="HealNum.xml" path="/num/" exported="true"/>
+    <component id="lqg624" name="MaterialNum.xml" path="/num/" exported="true"/>
+    <component id="lqg625" name="RealHurtNum.xml" path="/num/" exported="true"/>
+    <component id="jy2zv16j" name="ShieldNum.xml" path="/num/" exported="true"/>
+    <component id="jy2zv16l" name="CritNum.xml" path="/num/" exported="true"/>
+    <component id="jy2zv16m" name="CritRealHurtNum.xml" path="/num/" exported="true"/>
+    <component id="jy2zv16n" name="AttrUpNum.xml" path="/num/" exported="true"/>
+    <component id="jy2zv16s" name="AbnormalDownNum.xml" path="/num/" exported="true"/>
+    <image id="pdp1v16t" name="bj2_0.png" path="/" exported="true"/>
+    <image id="pdp1v16u" name="bj2_1.png" path="/" exported="true"/>
+    <image id="pdp1v16v" name="bj2_10.png" path="/" exported="true"/>
+    <image id="pdp1v16w" name="bj2_2.png" path="/" exported="true"/>
+    <image id="pdp1v16x" name="bj2_3.png" path="/" exported="true"/>
+    <image id="pdp1v16y" name="bj2_4.png" path="/" exported="true"/>
+    <image id="pdp1v16z" name="bj2_5.png" path="/" exported="true"/>
+    <image id="pdp1v170" name="bj2_6.png" path="/" exported="true"/>
+    <image id="pdp1v171" name="bj2_7.png" path="/" exported="true"/>
+    <image id="pdp1v172" name="bj2_8.png" path="/" exported="true"/>
+    <image id="pdp1v173" name="bj2_9.png" path="/" exported="true"/>
+    <image id="pdp1v174" name="bj2_jia.png" path="/" exported="true"/>
+    <image id="pdp1v175" name="bj2_k.png" path="/" exported="true"/>
+    <font id="pdp1v176" name="Font_battle_yellow.fnt" path="/" exported="true"/>
+    <component id="pdp1v177" name="NormalHurtNum.xml" path="/num/" exported="true"/>
+    <component id="pdp1v178" name="OtherNum.xml" path="/num/" exported="true"/>
+    <image id="pfd4v179" name="+.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17a" name="0.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17b" name="1.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17c" name="2.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17d" name="3.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17e" name="4.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17f" name="5.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17g" name="6.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17h" name="7.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17i" name="8.png" path="/limitPack/" exported="true"/>
+    <image id="pfd4v17j" name="9.png" path="/" exported="true"/>
+    <font id="pfd4v17k" name="Font_limit_pack.fnt" path="/limitPack/" exported="true"/>
+    <font id="s8ulv17l" name="Font_zl_bai.fnt" path="/" exported="true"/>
+    <image id="s8ulv17m" name="0_bai.png" path="/"/>
+    <image id="s8ulv17n" name="1_bai.png" path="/"/>
+    <image id="s8ulv17o" name="2_bai.png" path="/"/>
+    <image id="s8ulv17p" name="3_bai.png" path="/"/>
+    <image id="s8ulv17q" name="4_bai.png" path="/"/>
+    <image id="s8ulv17r" name="5_bai.png" path="/"/>
+    <image id="s8ulv17s" name="6_bai.png" path="/"/>
+    <image id="s8ulv17t" name="7_bai.png" path="/"/>
+    <image id="s8ulv17u" name="8_bai.png" path="/"/>
+    <image id="s8ulv17v" name="9_bai.png" path="/"/>
+    <image id="s8ulv17w" name="万_bai.png" path="/"/>
+    <image id="s8ulv17x" name="._bai.png" path="/"/>
+    <font id="s8ulv17y" name="Font_zl_lv.fnt" path="/" exported="true"/>
+    <image id="s8ulv17z" name="0_lv.png" path="/"/>
+    <image id="s8ulv180" name="1_lv.png" path="/"/>
+    <image id="s8ulv181" name="2_lv.png" path="/"/>
+    <image id="s8ulv182" name="3_lv.png" path="/"/>
+    <image id="s8ulv183" name="4_lv.png" path="/"/>
+    <image id="s8ulv184" name="5_lv.png" path="/"/>
+    <image id="s8ulv185" name="6_lv.png" path="/"/>
+    <image id="s8ulv186" name="7_lv.png" path="/"/>
+    <image id="s8ulv187" name="8_lv.png" path="/"/>
+    <image id="s8ulv188" name="9_lv.png" path="/"/>
+    <image id="s8ulv189" name="＋_lv.png" path="/"/>
+    <image id="s8ulv18a" name="red_3.png" path="/"/>
+    <image id="s8ulv18b" name="red_4.png" path="/"/>
+    <image id="s8ulv18c" name="red_5.png" path="/"/>
+    <image id="s8ulv18d" name="red_6.png" path="/"/>
+    <image id="s8ulv18e" name="red_7.png" path="/"/>
+    <image id="s8ulv18f" name="red_8.png" path="/"/>
+    <image id="s8ulv18g" name="red_9.png" path="/"/>
+    <image id="s8ulv18h" name="red_-.png" path="/"/>
+    <image id="s8ulv18i" name="red_0.png" path="/"/>
+    <image id="s8ulv18j" name="red_1.png" path="/"/>
+    <image id="s8ulv18k" name="red_2.png" path="/"/>
+    <font id="s8ulv18l" name="Font_zl_red.fnt" path="/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

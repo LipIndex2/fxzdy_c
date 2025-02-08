@@ -1,0 +1,279 @@
+
+chongwu_jiefu.png
+size: 1169,1191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 562, 57
+  size: 153, 85
+  orig: 153, 85
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 1058, 1019
+  size: 108, 171
+  orig: 108, 171
+  offset: 0, 0
+  index: -1
+js010
+  rotate: true
+  xy: 951, 569
+  size: 232, 146
+  orig: 232, 146
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 1006, 64
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 1031, 342
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 1040, 290
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 951, 25
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 513, 550
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 951, 198
+  size: 93, 184
+  orig: 94, 184
+  offset: 1, 0
+  index: -1
+js04
+  rotate: false
+  xy: 392, 1175
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 549, 521
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 370, 237
+  size: 108, 25
+  orig: 108, 26
+  offset: 0, 1
+  index: -1
+js07
+  rotate: false
+  xy: 418, 505
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 476, 483
+  size: 97, 44
+  orig: 108, 50
+  offset: 5, 0
+  index: -1
+js09
+  rotate: false
+  xy: 1036, 200
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 631, 143
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 726, 803
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 737, 415
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 737, 26
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 844, 803
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 844, 415
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 844, 26
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 951, 803
+  size: 105, 387
+  orig: 105, 387
+  offset: 0, 0
+  index: -1
+sh1
+  rotate: false
+  xy: 562, 5
+  size: 155, 49
+  orig: 475, 255
+  offset: 116, 51
+  index: -1
+sh10
+  rotate: false
+  xy: 2, 704
+  size: 408, 229
+  orig: 475, 255
+  offset: 67, 0
+  index: -1
+sh11
+  rotate: false
+  xy: 2, 482
+  size: 414, 220
+  orig: 475, 255
+  offset: 56, 1
+  index: -1
+sh12
+  rotate: true
+  xy: 602, 531
+  size: 362, 122
+  orig: 475, 255
+  offset: 97, 23
+  index: -1
+sh13
+  rotate: true
+  xy: 605, 919
+  size: 270, 112
+  orig: 475, 255
+  offset: 72, 38
+  index: -1
+sh14
+  rotate: false
+  xy: 605, 903
+  size: 77, 14
+  orig: 112, 63
+  offset: 12, 11
+  index: -1
+sh2
+  rotate: true
+  xy: 951, 384
+  size: 182, 91
+  orig: 475, 255
+  offset: 108, 51
+  index: -1
+sh3
+  rotate: true
+  xy: 418, 629
+  size: 264, 182
+  orig: 475, 255
+  offset: 62, 30
+  index: -1
+sh4
+  rotate: true
+  xy: 412, 895
+  size: 294, 191
+  orig: 475, 255
+  offset: 39, 39
+  index: -1
+sh5
+  rotate: false
+  xy: 370, 264
+  size: 259, 216
+  orig: 475, 255
+  offset: 54, 30
+  index: -1
+sh6
+  rotate: false
+  xy: 288, 9
+  size: 272, 224
+  orig: 475, 255
+  offset: 48, 25
+  index: -1
+sh7
+  rotate: false
+  xy: 2, 2
+  size: 284, 231
+  orig: 475, 255
+  offset: 42, 20
+  index: -1
+sh8
+  rotate: false
+  xy: 2, 235
+  size: 366, 245
+  orig: 475, 255
+  offset: 98, 10
+  index: -1
+sh9
+  rotate: false
+  xy: 2, 935
+  size: 388, 254
+  orig: 475, 255
+  offset: 77, 1
+  index: -1
+yuqi
+  rotate: false
+  xy: 418, 527
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 392, 1162
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

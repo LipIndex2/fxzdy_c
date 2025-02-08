@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="633,70">
+  <displayList>
+    <image id="n2_n19g" name="bg1" src="c30b7" fileName="img/sd_A_common_baise_msg_33.jpg" xy="0,0"/>
+    <image id="n22_n19g" name="bg2" src="c30b20" fileName="img/sd_A_common_baise_msg.jpg" xy="0,0"/>
+    <text id="n3_n19g" name="hurtLab" xy="118,12" size="140,32" fontSize="22" color="#fef5ca" align="center" autoSize="none" text="18522"/>
+    <image id="n11_n19g" name="n11" src="c30b8" fileName="img/scale_50%_sd_A_common_pmd_msg.jpg" xy="118,49"/>
+    <image id="n12_n19g" name="hurtPro" src="c30b9" fileName="img/scale_50%_sd_A_common_baise_msg.jpg" xy="119,50" size="139,9"/>
+    <text id="n13_n19g" name="healLab" xy="298,12" size="140,32" fontSize="22" color="#fef5ca" align="center" autoSize="none" text="18522"/>
+    <image id="n14_n19g" name="n14" src="c30b8" fileName="img/scale_50%_sd_A_common_pmd_msg.jpg" xy="298,49"/>
+    <image id="n15_n19g" name="healPro" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="299,50" size="139,9" color="#2bce9a"/>
+    <text id="n16_n19g" name="endureLab" xy="476,12" size="140,32" fontSize="22" color="#fef5ca" align="center" autoSize="none" text="18522"/>
+    <image id="n17_n19g" name="n17" src="c30b8" fileName="img/scale_50%_sd_A_common_pmd_msg.jpg" xy="476,49"/>
+    <image id="n18_n19g" name="endurePro" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="477,50" size="139,9" color="#32b4f7"/>
+    <loader id="n23_n19g" name="qualityIcon" xy="60,33" pivot="0.5,0.5" anchor="true" size="50,50" scale="0.6,0.6" autoSize="true"/>
+    <loader id="n24_n19g" name="headIcon" xy="60,33" pivot="0.5,0.5" anchor="true" size="50,50" scale="0.5,0.5" autoSize="true"/>
+  </displayList>
+</component>

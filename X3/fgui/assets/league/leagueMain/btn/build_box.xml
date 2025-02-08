@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="235,266" pivot="0.5,0.5" extention="Button">
+  <controller name="state" exported="true" pages="0,,1," selected="0"/>
+  <controller name="lock" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <image id="n22_qr2a" name="n22" src="qr2a11l" fileName="leagueMain/img/build_box.png" xy="45,113" scale="0.7,0.7"/>
+    <component id="n14_qr2a" name="boxBtn" src="h90v2i" fileName="leagueMain/btn/leagueComBtn.xml" xy="0,0">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="联盟宝箱"/>
+    </component>
+    <image id="n23_kvs3" name="n23" src="894b2" fileName="leagueMain/img/scale_60%_sd_A_common_jnmb_frame.png" xy="91,157" group="n25_kvs3"/>
+    <image id="n24_kvs3" name="n24" src="894b3" fileName="leagueMain/img/scale_70%_sd_A_common_suo1_icon.png" xy="103,168" group="n25_kvs3"/>
+    <group id="n25_kvs3" name="lock" xy="91,157" size="60,66" advanced="true">
+      <gearDisplay controller="lock" pages="1"/>
+    </group>
+    <text id="n26_kvs3" name="tips" xy="48,78" pivot="0.5,0.5" size="147,42" fontSize="30" color="#9ad3ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="1天23小时">
+      <gearDisplay controller="lock" pages="1,2"/>
+      <gearColor controller="lock" pages="2" values="#5ffb6a,#000000" default="#9ad3ff,#000000"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

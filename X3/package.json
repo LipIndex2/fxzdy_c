@@ -1,0 +1,13 @@
+{
+  "name": "StarWar",
+  "uuid": "32f40a97-3abc-4f48-9cda-6fdf3912efec",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "scripts": {
+    "refresh": "curl http://localhost:7456/asset-db/refresh "
+  },
+  "dependencies": {
+    "fairygui-cc": "^1.1.1"
+  }
+}

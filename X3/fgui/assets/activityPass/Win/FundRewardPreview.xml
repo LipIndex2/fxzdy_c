@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n30_bezo" name="n30" xy="76,253" size="598,799" group="n31_bezo" url="ui://7cvz7rmmbezovv1t" autoSize="true"/>
+    <image id="n6_e706" name="n6" src="bezos" fileName="img/awardbg.png" xy="133,735" size="484,154" group="n31_bezo"/>
+    <image id="n7_e706" name="n7" src="bezos" fileName="img/awardbg.png" xy="133,495" size="484,154" group="n31_bezo"/>
+    <image id="n9_e706" name="n9" src="bezop" fileName="img/tuceng7.png" xy="193,407" group="n31_bezo"/>
+    <image id="n10_e706" name="n10" src="bezoq" fileName="img/jiantou.png" xy="497,407" group="n31_bezo"/>
+    <image id="n28_bezo" name="n28" src="bezoq" fileName="img/jiantou.png" xy="536,686" group="n31_bezo"/>
+    <image id="n29_bezo" name="n29" src="bezop" fileName="img/tuceng7.png" xy="156,686" group="n31_bezo"/>
+    <text id="n3_e706" name="n3" xy="278,291" pivot="0.5,0.5" size="194,64" group="n31_bezo" fontSize="48" color="#ffffff" align="center" vAlign="middle" text="奖励预览"/>
+    <text id="n5_e706" name="n5" xy="223,680" pivot="0.5,0.5" size="301,42" group="n31_bezo" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="完成所有任务后可获得"/>
+    <text id="n8_e706" name="n8" xy="252,400" pivot="0.5,0.5" size="242,42" group="n31_bezo" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="购买后可立即解锁"/>
+    <list id="n26_bezo" name="list_canGetReward" xy="154,530" size="555,109" group="n31_bezo" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n27_bezo" name="list_reward" xy="139,771" size="593,109" group="n31_bezo" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n32_bezo" name="btn_buy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="259,913" size="230,88" group="n31_bezo">
+      <Button titleFontSize="40"/>
+    </component>
+    <component id="n33_8adr" name="textItem" src="8adr25" fileName="item/PassTextItem.xml" xy="32,438" pivot="0.5,0.5" group="n31_bezo" scale="0.7,0.7"/>
+    <group id="n31_bezo" name="n31" xy="32,253" size="700,799" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

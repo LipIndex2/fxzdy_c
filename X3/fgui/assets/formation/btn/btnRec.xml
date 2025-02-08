@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="99,117">
+  <displayList>
+    <image id="n128_ssxx" name="n128" src="95cd0" fileName="img/sd_Rrukoutubiao_rk0010_icon.png" xy="9,0" group="n130_ssxx"/>
+    <text id="n129_ssxx" name="n129" xy="0,83" size="99,34" group="n130_ssxx" fontSize="24" color="#f2f4f4" vAlign="middle" strokeColor="#000000" strokeSize="3" text="阵容推荐"/>
+    <group id="n130_ssxx" name="btn_rec" xy="0,0" size="99,117" advanced="true"/>
+  </displayList>
+</component>

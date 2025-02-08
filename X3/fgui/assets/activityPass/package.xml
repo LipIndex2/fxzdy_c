@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cbdbddd7">
+  <resources>
+    <image id="fd083" name="yeqian-xuanzhong.png" path="/img/"/>
+    <image id="fd084" name="yeqian-weixuan.png" path="/img/"/>
+    <image id="fd086" name="biaoti.png" path="/img/"/>
+    <component id="fd087" name="PassGroupWin.xml" path="/Win/"/>
+    <component id="bezo8" name="PassGroupItem.xml" path="/item/"/>
+    <component id="bezob" name="PassSelectBtn.xml" path="/btn/"/>
+    <component id="bezoc" name="PassAwardItem.xml" path="/item/"/>
+    <component id="bezod" name="PassAwardListItem.xml" path="/item/"/>
+    <image id="bezoe" name="ji_11.png" path="/img/"/>
+    <component id="bezof" name="PassMainWin.xml" path="/Win/"/>
+    <image id="bezog" name="lü.jpg" path="/img/"/>
+    <image id="bezoh" name="lü-shang.png" path="/img/"/>
+    <image id="bezoi" name="dengjitongxingzheng.png" path="/img/"/>
+    <image id="bezoj" name="diban.png" path="/img/"/>
+    <image id="bezok" name="zu11_8.png" path="/img/"/>
+    <component id="bezom" name="FundRewardPreview.xml" path="/Win/"/>
+    <image id="bezop" name="tuceng7.png" path="/img/"/>
+    <image id="bezoq" name="jiantou.png" path="/img/"/>
+    <image id="bezos" name="awardbg.png" path="/img/" scale="9grid" scale9grid="26,27,4,5"/>
+    <component id="oc7819" name="MonthCardFreeBtn.xml" path="/monthCard/component/"/>
+    <component id="oc781e" name="MonthCardDiscount.xml" path="/monthCard/component/"/>
+    <image id="89999" name="yueka_2.png" path="/monthCard/img/"/>
+    <image id="899910" name="zhongshenka_1.png" path="/monthCard/img/"/>
+    <image id="899911" name="jihuodianliang.png" path="/monthCard/img/"/>
+    <image id="899915" name="tqk_word.png" path="/monthCard/img/"/>
+    <image id="oc781a" name="bg_free.png" path="/monthCard/img/" scale="9grid" scale9grid="23,76,8,38"/>
+    <image id="oc781b" name="bg_time.png" path="/monthCard/img/" scale="9grid" scale9grid="10,8,2,16"/>
+    <image id="22151" name="ka.png" path="/monthCard/img/"/>
+    <image id="22157" name="lansexiaojiantou.png" path="/monthCard/img/"/>
+    <image id="221512" name="chengsexiaojiantou.png" path="/monthCard/img/"/>
+    <image id="kb3a1g" name="yueka_1.png" path="/monthCard/img/"/>
+    <component id="oc781c" name="MonthCardItem.xml" path="/monthCard/item/"/>
+    <component id="oc781d" name="MonthCardAdditionItem.xml" path="/monthCard/item/"/>
+    <component id="899916" name="MonthCardMainWin.xml" path="/monthCard/view/"/>
+    <component id="221516" name="MonthCardBuyWin.xml" path="/monthCard/view/"/>
+    <component id="oc781f" name="MonthCardForeverBuyWin.xml" path="/monthCard/view/"/>
+    <component id="llxc1h" name="PassEnterPanel.xml" path="/panel/"/>
+    <image id="llxc1i" name="arm1.png" path="/img/"/>
+    <image id="llxc1j" name="arm2.png" path="/img/"/>
+    <image id="llxc1k" name="arm3.png" path="/img/"/>
+    <component id="os3h1l" name="PassCenterPanel.xml" path="/panel/"/>
+    <component id="os3h1n" name="PassGroupPanel.xml" path="/panel/"/>
+    <image id="m3op1p" name="zu3.png" path="/img/"/>
+    <component id="m3op1s" name="MonthCardFree2Btn.xml" path="/monthCard/component/"/>
+    <image id="m3op1t" name="sd_Hhongdian_002_tag.png" path="/img/"/>
+    <image id="m3op1u" name="scale_65%_sd_A_common_changgui4_btn.png" path="/monthCard/img/"/>
+    <image id="m3op1v" name="sd_Hhongdian_002_tag.png" path="/monthCard/img/"/>
+    <component id="8g0d1w" name="MonthCardMinePanel.xml" path="/monthCard/component/"/>
+    <image id="8g0d1x" name="kuangka.png" path="/monthCard/img/"/>
+    <image id="8g0d1y" name="yueka_3.png" path="/monthCard/img/"/>
+    <image id="8g0d1z" name="juxing16kaobei.png" path="/monthCard/img/"/>
+    <component id="8g0d20" name="MonthCardMineBuyWin.xml" path="/monthCard/view/"/>
+    <component id="8g0d21" name="MonthCardMineMainWin.xml" path="/monthCard/view/"/>
+    <image id="8g0d23" name="biaotizi.png" path="/monthCard/img/"/>
+    <component id="8g0d24" name="MonthCardMineCenterPanel.xml" path="/monthCard/component/"/>
+    <component id="8adr25" name="PassTextItem.xml" path="/item/"/>
+    <image id="8adr26" name="v_lb.png" path="/img/" scale="9grid" scale9grid="20,20,8,2"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

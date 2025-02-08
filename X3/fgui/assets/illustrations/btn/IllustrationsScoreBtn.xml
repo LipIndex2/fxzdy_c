@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="189,70" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n23_424b" name="bg" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="189,70" grayed="true"/>
+    <image id="n25_424b" name="iconScore" src="424b13" fileName="img/zu1041.png" xy="121,35" pivot="0.5,0.5" anchor="true" group="n27_lhcv">
+      <relation target="n24_424b" sidePair="left-right"/>
+    </image>
+    <text id="n24_424b" name="lbScore" xy="71,35" pivot="0.5,0.5" anchor="true" size="45,46" group="n27_lhcv" fontSize="34" color="#ffffff" align="right" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="+3"/>
+    <group id="n27_lhcv" name="pScore" xy="49,12" size="91,46" advanced="true"/>
+    <text id="n29_lhcv" name="lbFull" xy="94,35" pivot="0.5,0.5" anchor="true" size="71,46" fontSize="34" color="#ffffff" align="right" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="已满"/>
+    <component id="n30_lhcv" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="177,7"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

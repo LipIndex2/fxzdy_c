@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,149">
+  <controller name="state" exported="true" pages="0,,1,,2,,3,,8,,9," selected="3">
+    <remark page="0" value="noRank"/>
+    <remark page="1" value="rank"/>
+    <remark page="2" value="myrank"/>
+    <remark page="3" value="myrankNo"/>
+    <remark page="4" value="我的初始化"/>
+    <remark page="5" value="其他初始化"/>
+  </controller>
+  <displayList>
+    <image id="n3_1a16" name="n3" src="ksmg7" fileName="img/liebiao.png" xy="22,0" group="n24_uazn"/>
+    <image id="n4_1a16" name="n4" src="ksmg8" fileName="img/xingzhuang32.png" xy="25,3" group="n24_uazn"/>
+    <group id="n24_uazn" name="n24" xy="22,0" size="686,149" advanced="true">
+      <gearDisplay controller="state" pages="0,1,9"/>
+    </group>
+    <image id="n14_1a16" name="n14" src="ksmgb" fileName="img/ziji_frame.png" xy="0,0" group="n25_uazn"/>
+    <image id="n15_1a16" name="n15" src="ksmgc" fileName="img/ziji1_frame.png" xy="6,6" group="n25_uazn"/>
+    <group id="n25_uazn" name="n25" xy="0,0" size="730,142" advanced="true">
+      <gearDisplay controller="state" pages="2,3,8"/>
+    </group>
+    <component id="n26_uazn" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="179,21" group="n27_uazn"/>
+    <component id="n31_i83d" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="292,62" size="168,72" group="n27_uazn" aspect="true"/>
+    <text id="n28_uazn" name="rankContext2" xy="540,73" pivot="0.5,0.5" size="129,36" group="n27_uazn" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="47层: xxxxxxx">
+      <gearDisplay controller="state" pages="1,2"/>
+    </text>
+    <text id="n18_1a16" name="nameTxt" xy="292,33" pivot="0.5,0.5" size="170,39" group="n27_uazn" fontSize="28" color="#f7f9fd" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="无敌宇宙帅气"/>
+    <text id="n20_1a16" name="rankContext1" xy="486,39" pivot="0.5,0.5" size="237,36" group="n27_uazn" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="47层: xxxxxxx">
+      <gearDisplay controller="state" pages="1,2"/>
+    </text>
+    <text id="n30_uazn" name="rankContext3" xy="479,56" pivot="0.5,0.5" size="239,36" group="n27_uazn" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="47层: xxxxxxx">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <group id="n27_uazn" name="n27" xy="179,21" size="544,113" advanced="true">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </group>
+    <text id="n21_1a16" name="myRank" xy="7,36" pivot="0.5,0.5" size="149,72" fontSize="30" color="#98c2ff" align="center" vAlign="middle" autoSize="none" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="1">
+      <gearDisplay controller="state" pages="2,3"/>
+      <gearFontSize controller="state" pages="3" values="30" default="54"/>
+    </text>
+    <text id="n13_1a16" name="noRank" xy="367,53" size="123,42" fontSize="30" color="#975dcd" vAlign="middle" text="虚位以待">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <text id="n10_1a16" name="rankTxt" xy="32,47" pivot="0.5,0.5" size="116,72" fontSize="54" color="#e5d9ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text="4">
+      <gearDisplay controller="state" pages="0,1"/>
+    </text>
+  </displayList>
+</component>

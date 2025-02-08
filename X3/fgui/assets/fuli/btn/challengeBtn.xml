@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="406,117" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n7_5f25" name="n7" src="5f2510" fileName="img/sd_A_common_changgui1_btn.png" xy="0,0"/>
+    <text id="n8_5f25" name="title" xy="11,32" pivot="0.5,0.5" size="385,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#c96b06" strokeSize="3" autoClearText="true" text="需要挂机关卡通关${key0}关">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <component id="n9_s0hy" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="398,15" controller="type,2"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cbfa4e0c">
+  <resources>
+    <image id="03e41" name="guolv_40.png" path="/img/"/>
+    <image id="03e43" name="sd_Cchouka_ck_bg.jpg" path="/img/"/>
+    <image id="03e46" name="biaoti1_msgkaobei2.png" path="/img/"/>
+    <image id="03e416" name="shengxingchenggong_0.png" path="/img/"/>
+    <component id="03e420" name="WeaponUpStarSuccWin.xml" path="/view/"/>
+    <component id="03e428" name="WeaponUpStarTipWin.xml" path="/view/"/>
+    <image id="03e442" name="xiexia_icon.png" path="/img/"/>
+    <component id="03e443" name="WeaponWearWin.xml" path="/view/"/>
+    <image id="03e445" name="scale_80%_sd_A_common_suo1_icon.png" path="/img/"/>
+    <component id="03e454" name="WeaponInfoWin.xml" path="/view/"/>
+    <image id="03e463" name="gouxuan_frame.png" path="/img/"/>
+    <component id="03e464" name="WeaponConsumeWin.xml" path="/view/"/>
+    <image id="03e467" name="diban.png" path="/img/"/>
+    <image id="03e470" name="kongcao_46.png" path="/img/"/>
+    <image id="03e479" name="shuxingtiao_frame.png" path="/img/"/>
+    <component id="03e491" name="WeaponUpStarWin.xml" path="/view/"/>
+    <component id="r9dw92" name="WeaponConsumeItem.xml" path="/item/"/>
+    <component id="sxwp94" name="WeaponAttrPanel.xml" path="/panel/"/>
+    <component id="sxwp95" name="WeaponAttrItem.xml" path="/item/"/>
+    <component id="cjsd97" name="WeaponUpAttrItem.xml" path="/item/"/>
+    <component id="cjsd99" name="WeaponConsumeAddItem.xml" path="/item/"/>
+    <component id="cjsd9b" name="WeaponUpAttrItem2.xml" path="/item/"/>
+    <component id="cjsd9c" name="WeaponSelectItem.xml" path="/item/"/>
+    <image id="cjsd9f" name="suoopen_icon.png" path="/img/"/>
+    <component id="cjsd9g" name="WeaponLockBtn.xml" path="/btn/"/>
+    <component id="lhcv9h" name="WeaponInfoPreviewWin.xml" path="/view/"/>
+    <image id="sv989j" name="sxcg_frame.png" path="/img/" scale="9grid" scale9grid="3,119,12,438"/>
+    <component id="sv0c9k" name="WeaponTipsSkillItem.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

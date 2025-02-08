@@ -1,0 +1,90 @@
+
+attack2_upper.png
+size: 112,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk2_qiang_00000
+  rotate: false
+  xy: 2, 182
+  size: 78, 50
+  orig: 80, 50
+  offset: 1, 0
+  index: -1
+effect/atk2_qiang_00001
+  rotate: false
+  xy: 2, 141
+  size: 67, 39
+  orig: 80, 50
+  offset: 1, 5
+  index: -1
+effect/atk2_qiang_00002
+  rotate: false
+  xy: 2, 81
+  size: 55, 29
+  orig: 80, 50
+  offset: 2, 9
+  index: -1
+effect/atk2_qiang_00003
+  rotate: true
+  xy: 67, 62
+  size: 55, 29
+  orig: 80, 50
+  offset: 2, 9
+  index: -1
+effect/skill01_fang
+  rotate: true
+  xy: 90, 26
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+effect/skill01_quan_00000
+  rotate: false
+  xy: 82, 182
+  size: 20, 46
+  orig: 32, 64
+  offset: 7, 6
+  index: -1
+effect/skill01_quan_00001
+  rotate: true
+  xy: 2, 2
+  size: 22, 49
+  orig: 32, 64
+  offset: 6, 5
+  index: -1
+effect/skill01_quan_00002
+  rotate: false
+  xy: 63, 5
+  size: 25, 55
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+effect/skill01_quan_00003
+  rotate: true
+  xy: 2, 26
+  size: 25, 57
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+effect/skill01_quan_00004
+  rotate: true
+  xy: 2, 53
+  size: 26, 59
+  orig: 32, 64
+  offset: 3, 2
+  index: -1
+effect/skill01_quan_00005
+  rotate: false
+  xy: 71, 119
+  size: 27, 61
+  orig: 32, 64
+  offset: 3, 1
+  index: -1
+effect/skill01_quan_00006
+  rotate: true
+  xy: 2, 112
+  size: 27, 63
+  orig: 32, 64
+  offset: 3, 1
+  index: -1

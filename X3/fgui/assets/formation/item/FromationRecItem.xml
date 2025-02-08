@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,251">
+  <displayList>
+    <image id="n24_95cd" name="n24" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="611,251" flip="hz">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n25_95cd" name="n25" src="95cd5" fileName="img/xingzhuang2.png" xy="5,5">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <text id="n52_95cd" name="lb_name" xy="36,18" size="115,39" fontSize="28" color="#90bfff" vAlign="middle" strokeColor="#0d0800" strokeSize="2" text="新手进阶"/>
+    <list id="n69_ssxx" name="list_hero" xy="14,84" size="584,133" layout="row" overflow="scroll" scroll="horizontal" colGap="7" defaultItem="ui://4hj3fle9ssxx2b">
+      <relation target="" sidePair="top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n54_95cd" name="btn_use" src="ssxx28" fileName="item/FormationRecUseBtn.xml" xy="479,8">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <image id="n26_95cd" name="n26" src="95cd16" fileName="img/zhankai.png" xy="3,134" size="606,132" group="n70_ssxx"/>
+    <text id="n27_95cd" name="lbBond" xy="47,154" size="113,32" group="n70_ssxx" fontSize="22" color="#82e3ff" vAlign="middle" strokeColor="#0d0800" strokeSize="2" text="激活羁绊："/>
+    <text id="n38_95cd" name="lb_tips" xy="304,221" pivot="0.5,0.5" anchor="true" size="287,32" group="n70_ssxx" fontSize="22" color="#f8fab3" vAlign="middle" strokeColor="#17171b" strokeSize="2" text="新手即可获得阵容，养成简单"/>
+    <list id="n68_ssxx" name="list_type" xy="155,150" size="389,59" group="n70_ssxx" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://4hj3fle9ssxx2a">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n70_ssxx" name="grp_more" xy="3,134" size="606,132" visible="false" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n53_95cd" name="btn_more" src="ssxx2i" fileName="btn/btnRecMore.xml" xy="306,215" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

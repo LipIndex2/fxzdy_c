@@ -1,0 +1,90 @@
+
+baojiangli_hit_lower.png
+size: 359,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_lower_01
+  rotate: false
+  xy: 177, 2
+  size: 58, 29
+  orig: 256, 256
+  offset: 98, 83
+  index: -1
+hit_lower_02
+  rotate: true
+  xy: 213, 218
+  size: 104, 51
+  orig: 256, 256
+  offset: 75, 70
+  index: -1
+hit_lower_03
+  rotate: true
+  xy: 290, 342
+  size: 131, 67
+  orig: 256, 256
+  offset: 60, 62
+  index: -1
+hit_lower_04
+  rotate: true
+  xy: 193, 33
+  size: 154, 76
+  orig: 256, 256
+  offset: 48, 57
+  index: -1
+hit_lower_05
+  rotate: false
+  xy: 2, 4
+  size: 173, 88
+  orig: 256, 256
+  offset: 38, 55
+  index: -1
+hit_lower_06
+  rotate: false
+  xy: 2, 94
+  size: 189, 93
+  orig: 256, 256
+  offset: 30, 55
+  index: -1
+hit_lower_07
+  rotate: false
+  xy: 2, 189
+  size: 200, 91
+  orig: 256, 256
+  offset: 25, 54
+  index: -1
+hit_lower_08
+  rotate: false
+  xy: 2, 378
+  size: 208, 95
+  orig: 256, 256
+  offset: 21, 54
+  index: -1
+hit_lower_09
+  rotate: false
+  xy: 2, 282
+  size: 209, 94
+  orig: 256, 256
+  offset: 21, 55
+  index: -1
+hit_lower_10
+  rotate: true
+  xy: 213, 324
+  size: 149, 75
+  orig: 256, 256
+  offset: 52, 56
+  index: -1
+hit_lower_11
+  rotate: true
+  xy: 271, 32
+  size: 143, 72
+  orig: 256, 256
+  offset: 51, 59
+  index: -1
+hit_lower_12
+  rotate: true
+  xy: 271, 177
+  size: 145, 73
+  orig: 256, 256
+  offset: 50, 59
+  index: -1

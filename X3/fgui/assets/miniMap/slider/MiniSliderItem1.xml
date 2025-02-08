@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="18,50" extention="Slider">
+  <displayList>
+    <image id="n0_v891" name="n0" src="v8917k" fileName="img/slider_bg.png" xy="0,0" size="18,50">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_v891" name="bar_v" src="v8917l" fileName="img/slider_v.png" xy="2,11" size="14,28"/>
+    <component id="n2_v891" name="grip" src="v8917n" fileName="slider/MiniSliderItem1_grip.xml" xy="-6,-6">
+      <relation target="n1_v891" sidePair="top-top"/>
+    </component>
+  </displayList>
+  <Slider titleType="max" reverse="true"/>
+</component>

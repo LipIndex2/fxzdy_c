@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="3,,0,,1," selected="2">
+    <remark page="0" value="未解锁"/>
+    <remark page="1" value="首通"/>
+    <remark page="2" value="非首通"/>
+  </controller>
+  <displayList>
+    <loader id="n89_f9dq" name="bg" xy="0,-146" size="750,1626" url="ui://7cvz7rmme53p82">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n62_gs9k" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-209" pivot="0.5,0.5" anchor="true" size="750,300" color="#4a3639">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n63_gs9k" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1547" pivot="0.5,0.5" anchor="true" size="750,300" color="#536ca2" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n1_1794" name="pInfo" src="gs9k8a" fileName="component/GuardShipFloorInfo.xml" xy="23,898">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n48_1794" name="n48" src="179469" fileName="img/tuceng5858.png" xy="221,130">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n39_1794" name="lbName" xy="23,58" size="194,64" fontSize="48" color="#ffffff" vAlign="middle" strokeColor="#0b1424" strokeSize="4" text="守卫母舰"/>
+    <text id="n41_1794" name="lbTime" xy="23,132" size="167,32" fontSize="22" color="#3cfe33" vAlign="middle" strokeColor="#000000" strokeSize="3" text="03:20:60后结算"/>
+    <component id="n64_gs9k" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="255,89" pivot="0.5,0.5" anchor="true" size="41,34">
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <component id="n65_gs9k" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="329,79" controller="isTop,1"/>
+    <component id="n66_gs9k" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="500,79" controller="isTop,1"/>
+    <component id="n67_gs9k" name="btnReward" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="649,242">
+      <Button title="奖励" icon="ui://38fa8c75gs9kvvv1fy"/>
+    </component>
+    <component id="n68_gs9k" name="btnRank" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="649,126">
+      <Button title="排行" icon="ui://38fa8c75gs9kvvv1fx"/>
+    </component>
+    <component id="n78_gs9k" name="btnChallengeFirst" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="374,1200" pivot="0.5,0.5" anchor="true" size="275,105">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button title="挑战"/>
+    </component>
+    <component id="n72_gs9k" name="btnSweep" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="189,1189" pivot="0.5,0.5" anchor="true" group="n79_gs9k" scale="0.9,0.9">
+      <Button title="扫荡"/>
+    </component>
+    <component id="n80_gs9k" name="btnChallenge" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="524,1189" pivot="0.5,0.5" anchor="true" group="n79_gs9k" scale="0.9,0.9" controller="style,1">
+      <Button title="挑战"/>
+    </component>
+    <group id="n79_gs9k" name="gBtn" xy="36,1130" size="641,117" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n82_gs9k" name="heros" src="f9dq8j" fileName="component/GuardShipHeros.xml" xy="35,460">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n71_gs9k" name="btnBuZhen" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="637,855" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <component id="n69_gs9k" name="btnPrev" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="227,823" pivot="0.5,0.5" anchor="true" group="n90_f9dq"/>
+    <image id="n50_1794" name="n50" src="qoezvvv1c8" fileName="bgImage/hwdi_frame.png" pkg="38fa8c75" xy="254,745" size="239,143" group="n90_f9dq" alpha="0.8"/>
+    <text id="n53_1794" name="lbHard" xy="373,771" pivot="0.5,0.5" anchor="true" size="59,39" group="n90_f9dq" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="4" text="难度"/>
+    <component id="n70_gs9k" name="btnNext" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="522,822" pivot="0.5,0.5" anchor="true" group="n90_f9dq" scale="-1,1"/>
+    <text id="n92_f9dq" name="lbFloor" xy="375,833" pivot="0.5,0.5" anchor="true" size="92,95" group="n90_f9dq" fontSize="73" color="#56f9ff" align="center" vAlign="middle" strokeColor="#0f172c" strokeSize="4" text="35"/>
+    <text id="n93_f9dq" name="lbFloorCopy" xy="375,834" pivot="0.5,0.5" anchor="true" size="92,95" group="n90_f9dq" visible="false" fontSize="73" color="#56f9ff" align="center" vAlign="middle" strokeColor="#0f172c" strokeSize="4" text="35"/>
+    <group id="n90_f9dq" name="gFloor" xy="205,745" size="338,143" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n81_gs9k" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1216">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

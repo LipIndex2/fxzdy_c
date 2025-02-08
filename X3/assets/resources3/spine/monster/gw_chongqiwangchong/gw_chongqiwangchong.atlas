@@ -1,0 +1,167 @@
+
+gw_chongqiwangchong.png
+size: 199,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 90, 15
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: 180
+  xy: 48, 14
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 31, 5
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 177, 18
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 2, 15
+  size: 15, 23
+  orig: 15, 24
+  offset: 0, 1
+  index: -1
+J zd13
+  rotate: true
+  xy: 82, 7
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 125, 10
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 138, 55
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 2, 32
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: 270
+  xy: 47, 5
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: 270
+  xy: 111, 3
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 72, 4
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 182, 6
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 13, 4
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: true
+  xy: 136, 25
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 61, 25
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 27, 17
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 152, 12
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 169, 5
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 97, 27
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 61, 47
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 177, 48
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+cb
+  rotate: true
+  xy: 97, 58
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1

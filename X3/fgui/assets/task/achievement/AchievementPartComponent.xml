@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="680,963">
+  <displayList>
+    <image id="n59_s1v8" name="bg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="4,4" size="629,925"/>
+    <list id="n58_s1v8" name="taskList" xy="8,5" size="632,924" overflow="scroll" margin="20,20,10,0" lineGap="10" defaultItem="ui://6b9eb171eowx3a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

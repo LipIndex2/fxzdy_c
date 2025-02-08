@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <displayList>
+    <loader id="n79_q6dm" name="img_frame" xy="0,0" pivot="0.5,0.5" size="104,104" url="ui://38fa8c75f0d84" autoSize="true"/>
+    <loader id="n80_q6dm" name="img_item" xy="50,52" pivot="0.5,0.5" anchor="true" size="100,100" url="ui://ff643f6e3bca3" align="center" vAlign="middle" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n81_q6dm" name="img_suo" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="3,3" scale="0.5,0.5"/>
+    <text id="n82_q6dm" name="T_level" xy="71,71" pivot="1,0.5" size="28,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000105" strokeSize="2" text="+1"/>
+  </displayList>
+</component>

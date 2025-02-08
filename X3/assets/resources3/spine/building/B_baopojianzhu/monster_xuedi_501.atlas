@@ -1,0 +1,41 @@
+
+monster_xuedi_501.png
+size: 427,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd10
+  rotate: 270
+  xy: 352, 48
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 184, 164
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+houshan1
+  rotate: true
+  xy: 344, 3
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+huoshan
+  rotate: false
+  xy: 184, 7
+  size: 177, 178
+  orig: 180, 180
+  offset: 3, 2
+  index: -1
+map_monster_502
+  rotate: false
+  xy: 2, 4
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

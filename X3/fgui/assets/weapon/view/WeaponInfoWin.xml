@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n37_ni07" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="127,373" size="496,616" group="n26_cjsd"/>
+    <image id="n2_03e4" name="n2" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="127,373" size="496,616" group="n26_cjsd">
+      <relation target="n25_cjsd" sidePair="bottomext-bottom"/>
+    </image>
+    <image id="n13_03e4" name="n13" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="165,552" size="421,8" group="n26_cjsd"/>
+    <image id="n22_03e4" name="n22" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="304,490" size="117,32" group="n26_cjsd" color="#3da3ff"/>
+    <component id="n25_cjsd" name="attrPanel" src="sxwp94" fileName="panel/WeaponAttrPanel.xml" xy="163,577" size="430,284" group="n26_cjsd"/>
+    <component id="n27_cjsd" name="baseItem" src="abqcvvv1ek" fileName="item/WeaponBaseItem.xml" pkg="38fa8c75" xy="164,415" group="n26_cjsd" scale="1.1,1.1"/>
+    <component id="n36_cjsd" name="btnLock" src="cjsd9g" fileName="btn/WeaponLockBtn.xml" xy="568,378" group="n26_cjsd"/>
+    <text id="n21_03e4" name="lbName" xy="300,417" size="182,49" group="n26_cjsd" fontSize="36" color="#db83ff" vAlign="middle" strokeColor="#280931" strokeSize="2" text="帅爆狙击枪"/>
+    <text id="n24_03e4" name="lbType" xy="316,490" pivot="0.5,0.5" size="91,32" group="n26_cjsd" fontSize="22" color="#feffff" align="center" vAlign="middle" strokeColor="#084daa" strokeSize="2" text="专属武器"/>
+    <component id="n29_cjsd" name="btnUpStar" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="162,877" size="184,70" group="n38_sv0c">
+      <Button title="前往升星" titleFontSize="34"/>
+    </component>
+    <component id="n30_cjsd" name="btnChange" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="403,878" size="184,70" group="n38_sv0c">
+      <Button title="更换" titleFontSize="34"/>
+    </component>
+    <component id="n32_cjsd" name="btnWear" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="280,877" size="184,70" group="n38_sv0c">
+      <Button title="装配" titleFontSize="34"/>
+    </component>
+    <component id="n33_cjsd" name="btnGotoWear" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="403,878" size="184,70" group="n38_sv0c">
+      <Button title="前往装配" titleFontSize="34"/>
+    </component>
+    <text id="n31_cjsd" name="lbWore" xy="266,885" size="202,54" group="n38_sv0c" fontSize="40" color="#89aad7" vAlign="middle" text="当前已装配"/>
+    <group id="n38_sv0c" name="n38" xy="162,877" size="425,71" group="n26_cjsd" advanced="true">
+      <relation target="n25_cjsd" sidePair="bottom-bottom"/>
+    </group>
+    <group id="n26_cjsd" name="gCenter" xy="127,373" size="496,616" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

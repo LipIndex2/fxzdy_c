@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="dhpy5xez">
+  <resources>
+    <image id="bbe32" name="touying.png" path="/img/"/>
+    <image id="bbe36" name="dui.png" path="/img/"/>
+    <image id="bbe38" name="tianjia_113.png" path="/img/"/>
+    <image id="bbe312" name="sd_Sshouweimujian_biaoti.png" path="/img/"/>
+    <image id="bbe321" name="sd_Ttubiao_baoxiang_baoxiangguan.png" path="/img/"/>
+    <image id="bbe322" name="sd_A_common_qipao1_frame.png" path="/img/" scale="9grid" scale9grid="85,34,31,68"/>
+    <image id="bbe330" name="xinxi_di.png" path="/img/" scale="9grid" scale9grid="41,126,12,54"/>
+    <image id="bbe332" name="bantou_di.png" path="/img/" scale="9grid" scale9grid="57,41,114,82"/>
+    <image id="bbe333" name="sd_A_common_dakai1_btn_104.png" path="/img/"/>
+    <image id="bbe341" name="sd_A_common_boss_tag.png" path="/img/"/>
+    <image id="bbe342" name="sd_A_common_zd_icon_100.png" path="/img/"/>
+    <image id="bbe343" name="tianjia.png" path="/img/"/>
+    <image id="bbe358" name="liebiaobiaotou_91.png" path="/img/"/>
+    <image id="bbe362" name="sd_A_common_tiaoguo.png" path="/img/"/>
+    <image id="bbe382" name="fgx1_line_57.png" path="/img/"/>
+    <image id="bbe389" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="bbe390" name="scale_80%_sd_A_common_gou_icon.png" path="/img/"/>
+    <image id="bbe395" name="gaoliang_kelingqu.png" path="/img/"/>
+    <image id="bbe399" name="sd_A_common_lbmb_frame.png" path="/img/"/>
+    <image id="bbe3100" name="scale_60%_sd_A_common_suo1_icon.png" path="/img/"/>
+    <image id="bbe3106" name="80%_sd_A_common_lmlb1_frame.png" path="/img/"/>
+    <image id="bbe3107" name="80%_sd_A_common_lmlb_frame.png" path="/img/"/>
+    <image id="bbe3115" name="benfupindao_18.png" path="/img/"/>
+    <image id="bbe3116" name="heisezhezhao.png" path="/img/"/>
+    <image id="ig8t17d" name="duizhang.png" path="/img/"/>
+    <image id="ig8t17e" name="duizhangshengji.png" path="/img/"/>
+    <image id="ig8t17t" name="tichuhaiyou.png" path="/img/"/>
+    <image id="ig8t17v" name="tuichu_icon.png" path="/img/"/>
+    <image id="ig8t188" name="gk_bg.jpg" path="/img/"/>
+    <image id="vmq618h" name="dacheng.png" path="/img/"/>
+    <image id="vmq618k" name="jiangli.png" path="/img/"/>
+    <image id="vmq618l" name="rk0002_icon.png" path="/img/"/>
+    <image id="oyy618t" name="road2.png" path="/img/"/>
+    <image id="oyy618v" name="sky.png" path="/img/"/>
+    <component id="bbe352" name="TeamChallengeMainView.xml" path="/"/>
+    <component id="bbe371" name="TeamChallengeMallView.xml" path="/"/>
+    <component id="bbe384" name="TeamChallengeTMgrView.xml" path="/"/>
+    <component id="bbe3101" name="TeamChallengeFloorView.xml" path="/"/>
+    <component id="bbe3102" name="TeamChallengeChapterView.xml" path="/"/>
+    <component id="bbe3117" name="TeamChallengeInviteView.xml" path="/"/>
+    <component id="ig8t175" name="TeamChallengeBar.xml" path="/btn/"/>
+    <component id="ig8t176" name="TeamChallengePosItem.xml" path="/components/"/>
+    <component id="ig8t177" name="TeamChallengeMemberInfo.xml" path="/components/"/>
+    <component id="ig8t178" name="TeamChallengeMallItem.xml" path="/components/"/>
+    <component id="ig8t179" name="TeamChallengeAvatarCom.xml" path="/components/"/>
+    <component id="ig8t17b" name="TeamChallengeTMgrItem1.xml" path="/components/"/>
+    <component id="ig8t17x" name="TeamChallengeTMgrItem2.xml" path="/components/"/>
+    <component id="ig8t17z" name="TeamChallengeCreateBtn.xml" path="/btn/"/>
+    <component id="ig8t180" name="TeamChallengeOffBtn.xml" path="/btn/"/>
+    <component id="ig8t181" name="TeamChallengeLeftBtn.xml" path="/btn/"/>
+    <component id="ig8t183" name="TeamChallengePageBtn.xml" path="/components/"/>
+    <component id="ig8t184" name="TeamChallengeInviteItem.xml" path="/components/"/>
+    <component id="ig8t185" name="TeamChallengeInviteTitle.xml" path="/components/"/>
+    <component id="ig8t186" name="TeamChallengePage2Btn.xml" path="/components/"/>
+    <component id="ig8t187" name="TeamChallengeShareBtn.xml" path="/btn/"/>
+    <component id="ig8t18e" name="TeamChallengeItem.xml" path="/components/"/>
+    <component id="ig8t18f" name="TeamChallengeChapterItem.xml" path="/components/"/>
+    <component id="vmq618g" name="TeamChallengeFloorItem.xml" path="/components/"/>
+    <component id="vmq618m" name="TeamChallengeBtnC.xml" path="/btn/"/>
+    <component id="vmq618o" name="TeamChallengeBtnR.xml" path="/btn/"/>
+    <component id="vmq618p" name="TeamChallengeBtnMgr.xml" path="/btn/"/>
+    <component id="k6be18q" name="TeamChallengeYesBtn.xml" path="/btn/"/>
+    <component id="k6be18r" name="TeamChallengeNoBtn.xml" path="/btn/"/>
+    <image id="uk3p18x" name="road.png" path="/img/"/>
+    <image id="uk3p18y" name="jytx_tag.png" path="/img/"/>
+    <image id="uk3p191" name="road3.png" path="/img/"/>
+    <component id="gwdp192" name="TeamChallengeMapScroll.xml" path="/components/"/>
+    <image id="gwdp193" name="road_part1.png" path="/img/" exported="true"/>
+    <image id="gwdp194" name="road_part2.png" path="/img/" exported="true"/>
+    <image id="gwdp195" name="road3_part1.png" path="/img/" exported="true"/>
+    <image id="gwdp196" name="road3_part2.png" path="/img/" exported="true"/>
+    <component id="gwdp197" name="TeamChallengeBg.xml" path="/components/"/>
+    <component id="gwdp198" name="TeamChallengeMask.xml" path="/components/"/>
+    <image id="gwdp199" name="box_close.png" path="/img/" exported="true" scale9grid="0,0,-16,-56"/>
+    <image id="gwdp19a" name="box_open.png" path="/img/" exported="true" scale9grid="0,0,-1,-18"/>
+    <component id="gwdp19b" name="TeamChallengeGiftBox.xml" path="/components/"/>
+    <component id="gwdp19c" name="TeamChallengePostBoss.xml" path="/components/"/>
+    <component id="k64919d" name="TeamChallengeScoreCom.xml" path="/components/"/>
+    <component id="k64919e" name="TeamChallengeScoreItem.xml" path="/btn/"/>
+    <image id="9zn019f" name="sq.png" path="/img/"/>
+    <image id="9zn019g" name="xz.png" path="/img/" scale="9grid" scale9grid="14,27,4,2"/>
+    <image id="9zn019h" name="zk_frame.png" path="/img/" scale="9grid" scale9grid="26,25,7,6"/>
+    <image id="9zn019i" name="zk1.png" path="/img/"/>
+    <image id="9zn019k" name="line.png" path="/img/"/>
+    <component id="9zn019l" name="TeamChallengeInviteInfo.xml" path="/components/"/>
+    <image id="9zn027" name="yuanjiaojuxing.png" path="/img/"/>
+    <component id="9zn019m" name="TeamChallengePage3Btn.xml" path="/components/"/>
+    <component id="9zn019n" name="TeamChallengeExpandBtn.xml" path="/btn/"/>
+    <image id="9zn019r" name="lianmengpindao_19.png" path="/img/"/>
+    <image id="9zn019s" name="duiwu2.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,111 @@
+
+guanyu_skill02_buff_upper.png
+size: 423,791
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/shandian1
+  rotate: false
+  xy: 199, 311
+  size: 152, 173
+  orig: 265, 256
+  offset: 41, 35
+  index: -1
+images/effect/shandian10
+  rotate: false
+  xy: 353, 473
+  size: 18, 50
+  orig: 265, 256
+  offset: 214, 100
+  index: -1
+images/effect/shandian11
+  rotate: false
+  xy: 349, 41
+  size: 19, 54
+  orig: 265, 256
+  offset: 214, 98
+  index: -1
+images/effect/shandian12
+  rotate: false
+  xy: 2, 486
+  size: 203, 149
+  orig: 265, 256
+  offset: 30, 47
+  index: -1
+images/effect/shandian13
+  rotate: false
+  xy: 349, 97
+  size: 49, 95
+  orig: 265, 256
+  offset: 32, 71
+  index: -1
+images/effect/shandian14
+  rotate: true
+  xy: 208, 624
+  size: 165, 148
+  orig: 265, 256
+  offset: 34, 47
+  index: -1
+images/effect/shandian15
+  rotate: true
+  xy: 186, 2
+  size: 167, 161
+  orig: 265, 256
+  offset: 30, 32
+  index: -1
+images/effect/shandian2
+  rotate: false
+  xy: 349, 8
+  size: 26, 31
+  orig: 265, 256
+  offset: 117, 35
+  index: -1
+images/effect/shandian3
+  rotate: false
+  xy: 2, 323
+  size: 185, 161
+  orig: 265, 256
+  offset: 30, 39
+  index: -1
+images/effect/shandian4
+  rotate: true
+  xy: 341, 525
+  size: 97, 80
+  orig: 265, 256
+  offset: 122, 42
+  index: -1
+images/effect/shandian5
+  rotate: false
+  xy: 2, 171
+  size: 195, 150
+  orig: 265, 256
+  offset: 24, 45
+  index: -1
+images/effect/shandian6
+  rotate: false
+  xy: 2, 637
+  size: 204, 152
+  orig: 265, 256
+  offset: 24, 36
+  index: -1
+images/effect/shandian7
+  rotate: false
+  xy: 207, 517
+  size: 132, 105
+  orig: 265, 256
+  offset: 96, 36
+  index: -1
+images/effect/shandian8
+  rotate: false
+  xy: 2, 19
+  size: 182, 150
+  orig: 265, 256
+  offset: 37, 36
+  index: -1
+images/effect/shandian9
+  rotate: false
+  xy: 199, 194
+  size: 193, 115
+  orig: 265, 256
+  offset: 39, 44
+  index: -1

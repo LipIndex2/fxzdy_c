@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="84,141" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="解锁"/>
+    <remark page="1" value="未解锁"/>
+  </controller>
+  <displayList>
+    <loader id="n4_kkiq" name="icon" xy="42,57" pivot="0.5,0.5" anchor="true" size="56,56" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n5_kkiq" name="n5" src="cni66t" fileName="frameImage/xz__frame.png" pkg="38fa8c75" xy="0,0" size="84,31">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <image id="n6_kkiq" name="n6" src="cni66t" fileName="frameImage/xz__frame.png" pkg="38fa8c75" xy="0,110" size="84,31" flip="vt">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <text id="n7_xebi" name="title" xy="12,86" size="59,39" fontSize="28" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#151515" strokeSize="2" text="守护">
+      <gearColor controller="state" pages="1" values="#7d7d7d,#151515" default="#ffffff,#151515"/>
+    </text>
+    <image id="n8_ta4f" name="n8" src="ta4f2s" fileName="img/mask_career.png" xy="42,57" pivot="0.5,0.5" anchor="true" size="64,64" group="n10_ta4f"/>
+    <image id="n9_ta4f" name="n9" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="41,57" pivot="0.5,0.5" anchor="true" group="n10_ta4f" scale="0.5,0.5"/>
+    <group id="n10_ta4f" name="gLock" xy="10,25" size="64,64" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

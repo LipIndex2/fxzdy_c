@@ -1,0 +1,314 @@
+
+skill02_lower.png
+size: 1200,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huangxiong_guangyun
+  rotate: false
+  xy: 756, 183
+  size: 76, 76
+  orig: 100, 100
+  offset: 12, 12
+  index: -1
+effect/huangxiong_skill02_dilie_lower
+  rotate: false
+  xy: 243, 9
+  size: 197, 51
+  orig: 200, 80
+  offset: 0, 15
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_0
+  rotate: false
+  xy: 672, 361
+  size: 93, 31
+  orig: 260, 100
+  offset: 89, 33
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_1
+  rotate: true
+  xy: 1110, 588
+  size: 163, 52
+  orig: 260, 100
+  offset: 51, 24
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_10
+  rotate: false
+  xy: 756, 104
+  size: 243, 76
+  orig: 260, 100
+  offset: 7, 12
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_11
+  rotate: false
+  xy: 2, 134
+  size: 241, 77
+  orig: 260, 100
+  offset: 10, 11
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_12
+  rotate: false
+  xy: 254, 134
+  size: 246, 78
+  orig: 260, 100
+  offset: 7, 11
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_13
+  rotate: false
+  xy: 505, 179
+  size: 249, 80
+  orig: 260, 100
+  offset: 5, 10
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_14
+  rotate: false
+  xy: 835, 182
+  size: 246, 82
+  orig: 260, 100
+  offset: 9, 9
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_15
+  rotate: false
+  xy: 254, 214
+  size: 249, 82
+  orig: 260, 100
+  offset: 6, 9
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_16
+  rotate: true
+  xy: 1110, 753
+  size: 251, 83
+  orig: 260, 100
+  offset: 4, 9
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_17
+  rotate: false
+  xy: 2, 213
+  size: 250, 83
+  orig: 260, 100
+  offset: 4, 9
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_2
+  rotate: false
+  xy: 2, 2
+  size: 171, 56
+  orig: 260, 100
+  offset: 47, 22
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_3
+  rotate: false
+  xy: 1001, 120
+  size: 184, 60
+  orig: 260, 100
+  offset: 40, 20
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_4
+  rotate: false
+  xy: 693, 38
+  size: 199, 64
+  orig: 260, 100
+  offset: 33, 18
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_5
+  rotate: false
+  xy: 481, 36
+  size: 210, 66
+  orig: 260, 100
+  offset: 26, 17
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_6
+  rotate: false
+  xy: 191, 425
+  size: 220, 68
+  orig: 260, 100
+  offset: 21, 16
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_7
+  rotate: false
+  xy: 243, 62
+  size: 236, 70
+  orig: 260, 100
+  offset: 11, 15
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_8
+  rotate: false
+  xy: 2, 60
+  size: 239, 72
+  orig: 260, 100
+  offset: 9, 14
+  index: -1
+effect/huangxiong_skill02_huan_lower_50_9
+  rotate: false
+  xy: 502, 104
+  size: 241, 73
+  orig: 260, 100
+  offset: 8, 14
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_0
+  rotate: false
+  xy: 522, 360
+  size: 148, 32
+  orig: 460, 150
+  offset: 155, 57
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_1
+  rotate: false
+  xy: 894, 52
+  size: 202, 50
+  orig: 460, 150
+  offset: 126, 49
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_10
+  rotate: true
+  xy: 865, 587
+  size: 417, 125
+  orig: 460, 150
+  offset: 23, 11
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_11
+  rotate: false
+  xy: 437, 876
+  size: 426, 128
+  orig: 460, 150
+  offset: 19, 9
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_12
+  rotate: false
+  xy: 2, 875
+  size: 433, 129
+  orig: 460, 150
+  offset: 16, 9
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_13
+  rotate: false
+  xy: 2, 875
+  size: 433, 129
+  orig: 460, 150
+  offset: 16, 9
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_14
+  rotate: false
+  xy: 410, 611
+  size: 403, 130
+  orig: 460, 150
+  offset: 48, 9
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_15
+  rotate: false
+  xy: 2, 495
+  size: 423, 114
+  orig: 460, 150
+  offset: 13, 24
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_16
+  rotate: false
+  xy: 2, 742
+  size: 406, 131
+  orig: 460, 150
+  offset: 48, 8
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_17
+  rotate: true
+  xy: 992, 580
+  size: 424, 116
+  orig: 460, 150
+  offset: 12, 22
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_18
+  rotate: true
+  xy: 992, 580
+  size: 424, 116
+  orig: 460, 150
+  offset: 12, 22
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_19
+  rotate: false
+  xy: 437, 743
+  size: 407, 131
+  orig: 460, 150
+  offset: 48, 9
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_2
+  rotate: true
+  xy: 1132, 203
+  size: 261, 66
+  orig: 460, 150
+  offset: 95, 41
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_3
+  rotate: true
+  xy: 1132, 203
+  size: 261, 66
+  orig: 460, 150
+  offset: 95, 41
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_20
+  rotate: false
+  xy: 427, 500
+  size: 395, 109
+  orig: 460, 150
+  offset: 41, 21
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_21
+  rotate: false
+  xy: 824, 466
+  size: 330, 112
+  orig: 460, 150
+  offset: 58, 19
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_22
+  rotate: false
+  xy: 778, 352
+  size: 304, 112
+  orig: 460, 150
+  offset: 56, 19
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_4
+  rotate: false
+  xy: 835, 266
+  size: 295, 84
+  orig: 460, 150
+  offset: 86, 33
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_5
+  rotate: false
+  xy: 522, 261
+  size: 311, 89
+  orig: 460, 150
+  offset: 78, 30
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_6
+  rotate: false
+  xy: 191, 298
+  size: 329, 94
+  orig: 460, 150
+  offset: 67, 28
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_7
+  rotate: false
+  xy: 427, 394
+  size: 349, 104
+  orig: 460, 150
+  offset: 57, 23
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_8
+  rotate: false
+  xy: 427, 394
+  size: 349, 104
+  orig: 460, 150
+  offset: 57, 23
+  index: -1
+effect/huangxiong_skill02_lower_dianquan_add_80_9
+  rotate: false
+  xy: 2, 624
+  size: 387, 116
+  orig: 460, 150
+  offset: 29, 18
+  index: -1
+effect/huangxiong_skill02_qihuan
+  rotate: true
+  xy: 2, 307
+  size: 186, 187
+  orig: 200, 200
+  offset: 6, 6
+  index: -1

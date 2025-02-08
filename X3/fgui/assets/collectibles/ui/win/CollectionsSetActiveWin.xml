@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klupes91">
+  <displayList>
+    <image id="n213_lupe" name="n213" src="ckiev14u" fileName="bgImage/gxhd_frame.png" pkg="38fa8c75" xy="-1,394" size="375,416" group="n212_lupe"/>
+    <image id="n214_lupe" name="n214" src="ckiev14u" fileName="bgImage/gxhd_frame.png" pkg="38fa8c75" xy="374,394" size="375,416" group="n212_lupe" flip="hz"/>
+    <image id="n217_6v98" name="n217" src="03e415" fileName="bgImage/gxhdbt_frame.png" pkg="38fa8c75" xy="227,356" group="n212_lupe"/>
+    <image id="n74_a01c" name="n74" src="lupes" fileName="img/di_39.png" xy="223,701" group="n212_lupe"/>
+    <list id="n215_lupe" name="list" xy="-1,455" pivot="0.5,0.5" size="750,263" group="n212_lupe" scale="0.7,0.7" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://tkr2g69tlupe7" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <richtext id="n82_a01c" name="lbActiveTip" xy="272,702" pivot="0.5,0.5" size="226,44" group="n212_lupe" fontSize="32" color="#83cfff" align="center" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="3" autoClearText="true" text="三星效果[color=#ffffff]已激活[/color]"/>
+    <image id="n78_a01c" name="n78" src="lupet" fileName="img/xin_35.png" xy="283,759" group="n216_lupe"/>
+    <text id="n84_a01c" name="lbAddAtrr" xy="318,759" pivot="0.5,0.5" size="164,36" group="n216_lupe" fontSize="26" color="#66ff66" vAlign="middle" autoClearText="true" text="防御百分比+3"/>
+    <group id="n216_lupe" name="newTip" xy="283,759" size="199,36" group="n212_lupe" advanced="true" layout="hz" colGap="4"/>
+    <text id="n219_6v98" name="lbSetName_di" xy="267,350" pivot="0.5,0.5" size="222,73" group="n212_lupe" fontSize="55" color="#a72dfe" align="center" vAlign="middle" autoClearText="true" text="套装名称"/>
+    <text id="n218_6v98" name="lbSetName" xy="265,348" pivot="0.5,0.5" size="222,73" group="n212_lupe" fontSize="55" color="#a8e6fe" align="center" vAlign="middle" autoClearText="true" text="套装名称"/>
+    <group id="n212_lupe" name="root" xy="-1,348" size="750,462" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

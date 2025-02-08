@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="613,194">
+  <controller name="c1" pages="0,可购买,1,已售罄" selected="0"/>
+  <displayList>
+    <image id="n35_c83b" name="n35" src="c83b24" fileName="img/9gongzshd_lb.png" xy="0,0"/>
+    <list id="n83_ko81" name="list_award" xy="19,73" size="391,106" layout="row" overflow="scroll" scroll="horizontal" lineGap="1" colGap="10" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n82_ko81" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="432,103" size="162,74">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="领取" titleFontSize="30"/>
+    </component>
+    <text id="n40_c83b" name="T_name" xy="46,10" size="153,42" fontSize="30" color="#fffffe" vAlign="middle" text="星灵大礼包"/>
+    <text id="n41_c83b" name="T_count" xy="447,70" pivot="0.5,0.5" size="129,32" fontSize="22" color="#4bff75" align="center" vAlign="middle" strokeColor="#222321" strokeSize="2" text="每日限购1/1"/>
+    <image id="n84_ko81" name="n84" src="ko814f" fileName="img/shouqing_31.png" xy="459,109">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

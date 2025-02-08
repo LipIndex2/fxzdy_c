@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n1_cb8c" name="background" xy="32,241" size="683,826" group="n24_kp3w" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <loader id="n2_cb8c" name="foreground" xy="168,329" size="523,702" group="n24_kp3w" url="ui://38fa8c758qld1x" fill="scaleFree"/>
+    <text id="n3_cb8c" name="labelItemTitle" xy="202,349" size="249,42" group="n24_kp3w" fontSize="30" color="#ffd879" vAlign="middle" autoSize="none" singleLine="true" text="金币"/>
+    <text id="n23_pr9t" name="labelDesc" xy="202,398" size="463,32" group="n24_kp3w" fontSize="22" color="#fcf0d2" vAlign="middle" autoSize="none" singleLine="true" text="描述相互帮忙，金币自由xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
+    <text id="n5_cb8c" name="labelHaveItemCount" xy="455,355" size="210,35" group="n24_kp3w" fontSize="22" color="#ffd879" align="right" vAlign="middle" vars="true" autoSize="none" singleLine="true" text="{desc=当前拥有}:{count=0}"/>
+    <text id="n16_cb8c" name="title" xy="307,267" size="132,44" group="n24_kp3w" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="获取途径"/>
+    <list id="n19_pr9t" name="comeFromList" xy="181,436" size="501,580" group="n24_kp3w" overflow="scroll" margin="5,5,0,0" lineGap="10" defaultItem="ui://4cf771ccpr9ta" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n21_pr9t" name="itemList" xy="59,349" size="115,667" group="n24_kp3w" overflow="scroll" lineGap="5" defaultItem="ui://4cf771ccpr9tb" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n24_kp3w" name="n24" xy="32,241" size="683,826" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

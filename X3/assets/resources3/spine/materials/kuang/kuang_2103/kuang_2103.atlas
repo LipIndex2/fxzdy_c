@@ -1,0 +1,41 @@
+
+kuang_2103.png
+size: 216,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 120
+  size: 102, 46
+  orig: 102, 46
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 90, 2
+  size: 123, 77
+  orig: 123, 77
+  offset: 0, 0
+  index: -1
+map_mined_1101
+  rotate: false
+  xy: 90, 2
+  size: 123, 77
+  orig: 123, 77
+  offset: 0, 0
+  index: -1
+baoguang
+  rotate: true
+  xy: 2, 10
+  size: 108, 86
+  orig: 108, 92
+  offset: 0, 6
+  index: -1
+map_mine_1101
+  rotate: false
+  xy: 106, 81
+  size: 108, 85
+  orig: 108, 92
+  offset: 0, 7
+  index: -1

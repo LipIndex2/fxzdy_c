@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="310,125" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n13_d6aa" name="n13" src="d6aa9" fileName="img/sd_A_common_changgui1_btn.png" xy="0,8"/>
+    <text id="n15_d6aa" name="n15" xy="108,58" size="87,56" fontSize="42" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="挑战"/>
+    <text id="n16_d6aa" name="time" xy="161,17" size="73,42" fontSize="30" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="1/10"/>
+    <text id="n20_e1fv" name="n1" xy="79,17" size="76,42" fontSize="30" color="#ffffff" strokeColor="#c96b06" strokeSize="3" text="次数:"/>
+    <component id="n21_ohdt" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="292,16"/>
+    <component id="n22_s0hy" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="298,14" controller="type,2"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

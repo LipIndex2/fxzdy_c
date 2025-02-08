@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="702,196">
+  <controller name="c1" pages="0,未达到,1,已达到" selected="0"/>
+  <controller name="c2" pages="0,不是最后一个,1,最后一个" selected="0"/>
+  <displayList>
+    <image id="n55_teox" name="n55" src="105pvv18f" fileName="bgImage/kppydi_blood.png" pkg="38fa8c75" xy="222,144" size="27,122">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </image>
+    <image id="n8_3cc0" name="n8" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" pkg="38fa8c75" xy="227,144" size="16,111">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </image>
+    <image id="n9_3cc0" name="n9" src="teox76" fileName="img/lanse.png" xy="0,0" size="224,196"/>
+    <image id="n10_3cc0" name="n10" src="teox77" fileName="img/zise.png" xy="244,0" size="458,196"/>
+    <image id="n11_3cc0" name="n11" src="teox78" fileName="img/touxiang.png" xy="161,28"/>
+    <component id="n56_teox" name="item" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="186,46" scale="0.75,0.75" visible="false"/>
+    <list id="n57_teox" name="list_award2" xy="333,14" size="389,108" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="8" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n58_teox" name="list_award1" xy="44,14" size="107,108" scale="0.9,0.9" layout="row" overflow="hidden" colGap="33" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+    </list>
+    <component id="n59_teox" name="btn_buy2" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="376,77" scale="0.4,0.4" touchable="false" grayed="true">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearLook controller="c1" pages="0" values="1,0,1,0" default="1,0,0,1"/>
+      <Button title="42" titleFontSize="66"/>
+    </component>
+    <component id="n60_teox" name="btn_buy1" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="-44,77" scale="0.4,0.4" touchable="false" grayed="true">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearLook controller="c1" pages="0" values="1,0,1,0" default="1,0,0,1"/>
+      <Button title="免费" titleFontSize="66"/>
+    </component>
+    <text id="n18_3cc0" name="T_buyCount" xy="441,163" pivot="0.5,0.5" size="137,29" fontSize="20" color="#76ffed" align="center" vAlign="middle" strokeColor="#232324" strokeSize="2" text="限购次数：0/1"/>
+    <component id="n61_teox" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="138,119" size="20,20" touchable="false" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <loader id="n62_ko81" name="n62" xy="156,18" pivot="0.5,0.5" size="156,156" touchable="false" grayed="true" url="ui://6db1f71ako8185" fill="scale" shrinkOnly="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearLook controller="c1" pages="0" values="1,0,1,0" default="1,0,0,0"/>
+    </loader>
+    <text id="n63_ko81" name="T_task" xy="202,143" pivot="0.5,0.5" size="69,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="Lv.12"/>
+    <image id="n65_ko81" name="n65" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="211,65">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n66_8adr" name="img_sq1" src="8adrvvv1la" fileName="frameImage/sq_tag.png" pkg="38fa8c75" xy="38,112" visible="false"/>
+    <image id="n67_8adr" name="img_sq2" src="8adrvvv1la" fileName="frameImage/sq_tag.png" pkg="38fa8c75" xy="458,113" visible="false"/>
+  </displayList>
+</component>

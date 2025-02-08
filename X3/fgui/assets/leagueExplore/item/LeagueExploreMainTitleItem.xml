@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,150">
+  <displayList>
+    <image id="n14_9c3b" name="n14" src="gtlw12u" fileName="img/sd_Sshouweimujian_biaoti_8.png" xy="169,0" group="n19_gtlw"/>
+    <image id="n17_9c3b" name="n17" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="376,80" pivot="0.5,0" anchor="true" size="391,36" group="n19_gtlw" alpha="0.61">
+      <relation target="n20_ta4f" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n16_9c3b" name="lbName" xy="371,33" pivot="0.5,0.5" anchor="true" size="162,54" group="n19_gtlw" fontSize="40" color="#42e7ff" align="center" vAlign="middle" text="初级星球"/>
+    <richtext id="n20_ta4f" name="lbTip" xy="374,82" pivot="0.5,0" anchor="true" size="265,34" group="n19_gtlw" fontSize="24" color="#d1ecff" align="center" vAlign="middle" text="占领矿场，持续产出矿产"/>
+    <group id="n19_gtlw" name="gTitle" xy="169,0" size="411,116" advanced="true"/>
+  </displayList>
+</component>

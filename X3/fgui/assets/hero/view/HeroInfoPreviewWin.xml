@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n105_fnyg" name="maskBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="40,105" size="667,1159" group="n99_dtss"/>
+    <loader id="n101_zwyz" name="n101" xy="27,63" size="689,1206" group="n99_dtss" touchable="false" url="ui://7cvz7rmm105pvv19" autoSize="true"/>
+    <component id="n5_b419" name="HeroSwitch" src="dtss56" fileName="page/HeroSwitchPage.xml" xy="24,77" group="n99_dtss"/>
+    <component id="n81_b419" name="HeroUpLevel" src="dtss58" fileName="page/HeroUpLevelPage.xml" xy="81,735" group="n99_dtss"/>
+    <component id="n106_mz6j" name="attrTips" src="bezov8t" fileName="item/HeroAttrTips.xml" xy="208,436" group="n99_dtss" visible="false" controller="c1,1"/>
+    <component id="n108_vet6" name="magicCubeItem" src="vet6va6" fileName="item/MagicCubeOtherItem.xml" xy="62,420" group="n99_dtss"/>
+    <component id="n109_vet6" name="btnWearWeapon" src="vet6vvv1kl" fileName="btn/PlayerInfoInfoHeroWeaponItem.xml" pkg="38fa8c75" xy="545,466" group="n99_dtss"/>
+    <component id="n110_vet6" name="btn_left" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="23,365" size="43,61" group="n99_dtss" scale="-1,1">
+      <Button icon="ui://38fa8c75105pvv17z"/>
+    </component>
+    <component id="n111_vet6" name="btn_right" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="678,365" size="43,61" group="n99_dtss">
+      <Button icon="ui://38fa8c75105pvv17z"/>
+    </component>
+    <group id="n99_dtss" name="n99" xy="23,63" size="700,1206" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n107_vdae" name="n107" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1277">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

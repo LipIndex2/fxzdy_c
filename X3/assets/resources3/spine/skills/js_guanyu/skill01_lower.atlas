@@ -1,0 +1,48 @@
+
+skill01_lower.png
+size: 201,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dilie_00000
+  rotate: false
+  xy: 2, 98
+  size: 197, 20
+  orig: 200, 24
+  offset: 2, 2
+  index: -1
+effect/dilie_00001
+  rotate: false
+  xy: 2, 76
+  size: 197, 20
+  orig: 200, 24
+  offset: 2, 2
+  index: -1
+effect/dilie_00002
+  rotate: false
+  xy: 2, 54
+  size: 197, 20
+  orig: 200, 24
+  offset: 2, 2
+  index: -1
+effect/dilie_00003
+  rotate: false
+  xy: 2, 34
+  size: 188, 18
+  orig: 200, 24
+  offset: 6, 3
+  index: -1
+effect/dilie_00004
+  rotate: false
+  xy: 2, 17
+  size: 178, 15
+  orig: 200, 24
+  offset: 10, 4
+  index: -1
+effect/dilie_00005
+  rotate: false
+  xy: 2, 2
+  size: 169, 13
+  orig: 200, 24
+  offset: 14, 5
+  index: -1

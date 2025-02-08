@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klnj7s83">
+  <controller name="isActive" pages="0,,1," selected="1"/>
+  <controller name="isMoreInfo" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n49_hkte" name="bgB" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="23,315" size="704,713" group="n34_gsa5"/>
+    <image id="n4_7b5e" name="n4" src="gsa5s67" fileName="img2/sd_A_common_zybz_frame.png" xy="26,317" group="n34_gsa5"/>
+    <text id="n7_7b5e" name="labelTitle" xy="295,358" size="162,54" group="n34_gsa5" fontSize="40" color="#92caff" vAlign="middle" text="特权说明"/>
+    <text id="n15_7b5e" name="labelProgressTitle" xy="184,437" size="271,42" group="n34_gsa5" fontSize="30" color="#cfe0f4" vAlign="middle" text="当前累计招募次数："/>
+    <text id="n16_7b5e" name="labelProgressCount" xy="447,437" size="58,42" group="n34_gsa5" fontSize="30" color="#ffcd54" vAlign="middle" text="100"/>
+    <component id="n17_7b5e" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="523,441" group="n34_gsa5"/>
+    <image id="n35_gsa5" name="n35" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="56,510" size="633,303" group="n34_gsa5" alpha="0.2"/>
+    <image id="n36_gsa5" name="n36" src="830115" fileName="img/wnzidi_frame.png" xy="192,543" size="361,40" group="n34_gsa5" alpha="0.4"/>
+    <richtext id="n37_gsa5" name="labelSubTitle" xy="210,532" pivot="0.5,0.5" size="333,42" group="n34_gsa5" fontSize="30" color="#fefefe" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" text="每[color=#ffcd54][size=40]200[/size][/color]抽内必得"/>
+    <image id="n12_7b5e" name="n12" src="gsa5s6c" fileName="img2/sd_A_common_word_tag.png" xy="110,895" group="n39_gsa5"/>
+    <text id="n38_gsa5" name="n38" xy="273,869" size="212,56" group="n39_gsa5" fontSize="42" color="#90b7ff" vAlign="middle" text="已激活月卡"/>
+    <component id="n13_7b5e" name="btnActiveMore" src="gsa5s6d" fileName="btn/DrawCardActiveCardMoreBtn.xml" xy="554,978" size="165,42" group="n39_gsa5" visible="false"/>
+    <group id="n39_gsa5" name="G_active" xy="110,869" size="609,151" group="n34_gsa5" advanced="true">
+      <gearDisplay controller="isActive" pages="1"/>
+    </group>
+    <list id="n47_lnj7" name="headList" xy="78,607" size="612,175" group="n34_gsa5" layout="row" colGap="30" defaultItem="ui://e93efac4lnj7s6p" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n44_gsa5" name="n44" src="gsa5s6j" fileName="img/sd_A_common_xiaotishi_frame.png" xy="466,332" group="n46_gsa5"/>
+    <text id="n45_gsa5" name="labelRTTips" xy="492,348" size="212,64" group="n46_gsa5" fontSize="20" color="#a5deff" vAlign="middle" autoSize="none" text="已消耗累计次数：800&#xA;未消耗累计次数：200"/>
+    <group id="n46_gsa5" name="G_RT" xy="466,332" size="256,96" group="n34_gsa5" advanced="true">
+      <gearDisplay controller="isMoreInfo" pages="1"/>
+    </group>
+    <text id="n8_7b5e" name="n8" xy="290,960" size="170,34" group="n48_lnj7" fontSize="24" color="#7fafe6" vAlign="middle" text="激活月卡后解锁"/>
+    <component id="n9_7b5e" name="btnJump" src="gsa5s6b" fileName="btn/DrawCardJumpActiveCardBtn.xml" xy="239,840" group="n48_lnj7"/>
+    <group id="n48_lnj7" name="G_noActive" xy="239,840" size="275,154" group="n34_gsa5" advanced="true">
+      <gearDisplay controller="isActive" pages="0"/>
+    </group>
+    <group id="n34_gsa5" name="G_all" xy="23,315" size="704,713" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n50_vdae" name="n50" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1063">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

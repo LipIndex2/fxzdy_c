@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149">
+  <displayList>
+    <image id="n5_583b" name="n5" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149"/>
+    <image id="n6_583b" name="n6" src="583b30" fileName="img/sd_A_common_jnmb_frame.png" xy="29,19" alpha="0.3"/>
+    <loader id="n7_583b" name="giftIcon" xy="31,37" pivot="0.5,0.5" size="90,71" align="center" vAlign="middle" fill="scale"/>
+    <text id="n10_583b" name="boxName" xy="135,34" size="159,39" fontSize="28" color="#8fe1ff" strokeColor="#000000" strokeSize="2" text="1级联盟赠礼"/>
+    <text id="n11_583b" name="buyTips" xy="137,84" size="352,32" fontSize="22" color="#ffffff" strokeColor="#000000" strokeSize="2" text="超级玩家名字买了[礼包名字6个字】"/>
+    <text id="n12_583b" name="timeTxt" xy="23,112" pivot="0.5,0.5" size="102,32" fontSize="22" color="#40ff7f" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="21:20:20"/>
+    <component id="n17_kvs3" name="getRewardBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="478,33" scale="0.5,0.5">
+      <Button title="领取"/>
+    </component>
+    <loader id="n15_583b" name="keyIcon" xy="582,27" size="34,36" group="n18_kvs3" url="ui://016cb3f9qhev6g" align="center" vAlign="middle" fill="scale">
+      <relation target="n16_583b" sidePair="right-left"/>
+    </loader>
+    <text id="n16_583b" name="keyCont" xy="630,45" pivot="0.5,0.5" anchor="true" size="20,36" group="n18_kvs3" fontSize="26" color="#ffffff" strokeColor="#000000" strokeSize="3" text="3">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n18_kvs3" name="n18" xy="582,27" size="58,36" advanced="true"/>
+  </displayList>
+</component>

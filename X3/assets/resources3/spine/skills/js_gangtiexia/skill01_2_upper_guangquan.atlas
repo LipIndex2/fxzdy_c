@@ -1,0 +1,55 @@
+
+skill01_2_upper_guangquan.png
+size: 176,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiguang_huan_00000
+  rotate: false
+  xy: 162, 79
+  size: 12, 26
+  orig: 40, 110
+  offset: 15, 41
+  index: -1
+effect/jiguang_huan_00001
+  rotate: false
+  xy: 143, 59
+  size: 17, 46
+  orig: 40, 110
+  offset: 13, 31
+  index: -1
+effect/jiguang_huan_00002
+  rotate: false
+  xy: 118, 31
+  size: 23, 74
+  orig: 40, 110
+  offset: 10, 16
+  index: -1
+effect/jiguang_huan_00003
+  rotate: false
+  xy: 90, 12
+  size: 26, 93
+  orig: 40, 110
+  offset: 8, 8
+  index: -1
+effect/jiguang_huan_00004
+  rotate: false
+  xy: 32, 6
+  size: 28, 99
+  orig: 40, 110
+  offset: 6, 5
+  index: -1
+effect/jiguang_huan_00005
+  rotate: false
+  xy: 2, 3
+  size: 28, 102
+  orig: 40, 110
+  offset: 5, 4
+  index: -1
+effect/jiguang_huan_00006
+  rotate: false
+  xy: 62, 2
+  size: 26, 103
+  orig: 40, 110
+  offset: 6, 4
+  index: -1

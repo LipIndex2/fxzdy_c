@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="593,280" overflow="scroll" scrollBar="auto">
+  <displayList>
+    <richtext id="n48_68b5" name="emailContentTitle" xy="1,0" size="592,48" fontSize="26" color="#ddfbff" ubb="true" vars="true" autoSize="none" autoClearText="true" text="亲爱的机甲战士：    "/>
+    <richtext id="n49_68b5" name="labelSenderAndTime" xy="261,147" size="329,81" fontSize="26" color="#ddfbff" align="right" ubb="true" vars="true" autoSize="none" text="发件人：{senderName=系统}&#xA;{expireTimeText=14日后过期}">
+      <relation target="n61_fsx5" sidePair="top-bottom"/>
+    </richtext>
+    <richtext id="n61_fsx5" name="emailContent" xy="0,68" size="592,51" fontSize="26" color="#ddfbff" ubb="true" vars="true" autoSize="none" text="这是您忘记领取得任务奖励，下次可别偷懒啦啦"/>
+  </displayList>
+</component>

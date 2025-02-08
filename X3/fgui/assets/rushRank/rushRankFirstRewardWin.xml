@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="682,885" designImageLayer="1">
+  <controller name="c1" pages="0,无tab,1,有tab" selected="0"/>
+  <displayList>
+    <loader id="n218_k045" name="n218" xy="0,0" size="682,884" group="n219_k045" url="ui://u3k6kdot8qld1y" align="center" vAlign="middle" fill="scaleFree">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearSize controller="c1" pages="0" values="682,884,1,1" default="682,960,1,1"/>
+    </loader>
+    <image id="n195_6b61" name="n195" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="20,88" size="638,767" group="n219_k045"/>
+    <text id="n212_6b61" name="n212" xy="275,25" pivot="0.5,0.5" size="131,44" group="n219_k045" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="全服首通"/>
+    <list id="n217_k045" name="list_reward" xy="33,103" size="615,736" group="n219_k045" overflow="scroll" lineGap="10" defaultItem="ui://4ea3ac72k0452g">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n221_ko81" name="listTab" xy="19,866" size="644,68" group="n219_k045" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://4ea3ac72ko812j" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n219_k045" name="n219" xy="0,0" size="682,934" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

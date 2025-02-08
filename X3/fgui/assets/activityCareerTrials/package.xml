@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6db1f71a">
+  <resources>
+    <image id="c65a1" name="yeqian_xuanzhong.png" path="/img/"/>
+    <image id="c65a2" name="yeqian_zhengchang.png" path="/img/"/>
+    <image id="c65a9" name="zu130455.png" path="/img/"/>
+    <image id="c65a16" name="sd_A_common_stjl_frame.png" path="/img/"/>
+    <image id="c65a18" name="zu130459.png" path="/img/"/>
+    <image id="c65a19" name="jianglidi.png" path="/img/"/>
+    <image id="c65a24" name="biaotidi.png" path="/img/"/>
+    <image id="c65a25" name="biaoti_11.png" path="/img/"/>
+    <image id="c65a26" name="mingzidi.png" path="/img/"/>
+    <image id="c65a27" name="xing.png" path="/img/"/>
+    <image id="c65a29" name="scale_105%_sd_Kkapaipeiyang-buzhen_zhiyezhenying.png" path="/img/"/>
+    <image id="c65a30" name="tuceng1885.png" path="/img/"/>
+    <image id="teox76" name="lanse.png" path="/img/"/>
+    <image id="teox77" name="zise.png" path="/img/" scale="9grid" scale9grid="28,0,22,196"/>
+    <image id="teox78" name="touxiang.png" path="/img/"/>
+    <image id="teox7b" name="tabdi.png" path="/img/" scale="9grid" scale9grid="30,18,9,36"/>
+    <image id="teox7d" name="dengji_10.png" path="/img/"/>
+    <image id="teox7f" name="txz_lb.png" path="/img/" scale="9grid" scale9grid="151,37,9,74"/>
+    <image id="teox7i" name="txz_lb3.png" path="/img/" scale="9grid" scale9grid="19,46,10,5"/>
+    <image id="teox7j" name="txz_lb4.png" path="/img/" scale="9grid" scale9grid="17,35,8,70"/>
+    <image id="teox7k" name="tuceng111.png" path="/img/"/>
+    <image id="teox7m" name="txz_lb2.png" path="/img/" scale="9grid" scale9grid="19,45,16,5"/>
+    <image id="teox7n" name="tuceng113.png" path="/img/"/>
+    <image id="teox7q" name="bg_hero_supply_win.png" path="/bg/" scale="9grid" scale9grid="291,408,17,62"/>
+    <image id="teox7r" name="aocaodi_4.png" path="/img/"/>
+    <image id="teox7s" name="aocaodi.png" path="/img/"/>
+    <image id="teox7t" name="img_jiantou_hs_1.png" path="/img/"/>
+    <image id="teox7v" name="yeqianxuanzhong.png" path="/img/"/>
+    <image id="teox7x" name="txz_yq.png" path="/img/" scale="9grid" scale9grid="27,17,11,34"/>
+    <image id="teox7y" name="txz_yq1.png" path="/img/" scale="9grid" scale9grid="27,17,7,34"/>
+    <component id="c65a70" name="CareerTrialsMainView.xml" path="/"/>
+    <component id="teox71" name="tabItem.xml" path="/item/"/>
+    <component id="teox72" name="formationPage.xml" path="/page/"/>
+    <component id="teox73" name="demoBtn.xml" path="/btn/"/>
+    <component id="teox74" name="CareerTrialsFundView.xml" path="/"/>
+    <component id="teox75" name="TrialsFundItem.xml" path="/item/"/>
+    <component id="teox79" name="CareerTrialsBattlePassView.xml" path="/"/>
+    <component id="teox7c" name="BattlePassLevelBar.xml" path="/bar/"/>
+    <component id="teox7e" name="TrialsBattlePassItem2.xml" path="/item/"/>
+    <component id="teox7g" name="BattlePassTaskBar.xml" path="/bar/"/>
+    <component id="teox7h" name="TrialsBattlePassItem1.xml" path="/item/"/>
+    <component id="teox7l" name="TrialsBattlePassItem3.xml" path="/item/"/>
+    <component id="teox7p" name="CareerTrialsBattlePassBuyTipsWin.xml" path="/"/>
+    <component id="teox7u" name="BattlePassTabBtn.xml" path="/btn/"/>
+    <component id="teox7w" name="TaskSelBtn.xml" path="/btn/"/>
+    <image id="teox7z" name="yeqian_17.png" path="/img/"/>
+    <component id="co7o81" name="DemoGetBtn.xml" path="/btn/"/>
+    <component id="co7o82" name="DemoGoBtn.xml" path="/btn/"/>
+    <image id="co7o84" name="shiwan_0.png" path="/img/"/>
+    <image id="ko8185" name="zykjyh_zx2.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

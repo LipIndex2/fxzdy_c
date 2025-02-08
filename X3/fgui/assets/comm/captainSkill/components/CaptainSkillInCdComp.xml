@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,96" pivot="0,0.5" anchor="true" extention="Button">
+  <displayList>
+    <image id="n53_fxoc" name="bg" src="fxocvvv196" fileName="captainSkill/img/kjjn_frame.png" xy="-1,0"/>
+    <image id="n55_fxoc" name="imageSkill" src="fxocvvv193" fileName="captainSkill/img/jineng.png" xy="-1,1"/>
+    <component id="n57_fxoc" name="bar" src="fxocvvv197" fileName="captainSkill/progressBar/CaptionSkillCommonBattleProgressBar.xml" xy="2,81">
+      <ProgressBar value="75" max="100"/>
+    </component>
+    <text id="n58_fxoc" name="labelLv" xy="70,42" size="59,36" fontSize="24" color="#ffffff" vAlign="middle" autoSize="none" singleLine="true" autoClearText="true" text="+10"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

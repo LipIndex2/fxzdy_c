@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="213,48">
+  <displayList>
+    <image id="n59_8a38" name="bg" src="8a3886" fileName="img/zzidongtiaozhan.png" xy="0,0"/>
+    <loader id="n60_8a38" name="imageAutoBattle" xy="24,8" size="35,34" url="ui://38fa8c75j6z92q"/>
+    <text id="n61_8a38" name="labelAutoBattle" xy="62,6" size="129,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" text="自动挑战中"/>
+  </displayList>
+</component>

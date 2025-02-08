@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,370" designImage="ui://7q3fcj1kdx6es9s" designImageOffsetX="-70" designImageOffsetY="-606">
+  <controller name="c1" pages="0,,1,,2,,3," selected="3">
+    <remark page="0" value="不显示"/>
+    <remark page="1" value="显示激活"/>
+    <remark page="2" value="显示升级"/>
+    <remark page="3" value="显示满级"/>
+  </controller>
+  <controller name="c2" pages="0,,1,,4," selected="2">
+    <remark page="0" value="按钮亮色"/>
+    <remark page="1" value="按钮灰色"/>
+    <remark page="2" value="按钮灰色不可点击"/>
+  </controller>
+  <controller name="attr" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n9_bc0f" name="n9" src="dx6e1" fileName="img/xljb_tiao.png" xy="0,0"/>
+    <richtext id="n24_bc0f" name="lblActiveDesc" xy="18,240" pivot="0,0.5" size="424,32" touchable="false" fontSize="22" color="#defbfd" vAlign="middle" leading="0" ubb="true" autoSize="none" strokeColor="#1d224c" strokeSize="2" autoClearText="true" text="羁绊LV2效果: [color=#ff5151](2/3)[/color]"/>
+    <component id="n26_bc0f" name="detailBtn" src="dx6e2" fileName="com/GroupDetailBtn.xml" xy="548,25"/>
+    <component id="n33_dx6e" name="btnAct" src="dx6evvv1e6" fileName="btn/BtnStyle1.xml" pkg="72zq62ea" xy="445,242" touchable="false" grayed="true">
+      <gearDisplay controller="c1" pages="1,2,3"/>
+      <gearLook controller="c2" pages="0,1,4" values="1,0,0,1|1,0,1,1|1,0,1,0"/>
+      <gearText controller="c1" pages="0,1,3" values="激活|激活|已满级" default="升级"/>
+      <Button title="已满级"/>
+    </component>
+    <text id="n27_bc0f" name="lblTitle" xy="41,12" pivot="0,0.5" size="170,39" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#142d7c" strokeSize="3" autoClearText="true" text="星灵羁绊名称"/>
+    <list id="n34_dx6e" name="petList" xy="7,63" size="597,163" layout="row" overflow="scroll" scroll="horizontal" colGap="38" defaultItem="ui://kgeugj0mdx6e4" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n35_dx6e" name="attrList" xy="18,272" size="424,82" layout="flow_hz" overflow="scroll" defaultItem="ui://kgeugj0mdx6e16" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

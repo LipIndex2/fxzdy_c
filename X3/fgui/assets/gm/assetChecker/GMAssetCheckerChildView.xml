@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <graph id="n48_qj7y" name="n48" xy="25,186" size="562,543" type="rect" fillColor="#ffcccccc" corner="30"/>
+    <image id="n41_m43k" name="n41" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="135,82" size="222,72"/>
+    <image id="n40_m43k" name="n40" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="131,6" size="226,67"/>
+    <text id="n32_m43k" name="titleBundleName" xy="11,9" size="108,58" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="bundle"/>
+    <text id="n42_972a" name="inputBundleName" xy="142,11" size="212,56" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="resources" input="true" maxLength="20"/>
+    <text id="n34_m43k" name="titleAssetName" xy="10,91" size="108,56" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="asset"/>
+    <text id="n44_972a" name="inputAssetName" xy="145,92" size="212,54" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="assetPath" input="true" prompt="[color=#494654]道具数量[/color]" maxLength="20"/>
+    <component id="n46_qj7y" name="btnCheck" src="b1chc" fileName="common/BtnGm.xml" xy="382,80" size="189,68"/>
+    <loader id="n47_qj7y" name="imageCheck" xy="66,224" size="484,463" url="ui://t846cdz6m43k5" fill="scale" clearOnPublish="true"/>
+  </displayList>
+</component>

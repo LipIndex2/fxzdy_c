@@ -1,0 +1,13 @@
+
+nuowa_upper.png
+size: 208,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_zidan
+  rotate: false
+  xy: 2, 2
+  size: 204, 100
+  orig: 204, 100
+  offset: 0, 0
+  index: -1

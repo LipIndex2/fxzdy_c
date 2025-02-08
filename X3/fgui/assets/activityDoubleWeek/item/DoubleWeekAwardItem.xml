@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,164">
+  <controller name="c1" pages="0,未完成,1,可领取,2,已领取" selected="0"/>
+  <displayList>
+    <image id="n7_230d" name="n7" src="230d6" fileName="img/lantiao.png" xy="0,0" size="686,164" group="n47_s8ul"/>
+    <component id="n10_230d" name="bar" src="s8ul33" fileName="item/awardBar.xml" xy="265,76" group="n47_s8ul">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <text id="n12_230d" name="T_desc" xy="263,42" pivot="0,0.5" size="214,34" group="n47_s8ul" fontSize="24" color="#22346f" vAlign="middle" text="完成999次普通招募"/>
+    <image id="n18_230d" name="n18" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="509,59" size="141,51" group="n47_s8ul">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <list id="n48_s8ul" name="list_award" xy="18,36" size="227,107" group="n47_s8ul" layout="row" overflow="scroll" scroll="horizontal" colGap="13" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+    </list>
+    <component id="n49_s8ul" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="443,21" group="n47_s8ul" scale="0.6,0.6">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="领取" titleFontSize="50"/>
+    </component>
+    <component id="n51_s8ul" name="btn_gotu" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="444,21" group="n47_s8ul" scale="0.6,0.6">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="前往" titleFontSize="50"/>
+    </component>
+    <component id="n50_s8ul" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="652,52" size="20,20" group="n47_s8ul" touchable="false" controller="type,3">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <group id="n47_s8ul" name="n47" xy="0,0" size="712,164"/>
+  </displayList>
+</component>

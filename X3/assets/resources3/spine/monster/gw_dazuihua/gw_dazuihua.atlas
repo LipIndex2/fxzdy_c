@@ -1,0 +1,153 @@
+
+gw_dazuihua.png
+size: 111,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd1
+  rotate: 180
+  xy: 35, 5
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 101, 35
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 101, 25
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 104, 12
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 2, 26
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 60, 14
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 15, 13
+  size: 26, 44
+  orig: 38, 44
+  offset: 12, 0
+  index: -1
+J zd16
+  rotate: 180
+  xy: 75, 34
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: true
+  xy: 89, 19
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: 270
+  xy: 89, 35
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: true
+  xy: 2, 20
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: 180
+  xy: 65, 4
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 93, 11
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: 180
+  xy: 2, 4
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 104, 4
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 93, 3
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 20, 3
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 83, 6
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 78, 19
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 58, 4
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 41, 42
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="154,46" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n55_zzft" name="n55" src="sh628l" fileName="img/szdi1_frame.png" pkg="72zq62ea" xy="0,7" size="154,39">
+      <relation target="n57_zzft" sidePair="width-width,leftext-right"/>
+    </image>
+    <loader id="n54_zzft" name="iconImg" xy="31,21" pivot="0.5,0.5" anchor="true" size="48,48" url="ui://38fa8c75gkgvvvv19p" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <image id="n56_zzft" name="n56" src="zzft2w" fileName="header/images/jiahao.png" xy="32,19"/>
+    <text id="n57_zzft" name="labelItemCount" xy="52,10" size="98,39" fontSize="28" color="#fefefe" align="center" vAlign="middle" autoSize="shrink" text="1010000万"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

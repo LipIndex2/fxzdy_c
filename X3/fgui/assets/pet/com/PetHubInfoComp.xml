@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="593,83">
+  <displayList>
+    <component id="n0_xwdv" name="itemIcon" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="-7,-11" size="104,104" aspect="true" scale="0.8,0.8"/>
+    <text id="n2_xwdv" name="nameLabel" xy="105,15" size="139,46" fontSize="34" color="#dbdbe4" align="center" vAlign="middle" strokeColor="#000000" autoClearText="true" text="测试测试"/>
+    <text id="n5_xwdv" name="nameLabel2" xy="327,15" size="71,46" fontSize="34" color="#dbdbe4" align="center" vAlign="middle" strokeColor="#000000" autoClearText="true" text="测试"/>
+    <text id="n6_xwdv" name="nameLabel3" xy="477,15" size="71,46" fontSize="34" color="#dbdbe4" align="center" vAlign="middle" strokeColor="#000000" autoClearText="true" text="测试"/>
+  </displayList>
+</component>

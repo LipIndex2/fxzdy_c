@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,22" extention="ProgressBar">
+  <displayList>
+    <image id="n0_eowx" name="bg" src="v891vvv1ee" fileName="bgImage/czzl_blood.png" pkg="38fa8c75" xy="0,0" size="220,21" color="#916041">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_eowx" name="bar" src="v891vvv1ee" fileName="bgImage/czzl_blood.png" pkg="38fa8c75" xy="2,2" size="216,17" color="#f5c01c">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

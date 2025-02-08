@@ -1,0 +1,63 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "fce440f8-363c-46ab-bd10-fae2588eedc8",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "20877": {
+      "importer": "sprite-frame",
+      "uuid": "fce440f8-363c-46ab-bd10-fae2588eedc8@20877",
+      "displayName": "",
+      "id": "20877",
+      "name": "diqitian",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 288,
+        "height": 161,
+        "rawWidth": 288,
+        "rawHeight": 161,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "791afb27-f404-4b68-86fd-16f4a65dd96f@6c48a",
+        "atlasUuid": "fce440f8-363c-46ab-bd10-fae2588eedc8"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "sign.png",
+    "format": 3,
+    "uuid": "fce440f8-363c-46ab-bd10-fae2588eedc8",
+    "textureUuid": "791afb27-f404-4b68-86fd-16f4a65dd96f@6c48a"
+  }
+}

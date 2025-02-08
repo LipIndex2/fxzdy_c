@@ -1,0 +1,90 @@
+
+skill03_debuff_xunhuan.png
+size: 478,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/chushou01
+  rotate: true
+  xy: 197, 2
+  size: 45, 188
+  orig: 128, 256
+  offset: 36, 31
+  index: -1
+images/effect/chushou02
+  rotate: true
+  xy: 197, 49
+  size: 51, 191
+  orig: 128, 256
+  offset: 33, 30
+  index: -1
+images/effect/chushou03
+  rotate: false
+  xy: 284, 216
+  size: 60, 195
+  orig: 128, 256
+  offset: 32, 30
+  index: -1
+images/effect/chushou04
+  rotate: false
+  xy: 346, 231
+  size: 63, 180
+  orig: 128, 256
+  offset: 31, 35
+  index: -1
+images/effect/chushou05
+  rotate: false
+  xy: 411, 242
+  size: 65, 169
+  orig: 128, 256
+  offset: 34, 35
+  index: -1
+images/effect/chushou06
+  rotate: true
+  xy: 2, 5
+  size: 40, 191
+  orig: 128, 256
+  offset: 56, 34
+  index: -1
+images/effect/chushou07
+  rotate: true
+  xy: 185, 102
+  size: 52, 203
+  orig: 128, 256
+  offset: 48, 34
+  index: -1
+images/effect/chushou08
+  rotate: true
+  xy: 2, 47
+  size: 53, 193
+  orig: 128, 256
+  offset: 47, 35
+  index: -1
+images/effect/chushou09
+  rotate: true
+  xy: 2, 132
+  size: 59, 181
+  orig: 128, 256
+  offset: 45, 35
+  index: -1
+images/effect/chushou10
+  rotate: true
+  xy: 284, 156
+  size: 58, 187
+  orig: 128, 256
+  offset: 42, 30
+  index: -1
+images/effect/chushou11
+  rotate: false
+  xy: 222, 206
+  size: 60, 205
+  orig: 128, 256
+  offset: 40, 29
+  index: -1
+images/effect/glow01
+  rotate: false
+  xy: 2, 193
+  size: 218, 218
+  orig: 256, 256
+  offset: 19, 19
+  index: -1

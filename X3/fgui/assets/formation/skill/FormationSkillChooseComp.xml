@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n27_wu6b" name="bg" xy="-375,-333" size="1500,2000" alpha="0.75" type="rect" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </graph>
+    <component id="n26_z7ud" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="101,97" size="548,437" group="n25_fxoc"/>
+    <image id="n13_ad60" name="bgInfo" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="101,97" size="548,437" group="n25_fxoc"/>
+    <image id="n18_ad60" name="imageTitleSplit" src="x52evvv18q" fileName="bgImage/fengexian_line.png" pkg="38fa8c75" xy="131,184" size="481,4" group="n25_fxoc"/>
+    <text id="n22_ad60" name="labelTitle" xy="131,120" size="247,49" group="n25_fxoc" fontSize="36" color="#ffcd54" strokeColor="#161616" strokeSize="3" text="无人机轰炸+15"/>
+    <list id="n23_fxoc" name="descList" xy="133,212" size="496,151" group="n25_fxoc" overflow="scroll" lineGap="5" defaultItem="ui://4hj3fle9fxoc2e" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n24_fxoc" name="skillList" xy="125,374" size="505,146" group="n25_fxoc" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://38fa8c75wu6bvvv1kb" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n25_fxoc" name="all" xy="101,97" size="548,437" advanced="true">
+      <relation target="" sidePair="height-height,middle-middle"/>
+    </group>
+  </displayList>
+</component>

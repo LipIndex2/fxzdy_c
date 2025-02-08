@@ -1,0 +1,181 @@
+
+leaderskill05_lower.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fang_w_0
+  rotate: true
+  xy: 79, 27
+  size: 64, 47
+  orig: 257, 84
+  offset: 19, 16
+  index: -1
+effect/fang_w_1
+  rotate: true
+  xy: 154, 36
+  size: 142, 66
+  orig: 257, 84
+  offset: 19, 0
+  index: -1
+effect/fang_w_2
+  rotate: false
+  xy: 2, 180
+  size: 221, 80
+  orig: 257, 84
+  offset: 19, 0
+  index: -1
+effect/fang_w_3
+  rotate: true
+  xy: 2, 8
+  size: 143, 75
+  orig: 257, 84
+  offset: 97, 5
+  index: -1
+effect/fang_w_4
+  rotate: false
+  xy: 222, 70
+  size: 129, 75
+  orig: 257, 84
+  offset: 111, 5
+  index: -1
+effect/fang_w_5
+  rotate: false
+  xy: 79, 93
+  size: 55, 58
+  orig: 257, 84
+  offset: 185, 22
+  index: -1
+effect/fang_w_6
+  rotate: false
+  xy: 475, 102
+  size: 42, 43
+  orig: 257, 84
+  offset: 198, 37
+  index: -1
+effect/fangbiglower
+  rotate: false
+  xy: 2, 262
+  size: 584, 328
+  orig: 680, 400
+  offset: 51, 31
+  index: -1
+effect/jiaqiang_xian_0
+  rotate: false
+  xy: 474, 49
+  size: 26, 51
+  orig: 50, 400
+  offset: 10, 6
+  index: -1
+effect/jiaqiang_xian_1
+  rotate: false
+  xy: 474, 49
+  size: 26, 51
+  orig: 50, 400
+  offset: 10, 6
+  index: -1
+effect/jiaqiang_xian_10
+  rotate: true
+  xy: 2, 153
+  size: 25, 150
+  orig: 50, 400
+  offset: 13, 226
+  index: -1
+effect/jiaqiang_xian_11
+  rotate: true
+  xy: 2, 153
+  size: 25, 150
+  orig: 50, 400
+  offset: 13, 226
+  index: -1
+effect/jiaqiang_xian_12
+  rotate: true
+  xy: 353, 120
+  size: 25, 120
+  orig: 50, 400
+  offset: 13, 263
+  index: -1
+effect/jiaqiang_xian_13
+  rotate: true
+  xy: 353, 47
+  size: 25, 113
+  orig: 50, 400
+  offset: 13, 270
+  index: -1
+effect/jiaqiang_xian_14
+  rotate: true
+  xy: 222, 43
+  size: 25, 111
+  orig: 50, 400
+  offset: 13, 273
+  index: -1
+effect/jiaqiang_xian_15
+  rotate: true
+  xy: 335, 21
+  size: 24, 107
+  orig: 50, 400
+  offset: 14, 278
+  index: -1
+effect/jiaqiang_xian_16
+  rotate: true
+  xy: 335, 21
+  size: 24, 107
+  orig: 50, 400
+  offset: 14, 278
+  index: -1
+effect/jiaqiang_xian_2
+  rotate: true
+  xy: 353, 74
+  size: 26, 119
+  orig: 50, 400
+  offset: 10, 7
+  index: -1
+effect/jiaqiang_xian_3
+  rotate: false
+  xy: 522, 13
+  size: 27, 218
+  orig: 50, 400
+  offset: 10, 4
+  index: -1
+effect/jiaqiang_xian_4
+  rotate: true
+  xy: 222, 147
+  size: 27, 283
+  orig: 50, 400
+  offset: 10, 4
+  index: -1
+effect/jiaqiang_xian_5
+  rotate: true
+  xy: 225, 233
+  size: 27, 326
+  orig: 50, 400
+  offset: 11, 21
+  index: -1
+effect/jiaqiang_xian_6
+  rotate: true
+  xy: 225, 233
+  size: 27, 326
+  orig: 50, 400
+  offset: 11, 21
+  index: -1
+effect/jiaqiang_xian_7
+  rotate: true
+  xy: 225, 205
+  size: 26, 295
+  orig: 50, 400
+  offset: 12, 60
+  index: -1
+effect/jiaqiang_xian_8
+  rotate: true
+  xy: 225, 176
+  size: 27, 294
+  orig: 50, 400
+  offset: 11, 72
+  index: -1
+effect/jiaqiang_xian_9
+  rotate: false
+  xy: 553, 2
+  size: 26, 258
+  orig: 50, 400
+  offset: 12, 113
+  index: -1

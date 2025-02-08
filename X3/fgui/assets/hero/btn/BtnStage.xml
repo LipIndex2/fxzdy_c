@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="56,62" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_frvn" name="n0" src="dtss61" fileName="bgImage/sjcg_frame_8.png" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n1_frvn" name="T_stageNum" xy="8,10" pivot="0.5,0.5" size="40,42" fontSize="30" color="#ffda59" align="center" vAlign="middle" strokeColor="#1f3473" strokeSize="2" text="+2">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

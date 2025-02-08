@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n49_06d7" name="n49" src="06d729" fileName="img/jinengdi.png" xy="-50,894" group="n54_fxoc"/>
+    <image id="n51_06d7" name="n51" src="06d731" fileName="img/jineng.png" xy="-3,896" group="n54_fxoc"/>
+    <text id="n52_06d7" name="n52" xy="61,945" size="53,38" group="n54_fxoc" fontSize="27" color="#f1f3f4" strokeColor="#010417" strokeSize="4" text="+10"/>
+    <group id="n54_fxoc" name="n54" xy="-50,894" size="202,96"/>
+    <image id="n46_06d7" name="n46" src="06d727" fileName="img/fadongjinengdi.png" xy="-26,1015" group="n55_fxoc"/>
+    <image id="n47_06d7" name="n47" src="06d728" fileName="img/jineng_0.png" xy="-5,1027" group="n55_fxoc"/>
+    <text id="n48_06d7" name="n48" xy="117,1043" size="96,53" group="n55_fxoc" fontSize="39" color="#ffffff" strokeColor="#0033a1" strokeSize="4" text="发动!"/>
+    <group id="n55_fxoc" name="n55" xy="-26,1015" size="293,104"/>
+  </displayList>
+</component>

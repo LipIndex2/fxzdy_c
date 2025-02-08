@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="699,1157">
+  <displayList>
+    <image id="n2_7095" name="bg" src="vmbs4a" fileName="img/diban_test.png" xy="0,0" size="699,1157"/>
+    <image id="n3_7095" name="title" src="nja529" fileName="img/biaoti.png" xy="204,93" size="332,152"/>
+    <component id="n6_7095" name="shopBtn" src="htcc37" fileName="btn/shopBtn.xml" xy="555,134"/>
+    <image id="n34_htcc" name="listBg" src="nja52n" fileName="img/item_bg.png" xy="38,308" size="635,614" visible="false" alpha="0"/>
+    <text id="n7_7095" name="shop_label" xy="562,237" size="99,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="钛晶商店"/>
+    <list id="n31_htcc" name="list" xy="48,322" size="624,589" layout="row" overflow="scroll" scroll="horizontal" colGap="5" defaultItem="ui://379b6acahtcc2y" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n32_htcc" name="itemPack" src="htcc33" fileName="item/DailySalePackItem.xml" xy="185,916"/>
+  </displayList>
+</component>

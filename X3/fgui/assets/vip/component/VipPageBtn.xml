@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="57,80" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n36_oc78" name="icon" src="oc7826" fileName="img/btn_page.png" xy="29,40" pivot="0.5,0.5" anchor="true"/>
+    <component id="n37_c3wz" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="17,13" controller="type,3"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

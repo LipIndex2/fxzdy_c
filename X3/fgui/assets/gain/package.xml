@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="586a2eeb">
+  <resources>
+    <image id="c1af1" name="sd_A_common_gxhd_frame.png" path="/img/"/>
+    <image id="c1af3" name="gxhd_word.png" path="/img/"/>
+    <component id="c1af4" name="GainItemPopUpView.xml" path="/"/>
+    <component id="dusv5" name="GainItemEffectView.xml" path="/"/>
+    <image id="dusv6" name="beibao.png" path="/img/"/>
+    <component id="dusv7" name="GainItemIcon.xml" path="/"/>
+    <component id="dusv8" name="GainItemBag.xml" path="/"/>
+    <component id="gvuz9" name="GainItemFrame.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

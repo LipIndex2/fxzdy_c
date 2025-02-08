@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="81b7aafa">
+  <resources>
+    <image id="df6e2" name="juesedi.png" path="/img/"/>
+    <image id="df6e3" name="tuceng29.png" path="/img/"/>
+    <image id="df6e5" name="chaozhiyeqian.png" path="/img/"/>
+    <image id="df6e6" name="yulan.png" path="/img/"/>
+    <image id="df6e7" name="mingzidi.png" path="/img/"/>
+    <image id="df6e11" name="chaojisheji.png" path="/img/"/>
+    <image id="df6e12" name="di.png" path="/img/"/>
+    <image id="df6e13" name="tiao_2.png" path="/img/"/>
+    <image id="df6e22" name="scyq_btn.png" path="/img/"/>
+    <image id="df6e23" name="scyq1_btn.png" path="/img/"/>
+    <component id="df6e26" name="FirstChargeWin.xml" path="/"/>
+    <component id="v89127" name="FirstChargeAwardItem.xml" path="/item/"/>
+    <component id="v89128" name="buyTabBtn.xml" path="/btn/"/>
+    <image id="ohdt2c" name="bg_bubble.png" path="/img/" scale="9grid" scale9grid="64,25,5,8"/>
+    <image id="ohdt2d" name="bg_video.png" path="/img/" scale="9grid" scale9grid="20,20,14,14"/>
+    <component id="ohdt2e" name="FirstChargeBubble.xml" path="/component/"/>
+    <component id="ohdt2f" name="FristChargeTopBg.xml" path="/component/"/>
+    <component id="ohdt2g" name="FirstChargeTopTitle.xml" path="/component/"/>
+    <component id="ohdt2i" name="FirstChargeCenter.xml" path="/component/"/>
+    <component id="81528" name="FirstChargeDemoWin.xml" path="/"/>
+    <component id="c3wz2k" name="FirstChargeSkill.xml" path="/component/"/>
+    <image id="c3wz2l" name="biaotidi.png" path="/img/"/>
+    <image id="c3wz2m" name="jinengmiaoshudi.png" path="/img/"/>
+    <image id="c3wz2n" name="tuceng35kaobei.png" path="/img/"/>
+    <component id="c3wz2o" name="FirstChargeContent.xml" path="/component/"/>
+    <component id="c3wz2p" name="FristChargeSkillDes.xml" path="/component/"/>
+    <image id="81529" name="jinengyulan_1.png" path="/img/" scale="9grid" scale9grid="28,38,28,58"/>
+    <component id="s0hy11" name="FirstChargeDemoBtn.xml" path="/btn/"/>
+    <image id="s0hy2q" name="bg_demo.jpg" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

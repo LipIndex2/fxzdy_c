@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="599,128" designImageOffsetX="-72" designImageOffsetY="-542" designImageLayer="1">
+  <controller name="rank" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n7_uug0" name="n7" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="599,128"/>
+    <image id="n8_uug0" name="n8" src="d6aa56" fileName="img/scale_85%_sd_A_common_paimingframe.png" xy="0,0"/>
+    <text id="n0_d6aa" name="rank" xy="17,26" pivot="0.5,0.5" size="141,62" fontSize="46" color="#58c2ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text="4000-8000">
+      <gearDisplay controller="rank" pages="3"/>
+    </text>
+    <image id="n4_uug0" name="rank1" src="d6aa78" fileName="img/scale_70%_no1_icon.png" xy="33,33" scale="1.2,1.2">
+      <gearDisplay controller="rank" pages="0"/>
+    </image>
+    <image id="n5_uug0" name="rank2" src="d6aa81" fileName="img/scale_70%_no2_icon.png" xy="33,33" scale="1.2,1.2">
+      <gearDisplay controller="rank" pages="1"/>
+    </image>
+    <image id="n6_uug0" name="rank3" src="d6aa85" fileName="img/scale_70%_no3_icon.png" xy="33,33" scale="1.2,1.2">
+      <gearDisplay controller="rank" pages="2"/>
+    </image>
+    <list id="n9_uug0" name="rewardList" xy="184,18" size="423,106" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n29_9c3b" name="btnMain" src="gtlw12r" fileName="component/LeagueExploreMainBtn.xml" xy="20,1000">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n37_gtlw" name="chat" src="jqxis98" fileName="chat/ChatComp.xml" pkg="72zq62ea" xy="13,1142">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n38_gtlw" name="btnBack" src="qr2yvvv1ed" fileName="btn/BtnFh2.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n40_gtlw" name="miniMap" src="gtlw134" fileName="component/LeagueExploreMiniMap.xml" xy="501,228"/>
+    <component id="n41_gtlw" name="btnIncome" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="643,1005">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button title="收益" icon="ui://38fa8c75gtlwvvv1hp"/>
+    </component>
+    <component id="n42_gtlw" name="btnRank" src="gs9kvvv1g4" fileName="btn/BtnEntrance.xml" pkg="38fa8c75" xy="25,197">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button title="排行榜" icon="ui://38fa8c75gs9kvvv1fx"/>
+    </component>
+    <component id="n44_gtlw" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="328,47" group="n49_gtlw"/>
+    <component id="n45_gtlw" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="486,47" group="n49_gtlw"/>
+    <component id="n47_gtlw" name="headerItem3" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="306,103" size="143,41" group="n49_gtlw"/>
+    <component id="n48_gtlw" name="headerItem4" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="444,102" size="143,41" group="n49_gtlw"/>
+    <group id="n49_gtlw" name="gHeader" xy="306,47" size="333,97" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n50_gtlw" name="headPlayer" src="gtlwvvv1hr" fileName="view/PlayerCom.xml" pkg="38fa8c75" xy="8,30">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n52_woyg" name="nightTip" src="ta4f13h" fileName="component/LeagueExploreNightTimeTip.xml" xy="276,180"/>
+    <component id="n51_gtlw" name="buildingBtn" src="rr185" fileName="building/BuildingBtn.xml" pkg="38fa8c75" xy="313,698" group="n56_woyg"/>
+    <text id="n55_woyg" name="lbAttackTime" xy="375,868" pivot="0.5,0.5" anchor="true" size="40,34" group="n56_woyg" fontSize="24" color="#ffffff" align="center" text=""/>
+    <group id="n56_woyg" name="gbuilding" xy="313,698" size="124,187" visible="false" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

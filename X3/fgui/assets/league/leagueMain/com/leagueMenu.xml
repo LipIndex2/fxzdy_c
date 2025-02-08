@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,720" overflow="scroll" opaque="false" scrollBarFlags="512">
+  <displayList>
+    <component id="n17_e53p" name="item1" src="e53p120" fileName="leagueMain/com/leagueMenuItem1.xml" xy="0,480"/>
+    <component id="n18_e53p" name="item2" src="e53p11z" fileName="leagueMain/com/leagueMenuItem2.xml" xy="0,720"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_ylwc" name="n0" src="91ylw" fileName="img/dl_di2.png" xy="80,454" size="590,426" group="n14_ylwc" alpha="0.7"/>
+    <image id="n1_ylwc" name="n1" src="91ylv" fileName="img/dl_di.png" xy="80,453" size="590,86" group="n14_ylwc"/>
+    <component id="n12_ylwc" name="btn_enter" src="k5m56" fileName="comBtn.xml" xy="123,775" size="506,76" group="n14_ylwc">
+      <Button title="进入游戏"/>
+    </component>
+    <image id="n15_ylwc" name="n15" src="91yl16" fileName="img/dl_di3.png" xy="124,563" size="504,193" group="n14_ylwc"/>
+    <text id="n16_ylwc" name="i_link" xy="125,563" size="503,194" group="n14_ylwc" fontSize="24" color="#330000" autoSize="none" text="" input="true" prompt="请粘贴超级登陆链接"/>
+    <text id="n17_ylwc" name="n17" xy="296,468" size="164,54" group="n14_ylwc" fontSize="40" color="#ffffff" text="超级登陆"/>
+    <component id="n19_ylwc" name="btn_close" src="q5rmi" fileName="closeBtn.xml" xy="103,474" group="n14_ylwc"/>
+    <group id="n14_ylwc" name="n14" xy="80,453" size="590,427" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,139 @@
+
+chongwu_daidainiao.png
+size: 399,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingniao_0
+  rotate: 270
+  xy: 372, 73
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+jingniao_1
+  rotate: 180
+  xy: 51, 20
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+jingniao_10
+  rotate: false
+  xy: 280, 46
+  size: 90, 47
+  orig: 90, 51
+  offset: 0, 2
+  index: -1
+jingniao_11
+  rotate: 180
+  xy: 139, 81
+  size: 82, 132
+  orig: 82, 132
+  offset: 0, 0
+  index: -1
+jingniao_12
+  rotate: false
+  xy: 355, 113
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+jingniao_13
+  rotate: false
+  xy: 277, 3
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+jingniao_14
+  rotate: 270
+  xy: 367, 156
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+jingniao_15
+  rotate: false
+  xy: 2, 51
+  size: 86, 41
+  orig: 86, 43
+  offset: 0, 1
+  index: -1
+jingniao_16
+  rotate: true
+  xy: 178, 44
+  size: 69, 103
+  orig: 69, 103
+  offset: 0, 0
+  index: -1
+jingniao_17
+  rotate: true
+  xy: 146, 47
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+jingniao_2
+  rotate: false
+  xy: 2, 202
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jingniao_3
+  rotate: true
+  xy: 218, 10
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+jingniao_33
+  rotate: true
+  xy: 2, 9
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+jingniao_4
+  rotate: false
+  xy: 291, 92
+  size: 74, 121
+  orig: 74, 121
+  offset: 0, 0
+  index: -1
+jingniao_5
+  rotate: false
+  xy: 275, 95
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+jingniao_6
+  rotate: false
+  xy: 2, 91
+  size: 144, 123
+  orig: 144, 126
+  offset: 0, 3
+  index: -1
+jingniao_7
+  rotate: false
+  xy: 223, 108
+  size: 70, 105
+  orig: 71, 105
+  offset: 1, 0
+  index: -1
+jingniao_8
+  rotate: false
+  xy: 90, 42
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+jingniao_9
+  rotate: false
+  xy: 130, 13
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1

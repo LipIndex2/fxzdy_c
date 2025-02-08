@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n0_3283" name="bg" xy="0,-146" size="750,1626" url="ui://69f297488ixjv9s" align="center" vAlign="middle" fill="scaleFree" shrinkOnly="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n33_8ixj" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-61" pivot="0.5,1" anchor="true" size="750,400" color="#24211c">
+      <relation target="" sidePair="width-width,top-middle"/>
+    </image>
+    <image id="n34_8ixj" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1590" pivot="0.5,0.5" anchor="true" size="750,400" color="#2a231b" flip="vt">
+      <relation target="" sidePair="width-width,top-middle"/>
+    </image>
+    <image id="n1_3283" name="n1" src="8ixjv9v" fileName="img/biaotidi1.png" xy="108,117" group="n26_8ixj"/>
+    <image id="n21_3283" name="n21" src="8ixjv9m" fileName="img/pifujiesuo.png" xy="254,134" group="n26_8ixj"/>
+    <group id="n26_8ixj" name="grp_top" xy="108,117" size="565,108" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <text id="n2_3283" name="lb_bottom" xy="301,1236" size="143,29" fontSize="20" color="#fffefe" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="bottom-bottom"/>
+    </text>
+    <loader id="n13_3283" name="img_bg_qua" xy="378,659" pivot="0.5,0.75" anchor="true" size="330,504" group="n27_8ixj" url="ui://7q3fcj1k8ixjs7d" clearOnPublish="true"/>
+    <component id="n25_8ixj" name="spineHero" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="378,659" pivot="0.5,1" anchor="true" size="378,323" group="n27_8ixj"/>
+    <text id="n20_3283" name="lb_name1" xy="377,659" pivot="0.5,-0.85" anchor="true" size="147,49" group="n27_8ixj" fontSize="36" color="#31373b" vAlign="middle" text="皮肤名称"/>
+    <group id="n27_8ixj" name="n27" xy="189,281" size="378,504" group="n32_8ixj"/>
+    <image id="n3_3283" name="n3" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="90,814" size="571,46" group="n30_8ixj" color="#4d4d4d"/>
+    <list id="n29_8ixj" name="list_attr" xy="85,820" size="567,36" group="n30_8ixj" layout="row" overflow="scroll" colGap="55" defaultItem="ui://69f297488ixj2a" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n30_8ixj" name="n30" xy="85,814" size="576,46" group="n32_8ixj"/>
+    <image id="n14_3283" name="n14" src="8ixjv9l" fileName="img/name_frame.png" xy="219,879" group="n24_8ixj"/>
+    <text id="n15_3283" name="lb_name" xy="420,908" pivot="0.5,0.5" anchor="true" size="133,34" group="n24_8ixj" fontSize="24" color="#1268c0" vAlign="middle" text="特蕾莎-皮肤"/>
+    <loader id="n19_3283" name="imageQuality" xy="208,869" size="125,59" group="n24_8ixj" url="ui://1e21f0a6328321"/>
+    <group id="n24_8ixj" name="n24" xy="208,869" size="334,61" group="n32_8ixj"/>
+    <component id="n23_8ixj" name="btn_wear" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="222,1024" size="306,121" group="n32_8ixj">
+      <Button title="穿戴"/>
+    </component>
+    <group id="n32_8ixj" name="n32" xy="85,281" size="576,864" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

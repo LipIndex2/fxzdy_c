@@ -1,0 +1,48 @@
+
+attack_upper.png
+size: 444,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/kamola_attack_00000
+  rotate: true
+  xy: 411, 107
+  size: 94, 31
+  orig: 210, 120
+  offset: 47, 79
+  index: -1
+effect/kamola_attack_00001
+  rotate: false
+  xy: 2, 101
+  size: 184, 100
+  orig: 210, 120
+  offset: 9, 17
+  index: -1
+effect/kamola_attack_00002
+  rotate: true
+  xy: 193, 16
+  size: 185, 81
+  orig: 210, 120
+  offset: 9, 14
+  index: -1
+effect/kamola_attack_00003
+  rotate: false
+  xy: 2, 14
+  size: 189, 85
+  orig: 210, 120
+  offset: 8, 11
+  index: -1
+effect/kamola_attack_00004
+  rotate: true
+  xy: 276, 2
+  size: 199, 63
+  orig: 210, 120
+  offset: 7, 11
+  index: -1
+effect/kamola_attack_00005
+  rotate: true
+  xy: 341, 29
+  size: 172, 68
+  orig: 210, 120
+  offset: 38, 11
+  index: -1

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n90_ee3z" name="closeBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="-43,911" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="退出"/>
+    </component>
+    <component id="n91_ee3z" name="stopEnemyBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="78,911" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="敌方暂停"/>
+    </component>
+    <component id="n92_ee3z" name="stopSelfBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="200,911" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="我方暂停"/>
+    </component>
+    <component id="n93_ee3z" name="onlyNormalBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="322,911" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="普攻"/>
+    </component>
+    <component id="n95_ee3z" name="skill2Btn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="444,911" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="小招"/>
+    </component>
+    <component id="n96_ee3z" name="skill3Btn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="566,911" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="大招"/>
+    </component>
+    <component id="n97_ee3z" name="skillSwitchBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="566,788" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="全体技能"/>
+    </component>
+    <component id="n99_ee3z" name="notHurtBtn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="566,729" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="不造成伤害"/>
+    </component>
+    <component id="n101_pdp1" name="skill4Btn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="566,851" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="大招2"/>
+    </component>
+    <component id="n102_p04m" name="testBtn2" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="324,851" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="测试999"/>
+    </component>
+    <component id="n103_p04m" name="testBtn1" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="202,851" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="测试998"/>
+    </component>
+    <component id="n104_p04m" name="testBtn3" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="78,851" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="不碰撞"/>
+    </component>
+    <component id="n105_fly5" name="skill5btn" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="445,851" group="n100_pdp1" scale="0.5,0.5">
+      <Button title="大招3"/>
+    </component>
+    <group id="n100_pdp1" name="n100" xy="-43,729" size="836,283" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+  <transition name="animTitle"/>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="276,106" restrictSize="0,287,0,141" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n107_pkn9" name="n107" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,1" size="276,109">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n108_pkn9" name="n108" xy="88,44" size="108,54" fontSize="40" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="挑战"/>
+    <text id="n109_pkn9" name="lbTimes" xy="72,10" size="139,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="次数：4/5"/>
+    <component id="n110_hz6e" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="259,17" controller="type,13"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

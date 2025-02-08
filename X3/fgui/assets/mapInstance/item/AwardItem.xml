@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="558,438">
+  <displayList>
+    <image id="n0_pocb" name="bg" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="0,0" size="558,438">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n18_aqfj" name="n18" src="aqfjvvv1c9" fileName="bgImage/boss_frame.png" pkg="38fa8c75" xy="24,111" size="510,305" alpha="0.4">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n15_qzov" name="n15" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="177,39" size="200,46" color="#242b3b"/>
+    <text id="n12_pocb" name="labelTitle" xy="194,45" pivot="0.5,0.5" size="164,36" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" autoSize="none" singleLine="true" text="获得奖励"/>
+    <component id="n16_qzov" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="458,26" size="66,72">
+      <Button icon="ui://38fa8c758a38127"/>
+    </component>
+    <list id="n17_alpb" name="list_award" xy="41,131" size="476,267" layout="flow_hz" overflow="scroll" lineGap="10" colGap="15" defaultItem="ui://38fa8c75dtss4j">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

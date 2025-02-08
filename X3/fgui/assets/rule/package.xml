@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8mesntp4">
+  <resources>
+    <component id="73434" name="ruleView2.xml" path="/"/>
+    <component id="73436" name="ruleView1.xml" path="/"/>
+    <component id="uazna" name="ruleContentCom.xml" path="/"/>
+    <component id="auyib" name="ruleContentCom2.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

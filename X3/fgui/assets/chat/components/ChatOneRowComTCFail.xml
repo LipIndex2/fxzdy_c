@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,50">
+  <displayList>
+    <image id="n0_ig8t" name="n0" src="ig8t44" fileName="img/sd_A_common_black1_msg.png" xy="19,6" alpha="0.34"/>
+    <text id="n1_ig8t" name="tips" xy="20,9" size="500,32" fontSize="22" color="#adc8f8" align="center" vAlign="middle" autoSize="none" text=""/>
+  </displayList>
+</component>

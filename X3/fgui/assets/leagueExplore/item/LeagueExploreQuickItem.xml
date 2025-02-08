@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="296,351">
+  <displayList>
+    <image id="n5_fdf1" name="n5" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="296,351" alpha="0.14"/>
+    <image id="n18_gtlw" name="n18" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="73,166" size="165,43" alpha="0.25"/>
+    <text id="n19_gtlw" name="inputCurCnt" xy="148,190" pivot="0.5,0.5" anchor="true" size="110,42" fontSize="30" color="#93c8ff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="100" input="true" maxLength="3" keyboardType="4"/>
+    <component id="n20_gtlw" name="btnSub" src="oetqs91" fileName="btn/BtnJian1.xml" pkg="72zq62ea" xy="55,187" pivot="0.5,0.5" anchor="true"/>
+    <component id="n21_gtlw" name="btnAdd" src="oetqs90" fileName="btn/BtnJia1.xml" pkg="72zq62ea" xy="246,189" pivot="0.5,0.5" anchor="true"/>
+    <component id="n23_gtlw" name="btnDraw" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="14,222" size="270,117" scale="0.8,0.8"/>
+    <list id="n24_8g0d" name="listReward" xy="0,26" size="296,104" layout="row" overflow="scroll" scroll="horizontal" colGap="20" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

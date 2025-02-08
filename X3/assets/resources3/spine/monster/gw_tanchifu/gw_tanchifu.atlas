@@ -1,0 +1,118 @@
+
+gw_tanchifu.png
+size: 122,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 41, 14
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 21, 4
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 9, 63
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 76, 9
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 2, 12
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 90, 32
+  size: 46, 29
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 106, 4
+  size: 10, 13
+  orig: 31, 13
+  offset: 21, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 57, 31
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 54, 71
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 64, 4
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 103, 15
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 25, 25
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: true
+  xy: 53, 3
+  size: 7, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 31, 5
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 2, 4
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 31
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1

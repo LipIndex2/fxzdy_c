@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="697,226">
+  <controller name="tabIndex" exported="true" pages="0,普通抽卡,1,高级抽卡,2,专武" selected="0"/>
+  <controller name="isFree" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n6_8301" name="buttonDraw1" src="n9t529" fileName="components/DrawCardOneCountButton.xml" xy="14,95"/>
+    <component id="n10_8301" name="buttonDraw10" src="n9t528" fileName="components/DrawCardTenCountButton.xml" xy="347,95"/>
+    <image id="n20_8301" name="bgTips" src="830115" fileName="img/wnzidi_frame.png" xy="123,13" group="n42_n9t5" alpha="0.4"/>
+    <text id="n21_8301" name="labelDesc1" xy="191,11" pivot="1,0.5" size="164,36" group="n42_n9t5" fontSize="26" color="#f3f3f5" align="right" vAlign="middle" italic="true" singleLine="true" text="招募10次必得">
+      <gearDisplay controller="tabIndex" pages="1"/>
+      <gearText controller="tabIndex" pages="1" values="次后必得" default="招募10次必得"/>
+    </text>
+    <text id="n22_8301" name="labelDesc2" xy="342,4" pivot="0.5,0.5" size="182,49" group="n42_n9t5" fontSize="36" color="#ffcd54" align="center" vAlign="middle" italic="true" singleLine="true" text="传说或以上">
+      <gearDisplay controller="tabIndex" pages="1"/>
+      <gearColor controller="tabIndex" pages="1" values="#ff5656,#000000" default="#ffcd54,#000000"/>
+      <gearText controller="tabIndex" pages="0,1" values="传说或以上|心愿红卡" default="橙色英雄"/>
+      <relation target="n21_8301" sidePair="left-right"/>
+    </text>
+    <text id="n43_e6dc" name="labelDesc3" xy="199,4" pivot="1,0.5" size="47,49" group="n42_n9t5" fontSize="36" color="#ffcf54" align="right" vAlign="middle" italic="true" singleLine="true" text="20">
+      <gearDisplay controller="tabIndex" pages="1"/>
+    </text>
+    <richtext id="n49_loj0" name="n49" xy="354,32" pivot="0.5,0.5" anchor="true" size="413,49" group="n42_n9t5" fontSize="26" color="#ffffff" align="center" vAlign="bottom" ubb="true" italic="true" singleLine="true" text="招募10次必得[color=#FFCD54][size=36]传说或以上英雄[/size][/color]">
+      <gearDisplay controller="tabIndex" pages="0"/>
+    </richtext>
+    <group id="n42_n9t5" name="tips" xy="123,4" size="464,52" advanced="true">
+      <gearDisplay controller="tabIndex" pages="0,1"/>
+    </group>
+    <text id="n44_116zs" name="labelTipsFree" xy="31,45" pivot="0.5,0.5" size="280,36" group="n46_116zs" fontSize="26" color="#4cff8b" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="07：56：19后免费">
+      <gearDisplay controller="isFree" pages="0"/>
+    </text>
+    <text id="n45_116zs" name="labelTipsPay" xy="383,44" size="241,36" group="n46_116zs" visible="false" fontSize="26" color="#ffce26" vAlign="middle" strokeColor="#000000" strokeSize="3" text="10次后必得橙色专武"/>
+    <group id="n46_116zs" name="G_weaon" xy="31,44" size="593,37" advanced="true">
+      <gearDisplay controller="tabIndex" pages="2,4"/>
+    </group>
+    <component id="n48_ivzm" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="317,105" controller="type,2"/>
+    <component id="n47_ivzm" name="redDot2" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="644,104" controller="type,2"/>
+    <component id="n50_gvuz" name="btnAd" src="gvuzvvv1l1" fileName="btn/BtnAdLb.xml" pkg="38fa8c75" xy="14,53" size="200,40" controller="state,2">
+      <Button title="观影招募1/1"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,48 @@
+
+G_gnjiesuo_chuxian.png
+size: 433,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_lizi
+  rotate: false
+  xy: 205, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 144
+  size: 201, 201
+  orig: 216, 217
+  offset: 7, 8
+  index: -1
+guanban1
+  rotate: false
+  xy: 335, 232
+  size: 79, 79
+  orig: 100, 100
+  offset: 11, 10
+  index: -1
+guangquan1
+  rotate: false
+  xy: 285, 20
+  size: 112, 112
+  orig: 118, 118
+  offset: 3, 3
+  index: -1
+guangquan3
+  rotate: false
+  xy: 335, 134
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+z
+  rotate: false
+  xy: 2, 3
+  size: 281, 140
+  orig: 281, 259
+  offset: 0, 119
+  index: -1

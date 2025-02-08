@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kteoxs9e">
+  <controller name="girdType" pages="0,,1,,2,,3,,4,,5,,6," selected="0"/>
+  <controller name="isSubView" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n38_rgtg" name="bg" src="rgtg18" fileName="bg/bg3.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <loader id="n53_teox" name="n53" xy="0,-146" size="750,1626" url="ui://a0405d99teox1r" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n54_teox" name="n54" xy="2,333" size="750,1147" url="ui://a0405d99teox1w" autoSize="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n41_rgtg" name="n41" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="2,-292" size="750,232" color="#2e335d">
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </image>
+    <component id="n62_teox" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="376,316" pivot="0.5,1" anchor="true" size="234,252">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n64_teox" name="img_model" xy="376,316" pivot="0.5,1" anchor="true" size="234,252" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n39_rgtg" name="n39" src="rgtg19" fileName="bg/bt_frame.png" xy="5,37" group="n40_rgtg"/>
+    <text id="n32_rgtg" name="T_restTimeTitle" xy="44,113" size="111,29" group="n40_rgtg" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <text id="n33_rgtg" name="T_restTime" xy="154,113" size="99,29" group="n40_rgtg" fontSize="20" color="#6aff63" vAlign="middle" singleLine="true" autoClearText="true" text="5天30小时"/>
+    <text id="n34_rgtg" name="T_title1" xy="18,31" size="73,92" group="n40_rgtg" fontSize="70" color="#fdee9f" vAlign="middle" italic="true" strokeColor="#46e8ed" shadowColor="#bb13b1" shadowOffset="3,3" text="抽"/>
+    <text id="n35_rgtg" name="T_title2" xy="87,52" size="147,64" group="n40_rgtg" fontSize="48" color="#ffffff" vAlign="middle" italic="true" strokeColor="#46e8ed" shadowColor="#bb13b1" shadowOffset="4,4" text="奖活动"/>
+    <component id="n36_rgtg" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="276,74" group="n40_rgtg"/>
+    <component id="n29_37cf" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="530,74" group="n40_rgtg" controller="isTop,1"/>
+    <group id="n40_rgtg" name="G_header" xy="5,31" size="678,112" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n46_vipi" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1211">
+      <gearDisplay controller="isSubView" pages="0"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n49_jks2" name="banClick" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-166,-322" size="1158,1909" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n55_teox" name="n55" src="teox1s" fileName="img/ping.png" xy="33,295" size="321,100" group="n51_ummk"/>
+    <text id="n13_37cf" name="T_turnText" xy="225,325" pivot="0,0.5" size="93,42" group="n51_ummk" fontSize="30" color="#ffee9d" vAlign="middle" leading="2" strokeColor="#11459c" strokeSize="3" singleLine="true" text="第三轮"/>
+    <image id="n10_37cf" name="n10" src="37cf6" fileName="img/shoulundajiang.png" xy="536,163" group="n51_ummk"/>
+    <text id="n11_37cf" name="T_bigRewardTitle" xy="546,166" pivot="0.5,0.5" size="107,36" group="n51_ummk" fontSize="26" color="#fff65f" align="center" vAlign="middle" text="本轮大奖"/>
+    <component id="n47_vipi" name="btnChooseAdd" src="vipi1c" fileName="btn/ActivityFlipCardNoChooseBigBtn.xml" xy="546,201" group="n51_ummk" scale="0.8,0.8" touchable="false" controller="c1,1"/>
+    <component id="n31_rgtg" name="bigReward" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="556,212" group="n51_ummk"/>
+    <component id="n42_vipi" name="btnChooseBigReward" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="528,154" size="160,173" group="n51_ummk"/>
+    <text id="n56_teox" name="n56" xy="75,325" pivot="0,0.5" size="153,42" group="n51_ummk" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#11459c" strokeSize="3" singleLine="true" text="大奖轮次："/>
+    <image id="n63_teox" name="n63" src="teox1x" fileName="img/guang.png" xy="482,172" group="n51_ummk"/>
+    <group id="n51_ummk" name="G_body" xy="33,154" size="704,241" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <list id="n45_vipi" name="itemList2" xy="257,747" size="244,253" group="n52_ummk" layout="flow_hz" overflow="scroll" scrollBarFlags="32" lineGap="2" colGap="3" defaultItem="ui://a0405d99rgtg16" align="center" autoClearItems="true">
+      <gearDisplay controller="girdType" pages="2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n43_vipi" name="itemList3" xy="192,652" size="366,416" group="n52_ummk" layout="flow_hz" overflow="scroll" scrollBarFlags="32" lineGap="2" colGap="3" defaultItem="ui://a0405d99rgtg16" align="center" autoClearItems="true">
+      <gearDisplay controller="girdType" pages="3"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n44_vipi" name="itemList4" xy="139,596" size="471,527" group="n52_ummk" layout="flow_hz" overflow="scroll" scrollBarFlags="32" lineGap="2" colGap="3" defaultItem="ui://a0405d99rgtg16" align="center" autoClearItems="true">
+      <gearDisplay controller="girdType" pages="4"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n30_rgtg" name="itemList5" xy="77,533" size="596,655" group="n52_ummk" layout="flow_hz" overflow="scroll" scrollBarFlags="32" lineGap="2" colGap="3" defaultItem="ui://a0405d99rgtg16" align="center" autoClearItems="true">
+      <gearDisplay controller="girdType" pages="5"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n48_jks2" name="itemList6" xy="54,531" size="646,769" group="n52_ummk" layout="flow_hz" overflow="scroll" scrollBarFlags="32" defaultItem="ui://a0405d99rgtg16" align="center" autoClearItems="true">
+      <gearDisplay controller="girdType" pages="6"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n52_ummk" name="G_body2" xy="54,531" size="646,769" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n57_teox" name="n57" src="teox1t" fileName="img/jldj_frame.png" xy="0,184" group="n60_teox"/>
+    <text id="n58_teox" name="n58" xy="23,198" pivot="0,0.5" size="147,34" group="n60_teox" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="本次活动大奖"/>
+    <text id="n59_teox" name="T_awardDesc" xy="25,231" pivot="0,0.5" size="156,34" group="n60_teox" fontSize="24" color="#fa4844" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="骗术之神·洛基"/>
+    <group id="n60_teox" name="n60" xy="0,184" size="214,95" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <component id="n61_teox" name="skipItem" src="teox1u" fileName="item/DrawSkipAnimItem.xml" xy="536,421" size="147,40">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n50_jks2" name="btnOneKeyFlip" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="265,1110" size="219,99" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="一键翻开" titleFontSize="36"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="339,104">
+  <displayList>
+    <component id="n76_cjsd" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="0,0" scale="0.9,0.9"/>
+    <text id="n66_273c" name="lbName" xy="104,7" pivot="0,0.5" size="135,32" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n67_273c" name="lbChapter" xy="104,37" pivot="0,0.5" size="119,32" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="进度：12-2"/>
+    <text id="n69_273c" name="lbPower" xy="104,67" pivot="0,0.5" size="136,32" fontSize="22" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <text id="n68_273c" name="lbOnline" xy="256,5" pivot="0,0.5" size="48,32" fontSize="22" color="#3bdf84" vAlign="middle" strokeColor="#013401" strokeSize="2" text="在线"/>
+    <text id="n77_cjsd" name="lbOffline" xy="256,5" pivot="0,0.5" size="83,32" fontSize="22" color="#a8b2d0" vAlign="middle" strokeColor="#070707" strokeSize="2" text="7分钟前"/>
+  </displayList>
+</component>

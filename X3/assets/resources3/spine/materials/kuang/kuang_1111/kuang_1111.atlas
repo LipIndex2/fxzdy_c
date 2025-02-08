@@ -1,0 +1,41 @@
+
+kuang_1111.png
+size: 138,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 89, 7
+  size: 83, 46
+  orig: 92, 51
+  offset: 4, 2
+  index: -1
+2
+  rotate: true
+  xy: 89, 7
+  size: 83, 46
+  orig: 92, 51
+  offset: 4, 2
+  index: -1
+baoguang
+  rotate: false
+  xy: 2, 76
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+map_mine_1101
+  rotate: true
+  xy: 2, 2
+  size: 72, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+map_mined_1101
+  rotate: true
+  xy: 80, 92
+  size: 69, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1

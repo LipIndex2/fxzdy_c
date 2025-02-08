@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n17_ut0g" name="nodeRange" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="250,288" size="250,857" touchable="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n16_a3e9" name="dialog" src="105pv17" fileName="item/GuideSmallDialogItem.xml" xy="374,288" pivot="0.5,0.5" anchor="true" touchable="false"/>
+  </displayList>
+</component>

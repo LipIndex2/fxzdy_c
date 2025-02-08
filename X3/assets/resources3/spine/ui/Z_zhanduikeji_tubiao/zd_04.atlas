@@ -1,0 +1,13 @@
+
+zd_04.png
+size: 304,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zd_04
+  rotate: false
+  xy: 2, 2
+  size: 300, 311
+  orig: 600, 400
+  offset: 147, 42
+  index: -1

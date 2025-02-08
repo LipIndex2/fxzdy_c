@@ -1,0 +1,166 @@
+
+pskill01_upper.png
+size: 600,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_1_0
+  rotate: false
+  xy: 213, 21
+  size: 116, 34
+  orig: 150, 50
+  offset: 21, 4
+  index: -1
+effect/pskill01_1_1
+  rotate: false
+  xy: 2, 2
+  size: 118, 33
+  orig: 150, 50
+  offset: 20, 4
+  index: -1
+effect/pskill01_1_2
+  rotate: true
+  xy: 567, 460
+  size: 121, 31
+  orig: 150, 50
+  offset: 19, 5
+  index: -1
+effect/pskill01_1_3
+  rotate: true
+  xy: 564, 143
+  size: 122, 28
+  orig: 150, 50
+  offset: 18, 6
+  index: -1
+effect/pskill01_1_4
+  rotate: false
+  xy: 444, 26
+  size: 122, 18
+  orig: 150, 50
+  offset: 18, 10
+  index: -1
+effect/pskill01_add_0
+  rotate: false
+  xy: 146, 180
+  size: 45, 43
+  orig: 200, 250
+  offset: 51, 27
+  index: -1
+effect/pskill01_add_1
+  rotate: false
+  xy: 373, 6
+  size: 69, 66
+  orig: 200, 250
+  offset: 31, 16
+  index: -1
+effect/pskill01_add_10
+  rotate: false
+  xy: 2, 173
+  size: 142, 201
+  orig: 200, 250
+  offset: 20, 25
+  index: -1
+effect/pskill01_add_11
+  rotate: true
+  xy: 146, 225
+  size: 139, 197
+  orig: 200, 250
+  offset: 21, 23
+  index: -1
+effect/pskill01_add_12
+  rotate: true
+  xy: 2, 37
+  size: 134, 209
+  orig: 200, 250
+  offset: 25, 24
+  index: -1
+effect/pskill01_add_13
+  rotate: false
+  xy: 147, 366
+  size: 130, 215
+  orig: 200, 250
+  offset: 28, 25
+  index: -1
+effect/pskill01_add_14
+  rotate: false
+  xy: 518, 47
+  size: 22, 218
+  orig: 200, 250
+  offset: 74, 26
+  index: -1
+effect/pskill01_add_15
+  rotate: false
+  xy: 542, 46
+  size: 20, 219
+  orig: 200, 250
+  offset: 75, 27
+  index: -1
+effect/pskill01_add_3
+  rotate: false
+  xy: 419, 430
+  size: 146, 151
+  orig: 200, 250
+  offset: 31, 9
+  index: -1
+effect/pskill01_add_4
+  rotate: false
+  xy: 213, 57
+  size: 158, 166
+  orig: 200, 250
+  offset: 32, 9
+  index: -1
+effect/pskill01_add_5
+  rotate: false
+  xy: 345, 229
+  size: 158, 161
+  orig: 200, 250
+  offset: 35, 11
+  index: -1
+effect/pskill01_add_6
+  rotate: false
+  xy: 373, 74
+  size: 143, 153
+  orig: 200, 250
+  offset: 44, 19
+  index: -1
+effect/pskill01_add_8
+  rotate: false
+  xy: 279, 392
+  size: 138, 189
+  orig: 200, 250
+  offset: 24, 15
+  index: -1
+effect/pskill01_add_9
+  rotate: false
+  xy: 2, 376
+  size: 143, 205
+  orig: 200, 250
+  offset: 19, 17
+  index: -1
+effect/pskill01_zhong
+  rotate: false
+  xy: 505, 267
+  size: 80, 161
+  orig: 100, 200
+  offset: 11, 7
+  index: -1
+
+pskill01_upper2.png
+size: 121,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_add_2
+  rotate: true
+  xy: 2, 2
+  size: 106, 113
+  orig: 200, 250
+  offset: 31, 10
+  index: -1
+effect/pskill01_add_7
+  rotate: false
+  xy: 2, 110
+  size: 117, 169
+  orig: 200, 250
+  offset: 43, 17
+  index: -1

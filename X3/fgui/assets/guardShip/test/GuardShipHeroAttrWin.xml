@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n27_loej" name="bg" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n26_loej" name="pAttr" src="loej8s" fileName="test/GuardShopHeroAttrPanel.xml" xy="270,220">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+</component>

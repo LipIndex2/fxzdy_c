@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kvipis8n">
+  <displayList>
+    <image id="n0_a936" name="adapt_bg" src="na342z" fileName="img/xlxy1_bg.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n1_a936" name="labelTitle" xy="18,55" size="194,64" group="n38_na34" fontSize="48" color="#ffffff" strokeColor="#0b1424" strokeSize="4" text="职业校验"/>
+    <component id="n35_na34" name="btnInfo" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,70" group="n38_na34"/>
+    <group id="n38_na34" name="G_header" xy="18,55" size="247,64" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n18_a936" name="n18" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="143,1195" size="492,39" group="n39_na34" alpha="0.54"/>
+    <text id="n19_a936" name="labelTips" xy="232,1196" pivot="0.5,0.5" size="313,36" group="n39_na34" fontSize="26" color="#c7f1ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" text="点击挑战进入对应职业校验"/>
+    <component id="n37_na34" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1211" group="n39_na34"/>
+    <component id="n41_vipi" name="btnRank" src="vipivvv1i6" fileName="btn/BtnRank.xml" pkg="38fa8c75" xy="626,1217" group="n39_na34"/>
+    <group id="n39_na34" name="G_footer" xy="0,1195" size="716,135" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <list id="n34_na34" name="colList" xy="2,258" size="762,972" layout="row" scroll="horizontal" defaultItem="ui://f57ea91dna342u" autoClearItems="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n40_vipi" name="btnDraw" src="vipis31" fileName="btn/GodSequenceLimitTimeDrawCardBtn.xml" xy="10,126"/>
+    <component id="n42_8adr" name="btn_jj" src="8adrs35" fileName="btn/btnjj.xml" xy="626,106" controller="c1,1"/>
+  </displayList>
+</component>

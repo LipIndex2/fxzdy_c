@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="365,105">
+  <displayList>
+    <image id="n5_bfe7" name="n5" src="woygvvv1il" fileName="bgImage/sjkj_bt.png" pkg="38fa8c75" xy="0,14" size="365,91"/>
+    <image id="n8_bfe7" name="n8" src="bfe74" fileName="img/zu13090.png" xy="33,0"/>
+    <component id="n10_woyg" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="281,17"/>
+    <richtext id="n11_woyg" name="lbTime" xy="151,87" pivot="0.5,0.5" anchor="true" size="190,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" text="[color=#3CFE37]5天30小时[/color]后结算"/>
+  </displayList>
+</component>

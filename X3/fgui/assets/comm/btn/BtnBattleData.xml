@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="84,89" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n217_8a38" name="imageBattleData" xy="8,0" size="66,72" url="ui://38fa8c758a38127"/>
+    <text id="n218_8a38" name="labelBattleData" xy="0,60" size="84,29" fontSize="20" color="#f2f4f4" strokeColor="#000000" strokeSize="3" text="数据统计"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

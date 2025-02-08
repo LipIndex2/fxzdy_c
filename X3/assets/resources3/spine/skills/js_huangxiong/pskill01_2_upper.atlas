@@ -1,0 +1,20 @@
+
+pskill01_2_upper.png
+size: 58,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huangxiong_pskill01_zhua1
+  rotate: false
+  xy: 2, 31
+  size: 54, 58
+  orig: 70, 70
+  offset: 9, 4
+  index: -1
+effect/huangxiong_pskill01_zhua2
+  rotate: true
+  xy: 2, 2
+  size: 27, 33
+  orig: 70, 70
+  offset: 23, 18
+  index: -1

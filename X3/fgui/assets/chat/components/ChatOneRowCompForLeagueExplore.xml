@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="536,156">
+  <controller name="type" pages="0,left,3,center,2,right" selected="2"/>
+  <displayList>
+    <component id="n35_buys" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="490,44" pivot="0.5,0.5" anchor="true" scale="0.8,0.8">
+      <gearDisplay controller="type" pages="0,2"/>
+      <gearXY controller="type" pages="0,2" values="44,44|490,44" default="-9,-8"/>
+    </component>
+    <image id="n30_91d6" name="bgContentL" src="91d619" fileName="img/lt_frame.png" xy="95,34" size="430,116" group="n42_nl4g"/>
+    <component id="n64_8g0d" name="btnGotoL" src="8g0d4a" fileName="components/ChatGotoExploreBtn.xml" xy="446,62" group="n42_nl4g"/>
+    <loader id="n65_8g0d" name="iconLoaderL" xy="118,40" size="104,104" group="n42_nl4g" align="center" fill="scale"/>
+    <text id="n34_91d6" name="textPlayerNameL" xy="103,0" size="113,32" group="n42_nl4g" fontSize="22" color="#adc8f8" vAlign="middle" text="无敌美少女"/>
+    <richtext id="n33_91d6" name="textContentL" xy="237,77" size="91,32" group="n42_nl4g" fontSize="22" color="#284eb8" vAlign="middle" ubb="true" autoClearText="true" text="占领者："/>
+    <text id="n45_nwvr" name="textBuildingL" xy="237,43" size="91,32" group="n42_nl4g" fontSize="22" color="#284eb8" vAlign="middle" text="联盟名称"/>
+    <text id="n66_8g0d" name="textLeagueNameL" xy="237,111" size="126,32" group="n42_nl4g" fontSize="22" color="#ff5555" vAlign="middle" text="他盟玩家6字"/>
+    <group id="n42_nl4g" name="G_L" xy="95,0" size="430,150" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <image id="n40_nl4g" name="bgContentR" src="91d619" fileName="img/lt_frame.png" xy="440,34" size="430,116" group="n41_nl4g" scale="-1,1"/>
+    <component id="n69_8g0d" name="btnGotoR" src="8g0d4a" fileName="components/ChatGotoExploreBtn.xml" xy="354,62" group="n41_nl4g"/>
+    <loader id="n70_8g0d" name="iconLoaderR" xy="22,40" size="104,104" group="n41_nl4g" align="center" fill="scale"/>
+    <text id="n43_ppu1" name="textPlayerNameR" xy="431,0" pivot="1,0" anchor="true" size="234,32" group="n41_nl4g" fontSize="22" color="#adc8f8" align="right" vAlign="middle" autoSize="none" text="无敌美少女"/>
+    <richtext id="n39_nl4g" name="textContentR" xy="139,77" size="91,32" group="n41_nl4g" fontSize="22" color="#284eb8" vAlign="middle" ubb="true" autoClearText="true" text="占领者："/>
+    <text id="n68_8g0d" name="textBuildingR" xy="139,43" size="91,32" group="n41_nl4g" fontSize="22" color="#284eb8" vAlign="middle" text="联盟名称"/>
+    <text id="n71_8g0d" name="textLeagueNameR" xy="139,111" size="126,32" group="n41_nl4g" fontSize="22" color="#ff5555" vAlign="middle" text="他盟玩家6字"/>
+    <group id="n41_nl4g" name="G_R" xy="22,0" size="848,150" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+    </group>
+  </displayList>
+</component>

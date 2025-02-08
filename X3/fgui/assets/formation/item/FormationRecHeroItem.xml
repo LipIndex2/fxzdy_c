@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,129">
+  <displayList>
+    <loader id="n70_ssxx" name="img_frame" xy="1,1" size="104,104" scale="0.85,0.87" url="ui://38fa8c75f0d84" autoSize="true"/>
+    <loader id="n71_ssxx" name="img_item" xy="-1,-1" pivot="0.5,0.5" size="92,92" scale="0.87,0.87" align="center" vAlign="middle" fill="scale" shrinkOnly="true"/>
+    <image id="n67_95cd" name="img_best" src="95cd25" fileName="img/jiaobiao_he.png" xy="60,0"/>
+    <loader id="n72_fhn9" name="img_type" xy="-15,-14" pivot="0.5,0.5" size="64,64" scale="0.55,0.55"/>
+    <image id="n42_95cd" name="img_bg_star" src="95cd9" fileName="img/sd_A_common_black2_msg_23.png" xy="2,70"/>
+    <list id="n68_ssxx" name="list_star" xy="45,80" pivot="0.5,0.5" anchor="true" size="171,32" scale="0.45,0.45" layout="row" colGap="-1" defaultItem="ui://38fa8c75dclx138" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n73_fhn9" name="img_gray" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="45,46" pivot="0.5,0.5" anchor="true" size="90,92" alpha="0.65"/>
+    <text id="n46_95cd" name="lb_type" xy="45,114" pivot="0.5,0.5" anchor="true" size="46,30" fontSize="21" color="#82e3ff" vAlign="middle" strokeColor="#0d0800" strokeSize="2" text="输出"/>
+  </displayList>
+</component>

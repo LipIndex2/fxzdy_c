@@ -1,0 +1,69 @@
+
+gw_zhidangchong.png
+size: 80,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 63, 110
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 2, 6
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 60, 10
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 49, 29
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 2, 115
+  size: 66, 55
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 30, 3
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: 180
+  xy: 2, 62
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: 180
+  xy: 2, 89
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 2, 32
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1

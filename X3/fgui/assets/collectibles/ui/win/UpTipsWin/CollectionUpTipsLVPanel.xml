@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="458,300">
+  <displayList>
+    <text id="n229_pmhw" name="lbLVL" xy="56,0" size="58,42" group="n234_6v98" fontSize="30" color="#ffea01" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="+10"/>
+    <text id="n230_pmhw" name="lbLVR" xy="352,0" size="58,42" group="n234_6v98" fontSize="30" color="#ffea01" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="+10"/>
+    <image id="n151_a01c" name="n151" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="221,11" group="n234_6v98"/>
+    <group id="n234_6v98" name="n234" xy="56,0" size="354,42" advanced="true"/>
+    <image id="n227_lupe" name="n227" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="0,54" size="458,247" group="n235_6v98" color="#2c303d"/>
+    <image id="n225_lupe" name="n225" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="149,65" size="267,59" group="n235_6v98" scale="0.6,0.6" color="#34405a"/>
+    <text id="n137_a01c" name="n137" xy="177,66" size="99,34" group="n235_6v98" fontSize="24" color="#f7fcc4" vAlign="middle" text="基础效果"/>
+    <component id="n138_a01c" name="lbAttrR" src="pmhw11a" fileName="ui/win/UpTipsWin/CollectionBaseEffUpTipListItem.xml" xy="19,105" group="n235_6v98"/>
+    <list id="n233_pmhw" name="attrList" xy="19,105" size="430,188" group="n235_6v98" overflow="scroll" defaultItem="ui://tkr2g69tpmhw11a" autoItemSize="false" align="center" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n235_6v98" name="n235" xy="0,54" size="458,247" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n234_6v98" value="0"/>
+    <item time="0" type="Alpha" target="n235_6v98" value="0"/>
+    <item time="11" type="Alpha" target="n234_6v98" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="14" type="Alpha" target="n235_6v98" tween="true" startValue="0" endValue="1" duration="3"/>
+  </transition>
+</component>

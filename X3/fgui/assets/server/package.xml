@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9809a2d2">
+  <resources>
+    <image id="93ec12" name="zd_icon.png" path="/img/"/>
+    <image id="93ec17" name="huobao.png" path="/img/"/>
+    <image id="93ec18" name="weihu.png" path="/img/"/>
+    <image id="93ec19" name="qing-zhengchang.png" path="/img/"/>
+    <image id="93ec20" name="tuijian.png" path="/img/"/>
+    <component id="93ec23" name="ChooseServerWin.xml" path="/"/>
+    <component id="mr0b28" name="PlayerItem.xml" path="/item/"/>
+    <component id="mr0b29" name="AreaItem.xml" path="/item/"/>
+    <component id="mr0b2c" name="StateCom.xml" path="/com/"/>
+    <component id="mr0b2e" name="ServerItem.xml" path="/item/"/>
+    <image id="cs7d2h" name="server_btn.png" path="/img/" scale="9grid" scale9grid="110,25,8,50"/>
+    <image id="cs7d2i" name="role_btn.png" path="/img/" scale="9grid" scale9grid="17,33,10,66"/>
+    <image id="cs7d2j" name="page_btn1.png" path="/img/" scale="9grid" scale9grid="20,19,10,10"/>
+    <image id="cs7d2k" name="page_btn2.png" path="/img/" scale="9grid" scale9grid="69,18,5,7"/>
+    <image id="1bf418" name="jiaobiao_frame.png" path="/img/"/>
+    <component id="cs7d2m" name="State4Com.xml" path="/com/"/>
+    <image id="cs7d2n" name="zjtx_frame.png" path="/img/"/>
+    <image id="cs7d2p" name="xz__frame.png" path="/img/" scale="9grid" scale9grid="0,20,31,5"/>
+    <image id="cs7d2q" name="server_frame.png" path="/img/" scale="9grid" scale9grid="247,117,13,30"/>
+    <image id="cs7d2r" name="frame_line.png" path="/img/" scale="9grid" scale9grid="136,0,10,64"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

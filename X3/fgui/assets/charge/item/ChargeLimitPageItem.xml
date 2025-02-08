@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,834">
+  <displayList>
+    <image id="n26_a948" name="n26" src="k3my37" fileName="img/biaoti.png" xy="183,0"/>
+    <text id="n28_a948" name="lbTitle" xy="303,10" pivot="0.5,0.5" size="123,54" fontSize="40" color="#423489" align="center" vAlign="middle" text="日礼包"/>
+    <list id="n32_k3my" name="list" xy="0,155" size="730,679" layout="flow_hz" overflow="scroll" scrollBarFlags="160" lineGap="-20" lineItemCount="3" defaultItem="ui://7cf99be8k3my33" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n34_c3wz" name="list2" xy="0,152" size="730,679" overflow="scroll" lineGap="20" defaultItem="ui://7cf99be8c3wz32" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <image id="n29_a948" name="n29" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="253,87" size="223,35" group="n33_ni07" alpha="0.2" color="#0e0c21"/>
+    <image id="n30_a948" name="n30" src="a94823" fileName="img/daojishi.png" xy="292,94" group="n33_ni07"/>
+    <text id="n31_a948" name="lbTime" xy="320,89" pivot="0.5,0.5" size="122,32" group="n33_ni07" fontSize="22" color="#ebe6ff" align="center" vAlign="middle" text="23小时15分"/>
+    <group id="n33_ni07" name="pTime" xy="253,87" size="223,35" advanced="true"/>
+  </displayList>
+</component>

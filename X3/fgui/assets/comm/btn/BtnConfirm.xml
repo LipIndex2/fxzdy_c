@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="227,101" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n9_fsx5" name="bg" src="47513" fileName="bgImage/changgui_btn.png" xy="0,0"/>
+    <text id="n5_4751" name="title" xy="12,14" size="205,74" fontSize="37" color="#fef2ba" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" text=""/>
+    <component id="n10_db4z" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="217,8" controller="type,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

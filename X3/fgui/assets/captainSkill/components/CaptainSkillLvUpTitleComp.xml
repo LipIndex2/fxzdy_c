@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="355,55">
+  <displayList>
+    <image id="n36_06d7" name="bg" src="06d722" fileName="img/biaoti.png" xy="0,0"/>
+    <text id="n37_06d7" name="labelLv" xy="8,3" size="101,52" fontSize="38" color="#fffffe" align="center" vAlign="middle" autoSize="shrink" strokeColor="#000000" strokeSize="3" singleLine="true" text="+15"/>
+    <text id="n69_kp3w" name="labelName" xy="127,1" size="199,52" fontSize="38" color="#ffcd54" vAlign="middle" singleLine="true" text="无人机轰炸"/>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="93,40" pivot="0.5,0.5" anchor="true" extention="Button">
+  <displayList>
+    <richtext id="n3_tjmg" name="title" xy="1,0" size="91,32" fontSize="22" color="#4cff8b" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="获得免费"/>
+    <image id="n4_tjmg" name="line" src="gvuzvvv1l6" fileName="btn/img/line_green.png" xy="1,29" size="91,8">
+      <relation target="n3_tjmg" sidePair="width-width"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <relation target="n3_tjmg" sidePair="width-width,height-height"/>
+</component>

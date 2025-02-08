@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n18_czc6" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,433" size="619,523" group="n17_loej"/>
+    <image id="n1_b0f1" name="n1" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,433" size="619,523" group="n17_loej"/>
+    <component id="n19_lupe" name="n19" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,963" group="n17_loej"/>
+    <image id="n2_b0f1" name="n2" src="b0f12" fileName="img/bg.png" xy="85,523" group="n17_loej"/>
+    <component id="n15_loej" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="262,747" group="n17_loej"/>
+    <component id="n11_b0f1" name="btnPlay" src="loej1b" fileName="btn/BtnAd.xml" pkg="38fa8c75" xy="536,860" pivot="0.5,0.5" anchor="true" size="245,94" group="n17_loej">
+      <Button titleFontSize="34"/>
+    </component>
+    <component id="n16_loej" name="btnBuy" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="232,860" pivot="0.5,0.5" anchor="true" size="245,94" group="n17_loej">
+      <Button title="前往购买" titleFontSize="34"/>
+    </component>
+    <text id="n3_b0f1" name="n3" xy="575,694" size="75,34" group="n17_loej" fontSize="24" color="#201f1d" vAlign="middle" text="未激活"/>
+    <text id="n4_b0f1" name="n4" xy="365,545" size="261,69" group="n17_loej" fontSize="52" color="#fff281" vAlign="middle" text="激活终身卡"/>
+    <text id="n5_b0f1" name="n5" xy="386,623" size="218,49" group="n17_loej" fontSize="36" color="#ffefc3" vAlign="middle" strokeColor="#bb6b00" strokeSize="3" text="永久免看广告"/>
+    <text id="n6_b0f1" name="n6" xy="309,750" size="178,32" group="n17_loej" fontSize="22" color="#ddfbff" vAlign="middle" text="本次登录不再提示"/>
+    <text id="n13_b0f1" name="n13" xy="370,480" pivot="0.5,0.5" anchor="true" size="67,44" group="n17_loej" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <group id="n17_loej" name="gAll" xy="65,433" size="619,620" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

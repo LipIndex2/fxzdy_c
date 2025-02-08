@@ -1,0 +1,37 @@
+{
+  "font": "ui://7q3fcj1kbcwg8",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "fontAdjustment": false,
+  "colorScheme": [
+    "描边1 #242424",
+    "描边2 #14242d",
+    "按钮 #835320",
+    "按钮灰 #bfccd9",
+    "浅普通描述 #49465a",
+    "浅次级描述 #696b8c",
+    "浅未达标 #862b2b",
+    "浅已达标 #0c6245",
+    "浅未解锁 #737373",
+    "深普通描述 #dbdbe4",
+    "深未达标 #e36d6d",
+    "深已达标 #6cb98e",
+    "深未解锁 #8d8d8d"
+  ],
+  "fontSizeScheme": [
+    "按钮字体 28",
+    "按钮字体 40"
+  ],
+  "fontScheme": [
+    "黑体"
+  ],
+  "scrollBars": {
+    "horizontal": "",
+    "vertical": "",
+    "defaultDisplay": "visible"
+  },
+  "tipsRes": "",
+  "buttonClickSound": "",
+  "pivot": "default",
+  "fileName": "Common"
+}

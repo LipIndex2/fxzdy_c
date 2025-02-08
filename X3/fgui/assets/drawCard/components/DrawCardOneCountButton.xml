@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <controller name="isAd" pages="0,,1," selected="1">
+    <remark page="0" value="默认"/>
+    <remark page="1" value="广告"/>
+  </controller>
+  <displayList>
+    <image id="n6_8301" name="bg" src="83016" fileName="btnImage/changgui3_btn.png" pkg="38fa8c75" xy="0,0" size="307,122"/>
+    <component id="n14_gys1" name="costCom" src="ipjzvvv19b" fileName="item/CommonItemSmallCostComp.xml" pkg="38fa8c75" xy="83,4">
+      <gearDisplay controller="isAd" pages="0"/>
+    </component>
+    <text id="n7_8301" name="labelBig" xy="75,49" size="154,56" fontSize="42" color="#ffffff" strokeColor="#1a50a9" strokeSize="3" text="招募1次"/>
+    <image id="n11_loej" name="n11" src="loejvvv1ge" fileName="iconImage/ad_icon.png" pkg="38fa8c75" xy="98,6" group="n13_czc6">
+      <relation target="n12_czc6" sidePair="right-left"/>
+    </image>
+    <text id="n12_czc6" name="labelAd" xy="144,5" size="63,42" group="n13_czc6" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#1a50a9" strokeSize="3" singleLine="true" text="免费">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n13_czc6" name="n13" xy="98,5" size="109,42" advanced="true">
+      <gearDisplay controller="isAd" pages="1"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

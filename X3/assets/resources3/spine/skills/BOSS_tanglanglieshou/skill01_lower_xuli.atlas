@@ -1,0 +1,69 @@
+
+skill01_lower_xuli.png
+size: 400,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_ring_00000
+  rotate: false
+  xy: 2, 664
+  size: 248, 248
+  orig: 280, 280
+  offset: 15, 15
+  index: -1
+effect/skill01_ring_00001
+  rotate: false
+  xy: 2, 428
+  size: 234, 234
+  orig: 280, 280
+  offset: 22, 22
+  index: -1
+effect/skill01_ring_00002
+  rotate: false
+  xy: 2, 208
+  size: 218, 218
+  orig: 280, 280
+  offset: 30, 30
+  index: -1
+effect/skill01_ring_00003
+  rotate: false
+  xy: 2, 2
+  size: 204, 204
+  orig: 280, 280
+  offset: 37, 37
+  index: -1
+effect/skill01_ring_00004
+  rotate: false
+  xy: 208, 16
+  size: 190, 190
+  orig: 280, 280
+  offset: 44, 44
+  index: -1
+effect/skill01_ring_00005
+  rotate: false
+  xy: 222, 252
+  size: 174, 174
+  orig: 280, 280
+  offset: 52, 52
+  index: -1
+effect/skill01_ring_00006
+  rotate: false
+  xy: 238, 502
+  size: 160, 160
+  orig: 280, 280
+  offset: 59, 59
+  index: -1
+effect/skill01_ring_00007
+  rotate: false
+  xy: 252, 664
+  size: 94, 94
+  orig: 280, 280
+  offset: 92, 92
+  index: -1
+effect/skill01_ring_00008
+  rotate: false
+  xy: 222, 208
+  size: 28, 28
+  orig: 280, 280
+  offset: 125, 125
+  index: -1

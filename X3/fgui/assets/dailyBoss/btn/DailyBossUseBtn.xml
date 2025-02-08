@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,52" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n0_p04m" name="n0" src="na348k" fileName="battle/img/sd_A_common_changgui1_btn.png" pkg="u3tpmdwf" xy="0,0" size="120,52">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_p04m" name="n2" xy="59,26" pivot="0.5,0.5" anchor="true" size="55,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#b77000" strokeSize="3" text="使用"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,490" designImage="ui://7q3fcj1kipjz5c" designImageOffsetX="-61" designImageOffsetY="-426" designImageAlpha="0">
+  <displayList>
+    <text id="n101_ta4f" name="lbTitle" xy="316,17" pivot="0.5,0.5" anchor="true" size="242,34" group="n98_woyg" fontSize="24" color="#fffbba" align="center" vAlign="middle" text="全部射击英雄享有加成"/>
+    <component id="n96_woyg" name="titleComp" src="woyg3h" fileName="components/CaptainSkillAttrTitleComp.xml" xy="0,44" group="n98_woyg">
+      <property target="title" propertyId="0" value="职业属性"/>
+    </component>
+    <list id="n97_woyg" name="listAttrCareer" xy="10,93" size="624,98" group="n98_woyg" touchable="false" layout="flow_hz" overflow="scroll" scrollBarFlags="128" lineGap="10" colGap="34" defaultItem="ui://07ac155bkp3w36" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n99_woyg" name="titleComp2" src="woyg3h" fileName="components/CaptainSkillAttrTitleComp.xml" xy="0,201" group="n98_woyg">
+      <property target="title" propertyId="0" value="职业特性"/>
+    </component>
+    <list id="n100_woyg" name="listEffect" xy="0,250" size="632,240" group="n98_woyg" overflow="scroll" lineGap="6" defaultItem="ui://07ac155bkp3w3a" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n98_woyg" name="gAll" xy="0,0" size="634,490" advanced="true" layout="vt" lineGap="10" colGap="10" excludeInvisibles="true"/>
+  </displayList>
+</component>

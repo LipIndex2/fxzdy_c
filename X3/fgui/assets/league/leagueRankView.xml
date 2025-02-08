@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n45_qr2a" name="n45" src="jmeivvv18n" fileName="view/TouchMaskWin.xml" pkg="38fa8c75" xy="0,0" group="n43_wq7z">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <image id="n0_be1a" name="n0" src="be1a94" fileName="img/zu13030.jpg" xy="0,0" group="n43_wq7z"/>
+    <image id="n46_g9nr" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" group="n43_wq7z" color="#212f49">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <image id="n14_be1a" name="n14" src="be1a76" fileName="img/sd_A_common_bossbt_frame.png" xy="168,52" group="n43_wq7z"/>
+    <text id="n15_be1a" name="n15" xy="301,68" size="147,64" group="n43_wq7z" fontSize="48" color="#052664" text="排行榜"/>
+    <component id="n27_be1a" name="top2" src="h90v10u" fileName="btn/leagueTop3.xml" xy="48,200" group="n43_wq7z"/>
+    <component id="n36_h90v" name="top1" src="h90v10u" fileName="btn/leagueTop3.xml" xy="296,153" group="n43_wq7z"/>
+    <component id="n37_h90v" name="top3" src="h90v10u" fileName="btn/leagueTop3.xml" xy="544,241" group="n43_wq7z"/>
+    <component id="n38_h90v" name="n38" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="468,77" group="n43_wq7z"/>
+    <image id="n48_e53p" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1373" pivot="0.5,0.5" anchor="true" size="750,250" group="n43_wq7z" color="#6b8caf" flip="vt">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <group id="n43_wq7z" name="n43" xy="0,-160" size="750,1658" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n1_be1a" name="bgList" src="be1a95" fileName="img/sd_A_common_bossxxd_frame_142.png" xy="1,626" group="n47_e53p">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n41_h90v" name="list" xy="20,667" size="716,360" group="n47_e53p" overflow="scroll" lineGap="12" defaultItem="ui://6be81224h90v10t" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n47_e53p" name="n47" xy="1,626" size="750,708" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <image id="n2_be1a" name="n2" src="be1a96" fileName="img/sd_A_common_wdpm1_framekaobei.png" xy="0,1038" group="n44_wq7z"/>
+    <image id="n12_be1a" name="n12" src="be1a100" fileName="img/sd_A_common_wdpm_frame.png" xy="0,1030" group="n44_wq7z"/>
+    <text id="n13_be1a" name="n13" xy="36,1039" size="91,32" group="n44_wq7z" fontSize="22" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="我的联盟"/>
+    <component id="n42_h90v" name="myLeague" src="h90v10t" fileName="com/leagueRankCell.xml" xy="20,1067" group="n44_wq7z"/>
+    <group id="n44_wq7z" name="n44" xy="0,1030" size="750,196" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n40_h90v" name="footCom" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1219">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,391 @@
+
+gw_fenliebaochong.png
+size: 149,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenliebaochong_0
+  rotate: false
+  xy: 65, 75
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_1
+  rotate: false
+  xy: 116, 86
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_10
+  rotate: false
+  xy: 136, 7
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+fenliebaochong_11
+  rotate: false
+  xy: 132, 86
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+fenliebaochong_12
+  rotate: false
+  xy: 136, 20
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+fenliebaochong_13
+  rotate: false
+  xy: 2, 7
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+fenliebaochong_14
+  rotate: false
+  xy: 26, 29
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+fenliebaochong_15
+  rotate: false
+  xy: 132, 138
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_16
+  rotate: false
+  xy: 64, 41
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_17
+  rotate: false
+  xy: 2, 139
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_18
+  rotate: false
+  xy: 99, 54
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+fenliebaochong_19
+  rotate: true
+  xy: 77, 93
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+fenliebaochong_2
+  rotate: false
+  xy: 71, 124
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+fenliebaochong_20
+  rotate: false
+  xy: 75, 7
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+fenliebaochong_21
+  rotate: false
+  xy: 2, 37
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+fenliebaochong_22
+  rotate: false
+  xy: 71, 34
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+fenliebaochong_23
+  rotate: true
+  xy: 2, 18
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+fenliebaochong_24
+  rotate: false
+  xy: 98, 17
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+fenliebaochong_25
+  rotate: false
+  xy: 27, 103
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+fenliebaochong_26
+  rotate: false
+  xy: 127, 36
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+fenliebaochong_27
+  rotate: false
+  xy: 97, 6
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+fenliebaochong_28
+  rotate: false
+  xy: 64, 18
+  size: 19, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+fenliebaochong_29
+  rotate: false
+  xy: 16, 8
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+fenliebaochong_3
+  rotate: false
+  xy: 43, 3
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+fenliebaochong_30
+  rotate: true
+  xy: 132, 104
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+fenliebaochong_31
+  rotate: false
+  xy: 111, 119
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+fenliebaochong_32
+  rotate: false
+  xy: 85, 15
+  size: 10, 16
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+fenliebaochong_33
+  rotate: false
+  xy: 45, 48
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+fenliebaochong_34
+  rotate: false
+  xy: 111, 93
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+fenliebaochong_35
+  rotate: true
+  xy: 104, 36
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+fenliebaochong_36
+  rotate: false
+  xy: 132, 122
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+fenliebaochong_37
+  rotate: false
+  xy: 2, 88
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+fenliebaochong_38
+  rotate: false
+  xy: 122, 7
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+fenliebaochong_39
+  rotate: true
+  xy: 25, 3
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+fenliebaochong_4
+  rotate: false
+  xy: 124, 86
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_40
+  rotate: false
+  xy: 36, 49
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+fenliebaochong_41
+  rotate: false
+  xy: 2, 76
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+fenliebaochong_42
+  rotate: false
+  xy: 134, 72
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fenliebaochong_43
+  rotate: true
+  xy: 116, 60
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+fenliebaochong_44
+  rotate: false
+  xy: 35, 3
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+fenliebaochong_45
+  rotate: true
+  xy: 110, 6
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+fenliebaochong_46
+  rotate: true
+  xy: 61, 6
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+fenliebaochong_47
+  rotate: false
+  xy: 67, 130
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+fenliebaochong_48
+  rotate: true
+  xy: 14, 99
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+fenliebaochong_49
+  rotate: false
+  xy: 2, 55
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+fenliebaochong_5
+  rotate: false
+  xy: 90, 8
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_50
+  rotate: false
+  xy: 2, 75
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+fenliebaochong_51
+  rotate: false
+  xy: 74, 60
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+fenliebaochong_52
+  rotate: true
+  xy: 120, 17
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+fenliebaochong_53
+  rotate: false
+  xy: 26, 12
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+fenliebaochong_54
+  rotate: true
+  xy: 45, 9
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+fenliebaochong_6
+  rotate: false
+  xy: 140, 138
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+fenliebaochong_7
+  rotate: false
+  xy: 64, 33
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+fenliebaochong_8
+  rotate: true
+  xy: 36, 28
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+fenliebaochong_9
+  rotate: false
+  xy: 134, 54
+  size: 10, 16
+  orig: 10, 17
+  offset: 0, 1
+  index: -1

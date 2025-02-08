@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n3_8152" name="n3" src="c3wz2l" fileName="img/biaotidi.png" xy="123,63" group="n15_c3wz"/>
+    <image id="n4_8152" name="n4" src="c3wz2n" fileName="img/tuceng35kaobei.png" xy="374,63" group="n15_c3wz"/>
+    <text id="n5_8152" name="lbTitle" xy="374,92" pivot="0.5,0.5" anchor="true" size="162,54" group="n15_c3wz" fontSize="40" color="#5eeaff" vAlign="middle" text="技能预览"/>
+    <image id="n11_c3wz" name="n11" src="ohdt2d" fileName="img/bg_video.png" xy="375,575" pivot="0.5,0.5" anchor="true" size="600,890" group="n15_c3wz"/>
+    <component id="n12_c3wz" name="videoNode" src="dusvvvv1fk" fileName="node/VideoNode.xml" pkg="38fa8c75" xy="375,575" size="580,870" group="n15_c3wz"/>
+    <component id="n14_c3wz" name="skill" src="c3wz2k" fileName="component/FirstChargeSkill.xml" xy="166,1031" group="n15_c3wz"/>
+    <group id="n15_c3wz" name="n15" xy="75,63" size="600,1083" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

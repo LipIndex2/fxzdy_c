@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,250" opaque="false">
+  <displayList>
+    <graph id="n60_9h0a" name="n60" xy="0,0" size="750,250" alpha="0.6" touchable="false" type="rect" fillColor="#ff000000">
+      <relation target="" sidePair=""/>
+    </graph>
+    <component id="n62_9h0a" name="btnClose" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="658,8" size="86,87">
+      <Button titleFontSize="20" icon="ui://38fa8c75j6z92u"/>
+    </component>
+    <component id="n79_m2go" name="btnChange" src="rqztvz" fileName="common/yellowBtn.xml" xy="-16,1" scale="0.6,0.6">
+      <Button title="修改视频尺寸" titleColor="#282828" titleFontSize="40"/>
+    </component>
+    <text id="n80_str8" name="editBoxScale" xy="208,34" size="271,34" fontSize="24" color="#ffffff" autoSize="none" text="1" input="true" prompt="视频缩放比例"/>
+  </displayList>
+</component>

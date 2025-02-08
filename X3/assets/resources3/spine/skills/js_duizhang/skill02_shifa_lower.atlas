@@ -1,0 +1,13 @@
+
+skill02_shifa_lower.png
+size: 109,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_shifa_lower
+  rotate: false
+  xy: 2, 2
+  size: 105, 51
+  orig: 105, 51
+  offset: 0, 0
+  index: -1

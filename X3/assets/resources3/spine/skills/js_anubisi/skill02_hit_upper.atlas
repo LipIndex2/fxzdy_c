@@ -1,0 +1,244 @@
+
+skill02_hit_upper.png
+size: 393,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_hit_00000
+  rotate: true
+  xy: 345, 50
+  size: 45, 30
+  orig: 80, 80
+  offset: 12, 28
+  index: -1
+effect/attack_hit_00001
+  rotate: false
+  xy: 341, 179
+  size: 49, 57
+  orig: 80, 80
+  offset: 8, 22
+  index: -1
+effect/attack_hit_00002
+  rotate: false
+  xy: 249, 93
+  size: 68, 57
+  orig: 80, 80
+  offset: 2, 1
+  index: -1
+effect/attack_hit_00003
+  rotate: true
+  xy: 319, 97
+  size: 53, 58
+  orig: 80, 80
+  offset: 18, 18
+  index: -1
+effect/attack_hit_00004
+  rotate: false
+  xy: 181, 90
+  size: 66, 60
+  orig: 80, 80
+  offset: 14, 14
+  index: -1
+effect/attack_hit_00005
+  rotate: false
+  xy: 42, 4
+  size: 36, 30
+  orig: 80, 80
+  offset: 17, 19
+  index: -1
+effect/skill02_hit3_00000
+  rotate: true
+  xy: 183, 66
+  size: 22, 53
+  orig: 40, 110
+  offset: 14, 1
+  index: -1
+effect/skill02_hit3_00001
+  rotate: true
+  xy: 261, 34
+  size: 25, 80
+  orig: 40, 110
+  offset: 13, 2
+  index: -1
+effect/skill02_hit3_00002
+  rotate: true
+  xy: 249, 61
+  size: 30, 94
+  orig: 40, 110
+  offset: 7, 3
+  index: -1
+effect/skill02_hit3_00003
+  rotate: false
+  xy: 358, 238
+  size: 31, 94
+  orig: 40, 110
+  offset: 5, 7
+  index: -1
+effect/skill02_hit3_00004
+  rotate: true
+  xy: 2, 70
+  size: 32, 89
+  orig: 40, 110
+  offset: 4, 13
+  index: -1
+effect/skill02_hit3_00005
+  rotate: true
+  xy: 2, 36
+  size: 32, 81
+  orig: 40, 110
+  offset: 3, 20
+  index: -1
+effect/skill02_hit3_00006
+  rotate: true
+  xy: 85, 21
+  size: 33, 56
+  orig: 40, 110
+  offset: 2, 48
+  index: -1
+effect/skill02_hit4
+  rotate: true
+  xy: 2, 104
+  size: 41, 92
+  orig: 50, 100
+  offset: 5, 5
+  index: -1
+effect/skill02_hit5
+  rotate: false
+  xy: 2, 150
+  size: 86, 182
+  orig: 100, 200
+  offset: 8, 3
+  index: -1
+effect/skill02_hit6_00000
+  rotate: true
+  xy: 341, 165
+  size: 12, 28
+  orig: 12, 200
+  offset: 0, 161
+  index: -1
+effect/skill02_hit6_00001
+  rotate: true
+  xy: 284, 16
+  size: 12, 101
+  orig: 12, 200
+  offset: 0, 83
+  index: -1
+effect/skill02_hit6_00002
+  rotate: false
+  xy: 379, 30
+  size: 12, 147
+  orig: 12, 200
+  offset: 0, 22
+  index: -1
+effect/skill02_hit6_00003
+  rotate: true
+  xy: 143, 14
+  size: 12, 139
+  orig: 12, 200
+  offset: 0, 13
+  index: -1
+effect/skill02_hit6_00004
+  rotate: true
+  xy: 284, 2
+  size: 12, 71
+  orig: 12, 200
+  offset: 0, 9
+  index: -1
+effect/skill02_hit6_00005
+  rotate: true
+  xy: 80, 7
+  size: 12, 55
+  orig: 12, 200
+  offset: 0, 5
+  index: -1
+effect/skill02_hit6_00006
+  rotate: false
+  xy: 166, 93
+  size: 10, 52
+  orig: 12, 200
+  offset: 1, 5
+  index: -1
+effect/skill02_lizi_00000
+  rotate: false
+  xy: 303, 222
+  size: 27, 22
+  orig: 140, 80
+  offset: 55, 24
+  index: -1
+effect/skill02_lizi_00001
+  rotate: false
+  xy: 181, 167
+  size: 50, 34
+  orig: 140, 80
+  offset: 46, 19
+  index: -1
+effect/skill02_lizi_00002
+  rotate: false
+  xy: 96, 100
+  size: 68, 45
+  orig: 140, 80
+  offset: 39, 15
+  index: -1
+effect/skill02_lizi_00003
+  rotate: true
+  xy: 303, 246
+  size: 86, 53
+  orig: 140, 80
+  offset: 31, 12
+  index: -1
+effect/skill02_lizi_00004
+  rotate: false
+  xy: 235, 152
+  size: 104, 60
+  orig: 140, 80
+  offset: 22, 9
+  index: -1
+effect/skill02_lizi_00005
+  rotate: true
+  xy: 235, 214
+  size: 118, 66
+  orig: 140, 80
+  offset: 15, 7
+  index: -1
+effect/skill02_lizi_00006
+  rotate: true
+  xy: 163, 203
+  size: 129, 70
+  orig: 140, 80
+  offset: 8, 6
+  index: -1
+effect/skill02_lizi_00007
+  rotate: true
+  xy: 90, 197
+  size: 135, 71
+  orig: 140, 80
+  offset: 4, 6
+  index: -1
+effect/skill02_lizi_00008
+  rotate: false
+  xy: 93, 56
+  size: 88, 32
+  orig: 140, 80
+  offset: 1, 7
+  index: -1
+effect/skill02_tianping1
+  rotate: true
+  xy: 90, 147
+  size: 48, 89
+  orig: 50, 100
+  offset: 1, 5
+  index: -1
+effect/skill02_tianping2
+  rotate: false
+  xy: 183, 28
+  size: 76, 31
+  orig: 84, 35
+  offset: 4, 3
+  index: -1
+effect/skill02_tianping3
+  rotate: false
+  xy: 2, 4
+  size: 38, 30
+  orig: 40, 35
+  offset: 1, 3
+  index: -1

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageOffsetX="-125" designImageOffsetY="-147" designImageLayer="1">
+  <displayList>
+    <image id="n11_q5rm" name="n11" src="91ylw" fileName="img/dl_di2.png" xy="80,264" size="589,799" group="n33_91yl"/>
+    <image id="n23_91yl" name="n23" src="91ylv" fileName="img/dl_di.png" xy="80,265" size="589,86" group="n33_91yl"/>
+    <image id="n13_q5rm" name="n13" src="91yl16" fileName="img/dl_di3.png" xy="122,379" size="505,74" group="n33_91yl"/>
+    <image id="n14_q5rm" name="n14" src="91yl16" fileName="img/dl_di3.png" xy="123,483" size="504,75" group="n33_91yl"/>
+    <image id="n18_txbn" name="n18" src="91yl16" fileName="img/dl_di3.png" xy="123,587" size="504,75" group="n33_91yl"/>
+    <image id="n25_91yl" name="n25" src="91yl16" fileName="img/dl_di3.png" xy="122,691" size="505,74" group="n33_91yl"/>
+    <image id="n26_91yl" name="n26" src="91yl13" fileName="img/dl_zh.png" xy="141,705" group="n33_91yl"/>
+    <image id="n28_91yl" name="n28" src="91yl16" fileName="img/dl_di3.png" xy="123,795" size="505,74" group="n33_91yl"/>
+    <image id="n29_91yl" name="n29" src="91yl15" fileName="img/dl_zj.png" xy="142,809" group="n33_91yl"/>
+    <image id="n2_k5m5" name="n2" src="91yl11" fileName="img/dl_mima.png" xy="143,499" group="n33_91yl"/>
+    <image id="n19_txbn" name="n19" src="91yl11" fileName="img/dl_mima.png" xy="143,601" group="n33_91yl"/>
+    <image id="n1_k5m5" name="n1" src="91yl13" fileName="img/dl_zh.png" xy="141,393" group="n33_91yl"/>
+    <text id="n8_k5m5" name="i_account" xy="217,394" size="380,42" group="n33_91yl" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]账号(3-20位字母与数字)[/color]" maxLength="20"/>
+    <text id="n9_k5m5" name="i_password" xy="217,500" size="380,42" group="n33_91yl" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]密码(3-20位字母与数字)[/color]" maxLength="20" password="true"/>
+    <text id="n20_txbn" name="i_confirm" xy="217,603" size="380,42" group="n33_91yl" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]确认密码(再次输入密码)[/color]" maxLength="20" password="true"/>
+    <text id="n27_91yl" name="i_name" xy="217,706" size="380,42" group="n33_91yl" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]真实姓名[/color]" maxLength="20"/>
+    <text id="n30_91yl" name="i_id" xy="218,810" size="380,42" group="n33_91yl" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]身份证号[/color]" maxLength="20" keyboardType="4"/>
+    <text id="n24_91yl" name="n24" xy="170,304" pivot="0.5,0.5" anchor="true" size="132,44" group="n33_91yl" fontSize="30" color="#dbdbe4" autoSize="none" text="快速注册"/>
+    <richtext id="n31_91yl" name="rtf_desc" xy="186,1004" size="402,34" group="n33_91yl" fontSize="22" color="#ffffff" vAlign="middle" leading="0" ubb="true" autoSize="none" text="[color=#dbdbe4]我已详细阅读并同意[/color][color=#9bbad8][url=user]用户协议[/url][color=#dbdbe4]与[/color][url=yinsi]隐私政策[/url][/color]"/>
+    <component id="n32_91yl" name="btn_agree" src="91yl1b" fileName="CheckBtn.xml" xy="143,994" group="n33_91yl">
+      <Button checked="true"/>
+    </component>
+    <component id="n5_k5m5" name="btn_enter" src="k5m56" fileName="comBtn.xml" xy="391,897" group="n33_91yl">
+      <Button title="注册"/>
+    </component>
+    <component id="n22_91yl" name="btn_close" src="k5m56" fileName="comBtn.xml" xy="123,898" group="n33_91yl">
+      <Button title="返回"/>
+    </component>
+    <group id="n33_91yl" name="n33" xy="80,264" size="589,799" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

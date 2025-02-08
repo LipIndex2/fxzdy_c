@@ -1,0 +1,118 @@
+
+choujianghuodong_upper2.png
+size: 989,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect_choujianghuodong1/choujianghuodong_dajiang_10
+  rotate: true
+  xy: 260, 373
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_12
+  rotate: true
+  xy: 454, 373
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_13
+  rotate: true
+  xy: 648, 373
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_15
+  rotate: false
+  xy: 2, 179
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_16
+  rotate: 180
+  xy: 776, 179
+  size: 209, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_18
+  rotate: false
+  xy: 2, 3
+  size: 206, 175
+  orig: 256, 192
+  offset: 2, 17
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_19
+  rotate: false
+  xy: 434, 6
+  size: 166, 172
+  orig: 256, 192
+  offset: 43, 16
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_21
+  rotate: false
+  xy: 954, 464
+  size: 34, 36
+  orig: 256, 192
+  offset: 50, 74
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_5
+  rotate: false
+  xy: 208, 13
+  size: 225, 165
+  orig: 256, 192
+  offset: 16, 17
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_6
+  rotate: false
+  xy: 743, 8
+  size: 231, 178
+  orig: 256, 192
+  offset: 10, 8
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_7
+  rotate: false
+  xy: 260, 179
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_9
+  rotate: false
+  xy: 518, 179
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_glo1
+  rotate: false
+  xy: 842, 389
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_glo2
+  rotate: false
+  xy: 2, 373
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_ring3
+  rotate: false
+  xy: 842, 501
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_dajiang_ring4
+  rotate: false
+  xy: 601, 49
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

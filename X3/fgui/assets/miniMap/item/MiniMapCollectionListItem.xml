@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="657,212">
+  <controller name="c1" pages="4,未解锁,0,未完成,1,已完成,2,已领取" selected="3"/>
+  <controller name="c2" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n32_773e" name="n32" src="773e25" fileName="img/jllb_frame.png" xy="0,0" size="657,212"/>
+    <image id="n41_773e" name="n41" src="v891vvv1f3" fileName="img/boss_tag.png" pkg="38fa8c75" xy="29,19"/>
+    <image id="n33_773e" name="n33" src="v891vvv1eo" fileName="bgImage/qd02_frame.png" pkg="38fa8c75" xy="484,19" size="156,174" flip="hz">
+      <gearDisplay controller="c1" pages="1,2"/>
+      <gearDisplay2 controller="c2" pages="1" condition="0"/>
+    </image>
+    <image id="n47_v891" name="n47" src="v891vvv1en" fileName="bgImage/qd01_frame.png" pkg="38fa8c75" xy="484,19" size="156,174" flip="hz">
+      <gearDisplay controller="c1" pages="4,0"/>
+      <gearDisplay2 controller="c2" pages="1" condition="0"/>
+    </image>
+    <loader id="n59_bezo" name="n59" xy="484,19" pivot="0.5,0.5" size="156,174" scale="-1,1" url="ui://38fa8c75v891vvv1eo" fill="scaleFree">
+      <gearDisplay controller="c2" pages="0"/>
+      <gearIcon controller="c1" pages="4" values="ui://38fa8c75v891vvv1en" default="ui://38fa8c75v891vvv1eo"/>
+    </loader>
+    <component id="n42_v891" name="itemFrame" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="510,75">
+      <gearDisplay controller="c2" pages="1"/>
+    </component>
+    <text id="n36_773e" name="n36" xy="498,30" pivot="0.5,0.5" size="123,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="可获取上限">
+      <gearDisplay controller="c1" pages="4,0,1,2"/>
+      <gearText controller="c2" pages="0" values="可获取上限" default="章节奖励"/>
+    </text>
+    <text id="n40_773e" name="T_name" xy="43,15" size="124,42" fontSize="30" color="#68c1ff" vAlign="middle" strokeColor="#000105" strokeSize="3" text="小齿轮-1"/>
+    <list id="n49_v891" name="list_count2" xy="492,73" size="139,113" overflow="hidden" lineGap="3" defaultItem="ui://e477df1cv8917b" autoClearItems="true">
+      <gearDisplay controller="c2" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n43_v891" name="n43" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="484,19" size="156,174" alpha="0.5">
+      <gearDisplay controller="c1" pages="2"/>
+      <gearDisplay2 controller="c2" pages="1" condition="0"/>
+    </image>
+    <image id="n44_v891" name="n44" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="536,100">
+      <gearDisplay controller="c1" pages="2"/>
+      <gearDisplay2 controller="c2" pages="1" condition="0"/>
+    </image>
+    <list id="n50_v891" name="list_count1" xy="42,79" size="397,100" layout="flow_hz" overflow="hidden" lineGap="17" colGap="37" defaultItem="ui://e477df1cv8917c">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n51_v891" name="n51" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="657,212" alpha="0.5">
+      <gearDisplay controller="c1" pages="4"/>
+    </image>
+    <text id="n53_v891" name="n53" xy="162,110" pivot="0.5,0.5" size="123,34" fontSize="24" color="#a6aab0" align="center" vAlign="middle" text="未解锁区域">
+      <gearDisplay controller="c1" pages="4"/>
+    </text>
+    <image id="n56_v891" name="n56" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="538,94" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="4"/>
+    </image>
+    <image id="n60_bezo" name="n60" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="484,19" size="156,174" alpha="0.5">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </image>
+    <image id="n61_bezo" name="n61" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="584,163">
+      <gearDisplay controller="c1" pages="0,1,2"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </image>
+  </displayList>
+</component>

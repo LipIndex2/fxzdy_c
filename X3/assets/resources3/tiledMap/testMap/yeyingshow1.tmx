@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="60" infinite="0" nextlayerid="12" nextobjectid="344" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="80">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <tileset columns="6" firstgid="171" name="map_ground_2102" tilecount="42" tileheight="120" tilewidth="200">
+  <image height="840" source="../mapTilesets/masterMap_01/map_ground_2102.png" width="1200" />
+ </tileset>
+ <tileset columns="5" firstgid="213" name="map_ground_duyechi" tilecount="15" tileheight="120" tilewidth="200">
+  <image height="360" source="../mapTilesets/masterMap_01/map_ground_duyechi.png" width="1000" />
+ </tileset>
+ <tileset firstgid="228" source="../mapTilesets/landscape.tsx" />
+ <tileset columns="0" firstgid="254" name="jz_0000_it_baixing_automatic" tilecount="17" tileheight="636" tilewidth="535">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="104" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0003_it_baixing_03.png" width="166" />
+  </tile>
+  <tile id="1">
+   <image height="166" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0008_it_baixing_08.png" width="144" />
+  </tile>
+  <tile id="2">
+   <image height="128" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0008_it_baixing_09.png" width="206" />
+  </tile>
+  <tile id="3">
+   <image height="111" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0009_it_baixing_09.png" width="202" />
+  </tile>
+  <tile id="4">
+   <image height="154" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0009_it_baixing_10.png" width="135" />
+  </tile>
+  <tile id="6">
+   <image height="356" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0011_it_baixing_011.png" width="371" />
+  </tile>
+  <tile id="7">
+   <image height="495" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0012_it_baixing_012.png" width="366" />
+  </tile>
+  <tile id="8">
+   <image height="313" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0013_it_baixing_013.png" width="358" />
+  </tile>
+  <tile id="9">
+   <image height="160" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0016_it_baixing_016.png" width="202" />
+  </tile>
+  <tile id="10">
+   <image height="55" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0017_it_baixing_017.png" width="90" />
+  </tile>
+  <tile id="11">
+   <image height="223" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0018_it_baixing_018.png" width="210" />
+  </tile>
+  <tile id="12">
+   <image height="194" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0019_it_baixing_019.png" width="187" />
+  </tile>
+  <tile id="13">
+   <image height="215" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0020_it_baixing_020.png" width="186" />
+  </tile>
+  <tile id="14">
+   <image height="356" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0021_it_baixing_021.png" width="370" />
+  </tile>
+  <tile id="15">
+   <image height="221" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0023_it_baixing_023.png" width="212" />
+  </tile>
+  <tile id="16">
+   <image height="518" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0028_it_baixing_028.png" width="374" />
+  </tile>
+  <tile id="17">
+   <image height="629" source="../mapTilesets/jz_0000_it_baixing_automatic/jz_0029_it_baixing_029.png" width="535" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="272" name="jz_0000_it_baixing" tilecount="18" tileheight="1514" tilewidth="1989">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="125" source="../mapTilesets/jz_0000_it_baixing/jz_0000_it_baixing_00.png" width="36" />
+  </tile>
+  <tile id="1">
+   <image height="25" source="../mapTilesets/jz_0000_it_baixing/jz_0001_it_baixing_01.png" width="31" />
+  </tile>
+  <tile id="2">
+   <image height="68" source="../mapTilesets/jz_0000_it_baixing/jz_0002_it_baixing_02.png" width="52" />
+  </tile>
+  <tile id="3">
+   <image height="133" source="../mapTilesets/jz_0000_it_baixing/jz_0004_it_baixing_04.png" width="148" />
+  </tile>
+  <tile id="4">
+   <image height="170" source="../mapTilesets/jz_0000_it_baixing/jz_0005_it_baixing_05.png" width="142" />
+  </tile>
+  <tile id="5">
+   <image height="51" source="../mapTilesets/jz_0000_it_baixing/jz_0006_it_baixing_06.png" width="59" />
+  </tile>
+  <tile id="6">
+   <image height="169" source="../mapTilesets/jz_0000_it_baixing/jz_0007_it_baixing_07.png" width="242" />
+  </tile>
+  <tile id="7">
+   <image height="367" source="../mapTilesets/jz_0000_it_baixing/jz_0014_it_baixing_014.png" width="464" />
+  </tile>
+  <tile id="8">
+   <image height="305" source="../mapTilesets/jz_0000_it_baixing/jz_0015_it_baixing_015.png" width="439" />
+  </tile>
+  <tile id="9">
+   <image height="336" source="../mapTilesets/jz_0000_it_baixing/jz_0022_it_baixing_022.png" width="427" />
+  </tile>
+  <tile id="10">
+   <image height="466" source="../mapTilesets/jz_0000_it_baixing/jz_0024_it_baixing_024.png" width="551" />
+  </tile>
+  <tile id="11">
+   <image height="1514" source="../mapTilesets/jz_0000_it_baixing/jz_0025_it_baixing_025.png" width="1989" />
+  </tile>
+  <tile id="12">
+   <image height="423" source="../mapTilesets/jz_0000_it_baixing/jz_0026_it_baixing_026.png" width="300" />
+  </tile>
+  <tile id="13">
+   <image height="285" source="../mapTilesets/jz_0000_it_baixing/jz_0027_it_baixing_027.png" width="312" />
+  </tile>
+  <tile id="14">
+   <image height="1431" source="../mapTilesets/jz_0000_it_baixing/jz_0030_it_baixing_030.png" width="790" />
+  </tile>
+  <tile id="15">
+   <image height="74" source="../mapTilesets/jz_0000_it_baixing/jz_0030_it_baixing_031.png" width="131" />
+  </tile>
+  <tile id="16">
+   <image height="35" source="../mapTilesets/jz_0000_it_baixing/jz_0030_it_baixing_032.png" width="66" />
+  </tile>
+  <tile id="17">
+   <image height="232" source="../mapTilesets/jz_0000_it_baixing/jz_0030_it_baixing_033.png" width="286" />
+  </tile>
+ </tileset>
+ <tileset columns="0" firstgid="290" name="building" tilecount="25" tileheight="351" tilewidth="531">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="65" source="../mapTilesets/building/jt01_icon.png" width="60" />
+  </tile>
+  <tile id="1">
+   <image height="66" source="../mapTilesets/building/jt03_icon.png" width="84" />
+  </tile>
+  <tile id="2">
+   <image height="66" source="../mapTilesets/building/jt04_icon.png" width="84" />
+  </tile>
+  <tile id="3">
+   <image height="351" source="../mapTilesets/building/map_build_2102.png" width="389" />
+  </tile>
+  <tile id="4">
+   <image height="318" source="../mapTilesets/building/map_door_202.png" width="375" />
+  </tile>
+  <tile id="5">
+   <image height="274" source="../mapTilesets/building/map_ground_2109.png" width="363" />
+  </tile>
+  <tile id="6">
+   <image height="256" source="../mapTilesets/building/map_ground_2110.png" width="402" />
+  </tile>
+  <tile id="7">
+   <image height="324" source="../mapTilesets/building/map_scene_2101.png" width="531" />
+  </tile>
+  <tile id="8">
+   <image height="324" source="../mapTilesets/building/map_scene_2102.png" width="531" />
+  </tile>
+  <tile id="9">
+   <image height="167" source="../mapTilesets/building/map_unlock_201.png" width="164" />
+  </tile>
+  <tile id="10">
+   <image height="167" source="../mapTilesets/building/map_unlock_202.png" width="164" />
+  </tile>
+  <tile id="11">
+   <image height="216" source="../mapTilesets/building/map_wall_01.png" width="123" />
+  </tile>
+  <tile id="12">
+   <image height="248" source="../mapTilesets/building/map_wall_02.png" width="124" />
+  </tile>
+  <tile id="13">
+   <image height="211" source="../mapTilesets/building/map_wall_03.png" width="51" />
+  </tile>
+  <tile id="14">
+   <image height="155" source="../mapTilesets/building/map_wall_04.png" width="146" />
+  </tile>
+  <tile id="15">
+   <image height="187" source="../mapTilesets/building/map_wall_05.png" width="73" />
+  </tile>
+  <tile id="16">
+   <image height="149" source="../mapTilesets/building/map_wall_06.png" width="145" />
+  </tile>
+  <tile id="17">
+   <image height="120" source="../mapTilesets/building/map_wall_07.png" width="147" />
+  </tile>
+  <tile id="18">
+   <image height="146" source="../mapTilesets/building/map_wall_201.png" width="119" />
+  </tile>
+  <tile id="19">
+   <image height="159" source="../mapTilesets/building/map_wall_202.png" width="145" />
+  </tile>
+  <tile id="20">
+   <image height="163" source="../mapTilesets/building/map_wall_203.png" width="145" />
+  </tile>
+  <tile id="21">
+   <image height="184" source="../mapTilesets/building/miaozhun.png" width="294" />
+  </tile>
+  <tile id="22">
+   <image height="123" source="../mapTilesets/building/mis_unlocked.png" width="122" />
+  </tile>
+  <tile id="23">
+   <image height="127" source="../mapTilesets/building/teleport.png" width="203" />
+  </tile>
+  <tile id="24">
+   <image height="237" source="../mapTilesets/building/TP.png" width="248" />
+  </tile>
+ </tileset>
+ <layer height="60" id="8" name="bottom_background_layer" width="80">
+  <data compression="zlib" encoding="base64">
+   eJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAADgZ0sAAAE=
+  </data>
+ </layer>
+ <layer height="60" id="1" name="bottom_layer" width="80">
+  <data compression="zlib" encoding="base64">
+   eJztmLdOA0EQhrchyA3BFSI0BNEQREXoMK+AwytQ08KzMyfdSMvc7Pps40Xyfp/06+7sa+bzbHIIAAAAAAAAAPBXXEo+euZ0yVwXq6Y8V5Kx5D2KfV4lQ8mN5LZUQYU5Cd2a1d+kjb2PM4kydjJscye5L1RTSaw/z4e9TyXl71ByJjkvVFNJ1J/nIOXEJudPf5ca/HlOYjfz+rBmfzrvpfouNTfir7t22Npzawv+fq8dtvYDySD4vprvttsMQt3+bA9p3VuS3eD32Z5kp81+8P3pngd/6bkwF32nNn967/XfIvu/2savddiMUR2b0/Z6FL0za+OdTWrqv9wY7tN7ub12Df5yXpr+6nMOqXn82jOFnQenoetVP2P98B1qX06DP/dpdI+Y87jp/uw51+vDlBtdo5n/+v1Xpf2oz+qv5v5L9U7qjBZ7xl869ozmnT3iPWKt62+fNdR7HkdX/M33GM+L1iP+8Lco+FsN/K3GPH+z4O8PU3vG2vx9Sb5D/x5cJp9hc/01vEpGkos15UHyKHkuVdA/8CY5XmOeJC/FqgEAAAAAAAAAAAAAWA8/k3PtvA==
+  </data>
+ </layer>
+ <layer height="60" id="9" name="grass_layer" visible="0" width="80">
+  <data compression="zlib" encoding="base64">
+   eJztzkEBAAAEBLDTRv+EWuCxJVgCAAAAAAAAAACwo+t6AAAAAAAAAAAAwAcDbikAKg==
+  </data>
+ </layer>
+ <layer height="60" id="2" name="grassland_layer" width="80">
+  <data compression="zlib" encoding="base64">
+   eJztwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAADgZ0sAAAE=
+  </data>
+ </layer>
+ <objectgroup id="11" name="ornament_layer" />
+ <objectgroup id="3" name="player_layer">
+  <object id="289" x="4949.23" y="3056.2">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711003" />
+   </properties>
+   <point />
+  </object>
+  <object id="320" x="2626.3" y="2718.3">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711018" />
+   </properties>
+   <point />
+  </object>
+  <object id="332" x="2735.79" y="3080.81">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711026" />
+   </properties>
+   <point />
+  </object>
+  <object id="290" x="4972.86" y="2927.03">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711004" />
+   </properties>
+   <point />
+  </object>
+  <object id="324" x="4760.2" y="3427.8">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711014" />
+   </properties>
+   <point />
+  </object>
+  <object id="335" x="2758.19" y="2846.41">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711021" />
+   </properties>
+   <point />
+  </object>
+  <object id="291" x="5101.92" y="3044.63">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711005" />
+   </properties>
+   <point />
+  </object>
+  <object id="321" x="5294.37" y="3423.57">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711016" />
+   </properties>
+   <point />
+  </object>
+  <object id="334" x="2862.06" y="2967.88">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711025" />
+   </properties>
+   <point />
+  </object>
+  <object id="292" x="5109.36" y="2908.07">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711007" />
+   </properties>
+   <point />
+  </object>
+  <object id="325" x="4274.59" y="2630.38">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711020" />
+   </properties>
+   <point />
+  </object>
+  <object id="337" x="2871.39" y="2853.21">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711024" />
+   </properties>
+   <point />
+  </object>
+  <object id="293" x="4999.25" y="2813.82">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711006" />
+   </properties>
+   <point />
+  </object>
+  <object id="327" x="5346.23" y="3765.03">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711015" />
+   </properties>
+   <point />
+  </object>
+  <object id="338" x="2779.12" y="2756.14">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711022" />
+   </properties>
+   <point />
+  </object>
+  <object id="294" x="5209.61" y="3005.39">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711008" />
+   </properties>
+   <point />
+  </object>
+  <object id="322" x="3191.52" y="3060.11">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711019" />
+   </properties>
+   <point />
+  </object>
+  <object id="336" x="2776.42" y="3032.75">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711027" />
+   </properties>
+   <point />
+  </object>
+  <object id="295" x="5208.32" y="2878.23">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711002" />
+   </properties>
+   <point />
+  </object>
+  <object id="323" x="4434.17" y="3519.77">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711017" />
+   </properties>
+   <point />
+  </object>
+  <object id="331" x="2915.89" y="2846.62">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711029" />
+   </properties>
+   <point />
+  </object>
+  <object id="296" x="5009.25" y="2690.63">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711001" />
+   </properties>
+   <point />
+  </object>
+  <object id="326" x="5029.7" y="3654.9">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711011" />
+   </properties>
+   <point />
+  </object>
+  <object id="333" x="3014.69" y="3051.82">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711028" />
+   </properties>
+   <point />
+  </object>
+  <object id="298" x="5314.99" y="2982.23">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711010" />
+   </properties>
+   <point />
+  </object>
+  <object id="328" x="2912.17" y="2889.77">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711012" />
+   </properties>
+   <point />
+  </object>
+  <object id="330" x="4277.62" y="3079.55">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711030" />
+   </properties>
+   <point />
+  </object>
+  <object id="297" x="5114.45" y="2786.76">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711009" />
+   </properties>
+   <point />
+  </object>
+  <object id="329" x="5607.07" y="3500.27">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711013" />
+   </properties>
+   <point />
+  </object>
+  <object id="339" x="2741.79" y="2954.81">
+   <properties>
+    <property name="building_type" value="enemy" />
+    <property name="object_id" type="int" value="77711023" />
+   </properties>
+   <point />
+  </object>
+  <object id="319" x="4766.8" y="3233.2">
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="collider_layer" opacity="0.9" />
+ <objectgroup id="5" name="area_layer" />
+ <objectgroup id="6" name="ui_layer" />
+</map>

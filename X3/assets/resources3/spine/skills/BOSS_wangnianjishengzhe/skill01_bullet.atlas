@@ -1,0 +1,62 @@
+
+skill01_bullet.png
+size: 176,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/qiu01
+  rotate: true
+  xy: 90, 169
+  size: 85, 83
+  orig: 128, 128
+  offset: 22, 21
+  index: -1
+images/effect/qiu02
+  rotate: false
+  xy: 2, 171
+  size: 86, 83
+  orig: 128, 128
+  offset: 21, 21
+  index: -1
+images/effect/qiu03
+  rotate: false
+  xy: 2, 340
+  size: 87, 83
+  orig: 128, 128
+  offset: 21, 21
+  index: -1
+images/effect/qiu04
+  rotate: false
+  xy: 2, 86
+  size: 86, 83
+  orig: 128, 128
+  offset: 22, 21
+  index: -1
+images/effect/qiu05
+  rotate: false
+  xy: 2, 256
+  size: 88, 82
+  orig: 128, 128
+  offset: 21, 21
+  index: -1
+images/effect/qiu06
+  rotate: false
+  xy: 2, 2
+  size: 87, 82
+  orig: 128, 128
+  offset: 21, 21
+  index: -1
+images/effect/qiu07
+  rotate: true
+  xy: 91, 82
+  size: 85, 82
+  orig: 128, 128
+  offset: 22, 22
+  index: -1
+images/effect/qiu08
+  rotate: true
+  xy: 92, 256
+  size: 85, 82
+  orig: 128, 128
+  offset: 22, 22
+  index: -1

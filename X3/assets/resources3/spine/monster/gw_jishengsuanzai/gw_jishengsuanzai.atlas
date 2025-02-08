@@ -1,0 +1,97 @@
+
+gw_jishengsuanzai.png
+size: 87,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: 270
+  xy: 43, 31
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 73, 4
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: 180
+  xy: 19, 14
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: 180
+  xy: 69, 14
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 60, 43
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 38, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 2, 31
+  size: 41, 44
+  orig: 42, 44
+  offset: 1, 0
+  index: -1
+J zd4
+  rotate: 270
+  xy: 63, 55
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 55, 21
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: 180
+  xy: 2, 23
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 24, 5
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: 270
+  xy: 44, 6
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 5, 10
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1

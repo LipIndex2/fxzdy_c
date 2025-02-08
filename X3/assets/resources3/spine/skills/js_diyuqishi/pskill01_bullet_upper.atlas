@@ -1,0 +1,27 @@
+
+pskill01_bullet_upper.png
+size: 237,23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_zidan_00000
+  rotate: false
+  xy: 2, 4
+  size: 88, 17
+  orig: 100, 30
+  offset: 5, 6
+  index: -1
+effect/pskill01_zidan_00001
+  rotate: false
+  xy: 92, 2
+  size: 75, 19
+  orig: 100, 30
+  offset: 5, 6
+  index: -1
+effect/pskill01_zidan_00002
+  rotate: false
+  xy: 169, 3
+  size: 66, 18
+  orig: 100, 30
+  offset: 4, 6
+  index: -1

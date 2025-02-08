@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,129">
+  <controller name="taskState" pages="0,doing,1,complete,2,finish" selected="0"/>
+  <controller name="rewardType" pages="0,item,1,score" selected="0">
+    <remark page="0" value="道具"/>
+    <remark page="1" value="积分"/>
+  </controller>
+  <displayList>
+    <image id="n60_eowx" name="bg" src="eowx7p" fileName="bgImage/lb7_frame.png" pkg="38fa8c75" xy="0,0" size="600,129">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n11_c21f" name="bgLeft" src="c21f7" fileName="img/jifendi.png" xy="3,3"/>
+    <loader id="n64_kp1o" name="fakeProgressBar" xy="146,79" size="239,16" group="n65_kp1o"/>
+    <component id="n61_eowx" name="progressBarTask" src="eowx7l" fileName="progressBar/components/ProgressBar2.xml" pkg="38fa8c75" xy="142,76" size="264,22" group="n65_kp1o">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n17_c21f" name="labelProgressBarValue" xy="218,72" size="103,29" group="n65_kp1o" fontSize="20" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" strokeColor="#1f1f1f" strokeSize="2" singleLine="true" text="{currentCount=100}/{maxCount=100}"/>
+    <group id="n65_kp1o" name="n65" xy="142,72" size="264,29"/>
+    <loader id="n53_eowx" name="maskProgressBar" xy="142,76" size="266,22" alpha="0.6" url="ui://38fa8c75972a4s" fill="scaleFree">
+      <gearDisplay controller="taskState" pages="2"/>
+    </loader>
+    <text id="n12_c21f" name="labelTaskTarget" xy="145,32" size="260,36" fontSize="26" color="#c1e8ff" vAlign="middle" ubb="true" autoSize="shrink" singleLine="true" text="登录游戏"/>
+    <component id="n67_wfol" name="rewardItem" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="17,10">
+      <gearDisplay controller="rewardType" pages="0"/>
+    </component>
+    <text id="n54_eowx" name="labelTaskRewardText" xy="6,42" size="122,34" fontSize="24" color="#eedc38" align="center" autoSize="none" text="活跃积分">
+      <gearDisplay controller="rewardType" pages="1"/>
+    </text>
+    <text id="n14_c21f" name="labelScoreAdd" xy="7,72" size="110,39" fontSize="28" color="#dbe5fc" align="center" vAlign="middle" autoSize="none" strokeColor="#000610" strokeSize="2" text="+5">
+      <gearDisplay controller="rewardType" pages="1"/>
+    </text>
+    <component id="n19_c21f" name="btnTask" src="eowx3c" fileName="button/TaskDailyPartButton.xml" xy="421,21" controller="taskState,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="117,68" extention="Button">
+  <displayList>
+    <image id="n57_95cd" name="n57" src="95cd23" fileName="img/sd_A_common_xz_tab.png" xy="0,0" group="n61_fhn9"/>
+    <text id="n58_95cd" name="lb_tab" xy="32,17" pivot="0.5,0.5" size="55,36" group="n61_fhn9" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#162241" strokeSize="3" text="新手"/>
+    <group id="n61_fhn9" name="grp_down" xy="0,0" size="117,68" advanced="true"/>
+    <image id="n59_ssxx" name="n59" src="95cd24" fileName="img/sd_A_common_wxz_tab_2.png" xy="0,0" group="n62_fhn9"/>
+    <text id="n60_ssxx" name="lb_tab1" xy="32,17" pivot="0.5,0.5" size="55,36" group="n62_fhn9" fontSize="26" color="#aac0eb" vAlign="middle" strokeColor="#162241" strokeSize="3" text="射手"/>
+    <group id="n62_fhn9" name="grp_up" xy="0,0" size="117,68" advanced="true"/>
+  </displayList>
+  <Button/>
+</component>

@@ -1,0 +1,13 @@
+
+wasijianzhu.png
+size: 190,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 186, 266
+  orig: 186, 270
+  offset: 0, 4
+  index: -1

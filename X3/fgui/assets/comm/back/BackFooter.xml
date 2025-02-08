@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,119" initName="footer">
+  <displayList>
+    <loader id="n28_116b" name="bgFooter1" xy="375,95" pivot="0.5,0.5" anchor="true" size="750,200" url="ui://38fa8c75kp1obk" fill="scaleFree">
+      <relation target="" sidePair="width-width"/>
+    </loader>
+    <component id="n29_116b" name="btnBack" src="wq7zvvv1dq" fileName="back/BackIcon.xml" xy="0,0"/>
+  </displayList>
+</component>

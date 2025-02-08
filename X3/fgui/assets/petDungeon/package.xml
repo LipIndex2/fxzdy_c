@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="390d39d8">
+  <resources>
+    <image id="bfe74" name="zu13090.png" path="/img/"/>
+    <component id="bfe710" name="PetDungeonMainView.xml" path="/view/"/>
+    <image id="bfe713" name="xinxi_di.png" path="/img/"/>
+    <image id="bfe714" name="bantoudi_86.png" path="/img/" scale="9grid" scale9grid="23,32,46,64"/>
+    <component id="bfe737" name="PetDungeonMapView.xml" path="/view/"/>
+    <component id="bfe771" name="PetDungeonSelectHeroWin.xml" path="/view/"/>
+    <image id="bfe775" name="bantoudi_49.png" path="/img/"/>
+    <component id="bfe791" name="PetDungeonBattleWinView.xml" path="/view/"/>
+    <component id="bfe7106" name="PetDungeonBattleFailView.xml" path="/view/"/>
+    <component id="woyg121" name="PetDungeonHeroItem.xml" path="/item/"/>
+    <component id="woyg122" name="PetDungeonHeroHp.xml" path="/component/"/>
+    <component id="woyg123" name="PetDungeonBoxBtn.xml" path="/component/"/>
+    <component id="woyg124" name="PetDungeonTitleComp.xml" path="/component/"/>
+    <component id="woyg125" name="PetDungeonUpHeroItem.xml" path="/item/"/>
+    <component id="woyg126" name="PetDungeonSelectHeroItem.xml" path="/item/"/>
+    <component id="woyg128" name="PetDungeonCareerSelectList.xml" path="/component/"/>
+    <component id="woyg129" name="PetDungeonCareerSelectBtn.xml" path="/component/"/>
+    <component id="woyg12a" name="PetDungeonBattleHeroList.xml" path="/component/"/>
+    <component id="woyg12d" name="PetDungeonBattleWinComp.xml" path="/component/"/>
+    <component id="woyg12e" name="PetDungeonBattleFailComp.xml" path="/component/"/>
+    <component id="woyg12f" name="PetDungeonChallengeWin.xml" path="/view/"/>
+    <image id="gl0p12n" name="icon_title.png" path="/img/"/>
+    <image id="gl0p12o" name="guanqiadi.png" path="/img/" scale="9grid" scale9grid="30,30,24,52"/>
+    <component id="loj012p" name="PetDungeonToyAttrItem.xml" path="/item/"/>
+    <component id="loj012q" name="PetDungeonToyBoxBtn.xml" path="/component/"/>
+    <component id="loj012r" name="PetDungeonToyBoxItem.xml" path="/item/"/>
+    <image id="loj012t" name="bg_bubble.png" path="/img/" scale="9grid" scale9grid="30,16,8,4"/>
+    <component id="loj012u" name="PetDungeonToyBoxWin.xml" path="/view/"/>
+    <component id="loj012v" name="PetDungeonToyCellBg.xml" path="/component/"/>
+    <image id="loj012w" name="cell_1.png" path="/img/" scale="9grid" scale9grid="12,12,6,6"/>
+    <component id="loj012x" name="PetDungeonToyCellItem.xml" path="/item/"/>
+    <image id="loj012y" name="cell_2.png" path="/img/" scale="9grid" scale9grid="12,12,6,6"/>
+    <component id="loj012z" name="PetDungeonToyDelBtn.xml" path="/component/"/>
+    <image id="loj0130" name="btn_del1.png" path="/img/"/>
+    <image id="loj0131" name="btn_del2.png" path="/img/"/>
+    <component id="loj0132" name="PetDungeonToyDelWin.xml" path="/view/"/>
+    <component id="loj0133" name="PetDungeonToyIcon.xml" path="/component/"/>
+    <component id="loj0134" name="PetDungeonToyInfoWin.xml" path="/view/"/>
+    <component id="loj0135" name="PetDungeonToyWin.xml" path="/view/"/>
+    <image id="loj0136" name="sx01_di.png" path="/img/"/>
+    <image id="loj0137" name="cangku_frame.png" path="/img/" scale="9grid" scale9grid="160,57,2,114"/>
+    <component id="loj0138" name="PetDungeonToyDelIcon.xml" path="/component/"/>
+    <component id="loj0139" name="PetDungeonToyIconItem.xml" path="/item/"/>
+    <component id="t1qh13a" name="PetDungeonToyDragComp.xml" path="/component/"/>
+    <component id="t1qh13b" name="PetDungeonToyCellContainer.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageLayer="1">
+  <controller name="tab" pages="0,task,1,achievement" selected="0">
+    <remark page="0" value="任务"/>
+    <remark page="1" value="成就"/>
+  </controller>
+  <displayList>
+    <list id="n67_s1v8" name="tabList" xy="56,1972" size="665,88" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="268" defaultItem="ui://6b9eb171eowx3d" vAlign="middle" selectionController="tab" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <loader id="n66_eowx" name="bg" xy="29,96" size="698,1141" group="n69_ipjz" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <text id="n59_c21f" name="labelTitle" xy="237,126" size="249,44" group="n69_ipjz" fontSize="32" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="任务"/>
+    <component id="n63_eowx" name="taskPartComp" src="eowx39" fileName="dailyTask/DailyTaskPartComponent.xml" xy="56,190" size="680,932" group="n69_ipjz">
+      <gearDisplay controller="tab" pages="0"/>
+    </component>
+    <component id="n68_s1v8" name="achievementPartComp" src="s1v83e" fileName="achievement/AchievementPartComponent.xml" xy="56,189" group="n69_ipjz">
+      <gearDisplay controller="tab" pages="1"/>
+    </component>
+    <component id="n70_fldf" name="tempTaskTab" src="eowx3d" fileName="button/TaskTabButton.xml" xy="61,1121" size="627,81" group="n69_ipjz">
+      <gearDisplay controller="tab" pages="0"/>
+    </component>
+    <group id="n69_ipjz" name="G_all" xy="29,96" size="707,1141" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n72_vdae" name="n72" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1247">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

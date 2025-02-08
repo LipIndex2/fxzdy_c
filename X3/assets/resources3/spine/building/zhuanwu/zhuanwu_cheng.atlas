@@ -1,0 +1,139 @@
+
+zhuanwu_cheng.png
+size: 500,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd10
+  rotate: false
+  xy: 430, 214
+  size: 66, 55
+  orig: 66, 60
+  offset: 0, 5
+  index: -1
+J zd11
+  rotate: true
+  xy: 360, 71
+  size: 80, 38
+  orig: 81, 38
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 2, 411
+  size: 32, 17
+  orig: 32, 19
+  offset: 0, 1
+  index: -1
+J zd13
+  rotate: false
+  xy: 400, 83
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 400, 5
+  size: 33, 76
+  orig: 33, 78
+  offset: 0, 1
+  index: -1
+J zd15
+  rotate: false
+  xy: 246, 5
+  size: 17, 85
+  orig: 17, 85
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: 270
+  xy: 274, 132
+  size: 144, 154
+  orig: 144, 154
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 138, 92
+  size: 127, 116
+  orig: 127, 116
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 2, 210
+  size: 153, 218
+  orig: 153, 218
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 157, 223
+  size: 138, 205
+  orig: 138, 205
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 2, 90
+  size: 118, 134
+  orig: 118, 154
+  offset: 0, 20
+  index: -1
+J zd20
+  rotate: 270
+  xy: 2, 2
+  size: 86, 151
+  orig: 86, 151
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 430, 271
+  size: 67, 65
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 423, 338
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 267, 59
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 37, 35
+  size: 49, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 138, 61
+  size: 106, 31
+  orig: 106, 31
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 435, 39
+  size: 50, 42
+  orig: 53, 42
+  offset: 2, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 297, 278
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1

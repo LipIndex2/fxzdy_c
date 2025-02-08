@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="88,119">
+  <displayList>
+    <image id="n29_d91a" name="n29" src="d91a19" fileName="img/xingzhuang21.png" xy="0,93"/>
+    <text id="n30_d91a" name="T_pop" xy="25,90" pivot="0.5,0.5" size="36,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" text="2%"/>
+    <component id="n37_ko81" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="-8,-8" scale="0.85,0.85"/>
+  </displayList>
+</component>

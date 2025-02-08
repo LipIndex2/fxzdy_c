@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="184,934">
+  <controller name="isOpen" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n3_a936" name="bg" src="na342v" fileName="img/tiaomu.png" xy="0,0"/>
+    <text id="n10_a936" name="labelTitle" xy="34,41" size="123,42" fontSize="30" color="#daeffd" strokeColor="#01242b" strokeSize="3" text="人族序列"/>
+    <text id="n11_a936" name="labelLayerNum" xy="41,83" pivot="0.5,0.5" size="108,42" fontSize="30" color="#fff17b" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" autoClearText="true" text="0"/>
+    <component id="n29_a936" name="barProgress" src="na342m" fileName="bar/GodSequenceShortBar.xml" xy="30,743" size="748,165" scale="0.8,0.8" rotation="270">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <loader id="n8_a936" name="imageRace" xy="70,779" pivot="0.5,0.5" size="51,56" url="ui://7q3fcj1kna346k" align="center" vAlign="middle" clearOnPublish="true"/>
+    <component id="n30_na34" name="btnOk" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="13,863" size="162,73">
+      <gearDisplay controller="isOpen" pages="1"/>
+      <Button title="挑战" titleFontSize="29"/>
+    </component>
+    <text id="n31_na34" name="labelNotOpen" xy="9,876" pivot="0.5,0.5" size="170,47" fontSize="24" color="#3fc2ea" align="center" vAlign="middle" autoSize="shrink" strokeColor="#000000" strokeSize="2" singleLine="true" text="未开启">
+      <gearDisplay controller="isOpen" pages="0"/>
+    </text>
+  </displayList>
+</component>

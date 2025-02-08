@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="685,149">
+  <controller name="c1" pages="0,未完成,1,已完成未领取,2,已领取" selected="0"/>
+  <displayList>
+    <loader id="n98_bezo" name="n98" xy="0,0" size="685,149" url="ui://ee5b35f6bezo5u" fill="scaleFree"/>
+    <image id="n50_b7b6" name="n50" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="514,54" size="113,41">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <component id="n93_bezo" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="30,22"/>
+    <component id="n94_bezo" name="btn_get" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="490,39" size="160,70">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearText controller="c1" pages="0,1" values="前往|领取" default=""/>
+      <Button title="前往" titleFontSize="29"/>
+    </component>
+    <component id="n96_bezo" name="bar" src="bezo5d" fileName="bar/BattlePassTaskBar.xml" xy="155,89" size="273,23">
+      <ProgressBar value="20" max="100"/>
+    </component>
+    <text id="n99_bezo" name="T_bar" xy="263,86" pivot="0.5,0.5" size="38,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#100900" strokeSize="2" text="6/9"/>
+    <text id="n100_bezo" name="T_taks" xy="154,39" pivot="0,0.5" size="226,36" fontSize="26" color="#b24a0a" vAlign="middle" text="使用9张高级招募令"/>
+  </displayList>
+</component>

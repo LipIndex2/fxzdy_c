@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="95,108" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n50_k045" name="icon" xy="7,0" pivot="0.5,0.5" size="82,92" url="ui://4e791994430e28" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n48_430e" name="title" xy="2,76" pivot="0.5,0.5" size="91,32" fontSize="22" color="#f2f4f4" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="每日应援"/>
+    <component id="n51_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="80,15"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

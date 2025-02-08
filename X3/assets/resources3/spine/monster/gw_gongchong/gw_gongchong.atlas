@@ -1,0 +1,188 @@
+
+gw_gongchong.png
+size: 157,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongchong_0
+  rotate: 180
+  xy: 34, 24
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+gongchong_1
+  rotate: false
+  xy: 32, 76
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+gongchong_10
+  rotate: false
+  xy: 103, 3
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+gongchong_11
+  rotate: true
+  xy: 22, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+gongchong_12
+  rotate: false
+  xy: 113, 42
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+gongchong_13
+  rotate: false
+  xy: 89, 38
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+gongchong_14
+  rotate: true
+  xy: 68, 10
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+gongchong_15
+  rotate: true
+  xy: 138, 62
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+gongchong_16
+  rotate: true
+  xy: 2, 8
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+gongchong_17
+  rotate: false
+  xy: 78, 59
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+gongchong_18
+  rotate: true
+  xy: 85, 4
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+gongchong_19
+  rotate: false
+  xy: 41, 28
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+gongchong_2
+  rotate: false
+  xy: 37, 60
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+gongchong_20
+  rotate: true
+  xy: 120, 4
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+gongchong_21
+  rotate: true
+  xy: 145, 14
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+gongchong_22
+  rotate: false
+  xy: 2, 20
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+gongchong_23
+  rotate: false
+  xy: 138, 42
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+gongchong_24
+  rotate: true
+  xy: 137, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+gongchong_25
+  rotate: true
+  xy: 51, 68
+  size: 16, 27
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+gongchong_3
+  rotate: false
+  xy: 37, 71
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+gongchong_4
+  rotate: false
+  xy: 2, 79
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+gongchong_5
+  rotate: false
+  xy: 145, 26
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+gongchong_6
+  rotate: false
+  xy: 2, 50
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+gongchong_7
+  rotate: true
+  xy: 120, 14
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+gongchong_8
+  rotate: false
+  xy: 86, 16
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+gongchong_9
+  rotate: false
+  xy: 37, 7
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1

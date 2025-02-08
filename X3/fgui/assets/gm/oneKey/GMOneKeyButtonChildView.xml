@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <image id="n39_m43k" name="n39" src="m43k8" fileName="img/itemTypeTabChooseBg.png" xy="18,11" size="252,72"/>
+    <list id="n28_t6mg" name="btnList" xy="2,139" size="607,625" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" margin="0,0,50,50" lineGap="10" colGap="50" defaultItem="ui://t846cdz6b1chc" autoClearItems="true">
+      <item title="item1"/>
+      <item title="item2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n43_972a" name="inputName" xy="33,21" size="222,49" fontSize="26" color="#494654" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="[color=#494654]过滤名字[/color]" maxLength="20"/>
+    <graph id="n44_qj7y" name="n44" xy="30,116" size="554,9" type="rect" lineSize="0" fillColor="#ff00ccff" corner="5"/>
+  </displayList>
+</component>

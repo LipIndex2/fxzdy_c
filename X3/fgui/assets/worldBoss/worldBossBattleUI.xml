@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <image id="n8_d6aa" name="n8" src="d6aa128" fileName="img/jindutiao.png" xy="210,76" group="n23_e1fv"/>
+    <image id="n10_d6aa" name="n10" src="d6aa129" fileName="img/sd_Gguajiguanqia_bossred_blood.png" xy="204,114" group="n23_e1fv"/>
+    <image id="n17_uug0" name="n17" src="uug013t" fileName="img/sjboss1_biood.png" xy="211,75" group="n23_e1fv"/>
+    <component id="n19_uug0" name="bossHpBar" src="uug013w" fileName="component/worldBossHpBar.xml" xy="424,129" pivot="0.5,0.5" anchor="true" group="n23_e1fv">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n20_uug0" name="boxBar" src="uug013v" fileName="component/worldBossBoxBar.xml" xy="214,98" group="n23_e1fv">
+      <ProgressBar max="100"/>
+    </component>
+    <image id="n11_d6aa" name="n11" src="d6aa130" fileName="img/sd_Gguajiguanqia_bosstouxiang.png" xy="98,65" group="n23_e1fv"/>
+    <image id="n12_d6aa" name="bossHead" src="d6aa131" fileName="img/tuceng1133.png" xy="109,77" group="n23_e1fv"/>
+    <image id="n7_d6aa" name="n7" src="d6aa127" fileName="img/baoxiang.png" xy="522,53" group="n23_e1fv"/>
+    <text id="n9_d6aa" name="boxNum" xy="577,69" size="10,36" group="n23_e1fv" fontSize="26" color="#ffffff" strokeColor="#000000" strokeSize="3" text=""/>
+    <component id="n22_e1fv" name="hurtCom" src="e1fv140" fileName="component/totalDamageComp.xml" xy="1,376" group="n23_e1fv"/>
+    <text id="n24_bowv" name="lbHp" xy="426,129" pivot="0.5,0.5" anchor="true" size="400,42" group="n23_e1fv" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text=""/>
+    <group id="n23_e1fv" name="container" xy="1,53" size="643,433" visible="false" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

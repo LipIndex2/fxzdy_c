@@ -1,0 +1,146 @@
+
+skill02_loop_lower.png
+size: 760,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_loop_lowerback_00000
+  rotate: true
+  xy: 258, 8
+  size: 78, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00001
+  rotate: true
+  xy: 258, 8
+  size: 78, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00002
+  rotate: true
+  xy: 386, 89
+  size: 81, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00003
+  rotate: false
+  xy: 631, 172
+  size: 83, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00004
+  rotate: false
+  xy: 545, 172
+  size: 84, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00005
+  rotate: true
+  xy: 2, 2
+  size: 84, 114
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00006
+  rotate: true
+  xy: 387, 3
+  size: 84, 117
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00007
+  rotate: true
+  xy: 639, 86
+  size: 84, 119
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00008
+  rotate: true
+  xy: 515, 86
+  size: 84, 122
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00009
+  rotate: true
+  xy: 131, 87
+  size: 84, 125
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00010
+  rotate: true
+  xy: 258, 88
+  size: 83, 126
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00011
+  rotate: true
+  xy: 2, 88
+  size: 83, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00012
+  rotate: false
+  xy: 458, 172
+  size: 85, 127
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00013
+  rotate: false
+  xy: 276, 173
+  size: 88, 126
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00014
+  rotate: false
+  xy: 94, 173
+  size: 89, 126
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00015
+  rotate: false
+  xy: 2, 174
+  size: 90, 125
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00016
+  rotate: false
+  xy: 366, 177
+  size: 90, 122
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00017
+  rotate: false
+  xy: 185, 174
+  size: 89, 125
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00018
+  rotate: true
+  xy: 506, 13
+  size: 71, 125
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+effect/skill02_loop_lowerback_00019
+  rotate: true
+  xy: 118, 12
+  size: 73, 126
+  orig: 90, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="533,58" designImageAlpha="0">
+  <displayList>
+    <image id="n23_vdae" name="n23" src="jqxis99" fileName="chat/liaotian_frame.png" pkg="72zq62ea" xy="112,9" size="207,39" alpha="0.25"/>
+    <text id="n7_3cd6" name="count" xy="212,29" pivot="0.5,0.5" anchor="true" size="146,40" fontSize="26" color="#abe1ff" align="center" vAlign="middle" autoSize="shrink" singleLine="true" text="20"/>
+    <component id="n22_vdae" name="btn_add" src="j6z931" fileName="btn/BaseBtn.xml" xy="292,0" size="57,58">
+      <Button icon="ui://38fa8c75vdaevvv1i0"/>
+    </component>
+    <component id="n17_vdae" name="btn_add10" src="j6z931" fileName="btn/BaseBtn.xml" xy="354,0" size="76,58">
+      <Button icon="ui://38fa8c75vdaevvv1hy"/>
+    </component>
+    <component id="n21_vdae" name="btn_minus" src="j6z931" fileName="btn/BaseBtn.xml" xy="79,0" size="57,58">
+      <Button icon="ui://38fa8c75vdaevvv1hz"/>
+    </component>
+    <component id="n18_vdae" name="btn_minus10" src="j6z931" fileName="btn/BaseBtn.xml" xy="0,0" size="76,58">
+      <Button icon="ui://38fa8c75vdaevvv1hx"/>
+    </component>
+    <component id="n20_vdae" name="btn_max" src="j6z931" fileName="btn/BaseBtn.xml" xy="434,0" size="99,58">
+      <Button icon="ui://38fa8c75vdaevvv1i1"/>
+    </component>
+  </displayList>
+</component>

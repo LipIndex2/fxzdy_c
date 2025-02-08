@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="200,340">
+  <displayList>
+    <image id="n8_a664" name="n8" src="a6644" fileName="img/kapian.png" xy="12,26"/>
+    <loader id="n21_lhcv" name="iconLoader" xy="20,53" size="160,160" fill="scale"/>
+    <text id="n9_a664" name="lbName" xy="50,208" pivot="0.5,0.5" size="100,42" fontSize="30" align="center" vAlign="middle" text="60星钻"/>
+    <component id="n23_lhcv" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="24,274" size="153,59">
+      <Button titleFontSize="26"/>
+    </component>
+    <image id="n17_a664" name="bgFirst" src="a6646" fileName="img/chaozhiyeqian.png" xy="0,13" group="n20_lhcv"/>
+    <text id="n18_a664" name="lbFristReward" xy="9,35" pivot="0,0.5" anchor="true" size="88,42" group="n20_lhcv" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#cf411a" strokeSize="3" text="赠200"/>
+    <loader id="n22_lhcv" name="fristIconLoader" xy="115,35" pivot="0.5,0.5" anchor="true" size="40,40" group="n20_lhcv" fill="scale">
+      <relation target="n18_a664" sidePair="left-right"/>
+    </loader>
+    <group id="n20_lhcv" name="pFirst" xy="0,13" size="139,49" advanced="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,230">
+  <displayList>
+    <image id="n1_3bca" name="n1" src="d63c3" fileName="bg/kongcao.png" pkg="38fa8c75" xy="0,46" group="n71_q6dm"/>
+    <image id="n5_3bca" name="n5" src="tml513e" fileName="bgImage/qipao1_frame.png" pkg="38fa8c75" xy="3,0" pivot="0.5,0.5" size="129,81" group="n71_q6dm" scale="0.7,0.7"/>
+    <loader id="n74_q6dm" name="img_frame" xy="16,70" pivot="0.5,0.5" size="104,104" group="n71_q6dm" url="ui://38fa8c75dtss6d" autoSize="true"/>
+    <loader id="n72_q6dm" name="img_item" xy="30,88" pivot="0.5,0.5" size="78,73" group="n71_q6dm" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n7_3bca" name="n7" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="19,73" group="n71_q6dm" scale="0.5,0.5"/>
+    <text id="n4_3bca" name="T_name" xy="22,186" pivot="0.5,0.5" size="91,32" group="n71_q6dm" fontSize="22" color="#d364f6" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="无敌魔方"/>
+    <text id="n6_3bca" name="T_tips" xy="33,19" pivot="0.5,0.5" size="69,32" group="n71_q6dm" fontSize="22" color="#1e6fdd" align="center" vAlign="middle" text="去解锁"/>
+    <component id="n73_q6dm" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="130,62" size="20,20" group="n71_q6dm" touchable="false" controller="type,2"/>
+    <group id="n71_q6dm" name="n71" xy="0,0" size="140,230"/>
+  </displayList>
+</component>

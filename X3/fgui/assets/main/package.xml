@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="8982be53">
+  <resources>
+    <image id="6b293" name="zldi_frame.png" path="/img/"/>
+    <image id="6b294" name="jindu_frame.png" path="/img/"/>
+    <image id="6b2912" name="shangcheng_icon.png" path="/img/"/>
+    <image id="6b2913" name="fuli_icon.png" path="/img/"/>
+    <image id="6b2914" name="qirirenwu_icon.png" path="/img/"/>
+    <image id="6b2915" name="qiridenglu_icon.png" path="/img/"/>
+    <image id="6b2919" name="renwu_frame.png" path="/img/"/>
+    <image id="6b2925" name="zhaohuan_icon.png" path="/img/"/>
+    <image id="6b2926" name="wanfa_icon.png" path="/img/"/>
+    <image id="6b2927" name="yingxiongpeiyang_icon.png" path="/img/"/>
+    <image id="6b2928" name="gonghui_icon.png" path="/img/" scale9grid="20,17,40,34"/>
+    <image id="6b2929" name="leinuojindu.png" path="/img/"/>
+    <image id="6b2930" name="huicheng_4.png" path="/img/"/>
+    <image id="6b2931" name="ditu_2.png" path="/img/"/>
+    <image id="6b2932" name="icon.png" path="/img/"/>
+    <image id="6b2936" name="001_img.png" path="/img/"/>
+    <image id="6b2941" name="90%.png" path="/img/"/>
+    <component id="6b2942" name="MainPage.xml" path="/"/>
+    <component id="j6z943" name="ActivityCom.xml" path="/com/"/>
+    <component id="j6z946" name="TaskCom.xml" path="/com/"/>
+    <component id="j6z947" name="storeBtn.xml" path="/btn/"/>
+    <component id="j6z948" name="PageBtn.xml" path="/btn/"/>
+    <component id="j6z949" name="ScheduleCom.xml" path="/com/"/>
+    <component id="j6z94a" name="FuliBtn.xml" path="/btn/"/>
+    <component id="j6z94b" name="ActivityBtn.xml" path="/btn/"/>
+    <component id="j6z94c" name="TipsCom.xml" path="/com/"/>
+    <component id="j6z94e" name="BackHomeBtn.xml" path="/btn/"/>
+    <component id="12948" name="MainMoreView.xml" path="/"/>
+    <image id="j6z9d" name="gg_icon.png" path="/img/"/>
+    <image id="j6z9a" name="rw_icon.png" path="/img/"/>
+    <image id="j6z9b" name="sz_icon.png" path="/img/"/>
+    <image id="j6z9c" name="yj_icon.png" path="/img/"/>
+    <image id="12947" name="zjtx_frame.png" path="/img/"/>
+    <image id="phyf4i" name="tabIconNoChoose.png" path="/img/"/>
+    <image id="phyf4j" name="tabIconChoose.png" path="/img/"/>
+    <image id="phyf4k" name="guanqiadi.png" path="/img/"/>
+    <image id="phyf4m" name="guanbi.png" path="/img/"/>
+    <component id="phyf4n" name="MainMoreCloseBtn.xml" path="/"/>
+    <image id="phyf4p" name="zjmcl_line.png" path="/img/" scale="9grid" scale9grid="59,1,118,2"/>
+    <image id="phyf4q" name="xian.jpg" path="/img/"/>
+    <image id="phyf4r" name="sd_A_common_zjtx_frame.png" path="/img/"/>
+    <image id="gtyg4u" name="linshihuodongtubiao.png" path="/img/"/>
+    <image id="gtyg4w" name="zu1.png" path="/img/"/>
+    <image id="gtyg4x" name="scale_80%_tx_006.png" path="/img/"/>
+    <image id="gtyg4y" name="tuceng1.jpg" path="/com/"/>
+    <image id="gtyg4z" name="liaotian_btn.png" path="/img/"/>
+    <image id="gtyg50" name="liaotian_frame.png" path="/com/" scale="9grid" scale9grid="6,6,12,12"/>
+    <component id="gtyg52" name="MainMoreBtn.xml" path="/btn/"/>
+    <component id="gtyg53" name="MainMoreBtnComp.xml" path="/components/"/>
+    <image id="pocb54" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="pocb56" name="zu87.png" path="/img/"/>
+    <component id="pocb58" name="TaskSmallTipsComponents.xml" path="/components/"/>
+    <image id="pocb59" name="renwudacheng.png" path="/img/"/>
+    <image id="pocb5a" name="tuceng1108.png" path="/img/" scale="9grid" scale9grid="12,11,24,22"/>
+    <image id="pocb5b" name="renwu_2.png" path="/img/" scale="9grid" scale9grid="93,16,73,82"/>
+    <image id="pocb5c" name="tuceng1109.png" path="/img/" scale="9grid" scale9grid="14,10,28,20"/>
+    <image id="pocb5d" name="hd_selected.png" path="/com/"/>
+    <image id="pocb5f" name="hd_default.png" path="/com/"/>
+    <component id="iydi5p" name="TrunkTaskBtn.xml" path="/btn/"/>
+    <component id="jmei5q" name="MainContainerPage.xml" path="/"/>
+    <component id="q6dm5r" name="scrollImageItem.xml" path="/item/"/>
+    <component id="q6dm5s" name="scrollMaskItem.xml" path="/item/"/>
+    <component id="q6dm5t" name="scrollRedItem.xml" path="/item/"/>
+    <image id="q6dm5u" name="scrollbg.png" path="/img/" scale="9grid" scale9grid="38,12,16,11"/>
+    <image id="q6dm5v" name="scrollbg2.png" path="/img/" scale="9grid" scale9grid="34,12,19,7"/>
+    <image id="s8ul5w" name="scale_75%_sd_A_common_dakai1_btn.png" path="/img/"/>
+    <component id="str85w" name="MainPageAniPoint.xml" path="/components/"/>
+    <component id="vdae5x" name="ComContainerTopRight.xml" path="/"/>
+    <component id="wu6b5y" name="MainPageTabBtn.xml" path="/btn/"/>
+    <component id="wu6b5z" name="MainPageTabList.xml" path="/components/"/>
+    <component id="wu6b60" name="MainPageTabFoldBtn.xml" path="/btn/"/>
+    <image id="wu6b61" name="icon_fold.png" path="/img/"/>
+    <image id="hqcj62" name="moreFrame.png" path="/img/" scale="9grid" scale9grid="0,289,309,12"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="622,243">
+  <controller name="canSeeFlag" pages="0,false,1,true" selected="1"/>
+  <controller name="type" pages="0,默认,1,神之序列,23,收藏品副本" selected="0"/>
+  <displayList>
+    <loader id="n1_116b" name="bg" xy="309,124" pivot="0.5,0.5" anchor="true" size="652,260" group="n46_n19g" url="ui://7q3fcj1kg7036b" autoSize="true" clearOnPublish="true"/>
+    <text id="n2_116b" name="labelTitle" xy="49,35" size="301,59" group="n46_n19g" fontSize="44" color="#fbfaf7" vAlign="middle" ubb="true" autoSize="none" strokeColor="#9b4309" strokeSize="3" singleLine="true" text="虫王来袭"/>
+    <text id="n3_116b" name="labelDesc" xy="47,109" size="260,32" group="n46_n19g" fontSize="22" color="#faffac" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="今日挑战：蟑螂之主"/>
+    <component id="n38_116b" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="250,46" size="40,38" group="n46_n19g" controller="type,2"/>
+    <text id="n4_116b" name="labelChildTitle1" xy="47,147" size="96,32" group="n47_tqjl" fontSize="22" color="#cdffac" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="排名"/>
+    <text id="n5_116b" name="labelChildValue1" xy="44,184" pivot="0.5,0.5" size="96,32" group="n47_tqjl" fontSize="22" color="#faffac" align="center" vAlign="middle" autoSize="shrink" singleLine="true" text="150"/>
+    <text id="n7_116b" name="labelChildTitle2" xy="173,147" size="173,32" group="n47_tqjl" fontSize="22" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" singleLine="true" text="今日倒计时"/>
+    <loader id="n45_qlui" name="imageValue" xy="199,200" pivot="0.5,0.5" anchor="true" size="50,50" group="n47_tqjl" align="center" vAlign="middle" fill="scaleMatchHeight" clearOnPublish="true">
+      <relation target="n6_116b" sidePair="right-left"/>
+    </loader>
+    <text id="n6_116b" name="labelChildValue2" xy="247,200" pivot="0.5,0.5" anchor="true" size="44,32" group="n47_tqjl" fontSize="22" color="#faffac" align="center" vAlign="middle" singleLine="true" text="100&#xA;"/>
+    <image id="n52_loj0" name="iconStar" src="xiznvvv1gw" fileName="iconImage/xj1_icon.png" pkg="38fa8c75" xy="207,199" pivot="0.5,0.5" anchor="true" group="n47_tqjl" scale="0.8,0.8">
+      <gearDisplay controller="type" pages="23"/>
+      <relation target="n6_116b" sidePair="right-left"/>
+    </image>
+    <group id="n47_tqjl" name="G_type0" xy="44,147" size="302,78" group="n46_n19g" advanced="true">
+      <gearDisplay controller="type" pages="0,23"/>
+    </group>
+    <list id="n48_tqjl" name="godItemList" xy="41,160" size="341,66" group="n49_tqjl" scale="0.8,0.8" layout="row" scroll="horizontal" colGap="10" defaultItem="ui://72zq62eatqjl8m" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n49_tqjl" name="G_type1" xy="41,160" size="341,66" group="n46_n19g" advanced="true">
+      <gearDisplay controller="type" pages="1"/>
+    </group>
+    <loader id="n39_piwi" name="bgLock" xy="298,129" pivot="0.5,0.5" anchor="true" size="448,48" group="n41_piwi" alpha="0.8" url="ui://38fa8c75j6z92w" fill="scaleFree"/>
+    <text id="n40_piwi" name="labelLockTitle" xy="195,110" size="248,42" group="n41_piwi" fontSize="30" color="#46f546" vAlign="middle" text="共鸣等级50级解锁"/>
+    <image id="n42_piwi" name="imageLock" src="116b7" fileName="frameImage/suo_icom.png" pkg="38fa8c75" xy="145,110" group="n41_piwi"/>
+    <group id="n41_piwi" name="lockP" xy="74,105" size="448,48" group="n46_n19g" advanced="true">
+      <gearDisplay controller="canSeeFlag" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <group id="n46_n19g" name="mc" xy="-17,-6" size="652,260" advanced="true"/>
+  </displayList>
+</component>

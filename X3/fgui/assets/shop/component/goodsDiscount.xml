@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="88,79">
+  <displayList>
+    <image id="n41_be41" name="n41" src="be4120" fileName="img/sdbq1_frame.png" xy="11,0" group="n51_uug0"/>
+    <text id="n42_be41" name="discount" xy="-8,4" pivot="0.5,0.5" size="91,48" group="n51_uug0" rotation="-45" fontSize="35" color="#fefefe" strokeColor="#c0280b" strokeSize="3" text="9.9折"/>
+    <group id="n51_uug0" name="n51" xy="-8,0" size="96,79"/>
+  </displayList>
+</component>

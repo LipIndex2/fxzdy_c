@@ -1,0 +1,41 @@
+
+kuang_1122.png
+size: 370,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 297, 3
+  size: 113, 71
+  orig: 121, 80
+  offset: 4, 3
+  index: -1
+2
+  rotate: true
+  xy: 297, 3
+  size: 113, 71
+  orig: 121, 80
+  offset: 4, 3
+  index: -1
+baoguang
+  rotate: false
+  xy: 2, 2
+  size: 101, 114
+  orig: 101, 115
+  offset: 0, 0
+  index: -1
+map_mine_1101
+  rotate: false
+  xy: 105, 2
+  size: 101, 114
+  orig: 101, 115
+  offset: 0, 0
+  index: -1
+map_mined_1101
+  rotate: true
+  xy: 208, 17
+  size: 99, 87
+  orig: 100, 87
+  offset: 1, 0
+  index: -1

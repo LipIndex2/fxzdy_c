@@ -1,0 +1,69 @@
+
+attack_upper.png
+size: 1019,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_daoguang_00000
+  rotate: true
+  xy: 973, 52
+  size: 55, 44
+  orig: 400, 226
+  offset: 337, 89
+  index: -1
+effect/attack_daoguang_00001
+  rotate: true
+  xy: 883, 109
+  size: 154, 103
+  orig: 400, 226
+  offset: 220, 104
+  index: -1
+effect/attack_daoguang_00002
+  rotate: false
+  xy: 2, 45
+  size: 310, 218
+  orig: 400, 226
+  offset: 6, 6
+  index: -1
+effect/attack_daoguang_00003
+  rotate: false
+  xy: 314, 45
+  size: 257, 218
+  orig: 400, 226
+  offset: 6, 6
+  index: -1
+effect/attack_daoguang_00004
+  rotate: false
+  xy: 573, 45
+  size: 221, 218
+  orig: 400, 226
+  offset: 6, 6
+  index: -1
+effect/attack_daoguang_00005
+  rotate: false
+  xy: 796, 51
+  size: 85, 212
+  orig: 400, 226
+  offset: 6, 6
+  index: -1
+effect/attack_daoguang_00006
+  rotate: true
+  xy: 883, 27
+  size: 80, 88
+  orig: 400, 226
+  offset: 8, 6
+  index: -1
+effect/attack_daoguang_00007
+  rotate: true
+  xy: 796, 2
+  size: 47, 49
+  orig: 400, 226
+  offset: 34, 6
+  index: -1
+effect/attack_fang
+  rotate: false
+  xy: 2, 17
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="422,696" overflow="scroll">
+  <displayList>
+    <richtext id="n60_ger4" name="noticeTxt" xy="6,2" size="410,36" fontSize="26" color="#ffffff" vAlign="middle" ubb="true" vars="true" autoSize="height" autoClearText="true" text=""/>
+  </displayList>
+</component>

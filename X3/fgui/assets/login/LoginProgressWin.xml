@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImageOffsetX="-125" designImageOffsetY="-147" designImageLayer="1">
+  <displayList>
+    <component id="n37_l88p" name="bg" src="l88pl" fileName="com/Node.xml" xy="375,667" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n32_cs7d" name="progress" src="cs7d5" fileName="com/ProgressBar.xml" xy="59,1100" size="631,38" group="n34_cs7d">
+      <ProgressBar value="57" max="100"/>
+    </component>
+    <text id="n33_cs7d" name="tipsText" xy="374,1166" pivot="0.5,0.5" anchor="true" size="147,34" group="n34_cs7d" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="正在加载配置"/>
+    <group id="n34_cs7d" name="n34" xy="59,1100" size="631,83" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n35_l88p" name="ageBtn" src="qumz9" fileName="com/baseBtn.xml" xy="37,34">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </component>
+    <component id="n36_l88p" name="infoCom" src="ydpga" fileName="com/CompCom.xml" xy="0,1202" touchable="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

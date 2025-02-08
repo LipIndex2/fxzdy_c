@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="8" infinite="0" nextlayerid="12" nextobjectid="133" orientation="orthogonal" renderorder="right-down" tiledversion="1.10.2" tileheight="512" tilewidth="512" version="1.10" width="10">
+ <tileset columns="0" firstgid="1" name="spacecraft" tilecount="63" tileheight="512" tilewidth="512">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="48">
+   <image height="512" source="../mapUI/spacecraft_01.png" width="512" />
+  </tile>
+  <tile id="49">
+   <image height="512" source="../mapUI/spacecraft_02.png" width="512" />
+  </tile>
+  <tile id="50">
+   <image height="512" source="../mapUI/spacecraft_03.png" width="512" />
+  </tile>
+  <tile id="51">
+   <image height="512" source="../mapUI/spacecraft_04.png" width="512" />
+  </tile>
+  <tile id="52">
+   <image height="512" source="../mapUI/spacecraft_05.png" width="512" />
+  </tile>
+  <tile id="53">
+   <image height="512" source="../mapUI/spacecraft_06.png" width="512" />
+  </tile>
+  <tile id="54">
+   <image height="512" source="../mapUI/spacecraft_07.png" width="512" />
+  </tile>
+  <tile id="55">
+   <image height="512" source="../mapUI/spacecraft_08.png" width="512" />
+  </tile>
+  <tile id="56">
+   <image height="512" source="../mapUI/spacecraft_09.png" width="512" />
+  </tile>
+  <tile id="57">
+   <image height="512" source="../mapUI/spacecraft_10.png" width="512" />
+  </tile>
+  <tile id="58">
+   <image height="512" source="../mapUI/spacecraft_11.png" width="512" />
+  </tile>
+  <tile id="59">
+   <image height="512" source="../mapUI/spacecraft_12.png" width="512" />
+  </tile>
+  <tile id="60">
+   <image height="512" source="../mapUI/spacecraft_13.png" width="512" />
+  </tile>
+  <tile id="61">
+   <image height="512" source="../mapUI/spacecraft_14.png" width="512" />
+  </tile>
+  <tile id="62">
+   <image height="512" source="../mapUI/spacecraft_15.png" width="512" />
+  </tile>
+  <tile id="63">
+   <image height="512" source="../mapUI/spacecraft_16.png" width="512" />
+  </tile>
+  <tile id="64">
+   <image height="512" source="../mapUI/spacecraft_17.png" width="512" />
+  </tile>
+  <tile id="65">
+   <image height="512" source="../mapUI/spacecraft_18.png" width="512" />
+  </tile>
+  <tile id="66">
+   <image height="512" source="../mapUI/spacecraft_19.png" width="512" />
+  </tile>
+  <tile id="67">
+   <image height="512" source="../mapUI/spacecraft_20.png" width="512" />
+  </tile>
+  <tile id="68">
+   <image height="512" source="../mapUI/spacecraft_21.png" width="512" />
+  </tile>
+  <tile id="69">
+   <image height="512" source="../mapUI/spacecraft_22.png" width="512" />
+  </tile>
+  <tile id="70">
+   <image height="512" source="../mapUI/spacecraft_23.png" width="512" />
+  </tile>
+  <tile id="71">
+   <image height="512" source="../mapUI/spacecraft_24.png" width="512" />
+  </tile>
+  <tile id="72">
+   <image height="512" source="../mapUI/spacecraft_25.png" width="512" />
+  </tile>
+  <tile id="73">
+   <image height="512" source="../mapUI/spacecraft_26.png" width="512" />
+  </tile>
+  <tile id="74">
+   <image height="512" source="../mapUI/spacecraft_27.png" width="512" />
+  </tile>
+  <tile id="75">
+   <image height="512" source="../mapUI/spacecraft_28.png" width="512" />
+  </tile>
+  <tile id="76">
+   <image height="512" source="../mapUI/spacecraft_29.png" width="512" />
+  </tile>
+  <tile id="77">
+   <image height="512" source="../mapUI/spacecraft_30.png" width="512" />
+  </tile>
+  <tile id="78">
+   <image height="512" source="../mapUI/spacecraft_31.png" width="512" />
+  </tile>
+  <tile id="79">
+   <image height="512" source="../mapUI/spacecraft_32.png" width="512" />
+  </tile>
+  <tile id="80">
+   <image height="512" source="../mapUI/spacecraft_33.png" width="512" />
+  </tile>
+  <tile id="81">
+   <image height="512" source="../mapUI/spacecraft_34.png" width="512" />
+  </tile>
+  <tile id="82">
+   <image height="512" source="../mapUI/spacecraft_35.png" width="512" />
+  </tile>
+  <tile id="83">
+   <image height="512" source="../mapUI/spacecraft_36.png" width="512" />
+  </tile>
+  <tile id="84">
+   <image height="512" source="../mapUI/spacecraft_37.png" width="512" />
+  </tile>
+  <tile id="85">
+   <image height="512" source="../mapUI/spacecraft_38.png" width="512" />
+  </tile>
+  <tile id="86">
+   <image height="512" source="../mapUI/spacecraft_39.png" width="512" />
+  </tile>
+  <tile id="87">
+   <image height="512" source="../mapUI/spacecraft_40.png" width="512" />
+  </tile>
+  <tile id="88">
+   <image height="512" source="../mapUI/spacecraft_41.png" width="512" />
+  </tile>
+  <tile id="89">
+   <image height="512" source="../mapUI/spacecraft_42.png" width="512" />
+  </tile>
+  <tile id="90">
+   <image height="512" source="../mapUI/spacecraft_43.png" width="512" />
+  </tile>
+  <tile id="91">
+   <image height="512" source="../mapUI/spacecraft_44.png" width="512" />
+  </tile>
+  <tile id="92">
+   <image height="512" source="../mapUI/spacecraft_45.png" width="512" />
+  </tile>
+  <tile id="93">
+   <image height="512" source="../mapUI/spacecraft_46.png" width="512" />
+  </tile>
+  <tile id="94">
+   <image height="512" source="../mapUI/spacecraft_47.png" width="512" />
+  </tile>
+  <tile id="95">
+   <image height="512" source="../mapUI/spacecraft_48.png" width="512" />
+  </tile>
+  <tile id="96">
+   <image height="512" source="../mapUI/spacecraft_49.png" width="512" />
+  </tile>
+  <tile id="97">
+   <image height="512" source="../mapUI/spacecraft_50.png" width="512" />
+  </tile>
+  <tile id="98">
+   <image height="512" source="../mapUI/spacecraft_51.png" width="512" />
+  </tile>
+  <tile id="99">
+   <image height="512" source="../mapUI/spacecraft_52.png" width="512" />
+  </tile>
+  <tile id="100">
+   <image height="512" source="../mapUI/spacecraft_53.png" width="512" />
+  </tile>
+  <tile id="101">
+   <image height="512" source="../mapUI/spacecraft_54.png" width="512" />
+  </tile>
+  <tile id="102">
+   <image height="512" source="../mapUI/spacecraft_55.png" width="512" />
+  </tile>
+  <tile id="103">
+   <image height="512" source="../mapUI/spacecraft_56.png" width="512" />
+  </tile>
+  <tile id="104">
+   <image height="512" source="../mapUI/spacecraft_57.png" width="512" />
+  </tile>
+  <tile id="105">
+   <image height="512" source="../mapUI/spacecraft_58.png" width="512" />
+  </tile>
+  <tile id="106">
+   <image height="512" source="../mapUI/spacecraft_59.png" width="512" />
+  </tile>
+  <tile id="107">
+   <image height="512" source="../mapUI/spacecraft_60.png" width="512" />
+  </tile>
+  <tile id="108">
+   <image height="512" source="../mapUI/spacecraft_61.png" width="512" />
+  </tile>
+  <tile id="109">
+   <image height="512" source="../mapUI/spacecraft_62.png" width="512" />
+  </tile>
+  <tile id="110">
+   <image height="512" source="../mapUI/spacecraft_63.png" width="512" />
+  </tile>
+ </tileset>
+ <tileset firstgid="112" source="../mapTilesets/landscape.tsx" />
+ <tileset firstgid="138" source="../mapTilesets/recruitmenthall_layer.tsx" />
+ <tileset firstgid="142" source="../mapTilesets/recruitment.tsx" />
+ <layer height="8" id="4" name="bottom_layer" width="10">
+  <data compression="zlib" encoding="base64">
+   eJyNzjcKAgEQBdC9kqkx55wVs2DO3r/1FVssguDAq+bzZ4Lg/4kRJ0GS1I9cmgxZcuQpUKREOcxVqFKjToMmLdp0wlyXHn0GDBkxZsI0cnvGnAVLVqzZsP36c8eeA0dOnMPdhSs37jx48uId6fgAIGgQ5A==
+  </data>
+ </layer>
+ <objectgroup id="2" name="player_layer">
+  <object id="1" template="../../mapPrefabs/resourcePoint.tx" x="1784" y="1445">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1001" />
+   </properties>
+  </object>
+  <object id="2" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1850" y="1837">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1003" />
+   </properties>
+  </object>
+  <object id="3" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2374" y="1532">
+   <properties>
+    <property name="building_type" value="teleport" />
+    <property name="object_id" type="int" value="1002" />
+   </properties>
+  </object>
+  <object id="110" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2148.67" y="1372">
+   <properties>
+    <property name="building_type" value="raccoon" />
+    <property name="object_id" type="int" value="1009" />
+   </properties>
+  </object>
+  <object id="10" template="../../mapPrefabs/resourcePoint.tx" visible="0" x="2984" y="2177.33">
+   <properties>
+    <property name="building_type" value="born_place" />
+   </properties>
+  </object>
+  <object id="18" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2528" y="1909">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1004" />
+   </properties>
+  </object>
+  <object id="55" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1874" y="1500">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1006" />
+   </properties>
+  </object>
+  <object id="49" template="../../mapPrefabs/resourcePoint.tx" x="2683" y="1500.66">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="10011005" />
+   </properties>
+  </object>
+  <object id="50" template="../../mapPrefabs/resourcePoint.tx" x="2663" y="1583.33">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="10011004" />
+   </properties>
+  </object>
+  <object id="51" template="../../mapPrefabs/resourcePoint.tx" x="2598.34" y="1452">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="10011003" />
+   </properties>
+  </object>
+  <object id="52" template="../../mapPrefabs/resourcePoint.tx" x="2567.67" y="1577.33">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="10011002" />
+   </properties>
+  </object>
+  <object id="53" template="../../mapPrefabs/resourcePoint.tx" x="2511" y="1486">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="10011001" />
+   </properties>
+  </object>
+  <object id="58" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2097" y="2205">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1005" />
+   </properties>
+  </object>
+  <object id="68" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2407" y="1068">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1007" />
+   </properties>
+  </object>
+  <object id="69" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="3678" y="1586">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1008" />
+   </properties>
+  </object>
+  <object id="111" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="3088" y="1529">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1010" />
+   </properties>
+  </object>
+  <object id="113" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1064" y="1896">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1011" />
+   </properties>
+  </object>
+  <object id="114" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="2505" y="2351">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1012" />
+   </properties>
+  </object>
+  <object id="124" x="3314" y="2046">
+   <properties>
+    <property name="building_type" value="stimulation" />
+    <property name="object_id" type="int" value="1013" />
+   </properties>
+   <point />
+  </object>
+  <object id="125" x="3106" y="1954">
+   <properties>
+    <property name="building_type" value="stimulation" />
+    <property name="object_id" type="int" value="1014" />
+   </properties>
+   <point />
+  </object>
+  <object id="126" x="3522" y="2194">
+   <properties>
+    <property name="building_type" value="stimulation" />
+    <property name="object_id" type="int" value="1015" />
+   </properties>
+   <point />
+  </object>
+  <object id="128" x="1312" y="1929">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1017" />
+   </properties>
+   <point />
+  </object>
+  <object id="129" x="2817" y="2519">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1016" />
+   </properties>
+   <point />
+  </object>
+  <object id="132" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="1816" y="2480">
+   <properties>
+    <property name="building_type" value="building" />
+    <property name="object_id" type="int" value="1018" />
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="11" name="ornament_layer">
+  <object gid="142" height="1036" id="123" width="779" x="1142" y="1556" />
+ </objectgroup>
+ <objectgroup id="8" name="role_layer" />
+ <layer height="8" id="10" name="recruitmenthall_layer" visible="0" width="10">
+  <data compression="zlib" encoding="base64">
+   eJxjYCANdANxDxHqeoG4i0SzhyIAACJOAi8=
+  </data>
+ </layer>
+ <layer height="8" id="1" name="playerBox_layer" width="10">
+  <data compression="zlib" encoding="base64">
+   eJxjYBgFlAAAAUAAAQ==
+  </data>
+ </layer>
+ <objectgroup id="6" locked="1" name="collider_layer">
+  <object id="77" x="874" y="998">
+   <polygon points="0,0 136.415,141.694 166.217,220.929 264,280 424,550 382,578 248,488 -408,-144" />
+  </object>
+  <object id="78" x="780" y="1042">
+   <polygon points="0,0 144,-78 202,-54 402,-186 408,-212 866,-180 622,-652 -364,-420" />
+  </object>
+  <object id="80" x="1640" y="868">
+   <polygon points="-320,-178.667 162,94 292,312 322,284 282,200 510,140 546,160 838,90 524,-462" />
+  </object>
+  <object id="81" x="902" y="2044">
+   <polygon points="0,0 418,32 756,224 696.667,732.667 1159.33,994 1380,938 1530,1024 794,1464 -528,-38" />
+  </object>
+  <object id="82" x="2242" y="3058">
+   <polygon points="0,0 628,18 1022,-234 1156,-236 1920,-694 2492,74 -260,938" />
+  </object>
+  <object id="83" x="4142" y="2578">
+   <polygon points="0,0 20,-274 222,-398 210,-662 96,-732 90,-916 -388,-1186 362,-1716 1074,-10" />
+  </object>
+  <object id="84" x="3888" y="1378">
+   <polygon points="0,0 -726,34 -936,-88 -952,-164 -1246,-342 -1308,-338 -1774,-674 198,-584" />
+  </object>
+  <object id="89" x="1400" y="1497.33">
+   <polygon points="-27,23.6667 -186,-198 -202,-249.33 -296.394,-311.622 -206,-450.333 -7,-604.333 321.333,-508" />
+  </object>
+  <object id="90" x="1358.67" y="1462.67">
+   <polygon points="-57,-260 -5.99967,25.5 426.667,153.333 512,148 532,133.333 466.667,52 42.333,-346" />
+  </object>
+  <object id="92" x="1994.67" y="1546.67">
+   <polygon points="0,0 -93.3333,-90.6667 -142.667,-266.667 -389.333,-546.667 -276,-560 -120,-328 -121.333,-286.667 13.3333,-66.6667" />
+  </object>
+  <object id="95" x="1781.33" y="1370.67">
+   <polygon points="-161.5,186.5 -18,112.333 73.5,67.1666 195.5,155 13,-212.333 -181.5,-156.667" />
+  </object>
+  <object id="98" x="1783" y="1877">
+   <polygon points="0,0 -28,-53 35,-102 121,-100 157,-79 153,-62 155,-21 85,11 32,11" />
+  </object>
+  <object id="99" x="2294" y="1576">
+   <polygon points="32,13 104,16 155.5,-9 173.5,-50.5 138.5,-91.5 48,-101.5 -9,-64.5 -12.5,-21.5" />
+  </object>
+  <object id="102" x="2201" y="987">
+   <polygon points="0,0 -27,104 7,168 90,187 196,275 379,242 418,134 390,81 569,-99" />
+  </object>
+  <object id="103" x="2348" y="1978.67">
+   <polygon points="0,0 108,58.6667 272,65.3333 396,-13.3333 394.667,-108 277.333,-186.667 102.667,-182.667 -16,-108 -25.3333,-37.3333" />
+  </object>
+  <object id="105" x="1942.33" y="2162">
+   <polygon points="5,0 7.66667,47 57,98 165,119.667 255.333,59.3333 177.333,-90.6667 83.3333,-60" />
+  </object>
+  <object id="106" x="3502" y="1709">
+   <polygon points="0,0 27,-199 338,-199 366,3 198,69" />
+  </object>
+  <object id="109" x="966.667" y="1736">
+   <polygon points="198.667,14.6667 10.7893,-17.1249 208,-320 -240,-701.333 -566.667,-52 258.667,482.667 128,285.333 268.776,192.785 270.379,98.696" />
+  </object>
+  <object id="112" x="2968" y="1292">
+   <polygon points="78.6667,-169.333 73.01,78.5189 -110.667,196 -113.217,235.404 75.3333,348 167.741,344.41 284.755,278.195 345.62,264.353 351.551,201.974 262.667,116 350.027,-123.286" />
+  </object>
+  <object id="115" x="2435.67" y="2380.33">
+   <polygon points="0,0 -28,-53 35,-102 121,-100 157,-79 153,-62 155,-21 85,11 32,11" />
+  </object>
+  <object id="131" x="2750" y="2496">
+   <polygon points="189,36 70,111 -48,32 69.52,-45.64" />
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="area_layer" visible="0">
+  <object id="107" x="480" y="420">
+   <properties>
+    <property name="area_id" type="int" value="101" />
+   </properties>
+   <polygon points="0,0 4312,-24 4508,3456 -228,3532" />
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="ui_layer" />
+</map>

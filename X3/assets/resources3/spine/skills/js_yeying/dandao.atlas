@@ -1,0 +1,13 @@
+
+dandao.png
+size: 87,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao
+  rotate: false
+  xy: 2, 2
+  size: 83, 20
+  orig: 98, 33
+  offset: 1, 6
+  index: -1

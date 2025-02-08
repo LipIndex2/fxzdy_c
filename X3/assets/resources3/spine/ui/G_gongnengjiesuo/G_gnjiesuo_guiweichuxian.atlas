@@ -1,0 +1,27 @@
+
+G_gnjiesuo_guiweichuxian.png
+size: 116,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanban1
+  rotate: false
+  xy: 2, 2
+  size: 79, 79
+  orig: 100, 100
+  offset: 11, 10
+  index: -1
+guangquan1
+  rotate: false
+  xy: 2, 181
+  size: 112, 112
+  orig: 118, 118
+  offset: 3, 3
+  index: -1
+guangquan3
+  rotate: false
+  xy: 2, 83
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1

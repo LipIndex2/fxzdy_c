@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="642,59">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="未展开"/>
+    <remark page="1" value="展开"/>
+  </controller>
+  <displayList>
+    <image id="n1_fdf1" name="bgDetail" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="9,47" size="633,300" group="n34_gtlw" alpha="0.3">
+      <relation target="n32_gtlw" sidePair="height-height"/>
+    </image>
+    <list id="n32_gtlw" name="listDetail" xy="9,59" size="632,288" group="n34_gtlw" overflow="scroll" scrollBarFlags="160" defaultItem="ui://78d1ed1agtlw12i" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n34_gtlw" name="gDetail" xy="9,47" size="633,300" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <image id="n12_fdf1" name="bg" src="fdf188" fileName="img/xiaoliebiao.png" xy="0,0" size="642,59" group="n37_8g0d"/>
+    <image id="n36_gtlw" name="n36" src="105pvv180" fileName="btnImage/jiantou2_btn.png" pkg="38fa8c75" xy="599,21" pivot="0.5,0.5" size="24,24" group="n37_8g0d" rotation="-90">
+      <gearLook controller="state" pages="0" values="1,-90,0,0" default="1,90,0,0"/>
+    </image>
+    <loader id="n33_gtlw" name="iconLoader" xy="30,4" size="50,50" group="n37_8g0d" align="center" vAlign="middle" fill="scale"/>
+    <text id="n13_fdf1" name="lbName" xy="83,29" pivot="0,0.5" anchor="true" size="137,34" group="n37_8g0d" fontSize="24" color="#ff5555" vAlign="middle" strokeColor="#020202" strokeSize="2" text="9级巨型工厂"/>
+    <text id="n14_fdf1" name="lbLeague" xy="276,29" pivot="0,0.5" anchor="true" size="147,34" group="n37_8g0d" fontSize="24" color="#ff5555" vAlign="middle" strokeColor="#020202" strokeSize="2" text="星际超级工厂"/>
+    <text id="n15_fdf1" name="lbCnt" xy="547,29" pivot="0.5,0.5" anchor="true" size="74,34" group="n37_8g0d" fontSize="24" color="#dfe6fc" vAlign="middle" strokeColor="#020202" strokeSize="2" text="12/12"/>
+    <component id="n38_8g0d" name="btnState" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="642,59" group="n37_8g0d"/>
+    <component id="n39_woyg" name="btnGoto" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="83,0" size="137,59" group="n37_8g0d">
+      <relation target="n13_fdf1" sidePair="width-width"/>
+    </component>
+    <graph id="n41_woyg" name="line" xy="83,46" size="137,2" group="n37_8g0d" type="rect" lineSize="0">
+      <relation target="n13_fdf1" sidePair="width-width"/>
+    </graph>
+    <group id="n37_8g0d" name="gTitle" xy="0,0" size="642,59" advanced="true"/>
+  </displayList>
+</component>

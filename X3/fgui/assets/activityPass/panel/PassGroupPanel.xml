@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n17_bezo" name="pCenter" src="os3h1l" fileName="panel/PassCenterPanel.xml" xy="20,141"/>
+    <image id="n24_os3h" name="n24" src="llxc1k" fileName="img/arm3.png" xy="6,26"/>
+    <image id="n22_os3h" name="n22" src="llxc1i" fileName="img/arm1.png" xy="1,112"/>
+    <image id="n23_os3h" name="n23" src="llxc1j" fileName="img/arm2.png" xy="-1,-79"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n17_bezo" tween="true" startValue="0" endValue="0.2" duration="4"/>
+    <item time="0" type="Rotation" target="n17_bezo" tween="true" startValue="30" endValue="0" duration="11" ease="Back.Out"/>
+    <item time="0" type="Rotation" target="n22_os3h" tween="true" startValue="90" endValue="0" duration="11" ease="Back.Out"/>
+    <item time="0" type="Rotation" target="n23_os3h" tween="true" startValue="90" endValue="0" duration="11" ease="Back.Out"/>
+    <item time="0" type="Rotation" target="n24_os3h" tween="true" startValue="60" endValue="0" duration="11" ease="Back.Out"/>
+    <item time="0" type="XY" target="n17_bezo" tween="true" startValue="-335,8" endValue="20,141" duration="11" ease="Back.Out"/>
+    <item time="0" type="XY" target="n22_os3h" tween="true" startValue="-208,9" endValue="1,112" duration="11" ease="Back.Out"/>
+    <item time="0" type="XY" target="n24_os3h" tween="true" startValue="-150,-53" endValue="6,26" duration="11" ease="Back.Out"/>
+    <item time="4" type="Alpha" target="n17_bezo" tween="true" startValue="0.2" endValue="1" duration="7"/>
+  </transition>
+</component>

@@ -1,0 +1,202 @@
+
+zhujiemiantubiao_lower.png
+size: 894,864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect_choujianghuodong/zhujiemiantubiao_di
+  rotate: false
+  xy: 346, 12
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_0
+  rotate: false
+  xy: 518, 456
+  size: 103, 112
+  orig: 170, 170
+  offset: 67, 4
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_1
+  rotate: true
+  xy: 690, 284
+  size: 170, 147
+  orig: 170, 170
+  offset: 0, 8
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_10
+  rotate: false
+  xy: 2, 692
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_11
+  rotate: false
+  xy: 2, 520
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_12
+  rotate: false
+  xy: 2, 348
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_13
+  rotate: false
+  xy: 2, 176
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_14
+  rotate: false
+  xy: 2, 4
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_15
+  rotate: false
+  xy: 174, 692
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_16
+  rotate: false
+  xy: 174, 520
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_17
+  rotate: false
+  xy: 174, 348
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_18
+  rotate: false
+  xy: 174, 176
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_19
+  rotate: false
+  xy: 174, 4
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_2
+  rotate: 270
+  xy: 659, 3
+  size: 170, 146
+  orig: 170, 170
+  offset: 0, 8
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_20
+  rotate: false
+  xy: 346, 692
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_21
+  rotate: false
+  xy: 518, 692
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_22
+  rotate: 180
+  xy: 623, 446
+  size: 167, 164
+  orig: 170, 170
+  offset: 0, 1
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_23
+  rotate: 270
+  xy: 666, 633
+  size: 170, 154
+  orig: 170, 170
+  offset: 0, 3
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_24
+  rotate: true
+  xy: 736, 113
+  size: 170, 141
+  orig: 170, 170
+  offset: 0, 14
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_25
+  rotate: true
+  xy: 750, 697
+  size: 166, 141
+  orig: 170, 170
+  offset: 4, 9
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_26
+  rotate: true
+  xy: 768, 356
+  size: 160, 118
+  orig: 170, 170
+  offset: 3, 21
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_3
+  rotate: false
+  xy: 518, 566
+  size: 170, 138
+  orig: 170, 170
+  offset: 0, 10
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_4
+  rotate: false
+  xy: 518, 314
+  size: 170, 133
+  orig: 170, 170
+  offset: 0, 14
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_5
+  rotate: false
+  xy: 518, 176
+  size: 170, 137
+  orig: 170, 170
+  offset: 0, 13
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_6
+  rotate: 270
+  xy: 509, 4
+  size: 170, 154
+  orig: 170, 170
+  offset: 0, 7
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_7
+  rotate: false
+  xy: 346, 520
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_8
+  rotate: false
+  xy: 346, 348
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong/zhujiemiantubiao_xuanzhuan_9
+  rotate: false
+  xy: 346, 176
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1

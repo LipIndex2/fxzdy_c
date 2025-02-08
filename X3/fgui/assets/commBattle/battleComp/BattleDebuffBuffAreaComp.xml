@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="0,0">
+  <displayList>
+    <image id="n1_jy2z" name="img" src="g840vvv1hv" fileName="battleImage/battleImage_debuff_img.png" xy="-200,-200" pivot="0.5,0.5" size="400,400"/>
+  </displayList>
+</component>

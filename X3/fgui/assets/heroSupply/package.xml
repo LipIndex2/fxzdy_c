@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="f5c5762e">
+  <resources>
+    <image id="4b212" name="xingzhuang576kaobei3.png" path="/img/"/>
+    <image id="4b214" name="zu130432.png" path="/img/"/>
+    <image id="4b215" name="paizi.png" path="/img/"/>
+    <image id="4b217" name="icon_zd02.png" path="/img/"/>
+    <image id="4b2110" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="4b2112" name="zu1kaobei8.png" path="/img/"/>
+    <image id="4b2113" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="4b2114" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="4b2115" name="zu13.png" path="/img/"/>
+    <image id="4b2116" name="mrth001.png" path="/img/"/>
+    <image id="4b2119" name="aocaodi_4.png" path="/img/"/>
+    <image id="4b2120" name="aocaodi.png" path="/img/"/>
+    <image id="4b2121" name="jiantou.png" path="/img/"/>
+    <image id="4b2122" name="scale_80%_sd_A_common_red_frame.png" path="/img/"/>
+    <image id="4b2123" name="icon_10009_2.png" path="/img/"/>
+    <image id="4b2124" name="icon_10009kaobei.png" path="/img/"/>
+    <image id="4b2125" name="scale_75%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <component id="4b2126" name="HeroSupplySubView.xml" path="/"/>
+    <component id="lnj727" name="HeroSupplyBuyTipsWin.xml" path="/"/>
+    <component id="lnj728" name="HeroSupplyItemComp.xml" path="/item/"/>
+    <image id="lnj729" name="fg_hero_si.png" path="/bg/" scale="9grid" scale9grid="31,24,29,30"/>
+    <image id="lnj72a" name="bg_hero_supply_win.png" path="/bg/" scale="9grid" scale9grid="291,408,17,62"/>
+    <image id="lnj72b" name="yxbg_bg.jpg" path="/bg/" scale="9grid" scale9grid="316,432,14,18"/>
+    <image id="lnj72c" name="img_jiantou_hs_1.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

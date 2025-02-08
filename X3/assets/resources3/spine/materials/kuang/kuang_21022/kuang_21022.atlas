@@ -1,0 +1,34 @@
+
+kuang_21022.png
+size: 430,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 23
+  size: 123, 65
+  orig: 123, 65
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 127, 23
+  size: 123, 65
+  orig: 123, 65
+  offset: 0, 0
+  index: -1
+baoguang
+  rotate: true
+  xy: 252, 2
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+map_mine_1101
+  rotate: true
+  xy: 341, 2
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1

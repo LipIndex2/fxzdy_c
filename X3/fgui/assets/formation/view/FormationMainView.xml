@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="isLock" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n125_cgjd" name="n125" src="cgjd2g" fileName="img/beijing.jpg" xy="0,-178" size="750,1677">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n126_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-86" pivot="0.5,1" anchor="true" size="750,220" color="#193f7e">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <component id="n139_wu6b" name="btnCollections" src="dbz0vvv1hf" fileName="formation/FormationSkillSetComp.xml" pkg="38fa8c75" xy="0,551" group="n122_105pv" controller="location,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n132_z7ud" name="btnPet" src="dbz0vvv1hf" fileName="formation/FormationSkillSetComp.xml" pkg="38fa8c75" xy="427,551" group="n122_105pv" controller="location,1">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_4928" name="formationPage" src="odo51r" fileName="page/FormationItemPage.xml" xy="43,177" group="n122_105pv">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n116_odo5" name="n116" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="169,30" size="207,89" group="n119_odo5"/>
+    <image id="n117_odo5" name="n117" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="376,30" size="207,89" group="n119_odo5" flip="hz"/>
+    <text id="n50_4928" name="lbTitle" xy="376,73" pivot="0.5,0.5" anchor="true" size="99,64" group="n119_odo5" fontSize="48" color="#052664" align="center" vAlign="middle" leading="0" text="布阵"/>
+    <group id="n119_odo5" name="n119" xy="169,30" size="414,89" group="n122_105pv" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <image id="n51_4928" name="n51" src="tml513a" fileName="bgImage/zhanli1_frame.png" pkg="38fa8c75" xy="237,136" group="n109_odo5"/>
+    <text id="n52_4928" name="T_power" xy="316,143" pivot="0,0.5" size="177,64" group="n109_odo5" fontSize="48" color="#fffbf3" vAlign="middle" leading="0" text="465654"/>
+    <group id="n109_odo5" name="n109" xy="237,136" size="277,78" group="n122_105pv" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n44_4928" name="campItem" src="xebi1s" fileName="item/CampAmountItem.xml" xy="26,26" group="n122_105pv" visible="false"/>
+    <component id="n1_4928" name="heroListPage" src="odo51f" fileName="page/FormationHeroListPage.xml" xy="0,665" size="750,669" group="n122_105pv">
+      <relation target="" sidePair="height-height%,bottom-bottom"/>
+    </component>
+    <list id="n120_xebi" name="list_career" xy="668,146" size="64,300" group="n122_105pv" lineGap="7" defaultItem="ui://4hj3fle9odo51k">
+      <relation target="" sidePair="right-right,top-top"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n114_odo5" name="btn_confirm" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="233,1176" size="283,102" group="n121_105pv">
+      <Button title="确定"/>
+    </component>
+    <component id="n127_bezo" name="btn_formation" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="569,1192" size="148,58" group="n121_105pv">
+      <Button title="自动布阵" titleFontSize="30"/>
+    </component>
+    <group id="n121_105pv" name="n121" xy="233,1176" size="484,102" group="n122_105pv" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n128_ssxx" name="btn_rec" src="ssxx2h" fileName="btn/btnRec.xml" xy="640,25" group="n122_105pv"/>
+    <component id="n142_loj0" name="starComp" src="loj02p" fileName="view/FormationStarComp.xml" xy="0,126" group="n122_105pv" visible="false">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <group id="n122_105pv" name="n122" xy="0,25" size="785,1309"/>
+    <image id="n133_vipi" name="bgLockTips" src="vipi2m" fileName="img/sd_A_common_black1_msg_1.png" xy="145,211" group="n135_vipi"/>
+    <richtext id="n134_vipi" name="T_lockTips" xy="290,232" pivot="0.5,0.5" anchor="true" size="146,34" group="n138_woyg" fontSize="24" color="#b0f3ff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" autoClearText="true" text="需上阵 [color=#ff0000]2[/color]/3个">
+      <relation target="" sidePair="center-center"/>
+    </richtext>
+    <loader id="n136_woyg" name="iconCareer" xy="383,232" pivot="0.5,0.5" anchor="true" size="40,40" group="n138_woyg" align="center" vAlign="middle" fill="scale">
+      <relation target="n134_vipi" sidePair="left-right"/>
+    </loader>
+    <richtext id="n137_woyg" name="T_lockTips2" xy="476,232" pivot="0.5,0.5" anchor="true" size="147,34" group="n138_woyg" fontSize="24" color="#b0f3ff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" autoClearText="true" text="射击职业英雄">
+      <relation target="n136_woyg" sidePair="left-right"/>
+    </richtext>
+    <group id="n138_woyg" name="n138" xy="217,212" size="333,40" group="n135_vipi" advanced="true"/>
+    <group id="n135_vipi" name="G_lockTips" xy="145,211" size="478,41" advanced="true">
+      <gearDisplay controller="isLock" pages="1"/>
+    </group>
+    <component id="n141_wu6b" name="skillChooseComp" src="mz6j2j" fileName="skill/FormationSkillChooseComp.xml" xy="0,0" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n115_odo5" name="btn_close" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215" size="118,119">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

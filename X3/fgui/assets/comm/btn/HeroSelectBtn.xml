@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,81" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <loader id="n4_kkiq" name="icon" xy="32,40" pivot="0.5,0.5" anchor="true" size="46,51" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <image id="n5_kkiq" name="n5" src="cni66t" fileName="frameImage/xz__frame.png" xy="-8,-6" size="80,31">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <image id="n6_kkiq" name="n6" src="cni66t" fileName="frameImage/xz__frame.png" xy="-8,56" size="80,31" flip="vt">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <component id="n7_cth0" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="58,18"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

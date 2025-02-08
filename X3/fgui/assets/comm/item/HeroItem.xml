@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,162">
+  <controller name="isGet" alias="是否获得" pages="0,不显示,1,未获得,2,已获得" selected="0"/>
+  <controller name="isLock" exported="true" pages="0,,1,,3," selected="0">
+    <remark page="0" value="未锁定"/>
+    <remark page="1" value="已锁定"/>
+    <remark page="2" value="已锁定带文本提示"/>
+  </controller>
+  <displayList>
+    <loader id="n120_odo5" name="img_frame" xy="15,15" pivot="0.5,0.5" size="104,104" group="n108_kkiq" scale="1.2,1.2" url="ui://38fa8c75f0d84" autoSize="true"/>
+    <loader id="n121_odo5" name="img_item" xy="12,12" pivot="0.5,0.5" size="110,110" group="n108_kkiq" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n111_kkiq" name="img_career" xy="-13,-13" pivot="0.5,0.5" size="64,64" group="n108_kkiq" scale="0.6,0.6" touchable="false" url="ui://38fa8c75cni66y" align="center" vAlign="middle" autoSize="true"/>
+    <loader id="n112_kkiq" name="img_camp" xy="-4,29" pivot="0.5,0.5" size="46,51" group="n108_kkiq" scale="0.6,0.6" touchable="false" url="ui://38fa8c75cni66x" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n18_4928" name="T_level" xy="90,12" size="30,32" group="n108_kkiq" fontSize="22" color="#ffffff" align="right" strokeColor="#010101" strokeSize="2" text="80">
+      <relation target="" sidePair="right-right"/>
+    </text>
+    <text id="n12_4928" name="T_name" xy="21,130" size="91,32" group="n108_kkiq" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#010a1b" strokeSize="2" text="自走人形">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n145_xwdv" name="dnaShow" src="xwdvvcq" fileName="item/HeroDnaLittleComp.xml" pkg="69f29748" xy="115,68" group="n108_kkiq" aspect="true" scale="0.9,0.9" skew="270,270"/>
+    <image id="n19_4928" name="n19" src="dtss5p" fileName="frameImage/black2_msg.png" xy="7,100" size="121,28" group="n131_dclx" alpha="0.5"/>
+    <list id="n118_kkiq" name="list_star" xy="17,102" size="171,32" group="n131_dclx" scale="0.6,0.6" layout="row" colGap="-1" defaultItem="ui://38fa8c75dclx138" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n131_dclx" name="G_star" xy="7,100" size="181,34" group="n108_kkiq" advanced="true"/>
+    <image id="n124_odo5" name="n124" src="j6z92h" fileName="bgImage/pmd_msg.png" xy="67,67" pivot="0.5,0.5" anchor="true" size="124,124" group="n127_odo5" alpha="0.65"/>
+    <image id="n122_odo5" name="n122" src="8qld1z" fileName="bgImage/gou_icon.png" xy="67,67" pivot="0.5,0.5" anchor="true" group="n127_odo5"/>
+    <group id="n127_odo5" name="G_gou" xy="5,5" size="124,124" group="n108_kkiq" visible="false" advanced="true"/>
+    <image id="n128_xebi" name="n128" src="j6z92h" fileName="bgImage/pmd_msg.png" xy="99,5" size="31,31" group="n130_xebi" alpha="0.65"/>
+    <image id="n129_xebi" name="n129" src="8qld1z" fileName="bgImage/gou_icon.png" xy="102,6" size="35,27" group="n130_xebi"/>
+    <group id="n130_xebi" name="G_smallCheck" xy="99,5" size="38,31" group="n108_kkiq" visible="false" advanced="true"/>
+    <text id="n132_v891" name="n132" xy="30,133" size="78,35" group="n134_v891" fontSize="25" color="#7796e3" strokeColor="#000000" strokeSize="3" text="未获得">
+      <gearDisplay controller="isGet" pages="1"/>
+    </text>
+    <image id="n133_v891" name="n133" src="v891vvv1ds" fileName="frameImage/yhd_tag.png" xy="16,133" group="n134_v891" scale="0.9,0.9">
+      <gearDisplay controller="isGet" pages="2"/>
+    </image>
+    <group id="n134_v891" name="isGet" xy="16,133" size="117,42" group="n108_kkiq" advanced="true">
+      <gearDisplay controller="isGet" pages="1,2"/>
+    </group>
+    <image id="n136_116zs" name="bgLock" src="j6z92h" fileName="bgImage/pmd_msg.png" xy="66,68" pivot="0.5,0.5" anchor="true" size="124,124" group="n138_116zs" alpha="0.65"/>
+    <image id="n139_116zs" name="imageLock" src="wq7zvvv1e2" fileName="btnImage/suo3_icon.png" xy="54,53" group="n138_116zs" scale="1.2,1.2"/>
+    <group id="n138_116zs" name="G_lock" xy="4,6" size="124,124" group="n108_kkiq" advanced="true">
+      <gearDisplay controller="isLock" pages="1"/>
+    </group>
+    <image id="n140_t5gy" name="bgLock" src="j6z92h" fileName="bgImage/pmd_msg.png" xy="66,68" pivot="0.5,0.5" anchor="true" size="124,124" group="n142_t5gy" alpha="0.65"/>
+    <image id="n144_t5gy" name="n144" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" xy="6,52" size="120,32" group="n142_t5gy" alpha="0.52"/>
+    <text id="n143_t5gy" name="lbLockTip" xy="65,68" pivot="0.5,0.5" anchor="true" size="120,32" group="n142_t5gy" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="未获得"/>
+    <group id="n142_t5gy" name="G_lockTip" xy="4,6" size="124,124" group="n108_kkiq" advanced="true">
+      <gearDisplay controller="isLock" pages="3"/>
+    </group>
+    <group id="n108_kkiq" name="n108" xy="-13,-13" size="201,188"/>
+  </displayList>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,119" opaque="false">
+  <controller name="footerType" exported="true" pages="0,back,1,hangUp" selected="1">
+    <remark page="0" value="返回"/>
+    <remark page="1" value="挂机"/>
+  </controller>
+  <controller name="hideTab" exported="true" pages="0,0,1,1" selected="0"/>
+  <displayList>
+    <component id="n90_rurq" name="n90" src="rurqvvv1e4" fileName="back/BackFooter2.xml" xy="0,0" group="n84_j6z9"/>
+    <component id="n68_j6z9" name="moreBtn" src="phyfv16u" fileName="btn/BtnMore.xml" xy="663,8" group="n84_j6z9">
+      <gearDisplay controller="hideTab" pages="0"/>
+    </component>
+    <component id="n91_rurq" name="btnBack" src="wq7zvvv1dq" fileName="back/BackIcon.xml" xy="0,0" group="n84_j6z9">
+      <gearDisplay controller="footerType" pages="0"/>
+    </component>
+    <list id="n67_j6z9" name="pageList" xy="152,-3" size="494,120" group="n84_j6z9" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="32" defaultItem="ui://38fa8c75pocbv16x" scrollItemToViewOnClick="false">
+      <gearDisplay controller="hideTab" pages="0"/>
+      <item title="英雄培养" icon="ui://38fa8c75pocbv16z" name="hero"/>
+      <item title="召唤" icon="ui://38fa8c75pocbv170"/>
+      <item title="玩法" icon="ui://38fa8c75pocbv171"/>
+      <item title="公会" icon="ui://38fa8c75pocbv172"/>
+    </list>
+    <group id="n84_j6z9" name="n84" xy="0,-3" size="763,122" advanced="true"/>
+  </displayList>
+</component>

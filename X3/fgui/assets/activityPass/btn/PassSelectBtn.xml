@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="279,74" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="1"/>
+  <controller name="c1" pages="0,左,1,右" selected="1"/>
+  <displayList>
+    <image id="n11_bezo" name="n11" src="fd084" fileName="img/yeqian-weixuan.png" xy="0,0" pivot="0.5,0.5">
+      <gearDisplay controller="button" pages="2"/>
+      <gearSize controller="c1" pages="1" values="279,74,1,1" default="279,74,-1,1"/>
+    </image>
+    <image id="n5_kkiq" name="n5" src="fd083" fileName="img/yeqian-xuanzhong.png" xy="0,0" pivot="0.5,0.5" scale="-1,1">
+      <gearDisplay controller="button" pages="3"/>
+      <gearSize controller="c1" pages="0,1" values="279,74,1,1|279,74,-1,1"/>
+    </image>
+    <text id="n9_bezo" name="T_title" xy="87,14" pivot="0.5,0.5" size="105,46" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="特权卡">
+      <gearDisplay controller="button" pages="2,3"/>
+      <gearColor controller="button" pages="3" values="#ffffff,#000000" default="#a1a1b3,#000000"/>
+    </text>
+    <component id="n12_auyi" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="259,19" controller="type,12"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,286 @@
+
+shijieBOSS_xia.png
+size: 1200,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd12
+  rotate: true
+  xy: 275, 63
+  size: 279, 475
+  orig: 279, 475
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 247, 516
+  size: 101, 99
+  orig: 101, 101
+  offset: 0, 2
+  index: -1
+J zd43
+  rotate: false
+  xy: 732, 600
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+J zd44
+  rotate: false
+  xy: 740, 601
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+J zd45
+  rotate: false
+  xy: 332, 599
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+J zd46
+  rotate: false
+  xy: 343, 600
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+J zd47
+  rotate: false
+  xy: 111, 601
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+J zd48
+  rotate: false
+  xy: 155, 603
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+J zd49
+  rotate: false
+  xy: 133, 603
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+J zd50
+  rotate: false
+  xy: 237, 605
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+chong
+  rotate: false
+  xy: 358, 331
+  size: 261, 284
+  orig: 261, 284
+  offset: 0, 0
+  index: -1
+x zd0
+  rotate: false
+  xy: 1106, 3
+  size: 83, 145
+  orig: 83, 145
+  offset: 0, 0
+  index: -1
+x zd1
+  rotate: false
+  xy: 308, 177
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+x zd10
+  rotate: true
+  xy: 400, 14
+  size: 88, 144
+  orig: 88, 144
+  offset: 0, 0
+  index: -1
+x zd11
+  rotate: true
+  xy: 277, 6
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+x zd12
+  rotate: false
+  xy: 253, 134
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+x zd13
+  rotate: false
+  xy: 2, 182
+  size: 354, 433
+  orig: 354, 433
+  offset: 0, 0
+  index: -1
+x zd14
+  rotate: true
+  xy: 951, 51
+  size: 97, 153
+  orig: 97, 153
+  offset: 0, 0
+  index: -1
+x zd15
+  rotate: false
+  xy: 1007, 153
+  size: 45, 63
+  orig: 45, 64
+  offset: 0, 1
+  index: -1
+x zd16
+  rotate: false
+  xy: 425, 272
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+x zd17
+  rotate: false
+  xy: 621, 232
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+x zd18
+  rotate: false
+  xy: 678, 568
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+x zd19
+  rotate: true
+  xy: 621, 288
+  size: 326, 288
+  orig: 326, 288
+  offset: 0, 0
+  index: -1
+x zd2
+  rotate: false
+  xy: 315, 469
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+x zd20
+  rotate: false
+  xy: 58, 573
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+x zd21
+  rotate: false
+  xy: 860, 65
+  size: 192, 233
+  orig: 192, 233
+  offset: 0, 0
+  index: -1
+x zd22
+  rotate: false
+  xy: 1054, 150
+  size: 144, 168
+  orig: 144, 170
+  offset: 0, 0
+  index: -1
+x zd23
+  rotate: false
+  xy: 683, 151
+  size: 148, 162
+  orig: 148, 162
+  offset: 0, 0
+  index: -1
+x zd24
+  rotate: false
+  xy: 1115, 341
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+x zd25
+  rotate: true
+  xy: 683, 41
+  size: 108, 169
+  orig: 108, 169
+  offset: 0, 0
+  index: -1
+x zd26
+  rotate: false
+  xy: 546, 50
+  size: 135, 173
+  orig: 135, 173
+  offset: 0, 0
+  index: -1
+x zd27
+  rotate: true
+  xy: 2, 44
+  size: 143, 212
+  orig: 143, 212
+  offset: 0, 0
+  index: -1
+x zd28
+  rotate: 270
+  xy: 910, 312
+  size: 303, 209
+  orig: 303, 231
+  offset: 0, 0
+  index: -1
+x zd3
+  rotate: false
+  xy: 621, 548
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+x zd4
+  rotate: true
+  xy: 122, 9
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+x zd5
+  rotate: false
+  xy: 2, 158
+  size: 44, 105
+  orig: 44, 105
+  offset: 0, 0
+  index: -1
+x zd7
+  rotate: false
+  xy: 1120, 462
+  size: 68, 152
+  orig: 68, 152
+  offset: 0, 0
+  index: -1
+x zd8
+  rotate: false
+  xy: 357, 237
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+x zd9
+  rotate: false
+  xy: 2, 545
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+xzd6
+  rotate: false
+  xy: 893, 552
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1

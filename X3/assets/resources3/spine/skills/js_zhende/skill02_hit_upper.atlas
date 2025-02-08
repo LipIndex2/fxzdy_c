@@ -1,0 +1,160 @@
+
+skill02_hit_upper.png
+size: 354,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/ef_skill02_baodian_00035_1
+  rotate: false
+  xy: 231, 441
+  size: 39, 35
+  orig: 110, 110
+  offset: 37, 27
+  index: -1
+images/effect/ef_skill02_baodian_00036_1
+  rotate: true
+  xy: 296, 296
+  size: 58, 56
+  orig: 110, 110
+  offset: 24, 24
+  index: -1
+images/effect/ef_skill02_baodian_00037_1
+  rotate: true
+  xy: 210, 344
+  size: 89, 83
+  orig: 110, 110
+  offset: 9, 17
+  index: -1
+images/effect/ef_skill02_baodian_00038_1
+  rotate: true
+  xy: 144, 170
+  size: 102, 98
+  orig: 110, 110
+  offset: 8, 7
+  index: -1
+images/effect/ef_skill02_baodian_00039_1
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 110, 110
+  offset: 8, 7
+  index: -1
+images/effect/ef_skill02_baodian_00040_1
+  rotate: false
+  xy: 106, 3
+  size: 99, 101
+  orig: 110, 110
+  offset: 9, 7
+  index: -1
+images/effect/ef_skill02_baodian_00041_1
+  rotate: true
+  xy: 207, 67
+  size: 101, 86
+  orig: 110, 110
+  offset: 7, 7
+  index: -1
+images/effect/ef_skill02_baodian_00042_1
+  rotate: true
+  xy: 231, 478
+  size: 101, 72
+  orig: 110, 110
+  offset: 7, 7
+  index: -1
+images/effect/ef_skill02_baodian_00043_1
+  rotate: true
+  xy: 295, 112
+  size: 90, 39
+  orig: 110, 110
+  offset: 10, 33
+  index: -1
+images/effect/ef_skill02_fazhen_001
+  rotate: true
+  xy: 295, 356
+  size: 120, 48
+  orig: 145, 75
+  offset: 22, 9
+  index: -1
+images/effect/ef_skill02_fazhen_002
+  rotate: false
+  xy: 2, 416
+  size: 162, 163
+  orig: 180, 180
+  offset: 11, 10
+  index: -1
+images/effect/ef_skill02_glo
+  rotate: false
+  xy: 207, 11
+  size: 110, 54
+  orig: 116, 58
+  offset: 3, 2
+  index: -1
+images/effect/ef_skill02_miaozhun_001
+  rotate: false
+  xy: 305, 535
+  size: 44, 44
+  orig: 47, 47
+  offset: 2, 1
+  index: -1
+images/effect/ef_skill02_miaozhun_002
+  rotate: false
+  xy: 2, 274
+  size: 141, 140
+  orig: 150, 150
+  offset: 0, 4
+  index: -1
+images/effect/ef_skill02_qiangtou
+  rotate: false
+  xy: 336, 161
+  size: 13, 133
+  orig: 15, 133
+  offset: 1, 0
+  index: -1
+images/effect/ef_skill02_qiangtou_001
+  rotate: false
+  xy: 319, 6
+  size: 28, 104
+  orig: 30, 110
+  offset: 1, 1
+  index: -1
+images/effect/skill02_baodian
+  rotate: false
+  xy: 166, 435
+  size: 63, 144
+  orig: 67, 149
+  offset: 2, 2
+  index: -1
+images/effect/skill02_baodian1
+  rotate: true
+  xy: 296, 220
+  size: 74, 32
+  orig: 77, 34
+  offset: 1, 1
+  index: -1
+images/effect/skill2_6_0001
+  rotate: true
+  xy: 145, 275
+  size: 139, 63
+  orig: 143, 67
+  offset: 2, 2
+  index: -1
+images/effect/skill2_6_0002
+  rotate: true
+  xy: 244, 204
+  size: 138, 50
+  orig: 141, 54
+  offset: 1, 2
+  index: -1
+images/effect/skill2_6_0003
+  rotate: false
+  xy: 2, 106
+  size: 138, 77
+  orig: 143, 80
+  offset: 3, 1
+  index: -1
+images/effect/skill2_6_0004
+  rotate: false
+  xy: 2, 185
+  size: 140, 87
+  orig: 144, 89
+  offset: 2, 1
+  index: -1

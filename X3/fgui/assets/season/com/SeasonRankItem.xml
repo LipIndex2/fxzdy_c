@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,165">
+  <displayList>
+    <image id="n0_uk3p" name="n0" src="eab575" fileName="img/tiao.png" xy="16,13"/>
+    <text id="n13_v5mw" name="rankTxt" xy="6,59" pivot="0.5,0.5" size="160,72" fontSize="54" color="#e5d9ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" text="4"/>
+    <loader id="n11_uk3p" name="imageRank" xy="33,58" size="112,76" url="ui://c8c5d312eab582" clearOnPublish="true"/>
+    <text id="n3_uk3p" name="lbN" xy="287,51" size="170,39" group="n16_v5mw" fontSize="28" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n5_uk3p" name="n5" xy="518,44" size="136,41" group="n16_v5mw" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#070110" strokeSize="2" text="赛季总积分  "/>
+    <image id="n7_uk3p" name="tag" src="eab580" fileName="img/wode.png" xy="2,0" group="n16_v5mw"/>
+    <component id="n8_uk3p" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="174,36" group="n16_v5mw"/>
+    <component id="n14_v5mw" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="287,80" size="168,72" group="n16_v5mw" aspect="true"/>
+    <text id="n18_v5mw" name="lbValue" xy="494,92" size="188,41" group="n16_v5mw" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#070110" strokeSize="2" text="赛季总积"/>
+    <group id="n16_v5mw" name="rankG" xy="2,0" size="680,152" advanced="true"/>
+    <text id="n17_v5mw" name="noRank" xy="300,67" size="123,42" fontSize="30" color="#975dcd" vAlign="middle" text="虚位以待"/>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="84,35" extention="ProgressBar">
+  <displayList>
+    <image id="n3_pocb" name="n0" src="pocbv17c" fileName="headerImage/szdi11_frame.png" xy="0,0" color="#000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_kp1o" name="bar" src="pocbv17c" fileName="headerImage/szdi11_frame.png" xy="0,0" aspect="true" color="#ffe329">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

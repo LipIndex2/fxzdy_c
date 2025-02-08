@@ -1,0 +1,62 @@
+
+skill02_shifa02_upper.png
+size: 824,824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_glo_01
+  rotate: false
+  xy: 2, 450
+  size: 372, 372
+  orig: 384, 384
+  offset: 6, 6
+  index: -1
+images/effect/skill02_tiankongshandian_01
+  rotate: false
+  xy: 475, 3
+  size: 170, 99
+  orig: 256, 256
+  offset: 53, 109
+  index: -1
+images/effect/skill02_tiankongshandian_02
+  rotate: false
+  xy: 436, 356
+  size: 113, 148
+  orig: 256, 256
+  offset: 71, 53
+  index: -1
+images/effect/skill02_tiankongshandian_03
+  rotate: false
+  xy: 475, 207
+  size: 170, 147
+  orig: 256, 256
+  offset: 45, 77
+  index: -1
+images/effect/skill02_tiankongshandian_04
+  rotate: false
+  xy: 475, 104
+  size: 175, 101
+  orig: 256, 256
+  offset: 24, 53
+  index: -1
+images/effect/skill02_wuyun01
+  rotate: false
+  xy: 2, 2
+  size: 471, 203
+  orig: 500, 250
+  offset: 9, 27
+  index: -1
+images/effect/skill02_wuyun02
+  rotate: true
+  xy: 376, 513
+  size: 309, 285
+  orig: 500, 500
+  offset: 76, 90
+  index: -1
+images/effect/skill02_wuyun03
+  rotate: false
+  xy: 2, 207
+  size: 432, 241
+  orig: 500, 250
+  offset: 30, 5
+  index: -1

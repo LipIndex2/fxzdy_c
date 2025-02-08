@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1koqeb5g">
+  <controller name="openWeekFlag" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n0_b6a2" name="bg" src="b6a20" fileName="img/tuceng5868.jpg" xy="0,0">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <image id="n143_c3wz" name="bottom_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1730" pivot="0.5,0.5" anchor="true" size="750,400" color="#33384c" flip="vt">
+      <relation target="n0_b6a2" sidePair="top-bottom"/>
+    </image>
+    <image id="n144_c3wz" name="top_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#283a5e">
+      <relation target="n0_b6a2" sidePair="bottom-top"/>
+    </image>
+    <component id="n108_gkgv" name="top1" src="f2nq164" fileName="components/PVPRankTop3Comp.xml" xy="267,407" group="n110_gkgv"/>
+    <component id="n109_gkgv" name="top2" src="f2nq164" fileName="components/PVPRankTop3Comp.xml" xy="25,466" group="n110_gkgv"/>
+    <component id="n114_gkgv" name="top3" src="f2nq164" fileName="components/PVPRankTop3Comp.xml" xy="509,466" group="n110_gkgv"/>
+    <group id="n110_gkgv" name="rankP" xy="25,407" size="701,439"/>
+    <text id="n8_b6a2" name="labelTitle" xy="20,56" size="147,64" group="n119_gkgv" fontSize="48" color="#ffffff" strokeColor="#0b1424" strokeSize="4" text="竞技场"/>
+    <component id="n9_b6a2" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="176,73" group="n119_gkgv"/>
+    <component id="n127_gkgv" name="header1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="491,78" group="n140_n19g"/>
+    <list id="n131_gkgv" name="tabList" xy="646,127" size="100,367" group="n140_n19g" lineGap="12" defaultItem="ui://7b03f641gkgv15u" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n140_n19g" name="n140" xy="491,78" size="255,416" group="n119_gkgv" advanced="true"/>
+    <text id="n10_b6a2" name="labelResetTime" xy="20,131" size="167,32" group="n141_n19g" fontSize="22" color="#3cfe33" strokeColor="#000000" strokeSize="3" text="03:20:60后结算"/>
+    <text id="n130_gkgv" name="labelTitleForBalanceReward" xy="20,180" size="131,44" group="n141_n19g" fontSize="32" color="#7dabe0" strokeColor="#000000" strokeSize="3" text="结算奖励"/>
+    <component id="n129_gkgv" name="dailyRewardComp2" src="gkgv15k" fileName="components/PVPDailyRewardTipsComp.xml" xy="30,239" group="n132_gkgv"/>
+    <component id="n12_b6a2" name="dailyRewardComp1" src="gkgv15k" fileName="components/PVPDailyRewardTipsComp.xml" xy="21,230" group="n132_gkgv"/>
+    <component id="n139_qlui" name="maskForClickSettleRewards" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="15,225" size="285,158" group="n132_gkgv"/>
+    <group id="n132_gkgv" name="floatP" xy="15,225" size="285,158" group="n141_n19g"/>
+    <group id="n141_n19g" name="n141" xy="15,131" size="285,252" group="n119_gkgv" advanced="true"/>
+    <group id="n119_gkgv" name="headerP" xy="15,56" size="731,438" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <loader id="n40_b6a2" name="imageHeroGo" xy="11,784" size="267,305" group="n118_gkgv" url="ui://7b03f641b6a222"/>
+    <component id="n51_b6a2" name="mainInfoComp" src="ffqt162" fileName="PVPMainRankInfoComp.xml" xy="8,1025" group="n118_gkgv"/>
+    <component id="n62_b6a2" name="btnChallenge" src="gkgv15i" fileName="btn/PVPChallengeBtnWithCount.xml" xy="214,1154" group="n118_gkgv" controller="haveCostFlag,0"/>
+    <component id="n66_b6a2" name="btnSetUpFormation" src="gkgv15j" fileName="btn/PVPSetUpFormationBtn.xml" xy="557,1191" group="n118_gkgv">
+      <Button title="防守布阵"/>
+    </component>
+    <text id="n86_oqeb" name="labelWeeklyRewardTitle" xy="590,884" size="147,34" group="n118_gkgv" fontSize="24" color="#ffffff" strokeColor="#0b1424" strokeSize="3" text="每日挑战奖励"/>
+    <component id="n134_gkgv" name="btnWeeklyChallengeBox" src="oqeb15f" fileName="components/PVPChallengeRewardBoxComp.xml" xy="525,922" group="n118_gkgv" controller="gainState,0"/>
+    <component id="n136_qlui" name="maskForWeek" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-9,-8" size="770,1342" group="n137_qlui"/>
+    <component id="n135_qlui" name="weekRewardComp" src="gkgv15l" fileName="components/PVPWeeklyChallengeRewardComp.xml" xy="278,347" group="n137_qlui"/>
+    <group id="n137_qlui" name="weekP" xy="-9,-8" size="770,1342" group="n118_gkgv" advanced="true">
+      <gearDisplay controller="openWeekFlag" pages="1"/>
+    </group>
+    <richtext id="n145_ta4f" name="lbTimes" xy="375,1296" pivot="0.5,0.5" anchor="true" size="302,36" group="n118_gkgv" fontSize="26" color="#7dabe0" align="center" vAlign="middle" ubb="true" text="(本日挑战额外奖励：[color=#5fff6e]5/5[/color])"/>
+    <group id="n118_gkgv" name="footerP" xy="-9,-8" size="770,1342" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n117_gkgv" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215" size="118,119">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+  <transition name="loopPanel">
+    <item time="0" type="Alpha" target="n12_b6a2" tween="true" startValue="1" endValue="0" duration="13"/>
+    <item time="0" type="XY" target="n12_b6a2" tween="true" startValue="21,230" endValue="17,227" duration="13"/>
+    <item time="14" type="Alpha" target="n129_gkgv" value="0"/>
+    <item time="14" type="Alpha" target="n12_b6a2" value="1"/>
+    <item time="14" type="XY" target="n129_gkgv" tween="true" startValue="40,247" endValue="32,240" duration="9"/>
+    <item time="14" type="XY" target="n12_b6a2" tween="true" startValue="32,240" endValue="20,230" duration="10"/>
+    <item time="15" type="Alpha" target="n129_gkgv" tween="true" startValue="0" endValue="1" duration="9"/>
+  </transition>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n118_gkgv" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n140_n19g" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n141_n19g" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n118_gkgv" tween="true" startValue="-9,100" endValue="-9,0" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n140_n19g" tween="true" startValue="591,78" endValue="491,78" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n141_n19g" tween="true" startValue="-85,131" endValue="15,131" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

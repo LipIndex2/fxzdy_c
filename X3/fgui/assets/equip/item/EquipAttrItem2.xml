@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="567,37">
+  <displayList>
+    <image id="n6_z7ud" name="n6" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="0,1" size="567,35" color="#30467e"/>
+    <text id="n4_adad" name="lbName1" xy="20,3" size="98,32" fontSize="22" color="#a9bef5" vAlign="middle" autoClearText="true" text="命  中  率 "/>
+    <text id="n7_z7ud" name="lbName2" xy="325,2" size="98,32" fontSize="22" color="#a9bef5" vAlign="middle" autoClearText="true" text="吸  血  率 "/>
+    <text id="n5_adad" name="lbValue1" xy="143,3" size="92,32" fontSize="22" color="#ffffff" vAlign="middle" autoClearText="true" text=" 7.04%   "/>
+    <text id="n8_z7ud" name="lbValue2" xy="447,2" size="92,32" fontSize="22" color="#ffffff" vAlign="middle" autoClearText="true" text=" 7.04%   "/>
+  </displayList>
+</component>

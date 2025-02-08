@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149" designImage="ui://7q3fcj1ktiubs8w" designImageOffsetX="-20" designImageOffsetY="-751">
+  <controller name="haveFlag" exported="true" pages="0,0,1,1" selected="1"/>
+  <controller name="scoreType" pages="0,common,1,jjc,2,simpleLogo,6,神之序列,7,守卫母舰,13,组队副本,14,联盟,17,秘境副本,18,宠物副本,21,收藏品副本" selected="6"/>
+  <displayList>
+    <image id="n30_c3a6" name="bg" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="710,149"/>
+    <image id="n31_c3a6" name="fg" src="c3a618" fileName="img/xingzhuang32_3.png" xy="3,3"/>
+    <text id="n37_c3a6" name="labelRankNum" xy="3,35" pivot="0.5,0.5" size="115,72" fontSize="54" color="#58c2ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="4"/>
+    <component id="n53_woyg" name="leagueFlag" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="203,69" pivot="0.5,0.5" anchor="true" group="n39_ipjz" scale="0.5,0.5">
+      <gearDisplay controller="scoreType" pages="14"/>
+    </component>
+    <component id="n32_c3a6" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="203,69" pivot="0.5,0.5" anchor="true" size="104,104" group="n39_ipjz">
+      <gearDisplay controller="scoreType" pages="0,1,2,6,7,13,17,18,21"/>
+    </component>
+    <text id="n34_c3a6" name="labelPlayerName" xy="266,33" size="170,39" group="n39_ipjz" fontSize="28" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" autoClearText="true" text="无敌宇宙帅气"/>
+    <text id="n36_c3a6" name="labelRankValue" xy="500,53" size="198,42" group="n39_ipjz" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="战力2500">
+      <gearDisplay controller="scoreType" pages="0,14,18"/>
+    </text>
+    <component id="n42_ffqt" name="pvpScoreComp" src="ffqt2j" fileName="components/RankPVPScoreComp.xml" xy="486,46" group="n43_caj9">
+      <gearDisplay controller="scoreType" pages="1"/>
+    </component>
+    <group id="n43_caj9" name="jjc" xy="486,46" size="210,53" group="n39_ipjz"/>
+    <component id="n46_caj9" name="rankValueWithLogoComp" src="caj9vvv1d1" fileName="rank/RankValueWithLogoComp.xml" pkg="38fa8c75" xy="519,48" group="n45_caj9"/>
+    <group id="n45_caj9" name="withLogoP" xy="519,48" size="189,42" group="n39_ipjz" advanced="true">
+      <gearDisplay controller="scoreType" pages="2"/>
+    </group>
+    <text id="n47_y5sw" name="labelGodLayerNum" xy="528,48" pivot="0.5,0.5" size="164,42" group="n48_y5sw" fontSize="30" color="#ffe57c" align="center" vAlign="middle" autoSize="none" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="30层"/>
+    <group id="n48_y5sw" name="G_god" xy="528,48" size="164,42" group="n39_ipjz" advanced="true">
+      <gearDisplay controller="scoreType" pages="6"/>
+    </group>
+    <text id="n49_cth0" name="lbGuardShip" xy="515,48" pivot="0.5,0.5" size="190,42" group="n50_cth0" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="30层"/>
+    <group id="n50_cth0" name="G_guardShip" xy="515,48" size="190,42" group="n39_ipjz" advanced="true">
+      <gearDisplay controller="scoreType" pages="7"/>
+    </group>
+    <text id="n54_tiub" name="lblSIFloor" xy="557,35" pivot="0.5,0.5" size="70,42" group="n56_tiub" fontSize="30" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="30层"/>
+    <text id="n55_tiub" name="lblSITime" xy="534,84" pivot="0.5,0.5" size="111,34" group="n56_tiub" fontSize="24" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="00:14:40"/>
+    <group id="n56_tiub" name="G_secretInstance" xy="534,35" size="111,83" group="n39_ipjz" advanced="true">
+      <gearDisplay controller="scoreType" pages="17"/>
+    </group>
+    <text id="n51_mzvd" name="lbTeam" xy="497,47" pivot="0.5,0.5" size="190,56" group="n52_mzvd" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="30层"/>
+    <group id="n52_mzvd" name="G_team" xy="497,47" size="190,56" group="n39_ipjz" advanced="true">
+      <gearDisplay controller="scoreType" pages="7,13"/>
+    </group>
+    <text id="n58_loj0" name="lbCDStar" xy="556,47" pivot="0.5,0.5" size="40,42" group="n60_loj0" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="30">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <image id="n59_loj0" name="n59" src="105pvv182" fileName="btnImage/xinghuang2_icon.png" pkg="38fa8c75" xy="596,50" group="n60_loj0">
+      <relation target="n58_loj0" sidePair="left-right"/>
+    </image>
+    <group id="n60_loj0" name="G_collectiblesDungeon" xy="556,47" size="78,42" group="n39_ipjz" advanced="true">
+      <gearDisplay controller="scoreType" pages="21"/>
+    </group>
+    <component id="n57_ba35" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="266,62" size="168,72" group="n39_ipjz" aspect="true"/>
+    <group id="n39_ipjz" name="people" xy="109,-38" size="599,214" advanced="true">
+      <gearDisplay controller="haveFlag" pages="1"/>
+    </group>
+    <text id="n38_ipjz" name="labelNoPeople" xy="297,60" size="123,42" group="n40_ipjz" fontSize="30" color="#5e89d8" strokeColor="#010e16" strokeSize="2" text="虚位以待"/>
+    <group id="n40_ipjz" name="noP" xy="297,60" size="128,42" advanced="true">
+      <gearDisplay controller="haveFlag" pages="0"/>
+    </group>
+  </displayList>
+</component>

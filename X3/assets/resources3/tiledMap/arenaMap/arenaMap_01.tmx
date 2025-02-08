@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="5" infinite="0" nextlayerid="107" nextobjectid="4508" orientation="orthogonal" renderorder="right-down" tiledversion="1.10.2" tileheight="512" tilewidth="512" version="1.10" width="5">
+ <editorsettings>
+  <export format="tmx" />
+ </editorsettings>
+ <tileset columns="0" firstgid="1" name="arena" tilecount="25" tileheight="512" tilewidth="512">
+  <grid height="1" orientation="orthogonal" width="1" />
+  <tile id="0">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_03.jpg" width="512" />
+  </tile>
+  <tile id="1">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_04.jpg" width="512" />
+  </tile>
+  <tile id="2">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_05.jpg" width="512" />
+  </tile>
+  <tile id="3">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_06.jpg" width="512" />
+  </tile>
+  <tile id="4">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_07.jpg" width="512" />
+  </tile>
+  <tile id="5">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_08.jpg" width="512" />
+  </tile>
+  <tile id="6">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_09.jpg" width="512" />
+  </tile>
+  <tile id="7">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_10.jpg" width="512" />
+  </tile>
+  <tile id="8">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_11.jpg" width="512" />
+  </tile>
+  <tile id="9">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_12.jpg" width="512" />
+  </tile>
+  <tile id="10">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_13.jpg" width="512" />
+  </tile>
+  <tile id="11">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_14.jpg" width="512" />
+  </tile>
+  <tile id="12">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_15.jpg" width="512" />
+  </tile>
+  <tile id="13">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_16.jpg" width="512" />
+  </tile>
+  <tile id="14">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_17.jpg" width="512" />
+  </tile>
+  <tile id="15">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_18.jpg" width="512" />
+  </tile>
+  <tile id="16">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_19.jpg" width="512" />
+  </tile>
+  <tile id="17">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_20.jpg" width="512" />
+  </tile>
+  <tile id="18">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_21.jpg" width="512" />
+  </tile>
+  <tile id="19">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_22.jpg" width="512" />
+  </tile>
+  <tile id="20">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_23.jpg" width="512" />
+  </tile>
+  <tile id="21">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_24.jpg" width="512" />
+  </tile>
+  <tile id="22">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_25.jpg" width="512" />
+  </tile>
+  <tile id="23">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_01.jpg" width="512" />
+  </tile>
+  <tile id="24">
+   <image height="512" source="../mapTilesets/arena/jjcbattle_02.jpg" width="512" />
+  </tile>
+ </tileset>
+ <layer height="5" id="104" name="bottom_layer" width="5">
+  <data compression="zlib" encoding="base64">
+   eJwtw8cNgDAQALCjE3qJKPsvih9Y8hMRr4WllbWNrZ29ycHRydnF1c3dw9Ps9b/9ADcgAUc=
+  </data>
+ </layer>
+ <objectgroup id="6" name="player_layer">
+  <object id="4494" template="../../mapPrefabs/resourcePoint.tx" x="1556" y="1186">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="200101" />
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="106" name="role_layer" />
+ <objectgroup id="26" name="collider_layer">
+  <object id="4505" x="962" y="964">
+   <polygon points="-596,10 600,-10 1258,376 1262,752 1558,752 1528,-460 -500,-454" />
+  </object>
+  <object id="4506" x="968" y="924">
+   <polygon points="0,0 -654,396 -652,566 -112,918 1072,906 1090,1446 -760,1350 -838,-208" />
+  </object>
+  <object id="4507" x="1660" y="1840">
+   <polygon points="762,-460 832,418 -550,330" />
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="ui_layer" />
+</map>

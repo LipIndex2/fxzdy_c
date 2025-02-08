@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="238,110">
+  <displayList>
+    <image id="n75_8a38" name="n75" src="8a3848" fileName="img/zongshanghai_24.png" xy="0,0"/>
+    <text id="n76_8a38" name="n76" xy="2,12" size="83,34" fontSize="24" color="#fff98b" text="总伤害:"/>
+    <text id="n77_8a38" name="n77" xy="17,44" size="185,58" fontSize="43" color="#eafcfd" text="8980000"/>
+  </displayList>
+</component>

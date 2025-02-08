@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="522,90">
+  <displayList>
+    <image id="n0_p04m" name="n0" src="p04m73" fileName="img/sd_A_common_tisp4_frame.png" xy="0,0"/>
+    <text id="n1_p04m" name="nameLab" xy="18,13" pivot="0,0.5" size="256,65" fontSize="22" color="#8bf3ff" vAlign="middle" autoSize="none" text="挂机获取"/>
+    <component id="n4_p04m" name="goBtn" src="7wlx6a" fileName="ItemTipsItemButton.xml" xy="460,26"/>
+    <text id="n2_p04m" name="desLab" xy="234,15" pivot="1,0" size="213,32" group="n11_p04m" fontSize="22" color="#d5f7fb" align="right" vAlign="middle" autoSize="none" text="可收取数量"/>
+    <loader id="n5_p04m" name="itemIcon1" xy="387,67" pivot="0.5,0.5" anchor="true" size="30,33" group="n7_p04m" url="ui://b20e1226965b39" fill="scaleFree">
+      <relation target="n6_p04m" sidePair="left-left"/>
+    </loader>
+    <text id="n6_p04m" name="numLab1" xy="447,52" pivot="1,0" anchor="true" size="44,32" group="n7_p04m" fontSize="22" color="#d5f7fb" align="right" vAlign="middle" text="123"/>
+    <group id="n7_p04m" name="item1" xy="372,50" size="75,33" group="n11_p04m" advanced="true"/>
+    <loader id="n8_p04m" name="itemIcon2" xy="307,67" pivot="0.5,0.5" anchor="true" size="30,33" group="n10_p04m" url="ui://b20e1226965b39" fill="scaleFree">
+      <relation target="n9_p04m" sidePair="left-left"/>
+    </loader>
+    <text id="n9_p04m" name="numLab2" xy="367,52" pivot="1,0" anchor="true" size="44,32" group="n10_p04m" fontSize="22" color="#d5f7fb" align="right" vAlign="middle" text="123">
+      <relation target="n5_p04m" sidePair="left-right"/>
+    </text>
+    <group id="n10_p04m" name="item2" xy="292,50" size="75,33" group="n11_p04m" advanced="true"/>
+    <group id="n11_p04m" name="otherBox" xy="234,15" size="213,68" advanced="true"/>
+  </displayList>
+</component>

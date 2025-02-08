@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="58,45" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n4_k6be" name="n4" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="0,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

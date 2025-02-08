@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="12" infinite="0" nextlayerid="8" nextobjectid="33" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="12">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <tileset firstgid="171" source="../mapTilesets/landscape.tsx" />
+ <layer height="12" id="1" name="bottom_layer" width="12">
+  <data compression="zlib" encoding="base64">
+   eJyTYGBgYCECywOxAhAzA7EpkViRRPWMo+qprt6YRPU6QKwNxExEYE0gBgAOtxY6
+  </data>
+ </layer>
+ <objectgroup id="3" name="player_layer">
+  <object id="8" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="557.261" y="590.778">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="1" />
+   </properties>
+   <point />
+  </object>
+  <object id="9" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="657.071" y="528.128">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="2" />
+   </properties>
+   <point />
+  </object>
+  <object id="10" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="753.001" y="475.848">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="3" />
+   </properties>
+   <point />
+  </object>
+  <object id="11" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="509.411" y="496.008">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="4" />
+   </properties>
+   <point />
+  </object>
+  <object id="12" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="604.571" y="445.348">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="5" />
+   </properties>
+   <point />
+  </object>
+  <object id="13" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="687.151" y="383.733">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="6" />
+   </properties>
+   <point />
+  </object>
+  <object id="14" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="711.2" y="1016.8">
+   <properties>
+    <property name="building_type" value="teleport" />
+    <property name="object_id" type="int" value="777771" />
+   </properties>
+   <point />
+  </object>
+  <object id="25" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="362.933" y="703.733">
+   <properties>
+    <property name="building_type" value="teleport" />
+    <property name="object_id" type="int" value="777772" />
+   </properties>
+   <point />
+  </object>
+  <object id="27" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="560.374" y="592.998">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="1" />
+   </properties>
+   <point />
+  </object>
+  <object id="28" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="660.184" y="530.348">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="2" />
+   </properties>
+   <point />
+  </object>
+  <object id="29" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="756.114" y="478.068">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="3" />
+   </properties>
+   <point />
+  </object>
+  <object id="30" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="512.524" y="498.228">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="4" />
+   </properties>
+   <point />
+  </object>
+  <object id="31" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="607.684" y="447.568">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="5" />
+   </properties>
+   <point />
+  </object>
+  <object id="32" rotation="0" template="../../mapPrefabs/resourcePoint.tx" x="690.264" y="385.953">
+   <properties>
+    <property name="building_type" value="unitPos" />
+    <property name="object_id" type="int" value="6" />
+   </properties>
+   <point />
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="role_layer" />
+ <layer height="12" id="4" name="playerBox_layer" width="12">
+  <data compression="zlib" encoding="base64">
+   eJxjYBgFo4B8AAACQAAB
+  </data>
+ </layer>
+ <objectgroup id="6" name="safearea_layer">
+  <object id="15" x="4.53333" y="606.133">
+   <polygon points="0,0 450.667,2.66667 439.467,373.867 -24.8,368.8" />
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="collider_layer">
+  <object id="1" x="138" y="1290">
+   <polygon points="-4,76 -2,-1154 1159.2,-1159.2 1163.2,-3.2 -73.2,9.2 1222.4,89.6 1222.4,-1242.4 -105.6,-1214.4" />
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="ui_layer" />
+</map>

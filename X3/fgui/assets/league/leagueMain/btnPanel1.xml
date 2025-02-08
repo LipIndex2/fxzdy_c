@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1420,1294" opaque="false">
+  <displayList>
+    <component id="n12_qr2a" name="n12" src="qr2a11r" fileName="leagueMain/btn/build_tech.xml" xy="264,-61" size="235,288" scale="1.44,1.44" touchable="false" controller="state,1,lock,0"/>
+    <component id="n13_qr2a" name="n13" src="qr2a11u" fileName="leagueMain/btn/build_boss.xml" xy="853,622" size="234,313" scale="1.44,1.44" touchable="false" controller="state,1"/>
+    <component id="n14_qr2a" name="n14" src="qr2a11t" fileName="leagueMain/btn/build_box.xml" xy="337,639" size="235,266" scale="1.44,1.44" touchable="false" controller="state,1"/>
+    <component id="n15_qr2a" name="n15" src="qr2a11s" fileName="leagueMain/btn/build_starWar.xml" xy="925,-136" size="319,301" scale="1.44,1.44" touchable="false" controller="state,1"/>
+    <component id="n16_qr2a" name="centerBtn" src="qr2a11g" fileName="leagueMain/btn/centerBtn_small.xml" xy="560,46" size="213,331" scale="1.44,1.44" controller="state,1"/>
+  </displayList>
+</component>

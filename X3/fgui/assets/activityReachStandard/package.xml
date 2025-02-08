@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="78997993">
+  <resources>
+    <image id="6b6114" name="hd_yeqian01_107.png" path="/img/"/>
+    <image id="6b6115" name="hd_yeqian02_105.png" path="/img/"/>
+    <image id="6b6149" name="liebiao_67.png" path="/img/"/>
+    <image id="6b6163" name="shouqing_31.png" path="/img/"/>
+    <image id="6b6166" name="kfcb_beijing2.jpg" path="/img/"/>
+    <image id="6b6167" name="qianwangzhaomu.png" path="/img/"/>
+    <component id="6b6180" name="ReachStandardMainView.xml" path="/"/>
+    <component id="k04583" name="ReachStandardTaskItem.xml" path="/item/"/>
+    <component id="k04584" name="ReachStandardGoodsItem.xml" path="/item/"/>
+    <component id="k04585" name="tabBtn.xml" path="/btn/"/>
+    <component id="ksmg86" name="WeekCycleGoHangUpBtn.xml" path="/btn/"/>
+    <image id="ksmg87" name="qianwanglixianguaji.png" path="/btnImg/"/>
+    <component id="ksmg88" name="WeekCycleGoSecretLevelBtn.xml" path="/btn/"/>
+    <image id="ksmg89" name="qianwangmijing.png" path="/btnImg/"/>
+    <component id="jks28a" name="ReachStandardTaskView.xml" path="/"/>
+    <component id="teox8b" name="btn_jt.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

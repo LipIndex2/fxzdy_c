@@ -1,0 +1,160 @@
+
+skill01_lower.png
+size: 1008,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effter/skill01_dimian1_00000
+  rotate: false
+  xy: 713, 596
+  size: 227, 204
+  orig: 246, 246
+  offset: 4, 21
+  index: -1
+effter/skill01_dimian1_00001
+  rotate: false
+  xy: 482, 596
+  size: 229, 204
+  orig: 246, 246
+  offset: 4, 21
+  index: -1
+effter/skill01_dimian1_00002
+  rotate: false
+  xy: 719, 802
+  size: 230, 204
+  orig: 246, 246
+  offset: 4, 21
+  index: -1
+effter/skill01_dimian1_00003
+  rotate: false
+  xy: 2, 123
+  size: 231, 204
+  orig: 246, 246
+  offset: 5, 21
+  index: -1
+effter/skill01_dimian1_00004
+  rotate: false
+  xy: 482, 802
+  size: 235, 204
+  orig: 246, 246
+  offset: 4, 21
+  index: -1
+effter/skill01_dimian1_00005
+  rotate: false
+  xy: 2, 329
+  size: 238, 205
+  orig: 246, 246
+  offset: 4, 20
+  index: -1
+effter/skill01_dimian1_00006
+  rotate: false
+  xy: 2, 536
+  size: 240, 207
+  orig: 246, 246
+  offset: 2, 18
+  index: -1
+effter/skill01_dimian1_00007
+  rotate: false
+  xy: 480, 384
+  size: 213, 210
+  orig: 246, 246
+  offset: 2, 15
+  index: -1
+effter/skill01_dimian1_00008
+  rotate: false
+  xy: 263, 557
+  size: 215, 218
+  orig: 246, 246
+  offset: 2, 13
+  index: -1
+effter/skill01_dimian1_00009
+  rotate: false
+  xy: 263, 777
+  size: 217, 229
+  orig: 246, 246
+  offset: 2, 11
+  index: -1
+effter/skill01_dimian2
+  rotate: false
+  xy: 2, 745
+  size: 259, 261
+  orig: 280, 280
+  offset: 15, 5
+  index: -1
+effter/skill01_ring_00000
+  rotate: false
+  xy: 589, 124
+  size: 54, 54
+  orig: 220, 220
+  offset: 83, 83
+  index: -1
+effter/skill01_ring_00001
+  rotate: false
+  xy: 118, 33
+  size: 88, 88
+  orig: 220, 220
+  offset: 66, 66
+  index: -1
+effter/skill01_ring_00002
+  rotate: false
+  xy: 2, 7
+  size: 114, 114
+  orig: 220, 220
+  offset: 53, 53
+  index: -1
+effter/skill01_ring_00003
+  rotate: false
+  xy: 441, 32
+  size: 146, 146
+  orig: 220, 220
+  offset: 37, 37
+  index: -1
+effter/skill01_ring_00004
+  rotate: false
+  xy: 839, 228
+  size: 158, 158
+  orig: 220, 220
+  offset: 31, 31
+  index: -1
+effter/skill01_ring_00005
+  rotate: false
+  xy: 242, 356
+  size: 178, 178
+  orig: 220, 220
+  offset: 21, 21
+  index: -1
+effter/skill01_ring_00006
+  rotate: false
+  xy: 645, 2
+  size: 186, 186
+  orig: 220, 220
+  offset: 17, 17
+  index: -1
+effter/skill01_ring_00007
+  rotate: false
+  xy: 645, 190
+  size: 192, 192
+  orig: 220, 220
+  offset: 14, 14
+  index: -1
+effter/skill01_ring_00008
+  rotate: false
+  xy: 441, 180
+  size: 202, 202
+  orig: 220, 220
+  offset: 9, 9
+  index: -1
+effter/skill01_ring_00009
+  rotate: false
+  xy: 235, 123
+  size: 204, 204
+  orig: 220, 220
+  offset: 8, 8
+  index: -1
+effter/skill01_ring_00010
+  rotate: false
+  xy: 695, 388
+  size: 206, 206
+  orig: 220, 220
+  offset: 7, 7
+  index: -1

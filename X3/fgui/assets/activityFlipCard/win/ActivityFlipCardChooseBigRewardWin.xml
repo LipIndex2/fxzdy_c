@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334">
+  <displayList>
+    <component id="n45_vipi" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="59,269" size="630,768" group="n41_e6dc"/>
+    <image id="n11_bbeb" name="n11" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="64,281" size="619,751" group="n41_e6dc"/>
+    <image id="n12_bbeb" name="n12" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="86,376" size="572,629" group="n41_e6dc"/>
+    <image id="n13_bbeb" name="n13" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="98,677" size="547,315" group="n41_e6dc"/>
+    <image id="n27_bbeb" name="n27" src="vipi1b" fileName="bg/touxiang_frame.png" xy="267,447" group="n41_e6dc" alpha="0.58"/>
+    <text id="n26_bbeb" name="T_title" xy="308,306" pivot="0.5,0.5" size="131,44" group="n41_e6dc" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" autoClearText="true" text="心愿英雄">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n25_bbeb" name="T_desc" xy="281,395" pivot="0.5,0.5" size="184,36" group="n41_e6dc" fontSize="26" color="#ddfbff" align="center" vAlign="middle" text="请选择本层大奖">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n30_bbeb" name="T_chooseTips" xy="338,585" pivot="0.5,0.5" size="69,32" group="n41_e6dc" fontSize="22" color="#bdd8e5" align="center" vAlign="middle" strokeColor="#1a234b" strokeSize="3" singleLine="true" text="未选择"/>
+    <component id="n42_e6dc" name="n42" src="vipi1c" fileName="btn/ActivityFlipCardNoChooseBigBtn.xml" xy="310,468" group="n41_e6dc" scale="0.8,0.8" touchable="false" controller="c1,1"/>
+    <component id="n43_e6dc" name="bigReward" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="319,477" group="n41_e6dc" scale="0.8,0.8"/>
+    <list id="n40_rxmb" name="itemList" xy="116,691" size="511,289" group="n41_e6dc" layout="flow_hz" overflow="scroll" lineGap="8" colGap="32" lineItemCount="4" defaultItem="ui://a0405d99teox1y">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n46_vipi" name="btnChooseBig" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="268,446" size="212,180" group="n41_e6dc"/>
+    <component id="n44_vdae" name="btnClose" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="326,1063" group="n41_e6dc">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <richtext id="n48_teox" name="T_round" xy="256,628" pivot="0.5,0.5" size="226,36" group="n41_e6dc" fontSize="26" color="#ffffff" align="center" vAlign="middle" ubb="true" text="已抽出大奖轮数：[color=#3bda74]3[/color]"/>
+    <group id="n41_e6dc" name="n41" xy="59,269" size="630,884" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1140" overflow="scroll" opaque="false" scrollBarFlags="384" scrollBar="hidden">
+  <displayList>
+    <image id="n137_dclx" name="n137" src="105pvvv18i" fileName="bgImage/kpgm1_frame.png" pkg="38fa8c75" xy="0,420" size="750,1010">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n152_105pv" name="n152" src="105pv7s" fileName="img/dengji.png" xy="218,393"/>
+    <text id="n153_105pv" name="n153" xy="232,419" pivot="0.5,0.5" size="136,42" fontSize="30" color="#0f1f3d" align="center" vAlign="middle" text="共鸣等级:"/>
+    <text id="n145_dclx" name="T_gmLevel" xy="366,402" pivot="0,0.5" size="91,64" fontSize="48" color="#0266c3" vAlign="middle" leading="0" text="800"/>
+    <component id="n150_dclx" name="heroListItem" src="dclx7l" fileName="pane/HeroScrollPane.xml" xy="48,478" size="690,943">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </component>
+    <component id="n149_dclx" name="btn_tips2" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="462,405" size="52,52">
+      <Button icon="ui://38fa8c75dusvvvv1fi"/>
+    </component>
+    <component id="n155_105pv" name="btn_camp" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="560,454" size="148,58">
+      <Button title="布阵" titleFontSize="30"/>
+    </component>
+  </displayList>
+</component>

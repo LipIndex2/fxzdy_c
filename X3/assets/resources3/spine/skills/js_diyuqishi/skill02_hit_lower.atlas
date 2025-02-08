@@ -1,0 +1,118 @@
+
+skill02_hit_lower.png
+size: 792,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_hit2_lower_00000
+  rotate: true
+  xy: 632, 144
+  size: 253, 105
+  orig: 300, 150
+  offset: 27, 16
+  index: -1
+effect/skill02_hit2_lower_00001
+  rotate: true
+  xy: 515, 440
+  size: 267, 113
+  orig: 300, 150
+  offset: 20, 12
+  index: -1
+effect/skill02_hit2_lower_00002
+  rotate: false
+  xy: 2, 120
+  size: 277, 115
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00003
+  rotate: false
+  xy: 2, 3
+  size: 277, 115
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00004
+  rotate: true
+  xy: 281, 120
+  size: 277, 115
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00005
+  rotate: true
+  xy: 281, 430
+  size: 277, 115
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00006
+  rotate: true
+  xy: 398, 399
+  size: 277, 115
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00007
+  rotate: true
+  xy: 398, 120
+  size: 277, 115
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00008
+  rotate: false
+  xy: 2, 591
+  size: 277, 116
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00009
+  rotate: false
+  xy: 2, 473
+  size: 277, 116
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00010
+  rotate: false
+  xy: 2, 355
+  size: 277, 116
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00011
+  rotate: false
+  xy: 2, 237
+  size: 277, 116
+  orig: 300, 150
+  offset: 15, 11
+  index: -1
+effect/skill02_hit2_lower_00012
+  rotate: false
+  xy: 281, 2
+  size: 271, 116
+  orig: 300, 150
+  offset: 18, 12
+  index: -1
+effect/skill02_hit2_lower_00013
+  rotate: true
+  xy: 515, 134
+  size: 263, 115
+  orig: 300, 150
+  offset: 22, 13
+  index: -1
+effect/skill02_hit2_lower_00014
+  rotate: true
+  xy: 630, 464
+  size: 243, 111
+  orig: 300, 150
+  offset: 32, 18
+  index: -1
+effect/skill02_hit2_lower_00015
+  rotate: false
+  xy: 554, 28
+  size: 236, 104
+  orig: 300, 150
+  offset: 34, 23
+  index: -1

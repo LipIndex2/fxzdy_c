@@ -1,0 +1,13 @@
+info size=34 resizable=true colored=false
+common xadvance=28
+char id=48 img=s8ulv17z xoffset=0 yoffset=0 xadvance=0
+char id=49 img=s8ulv180 xoffset=0 yoffset=0 xadvance=0
+char id=50 img=s8ulv181 xoffset=0 yoffset=0 xadvance=0
+char id=51 img=s8ulv182 xoffset=0 yoffset=0 xadvance=0
+char id=52 img=s8ulv183 xoffset=0 yoffset=0 xadvance=0
+char id=53 img=s8ulv184 xoffset=0 yoffset=0 xadvance=0
+char id=54 img=s8ulv185 xoffset=0 yoffset=0 xadvance=0
+char id=55 img=s8ulv186 xoffset=0 yoffset=0 xadvance=0
+char id=56 img=s8ulv187 xoffset=0 yoffset=0 xadvance=0
+char id=57 img=s8ulv188 xoffset=0 yoffset=0 xadvance=0
+char id=43 img=s8ulv189 xoffset=0 yoffset=0 xadvance=0

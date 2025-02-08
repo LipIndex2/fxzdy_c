@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n0_51a6" name="pMain" src="czc685" fileName="component/FactoryMainPanel.xml" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n22_czc6" name="btnBack" src="czc6vvv1gg" fileName="btn/BtnFh2WithLb.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n23_qhev" name="avatarNext" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="600,1110" pivot="0.5,0.5" anchor="true" group="n25_qhev"/>
+    <component id="n24_qhev" name="btnNext" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="698,1109" pivot="0.5,0.5" anchor="true" group="n25_qhev" scale="-1,1"/>
+    <group id="n25_qhev" name="gNext" xy="548,1058" size="171,104" advanced="true">
+      <relation target="" sidePair="left-right,bottom-bottom"/>
+    </group>
+    <component id="n26_qhev" name="avatarPrev" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="150,1110" pivot="0.5,0.5" anchor="true" group="n28_qhev"/>
+    <component id="n27_qhev" name="btnPrev" src="gkgvvvv19x" fileName="btn/BtnJianTou4.xml" pkg="38fa8c75" xy="51,1109" pivot="0.5,0.5" anchor="true" group="n28_qhev"/>
+    <group id="n28_qhev" name="gPrev" xy="30,1058" size="172,104" advanced="true">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </group>
+    <component id="n30_gtlw" name="playerHead" src="gtlwvvv1hr" fileName="view/PlayerCom.xml" pkg="38fa8c75" xy="13,55"/>
+  </displayList>
+</component>

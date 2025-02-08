@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="570,696">
+  <controller name="state" pages="3,,0,,1," selected="1">
+    <remark page="0" value="未初始化"/>
+    <remark page="1" value="被占领"/>
+    <remark page="2" value="未被占领"/>
+  </controller>
+  <controller name="style" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="工厂详情"/>
+    <remark page="1" value="战报"/>
+  </controller>
+  <displayList>
+    <image id="n2_51a6" name="n2" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="0,0" size="570,696" alpha="0.43">
+      <gearDisplay controller="style" pages="0"/>
+    </image>
+    <image id="n16_51a6" name="n16" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="8,132" size="554,3" group="n24_t5gy" color="#4969a6"/>
+    <component id="n20_t5gy" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="70,68" pivot="0.5,0.5" anchor="true" group="n24_t5gy"/>
+    <list id="n22_t5gy" name="listHero" xy="10,165" size="550,314" group="n24_t5gy" layout="flow_hz" overflow="hidden" lineGap="14" colGap="20" defaultItem="ui://3cd69509t5gy91" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n11_51a6" name="n11" src="51a644" fileName="img/touxian_di.png" xy="130,33" group="n27_t5gy"/>
+    <text id="n12_51a6" name="lbOwer" xy="164,41" pivot="0.5,0.5" anchor="true" size="69,32" group="n27_t5gy" fontSize="22" color="#ff393e" vAlign="middle" strokeColor="#030405" strokeSize="3" text="占领者"/>
+    <group id="n27_t5gy" name="gOwerTitle" xy="129,25" size="76,35" group="n24_t5gy" advanced="true">
+      <gearDisplay controller="style" pages="0"/>
+    </group>
+    <text id="n10_51a6" name="lbName" xy="205,32" size="10,34" group="n24_t5gy" fontSize="24" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="">
+      <gearXY controller="style" pages="1" values="132,32" default="205,32"/>
+    </text>
+    <text id="n13_51a6" name="lbFight" xy="132,75" size="75,34" group="n24_t5gy" fontSize="24" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="战力："/>
+    <component id="n18_51a6" name="pCollections" src="dbz0vvv1hl" fileName="formation/FormationSkillInfo.xml" pkg="38fa8c75" xy="10,497" group="n24_t5gy"/>
+    <component id="n28_dbz0" name="pPet" src="dbz0vvv1hl" fileName="formation/FormationSkillInfo.xml" pkg="38fa8c75" xy="310,497" group="n24_t5gy"/>
+    <group id="n24_t5gy" name="gOwer" xy="8,16" size="554,661" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+    <text id="n19_t5gy" name="lbTip" xy="109,332" size="352,32" fontSize="22" color="#425a96" vAlign="middle" text="占领工厂倒计时结束可获得丰厚奖励">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+  </displayList>
+</component>

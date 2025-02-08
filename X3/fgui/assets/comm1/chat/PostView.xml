@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="type" exported="true" pages="3,,0,,1," selected="0">
+    <remark page="0" value="初始化"/>
+    <remark page="1" value="黑底样式"/>
+    <remark page="2" value="蓝底样式"/>
+  </controller>
+  <displayList>
+    <image id="n37_e53p" name="bg1" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="133,290" size="484,38" group="n39_cth0" alpha="0.6">
+      <gearDisplay controller="type" pages="0"/>
+    </image>
+    <image id="n36_e53p" name="bg2" src="e53ps9d" fileName="chat/bg_post.png" xy="133,290" size="484,38" group="n39_cth0">
+      <gearDisplay controller="type" pages="1"/>
+    </image>
+    <component id="n38_e53p" name="textComp" src="e53ps9g" fileName="chat/PostTextComp.xml" xy="143,290" group="n39_cth0"/>
+    <group id="n39_cth0" name="gPost" xy="133,290" size="484,38" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="245,94" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n91_5da5" name="n91" src="5da557" fileName="img/scale_80%_sd_A_common_changgui3_btn.png" xy="0,0"/>
+    <text id="n92_5da5" name="n92" xy="85,24" size="71,46" fontSize="34" color="#ffffff" strokeColor="#1a50a9" strokeSize="3" text="卸下"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

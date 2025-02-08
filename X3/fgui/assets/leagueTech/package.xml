@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="84ccd6d6">
+  <resources>
+    <image id="0d220" name="zu10.png" path="/img/"/>
+    <image id="0d221" name="jinengkuang.png" path="/img/" exported="true"/>
+    <image id="0d222" name="jinengtubiao_2.png" path="/img/"/>
+    <image id="0d224" name="scale_70%_sd_A_common_jnmb_frame.png" path="/img/"/>
+    <image id="0d225" name="sd_A_common_lmkj_btn_0.png" path="/img/"/>
+    <image id="0d228" name="sd_A_common_lmkj_btn.png" path="/img/"/>
+    <image id="0d2210" name="scale_90%_gongmingdengji.png" path="/img/"/>
+    <image id="0d2211" name="sd_A_common_shuxingdi1_frame.png" path="/img/"/>
+    <image id="0d2212" name="sd_A_common_fangyu_icon.png" path="/img/"/>
+    <image id="0d2214" name="xxuanzhong.png" path="/img/"/>
+    <component id="0d2218" name="leagueTechView.xml" path="/"/>
+    <image id="0d2223" name="sd_A_common_jiantou3_btn.png" path="/img/"/>
+    <component id="lqng2a" name="pageTab.xml" path="/btn/"/>
+    <component id="lqng2b" name="holeCell.xml" path="/btn/"/>
+    <image id="lqng2c" name="job1.png" path="/img/"/>
+    <image id="lqng2d" name="job4.png" path="/img/"/>
+    <image id="lqng2e" name="job3.png" path="/img/"/>
+    <image id="lqng2f" name="job2.png" path="/img/"/>
+    <image id="lqng2h" name="job6.png" path="/img/"/>
+    <image id="lqng2i" name="job5.png" path="/img/"/>
+    <component id="lqng2j" name="jobCom.xml" path="/com/"/>
+    <image id="lqng2v" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

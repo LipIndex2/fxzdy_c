@@ -1,0 +1,223 @@
+
+skill02_upper.png
+size: 1198,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiaqiang_chuishandian_00000_00000
+  rotate: false
+  xy: 1048, 236
+  size: 146, 228
+  orig: 166, 240
+  offset: 20, 5
+  index: -1
+effect/jiaqiang_chuishandian_00000_00001
+  rotate: true
+  xy: 602, 89
+  size: 113, 222
+  orig: 166, 240
+  offset: 15, 8
+  index: -1
+effect/jiaqiang_chuishandian_00000_00002
+  rotate: true
+  xy: 847, 108
+  size: 126, 221
+  orig: 166, 240
+  offset: 17, 7
+  index: -1
+effect/jiaqiang_xishouhuan_00000
+  rotate: false
+  xy: 2, 167
+  size: 309, 297
+  orig: 320, 320
+  offset: 6, 15
+  index: -1
+effect/jiaqiang_xishouhuan_00001
+  rotate: true
+  xy: 313, 162
+  size: 302, 287
+  orig: 320, 320
+  offset: 11, 17
+  index: -1
+effect/jiaqiang_xishouhuan_00002
+  rotate: true
+  xy: 602, 204
+  size: 260, 243
+  orig: 320, 320
+  offset: 37, 33
+  index: -1
+effect/jiaqiang_xishouhuan_00003
+  rotate: true
+  xy: 847, 246
+  size: 218, 199
+  orig: 320, 320
+  offset: 57, 56
+  index: -1
+effect/jiaqiang_xishouhuan_00004
+  rotate: false
+  xy: 2, 12
+  size: 162, 153
+  orig: 320, 320
+  offset: 88, 84
+  index: -1
+effect/jiaqiang_xishouhuan_00005
+  rotate: false
+  xy: 338, 68
+  size: 87, 92
+  orig: 320, 320
+  offset: 122, 105
+  index: -1
+effect/skill02_50_00000
+  rotate: false
+  xy: 907, 46
+  size: 68, 60
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+effect/skill02_50_00001
+  rotate: false
+  xy: 597, 25
+  size: 60, 62
+  orig: 100, 100
+  offset: 11, 8
+  index: -1
+effect/skill02_50_00002
+  rotate: false
+  xy: 717, 19
+  size: 52, 68
+  orig: 100, 100
+  offset: 17, 11
+  index: -1
+effect/skill02_50_00003
+  rotate: true
+  xy: 511, 25
+  size: 46, 72
+  orig: 100, 100
+  offset: 22, 14
+  index: -1
+effect/skill02_50_00004
+  rotate: true
+  xy: 410, 24
+  size: 42, 74
+  orig: 100, 100
+  offset: 26, 16
+  index: -1
+effect/skill02_50_00005
+  rotate: false
+  xy: 1155, 46
+  size: 39, 74
+  orig: 100, 100
+  offset: 30, 18
+  index: -1
+effect/skill02_50_00006
+  rotate: true
+  xy: 253, 9
+  size: 40, 72
+  orig: 100, 100
+  offset: 31, 20
+  index: -1
+effect/skill02_50_00007
+  rotate: true
+  xy: 338, 21
+  size: 45, 70
+  orig: 100, 100
+  offset: 31, 22
+  index: -1
+effect/skill02_50_00008
+  rotate: false
+  xy: 771, 19
+  size: 51, 68
+  orig: 100, 100
+  offset: 32, 23
+  index: -1
+effect/skill02_50_00009
+  rotate: false
+  xy: 659, 21
+  size: 56, 66
+  orig: 100, 100
+  offset: 32, 24
+  index: -1
+effect/skill02_50_00010
+  rotate: false
+  xy: 977, 39
+  size: 59, 67
+  orig: 100, 100
+  offset: 33, 24
+  index: -1
+effect/skill02_ciguang
+  rotate: false
+  xy: 1070, 122
+  size: 93, 112
+  orig: 128, 128
+  offset: 18, 7
+  index: -1
+effect/skill02_shentishandian_00000
+  rotate: false
+  xy: 1165, 201
+  size: 31, 33
+  orig: 100, 160
+  offset: 37, 5
+  index: -1
+effect/skill02_shentishandian_00001
+  rotate: false
+  xy: 1038, 24
+  size: 73, 41
+  orig: 100, 160
+  offset: 16, 9
+  index: -1
+effect/skill02_shentishandian_00002
+  rotate: false
+  xy: 826, 51
+  size: 79, 55
+  orig: 100, 160
+  offset: 15, 14
+  index: -1
+effect/skill02_shentishandian_00003
+  rotate: false
+  xy: 1070, 67
+  size: 83, 53
+  orig: 100, 160
+  offset: 13, 20
+  index: -1
+effect/skill02_shentishandian_00005
+  rotate: false
+  xy: 511, 73
+  size: 84, 87
+  orig: 100, 160
+  offset: 12, 24
+  index: -1
+effect/skill02_shentishandian_00007
+  rotate: false
+  xy: 427, 68
+  size: 82, 92
+  orig: 100, 160
+  offset: 13, 28
+  index: -1
+effect/skill02_shentishandian_00009
+  rotate: false
+  xy: 253, 51
+  size: 83, 109
+  orig: 100, 160
+  offset: 13, 30
+  index: -1
+effect/skill02_shentishandian_00010
+  rotate: false
+  xy: 166, 45
+  size: 85, 120
+  orig: 100, 160
+  offset: 14, 34
+  index: -1
+effect/skill02chui_shandian_00000
+  rotate: false
+  xy: 824, 3
+  size: 60, 46
+  orig: 60, 60
+  offset: 0, 2
+  index: -1
+effect/skill02chui_shandian_00002
+  rotate: false
+  xy: 886, 2
+  size: 58, 42
+  orig: 60, 60
+  offset: 2, 3
+  index: -1

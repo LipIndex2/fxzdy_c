@@ -1,0 +1,104 @@
+
+gw_xiechong.png
+size: 71,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 40, 73
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 55, 81
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 54, 58
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 56, 22
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 40, 97
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 31, 19
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 2, 18
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 50, 3
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 24, 7
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 56, 33
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 35, 48
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 2, 73
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 2, 47
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 56, 98
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

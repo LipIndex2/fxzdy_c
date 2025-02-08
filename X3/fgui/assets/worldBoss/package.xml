@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ee94a619">
+  <resources>
+    <image id="d6aa2" name="sd_A_common_boss_frame.png" path="/img/"/>
+    <image id="d6aa3" name="sd_A_common_boss_tag.png" path="/img/"/>
+    <image id="d6aa4" name="zu117kaobei.png" path="/img/"/>
+    <image id="d6aa5" name="sd_A_common_jineng2_frame.png" path="/img/"/>
+    <image id="d6aa6" name="tuceng570.png" path="/img/"/>
+    <image id="d6aa9" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="d6aa12" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="d6aa13" name="sd_A_common_buzhen_btn.png" path="/img/"/>
+    <image id="d6aa14" name="sd_Rrukoutubiao_rk0001_icon.png" path="/img/"/>
+    <image id="d6aa15" name="sd_Rrukoutubiao_rk0002_icon.png" path="/img/"/>
+    <image id="d6aa16" name="sd_Rrukoutubiao_rk0007_icon.png" path="/img/"/>
+    <image id="d6aa18" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="d6aa19" name="scale_80%_qian8_icon.png" path="/img/"/>
+    <image id="d6aa20" name="sd_MmeiriBOSS_zlzz_frame.png" path="/img/"/>
+    <image id="d6aa28" name="bj.jpg" path="/img/"/>
+    <image id="d6aa29" name="sd_A_common_bossxxd_frame.png" path="/img/" scale="9grid" scale9grid="187,176,374,352"/>
+    <image id="d6aa30" name="sd_A_common_wdpm1_frame.png" path="/img/"/>
+    <image id="d6aa34" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+    <image id="d6aa37" name="sd_A_common_bossbt_frame.png" path="/img/"/>
+    <image id="d6aa46" name="xingzhuang32.png" path="/img/"/>
+    <image id="d6aa53" name="sd_A_common_xz_tab.png" path="/img/"/>
+    <image id="d6aa54" name="sd_A_common_wxz_tab.png" path="/img/"/>
+    <image id="d6aa56" name="scale_85%_sd_A_common_paimingframe.png" path="/img/"/>
+    <image id="d6aa61" name="sd_A_common_bossfydi_frame_23.png" path="/img/"/>
+    <image id="d6aa66" name="sjboss_frame.png" path="/img/"/>
+    <image id="d6aa67" name="sd_A_common_sjboss1_frame.png" path="/img/"/>
+    <image id="d6aa68" name="zu13056.png" path="/img/"/>
+    <image id="d6aa70" name="bantou_frame.png" path="/img/"/>
+    <image id="d6aa72" name="sjboss3_frame.png" path="/img/"/>
+    <image id="d6aa73" name="sd_A_common_bossfydi_frame.png" path="/img/"/>
+    <image id="d6aa74" name="scale_90%_sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="d6aa75" name="scale_80%_zt1_tag.png" path="/img/"/>
+    <image id="d6aa78" name="scale_70%_no1_icon.png" path="/img/"/>
+    <image id="d6aa79" name="linshi.png" path="/img/"/>
+    <image id="d6aa80" name="scale_80%_zt2_tag.png" path="/img/"/>
+    <image id="d6aa81" name="scale_70%_no2_icon.png" path="/img/"/>
+    <image id="d6aa82" name="zu122_6.png" path="/img/"/>
+    <image id="d6aa84" name="scale_80%_zt3_tag.png" path="/img/"/>
+    <image id="d6aa85" name="scale_70%_no3_icon.png" path="/img/"/>
+    <image id="d6aa87" name="zu122_5.png" path="/img/"/>
+    <image id="d6aa88" name="tssjboss_frame.png" path="/img/"/>
+    <image id="d6aa91" name="zu122.png" path="/img/"/>
+    <image id="d6aa94" name="sd_A_common_gxhd_frame.png" path="/img/"/>
+    <image id="d6aa95" name="sd_A_common_gxhdbt_frame.png" path="/img/"/>
+    <image id="d6aa96" name="paimingjiangli_4.png" path="/img/"/>
+    <image id="d6aa97" name="quanfujiangli.png" path="/img/"/>
+    <image id="d6aa98" name="sd_A_common_yellow_frame_2.png" path="/img/"/>
+    <image id="d6aa99" name="tuceng1131.png" path="/img/"/>
+    <image id="d6aa104" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="d6aa105" name="scale_80%_sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="d6aa106" name="tubiao_1.png" path="/img/"/>
+    <image id="d6aa111" name="sd_A_common_word_tag.png" path="/img/"/>
+    <image id="d6aa112" name="sd_A_common_xjl_word_0.png" path="/img/"/>
+    <image id="d6aa113" name="scale_80%_sd_Rrukoutubiao_rk0004_icon.png" path="/img/"/>
+    <image id="d6aa115" name="di.png" path="/img/"/>
+    <image id="d6aa116" name="tuceng1132.png" path="/img/"/>
+    <image id="d6aa118" name="quanfujishachenggong.png" path="/img/"/>
+    <image id="d6aa119" name="scale_80%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="d6aa120" name="sd_A_common_qipao1_frame.png" path="/img/"/>
+    <image id="d6aa127" name="baoxiang.png" path="/img/"/>
+    <image id="d6aa128" name="jindutiao.png" path="/img/"/>
+    <image id="d6aa129" name="sd_Gguajiguanqia_bossred_blood.png" path="/img/" scale="9grid" scale9grid="106,8,212,16"/>
+    <image id="d6aa130" name="sd_Gguajiguanqia_bosstouxiang.png" path="/img/"/>
+    <image id="d6aa131" name="tuceng1133.png" path="/img/"/>
+    <image id="uug0133" name="zu13055.jpg" path="/img/"/>
+    <image id="uug013t" name="sjboss1_biood.png" path="/img/"/>
+    <image id="uug013u" name="sjboss_biood.png" path="/img/" scale="9grid" scale9grid="4,1,8,2"/>
+    <image id="e1fv141" name="zongshanghai_24.png" path="/img/" exported="true"/>
+    <image id="e1fv14c" name="sd_A_common_lbmb_frame.png" path="/img/"/>
+    <component id="d6aa27" name="worldBossMain.xml" path="/"/>
+    <component id="d6aa49" name="worldBossRank.xml" path="/"/>
+    <component id="d6aa63" name="worldBossSettlementReward.xml" path="/"/>
+    <component id="d6aa65" name="worldBossServerReward.xml" path="/"/>
+    <component id="d6aa69" name="worldBossPersonReward1.xml" path="/"/>
+    <component id="d6aa93" name="worldBossBeat.xml" path="/"/>
+    <component id="d6aa101" name="worldBossRewardView.xml" path="/"/>
+    <component id="d6aa114" name="worldBossBattleSuccess.xml" path="/"/>
+    <component id="d6aa121" name="worldBossBattleServerSuccess.xml" path="/"/>
+    <component id="d6aa132" name="worldBossBattleUI.xml" path="/"/>
+    <component id="uug0134" name="rewardEnter.xml" path="/btn/"/>
+    <component id="uug0135" name="rankEnter.xml" path="/btn/"/>
+    <component id="uug0136" name="danmuEnter.xml" path="/btn/"/>
+    <component id="uug0137" name="challageBtn.xml" path="/btn/"/>
+    <component id="uug013a" name="buzhenBtn.xml" path="/btn/"/>
+    <component id="uug013b" name="bossHpBar.xml" path="/component/"/>
+    <component id="uug013c" name="heroHead.xml" path="/component/"/>
+    <component id="uug013d" name="godPick.xml" path="/component/"/>
+    <component id="uug013e" name="backBtn.xml" path="/btn/"/>
+    <component id="uug013f" name="skillIcon.xml" path="/component/"/>
+    <component id="uug013g" name="killGetReward.xml" path="/btn/"/>
+    <component id="uug013h" name="rankBtn.xml" path="/btn/"/>
+    <component id="uug013k" name="playerHeadWithFight.xml" path="/component/"/>
+    <component id="uug013l" name="rewardTabButton.xml" path="/btn/"/>
+    <component id="uug013p" name="worldBossServerRewardCell.xml" path="/component/"/>
+    <component id="uug013r" name="worldBossPersonRewardCell.xml" path="/component/"/>
+    <component id="uug013s" name="rankCell.xml" path="/component/"/>
+    <component id="uug013v" name="worldBossBoxBar.xml" path="/component/"/>
+    <component id="uug013w" name="worldBossHpBar.xml" path="/component/"/>
+    <component id="uug013y" name="hotHero.xml" path="/btn/"/>
+    <component id="e1fv13z" name="mainRewardBtn.xml" path="/btn/"/>
+    <component id="e1fv140" name="totalDamageComp.xml" path="/component/" exported="true"/>
+    <component id="e1fv142" name="worldBossDamager.xml" path="/component/"/>
+    <component id="e1fv143" name="worldBossDamager2.xml" path="/component/"/>
+    <component id="e1fv144" name="worldBossDamager3.xml" path="/component/"/>
+    <component id="e1fv14q" name="No2Com.xml" path="/btn/"/>
+    <component id="e1fv14u" name="No3Com.xml" path="/btn/"/>
+    <component id="e1fv14v" name="No1Com1.xml" path="/btn/"/>
+    <component id="e1fv14w" name="No2Com1.xml" path="/btn/"/>
+    <component id="e1fv14x" name="No3Com1.xml" path="/btn/"/>
+    <component id="e1fv14y" name="worldBossDamager4.xml" path="/component/"/>
+    <component id="h90v151" name="No1Com_1.xml" path="/btn/"/>
+    <component id="wq7z154" name="skillMask.xml" path="/component/"/>
+    <component id="qr2a155" name="headMask.xml" path="/component/"/>
+    <movieclip id="e1fv146" name="boxBarMovie.jta" path="/component/"/>
+    <image id="h9s0156" name="icon_title.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

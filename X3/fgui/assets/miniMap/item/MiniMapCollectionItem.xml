@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="733,167">
+  <displayList>
+    <loader id="n110_v891" name="img_lift" xy="0,0" size="733,167" url="ui://e477df1cv8917f" fill="scaleFree"/>
+    <list id="n104_v891" name="list_count2" xy="30,31" size="685,105" touchable="false" overflow="hidden" lineGap="4" defaultItem="ui://e477df1cv8917d" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <component id="n113_k045" name="btn_tips" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="693,83" pivot="0.5,0.5" anchor="true" size="29,34">
+      <Button icon="ui://e477df1ck04585"/>
+    </component>
+    <component id="n114_k045" name="btn_tips2" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="693,83" pivot="0.5,0.5" anchor="true" size="29,34">
+      <Button icon="ui://e477df1ck04585"/>
+    </component>
+    <component id="n115_k045" name="btn_tips3" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="693,83" pivot="0.5,0.5" anchor="true" size="29,34">
+      <Button icon="ui://e477df1ck04585"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="e73d6e74">
+  <resources>
+    <image id="68b55" name="youjian_icon.png" path="/img/"/>
+    <image id="68b510" name="youjian1_icon.png" path="/img/"/>
+    <image id="68b512" name="lihe_icon.png" path="/img/"/>
+    <image id="68b521" name="juxing1039kaobei3.png" path="/img/"/>
+    <component id="fsx527" name="EmailContentView.xml" path="/"/>
+    <component id="fsx528" name="EmailBoxView.xml" path="/"/>
+    <component id="fsx529" name="EmailOneRowView.xml" path="/"/>
+    <component id="fsx52c" name="EmailContentRewardPartView.xml" path="/"/>
+    <component id="fsx52j" name="EmailDetailsContentView.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

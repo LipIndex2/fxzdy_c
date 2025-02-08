@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,1626">
+  <displayList>
+    <loader id="n12_ia0o" name="n12" xy="0,0" size="1000,1000" url="ui://7cvz7rmmx7gnv17"/>
+    <component id="n10_ia0o" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" xy="499,845">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n11_ia0o" name="n11" xy="0,854" size="1000,772" url="ui://7cvz7rmmia0ov16"/>
+  </displayList>
+</component>

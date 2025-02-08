@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="229,48">
+  <displayList>
+    <loader id="n185_8a38" name="imageItem" xy="24,24" pivot="0.5,0.5" anchor="true" size="48,48" group="n187_i4ei" url="ui://7q3fcj1k8a3817" fill="scaleFree" clearOnPublish="true">
+      <relation target="n186_8a38" sidePair="right-left"/>
+    </loader>
+    <richtext id="n186_8a38" name="title" xy="50,0" pivot="0,0.5" size="178,44" group="n187_i4ei" fontSize="32" color="#ffffff" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" autoClearText="true" text="+1000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </richtext>
+    <group id="n187_i4ei" name="n187" xy="0,0" size="228,48" advanced="true"/>
+  </displayList>
+</component>

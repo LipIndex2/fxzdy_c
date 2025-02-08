@@ -1,0 +1,146 @@
+
+ui_card_hit_blue.png
+size: 998,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_blue_00
+  rotate: false
+  xy: 930, 190
+  size: 30, 30
+  orig: 256, 256
+  offset: 113, 113
+  index: -1
+hit_blue_01
+  rotate: true
+  xy: 930, 222
+  size: 49, 48
+  orig: 256, 256
+  offset: 104, 104
+  index: -1
+hit_blue_02
+  rotate: false
+  xy: 895, 273
+  size: 81, 81
+  orig: 256, 256
+  offset: 88, 87
+  index: -1
+hit_blue_03
+  rotate: false
+  xy: 190, 59
+  size: 109, 109
+  orig: 256, 256
+  offset: 74, 73
+  index: -1
+hit_blue_04
+  rotate: false
+  xy: 461, 43
+  size: 128, 130
+  orig: 256, 256
+  offset: 65, 61
+  index: -1
+hit_blue_05
+  rotate: false
+  xy: 605, 31
+  size: 142, 146
+  orig: 256, 256
+  offset: 58, 52
+  index: -1
+hit_blue_06
+  rotate: true
+  xy: 306, 41
+  size: 129, 153
+  orig: 256, 256
+  offset: 78, 45
+  index: -1
+hit_blue_07
+  rotate: true
+  xy: 752, 47
+  size: 136, 163
+  orig: 256, 256
+  offset: 76, 40
+  index: -1
+hit_blue_08
+  rotate: false
+  xy: 752, 185
+  size: 141, 169
+  orig: 256, 256
+  offset: 74, 37
+  index: -1
+hit_blue_09
+  rotate: false
+  xy: 605, 179
+  size: 145, 175
+  orig: 256, 256
+  offset: 73, 34
+  index: -1
+hit_blue_10
+  rotate: false
+  xy: 456, 175
+  size: 147, 179
+  orig: 256, 256
+  offset: 73, 32
+  index: -1
+hit_blue_11
+  rotate: false
+  xy: 306, 172
+  size: 148, 182
+  orig: 256, 256
+  offset: 73, 31
+  index: -1
+hit_blue_12
+  rotate: false
+  xy: 2, 170
+  size: 150, 184
+  orig: 256, 256
+  offset: 73, 30
+  index: -1
+hit_blue_13
+  rotate: false
+  xy: 154, 170
+  size: 150, 184
+  orig: 256, 256
+  offset: 73, 30
+  index: -1
+hit_blue_14
+  rotate: true
+  xy: 2, 2
+  size: 82, 185
+  orig: 256, 256
+  offset: 74, 30
+  index: -1
+hit_blue_15
+  rotate: true
+  xy: 2, 86
+  size: 82, 186
+  orig: 256, 256
+  offset: 74, 29
+  index: -1
+hit_blue_16
+  rotate: false
+  xy: 895, 194
+  size: 33, 77
+  orig: 256, 256
+  offset: 75, 30
+  index: -1
+hit_blue_17
+  rotate: false
+  xy: 978, 336
+  size: 18, 18
+  orig: 256, 256
+  offset: 77, 31
+  index: -1
+hit_blue_18
+  rotate: false
+  xy: 978, 317
+  size: 18, 17
+  orig: 256, 256
+  offset: 78, 31
+  index: -1
+hit_blue_19
+  rotate: false
+  xy: 978, 299
+  size: 16, 16
+  orig: 256, 256
+  offset: 79, 31
+  index: -1

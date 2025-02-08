@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="139,72">
+  <displayList>
+    <image id="n44_oc78" name="n44" src="dusvvvv1fl" fileName="bgImage/v_zgbq.png" pkg="38fa8c75" xy="0,15" size="139,49"/>
+    <text id="n29_2215" name="lbDiscount" xy="5,0" size="127,52" fontSize="38" color="#ffffff" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <text id="n30_2215" name="lbTitle" xy="2,34" size="57,38" fontSize="27" color="#fffe80" vAlign="bottom" strokeColor="#cf411a" strokeSize="3" text="超值"/>
+  </displayList>
+</component>

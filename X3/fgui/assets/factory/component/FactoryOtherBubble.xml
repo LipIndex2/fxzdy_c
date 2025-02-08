@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,90">
+  <controller name="style" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="表情"/>
+    <remark page="1" value="文字"/>
+  </controller>
+  <displayList>
+    <loader id="n31_t1qh" name="avatarLoader" xy="0,0" pivot="0.5,0.5" size="90,90" url="ui://38fa8c75frvnvvv1e8" align="center" vAlign="middle" fill="scale"/>
+    <image id="n11_51a6" name="n11" src="51a644" fileName="img/touxian_di.png" xy="8,63" group="n27_t5gy"/>
+    <text id="n12_51a6" name="lbOwer" xy="42,71" pivot="0.5,0.5" anchor="true" size="69,32" group="n27_t5gy" fontSize="22" color="#ff393e" vAlign="middle" strokeColor="#030405" strokeSize="3" text="占领者"/>
+    <group id="n27_t5gy" name="gOwerTitle" xy="7,55" size="76,35" advanced="true">
+      <gearDisplay controller="style" pages="0"/>
+    </group>
+    <text id="n32_t1qh" name="lbName" xy="45,106" pivot="0.5,0.5" anchor="true" size="48,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="昵称"/>
+    <component id="n29_t1qh" name="emoComp" src="t1qha5" fileName="component/FactoryOtherBubbleSpine.xml" xy="90,66" pivot="0,1" anchor="true"/>
+    <component id="n35_t1qh" name="tipComp" src="t1qha4" fileName="component/FactoryOtherBubbleTip.xml" xy="90,66" pivot="0,1" anchor="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n29_t1qh" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Scale" target="n35_t1qh" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="e477df1c">
+  <resources>
+    <image id="773e10" name="miwujiesuo.png" path="/img/"/>
+    <image id="773e11" name="sd_A_common_xdt_frame.png" path="/img/"/>
+    <image id="773e12" name="gouxuanditianchongyanse.png" path="/img/"/>
+    <image id="773e13" name="sd_A_common_gou_btn.png" path="/img/"/>
+    <image id="773e15" name="liebiao_btn.png" path="/img/"/>
+    <image id="773e22" name="shouqi.png" path="/img/"/>
+    <image id="773e23" name="zhankai.png" path="/img/"/>
+    <image id="773e25" name="jllb_frame.png" path="/img/" scale="9grid" scale9grid="34,53,6,106"/>
+    <image id="773e29" name="!kaobei.png" path="/img/"/>
+    <image id="773e36" name="ditujindu.png" path="/img/"/>
+    <image id="773e41" name="baoxiang.png" path="/img/"/>
+    <image id="773e45" name="jiangli_frame.png" path="/img/" scale="9grid" scale9grid="147,44,5,88"/>
+    <image id="773e47" name="jindu.png" path="/img/"/>
+    <component id="773e73" name="MiniMapMainView.xml" path="/"/>
+    <component id="v89175" name="MiniMapCollectionWin.xml" path="/"/>
+    <component id="v89176" name="MiniMapCollectionItem.xml" path="/item/"/>
+    <component id="v89177" name="MiniMapSelItem.xml" path="/item/"/>
+    <component id="v89178" name="MiniMapCollectionListItem.xml" path="/item/"/>
+    <component id="v89179" name="NameTextItem.xml" path="/item/"/>
+    <component id="v8917a" name="ItemBar.xml" path="/bar/"/>
+    <component id="v8917b" name="UpperLimitValueBar.xml" path="/bar/"/>
+    <component id="v8917c" name="CountItem.xml" path="/item/"/>
+    <component id="v8917d" name="UpperLimitValueBar2.xml" path="/bar/"/>
+    <component id="v8917e" name="ItemBar2.xml" path="/bar/"/>
+    <image id="v8917f" name="jiangli1_frame.png" path="/img/" scale="9grid" scale9grid="74,51,13,102"/>
+    <component id="v8917g" name="CountItem2.xml" path="/item/"/>
+    <image id="v8917k" name="slider_bg.png" path="/img/" scale="9grid" scale9grid="7,6,2,7"/>
+    <image id="v8917l" name="slider_v.png" path="/img/" scale="9grid" scale9grid="1,3,2,6"/>
+    <image id="v8917m" name="slider_node.png" path="/img/"/>
+    <component id="v8917n" name="MiniSliderItem1_grip.xml" path="/slider/"/>
+    <component id="v8917o" name="MiniSliderItem1.xml" path="/slider/"/>
+    <image id="v8917p" name="small.png" path="/img/"/>
+    <image id="v8917q" name="bag.png" path="/img/"/>
+    <image id="v8917r" name="jiedian.png" path="/img/"/>
+    <image id="v8917s" name="jindu2.png" path="/img/"/>
+    <component id="bezo7t" name="MIniMapItem.xml" path="/item/"/>
+    <image id="k04585" name="gth5_btn_8.png" path="/img/"/>
+    <component id="k04586" name="BtnBattleData.xml" path="/btn/"/>
+    <image id="k04587" name="jiangli2_frame.png" path="/img/" scale="9grid" scale9grid="93,0,24,167"/>
+    <component id="k04588" name="ResourceTipsItem.xml" path="/item/"/>
+    <image id="k04589" name="qipao1_frame.png" path="/img/" scale="9grid" scale9grid="73,28,9,13"/>
+    <component id="k0458a" name="MiniMapBossAwardWin.xml" path="/"/>
+    <component id="k0458b" name="BossAwardItem.xml" path="/item/"/>
+    <image id="k0458c" name="4002_touxiang.png" path="/img/"/>
+    <image id="k0458d" name="zhezhao.png" path="/img/"/>
+    <image id="k0458e" name="sd_A_common_liaotian_frame_3.png" path="/img/"/>
+    <image id="k0458f" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="k0458g" name="sd_A_common_gth_btn.png" path="/img/"/>
+    <image id="k0458i" name="zu23.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

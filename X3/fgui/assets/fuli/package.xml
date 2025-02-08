@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="a1ca24d5">
+  <resources>
+    <image id="5f250" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="5f251" name="scale_55%_sd_A_common_word_tag.png" path="/img/"/>
+    <image id="5f252" name="scale_55%_sd_A_common_word_tagkaobei.png" path="/img/"/>
+    <component id="5f253" name="ruleTips.xml" path="/"/>
+    <image id="5f254" name="sjboss_bg2.jpg" path="/img/" scale9grid="186,332,374,763"/>
+    <image id="5f255" name="shangbanshen.png" path="/img/"/>
+    <image id="5f256" name="sd_A_common_dilan1_frame.png" path="/img/"/>
+    <image id="5f257" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="5f259" name="sd_A_common_tisp3_frame.png" path="/img/"/>
+    <image id="5f2510" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="5f2515" name="scale_70%_sd_A_common_word_tag_1.png" path="/img/"/>
+    <component id="5f2518" name="worldBossActiveView.xml" path="/"/>
+    <component id="ifld19" name="fuliMain.xml" path="/"/>
+    <component id="ifld1a" name="tabCom.xml" path="/components/"/>
+    <image id="ifld1b" name="guanqiabang_1.png" path="/img/"/>
+    <image id="ifld1c" name="guanqiabang_0.png" path="/img/"/>
+    <component id="ifld1d" name="challengeBtn.xml" path="/btn/"/>
+    <image id="ifld1e" name="zhanlibang1.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

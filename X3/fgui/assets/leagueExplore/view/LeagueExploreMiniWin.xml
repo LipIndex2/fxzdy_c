@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_fdf1" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,118" size="682,1106" group="n34_gtlw"/>
+    <loader id="n35_gtlw" name="bgLoader" xy="58,209" size="639,631" group="n34_gtlw" align="center" vAlign="middle" fill="scale"/>
+    <component id="n4_fdf1" name="map" src="gtlw12k" fileName="component/LeagueExploreMiniContent.xml" xy="58,209" group="n34_gtlw"/>
+    <image id="n36_gtlw" name="mapMask" src="gtlw135" fileName="img/dt_frame.png" xy="58,209" size="639,631" group="n34_gtlw"/>
+    <list id="n32_gtlw" name="listFactory" xy="49,851" size="642,346" group="n34_gtlw" overflow="scroll" lineGap="5" defaultItem="ui://78d1ed1agtlw12h" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n37_8g0d" name="listMine" xy="49,851" size="642,346" group="n34_gtlw" overflow="scroll" defaultItem="ui://78d1ed1agtlw12i" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n33_gtlw" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="460,147" group="n34_gtlw" visible="false">
+      <relation target="n2_fdf1" sidePair="left-right"/>
+    </component>
+    <text id="n2_fdf1" name="lbTitle" xy="375,165" pivot="0.5,0.5" anchor="true" size="150,44" group="n34_gtlw" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="五级星球1"/>
+    <group id="n34_gtlw" name="gAll" xy="32,118" size="682,1106" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n38_woyg" name="n38" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1226">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

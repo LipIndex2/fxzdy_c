@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="335,68" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="1"/>
+  <displayList>
+    <image id="n38_583b" name="n38" src="583b60" fileName="img/sd_A_common_lmlb_frame.png" xy="0,0">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <image id="n40_qlkj" name="n40" src="583b61" fileName="img/sd_A_common_lmlb1_frame.png" xy="0,0">
+      <gearDisplay controller="button" pages="2"/>
+    </image>
+    <text id="n39_583b" name="title" xy="93,10" size="156,49" fontSize="36" color="#ffffff" strokeColor="#023172" strokeSize="3" text="联盟任务 ">
+      <gearColor controller="button" pages="3" values="#ffffff,#023172" default="#8fe1ff,#023172"/>
+    </text>
+    <component id="n42_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="320,17" controller="type,12"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

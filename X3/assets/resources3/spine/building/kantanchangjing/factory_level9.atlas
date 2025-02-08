@@ -1,0 +1,13 @@
+
+factory_level9.png
+size: 400,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_factory09
+  rotate: false
+  xy: 2, 2
+  size: 396, 394
+  orig: 456, 456
+  offset: 28, 33
+  index: -1

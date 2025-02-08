@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n37_wq7z" name="bg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n1_e788" name="n1" src="e7881" fileName="img/guang.png" xy="13,-17" group="n40_wq7z" alpha="0.12"/>
+    <image id="n16_e788" name="n16" src="e7889" fileName="img/guangxiao1.png" xy="-9,76" group="n40_wq7z"/>
+    <group id="n40_wq7z" name="n40" xy="-9,-17" size="764,758" advanced="true">
+      <relation target="n22_e788" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n2_e788" name="n2" src="e7882" fileName="img/sd_A_common_tisp_frame.png" xy="96,573" group="n36_wq7z"/>
+    <image id="n3_e788" name="n3" src="e7883" fileName="img/bantoudi.png" xy="120,684" group="n36_wq7z"/>
+    <image id="n4_e788" name="n4" src="e7884" fileName="img/sd_A_common_biaoti1_msg.png" xy="274,614" group="n36_wq7z"/>
+    <text id="n5_e788" name="n5" xy="315,624" size="105,36" group="n36_wq7z" fontSize="26" color="#8bb4e7" text="变强途径"/>
+    <component id="n18_e788" name="btnData" src="wq7z25" fileName="btnData.xml" xy="554,600" group="n36_wq7z"/>
+    <component id="n23_e788" name="btn_back" src="wq7z23" fileName="backBtn.xml" xy="407,952" group="n36_wq7z"/>
+    <component id="n25_e788" name="btn_res" src="wq7z24" fileName="reliveBtn.xml" xy="99,952" group="n36_wq7z"/>
+    <image id="n29_e788" name="n29" src="e78819" fileName="img/scale_80%_sd_A_common_qipao1_frame.png" xy="98,877" group="n36_wq7z"/>
+    <text id="n30_e788" name="n30" xy="207,890" size="103,29" group="n36_wq7z" fontSize="20" color="#ff5858" text="血量不回复"/>
+    <text id="n31_e788" name="n31" xy="125,890" size="83,29" group="n36_wq7z" fontSize="20" color="#282827" text="交战怪物"/>
+    <list id="n34_wq7z" name="list" xy="68,688" size="613,121" group="n36_wq7z" layout="row" scroll="horizontal" colGap="53" defaultItem="ui://7a71602awq7z21" align="center" vAlign="middle">
+      <item title="英雄培养" icon="ui://7a71602ae7886"/>
+      <item title="招募" icon="ui://7a71602ae7887"/>
+      <item title="装备" icon="ui://7a71602ae7888"/>
+    </list>
+    <group id="n36_wq7z" name="n36" xy="68,573" size="613,472" advanced="true">
+      <relation target="n22_e788" sidePair="top-top"/>
+    </group>
+    <component id="n35_wq7z" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,659">
+      <relation target="n22_e788" sidePair="top-top"/>
+    </component>
+    <image id="n22_e788" name="n22" src="e78815" fileName="img/dian.png" xy="248,447">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+  <transition name="ani">
+    <item time="0" type="Alpha" target="n36_wq7z" value="0"/>
+    <item time="0" type="XY" target="n36_wq7z" value="68,863"/>
+    <item time="54" type="Alpha" target="n36_wq7z" tween="true" startValue="0" endValue="1" duration="18"/>
+    <item time="54" type="XY" target="n36_wq7z" tween="true" startValue="68,800" endValue="68,573" duration="18"/>
+  </transition>
+</component>

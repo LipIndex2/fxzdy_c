@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="494,298">
+  <displayList>
+    <component id="n78_avda" name="item" src="c8g76x" fileName="item/EquipAttrItem.xml" xy="0,0" group="n73_pf1a" controller="c1,0"/>
+    <list id="n74_pf1a" name="list" xy="-1,67" size="494,168" group="n73_pf1a" overflow="hidden" lineGap="5" defaultItem="ui://b20e1226c8g76x">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n32_d205" name="n32" src="c8g770" fileName="img/sx_001_3.png" xy="1,239" group="n75_pf1a" alpha="0.7"/>
+    <text id="n40_d205" name="T_skill" xy="21,256" pivot="0,0.5" size="157,29" group="n75_pf1a" fontSize="20" color="#19df51" vAlign="middle" text="虫王套装（2/6）"/>
+    <component id="n76_pf1a" name="btn_Tips" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="392,252" size="41,34" group="n75_pf1a">
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <group id="n75_pf1a" name="gp_skill" xy="1,239" size="493,59" group="n73_pf1a" advanced="true"/>
+    <image id="n79_p04m" name="n79" src="c8g76y" fileName="img/sx_001.png" xy="0,67" size="493,59" group="n81_p04m" alpha="0.7"/>
+    <text id="n80_p04m" name="desLab" xy="18,75" pivot="0,0.5" size="212,42" group="n81_p04m" fontSize="30" color="#cccccc" vAlign="middle" vars="true" text="随机生成{count}条属性"/>
+    <group id="n81_p04m" name="notItem" xy="0,67" size="493,59" group="n73_pf1a" advanced="true"/>
+    <component id="n77_pf1a" name="skillPage" src="c8g771" fileName="page/EquipSkillPage.xml" xy="193,17" group="n73_pf1a" visible="false"/>
+    <group id="n73_pf1a" name="n73" xy="-1,0" size="495,298"/>
+  </displayList>
+</component>

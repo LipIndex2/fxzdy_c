@@ -1,0 +1,13 @@
+
+mine_leve5.png
+size: 120,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_mine05
+  rotate: false
+  xy: 2, 2
+  size: 116, 100
+  orig: 138, 149
+  offset: 11, 9
+  index: -1

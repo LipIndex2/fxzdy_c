@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="188,214">
+  <displayList>
+    <loader id="n12_h90v" name="flagLoader" xy="94,107" pivot="0.5,0.5" anchor="true" size="188,214" url="ui://6be81224be1a50" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <loader id="n13_h90v" name="iconLoader" xy="93,106" pivot="0.5,0.5" anchor="true" size="62,63" url="ui://6be81224be1a51" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,1626">
+  <controller name="haveBigRewardFlag" pages="0,false,1,true" selected="0"/>
+  <displayList>
+    <loader id="n224_piwi" name="bg" xy="56,431" size="619,803" group="n223_piwi" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <loader id="n225_piwi" name="fg" xy="78,861" size="572,204" group="n223_piwi" url="ui://38fa8c758qld1x" fill="scaleFree"/>
+    <text id="n237_piwi" name="labelTitle" xy="198,455" size="351,44" group="n223_piwi" fontSize="32" color="#ffffff" align="center" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="挂机关卡711"/>
+    <loader id="n226_piwi" name="bgTitle" xy="367,892" pivot="0.5,0.5" anchor="true" size="223,39" group="n241_piwi" url="ui://38fa8c75tml513g" fill="scaleFree" color="#2a3e71">
+      <relation target="n228_piwi" sidePair="width-width"/>
+    </loader>
+    <text id="n228_piwi" name="labelLevelTitle" xy="283,874" size="158,36" group="n241_piwi" fontSize="26" color="#fefefe" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="挂机奖励提升">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n241_piwi" name="levelTitle" xy="255,872" size="223,39" group="n223_piwi" advanced="true"/>
+    <loader id="n253_tml5" name="n253" xy="294,659" size="50,50" group="n223_piwi"/>
+    <loader id="n254_tml5" name="n254" xy="384,709" size="50,50" group="n223_piwi"/>
+    <loader id="n255_tml5" name="n255" xy="476,654" size="50,50" group="n223_piwi"/>
+    <loader id="n256_tml5" name="n256" xy="568,706" size="50,50" group="n223_piwi"/>
+    <loader id="n227_piwi" name="bgEnemySchema" xy="80,507" size="570,313" group="n258_tml5" url="ui://7cvz7rmmwoygvv27"/>
+    <component id="n270_rivx" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="138,673" group="n258_tml5"/>
+    <component id="n271_rivx" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="229,727" group="n258_tml5"/>
+    <component id="n272_rivx" name="modelNode3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="319,674" group="n258_tml5"/>
+    <component id="n273_rivx" name="modelNode4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="409,727" group="n258_tml5"/>
+    <component id="n274_rivx" name="modelNode5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="499,674" group="n258_tml5"/>
+    <component id="n275_rivx" name="modelNode6" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="590,727" group="n258_tml5"/>
+    <group id="n258_tml5" name="hero" xy="80,507" size="570,313" group="n223_piwi"/>
+    <loader id="n229_piwi" name="bgPower" xy="256,783" size="361,75" group="n243_piwi" scale="0.6,0.6" url="ui://38fa8c75tml513a" fill="scaleFree"/>
+    <text id="n267_tyxr" name="labelPower" xy="302,786" size="168,39" group="n243_piwi" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" singleLine="true" text="1234"/>
+    <group id="n243_piwi" name="power" xy="256,783" size="361,75" group="n223_piwi"/>
+    <component id="n249_piwi" name="btnChallenge" src="fsx56i" fileName="btn/BtnConfirm.xml" pkg="38fa8c75" xy="252,1092" size="227,101" group="n242_piwi">
+      <Button title="挑战"/>
+    </component>
+    <component id="n250_piwi" name="btnSetSchema" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="525,1115" size="115,58" group="n242_piwi">
+      <Button title="布阵"/>
+    </component>
+    <component id="n268_wvxj" name="btnAutoChallenge" src="ikw915k" fileName="btn/HangUpChallengeInBgBtn.xml" xy="66,1089" group="n242_piwi"/>
+    <group id="n242_piwi" name="btn" xy="66,1089" size="573,103" group="n223_piwi" advanced="true"/>
+    <list id="n266_tml5" name="hangUpItemList" xy="118,917" size="519,148" group="n223_piwi" touchable="false" layout="flow_hz" overflow="scroll" scroll="horizontal" colGap="40" defaultItem="ui://556f0e8bpiwi138" align="center" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="haveBigRewardFlag" pages="0"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n240_piwi" name="itemList" xy="92,935" size="544,104" group="n223_piwi" layout="row" overflow="scroll" scroll="horizontal" colGap="40" defaultItem="ui://38fa8c75dtss4k" align="center" vAlign="middle" autoClearItems="true">
+      <gearDisplay controller="haveBigRewardFlag" pages="1"/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n223_piwi" name="all" xy="56,431" size="619,803" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n269_vdae" name="n269" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="322,1269">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

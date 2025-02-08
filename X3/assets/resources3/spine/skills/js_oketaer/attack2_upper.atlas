@@ -1,0 +1,97 @@
+
+attack2_upper.png
+size: 668,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/atk2_shaohong
+  rotate: false
+  xy: 326, 46
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+images/effect/atk2_shifa_45
+  rotate: false
+  xy: 2, 140
+  size: 250, 153
+  orig: 300, 155
+  offset: 0, 2
+  index: -1
+images/effect/atk2_shifa_46
+  rotate: false
+  xy: 2, 451
+  size: 300, 155
+  orig: 300, 155
+  offset: 0, 0
+  index: -1
+images/effect/atk2_shifa_47
+  rotate: false
+  xy: 304, 451
+  size: 278, 155
+  orig: 300, 155
+  offset: 22, 0
+  index: -1
+images/effect/atk2_shifa_48
+  rotate: false
+  xy: 256, 295
+  size: 253, 155
+  orig: 300, 155
+  offset: 47, 0
+  index: -1
+images/effect/atk2_shifa_49
+  rotate: false
+  xy: 2, 294
+  size: 253, 155
+  orig: 300, 155
+  offset: 47, 0
+  index: -1
+images/effect/atk2_shifa_50
+  rotate: true
+  xy: 510, 221
+  size: 230, 155
+  orig: 300, 155
+  offset: 70, 0
+  index: -1
+images/effect/atk2_shifa_51
+  rotate: false
+  xy: 251, 138
+  size: 216, 155
+  orig: 300, 155
+  offset: 68, 0
+  index: -1
+images/effect/atk2_shifa_52
+  rotate: false
+  xy: 448, 83
+  size: 206, 136
+  orig: 300, 155
+  offset: 80, 11
+  index: -1
+images/effect/atk2_shifa_53
+  rotate: false
+  xy: 158, 34
+  size: 169, 134
+  orig: 300, 155
+  offset: 78, 15
+  index: -1
+images/effect/atk2_shifa_54
+  rotate: false
+  xy: 2, 4
+  size: 143, 136
+  orig: 300, 155
+  offset: 89, 15
+  index: -1
+images/effect/atk2_shifa_56
+  rotate: false
+  xy: 501, 6
+  size: 87, 77
+  orig: 300, 155
+  offset: 140, 72
+  index: -1
+images/effect/atk2_shifa_58
+  rotate: true
+  xy: 430, 16
+  size: 86, 71
+  orig: 300, 155
+  offset: 145, 82
+  index: -1

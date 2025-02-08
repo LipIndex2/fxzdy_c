@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n24_qr2a" name="n24" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="53,264" size="643,877" group="n23_wq7z"/>
+    <image id="n25_qr2a" name="n25" src="8qld1y" fileName="img/sd_A_common_tc1_frame_31.png" xy="52,266" size="643,877" group="n23_wq7z" pkg="u3k6kdot"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="img/sd_A_common_tc2_frame_30.png" xy="76,351" size="596,763" group="n23_wq7z" pkg="38fa8c75"/>
+    <text id="n2_be1a" name="n2" xy="293,289" size="162,44" group="n23_wq7z" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="已达成玩家"/>
+    <list id="n22_h90v" name="list" xy="89,366" size="570,732" group="n23_wq7z" overflow="scroll" lineGap="11" defaultItem="ui://6be81224h90v10q" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n23_wq7z" name="n23" xy="52,264" size="644,879" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="115,135">
+  <controller name="isHaveNewMsg" exported="true" pages="0,,1," selected="0"/>
+  <controller name="isChoose" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n27_nl4g" name="fgChoose" src="91d64" fileName="img/xuanzhong.png" xy="0,0" size="134,135">
+      <gearDisplay controller="isChoose" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n20_91d6" name="player" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="6,-3" scale="0.8,0.8" touchable="false"/>
+    <image id="n24_91d6" name="bgCount" src="91d616" fileName="img/sd_A_common_shuzi_msg.png" xy="78,0" size="34,22" group="n26_buys"/>
+    <text id="n25_91d6" name="textCount" xy="82,0" pivot="0.5,0" size="29,24" group="n26_buys" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#b11515" strokeSize="2" text="99"/>
+    <group id="n26_buys" name="G_redDot" xy="78,0" size="34,24" advanced="true">
+      <gearDisplay controller="isHaveNewMsg" pages="1"/>
+    </group>
+    <text id="n21_91d6" name="textPlayerName" xy="6,91" pivot="0.5,0" size="103,29" fontSize="20" color="#93cbff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#10214c" strokeSize="2" singleLine="true" text="无敌美少女"/>
+    <component id="n28_ppu1" name="btnDel" src="ppu13o" fileName="btn/ChatDeleteBtn.xml" xy="6,-3">
+      <gearDisplay controller="isChoose" pages="1"/>
+    </component>
+  </displayList>
+</component>

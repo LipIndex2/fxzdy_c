@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="230,380" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n66_qr2a" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="115,274" pivot="0.5,1" anchor="true" size="222,323"/>
+    <image id="n12_d6aa" name="n12" src="d6aa78" fileName="img/scale_70%_no1_icon.png" xy="60,2" pivot="0.5,0.5" size="110,68" aspect="true"/>
+    <component id="n65_e1fv" name="damageCom" src="e1fv142" fileName="component/worldBossDamager.xml" xy="-45,345" size="321,35">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n67_i83d" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="114,288" pivot="0.5,0.5" anchor="true" size="168,72" aspect="true"/>
+    <text id="n10_d6aa" name="nameLabel" xy="115,326" pivot="0.5,0.5" anchor="true" size="10,34" fontSize="24" color="#ffd557" align="center" vAlign="middle" strokeColor="#1a1401" strokeSize="3" text=""/>
+    <text id="n48_uug0" name="noRank" xy="53,175" pivot="0.5,0.5" size="123,42" visible="false" fontSize="30" color="#ffffff" text="虚位以待"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".95"/>
+</component>

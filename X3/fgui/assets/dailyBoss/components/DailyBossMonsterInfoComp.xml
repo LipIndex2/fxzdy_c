@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="468,400">
+  <displayList>
+    <image id="n58_ae97" name="n58" src="ae9726" fileName="img/tuceng12.png" xy="0,0"/>
+    <component id="n197_ffqt" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="233,385" pivot="0.5,1" anchor="true" size="468,385"/>
+    <list id="n196_ffqt" name="skillList" xy="33,303" size="399,108" layout="row" colGap="40" defaultItem="ui://410b0b71ffqt10c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

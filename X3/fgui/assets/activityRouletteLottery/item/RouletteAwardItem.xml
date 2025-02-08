@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <controller name="c1" exported="true" pages="0,普通奖励,1,小奖,2,大奖" selected="1"/>
+  <controller name="c2" pages="0,未领完,1,已领完" selected="1"/>
+  <displayList>
+    <component id="n76_ko81" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="0,0">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <loader id="n82_ko81" name="n82" xy="-8,-17" pivot="0.5,0.5" size="120,37" url="ui://150a05df52f56" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="c1" pages="1,2"/>
+      <gearIcon controller="c1" pages="1" values="ui://150a05df52f56" default="ui://150a05df52f55"/>
+    </loader>
+    <text id="n78_ko81" name="n78" xy="3,-16" pivot="0.5,0.5" size="99,34" fontSize="24" color="#ffec6c" align="center" vAlign="middle" strokeColor="#7c1f00" strokeSize="2" text="星元大奖">
+      <gearDisplay controller="c1" pages="2"/>
+    </text>
+    <text id="n83_ko81" name="n83" xy="3,-16" pivot="0.5,0.5" size="99,34" fontSize="24" color="#ffec6c" align="center" vAlign="middle" strokeColor="#5b2e85" strokeSize="2" text="星球大奖">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <loader id="n84_ko81" name="img_item" xy="18,22" pivot="0.5,0.5" size="73,85" url="ui://150a05df52f511" autoSize="true">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </loader>
+    <text id="n80_ko81" name="T_count" xy="64,87" size="33,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="12">
+      <gearDisplay controller="c1" pages="1,2"/>
+    </text>
+    <image id="n86_ko81" name="n86" src="52f512" fileName="img/zhezhao.png" xy="0,0" alpha="0.5">
+      <gearDisplay controller="c2" pages="1"/>
+      <gearDisplay2 controller="c1" pages="0" condition="0"/>
+    </image>
+    <image id="n85_ko81" name="n85" src="52f513" fileName="img/cjzhd_ylw.png" xy="-8,43">
+      <gearDisplay controller="c2" pages="1"/>
+      <gearXY controller="c1" pages="1,2" values="-8,43|-8,43" default="-8,29"/>
+    </image>
+  </displayList>
+</component>

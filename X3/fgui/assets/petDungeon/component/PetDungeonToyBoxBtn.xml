@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="132,159" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n34_loj0" name="icon" xy="66,79" pivot="0.5,0.5" anchor="true" size="132,159" scale="-1,1" url="ui://7q3fcj1kloj0s9f" clearOnPublish="true"/>
+    <text id="n32_532a" name="title" xy="65,17" pivot="0.5,0.5" anchor="true" size="152,34" fontSize="24" color="#fff6a6" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="暂存宝箱:999"/>
+    <component id="n35_t1qh" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="112,58" controller="type,3"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

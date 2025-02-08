@@ -1,0 +1,13 @@
+
+mine_level3.png
+size: 115,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zykt_mine03
+  rotate: false
+  xy: 2, 2
+  size: 111, 98
+  orig: 138, 149
+  offset: 14, 11
+  index: -1

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="414,34">
+  <displayList>
+    <text id="n41_26e0" name="textName" xy="0,1" pivot="0,0.5" size="147,34" fontSize="24" color="#defbfd" vAlign="middle" text="宇宙无敌帅帅"/>
+    <text id="n42_26e0" name="textTime" xy="310,0" pivot="1,0.5" size="104,34" fontSize="24" color="#6ef96a" align="right" vAlign="middle" text="24小时前"/>
+  </displayList>
+</component>

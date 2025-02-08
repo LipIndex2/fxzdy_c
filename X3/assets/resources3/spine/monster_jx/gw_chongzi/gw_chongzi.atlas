@@ -1,0 +1,97 @@
+
+gw_chongzi.png
+size: 89,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it_baixing_00
+  rotate: false
+  xy: 24, 5
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: false
+  xy: 61, 7
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+it_baixing_010
+  rotate: false
+  xy: 14, 6
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+it_baixing_011
+  rotate: true
+  xy: 29, 8
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+it_baixing_012
+  rotate: true
+  xy: 77, 10
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: false
+  xy: 2, 37
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: false
+  xy: 42, 26
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: false
+  xy: 2, 16
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+it_baixing_05
+  rotate: false
+  xy: 2, 5
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: true
+  xy: 76, 21
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+it_baixing_07
+  rotate: false
+  xy: 77, 4
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: false
+  xy: 61, 22
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: false
+  xy: 45, 37
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1

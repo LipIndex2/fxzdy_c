@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,40" pivot="0.5,0.5" extention="Button">
+  <controller name="showAdd" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n20_y5sw" name="bgBuy" src="pocbv17c" fileName="headerImage/szdi11_frame.png" xy="0,0" size="153,37" color="#000000">
+      <gearDisplay controller="showAdd" pages="1"/>
+    </image>
+    <text id="n22_y5sw" name="labelItemCount" xy="99,20" pivot="0.5,0.5" anchor="true" size="90,34" fontSize="24" color="#fffefe" align="center" vAlign="middle" leading="0" autoSize="none" strokeColor="#000000" strokeSize="2" singleLine="true" text="0"/>
+    <loader id="n23_y5sw" name="imageItem" xy="30,12" pivot="0.5,0.5" anchor="true" size="48,48" url="ui://7q3fcj1kt6mg9" align="center" vAlign="middle" fill="scaleFree" clearOnPublish="true"/>
+    <image id="n25_y5sw" name="imageBuy" src="pocbv17i" fileName="headerImage/jiahao.png" xy="38,14" size="22,23">
+      <gearDisplay controller="showAdd" pages="1"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

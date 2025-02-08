@@ -1,0 +1,27 @@
+
+digui_buff_andi_lower.png
+size: 176,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/glo
+  rotate: false
+  xy: 2, 2
+  size: 104, 103
+  orig: 110, 110
+  offset: 2, 4
+  index: -1
+images/effect/tubiao
+  rotate: false
+  xy: 2, 237
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+images/effect/tubiaocici
+  rotate: false
+  xy: 2, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

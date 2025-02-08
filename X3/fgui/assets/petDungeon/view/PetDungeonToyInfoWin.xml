@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n11_ta4f" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="213,560" size="324,213" group="n10_loj0"/>
+    <image id="n0_532a" name="n0" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="213,560" size="324,213" group="n10_loj0"/>
+    <image id="n3_532a" name="n3" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="226,706" size="299,3" group="n10_loj0" color="#415171"/>
+    <loader id="n9_loj0" name="iconLoader" xy="325,583" size="100,100" group="n10_loj0" align="center" vAlign="middle" fill="scale"/>
+    <image id="n5_532a" name="n5" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="326,666" size="99,26" group="n10_loj0" alpha="0.36"/>
+    <text id="n6_532a" name="lbLv" xy="375,679" pivot="0.5,0.5" anchor="true" size="59,32" group="n10_loj0" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="lv.10"/>
+    <richtext id="n8_loj0" name="lbAttr" xy="375,739" pivot="0.5,0.5" anchor="true" size="114,32" group="n10_loj0" fontSize="22" color="#defbfd" align="center" vAlign="middle" ubb="true" text="暴击率[color=#6EF96A]+1%[/color]"/>
+    <group id="n10_loj0" name="gAll" xy="213,560" size="324,213" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

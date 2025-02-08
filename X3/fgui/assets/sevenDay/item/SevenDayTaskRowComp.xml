@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="575,193">
+  <controller name="type" pages="3,未开始,0,未完成,1,已完成，未领取,2,已领取" selected="0"/>
+  <displayList>
+    <image id="n7_6950" name="bg" src="hcpc1l" fileName="img/zu130437.png" xy="0,0" group="n55_vet6"/>
+    <text id="n8_6950" name="labelTitle" xy="36,12" size="232,39" group="n55_vet6" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#c66e01" strokeSize="3" text="共鸣等级达到20级"/>
+    <text id="n9_6950" name="labelProgress" xy="431,14" pivot="1,0" size="91,42" group="n55_vet6" fontSize="30" color="#ffffff" align="right" vAlign="middle" strokeColor="#c66e01" strokeSize="3" text="20/30"/>
+    <component id="n49_hcpc" name="itemList" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="28,67" size="336,109" group="n55_vet6"/>
+    <component id="n51_hcpc" name="btnGain" src="hcpc1m" fileName="btn/SevenDayGainBtn.xml" xy="390,80" group="n55_vet6">
+      <gearDisplay controller="type" pages="1"/>
+    </component>
+    <image id="n48_6950" name="n48" src="hcpc1n" fileName="img/scale_85%_sd_A_common_ywc_tag.png" xy="409,93" group="n55_vet6">
+      <gearDisplay controller="type" pages="2"/>
+    </image>
+    <component id="n52_hcpc" name="btnJump" src="hcpc1o" fileName="btn/SevenDayJumpBtn.xml" xy="390,81" group="n55_vet6">
+      <gearDisplay controller="type" pages="0"/>
+    </component>
+    <component id="n53_lnj7" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="550,86" group="n55_vet6" controller="type,0"/>
+    <group id="n55_vet6" name="nodeSp" xy="0,0" size="575,193" advanced="true"/>
+  </displayList>
+</component>

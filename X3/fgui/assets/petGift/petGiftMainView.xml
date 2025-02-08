@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n34_nj01" name="bg" xy="0,88" size="750,1120">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n2_16e4" name="n2" src="16e42" fileName="img/beijing.png" xy="-28,308" group="n32_fkak"/>
+    <component id="n33_bb25" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="356,700" pivot="0.5,1" anchor="true" size="100,100" group="n32_fkak">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n37_wu6b" name="btnSpine" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="245,421" size="260,260" group="n32_fkak"/>
+    <image id="n4_16e4" name="n4" src="16e44" fileName="img/wenzi_4.png" xy="51,612" group="n32_fkak"/>
+    <text id="n9_16e4" name="lbBuy" xy="274,765" size="200,36" group="n32_fkak" fontSize="26" color="#faf79a" vAlign="middle" strokeColor="#91360a" strokeSize="3" text="开服第7天可购买"/>
+    <text id="n11_16e4" name="lbCd" xy="237,1215" size="248,34" group="n32_fkak" fontSize="24" color="#dfdfde" vAlign="middle" text="活动倒计时:6天20小时"/>
+    <component id="n28_i5je" name="itemList" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="138,813" size="476,109" group="n32_fkak"/>
+    <list id="n29_fkak" name="tabList" xy="0,1046" size="750,45" group="n32_fkak" layout="row" overflow="scroll" scroll="horizontal" colGap="8" defaultItem="ui://2641cc75i5je4f" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n30_fkak" name="buyBtn" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="211,1093" size="306,117" group="n32_fkak"/>
+    <list id="n31_fkak" name="btnList" xy="0,93" size="750,146" group="n32_fkak" layout="row" scroll="horizontal" colGap="6" defaultItem="ui://2641cc75fkak21" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n36_wu6b" name="bubbleTip" src="wu6b4j" fileName="component/petGiftBubbleTip.xml" xy="250,410" pivot="1,1" anchor="true" group="n32_fkak"/>
+    <group id="n32_fkak" name="n32" xy="-28,93" size="778,1156" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n35_vdae" name="btnClose" src="j6z939" fileName="btn/CloseBtn.xml" pkg="38fa8c75" xy="578,313" size="48,48">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://38fa8c75wu6bvvv1kd"/>
+    </component>
+  </displayList>
+  <transition name="bubble">
+    <item time="0" type="Scale" target="n36_wu6b" tween="true" startValue="0,0" endValue="1,1" duration="7" ease="Back.Out" yoyo="true"/>
+  </transition>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="130,130" pivot="0.5,0.5" extention="Button">
+  <controller name="style" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="首通奖励"/>
+    <remark page="1" value="生涯首通"/>
+    <remark page="2" value="赛季首通"/>
+    <remark page="3" value="首通"/>
+  </controller>
+  <displayList>
+    <component id="n11_r58c" name="itemFrame" src="dtss4k" fileName="item/ItemFrameBtn.xml" xy="13,23"/>
+    <image id="n15_gvuz" name="iconLimit" src="gvuzvvv1l8" fileName="bgImage/kfxd.png" xy="25,-1"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

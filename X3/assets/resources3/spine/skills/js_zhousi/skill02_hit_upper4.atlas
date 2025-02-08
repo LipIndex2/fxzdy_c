@@ -1,0 +1,153 @@
+
+skill02_hit_upper4.png
+size: 577,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_shandian_00000
+  rotate: false
+  xy: 513, 22
+  size: 39, 29
+  orig: 96, 60
+  offset: 56, 16
+  index: -1
+images/effect/skill02_shandian_00001
+  rotate: false
+  xy: 93, 39
+  size: 69, 51
+  orig: 96, 60
+  offset: 26, 6
+  index: -1
+images/effect/skill02_shandian_00002
+  rotate: false
+  xy: 2, 91
+  size: 89, 52
+  orig: 96, 60
+  offset: 6, 6
+  index: -1
+images/effect/skill02_shandian_00003
+  rotate: false
+  xy: 181, 96
+  size: 89, 47
+  orig: 96, 60
+  offset: 6, 4
+  index: -1
+images/effect/skill02_shandian_00004
+  rotate: false
+  xy: 173, 17
+  size: 90, 31
+  orig: 96, 60
+  offset: 5, 12
+  index: -1
+images/effect/skill02_shandian_00005
+  rotate: false
+  xy: 269, 50
+  size: 90, 41
+  orig: 96, 60
+  offset: 5, 16
+  index: -1
+images/effect/skill02_shandian_00006
+  rotate: false
+  xy: 90, 2
+  size: 81, 35
+  orig: 96, 60
+  offset: 5, 2
+  index: -1
+images/effect/skill02_shandian_00007
+  rotate: false
+  xy: 332, 15
+  size: 51, 33
+  orig: 96, 60
+  offset: 6, 4
+  index: -1
+images/effect/skill02_shandian_00008
+  rotate: false
+  xy: 2, 48
+  size: 86, 41
+  orig: 96, 60
+  offset: 6, 4
+  index: -1
+images/effect/skill02_shandian_00009
+  rotate: false
+  xy: 357, 96
+  size: 87, 47
+  orig: 96, 60
+  offset: 6, 4
+  index: -1
+images/effect/skill02_shandian_00010
+  rotate: false
+  xy: 446, 96
+  size: 87, 47
+  orig: 96, 60
+  offset: 7, 7
+  index: -1
+images/effect/skill02_shandian_00011
+  rotate: false
+  xy: 93, 92
+  size: 86, 51
+  orig: 96, 60
+  offset: 7, 4
+  index: -1
+images/effect/skill02_shandian_00012
+  rotate: false
+  xy: 272, 93
+  size: 83, 50
+  orig: 96, 60
+  offset: 7, 4
+  index: -1
+images/effect/skill02_shandian_00013
+  rotate: false
+  xy: 446, 2
+  size: 65, 49
+  orig: 96, 60
+  offset: 8, 3
+  index: -1
+images/effect/skill02_shandian_00014
+  rotate: false
+  xy: 385, 19
+  size: 51, 29
+  orig: 96, 60
+  offset: 6, 27
+  index: -1
+images/effect/skill02_shandian_00015
+  rotate: false
+  xy: 2, 11
+  size: 86, 35
+  orig: 96, 60
+  offset: 6, 21
+  index: -1
+images/effect/skill02_shandian_00016
+  rotate: true
+  xy: 535, 56
+  size: 87, 40
+  orig: 96, 60
+  offset: 6, 15
+  index: -1
+images/effect/skill02_shandian_00017
+  rotate: false
+  xy: 446, 53
+  size: 87, 41
+  orig: 96, 60
+  offset: 7, 12
+  index: -1
+images/effect/skill02_shandian_00018
+  rotate: false
+  xy: 181, 50
+  size: 86, 44
+  orig: 96, 60
+  offset: 7, 12
+  index: -1
+images/effect/skill02_shandian_00019
+  rotate: false
+  xy: 361, 50
+  size: 83, 44
+  orig: 96, 60
+  offset: 7, 12
+  index: -1
+images/effect/skill02_shandian_00020
+  rotate: false
+  xy: 265, 6
+  size: 65, 42
+  orig: 96, 60
+  offset: 8, 15
+  index: -1

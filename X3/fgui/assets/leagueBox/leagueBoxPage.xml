@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="任务"/>
+    <remark page="1" value="赠礼"/>
+  </controller>
+  <displayList>
+    <image id="n0_583b" name="n0" src="583b38" fileName="img/tuceng1135.jpg" xy="0,0" size="750,530" group="n53_kvs3"/>
+    <image id="n10_583b" name="n10" src="583b45" fileName="img/sd_A_common_bossxxd_frame.png" xy="0,440" size="750,1189" group="n53_kvs3">
+      <relation target="" sidePair="height-height,top-top"/>
+    </image>
+    <image id="n67_g9nr" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" group="n53_kvs3" color="#345ea8">
+      <relation target="" sidePair="width-width"/>
+    </image>
+    <component id="n1_583b" name="levelBoxIcon" src="kvs36d" fileName="btn/leagueBoxBtn.xml" xy="304,190" group="n53_kvs3"/>
+    <image id="n80_qhev" name="n80" src="qhevvvv1gj" fileName="bgImage/qipao_bai.png" pkg="38fa8c75" xy="60,173" size="240,98" group="n82_qhev"/>
+    <list id="n81_qhev" name="listReward" xy="74,188" size="380,104" group="n82_qhev" scale="0.56,0.56" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n82_qhev" name="n82" xy="60,173" size="394,119" group="n53_kvs3"/>
+    <text id="n2_583b" name="boxName" xy="295,328" pivot="0.5,0.5" size="159,39" group="n53_kvs3" fontSize="28" color="#8fe1ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="1级联盟宝箱"/>
+    <component id="n5_583b" name="expBar" src="qlkj65" fileName="com/leagueBoxExpBar.xml" xy="374,385" pivot="0.5,0.5" anchor="true" size="485,29" group="n53_kvs3">
+      <ProgressBar max="100"/>
+    </component>
+    <component id="n8_583b" name="ruleBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="624,364" size="41,34" group="n53_kvs3"/>
+    <loader id="n69_rpoe" name="boxIcon" xy="121,370" pivot="0.5,0.5" anchor="true" size="70,70" group="n53_kvs3" url="ui://016cb3f9qhev6g" align="center" vAlign="middle" fill="scale"/>
+    <image id="n3_583b" name="n3" src="583b40" fileName="img/sd_A_common_black1_msg.png" xy="181,139" size="399,35" group="n68_llxc"/>
+    <image id="n11_583b" name="n11" src="583b46" fileName="img/sd_A_common_bossbt_frame.png" xy="168,52" size="414,89" group="n68_llxc"/>
+    <component id="n13_583b" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="468,77" size="41,34" group="n68_llxc"/>
+    <text id="n12_583b" name="n12" xy="277,65" size="194,64" group="n68_llxc" fontSize="48" color="#052664" text="联盟宝箱"/>
+    <text id="n4_583b" name="n4" xy="242,142" size="156,32" group="n68_llxc" fontSize="22" color="#ffffff" strokeColor="#000000" strokeSize="3" text="距离宝箱结算："/>
+    <text id="n46_qlkj" name="endTime" xy="395,142" size="101,32" group="n68_llxc" fontSize="22" color="#40fe7e" strokeColor="#000000" strokeSize="3" text="00天00时"/>
+    <group id="n68_llxc" name="n68" xy="168,52" size="414,122" group="n53_kvs3" advanced="true"/>
+    <group id="n53_kvs3" name="n53" xy="0,-160" size="750,1789" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <list id="n48_qlkj" name="tabList" xy="20,480" size="714,69" group="n55_kvs3" pageController="c1" layout="row" colGap="40" defaultItem="ui://016cb3f9qlkj66" selectionController="c1">
+      <relation target="" sidePair="top-top"/>
+      <item title="联盟任务"/>
+      <item title="联盟赠礼"/>
+    </list>
+    <list id="n52_kvs3" name="giftList" xy="20,694" size="711,431" group="n75_qhev" overflow="scroll" lineGap="14" defaultItem="ui://016cb3f9qlkj63" autoClearItems="true">
+      <relation target="" sidePair="height-height,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n70_qhev" name="pGiftTip" src="qhev6f" fileName="com/leagueBoxGiftTip.xml" xy="21,563" group="n75_qhev"/>
+    <image id="n73_qhev" name="n73" src="qhevvvv1gi" fileName="bgImage/kong_tag.png" pkg="38fa8c75" xy="248,781" group="n74_qhev"/>
+    <text id="n61_kvs3" name="noGiftList" xy="313,968" pivot="0.5,0.5" size="123,42" group="n74_qhev" visible="false" fontSize="30" color="#6180ca" align="center" vAlign="middle" text="暂无赠礼"/>
+    <group id="n74_qhev" name="gGiftTip" xy="248,781" size="253,228" group="n75_qhev" advanced="true"/>
+    <group id="n75_qhev" name="gGift" xy="20,563" size="711,562" group="n55_kvs3" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <list id="n50_kvs3" name="taskList" xy="20,563" size="711,562" group="n79_qhev" overflow="scroll" lineGap="14" defaultItem="ui://016cb3f9qlkj69" autoClearItems="true">
+      <relation target="" sidePair="height-height,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n76_qhev" name="n76" src="qhevvvv1gi" fileName="bgImage/kong_tag.png" pkg="38fa8c75" xy="248,716" group="n78_qhev"/>
+    <text id="n60_kvs3" name="noTaskList" xy="283,902" pivot="0.5,0.5" size="182,42" group="n78_qhev" visible="false" fontSize="30" color="#6180ca" align="center" vAlign="middle" text="暂无每周任务"/>
+    <group id="n78_qhev" name="gTaskTip" xy="248,716" size="253,228" group="n79_qhev" advanced="true"/>
+    <group id="n79_qhev" name="gTask" xy="20,563" size="711,562" group="n55_kvs3" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <group id="n55_kvs3" name="n55" xy="20,480" size="714,645" advanced="true">
+      <relation target="" sidePair="height-height,top-top"/>
+    </group>
+    <loader id="n62_kvs3" name="tweenItem" xy="887,819" pivot="0.5,0.5" anchor="true" size="36,36" align="center" vAlign="middle" fill="scale"/>
+    <text id="n63_uazn" name="tips" xy="113,1154" pivot="0.5,0.5" size="265,39" group="n66_uazn" fontSize="28" color="#8fe1ff" align="right" vAlign="bottom" autoSize="shrink" singleLine="true" text="每周联盟币获得上限:"/>
+    <loader id="n64_uazn" name="leagueCoibIcon" xy="379,1152" pivot="0.5,0.5" size="38,41" group="n66_uazn" url="ui://016cb3f9583b33" align="center" vAlign="middle" fill="scale"/>
+    <text id="n65_uazn" name="leagueCoibTxt" xy="418,1157" pivot="0.5,0.5" size="219,39" group="n66_uazn" fontSize="28" color="#ffffff" autoSize="shrink" singleLine="true" autoClearText="true" text="5/10"/>
+    <group id="n66_uazn" name="limittxt1" xy="113,1152" size="524,44" advanced="true" layout="hz" colGap="1">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n55_kvs3" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="Alpha" target="n68_llxc" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n55_kvs3" tween="true" startValue="20,580" endValue="20,480" duration="12" ease="Back.Out"/>
+    <item time="0" type="XY" target="n68_llxc" tween="true" startValue="168,-48" endValue="168,52" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

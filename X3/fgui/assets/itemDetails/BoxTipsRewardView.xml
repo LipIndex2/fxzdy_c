@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n0_p04m" name="bg" xy="133,377" size="475,580" group="n12_p04m" url="ui://38fa8c753cd618" fill="scaleFree"/>
+    <image id="n1_p04m" name="n1" src="965b33" fileName="img/yuanjiaojuxing1_10.png" xy="140,385" group="n12_p04m"/>
+    <loader id="n2_p04m" name="numBg" xy="168,489" size="123,33" group="n12_p04m" url="ui://38fa8c75tml513g" fill="scaleFree" color="#1d2332">
+      <relation target="n4_p04m" sidePair="rightext-right"/>
+    </loader>
+    <text id="n3_p04m" name="nameLab" xy="176,408" size="86,49" group="n12_p04m" fontSize="36" color="#31b4ff" leading="0" strokeColor="#000000" strokeSize="2" text="DNA"/>
+    <text id="n4_p04m" name="numLab" xy="184,492" size="93,26" group="n12_p04m" fontSize="18" color="#ffffff" vAlign="middle" vars="true" text="拥有数量：{num}"/>
+    <text id="n5_p04m" name="desLab" xy="171,535" size="415,69" restrictSize="0,0,69,0" group="n12_p04m" fontSize="22" color="#d5f7fb" leading="10" ubb="true" autoSize="height" text="普通道具，可用升级英雄普通道升级英雄普通道普通道升级英雄普通道"/>
+    <image id="n7_p04m" name="n7" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="312,614" size="264,3" group="n9_p04m" color="#4c5b75"/>
+    <text id="n8_p04m" name="desNameLab" xy="169,601" size="135,32" group="n9_p04m" fontSize="22" color="#d5f7fb" vAlign="middle" text="主要获得途径"/>
+    <group id="n9_p04m" name="n9" xy="169,601" size="407,32" group="n10_p04m"/>
+    <list id="n11_p04m" name="rewardItemList" xy="166,641" size="497,333" group="n10_p04m" scale="0.85,0.85" layout="flow_hz" overflow="scroll" margin="0,0,10,10" lineGap="10" colGap="15" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n10_p04m" name="otherBox" xy="166,601" size="497,373" group="n12_p04m" advanced="true">
+      <relation target="n5_p04m" sidePair="top-bottom"/>
+    </group>
+    <group id="n12_p04m" name="mc" xy="133,377" size="530,597" advanced="true"/>
+  </displayList>
+</component>

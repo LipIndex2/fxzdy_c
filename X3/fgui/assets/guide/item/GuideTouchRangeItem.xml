@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="68,68" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n1_ut0g" name="animBox" src="ut0gv1e" fileName="img/selecetBoxAnim.png" xy="34,34" pivot="0.5,0.5" anchor="true" size="112,112" group="n3_ut0g">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n0_ut0g" name="n0" src="ut0gv1d" fileName="img/selectBox.png" xy="34,34" pivot="0.5,0.5" anchor="true" size="100,100" group="n3_ut0g">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <group id="n3_ut0g" name="boxGp" xy="-22,-22" size="112,112" advanced="true"/>
+    <component id="n2_ut0g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="33,33" visible="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

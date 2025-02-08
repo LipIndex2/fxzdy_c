@@ -1,0 +1,90 @@
+
+gw_feiwuguai.png
+size: 200,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 52, 19
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 185, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 139, 30
+  size: 53, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 188, 24
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 2, 19
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 35, 5
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 67, 9
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 130, 8
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 2, 2
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 96, 13
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 140, 8
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 96, 7
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1

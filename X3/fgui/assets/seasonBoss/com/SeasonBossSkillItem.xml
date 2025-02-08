@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,66">
+  <displayList>
+    <image id="n0_pkn9" name="n0" src="073423" fileName="img/scale_60%_sd_A_common_jineng2_frame.png" xy="0,0"/>
+    <image id="n1_pkn9" name="n1" src="073424" fileName="img/tuceng570.png" xy="4,3"/>
+    <component id="n4_u8y2" name="img" src="105pv7r" fileName="hero/components/skillIconMask.xml" pkg="38fa8c75" xy="3,4" scale="0.6,0.6"/>
+  </displayList>
+</component>

@@ -1,0 +1,153 @@
+
+choujianghuodong_upper.png
+size: 834,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_0
+  rotate: false
+  xy: 2, 756
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_1
+  rotate: false
+  xy: 2, 554
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_10
+  rotate: false
+  xy: 2, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_12
+  rotate: false
+  xy: 2, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_14
+  rotate: false
+  xy: 204, 756
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_16
+  rotate: false
+  xy: 204, 554
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_18
+  rotate: false
+  xy: 204, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_2
+  rotate: false
+  xy: 204, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_3
+  rotate: false
+  xy: 406, 756
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_4
+  rotate: false
+  xy: 406, 554
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_6
+  rotate: false
+  xy: 406, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_baodian_8
+  rotate: false
+  xy: 406, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu001
+  rotate: true
+  xy: 2, 2
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_10
+  rotate: true
+  xy: 204, 2
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_12
+  rotate: true
+  xy: 406, 2
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_14
+  rotate: false
+  xy: 608, 756
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_16
+  rotate: false
+  xy: 608, 554
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_5
+  rotate: false
+  xy: 608, 352
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_6
+  rotate: false
+  xy: 608, 150
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/choujianghuodong_xishou_guangzhu_8
+  rotate: true
+  xy: 608, 2
+  size: 146, 200
+  orig: 146, 200
+  offset: 0, 0
+  index: -1
+images/effect_choujianghuodong1/jinglingqiu
+  rotate: false
+  xy: 756, 880
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1

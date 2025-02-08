@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kffqt60">
+  <displayList>
+    <image id="n206_ae97" name="fg" src="ae97103" fileName="img/sd_A_common_js_frame.png" xy="-124,523" group="n209_ejy3"/>
+    <image id="n208_ae97" name="imageNewUnlock" src="ae97104" fileName="img/xinjiesuo_0.png" xy="72,523" group="n209_ejy3"/>
+    <richtext id="n207_ae97" name="labelHard" xy="205,609" pivot="0.5,0.5" size="348,77" group="n209_ejy3" rotation="-5" fontSize="57" color="#e7f5ff" align="center" vAlign="middle" ubb="true" autoSize="none" strokeColor="#984c02" strokeSize="3" singleLine="true" text="地[size=48]狱难[/size]度"/>
+    <group id="n209_ejy3" name="n209" xy="-124,523" size="1000,263" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

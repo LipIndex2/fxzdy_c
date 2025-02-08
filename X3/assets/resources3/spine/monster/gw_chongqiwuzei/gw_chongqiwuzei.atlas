@@ -1,0 +1,118 @@
+
+gw_chongqiwuzei.png
+size: 114,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jzd0
+  rotate: false
+  xy: 47, 3
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Jzd1
+  rotate: false
+  xy: 2, 9
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Jzd10
+  rotate: 270
+  xy: 32, 3
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Jzd11
+  rotate: false
+  xy: 2, 33
+  size: 52, 44
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Jzd12
+  rotate: true
+  xy: 55, 16
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Jzd13
+  rotate: false
+  xy: 78, 37
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+Jzd14
+  rotate: true
+  xy: 95, 34
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+Jzd15
+  rotate: false
+  xy: 95, 52
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Jzd2
+  rotate: true
+  xy: 84, 3
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+Jzd3
+  rotate: false
+  xy: 102, 21
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Jzd4
+  rotate: true
+  xy: 2, 4
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Jzd5
+  rotate: 270
+  xy: 98, 6
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+Jzd6
+  rotate: true
+  xy: 73, 17
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+Jzd7
+  rotate: true
+  xy: 2, 19
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+Jzd8
+  rotate: false
+  xy: 49, 47
+  size: 29, 30
+  orig: 31, 30
+  offset: 1, 0
+  index: -1
+Jzd9
+  rotate: false
+  xy: 92, 61
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1

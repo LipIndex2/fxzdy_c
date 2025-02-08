@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="572,189">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="玩法"/>
+    <remark page="1" value="尽情期待"/>
+  </controller>
+  <displayList>
+    <image id="n3_1dfc" name="n3" src="gtlw125" fileName="img/liebiao.png" xy="0,0"/>
+    <loader id="n10_gtlw" name="iconLoader" xy="456,93" pivot="0.5,0.5" anchor="true" size="180,180" url="ui://6be81224gtlw123" align="center" vAlign="middle" fill="scaleNoBorder" clearOnPublish="true">
+      <gearLook controller="state" pages="1" values="0.25,0,0,1" default="1,0,0,1"/>
+    </loader>
+    <image id="n4_1dfc" name="n4" src="gtlw126" fileName="img/bt_frame.png" xy="3,3" group="n12_gtlw"/>
+    <text id="n6_1dfc" name="lbName" xy="25,10" size="147,49" group="n12_gtlw" fontSize="36" color="#c3efff" vAlign="middle" strokeColor="#142d7c" strokeSize="3" text="联盟对决"/>
+    <text id="n7_1dfc" name="lbDes" xy="26,73" size="300,70" group="n12_gtlw" fontSize="22" color="#e5f4ff" autoSize="none" strokeColor="#163b7e" strokeSize="2" text="角逐最强联盟，大战一触即发"/>
+    <image id="n8_1dfc" name="bgTime" src="gtlw127" fileName="img/sd_Ttequanka_t_shijiandi.png" xy="150,162" pivot="0.5,0.5" anchor="true" group="n17_gtlw"/>
+    <text id="n9_1dfc" name="lbTime" xy="150,162" pivot="0.5,0.5" anchor="true" size="219,32" group="n17_gtlw" fontSize="22" color="#4af392" align="center" vAlign="middle" text="结算倒计时：6:58:10"/>
+    <group id="n17_gtlw" name="gTime" xy="27,146" size="245,32" group="n12_gtlw" advanced="true"/>
+    <group id="n12_gtlw" name="gInfo" xy="3,3" size="542,175" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+    <image id="n11_gtlw" name="n11" src="gtlw128" fileName="img/jingqingqidaidi.png" xy="23,54" group="n15_gtlw"/>
+    <text id="n13_gtlw" name="n13" xy="286,94" pivot="0.5,0.5" anchor="true" size="162,54" group="n15_gtlw" fontSize="40" color="#8bc9fc" align="center" vAlign="middle" strokeColor="#1b50ab" strokeSize="3" text="敬请期待"/>
+    <group id="n15_gtlw" name="gNone" xy="23,54" size="526,80" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+    <component id="n22_8g0d" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="528,19"/>
+    <component id="n23_ta4f" name="exploreTip" src="ta4f12a" fileName="com/LeagueBubble.xml" xy="310,78" pivot="0,1" anchor="true" visible="false"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n23_ta4f" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,614" designImage="ui://7q3fcj1kipjz5c" designImageOffsetY="-339" designImageAlpha="3">
+  <controller name="state" exported="true" pages="0,,1,,2," selected="1">
+    <remark page="0" value="未解锁"/>
+    <remark page="1" value="可升级"/>
+    <remark page="2" value="已满级"/>
+  </controller>
+  <displayList>
+    <component id="n36_06d7" name="bgTitle" src="kp3w37" fileName="components/CaptainSkillLvUpTitleComp.xml" xy="33,0" size="386,55"/>
+    <image id="n56_kp3w" name="bgBody" src="06d713" fileName="img/xinxiditu.png" xy="15,42" size="719,572"/>
+    <component id="n88_woyg" name="contentComp" src="ipjz3g" fileName="components/CaptainSkillContentComp.xml" xy="59,81" size="632,490"/>
+    <text id="n44_06d7" name="labelLv" xy="400,3" size="111,49" fontSize="36" color="#ddd485" align="right" vAlign="middle" text="已满级">
+      <gearDisplay controller="state" pages="2"/>
+    </text>
+    <component id="n89_ta4f" name="btnLvUp" src="lg0pvvv1gi" fileName="btn/BtnChangGui1WithItemList1.xml" pkg="38fa8c75" xy="161,837" size="428,117" group="n93_ta4f"/>
+    <component id="n92_ta4f" name="btnFull" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="161,834" size="428,122" group="n93_ta4f" touchable="false" grayed="true">
+      <Button title="职业核心99级后可升级" titleFontSize="36"/>
+    </component>
+    <group id="n93_ta4f" name="gBtn" xy="161,834" size="428,122" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="453,44">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="属性展示"/>
+    <remark page="1" value="升级预览"/>
+  </controller>
+  <displayList>
+    <image id="n16_26a5" name="n16" src="xwdvvbb" fileName="img/sd_A_common_shuxingdi1_frame_25.png" xy="0,0" alpha="0.7"/>
+    <loader id="n17_26a5" name="attr_icon" xy="22,20" pivot="0.5,0.5" anchor="true" size="29,29" url="ui://69f29748xwdvvbc" fill="scale" autoSize="true" clearOnPublish="true"/>
+    <text id="n20_xwdv" name="T_name" xy="66,4" pivot="0,0.5" size="55,36" fontSize="26" color="#aabff1" vAlign="middle" text="攻击"/>
+    <text id="n21_xwdv" name="T_num" xy="170,2" pivot="0,0.5" size="78,39" fontSize="28" color="#ffffff" vAlign="middle" leading="0" text="100%">
+      <gearDisplay controller="c1" pages="0,1"/>
+    </text>
+    <image id="n22_xwdv" name="n22" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="263,10">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n19_26a5" name="T_up" xy="288,0" pivot="0,0.5" size="118,39" fontSize="28" color="#03df0e" vAlign="middle" autoSize="none" text="10%                 ">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+</component>

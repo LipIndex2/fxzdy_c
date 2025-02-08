@@ -1,0 +1,251 @@
+
+gw_ganranshizu.png
+size: 194,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 12, 27
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 2, 47
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 107, 4
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 73, 17
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: 180
+  xy: 2, 13
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 161, 37
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 2, 3
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 2, 36
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: true
+  xy: 122, 13
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: true
+  xy: 44, 41
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 45, 70
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: true
+  xy: 138, 4
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 162, 4
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: true
+  xy: 178, 17
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: true
+  xy: 98, 45
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: false
+  xy: 142, 37
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: true
+  xy: 141, 15
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: 180
+  xy: 57, 45
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: true
+  xy: 99, 14
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+J zd26
+  rotate: false
+  xy: 121, 3
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+J zd27
+  rotate: true
+  xy: 26, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+J zd28
+  rotate: true
+  xy: 142, 58
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+J zd29
+  rotate: false
+  xy: 43, 5
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 58, 5
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+J zd30
+  rotate: true
+  xy: 2, 26
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+J zd31
+  rotate: true
+  xy: 177, 37
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+J zd32
+  rotate: false
+  xy: 159, 58
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+J zd33
+  rotate: false
+  xy: 73, 8
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+J zd35
+  rotate: true
+  xy: 162, 17
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 120, 59
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 93, 5
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 177, 57
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 15, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 120, 36
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: true
+  xy: 176, 4
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

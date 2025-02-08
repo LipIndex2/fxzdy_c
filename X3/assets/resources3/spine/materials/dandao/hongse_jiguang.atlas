@@ -1,0 +1,13 @@
+
+hongse_jiguang.png
+size: 69,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dandao
+  rotate: false
+  xy: 2, 2
+  size: 65, 30
+  orig: 72, 30
+  offset: 4, 0
+  index: -1

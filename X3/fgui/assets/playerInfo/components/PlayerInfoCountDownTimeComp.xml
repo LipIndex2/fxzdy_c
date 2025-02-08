@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="98,37">
+  <displayList>
+    <image id="n62_5da5" name="n62" src="5da538" fileName="img/scale_60%_sd_A_common_biaoti1_msg2.png" xy="0,0" size="100,35"/>
+    <image id="n63_5da5" name="n63" src="5da539" fileName="img/sd_A_common_djs_tag_10.png" xy="12,4"/>
+    <text id="n64_5da5" name="labelTime" xy="32,2" pivot="0,0.5" size="56,32" fontSize="22" color="#53e36b" align="center" vAlign="middle" autoSize="none" singleLine="true" text="24天"/>
+  </displayList>
+</component>

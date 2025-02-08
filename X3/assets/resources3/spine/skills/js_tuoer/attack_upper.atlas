@@ -1,0 +1,111 @@
+
+attack_upper.png
+size: 487,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_daoguang_00000
+  rotate: false
+  xy: 2, 171
+  size: 159, 151
+  orig: 160, 160
+  offset: 1, 6
+  index: -1
+effect/attack_daoguang_00001
+  rotate: false
+  xy: 163, 175
+  size: 127, 147
+  orig: 160, 160
+  offset: 1, 6
+  index: -1
+effect/attack_daoguang_00002
+  rotate: false
+  xy: 292, 183
+  size: 76, 139
+  orig: 160, 160
+  offset: 0, 4
+  index: -1
+effect/attack_daoguang_00003
+  rotate: true
+  xy: 163, 111
+  size: 62, 135
+  orig: 160, 160
+  offset: 0, 1
+  index: -1
+effect/attack_daoguang_00004
+  rotate: true
+  xy: 2, 21
+  size: 59, 70
+  orig: 160, 160
+  offset: 1, 1
+  index: -1
+effect/attack_shandian1_00000
+  rotate: false
+  xy: 98, 119
+  size: 52, 50
+  orig: 90, 100
+  offset: 8, 15
+  index: -1
+effect/attack_shandian1_00001
+  rotate: true
+  xy: 2, 82
+  size: 87, 94
+  orig: 90, 100
+  offset: 2, 6
+  index: -1
+effect/attack_shandian1_00002
+  rotate: true
+  xy: 300, 33
+  size: 82, 99
+  orig: 90, 100
+  offset: 2, 0
+  index: -1
+effect/attack_shandian1_00003
+  rotate: true
+  xy: 190, 40
+  size: 69, 84
+  orig: 90, 100
+  offset: 8, 13
+  index: -1
+effect/attack_shandian2_00000
+  rotate: false
+  xy: 190, 2
+  size: 48, 36
+  orig: 110, 110
+  offset: 33, 1
+  index: -1
+effect/attack_shandian2_00001
+  rotate: false
+  xy: 401, 33
+  size: 84, 82
+  orig: 110, 110
+  offset: 10, 1
+  index: -1
+effect/attack_shandian2_00003
+  rotate: true
+  xy: 98, 34
+  size: 75, 90
+  orig: 110, 110
+  offset: 5, 0
+  index: -1
+effect/attack_shandian2_00004
+  rotate: false
+  xy: 370, 217
+  size: 96, 105
+  orig: 110, 110
+  offset: 11, 2
+  index: -1
+effect/attack_shandian2_00005
+  rotate: false
+  xy: 370, 117
+  size: 102, 98
+  orig: 110, 110
+  offset: 2, 8
+  index: -1
+effect/attack_shandian2_00006
+  rotate: false
+  xy: 300, 121
+  size: 44, 60
+  orig: 110, 110
+  offset: 1, 41
+  index: -1

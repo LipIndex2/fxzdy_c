@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="531,93">
+  <displayList>
+    <image id="n39_b419" name="n39" src="105pvv18f" fileName="bgImage/kppydi_blood.png" pkg="38fa8c75" xy="98,59" size="365,23"/>
+    <image id="n40_b419" name="img_jdt" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="101,62" size="359,17"/>
+    <text id="n38_b419" name="T_name" xy="96,21" pivot="0,0.5" size="112,36" fontSize="26" color="#ffcd54" vAlign="middle" strokeColor="#000000" strokeSize="2" text="雷诺碎片"/>
+    <text id="n41_b419" name="T_num" xy="374,23" pivot="1,0.5" size="86,39" fontSize="28" color="#ffffff" align="right" vAlign="middle" text="23/30"/>
+    <component id="n96_dtss" name="btn_Add" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="474,25" size="57,58">
+      <Button icon="ui://38fa8c75105pvv18h"/>
+    </component>
+    <loader id="n98_dtss" name="img_icon" xy="46,46" pivot="0.5,0.5" anchor="true" size="93,93" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

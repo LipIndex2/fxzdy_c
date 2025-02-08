@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,170" pivot="0.5,0.5" extention="Button">
+  <controller name="quality" exported="true" pages="0,,1,,2," selected="0">
+    <remark page="0" value="蓝色"/>
+    <remark page="1" value="紫色"/>
+    <remark page="2" value="黄色"/>
+  </controller>
+  <controller name="isOpen" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="关闭"/>
+    <remark page="1" value="打开"/>
+  </controller>
+  <displayList>
+    <loader id="n35_czc6" name="boxLoader" xy="0,10" size="170,170" url="ui://3cd69509t5gy9l" fill="scale">
+      <gearDisplay controller="isOpen" pages="0"/>
+      <gearIcon controller="quality" pages="0,1,2" values="ui://3cd69509t5gy9l|ui://3cd69509t5gy9m|ui://3cd69509t5gy9n"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n36_t5gy" name="boxOpenLoader" xy="0,0" size="170,170" url="ui://3cd69509t5gy9o" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="isOpen" pages="1"/>
+      <gearIcon controller="quality" pages="0,1,2" values="ui://3cd69509t5gy9o|ui://3cd69509t5gy9p|ui://3cd69509t5gy9q"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n37_qhev" name="iconLock" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="84,85" pivot="0.5,0.5" anchor="true" size="50,62" visible="false">
+      <relation target="" sidePair="width-width%,height-height%,left-left%,top-top%"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

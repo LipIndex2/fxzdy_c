@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <image id="n1_e932" name="n1" src="qzov8" fileName="img/beijing.png" xy="0,279" group="n8_qzov"/>
+    <text id="n4_e932" name="text_heroName" xy="361,388" pivot="0.5,0.5" size="244,52" group="n8_qzov" fontSize="38" color="#aa05ff" align="center" vAlign="middle" text="尼古拉斯·黑洞"/>
+    <text id="n7_e932" name="n7" xy="305,440" size="261,36" group="n8_qzov" fontSize="26" color="#96e8ff" text="星际指挥官前来助阵！"/>
+    <component id="n11_alpb" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="138,573" pivot="0.5,1" anchor="true" size="226,282" group="n8_qzov" touchable="false"/>
+    <group id="n8_qzov" name="group_help" xy="0,279" size="750,352" visible="false" advanced="true"/>
+    <component id="n10_qzov" name="btnBack" src="d4rvvvv1e9" fileName="back/BtnBack75.xml" pkg="38fa8c75" xy="0,1059">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n27_bezo" name="MiniMap" src="v891vvv1er" fileName="miniMap/MiniMapItem.xml" pkg="38fa8c75" xy="32,94" pivot="0.5,0.5" size="263,145" group="n22_v891" touchable="false"/>
+    <image id="n24_bezo" name="n24" src="bezov" fileName="img/mj_xdt 1.png" xy="29,74" group="n22_v891"/>
+    <image id="n13_v891" name="img_jd" src="v891r" fileName="img/duobianxing798.png" xy="43,197" pivot="0.5,0" anchor="true" group="n22_v891"/>
+    <image id="n26_bezo" name="n26" src="v891s" fileName="img/mj4_blood.png" xy="40,220" size="244,25" group="n22_v891" color="#112956" fillMethod="hz"/>
+    <image id="n14_v891" name="img_jdt1" src="v891s" fileName="img/mj4_blood.png" xy="43,222" group="n22_v891" color="#00d2ff" fillMethod="hz"/>
+    <image id="n15_v891" name="img_anim1" src="v891s" fileName="img/mj4_blood.png" xy="43,222" group="n22_v891" alpha="0" fillMethod="hz"/>
+    <text id="n18_v891" name="T_name" xy="112,85" pivot="0.5,0.5" size="105,32" group="n22_v891" fontSize="22" color="#1951b8" align="center" vAlign="middle" text="副本BOSS"/>
+    <image id="n20_v891" name="n20" src="v891u" fileName="img/xiaoguaiwutouxiang.png" xy="264,192" group="n22_v891"/>
+    <group id="n22_v891" name="n22" xy="29,74" size="313,183"/>
+    <component id="n23_tms2" name="buildingBtn" src="rr185" fileName="building/BuildingBtn.xml" pkg="38fa8c75" xy="313,698" visible="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n8_qzov" tween="true" startValue="860,139" endValue="0,279" duration="9" ease="Circ.Out"/>
+  </transition>
+</component>

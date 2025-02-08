@@ -1,0 +1,27 @@
+
+skill02_upper_hou.png
+size: 125,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_ci_01
+  rotate: true
+  xy: 52, 2
+  size: 20, 35
+  orig: 30, 40
+  offset: 4, 3
+  index: -1
+images/effect/skill02_ci_02
+  rotate: true
+  xy: 89, 2
+  size: 20, 34
+  orig: 30, 40
+  offset: 5, 3
+  index: -1
+images/effect/skill02_floor_01
+  rotate: false
+  xy: 2, 5
+  size: 48, 17
+  orig: 50, 20
+  offset: 1, 1
+  index: -1

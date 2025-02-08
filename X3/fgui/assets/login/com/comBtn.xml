@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,58" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n7_q5rm" name="icon" xy="0,0" size="180,58" url="ui://yx9tq9sccs7d2" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n6_k5m5" name="title" xy="-29,-9" size="238,76" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" text="">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".9"/>
+</component>

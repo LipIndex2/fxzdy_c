@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="217,380" designImageOffsetX="-23" designImageOffsetY="-235">
+  <controller name="top3" exported="true" pages="0,0,1,1,2,2,3,3,7,没有数据" selected="0"/>
+  <controller name="havePersonFlag" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <loader id="n32_s8ul" name="n32" xy="0,0" size="217,380"/>
+    <component id="n23_qt2o" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="108,276" pivot="0.5,1" anchor="true" size="378,323" touchable="false">
+      <gearDisplay controller="havePersonFlag" pages="1"/>
+    </component>
+    <image id="n19_c3a6" name="imageRank1" src="gkgvvvv19j" fileName="rank/images/no1_icon.png" pkg="38fa8c75" xy="108,35" pivot="0.5,0.5" anchor="true" group="n21_om4n">
+      <gearDisplay controller="top3" pages="1"/>
+    </image>
+    <image id="n20_om4n" name="imageRank2" src="gkgvvvv19k" fileName="rank/images/no2_icon.png" pkg="38fa8c75" xy="108,36" pivot="0.5,0.5" anchor="true" group="n21_om4n">
+      <gearDisplay controller="top3" pages="2"/>
+    </image>
+    <image id="n22_om4n" name="imageRank3" src="gkgvvvv19l" fileName="rank/images/no3_icon.png" pkg="38fa8c75" xy="108,36" pivot="0.5,0.5" anchor="true" group="n21_om4n">
+      <gearDisplay controller="top3" pages="3"/>
+    </image>
+    <group id="n21_om4n" name="n21" xy="53,1" size="109,69" advanced="true"/>
+    <component id="n31_i83d" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="108,289" pivot="0.5,0.5" anchor="true" group="n30_ov08"/>
+    <text id="n16_c3a6" name="labelPlayerName" xy="106,327" pivot="0.5,0.5" anchor="true" size="10,34" group="n30_ov08" fontSize="24" color="#ffd557" align="center" vAlign="middle" strokeColor="#1a1401" strokeSize="3" text="">
+      <gearColor controller="top3" pages="2,3" values="#d563ff,#1a1401|#58c2ff,#1a1401" default="#ffd557,#1a1401"/>
+    </text>
+    <group id="n30_ov08" name="haveP" xy="38,259" size="140,85" advanced="true">
+      <gearDisplay controller="havePersonFlag" pages="1"/>
+    </group>
+    <text id="n18_c3a6" name="labelRankValue" xy="102,361" pivot="0.5,0.5" anchor="true" size="328,34" group="n27_gkgv" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#070110" strokeSize="3" singleLine="true" text=""/>
+    <group id="n27_gkgv" name="rankValueP" xy="-62,344" size="328,34" advanced="true">
+      <gearDisplay controller="havePersonFlag" pages="1"/>
+    </group>
+    <text id="n28_gkgv" name="labelNoPersonTips" xy="108,175" pivot="0.5,0.5" anchor="true" size="123,42" group="n29_ov08" fontSize="30" color="#6ff1f1" align="center" vAlign="middle" text="虚位以待"/>
+    <group id="n29_ov08" name="noP" xy="46,154" size="123,42" advanced="true">
+      <gearDisplay controller="havePersonFlag" pages="0"/>
+    </group>
+  </displayList>
+</component>

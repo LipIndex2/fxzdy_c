@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,23" extention="ProgressBar">
+  <displayList>
+    <image id="n0_lhcv" name="n0" src="105pvv18f" fileName="bgImage/kppydi_blood.png" pkg="38fa8c75" xy="0,0" size="50,23">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_lhcv" name="bar" src="105pvv18g" fileName="bgImage/kppy_blood.png" pkg="38fa8c75" xy="0,3" size="50,17"/>
+    <text id="n3_lhcv" name="title" xy="25,11" pivot="0.5,0.5" anchor="true" size="81,32" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000306" strokeSize="2" text="20/100">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

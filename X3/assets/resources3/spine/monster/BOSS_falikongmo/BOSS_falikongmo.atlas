@@ -1,0 +1,419 @@
+
+BOSS_falikongmo.png
+size: 599,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd101
+  rotate: 180
+  xy: 30, 50
+  size: 120, 46
+  orig: 120, 46
+  offset: 0, 0
+  index: -1
+J zd103
+  rotate: 270
+  xy: 536, 150
+  size: 154, 43
+  orig: 154, 43
+  offset: 0, 0
+  index: -1
+J zd105
+  rotate: false
+  xy: 420, 18
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+J zd39
+  rotate: false
+  xy: 166, 287
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+J zd40
+  rotate: true
+  xy: 501, 4
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+J zd41
+  rotate: false
+  xy: 358, 112
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+J zd42
+  rotate: false
+  xy: 423, 5
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+J zd43
+  rotate: false
+  xy: 560, 137
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+J zd44
+  rotate: false
+  xy: 388, 131
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+J zd45
+  rotate: false
+  xy: 232, 300
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+J zd46
+  rotate: false
+  xy: 166, 250
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+J zd47
+  rotate: true
+  xy: 562, 269
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+J zd50
+  rotate: false
+  xy: 207, 294
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+J zd51
+  rotate: false
+  xy: 2, 91
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+J zd52
+  rotate: true
+  xy: 395, 106
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+J zd53
+  rotate: true
+  xy: 421, 188
+  size: 117, 123
+  orig: 117, 123
+  offset: 0, 0
+  index: -1
+J zd54
+  rotate: false
+  xy: 444, 296
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+J zd55
+  rotate: false
+  xy: 297, 295
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+J zd56
+  rotate: false
+  xy: 219, 297
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+J zd57
+  rotate: true
+  xy: 341, 54
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+J zd58
+  rotate: true
+  xy: 299, 137
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+J zd59
+  rotate: false
+  xy: 72, 27
+  size: 38, 28
+  orig: 40, 28
+  offset: 2, 0
+  index: -1
+J zd60
+  rotate: 180
+  xy: 489, 273
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+J zd61
+  rotate: true
+  xy: 569, 196
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+J zd62
+  rotate: false
+  xy: 518, 156
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+J zd63
+  rotate: true
+  xy: 444, 216
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+J zd64
+  rotate: false
+  xy: 310, 298
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+J zd65
+  rotate: false
+  xy: 586, 260
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+J zd66
+  rotate: false
+  xy: 410, 138
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+J zd67
+  rotate: false
+  xy: 146, 58
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+J zd68
+  rotate: false
+  xy: 564, 231
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+J zd69
+  rotate: false
+  xy: 402, 279
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+J zd70
+  rotate: 270
+  xy: 239, 97
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+J zd71
+  rotate: true
+  xy: 464, 234
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+J zd72
+  rotate: true
+  xy: 445, 180
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+J zd73
+  rotate: true
+  xy: 311, 164
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+J zd74
+  rotate: true
+  xy: 191, 3
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+J zd75
+  rotate: false
+  xy: 386, 219
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+J zd76
+  rotate: true
+  xy: 166, 268
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+J zd77
+  rotate: 270
+  xy: 166, 59
+  size: 89, 119
+  orig: 90, 122
+  offset: 0, 3
+  index: -1
+J zd79
+  rotate: 270
+  xy: 364, 181
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+J zd81
+  rotate: 180
+  xy: 338, 38
+  size: 115, 63
+  orig: 117, 63
+  offset: 0, 0
+  index: -1
+J zd83
+  rotate: 180
+  xy: 536, 17
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+J zd84
+  rotate: true
+  xy: 112, 24
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+J zd85
+  rotate: true
+  xy: 2, 61
+  size: 71, 144
+  orig: 71, 144
+  offset: 0, 0
+  index: -1
+J zd86
+  rotate: 270
+  xy: 447, 59
+  size: 58, 122
+  orig: 58, 122
+  offset: 0, 0
+  index: -1
+J zd87
+  rotate: true
+  xy: 362, 10
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+J zd88
+  rotate: 180
+  xy: 278, 84
+  size: 131, 62
+  orig: 131, 62
+  offset: 0, 0
+  index: -1
+J zd89
+  rotate: 180
+  xy: 2, 9
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+J zd91
+  rotate: 180
+  xy: 300, 3
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+J zd92
+  rotate: false
+  xy: 404, 248
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+J zd93
+  rotate: false
+  xy: 338, 127
+  size: 134, 60
+  orig: 134, 60
+  offset: 0, 0
+  index: -1
+J zd94
+  rotate: false
+  xy: 164, 11
+  size: 108, 45
+  orig: 108, 45
+  offset: 0, 0
+  index: -1
+J zd95
+  rotate: false
+  xy: 474, 108
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+J zd96
+  rotate: true
+  xy: 166, 126
+  size: 179, 156
+  orig: 179, 156
+  offset: 0, 0
+  index: -1
+J zd97
+  rotate: false
+  xy: 310, 195
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+J zd98
+  rotate: 180
+  xy: 578, 156
+  size: 18, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+J zd99
+  rotate: false
+  xy: 261, 11
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+mohu
+  rotate: false
+  xy: 2, 134
+  size: 163, 171
+  orig: 163, 171
+  offset: 0, 0
+  index: -1

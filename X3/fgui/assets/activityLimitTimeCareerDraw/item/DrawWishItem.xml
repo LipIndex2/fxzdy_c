@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="116,122" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n60_c65a" name="n60" src="teoxz" fileName="img/changgui.png" xy="0,0"/>
+    <image id="n63_teox" name="n63" src="teox12" fileName="img/xuanzhong.png" xy="-6,-6">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <loader id="n64_teox" name="img_career" xy="26,22" pivot="0.5,0.5" size="62,62" url="ui://1d2t7iwtteox10" autoSize="true"/>
+    <text id="n61_c65a" name="T_name" xy="33,90" pivot="0.5,0.5" size="48,32" fontSize="22" color="#569aff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="格斗"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

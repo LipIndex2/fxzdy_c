@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="517,180">
+  <controller name="type" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n16_a3e9" name="n16" xy="0,29" size="517,152" group="n24_105pv" url="ui://89bef6e1a3e911" fill="scaleFree">
+      <gearIcon controller="type" pages="0,1" values="ui://89bef6e1a3e911|ui://89bef6e1ut0gv1f"/>
+    </loader>
+    <richtext id="n17_a3e9" name="T_text" xy="206,82" pivot="0,0.5" size="268,34" group="n24_105pv" fontSize="24" color="#464343" vAlign="middle" ubb="true" autoSize="none" text="哇！！！太厉害了！！！">
+      <gearColor controller="type" pages="1" values="#f3f7f8,#000000" default="#464343,#000000"/>
+    </richtext>
+    <component id="n25_105pv" name="npcHead" src="ut0gv1h" fileName="com/GuideTalkerCom.xml" xy="78,173" pivot="0.5,1" anchor="true" group="n24_105pv"/>
+    <group id="n24_105pv" name="n24" xy="0,29" size="517,152"/>
+  </displayList>
+</component>

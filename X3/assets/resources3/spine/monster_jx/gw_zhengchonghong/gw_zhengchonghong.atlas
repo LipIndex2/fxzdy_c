@@ -1,0 +1,167 @@
+
+gw_zhengchonghong.png
+size: 131,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it_baixing_00
+  rotate: true
+  xy: 100, 34
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: true
+  xy: 110, 40
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+it_baixing_010
+  rotate: false
+  xy: 52, 10
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+it_baixing_011
+  rotate: true
+  xy: 95, 15
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+it_baixing_012
+  rotate: true
+  xy: 55, 34
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+it_baixing_013
+  rotate: false
+  xy: 81, 14
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+it_baixing_014
+  rotate: false
+  xy: 95, 5
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+it_baixing_015
+  rotate: true
+  xy: 2, 6
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+it_baixing_016
+  rotate: true
+  xy: 106, 52
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+it_baixing_017
+  rotate: false
+  xy: 81, 3
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+it_baixing_018
+  rotate: false
+  xy: 86, 34
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+it_baixing_019
+  rotate: true
+  xy: 108, 15
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: true
+  xy: 116, 51
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+it_baixing_020
+  rotate: true
+  xy: 86, 54
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+it_baixing_021
+  rotate: false
+  xy: 2, 20
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+it_baixing_022
+  rotate: true
+  xy: 24, 6
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: true
+  xy: 118, 15
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: false
+  xy: 109, 4
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+it_baixing_05
+  rotate: false
+  xy: 2, 21
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: false
+  xy: 110, 29
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+it_baixing_07
+  rotate: false
+  xy: 120, 5
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: false
+  xy: 121, 36
+  size: 8, 9
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: false
+  xy: 121, 26
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1

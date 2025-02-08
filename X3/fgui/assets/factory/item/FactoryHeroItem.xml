@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="170,150">
+  <displayList>
+    <loader id="n77_kkiq" name="qualityLoader" xy="5,118" pivot="0,1" anchor="true" size="205,123" scale="0.8,0.8" url="ui://3cd69509t5gy94" autoSize="true"/>
+    <loader id="n76_kkiq" name="heroLoader" xy="5,118" pivot="0,1" anchor="true" size="199,148" scale="0.8,0.8" url="ui://3cd69509t5gy93" align="center" fill="scale" autoSize="true" clearOnPublish="true"/>
+    <loader id="n75_kkiq" name="campLoader" xy="20,24" pivot="0.5,0.5" anchor="true" size="40,40" url="ui://3cd69509t5gy95" align="center" vAlign="middle" fill="scale"/>
+    <image id="n13_3cc5" name="n13" src="dtss5p" fileName="frameImage/black2_msg.png" pkg="38fa8c75" xy="4,100" size="331,22" scale="0.5,0.8"/>
+    <list id="n80_t0xc" name="listStar" xy="12,101" size="213,32" scale="0.5,0.5" layout="row" colGap="7" defaultItem="ui://38fa8c75dclx138">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n82_105pv" name="n82" src="t5gy90" fileName="img/jiaobiao.png" xy="117,93" size="64,31" scale="0.8,0.8"/>
+    <text id="n11_3cc5" name="lbName" xy="61,117" size="48,32" fontSize="22" color="#fde963" align="center" vAlign="middle" strokeColor="#130000" strokeSize="2" text="杨戬">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n16_3cc5" name="lbLv" xy="145,106" pivot="0.5,0.5" anchor="true" size="30,32" fontSize="22" align="center" vAlign="middle" leading="0" text="80"/>
+  </displayList>
+</component>

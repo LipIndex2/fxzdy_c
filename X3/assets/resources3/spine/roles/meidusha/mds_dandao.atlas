@@ -1,0 +1,13 @@
+
+mds_dandao.png
+size: 87,20
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dandao
+  rotate: false
+  xy: 2, 2
+  size: 83, 16
+  orig: 83, 16
+  offset: 0, 0
+  index: -1

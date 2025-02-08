@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="state" pages="0,,1,,2,,3,,8," selected="0">
+    <remark page="0" value="升级"/>
+    <remark page="1" value="未解锁"/>
+    <remark page="2" value="已升满"/>
+    <remark page="3" value="不可升级"/>
+    <remark page="4" value="刚解锁"/>
+  </controller>
+  <displayList>
+    <loader id="n0_0d22" name="n0" xy="30,140" size="689,1066" group="n53_lqng" url="ui://84ccd6d60d220"/>
+    <text id="n1_0d22" name="n1" xy="286,154" size="174,58" group="n53_lqng" fontSize="43" color="#31b4ff" strokeColor="#000000" strokeSize="2" text="联盟科技"/>
+    <text id="n2_0d22" name="tips" xy="136,1052" pivot="0.5,0.5" size="475,49" group="n53_lqng" fontSize="36" color="#8db2ff" align="center" strokeColor="#000000" strokeSize="2" text="不同科技总等级不能超过80级">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </text>
+    <image id="n14_0d22" name="n14" src="0d2210" fileName="img/scale_90%_gongmingdengji.png" xy="236,734" group="n53_lqng"/>
+    <text id="n19_0d22" name="skillName" xy="275,748" pivot="0.5,0.5" size="204,42" group="n53_lqng" fontSize="30" color="#0266c3" align="center" vAlign="middle" text="技能名称Lv.12"/>
+    <component id="n20_0d22" name="jobIcon" src="lqng2j" fileName="com/jobCom.xml" xy="374,479" pivot="0.5,0.5" anchor="true" group="n53_lqng" scale="1.2,1.2"/>
+    <component id="n56_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,480" group="n53_lqng"/>
+    <text id="n21_0d22" name="jobName" xy="338,303" pivot="0.5,0.5" size="71,46" group="n53_lqng" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#000206" strokeSize="3" text="重骑"/>
+    <text id="n22_0d22" name="totalLv" xy="304,628" size="128,34" group="n53_lqng" fontSize="24" color="#ffe57c" strokeColor="#000000" strokeSize="3" text="总等级10级"/>
+    <list id="n29_lqng" name="tabList" xy="44,1202" size="657,79" group="n53_lqng" layout="row" colGap="7" defaultItem="ui://84ccd6d6lqng2a">
+      <item icon="ui://84ccd6d6lqng2c"/>
+      <item icon="ui://84ccd6d6lqng2f"/>
+      <item icon="ui://84ccd6d6lqng2e"/>
+      <item icon="ui://84ccd6d6lqng2d"/>
+      <item icon="ui://84ccd6d6lqng2i"/>
+      <item icon="ui://84ccd6d6lqng2h"/>
+    </list>
+    <component id="n3_0d22" name="hole0" src="lqng2b" fileName="btn/holeCell.xml" xy="158,249" group="n31_lqng"/>
+    <component id="n32_lqng" name="hole1" src="lqng2b" fileName="btn/holeCell.xml" xy="68,372" group="n31_lqng"/>
+    <component id="n33_lqng" name="hole2" src="lqng2b" fileName="btn/holeCell.xml" xy="67,511" group="n31_lqng"/>
+    <component id="n34_lqng" name="hole3" src="lqng2b" fileName="btn/holeCell.xml" xy="159,614" group="n31_lqng"/>
+    <component id="n35_lqng" name="hole4" src="lqng2b" fileName="btn/holeCell.xml" xy="504,616" group="n31_lqng"/>
+    <component id="n36_lqng" name="hole5" src="lqng2b" fileName="btn/holeCell.xml" xy="596,511" group="n31_lqng"/>
+    <component id="n37_lqng" name="hole6" src="lqng2b" fileName="btn/holeCell.xml" xy="596,372" group="n31_lqng"/>
+    <component id="n38_lqng" name="hole7" src="lqng2b" fileName="btn/holeCell.xml" xy="508,249" group="n31_lqng"/>
+    <group id="n31_lqng" name="n31" xy="67,249" size="615,482" group="n53_lqng"/>
+    <component id="n55_zzft" name="resourceBtn" src="zzft2x" fileName="header/resoureceBtn.xml" pkg="38fa8c75" xy="479,53" group="n53_lqng"/>
+    <component id="n42_lqng" name="upBtn" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="221,1016" group="n53_lqng">
+      <gearDisplay controller="state" pages="0,8"/>
+      <Button title="升级"/>
+    </component>
+    <image id="n50_lqng" name="n50" src="0d2211" fileName="img/sd_A_common_shuxingdi1_frame.png" xy="125,887" group="n48_lqng" alpha="0.7"/>
+    <loader id="n51_lqng" name="attrIcon" xy="124,883" size="50,50" group="n48_lqng" aspect="true" align="center" vAlign="middle" fill="scale"/>
+    <text id="n46_lqng" name="attrName" xy="194,891" size="107,36" group="n48_lqng" fontSize="26" color="#aabff1" text="重骑防御"/>
+    <text id="n47_lqng" name="currAttrValue" xy="345,892" size="68,39" group="n48_lqng" fontSize="28" color="#ffffff" text="+1% ">
+      <gearColor controller="state" pages="2" values="#07de20,#000000" default="#ffffff,#000000"/>
+    </text>
+    <group id="n48_lqng" name="curAttrCom" xy="124,883" size="289,50" group="n49_lqng" advanced="true"/>
+    <image id="n44_lqng" name="n44" src="0d2223" fileName="img/sd_A_common_jiantou3_btn.png" xy="483,898" group="n52_lqng"/>
+    <text id="n45_lqng" name="nextAttr" xy="544,893" size="78,39" group="n52_lqng" fontSize="28" color="#07de20" text="150%"/>
+    <group id="n52_lqng" name="n52" xy="483,893" size="139,39" group="n49_lqng" advanced="true">
+      <gearDisplay controller="state" pages="0,1,8"/>
+    </group>
+    <group id="n49_lqng" name="n49" xy="124,883" size="498,50" group="n53_lqng" advanced="true"/>
+    <group id="n53_lqng" name="n53" xy="30,53" size="689,1228" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

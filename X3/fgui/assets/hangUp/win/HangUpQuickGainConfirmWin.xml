@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="isPay" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n71_8090" name="bg" xy="65,397" size="619,540" group="n81_r8pu" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n72_8090" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,486" size="557,230" group="n81_r8pu"/>
+    <text id="n80_r8pu" name="labelTitle" xy="321,417" size="131,44" group="n81_r8pu" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="快速挂机"/>
+    <text id="n84_i4ei" name="labelContentPay" xy="301,526" pivot="0.5,0.5" size="55,36" group="n88_i4ei" fontSize="26" color="#ddfbff" align="center" vAlign="middle" singleLine="true" text="消耗"/>
+    <loader id="n85_i4ei" name="imageItem" xy="354,524" pivot="0.5,0.5" size="38,36" group="n87_i4ei" url="ui://38fa8c75j6z934" align="center" vAlign="middle" clearOnPublish="true"/>
+    <text id="n86_i4ei" name="labelCostCount" xy="397,528" size="51,36" group="n87_i4ei" fontSize="26" color="#66ff66" text="300"/>
+    <group id="n87_i4ei" name="n87" xy="354,524" size="94,40" group="n88_i4ei" advanced="true">
+      <relation target="n84_i4ei" sidePair=""/>
+    </group>
+    <group id="n88_i4ei" name="G_pay" xy="301,524" size="147,40" group="n81_r8pu" advanced="true">
+      <gearDisplay controller="isPay" pages="1"/>
+    </group>
+    <text id="n74_8090" name="labelContent2" xy="166,503" pivot="0.5,0.5" size="403,41" group="n81_r8pu" fontSize="26" color="#ddfbff" align="center" vAlign="middle" autoSize="none" text="立即获得120分钟挂机收益"/>
+    <component id="n90_t1qh" name="btnItem" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="517,802" pivot="0.5,0.5" anchor="true" size="288,117" group="n81_r8pu" scale="0.9,0.9">
+      <Button titleFontSize="42"/>
+    </component>
+    <component id="n93_t1qh" name="btnOk" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="217,802" pivot="0.5,0.5" anchor="true" size="288,117" group="n81_r8pu" scale="0.9,0.9">
+      <Button titleFontSize="42"/>
+    </component>
+    <image id="n73_8090" name="bgTime" src="r8pu17k" fileName="img/sd_A_common_dakai1_btn.png" xy="203,669" group="n82_r8pu"/>
+    <text id="n75_8090" name="labelResetTime" xy="262,674" size="257,29" group="n82_r8pu" fontSize="20" color="#fbe266" vAlign="middle" vars="true" text="{time=00:00:00} 后价格和次数重置"/>
+    <image id="n76_8090" name="imageTime" src="r8pu17l" fileName="img/daojishi.png" xy="236,677" group="n82_r8pu"/>
+    <group id="n82_r8pu" name="n82" xy="203,669" size="341,38" group="n81_r8pu"/>
+    <list id="n92_t1qh" name="listReward" xy="375,605" pivot="0.5,0.5" anchor="true" size="500,104" group="n81_r8pu" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n94_gvuz" name="btnAd" src="gvuzvvv1l1" fileName="btn/BtnAdLb.xml" pkg="38fa8c75" xy="97,868" group="n81_r8pu" controller="state,0"/>
+    <group id="n81_r8pu" name="G_all" xy="65,397" size="619,540" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n91_t1qh" name="n91" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,938">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

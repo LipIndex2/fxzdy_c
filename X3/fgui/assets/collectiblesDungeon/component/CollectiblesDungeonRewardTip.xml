@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="201,121">
+  <displayList>
+    <image id="n32_f430" name="n32" src="tml513e" fileName="bgImage/qipao1_frame.png" pkg="38fa8c75" xy="201,60" pivot="1,0.5" anchor="true" size="201,121">
+      <relation target="n37_loj0" sidePair="width-width,height-height"/>
+    </image>
+    <list id="n37_loj0" name="listReward" xy="179,52" pivot="1,0.5" anchor="true" size="160,73" layout="row" overflow="scroll" scrollBarFlags="128" colGap="14" defaultItem="ui://17246473loj011g" align="right" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

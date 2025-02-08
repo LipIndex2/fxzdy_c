@@ -1,0 +1,13 @@
+
+attack_lower.png
+size: 166,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_dilie
+  rotate: false
+  xy: 2, 2
+  size: 162, 44
+  orig: 164, 50
+  offset: 1, 4
+  index: -1

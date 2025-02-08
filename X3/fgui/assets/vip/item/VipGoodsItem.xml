@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,166">
+  <displayList>
+    <image id="n4_f31f" name="n4" src="oc782f" fileName="img/sd_Kkaifuchongbang_liebiao.png" xy="22,16"/>
+    <component id="n9_f31f" name="btnBuy" src="oc782a" fileName="component/VipBuyBtn.xml" xy="513,73"/>
+    <list id="n14_oc78" name="listReward" xy="46,40" size="420,104" layout="row" overflow="scroll" scroll="horizontal" colGap="13" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n12_f31f" name="lbLimit" xy="546,37" pivot="0.5,0.5" size="92,34" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="限购1/1"/>
+    <image id="n15_oc78" name="bgDiscount" src="dusvvvv1fl" fileName="bgImage/v_zgbq.png" pkg="38fa8c75" xy="9,6" size="226,49" group="n17_oc78"/>
+    <text id="n19_kb3a" name="lbDiscount" xy="183,50" pivot="0,1" anchor="true" size="63,42" group="n17_oc78" fontSize="30" color="#fffe80" vAlign="bottom" vars="true" strokeColor="#cf411a" strokeSize="3" text="超值">
+      <relation target="n20_kb3a" sidePair="left-right"/>
+    </text>
+    <text id="n20_kb3a" name="lbDiscountValue" xy="18,56" pivot="0,1" anchor="true" size="166,66" group="n17_oc78" fontSize="50" color="#fffe80" vAlign="bottom" vars="true" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <group id="n17_oc78" name="pDiscount" xy="9,-10" size="237,66" advanced="true"/>
+  </displayList>
+</component>

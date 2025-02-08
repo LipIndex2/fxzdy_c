@@ -1,0 +1,20 @@
+
+gtx_zidang3.png
+size: 110,26
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidang3
+  rotate: false
+  xy: 67, 2
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+zidang3_1
+  rotate: false
+  xy: 2, 6
+  size: 63, 18
+  orig: 69, 18
+  offset: 6, 0
+  index: -1

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1koqeb5n">
+  <displayList>
+    <loader id="n225_b6a2" name="bg" xy="55,251" size="643,822" group="n241_oqeb" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <loader id="n226_b6a2" name="fg" xy="78,338" size="596,707" group="n241_oqeb" url="ui://38fa8c758qld1x" fill="scaleFree"/>
+    <text id="n243_oqeb" name="labelTitle" xy="308,271" size="131,44" group="n241_oqeb" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="防守阵容"/>
+    <image id="n239_b6a2" name="n239" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="99,478" size="554,3" group="n241_oqeb" color="#546eb0"/>
+    <component id="n232_b6a2" name="collectionsComp" src="dbz0vvv1hl" fileName="formation/FormationSkillInfo.xml" pkg="38fa8c75" xy="101,841" group="n241_oqeb"/>
+    <component id="n251_dbz0" name="petComp" src="dbz0vvv1hl" fileName="formation/FormationSkillInfo.xml" pkg="38fa8c75" xy="407,841" group="n241_oqeb"/>
+    <component id="n250_fldf" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="95,358" group="n241_oqeb"/>
+    <text id="n247_ov08" name="labelPlayerName" xy="208,372" size="147,34" group="n241_oqeb" fontSize="24" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n248_ov08" name="labelPowerNum" xy="209,409" size="148,34" group="n241_oqeb" fontSize="24" color="#ffe57c" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <list id="n249_tkxd" name="heroList" xy="101,510" size="696,373" group="n241_oqeb" scale="0.8,0.8" touchable="false" layout="flow_hz" overflow="scroll" lineGap="20" colGap="15" defaultItem="ui://38fa8c75tkxdvvv1c2" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n241_oqeb" name="all" xy="55,251" size="742,822" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

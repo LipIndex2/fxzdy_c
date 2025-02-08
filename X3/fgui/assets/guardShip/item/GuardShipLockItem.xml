@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,32">
+  <controller name="c1" pages="0,,1," selected="1">
+    <remark page="0" value="解锁"/>
+    <remark page="1" value="未解锁"/>
+  </controller>
+  <displayList>
+    <image id="n32_1794" name="n32" src="03e462" fileName="bgImage/gou_btn.png" pkg="38fa8c75" xy="0,2" size="41,29">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n34_1794" name="n34" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="10,4" size="20,25">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n31_1794" name="lbDes" xy="42,0" size="183,32" fontSize="22" color="#95d6ee" align="center" vAlign="middle" text="共鸣等级达到65级">
+      <gearColor controller="c1" pages="1" values="#95d6ee,#000000" default="#3cfe33,#000000"/>
+    </text>
+  </displayList>
+</component>

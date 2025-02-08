@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,180" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n11_r58c" name="itemFrame" src="dtss4k" fileName="item/ItemFrameBtn.xml" xy="8,71"/>
+    <image id="n12_rsg0" name="bg" src="rsg0vvv1gl" fileName="img/sd_A_common_qipao-_huang.png" xy="46,-1" pivot="0,1" group="n14_rsg0"/>
+    <text id="n13_rsg0" name="lb" xy="70,9" pivot="0,1" size="143,36" group="n14_rsg0" fontSize="26" color="#eb610c" vAlign="middle" text="月卡免费送!"/>
+    <group id="n14_rsg0" name="bubble" xy="46,-1" size="193,68" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="t2">
+    <item time="0" type="Scale" target="n12_rsg0" tween="true" startValue="0,0" endValue="1.063,1.063" duration="7"/>
+    <item time="0" type="Scale" target="n13_rsg0" tween="true" startValue="0,0" endValue="1.06,1.06" duration="7"/>
+    <item time="8" type="Scale" target="n12_rsg0" value="1,1"/>
+    <item time="8" type="Scale" target="n13_rsg0" value="1,1.06"/>
+  </transition>
+</component>

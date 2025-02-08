@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="238,263" designImage="ui://7q3fcj1klupes92" designImageOffsetX="-264" designImageOffsetY="-322">
+  <controller name="quality" pages="0,,1,,2,,3,,4,,5," selected="0">
+    <remark page="1" value="蓝"/>
+    <remark page="2" value="紫"/>
+    <remark page="3" value="橙"/>
+    <remark page="4" value="红"/>
+    <remark page="5" value="彩"/>
+  </controller>
+  <controller name="showDi" exported="true" pages="0,,1," selected="1">
+    <remark page="0" value="显示底座"/>
+    <remark page="1" value="不显示底座"/>
+  </controller>
+  <displayList>
+    <loader id="n14_a01c" name="itemIcon" xy="24,-33" pivot="0.5,1" size="188,188" url="ui://7q3fcj1kpmhws9b" align="center" vAlign="bottom" fill="scale" clearOnPublish="true"/>
+    <loader id="n7_a01c" name="n7" xy="-4,39" size="237,171" url="ui://tkr2g69tlupe2" clearOnPublish="true">
+      <gearDisplay controller="showDi" pages="0"/>
+      <gearIcon controller="quality" pages="0,1,2,3,4" values="ui://tkr2g69tlupe2|ui://tkr2g69tlupe2|ui://tkr2g69tlupe3|ui://tkr2g69tlupe6|ui://tkr2g69tlupe5" default="ui://tkr2g69tlupe4"/>
+    </loader>
+    <text id="n21_a01c" name="lv" xy="153,121" pivot="0.5,0.5" size="58,42" group="n222_lupe" fontSize="30" color="#ffea01" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="+10"/>
+    <list id="n215_lupe" name="list_star1" xy="11,167" pivot="0.5,0.5" size="200,32" group="n222_lupe" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n222_lupe" name="showItem" xy="11,121" size="200,78" advanced="true"/>
+  </displayList>
+</component>

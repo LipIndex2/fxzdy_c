@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="536,110">
+  <controller name="type" pages="0,left,1,center,2,right" selected="0"/>
+  <displayList>
+    <component id="n35_buys" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="-9,-8" size="120,104" group="n36_buys" scale="0.8,0.8">
+      <gearXY controller="type" pages="2" values="428,-8" default="-9,-8"/>
+    </component>
+    <text id="n34_91d6" name="textPlayerNameL" xy="100,0" size="113,32" group="n42_nl4g" fontSize="22" color="#adc8f8" vAlign="middle" text="无敌美少女"/>
+    <image id="n46_lb79" name="bgContentL" src="lb790" fileName="skin/qipao1.png" pkg="gq5ugm3u" xy="84,6" size="420,120" group="n42_nl4g">
+      <relation target="n33_91d6" sidePair="width-width,height-height"/>
+    </image>
+    <richtext id="n33_91d6" name="textContentL" xy="138,45" size="312,42" group="n42_nl4g" fontSize="22" color="#3250a6" vAlign="middle" ubb="true" autoSize="none" autoClearText="true" text="哇哇哇 [img]ui://6bce377291d627[/img]"/>
+    <group id="n42_nl4g" name="G_L" xy="84,0" size="420,126" group="n36_buys" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <text id="n43_ppu1" name="textPlayerNameR" xy="188,0" pivot="1,0" size="250,32" group="n41_nl4g" fontSize="22" color="#adc8f8" align="right" vAlign="middle" autoSize="none" text="无敌美少女"/>
+    <image id="n45_lb79" name="bgContentR" src="lb790" fileName="skin/qipao1.png" pkg="gq5ugm3u" xy="448,6" size="420,120" group="n41_nl4g" scale="-1,1">
+      <relation target="n39_nl4g" sidePair="width-width,height-height"/>
+    </image>
+    <richtext id="n39_nl4g" name="textContentR" xy="82,44" pivot="1,0" size="313,42" group="n41_nl4g" fontSize="22" color="#3250a6" vAlign="middle" ubb="true" autoSize="none" autoClearText="true" text="哇哇哇 [img]ui://6bce377291d627[/img]"/>
+    <group id="n41_nl4g" name="G_R" xy="82,0" size="786,126" group="n36_buys" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+    </group>
+    <group id="n36_buys" name="G_content" xy="-9,-8" size="877,134" advanced="true">
+      <gearDisplay controller="type" pages="0,2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <text id="n37_buys" name="textTime" xy="120,39" pivot="0.5,0.5" size="261,32" group="n38_buys" fontSize="22" color="#9fc3eb" align="center" vAlign="middle" autoSize="none" text="7-22   15:30"/>
+    <group id="n38_buys" name="G_center" xy="120,39" size="261,32" advanced="true">
+      <gearDisplay controller="type" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,13 @@
+
+tiaotiaoqishou_skill01_lower.png
+size: 111,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_floor_01
+  rotate: false
+  xy: 2, 2
+  size: 107, 11
+  orig: 120, 20
+  offset: 6, 4
+  index: -1

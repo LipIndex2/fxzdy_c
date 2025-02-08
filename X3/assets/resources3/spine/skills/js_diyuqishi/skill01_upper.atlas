@@ -1,0 +1,195 @@
+
+skill01_upper.png
+size: 896,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_daoguang_00000
+  rotate: false
+  xy: 677, 42
+  size: 180, 55
+  orig: 272, 220
+  offset: 42, 39
+  index: -1
+effect/skill01_daoguang_00001
+  rotate: false
+  xy: 262, 89
+  size: 143, 87
+  orig: 272, 220
+  offset: 94, 47
+  index: -1
+effect/skill01_daoguang_00002
+  rotate: false
+  xy: 135, 208
+  size: 67, 127
+  orig: 272, 220
+  offset: 169, 78
+  index: -1
+effect/skill01_daoguang_00003
+  rotate: false
+  xy: 426, 189
+  size: 250, 143
+  orig: 272, 220
+  offset: 17, 64
+  index: -1
+effect/skill01_daoguang_00004
+  rotate: false
+  xy: 463, 534
+  size: 245, 187
+  orig: 272, 220
+  offset: 8, 16
+  index: -1
+effect/skill01_daoguang_00005
+  rotate: false
+  xy: 2, 522
+  size: 233, 199
+  orig: 272, 220
+  offset: 15, 6
+  index: -1
+effect/skill01_daoguang_00006
+  rotate: false
+  xy: 463, 334
+  size: 212, 198
+  orig: 272, 220
+  offset: 18, 5
+  index: -1
+effect/skill01_daoguang_00007
+  rotate: true
+  xy: 677, 334
+  size: 198, 194
+  orig: 272, 220
+  offset: 20, 6
+  index: -1
+effect/skill01_daoguang_00008
+  rotate: false
+  xy: 2, 337
+  size: 202, 183
+  orig: 272, 220
+  offset: 22, 13
+  index: -1
+effect/skill01_daoguang_00009
+  rotate: false
+  xy: 206, 347
+  size: 220, 167
+  orig: 272, 220
+  offset: 24, 22
+  index: -1
+effect/skill01_daoguang_00010
+  rotate: false
+  xy: 206, 178
+  size: 218, 167
+  orig: 272, 220
+  offset: 24, 22
+  index: -1
+effect/skill01_daoguang_00011
+  rotate: false
+  xy: 678, 172
+  size: 216, 160
+  orig: 272, 220
+  offset: 23, 22
+  index: -1
+effect/skill01_daoguang_00012
+  rotate: false
+  xy: 677, 99
+  size: 185, 71
+  orig: 272, 220
+  offset: 48, 30
+  index: -1
+effect/skill01_daoguang_00013
+  rotate: false
+  xy: 710, 553
+  size: 182, 35
+  orig: 272, 220
+  offset: 50, 33
+  index: -1
+effect/skill01_huan1
+  rotate: true
+  xy: 237, 516
+  size: 205, 224
+  orig: 256, 256
+  offset: 43, 11
+  index: -1
+effect/skill01_huan_00000
+  rotate: true
+  xy: 850, 675
+  size: 46, 14
+  orig: 150, 150
+  offset: 47, 12
+  index: -1
+effect/skill01_huan_00001
+  rotate: false
+  xy: 472, 25
+  size: 78, 42
+  orig: 150, 150
+  offset: 51, 11
+  index: -1
+effect/skill01_huan_00002
+  rotate: false
+  xy: 262, 8
+  size: 91, 79
+  orig: 150, 150
+  offset: 55, 12
+  index: -1
+effect/skill01_huan_00003
+  rotate: true
+  xy: 2, 2
+  size: 85, 116
+  orig: 150, 150
+  offset: 64, 13
+  index: -1
+effect/skill01_huan_00004
+  rotate: true
+  xy: 426, 69
+  size: 118, 132
+  orig: 150, 150
+  offset: 26, 13
+  index: -1
+effect/skill01_huan_00005
+  rotate: false
+  xy: 710, 590
+  size: 138, 131
+  orig: 150, 150
+  offset: 6, 12
+  index: -1
+effect/skill01_huan_00006
+  rotate: false
+  xy: 2, 212
+  size: 131, 123
+  orig: 150, 150
+  offset: 5, 17
+  index: -1
+effect/skill01_huan_00007
+  rotate: false
+  xy: 2, 89
+  size: 129, 121
+  orig: 150, 150
+  offset: 4, 17
+  index: -1
+effect/skill01_huan_00008
+  rotate: false
+  xy: 133, 61
+  size: 127, 115
+  orig: 150, 150
+  offset: 6, 19
+  index: -1
+effect/skill01_huan_00009
+  rotate: false
+  xy: 560, 71
+  size: 115, 116
+  orig: 150, 150
+  offset: 12, 17
+  index: -1
+effect/skill01_huan_00010
+  rotate: true
+  xy: 355, 7
+  size: 60, 115
+  orig: 150, 150
+  offset: 17, 18
+  index: -1
+effect/skill01_huan_00011
+  rotate: true
+  xy: 560, 14
+  size: 55, 114
+  orig: 150, 150
+  offset: 18, 18
+  index: -1

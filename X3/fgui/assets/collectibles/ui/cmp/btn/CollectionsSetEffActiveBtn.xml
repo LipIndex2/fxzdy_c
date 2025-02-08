@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="103,42" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n71_lupe" name="n71" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="150,61" scale="0.69,0.69"/>
+    <text id="n72_lupe" name="t1" xy="25,4" pivot="0.5,0.5" size="52,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="激活"/>
+    <component id="n74_6v98" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="194,13"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

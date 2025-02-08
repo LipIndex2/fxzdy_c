@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <text id="n0_t1qh" name="lbLv" xy="36,41" pivot="1,1" size="39,29" fontSize="20" color="#ffffff" align="right" vAlign="middle" strokeColor="#011420" strokeSize="2" text="Lv1"/>
+  </displayList>
+</component>

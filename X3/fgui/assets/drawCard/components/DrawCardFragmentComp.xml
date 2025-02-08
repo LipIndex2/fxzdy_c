@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="342,44">
+  <displayList>
+    <image id="n9_457b" name="bg" src="gsa5s6n" fileName="img2/sd_A_common_changgui4_btndakai1_btn.png" xy="0,6"/>
+    <text id="n10_457b" name="labelTitle" xy="22,10" size="200,32" fontSize="22" color="#ffffff" vAlign="middle" text="重复获得，已转化为"/>
+    <loader id="n11_457b" name="imgSmallItem" xy="227,0" pivot="0.5,0.5" size="39,39" url="ui://e93efac4gsa5s6o" align="center" fill="scale"/>
+    <text id="n12_gsa5" name="labelItemCount" xy="275,10" size="44,32" fontSize="22" color="#ffffff" vAlign="middle" text="×10"/>
+  </displayList>
+</component>

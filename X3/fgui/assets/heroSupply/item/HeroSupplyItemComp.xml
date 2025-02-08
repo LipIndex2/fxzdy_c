@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,200">
+  <controller name="isGain" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n16_4b21" name="adapt_bg" src="4b215" fileName="img/paizi.png" xy="0,0"/>
+    <component id="n25_lnj7" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="24,54"/>
+    <text id="n19_4b21" name="labelDayL" xy="16,-4" pivot="0.5,0.5" size="25,42" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" strokeColor="#b25b0d" strokeSize="3" singleLine="true" text="第"/>
+    <richtext id="n27_lnj7" name="labelDay" xy="43,-4" pivot="0,0.5" size="24,45" fontSize="33" color="#ffffff" align="center" vAlign="middle" ubb="true" strokeColor="#b25b0d" strokeSize="3" singleLine="true" text="1"/>
+    <text id="n26_lnj7" name="labelDayR" xy="67,-4" pivot="0.5,0.5" size="34,42" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" strokeColor="#b25b0d" strokeSize="3" singleLine="true" text="天">
+      <relation target="n27_lnj7" sidePair="left-right"/>
+    </text>
+    <text id="n21_4b21" name="labelItemCount" xy="70,164" pivot="1,0.5" size="74,32" fontSize="22" color="#ffffff" align="right" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="2" text="x999"/>
+    <image id="n22_4b21" name="n22" src="jqxis99" fileName="chat/liaotian_frame.png" pkg="72zq62ea" xy="0,0" size="149,196" group="n24_lnj7" alpha="0.5"/>
+    <image id="n23_4b21" name="n23" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="50,84" group="n24_lnj7"/>
+    <group id="n24_lnj7" name="G_isGain" xy="0,0" size="149,196" advanced="true">
+      <gearDisplay controller="isGain" pages="1"/>
+    </group>
+    <component id="n28_a8h3" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="75,100" size="164,216" touchable="false"/>
+    <component id="n29_a8h3" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-4,-6" size="156,205"/>
+  </displayList>
+</component>

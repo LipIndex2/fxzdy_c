@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n4_894b" name="n4" src="894b4" fileName="leagueMain/img/sd_A_common_liaotian_frame.png" xy="17,1037" group="n34_h90v" alpha="0.34"/>
+    <image id="n7_894b" name="n7" src="894b6" fileName="leagueMain/img/sd_A_common_shuzi_msg.png" xy="45,1030" group="n34_h90v"/>
+    <image id="n9_894b" name="n9" src="894b7" fileName="leagueMain/img/sd_A_common_liaotian_framekaobei.png" xy="17,1096" group="n34_h90v" alpha="0.34"/>
+    <text id="n5_894b" name="n5" xy="80,1042" size="440,29" group="n34_h90v" fontSize="20" color="#32b9ff" text="【世界】巴拉巴拉：巴拉巴拉巴拉吧啦吧！巴拉巴"/>
+    <image id="n6_894b" name="n6" src="894b5" fileName="leagueMain/img/sd_A_common_liaotian_btn.png" xy="23,1041" group="n34_h90v"/>
+    <text id="n8_894b" name="n8" xy="45,1030" size="25,26" group="n34_h90v" fontSize="18" color="#ffffff" strokeColor="#b11515" strokeSize="2" text="99"/>
+    <group id="n34_h90v" name="n34" xy="17,1030" size="717,166" group="n38_wq7z"/>
+    <component id="n35_h90v" name="noticeCom" src="h90v2j" fileName="leagueMain/com/leagueNoticeCom.xml" xy="15,1097" group="n38_wq7z"/>
+    <component id="n36_h90v" name="shopBtn" src="h90v2b" fileName="leagueMain/btn/shopBtn.xml" xy="646,969" group="n38_wq7z"/>
+    <component id="n37_h90v" name="challengeBtn" src="h90v2a" fileName="leagueMain/btn/challengeBtn.xml" xy="641,842" group="n38_wq7z"/>
+    <group id="n38_wq7z" name="n38" xy="15,842" size="725,355" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

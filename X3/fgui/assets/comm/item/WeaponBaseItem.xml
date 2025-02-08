@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <displayList>
+    <loader id="n6_abqc" name="bg" xy="0,0" size="104,104" url="ui://38fa8c75f0d84"/>
+    <loader id="n7_abqc" name="iconLoader" xy="0,0" pivot="0.5,0.5" size="104,104" align="center" vAlign="middle"/>
+    <image id="n10_abqc" name="bgStar" src="dtss5p" fileName="frameImage/black2_msg.png" xy="0,76" size="104,28"/>
+    <list id="n11_abqc" name="listIcon" xy="0,82" size="190,29" scale="0.55,0.55" layout="row" selectionMode="none" defaultItem="ui://38fa8c75a0033" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_dbz0" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="94,8" controller="type,2"/>
+  </displayList>
+</component>

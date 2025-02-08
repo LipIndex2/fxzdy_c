@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="state" exported="true" pages="0,,4,,1,,2,,3," selected="0">
+    <remark page="0" value="未初始化"/>
+    <remark page="1" value="空闲状态"/>
+    <remark page="2" value="未被占领"/>
+    <remark page="3" value="已占领"/>
+    <remark page="4" value="可领取"/>
+  </controller>
+  <controller name="quality" pages="3,,0,,1,,2," selected="0">
+    <remark page="0" value="无"/>
+    <remark page="1" value="蓝色"/>
+    <remark page="2" value="紫色"/>
+    <remark page="3" value="黄色"/>
+  </controller>
+  <displayList>
+    <loader id="n58_t5gy" name="bg" xy="0,-280" size="750,1626" url="ui://7cvz7rmmt5gyvv1w" align="center" vAlign="middle" fill="scale">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <image id="n42_czc6" name="top_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-318" pivot="0.5,0.5" anchor="true" size="750,250" color="#1d1e22">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n43_czc6" name="bottom_bg1" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1458" pivot="0.5,0.5" anchor="true" size="750,400" color="#313540" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <loader id="n67_lb79" name="topLoader" xy="375,25" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,1,2" values="|ui://3cd69509lb799z|ui://3cd69509lb79a0" default="ui://3cd69509lb799y"/>
+    </loader>
+    <loader id="n68_lb79" name="light1" xy="224,474" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" scale="-1,1" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,0,1,2" values="|ui://3cd69509lb799v|ui://3cd69509lb799w|ui://3cd69509lb799x"/>
+    </loader>
+    <loader id="n74_lb79" name="light2" xy="527,474" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,0,1,2" values="|ui://3cd69509lb799v|ui://3cd69509lb799w|ui://3cd69509lb799x"/>
+    </loader>
+    <loader id="n75_lb79" name="light3" xy="224,687" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" scale="-1,1" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,0,1,2" values="|ui://3cd69509lb799v|ui://3cd69509lb799w|ui://3cd69509lb799x"/>
+    </loader>
+    <loader id="n76_lb79" name="light4" xy="527,687" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,0,1,2" values="|ui://3cd69509lb799v|ui://3cd69509lb799w|ui://3cd69509lb799x"/>
+    </loader>
+    <loader id="n77_lb79" name="light5" xy="224,898" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" scale="-1,1" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,0,1,2" values="|ui://3cd69509lb799v|ui://3cd69509lb799w|ui://3cd69509lb799x"/>
+    </loader>
+    <loader id="n78_lb79" name="light6" xy="527,898" pivot="0.5,0.5" anchor="true" size="50,50" group="n79_lb79" align="center" vAlign="middle">
+      <gearIcon controller="quality" pages="3,0,1,2" values="|ui://3cd69509lb799v|ui://3cd69509lb799w|ui://3cd69509lb799x"/>
+    </loader>
+    <group id="n79_lb79" name="gQuality" xy="199,0" size="353,923" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n66_lb79" name="spineTrans" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,662">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n19_czc6" name="shadow1" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="187,395" pivot="0.5,0.5" anchor="true" group="n26_czc6" scale="0.6,0.6"/>
+    <image id="n21_czc6" name="shadow2" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="565,396" pivot="0.5,0.5" anchor="true" group="n26_czc6" scale="0.6,0.6"/>
+    <image id="n22_czc6" name="shadow3" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="188,598" pivot="0.5,0.5" anchor="true" group="n26_czc6" scale="0.6,0.6"/>
+    <image id="n23_czc6" name="shadow4" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="565,598" pivot="0.5,0.5" anchor="true" group="n26_czc6" scale="0.6,0.6"/>
+    <image id="n24_czc6" name="shadow5" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="188,798" pivot="0.5,0.5" anchor="true" group="n26_czc6" scale="0.6,0.6"/>
+    <image id="n25_czc6" name="shadow6" src="jy2z14s" fileName="battleImage/battleImage_shadow_big.png" pkg="u3tpmdwf" xy="565,798" pivot="0.5,0.5" anchor="true" group="n26_czc6" scale="0.6,0.6"/>
+    <group id="n26_czc6" name="gShadow" xy="90,360" size="571,472" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n27_czc6" name="hero1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="188,396" size="1,1" group="n33_czc6" scale="-1.6,1.6"/>
+    <component id="n28_czc6" name="hero2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="565,396" group="n33_czc6" scale="1.6,1.6"/>
+    <component id="n29_czc6" name="hero3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="188,598" size="1,1" group="n33_czc6" scale="-1.6,1.6"/>
+    <component id="n30_czc6" name="hero4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="565,598" group="n33_czc6" scale="1.6,1.6"/>
+    <component id="n31_czc6" name="hero5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="188,798" size="1,1" group="n33_czc6" scale="-1.6,1.6"/>
+    <component id="n32_czc6" name="hero6" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="565,798" group="n33_czc6" scale="1.6,1.6"/>
+    <group id="n33_czc6" name="gHero" xy="187,395" size="378,403" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n41_czc6" name="pTrans" src="czc68u" fileName="component/FactoryTransPanel.xml" xy="287,191">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n35_czc6" name="btnBox" src="t5gy9k" fileName="component/FactoryBoxBtn.xml" xy="375,1070" pivot="0.5,0.5" anchor="true" group="n39_czc6">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </component>
+    <component id="n38_czc6" name="boxProgress" src="czc68t" fileName="component/FactoryProgressBar.xml" xy="255,1177" group="n39_czc6">
+      <gearDisplay controller="state" pages="2"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n37_czc6" name="lbBoxTime" xy="374,1158" pivot="0.5,0.5" anchor="true" size="111,34" group="n39_czc6" fontSize="24" color="#ff5050" align="center" vAlign="middle" text="00:00:00">
+      <gearDisplay controller="state" pages="4,2"/>
+    </text>
+    <text id="n60_t5gy" name="lbCanDraw" xy="374,1196" pivot="0.5,0.5" anchor="true" size="75,34" group="n39_czc6" fontSize="24" color="#ffdc5e" align="center" vAlign="middle" text="可领取">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <component id="n80_t1qh" name="btnAttack" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="375,1257" pivot="0.5,0.5" anchor="true" group="n39_czc6" scale="0.9,0.9"/>
+    <group id="n39_czc6" name="gBox" xy="222,985" size="306,330" advanced="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+    <component id="n47_czc6" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="464,61" size="200,48" controller="isTop,1">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <list id="n48_czc6" name="listOccupy" xy="16,454" size="204,500" overflow="scroll" scrollBarFlags="128" defaultItem="ui://3cd69509czc68w" vAlign="bottom" autoClearItems="true">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n63_qhev" name="n63" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="18,972" size="199,40" group="n65_qhev" alpha="0.6"/>
+    <text id="n64_qhev" name="lbOccupyCnt" xy="117,992" pivot="0.5,0.5" anchor="true" size="75,34" group="n65_qhev" fontSize="24" color="#4fe8fa" align="center" vAlign="middle" text="占领中"/>
+    <group id="n65_qhev" name="gOccupyCnt" xy="18,972" size="199,40" advanced="true">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </group>
+    <component id="n81_t1qh" name="bubbleComp" src="t1qha2" fileName="component/FactoryOtherBubble.xml" xy="260,930">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

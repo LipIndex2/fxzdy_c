@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n30_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,739" pivot="0.5,1" anchor="true" size="880,742"/>
+    <text id="n32_t5gy" name="lbName" xy="375,822" pivot="0.5,0.5" anchor="true" size="192,52" fontSize="38" color="#ffde5a" align="center" vAlign="middle" text="优质生产线"/>
+    <text id="n33_t5gy" name="lbSuccess" xy="375,876" pivot="0.5,0.5" anchor="true" size="154,52" fontSize="38" color="#ffde5a" align="center" vAlign="middle" text="占领成功"/>
+    <text id="n14_pocb" name="labelCloseTips" xy="302,1232" size="143,29" fontSize="20" color="#fffefe" singleLine="true" text="点击空白处关闭"/>
+    <component id="n34_t5gy" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="570,1168"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n14_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n32_t5gy" value="0"/>
+    <item time="0" type="Alpha" target="n33_t5gy" value="0"/>
+    <item time="0" type="Alpha" target="n34_t5gy" value="0"/>
+    <item time="0" type="XY" target="n34_t5gy" value="570,1218"/>
+    <item time="62" type="Alpha" target="n14_pocb" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="Alpha" target="n32_t5gy" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="Alpha" target="n33_t5gy" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="Alpha" target="n34_t5gy" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="XY" target="n14_pocb" tween="true" startValue="302,1272,0.403,0.954" endValue="302,1233,0.403,0.924" duration="5"/>
+    <item time="62" type="XY" target="n34_t5gy" tween="true" startValue="570,1218,0.76,0.913" endValue="570,1168" duration="5"/>
+  </transition>
+</component>

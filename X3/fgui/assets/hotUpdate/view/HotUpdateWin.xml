@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n10_8a7o" name="adapt_bg" xy="375,667" pivot="0.5,0.5" anchor="true" size="750,1626" url="ui://7cvz7rmm105pv1f" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <image id="n3_8a7o" name="n3" src="8a7o4" fileName="img/dl_di2.png" xy="80,493" size="590,349" group="n6_8a7o" alpha="0.7"/>
+    <image id="n4_8a7o" name="n4" src="8a7o3" fileName="img/dl_di.png" xy="80,492" size="590,86" group="n6_8a7o"/>
+    <text id="n7_8a7o" name="n7" xy="178,534" pivot="0.5,0.5" anchor="true" size="132,42" group="n6_8a7o" fontSize="30" color="#dbdbe4" vAlign="middle" autoSize="none" text="更新"/>
+    <component id="n2_8a7o" name="confirmBtn" src="8a7o2" fileName="com/comBtn.xml" xy="255,739" group="n6_8a7o">
+      <Button title="更新"/>
+    </component>
+    <text id="n8_8a7o" name="contentTxt" xy="375,661" pivot="0.5,0.5" anchor="true" size="294,42" group="n6_8a7o" fontSize="30" color="#dbdbe4" vAlign="middle" ubb="true" vars="true" text="本次更新内容为{num=100M}"/>
+    <text id="n9_8a7o" name="progressTxt" xy="651,534" pivot="1,0.5" anchor="true" size="10,42" group="n6_8a7o" fontSize="30" color="#dbdbe4" vAlign="middle" autoClearText="true" text=""/>
+    <group id="n6_8a7o" name="n6" xy="80,492" size="590,350" advanced="true"/>
+  </displayList>
+</component>

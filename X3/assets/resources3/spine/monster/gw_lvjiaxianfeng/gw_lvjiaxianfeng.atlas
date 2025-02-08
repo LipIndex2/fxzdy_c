@@ -1,0 +1,160 @@
+
+gw_lvjiaxianfeng.png
+size: 150,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 107, 28
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 49, 27
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 20, 3
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 138, 40
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 78, 20
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 138, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 2, 17
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 78, 40
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: true
+  xy: 33, 11
+  size: 14, 21
+  orig: 15, 22
+  offset: 1, 1
+  index: -1
+J zd17
+  rotate: false
+  xy: 31, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: true
+  xy: 107, 47
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 2, 34
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 106, 13
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 134, 53
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: true
+  xy: 81, 7
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 56, 6
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 120, 3
+  size: 8, 8
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 2, 4
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 103, 4
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 33, 29
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 41, 4
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 131, 9
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

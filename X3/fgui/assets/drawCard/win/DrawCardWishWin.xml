@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="749,1334">
+  <displayList>
+    <image id="n11_bbeb" name="n11" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,290" size="619,751" group="n41_e6dc"/>
+    <image id="n12_bbeb" name="n12" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,385" size="572,629" group="n41_e6dc"/>
+    <image id="n13_bbeb" name="n13" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="99,686" size="547,315" group="n41_e6dc"/>
+    <image id="n27_bbeb" name="n27" src="rxmb56" fileName="img/touxiang_frame.png" xy="268,456" group="n41_e6dc" alpha="0.58"/>
+    <text id="n25_bbeb" name="T_counts" xy="215,404" pivot="0.5,0.5" size="318,36" group="n41_e6dc" fontSize="26" color="#ddfbff" align="center" vAlign="middle" autoClearText="true" text="30次星际招募必得心愿英雄">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n26_bbeb" name="n26" xy="309,315" pivot="0.5,0.5" size="131,44" group="n41_e6dc" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="心愿英雄">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n30_bbeb" name="T_tips" xy="339,594" pivot="0.5,0.5" size="69,32" group="n41_e6dc" fontSize="22" color="#bdd8e5" align="center" vAlign="middle" strokeColor="#1a234b" strokeSize="3" text="未选择"/>
+    <component id="n42_e6dc" name="n42" src="rxmb58" fileName="btn/BtnAddHero1.xml" xy="311,477" group="n41_e6dc" scale="0.8,0.8" touchable="false" controller="c1,1"/>
+    <component id="n43_e6dc" name="heroItem" src="odo57g" fileName="item/HeroItem.xml" pkg="38fa8c75" xy="319,485" group="n41_e6dc" scale="0.8,0.8" visible="false"/>
+    <list id="n40_rxmb" name="list_hero" xy="112,700" size="616,344" group="n41_e6dc" scale="0.85,0.85" layout="flow_hz" overflow="scroll" lineGap="10" colGap="30" defaultItem="ui://38fa8c75odo57g">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n41_e6dc" name="n41" xy="65,290" size="663,754" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n44_vdae" name="n44" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="331,1065">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

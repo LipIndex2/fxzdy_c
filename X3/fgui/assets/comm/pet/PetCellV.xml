@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="140,186" extention="Button" designImage="ui://7q3fcj1kuvvcs7x" designImageOffsetX="-27" designImageOffsetY="-994" designImageAlpha="0">
+  <controller name="state" exported="true" pages="0,,1,,2," selected="0">
+    <remark page="0" value="未解锁"/>
+    <remark page="1" value="未解锁，可合成"/>
+    <remark page="2" value="已解锁"/>
+  </controller>
+  <controller name="choseState" pages="0,,1," selected="0">
+    <remark page="0" value="未选中"/>
+    <remark page="1" value="选中"/>
+  </controller>
+  <displayList>
+    <loader id="n8_06d7" name="bg" xy="8,18" pivot="0,1" size="122,164" url="ui://7q3fcj1kbpcis89" fill="scaleFree" playing="false" clearOnPublish="true">
+      <gearSize controller="choseState" pages="1" values="122,181,1,1" default="122,164,1,1"/>
+    </loader>
+    <loader id="n9_06d7" name="petIcon" xy="13,134" pivot="0,1" anchor="true" size="112,112" url="ui://7q3fcj1kbpcis88" autoSize="true" clearOnPublish="true"/>
+    <image id="n83_uvvc" name="n83" src="dx6evvv1l3" fileName="bgImage/xlpy_zz.png" xy="8,19" pivot="0.5,1" size="122,163" group="n85_uvvc" alpha="0.5">
+      <gearDisplay controller="state" pages="0,1"/>
+      <gearSize controller="choseState" pages="0,1" values="122,163,1,1|122,180,1,1"/>
+    </image>
+    <image id="n92_uvvc" name="n92" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" xy="10,76" size="120,32" group="n85_uvvc" alpha="0.54">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <text id="n84_uvvc" name="n84" xy="19,139" pivot="0,0.5" size="75,34" group="n85_uvvc" fontSize="24" color="#bfc6cb" vAlign="middle" strokeColor="#131313" strokeSize="2" text="未解锁">
+      <gearDisplay controller="state" pages="0,1"/>
+    </text>
+    <text id="n91_uvvc" name="n91" xy="35,76" size="69,32" group="n85_uvvc" fontSize="22" color="#ffd042" vAlign="middle" text="可合成">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <group id="n85_uvvc" name="state" xy="8,19" size="122,163"/>
+    <list id="n93_uvvc" name="stars" xy="-44,126" pivot="0.5,0.5" size="224,60" scale="0.5,0.5" layout="row" overflow="scroll" colGap="8" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <gearDisplay controller="state" pages="2"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n95_dx6e" name="n95" src="dx6evvv1kz" fileName="img/xlpy_xz.png" xy="0,-6" size="138,196">
+      <gearDisplay controller="choseState" pages="1"/>
+    </image>
+    <component id="n94_lg0p" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="119,32" controller="type,2">
+      <relation target="n83_uvvc" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button/>
+</component>

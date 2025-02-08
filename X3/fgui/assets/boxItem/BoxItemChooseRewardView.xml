@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kvdaes8o">
+  <displayList>
+    <component id="n53_smh7" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="38,158" size="674,1008" group="n51_na34"/>
+    <image id="n42_972a" name="background" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="36,159" size="678,1006" group="n51_na34"/>
+    <image id="n25_3cd6" name="imageDetailsBackground" src="3cd619" fileName="bgImage/tisp2_frame.png" pkg="38fa8c75" xy="63,356" size="625,571" group="n51_na34"/>
+    <image id="n48_ukhs" name="imageDetailsTitle" src="dtss5z" fileName="bgImage/biaoti_msg.png" pkg="38fa8c75" xy="279,379" size="191,41" group="n51_na34" color="#34405a"/>
+    <text id="n27_3cd6" name="labelDetailsTitle" xy="374,399" pivot="0.5,0.5" anchor="true" size="99,34" group="n51_na34" fontSize="24" color="#fcf0d2" vAlign="middle" vars="true" text="{title=宝箱详情}"/>
+    <text id="n28_3cd6" name="labelTitle" xy="226,211" size="161,53" group="n51_na34" fontSize="39" color="#db83ff" letterSpacing="1" strokeColor="#000000" strokeSize="2" text="神话英雄"/>
+    <component id="n52_9gqu" name="desc" src="9gqus9b" fileName="text/CommonScrollText.xml" pkg="72zq62ea" xy="229,267" size="417,85" group="n51_na34"/>
+    <list id="n38_972a" name="rewardItemList" xy="76,445" size="497,361" group="n51_na34" scale="1.2,1.2" layout="flow_hz" overflow="scroll" margin="0,0,10,10" lineGap="22" colGap="26" lineItemCount="4" defaultItem="ui://38fa8c75vdaevvv1hv" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n46_vdkj" name="labelHaveCount" xy="216,902" size="301,39" group="n51_na34" visible="false" fontSize="22" color="#ffd879" align="center" vAlign="middle" vars="true" autoSize="none" text="{title=当前拥有}: {useCount=0}/{maxCount=0}"/>
+    <component id="n47_fsx5" name="buttonUse" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="225,1025" size="304,122" group="n51_na34" scale="0.9,0.9">
+      <Button title="使用" titleFontSize="56"/>
+    </component>
+    <component id="n50_wfol" name="itemPreviewIconView" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="89,210" group="n51_na34" scale="1.2,1.2"/>
+    <component id="n54_vdae" name="chooseItem" src="vdaevvv1hw" fileName="progressBar/ButtonBoxChooseCountView2.xml" pkg="38fa8c75" xy="112,951" group="n51_na34"/>
+    <group id="n51_na34" name="G_all" xy="36,158" size="678,1008" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

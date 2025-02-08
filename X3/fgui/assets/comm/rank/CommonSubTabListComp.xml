@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,68">
+  <displayList>
+    <image id="n0_caj9" name="n0" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" xy="22,2" size="708,58"/>
+    <list id="n10_caj9" name="btnList" xy="21,0" size="716,67" layout="row" defaultItem="ui://38fa8c75caj9vvv1cu" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

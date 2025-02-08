@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,100">
+  <displayList>
+    <component id="n0_eowx" name="scoreComp" src="eowx36" fileName="dailyTask/TaskProgressBarScoreTitleCompent.xml" xy="8,67"/>
+    <component id="n7_wfol" name="itemPart" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="-22,-21" scale="0.6,0.6"/>
+    <component id="n8_db4z" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="31,32" size="58,60" controller="type,13"/>
+  </displayList>
+</component>

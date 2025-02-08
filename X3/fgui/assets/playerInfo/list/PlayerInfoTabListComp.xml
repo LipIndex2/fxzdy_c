@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="579,80">
+  <displayList>
+    <image id="n0_d299" name="bg" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="3,8" size="575,63"/>
+    <list id="n2_d299" name="tabList" xy="3,3" size="574,73" layout="row" colGap="2" defaultItem="ui://d4f26126d2997d" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

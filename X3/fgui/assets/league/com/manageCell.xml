@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="568,128">
+  <controller name="state" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n3_be1a" name="n3" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="568,128"/>
+    <component id="n16_h90v" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="12,12" size="104,104" aspect="true" scale="0.84,0.84"/>
+    <text id="n6_be1a" name="nameLab" xy="116,19" size="135,32" fontSize="22" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n12_be1a" name="fightLab" xy="116,52" size="136,32" fontSize="22" color="#ffe57c" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <list id="n15_h90v" name="jobList" xy="340,31" size="194,77" layout="row" colGap="56" defaultItem="ui://6be81224h90v10r">
+      <item title="盟主"/>
+      <item title="副盟主"/>
+      <item title="成员"/>
+    </list>
+    <component id="n17_h90v" name="removeBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="72,73" size="28,28">
+      <Button icon="ui://6be81224be1a16"/>
+    </component>
+    <text id="n18_h90v" name="onLineLab" xy="117,87" size="40,26" group="n20_h90v" fontSize="18" color="#3bdf84" strokeColor="#013401" strokeSize="2" text="在线">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <text id="n19_h90v" name="dayOutLab" xy="118,87" size="50,26" group="n20_h90v" fontSize="18" color="#aeb7d0" strokeColor="#1c1c1c" strokeSize="2" text="1天前">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <group id="n20_h90v" name="n20" xy="117,87" size="51,26" advanced="true"/>
+  </displayList>
+</component>

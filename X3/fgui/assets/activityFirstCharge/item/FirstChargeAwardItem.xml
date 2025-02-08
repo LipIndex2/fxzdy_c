@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="510,149">
+  <controller name="c1" pages="0,待领取,1,可领取,2,已领取,17,未激活" selected="1"/>
+  <displayList>
+    <image id="n21_df6e" name="n21" src="df6e13" fileName="img/tiao_2.png" xy="0,0" group="n41_v891"/>
+    <text id="n22_df6e" name="T_day" xy="43,0" pivot="0.5,0.5" size="78,34" group="n41_v891" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="第 1 天"/>
+    <list id="n42_v891" name="list_award" xy="15,47" size="375,103" group="n41_v891" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="14" defaultItem="ui://38fa8c75dtss4k">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n43_v891" name="btn_get" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="338,62" size="153,57" group="n41_v891">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button title="领 取" titleFontSize="28"/>
+    </component>
+    <image id="n31_df6e" name="n31" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="369,73" size="92,33" group="n41_v891">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+    <text id="n44_v891" name="n44" xy="379,69" pivot="0.5,0.5" size="75,34" group="n41_v891" fontSize="24" color="#77778a" align="center" vAlign="middle" text="待领取">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n45_v891" name="T_tips" xy="333,35" pivot="0.5,0.5" size="166,24" group="n41_v891" fontSize="16" color="#43458c" align="center" vAlign="middle" text="通关挂机50可立即领取">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n46_v891" name="n46" xy="379,69" pivot="0.5,0.5" size="75,34" group="n41_v891" fontSize="24" color="#77778a" align="center" vAlign="middle" text="待激活">
+      <gearDisplay controller="c1" pages="17"/>
+    </text>
+    <group id="n41_v891" name="n41" xy="0,0" size="510,150"/>
+    <component id="n47_c3wz" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="478,67"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" tween="true" startValue="0" endValue="1" duration="11"/>
+  </transition>
+</component>

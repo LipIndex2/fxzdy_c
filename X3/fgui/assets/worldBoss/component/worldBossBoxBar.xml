@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="421,9" extention="ProgressBar">
+  <displayList>
+    <image id="n20_uug0" name="bar" src="uug013u" fileName="img/sjboss_biood.png" xy="0,0" size="421,9"/>
+  </displayList>
+  <ProgressBar/>
+</component>

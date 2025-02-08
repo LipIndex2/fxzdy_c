@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n0_p04m" name="n0" xy="33,132" size="682,1070" group="n4_p04m" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n3_p04m" name="n3" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="55,219" size="638,957" group="n4_p04m"/>
+    <list id="n1_p04m" name="list_rec" xy="69,235" size="611,923" group="n4_p04m" overflow="scroll" lineGap="14" defaultItem="ui://410b0b71p04m11s" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n2_p04m" name="n2" xy="307,157" size="131,44" group="n4_p04m" fontSize="32" color="#ffffff" vAlign="middle" leading="0" strokeColor="#1a3773" strokeSize="3" text="推荐阵容"/>
+    <group id="n4_p04m" name="n4" xy="33,132" size="682,1070" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n5_vdae" name="n5" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1227">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,125 @@
+
+attack_bullet_upper.png
+size: 242,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_zidan
+  rotate: false
+  xy: 138, 2
+  size: 32, 29
+  orig: 40, 40
+  offset: 4, 5
+  index: -1
+effect/attack_zidan1_00000
+  rotate: false
+  xy: 2, 92
+  size: 64, 30
+  orig: 80, 36
+  offset: 7, 2
+  index: -1
+effect/attack_zidan1_00001
+  rotate: false
+  xy: 2, 92
+  size: 64, 30
+  orig: 80, 36
+  offset: 7, 2
+  index: -1
+effect/attack_zidan1_00002
+  rotate: false
+  xy: 139, 94
+  size: 63, 31
+  orig: 80, 36
+  offset: 5, 2
+  index: -1
+effect/attack_zidan1_00003
+  rotate: false
+  xy: 2, 124
+  size: 65, 33
+  orig: 80, 36
+  offset: 6, 1
+  index: -1
+effect/attack_zidan1_00004
+  rotate: true
+  xy: 214, 14
+  size: 66, 26
+  orig: 80, 36
+  offset: 6, 8
+  index: -1
+effect/attack_zidan1_00005
+  rotate: false
+  xy: 144, 65
+  size: 68, 27
+  orig: 80, 36
+  offset: 5, 7
+  index: -1
+effect/attack_zidan1_00006
+  rotate: false
+  xy: 145, 127
+  size: 68, 30
+  orig: 80, 36
+  offset: 5, 5
+  index: -1
+effect/attack_zidan1_00007
+  rotate: false
+  xy: 128, 33
+  size: 58, 30
+  orig: 80, 36
+  offset: 5, 5
+  index: -1
+effect/attack_zidan1_00008
+  rotate: false
+  xy: 2, 60
+  size: 61, 30
+  orig: 80, 36
+  offset: 5, 5
+  index: -1
+effect/attack_zidan1_00009
+  rotate: false
+  xy: 65, 36
+  size: 61, 29
+  orig: 80, 36
+  offset: 7, 6
+  index: -1
+effect/attack_zidan1_00010
+  rotate: false
+  xy: 2, 8
+  size: 66, 26
+  orig: 80, 36
+  offset: 4, 8
+  index: -1
+effect/attack_zidan1_00011
+  rotate: false
+  xy: 70, 6
+  size: 66, 25
+  orig: 80, 36
+  offset: 4, 8
+  index: -1
+effect/attack_zidan1_00012
+  rotate: false
+  xy: 68, 67
+  size: 74, 25
+  orig: 80, 36
+  offset: 1, 6
+  index: -1
+effect/attack_zidan1_00013
+  rotate: true
+  xy: 215, 82
+  size: 75, 25
+  orig: 80, 36
+  offset: 2, 5
+  index: -1
+effect/attack_zidan1_00014
+  rotate: false
+  xy: 69, 129
+  size: 74, 28
+  orig: 80, 36
+  offset: 3, 4
+  index: -1
+effect/attack_zidan1_00015
+  rotate: false
+  xy: 69, 98
+  size: 68, 29
+  orig: 80, 36
+  offset: 7, 3
+  index: -1

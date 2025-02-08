@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,139" pivot="0.5,0.5" extention="Button">
+  <controller name="isUnlock" pages="0,,1," selected="0"/>
+  <controller name="isInBg" exported="true" pages="0,无,1,挂机中,2,后台完成" selected="0"/>
+  <displayList>
+    <loader id="n49_phyf" name="spineRoot" xy="19,7" pivot="0.5,1" size="116,132" group="n51_pocb" scale="1.5,1.5" clearOnPublish="true"/>
+    <image id="n54_pocb" name="bgTitle" src="pocbv17j" fileName="footerImage/guajiguanqia_title_bg.png" xy="0,89" size="161,54" group="n51_pocb"/>
+    <text id="n57_ry80" name="labelLock" xy="36,85" size="91,49" group="n58_ry80" fontSize="36" color="#ffffff" align="center" ubb="true" vars="true" autoSize="none" singleLine="true" text="挂机"/>
+    <group id="n58_ry80" name="G_lock" xy="36,85" size="91,49" group="n51_pocb" advanced="true">
+      <gearDisplay controller="isUnlock" pages="0"/>
+      <gearDisplay2 controller="isInBg" pages="0" condition="0"/>
+    </group>
+    <list id="n65_ppu1" name="charList" xy="5,89" size="84,40" group="n63_nl4g" layout="row" overflow="scroll" scroll="horizontal" colGap="-12" defaultItem="ui://38fa8c75ppu1vvv1f6" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n61_nl4g" name="labelLevelId" xy="81,85" size="78,49" group="n63_nl4g" fontSize="36" color="#46efff" vAlign="middle" strokeColor="#263e7e" strokeSize="2" text=" 530"/>
+    <text id="n62_nl4g" name="labelAddLevelCount" xy="150,64" size="30,32" group="n63_nl4g" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#00040f" strokeSize="2" text="+1"/>
+    <group id="n63_nl4g" name="G_inBg" xy="5,64" size="175,70" group="n51_pocb" advanced="true">
+      <gearDisplay controller="isInBg" pages="1"/>
+      <gearDisplay2 controller="isUnlock" pages="1" condition="0"/>
+    </group>
+    <text id="n48_6b29" name="labelDesc" xy="1,93" size="74,34" group="n59_ry80" fontSize="24" color="#a8c1ef" align="center" ubb="true" vars="true" autoSize="none" singleLine="true" text="进度: "/>
+    <text id="n50_phyf" name="labelTitle" xy="77,78" size="168,49" group="n59_ry80" fontSize="36" color="#ffffff" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="{levelName=12-3}">
+      <relation target="n48_6b29" sidePair="left-right"/>
+    </text>
+    <group id="n59_ry80" name="G_unlock" xy="1,78" size="244,49" group="n51_pocb" advanced="true">
+      <gearDisplay controller="isUnlock" pages="1"/>
+      <gearDisplay2 controller="isInBg" pages="0" condition="0"/>
+    </group>
+    <text id="n66_ppu1" name="labelInBgEnd" xy="-2,95" size="160,35" group="n67_ppu1" fontSize="22" color="#dae5ff" align="center" ubb="true" vars="true" autoSize="none" singleLine="true" text="委托结束 !"/>
+    <group id="n67_ppu1" name="G_inBgEnd" xy="-2,95" size="160,35" group="n51_pocb" advanced="true">
+      <gearDisplay controller="isUnlock" pages="1"/>
+      <gearDisplay2 controller="isInBg" pages="2" condition="0"/>
+    </group>
+    <group id="n51_pocb" name="n51" xy="-2,7" size="247,136" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+    <component id="n68_wvxj" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="158,3" controller="type,0"/>
+    <component id="n69_hqyb" name="btnDialog" src="hqybvvv1fv" fileName="hangUp/HangUpGainBoxDialogBtn.xml" xy="130,-169" visible="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <transition name="passInBg">
+    <item time="0" type="Alpha" target="n62_nl4g" tween="true" startValue="1" endValue="1" duration="8"/>
+    <item time="0" type="XY" target="n62_nl4g" tween="true" startValue="150,60" endValue="150,40" duration="30"/>
+    <item time="8" type="Alpha" target="n62_nl4g" tween="true" startValue="1" endValue="0" duration="22"/>
+  </transition>
+</component>

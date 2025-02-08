@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="kgeugj0m">
+  <resources>
+    <component id="dx6e0" name="PetGroupListItem.xml" path="/view/mainView/"/>
+    <image id="dx6e1" name="xljb_tiao.png" path="/img/" scale9grid="54,248,405,49"/>
+    <component id="dx6e2" name="GroupDetailBtn.xml" path="/com/"/>
+    <image id="dx6e3" name="xljb_fangda.png" path="/img/"/>
+    <component id="dx6e4" name="PetGroupShowNode.xml" path="/com/"/>
+    <image id="dx6e6" name="xljb_mzd1_15.png" path="/img/"/>
+    <component id="dx6e7" name="PetGroupView.xml" path="/view/mainView/"/>
+    <image id="dx6e8" name="tuceng3.jpg" path="/img/"/>
+    <component id="dx6ej" name="PetGroupAddInfoView.xml" path="/view/groupAddInfo/"/>
+    <component id="dx6en" name="PetGroupAddDescLIstItem.xml" path="/view/groupAddInfo/"/>
+    <image id="dx6eo" name="bantoudi.png" path="/img/" scale="9grid" scale9grid="12,12,24,24"/>
+    <component id="dx6ep" name="PetGroupUpAddItem.xml" path="/view/groupUpInfo/"/>
+    <component id="dx6eq" name="PetGroupUpInfoView.xml" path="/view/groupUpInfo/"/>
+    <image id="dx6er" name="bg.jpg" path="/img/"/>
+    <image id="dx6es" name="xljb_xingxidi2.png" path="/img/"/>
+    <image id="dx6et" name="xljb_guang.png" path="/img/"/>
+    <image id="dx6eu" name="di.png" path="/img/"/>
+    <image id="dx6ev" name="xljb_xingxidi1.png" path="/img/"/>
+    <image id="dx6ew" name="xljb_zhi1.png" path="/img/"/>
+    <image id="dx6ex" name="xljb_zhi2.png" path="/img/"/>
+    <component id="dx6ey" name="PetGroupShowNode2.xml" path="/com/"/>
+    <image id="dx6ez" name="zi.png" path="/img/diZuo/"/>
+    <image id="dx6e10" name="cai.png" path="/img/diZuo/"/>
+    <image id="dx6e11" name="cheng.png" path="/img/diZuo/"/>
+    <image id="dx6e12" name="hong.png" path="/img/diZuo/"/>
+    <image id="dx6e13" name="hui.png" path="/img/diZuo/"/>
+    <image id="dx6e14" name="lan.png" path="/img/diZuo/"/>
+    <image id="dx6e15" name="lv.png" path="/img/diZuo/"/>
+    <component id="dx6e16" name="PetGroupAddAttrListItem.xml" path="/com/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

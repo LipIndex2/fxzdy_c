@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,129">
+  <controller name="top3" pages="0,,1,1,2,2,3,3" selected="0"/>
+  <displayList>
+    <image id="n20_ae97" name="bg" src="eowx7p" fileName="bgImage/lb7_frame.png" pkg="38fa8c75" xy="0,0" size="600,129"/>
+    <image id="n59_caj9" name="fg" src="ae9714" fileName="img/juxing41_53.png" xy="2,3" size="135,122"/>
+    <text id="n58_ffqt" name="labelRankNumRange" xy="7,43" pivot="0.5,0.5" size="125,49" fontSize="36" color="#59c3fe" align="center" vAlign="middle" autoSize="shrink" strokeColor="#070110" strokeSize="2" singleLine="true" text="4-8">
+      <gearDisplay controller="top3" pages="0"/>
+    </text>
+    <image id="n22_ae97" name="top1" src="ae9715" fileName="img/zu1304kaobei_52.png" xy="14,34" group="n62_caj9">
+      <gearDisplay controller="top3" pages="1"/>
+    </image>
+    <image id="n61_caj9" name="n61" src="ae9720" fileName="img/zu1303kaobei2_44.png" xy="14,34" group="n62_caj9">
+      <gearDisplay controller="top3" pages="2"/>
+    </image>
+    <image id="n60_caj9" name="n60" src="ae9721" fileName="img/zu13011kaobei_35.png" xy="14,34" group="n62_caj9">
+      <gearDisplay controller="top3" pages="3"/>
+    </image>
+    <group id="n62_caj9" name="n62" xy="14,34" size="109,68"/>
+    <component id="n63_caj9" name="itemList" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="149,9"/>
+  </displayList>
+</component>

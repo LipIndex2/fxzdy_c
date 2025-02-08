@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="state" pages="1,,2," selected="0">
+    <remark page="0" value="有记录"/>
+    <remark page="1" value="没有记录"/>
+  </controller>
+  <displayList>
+    <component id="n22_t5gy" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="54,38" size="643,1241" group="n21_t5gy"/>
+    <image id="n1_51a6" name="n1" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,38" size="643,1241" group="n21_t5gy"/>
+    <image id="n2_51a6" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,127" size="596,988" group="n21_t5gy"/>
+    <text id="n3_51a6" name="n3" xy="374,84" pivot="0.5,0.5" anchor="true" size="67,44" group="n21_t5gy" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="战报"/>
+    <list id="n17_t5gy" name="listRecord" xy="91,147" size="568,960" group="n21_t5gy" overflow="scroll" lineGap="14" defaultItem="ui://3cd69509t5gy9b" autoClearItems="true">
+      <gearDisplay controller="state" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n15_51a6" name="n15" src="qhevvvv1gi" fileName="bgImage/kong_tag.png" pkg="38fa8c75" xy="243,505" group="n18_t5gy" alpha="0.7"/>
+    <text id="n16_51a6" name="n16" xy="368,708" pivot="0.5,0.5" anchor="true" size="91,32" group="n18_t5gy" fontSize="22" color="#99b6ff" vAlign="middle" text="暂无战报"/>
+    <group id="n18_t5gy" name="gNone" xy="243,505" size="253,219" group="n21_t5gy" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+    </group>
+    <component id="n19_t5gy" name="btnDelAll" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="228,1192" pivot="0.5,0.5" anchor="true" size="306,122" group="n21_t5gy" scale="0.8,0.8">
+      <Button title="删除已读"/>
+    </component>
+    <component id="n20_t5gy" name="btnReadAll" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="524,1192" pivot="0.5,0.5" anchor="true" size="306,122" group="n21_t5gy" scale="0.8,0.8">
+      <Button title="一键已读"/>
+    </component>
+    <group id="n21_t5gy" name="gAll" xy="54,38" size="643,1241" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <text id="n23_vdae" name="n23" xy="290,1300" pivot="0.5,0.5" size="170,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="点击空白处关闭">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

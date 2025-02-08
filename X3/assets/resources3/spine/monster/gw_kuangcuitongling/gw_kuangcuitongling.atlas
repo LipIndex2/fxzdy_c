@@ -1,0 +1,293 @@
+
+gw_kuangcuitongling.png
+size: 146,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: true
+  xy: 131, 123
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 66, 188
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 67, 200
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+js011
+  rotate: true
+  xy: 86, 134
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 113, 178
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 131, 140
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+js014
+  rotate: false
+  xy: 107, 22
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+js015
+  rotate: true
+  xy: 83, 46
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+js016
+  rotate: true
+  xy: 128, 80
+  size: 19, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 43, 7
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+js018
+  rotate: false
+  xy: 114, 156
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+js019
+  rotate: false
+  xy: 90, 202
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 15, 243
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+js020
+  rotate: false
+  xy: 2, 90
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+js021
+  rotate: false
+  xy: 2, 48
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+js022
+  rotate: false
+  xy: 131, 111
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+js023
+  rotate: false
+  xy: 130, 22
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+js024
+  rotate: true
+  xy: 113, 86
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+js025
+  rotate: false
+  xy: 87, 112
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+js026
+  rotate: true
+  xy: 86, 170
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+js027
+  rotate: true
+  xy: 122, 231
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+js028
+  rotate: false
+  xy: 2, 182
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+js029
+  rotate: false
+  xy: 130, 34
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 90, 238
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+js030
+  rotate: false
+  xy: 107, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+js031
+  rotate: false
+  xy: 82, 80
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+js032
+  rotate: true
+  xy: 54, 111
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+js033
+  rotate: true
+  xy: 2, 6
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+js034
+  rotate: false
+  xy: 125, 3
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+js035
+  rotate: true
+  xy: 83, 9
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+js036
+  rotate: false
+  xy: 2, 237
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+js037
+  rotate: true
+  xy: 133, 198
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+js038
+  rotate: true
+  xy: 130, 158
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+js039
+  rotate: true
+  xy: 113, 53
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 114, 132
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+js041
+  rotate: true
+  xy: 114, 111
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 49, 48
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+js06
+  rotate: true
+  xy: 90, 215
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+js07
+  rotate: true
+  xy: 51, 146
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 107, 201
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 2, 134
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1

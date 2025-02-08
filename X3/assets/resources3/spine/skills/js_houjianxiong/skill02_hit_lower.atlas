@@ -1,0 +1,20 @@
+
+skill02_hit_lower.png
+size: 312,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_ring2
+  rotate: false
+  xy: 170, 4
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+images/effect/skill02_ring3
+  rotate: false
+  xy: 2, 2
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1

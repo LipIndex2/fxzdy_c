@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="619,597">
+  <displayList>
+    <image id="n29_71c5" name="n29" src="71c521" fileName="img/sd_A_common_tc1_frame.png" xy="0,0"/>
+    <image id="n30_71c5" name="n30" src="htcc3w" fileName="img/sd_A_common_tc2_frame.png" xy="22,89"/>
+    <image id="n31_71c5" name="n31" src="71c523" fileName="img/mryh_tiao.png" xy="37,107"/>
+    <image id="n32_71c5" name="n32" src="htcc3p" fileName="img/scale_90%_sd_A_common_red_frame.png" xy="55,123"/>
+    <image id="n33_71c5" name="n33" src="htcc3z" fileName="img/tubiao.png" xy="71,138"/>
+    <text id="n34_71c5" name="n34" xy="54,255" size="384,34" fontSize="24" color="#ddfbff" vAlign="middle" text="道具描述描述描述描述描述描述描述"/>
+    <text id="n35_71c5" name="n35" xy="121,197" size="28,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="10"/>
+    <text id="n36_71c5" name="n36" xy="170,136" size="162,44" fontSize="32" color="#fde963" vAlign="middle" strokeColor="#000000" strokeSize="3" text="大量钻石箱"/>
+    <text id="n37_71c5" name="n37" xy="171,180" size="164,36" fontSize="26" color="#ffffff" vAlign="middle" text="剩余数量：99"/>
+    <image id="n38_71c5" name="n38" src="htcc3o" fileName="img/scale_90%_sd_A_common_changgui1_btn.png" xy="172,436"/>
+    <text id="n39_71c5" name="n39" xy="265,477" size="91,59" fontSize="44" color="#ffffff" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="购买"/>
+    <text id="n40_71c5" name="n40" xy="300,444" size="58,42" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="100"/>
+    <image id="n41_71c5" name="n41" src="9dao46" fileName="img/icgoods_10001.png" xy="256,439"/>
+    <text id="n42_71c5" name="n42" xy="213,544" size="210,36" fontSize="26" color="#59ff51" vAlign="middle" text="（包含首购折扣）"/>
+    <image id="n43_71c5" name="n43" src="htcc3n" fileName="img/scale_70%_sd_A_common_biaoti1_msg2.png" xy="160,364" alpha="0.5"/>
+    <image id="n44_71c5" name="n44" src="be4141" fileName="img/sd_A_common_jia2_btn.png" xy="342,356"/>
+    <image id="n45_71c5" name="n45" src="be4142" fileName="img/sd_A_common_zuida_btn.png" xy="403,356"/>
+    <image id="n46_71c5" name="n46" src="be4143" fileName="img/sd_A_common_jian1_btn.png" xy="129,356"/>
+    <text id="n47_71c5" name="n47" xy="241,370" size="38,39" fontSize="28" color="#aae2ff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="20"/>
+    <text id="n48_71c5" name="n48" xy="280,25" size="67,44" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="兑换"/>
+  </displayList>
+</component>

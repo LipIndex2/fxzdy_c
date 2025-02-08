@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n24_s8ul" name="n24" xy="32,138" size="682,1038" group="n25_s8ul" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n3_cfb0" name="n3" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,225" size="638,926" group="n25_s8ul"/>
+    <component id="n26_lupe" name="n26" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1183" group="n25_s8ul"/>
+    <text id="n13_cfb0" name="n13" xy="305,164" pivot="0.5,0.5" size="131,44" group="n25_s8ul" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="功能预告"/>
+    <list id="n23_s8ul" name="list_award" xy="69,242" size="614,892" group="n25_s8ul" overflow="scroll" lineGap="15" defaultItem="ui://fcf03b84s8ul16" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n25_s8ul" name="n25" xy="32,138" size="682,1135" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

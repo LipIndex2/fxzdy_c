@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="150,230">
+  <displayList>
+    <image id="n1_3bca" name="n1" src="d63c3" fileName="bg/kongcao.png" pkg="38fa8c75" xy="0,46" group="n71_q6dm"/>
+    <loader id="n74_q6dm" name="img_frame" xy="16,70" pivot="0.5,0.5" size="104,104" group="n71_q6dm" url="ui://38fa8c75f0d84" autoSize="true"/>
+    <loader id="n72_q6dm" name="img_item" xy="14,70" pivot="0.5,0.5" size="104,104" group="n71_q6dm" touchable="false" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n7_3bca" name="img_suo" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="19,73" group="n71_q6dm" scale="0.5,0.5"/>
+    <text id="n4_3bca" name="T_name" xy="22,186" pivot="0.5,0.5" size="91,32" group="n71_q6dm" fontSize="22" color="#d364f6" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="无敌魔方"/>
+    <text id="n77_q6dm" name="T_level" xy="86,141" pivot="1,0.5" size="28,29" group="n71_q6dm" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000105" strokeSize="2" text="+1"/>
+    <group id="n71_q6dm" name="n71" xy="0,46" size="136,184"/>
+  </displayList>
+</component>

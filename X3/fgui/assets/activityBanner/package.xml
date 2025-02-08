@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="me82kx3q">
+  <resources>
+    <component id="jhsh0" name="ActivityBannerWin.xml" path="/view/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

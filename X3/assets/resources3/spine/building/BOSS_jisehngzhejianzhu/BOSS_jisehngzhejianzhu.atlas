@@ -1,0 +1,111 @@
+
+BOSS_jisehngzhejianzhu.png
+size: 960,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 371, 230
+  size: 265, 170
+  orig: 265, 170
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 719, 204
+  size: 291, 117
+  orig: 291, 118
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: 180
+  xy: 679, 26
+  size: 234, 72
+  orig: 234, 72
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 222, 73
+  size: 155, 168
+  orig: 155, 178
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 2, 116
+  size: 218, 131
+  orig: 220, 133
+  offset: 1, 1
+  index: -1
+J zd15
+  rotate: false
+  xy: 2, 249
+  size: 367, 246
+  orig: 367, 246
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: 180
+  xy: 392, 32
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 135, 4
+  size: 114, 109
+  orig: 114, 109
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 2, 35
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 509, 3
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 712, 95
+  size: 245, 107
+  orig: 245, 107
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: true
+  xy: 543, 268
+  size: 227, 174
+  orig: 228, 174
+  offset: 1, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 484, 84
+  size: 171, 229
+  orig: 171, 229
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 931, 284
+  size: 9, 211
+  orig: 11, 215
+  offset: 1, 1
+  index: -1
+guang2
+  rotate: true
+  xy: 838, 214
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1

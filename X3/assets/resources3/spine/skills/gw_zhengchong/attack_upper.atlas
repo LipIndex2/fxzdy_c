@@ -1,0 +1,62 @@
+
+attack_upper.png
+size: 199,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/zhenchong1_00001
+  rotate: false
+  xy: 82, 7
+  size: 41, 25
+  orig: 80, 36
+  offset: 8, 1
+  index: -1
+images/effect/zhenchong1_00002
+  rotate: true
+  xy: 168, 6
+  size: 51, 28
+  orig: 80, 36
+  offset: 12, 0
+  index: -1
+images/effect/zhenchong1_00003
+  rotate: false
+  xy: 53, 28
+  size: 57, 29
+  orig: 80, 36
+  offset: 10, 0
+  index: -1
+images/effect/zhenchong1_00004
+  rotate: false
+  xy: 109, 24
+  size: 59, 33
+  orig: 80, 36
+  offset: 16, 0
+  index: -1
+images/effect/zhenchong1_00005
+  rotate: false
+  xy: 2, 30
+  size: 49, 26
+  orig: 80, 36
+  offset: 24, 3
+  index: -1
+images/effect/zhenchong1_00006
+  rotate: false
+  xy: 2, 5
+  size: 47, 23
+  orig: 80, 36
+  offset: 28, 4
+  index: -1
+images/effect/zhenchong1_00007
+  rotate: false
+  xy: 124, 3
+  size: 39, 19
+  orig: 80, 36
+  offset: 37, 5
+  index: -1
+images/effect/zhenchong1_00008
+  rotate: false
+  xy: 107, 51
+  size: 3, 5
+  orig: 80, 36
+  offset: 62, 18
+  index: -1

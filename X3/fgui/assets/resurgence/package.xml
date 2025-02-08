@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="074a5358">
+  <resources>
+    <image id="fff66" name="sd_A_common_hb_frame.png" path="/img/"/>
+    <image id="fff610" name="sd_A_common_qipao_frame.png" path="/img/"/>
+    <image id="fff614" name="shibai.png" path="/img/"/>
+    <component id="fff616" name="ResurgenceView.xml" path="/"/>
+    <component id="qoer17" name="btn_goto.xml" path="/"/>
+    <image id="qoer18" name="zm_icon.png" path="/img/"/>
+    <image id="qoer19" name="zb_icon.png" path="/img/"/>
+    <image id="qoer1b" name="fhuo_frame.png" path="/img/"/>
+    <image id="qoer1c" name="qipao2_frame.png" path="/img/" scale="9grid" scale9grid="57,19,18,7"/>
+    <image id="qoer1d" name="help_word.png" path="/img/"/>
+    <image id="qoer1j" name="py_icon.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

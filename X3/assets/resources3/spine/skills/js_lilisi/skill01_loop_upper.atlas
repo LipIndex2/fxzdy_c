@@ -1,0 +1,258 @@
+
+skill01_loop_upper.png
+size: 990,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_loopupper_00000
+  rotate: false
+  xy: 582, 716
+  size: 286, 105
+  orig: 300, 110
+  offset: 9, 3
+  index: -1
+effect/skill01_loopupper_00001
+  rotate: false
+  xy: 2, 622
+  size: 284, 90
+  orig: 300, 110
+  offset: 10, 1
+  index: -1
+effect/skill01_loopupper_00002
+  rotate: false
+  xy: 573, 326
+  size: 276, 90
+  orig: 300, 110
+  offset: 18, 1
+  index: -1
+effect/skill01_loopupper_00003
+  rotate: false
+  xy: 290, 329
+  size: 281, 89
+  orig: 300, 110
+  offset: 14, 2
+  index: -1
+effect/skill01_loopupper_00004
+  rotate: false
+  xy: 2, 328
+  size: 286, 90
+  orig: 300, 110
+  offset: 10, 2
+  index: -1
+effect/skill01_loopupper_00005
+  rotate: false
+  xy: 2, 821
+  size: 288, 107
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00006
+  rotate: false
+  xy: 582, 516
+  size: 287, 96
+  orig: 300, 110
+  offset: 10, 1
+  index: -1
+effect/skill01_loopupper_00007
+  rotate: false
+  xy: 2, 420
+  size: 287, 96
+  orig: 300, 110
+  offset: 10, 1
+  index: -1
+effect/skill01_loopupper_00008
+  rotate: false
+  xy: 581, 418
+  size: 282, 96
+  orig: 300, 110
+  offset: 14, 1
+  index: -1
+effect/skill01_loopupper_00009
+  rotate: true
+  xy: 871, 352
+  size: 286, 91
+  orig: 300, 110
+  offset: 10, 1
+  index: -1
+effect/skill01_loopupper_00010
+  rotate: false
+  xy: 2, 518
+  size: 288, 96
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00011
+  rotate: false
+  xy: 290, 718
+  size: 289, 101
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00012
+  rotate: false
+  xy: 292, 516
+  size: 288, 96
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00013
+  rotate: false
+  xy: 581, 614
+  size: 288, 100
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00014
+  rotate: false
+  xy: 582, 823
+  size: 287, 105
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00015
+  rotate: false
+  xy: 292, 821
+  size: 288, 107
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00016
+  rotate: false
+  xy: 290, 616
+  size: 289, 100
+  orig: 300, 110
+  offset: 9, 2
+  index: -1
+effect/skill01_loopupper_00017
+  rotate: false
+  xy: 291, 420
+  size: 288, 94
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00018
+  rotate: true
+  xy: 871, 640
+  size: 288, 100
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_loopupper_00019
+  rotate: false
+  xy: 2, 714
+  size: 286, 105
+  orig: 300, 110
+  offset: 9, 1
+  index: -1
+effect/skill01_xinupper_00000
+  rotate: true
+  xy: 894, 2
+  size: 148, 59
+  orig: 240, 140
+  offset: 44, 10
+  index: -1
+effect/skill01_xinupper_00001
+  rotate: false
+  xy: 215, 23
+  size: 183, 58
+  orig: 240, 140
+  offset: 15, 10
+  index: -1
+effect/skill01_xinupper_00002
+  rotate: false
+  xy: 2, 13
+  size: 211, 68
+  orig: 240, 140
+  offset: 8, 10
+  index: -1
+effect/skill01_xinupper_00003
+  rotate: false
+  xy: 2, 83
+  size: 231, 75
+  orig: 240, 140
+  offset: 0, 10
+  index: -1
+effect/skill01_xinupper_00004
+  rotate: false
+  xy: 2, 160
+  size: 239, 79
+  orig: 240, 140
+  offset: 0, 10
+  index: -1
+effect/skill01_xinupper_00005
+  rotate: false
+  xy: 411, 154
+  size: 237, 78
+  orig: 240, 140
+  offset: 0, 11
+  index: -1
+effect/skill01_xinupper_00006
+  rotate: false
+  xy: 650, 130
+  size: 229, 80
+  orig: 240, 140
+  offset: 8, 11
+  index: -1
+effect/skill01_xinupper_00007
+  rotate: false
+  xy: 2, 241
+  size: 230, 85
+  orig: 240, 140
+  offset: 7, 11
+  index: -1
+effect/skill01_xinupper_00008
+  rotate: false
+  xy: 290, 237
+  size: 218, 90
+  orig: 240, 140
+  offset: 7, 10
+  index: -1
+effect/skill01_xinupper_00009
+  rotate: false
+  xy: 510, 234
+  size: 214, 90
+  orig: 240, 140
+  offset: 9, 10
+  index: -1
+effect/skill01_xinupper_00010
+  rotate: true
+  xy: 898, 152
+  size: 198, 90
+  orig: 240, 140
+  offset: 19, 10
+  index: -1
+effect/skill01_xinupper_00011
+  rotate: false
+  xy: 411, 51
+  size: 171, 101
+  orig: 240, 140
+  offset: 42, 10
+  index: -1
+effect/skill01_xinupper_00012
+  rotate: false
+  xy: 726, 212
+  size: 170, 112
+  orig: 240, 140
+  offset: 40, 10
+  index: -1
+effect/skill01_xinupper_00013
+  rotate: false
+  xy: 243, 122
+  size: 166, 113
+  orig: 240, 140
+  offset: 40, 10
+  index: -1
+effect/skill01_xinupper_00014
+  rotate: false
+  xy: 740, 16
+  size: 152, 112
+  orig: 240, 140
+  offset: 45, 10
+  index: -1
+effect/skill01_xinupper_00015
+  rotate: false
+  xy: 584, 16
+  size: 154, 112
+  orig: 240, 140
+  offset: 41, 10
+  index: -1

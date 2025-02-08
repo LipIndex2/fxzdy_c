@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="596,744">
+  <displayList>
+    <loader id="n168_8a38" name="bg" xy="0,0" size="596,748" group="n215_piwi" url="ui://38fa8c753cd618" fill="scaleFree">
+      <relation target="" sidePair=""/>
+    </loader>
+    <loader id="n213_piwi" name="fg2" xy="20,227" size="552,215" group="n215_piwi" url="ui://38fa8c753cd619" fill="scaleFree"/>
+    <loader id="n176_8a38" name="bgRewardTitle" xy="202,245" size="193,40" group="n225_rclc" url="ui://38fa8c75tml513g" fill="scaleFree" color="#2a3e71"/>
+    <text id="n214_piwi" name="labelRewardTitle" xy="223,249" pivot="0.5,0.5" size="149,34" group="n225_rclc" fontSize="24" color="#fcf0d2" align="center" vAlign="middle" autoSize="none" text="挂机奖励"/>
+    <group id="n225_rclc" name="n225" xy="202,245" size="193,40" group="n215_piwi"/>
+    <component id="n191_8a38" name="btnGain" src="rclc13g" fileName="btn/HangUpGainBtn.xml" xy="311,565" group="n215_piwi"/>
+    <component id="n193_8a38" name="btnSpeedUp" src="rclc13h" fileName="btn/HangUpSpeedUpBtn.xml" xy="22,566" group="n215_piwi"/>
+    <text id="n204_8a38" name="labelBackTips" xy="226,838" size="143,29" group="n215_piwi" fontSize="20" color="#fffefe" text="点击空白处关闭"/>
+    <list id="n216_piwi" name="itemList" xy="33,304" size="527,109" group="n215_piwi" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n171_8a38" name="bgMax" xy="133,468" size="331,58" group="n218_piwi" url="ui://38fa8c75tml513g" fill="scaleFree" color="#263045"/>
+    <text id="n174_8a38" name="labelMaxHangUpTimeDesc" xy="172,482" size="126,32" group="n218_piwi" fontSize="22" color="#e0d6be" vAlign="middle" text="上限：6小时"/>
+    <component id="n172_8a38" name="btnBuyMax" src="rclc13i" fileName="btn/HangUpBuyMaxBtn.xml" xy="320,472" group="n218_piwi"/>
+    <group id="n218_piwi" name="maxHangUp" xy="133,468" size="331,58" group="n215_piwi" visible="false" advanced="true"/>
+    <text id="n169_8a38" name="labelSpeedUpTips" xy="139,692" size="279,32" group="n223_piwi" fontSize="22" color="#fcf0d2" ubb="true" vars="true" singleLine="true" text="快速挂机立刻获得[color=#44FF5A]2小时[/color]收益"/>
+    <group id="n223_piwi" name="tips" xy="139,692" size="294,32" group="n215_piwi"/>
+    <loader id="n227_wwsz" name="fg1" xy="21,13" size="551,196" group="n221_piwi" url="ui://38fa8c753cd619" fill="scaleFree"/>
+    <text id="n189_8a38" name="labelTitle" xy="236,32" size="123,42" group="n221_piwi" fontSize="30" color="#fcf0d2" text="挂机时间"/>
+    <text id="n190_8a38" name="labelHangUpTime" xy="226,76" size="149,42" group="n221_piwi" fontSize="30" color="#fa9709" align="center" vAlign="middle" autoSize="none" singleLine="true" text="00:00:00"/>
+    <component id="n185_8a38" name="tipsHangUpGold" src="piwi138" fileName="components/HangUpPerHourIconComp.xml" xy="25,133" size="179,48" group="n221_piwi"/>
+    <component id="n219_piwi" name="tipsHangUpExp" src="piwi138" fileName="components/HangUpPerHourIconComp.xml" xy="211,133" size="184,48" group="n221_piwi"/>
+    <component id="n220_piwi" name="tipsHangUpLvUpItem" src="piwi138" fileName="components/HangUpPerHourIconComp.xml" xy="401,133" size="172,48" group="n221_piwi"/>
+    <group id="n221_piwi" name="addPerHour" xy="21,13" size="552,196" group="n215_piwi" advanced="true"/>
+    <group id="n215_piwi" name="content" xy="0,0" size="596,867" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

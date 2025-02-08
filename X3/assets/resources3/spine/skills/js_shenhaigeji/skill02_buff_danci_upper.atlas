@@ -1,0 +1,111 @@
+
+skill02_buff_danci_upper.png
+size: 615,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/hou01
+  rotate: false
+  xy: 113, 40
+  size: 38, 34
+  orig: 256, 256
+  offset: 48, 61
+  index: -1
+images/effect/hou02
+  rotate: false
+  xy: 2, 22
+  size: 109, 52
+  orig: 256, 256
+  offset: 46, 53
+  index: -1
+images/effect/hou03
+  rotate: false
+  xy: 160, 90
+  size: 155, 89
+  orig: 256, 256
+  offset: 48, 46
+  index: -1
+images/effect/hou04
+  rotate: false
+  xy: 2, 76
+  size: 156, 103
+  orig: 256, 256
+  offset: 49, 44
+  index: -1
+images/effect/hou05
+  rotate: false
+  xy: 455, 91
+  size: 156, 105
+  orig: 256, 256
+  offset: 49, 44
+  index: -1
+images/effect/hou06
+  rotate: false
+  xy: 455, 198
+  size: 156, 110
+  orig: 256, 256
+  offset: 50, 48
+  index: -1
+images/effect/hou07
+  rotate: false
+  xy: 2, 189
+  size: 156, 119
+  orig: 256, 256
+  offset: 50, 47
+  index: -1
+images/effect/hou08
+  rotate: false
+  xy: 2, 312
+  size: 154, 127
+  orig: 256, 256
+  offset: 52, 47
+  index: -1
+images/effect/hou09
+  rotate: false
+  xy: 311, 312
+  size: 153, 127
+  orig: 256, 256
+  offset: 53, 46
+  index: -1
+images/effect/hou10
+  rotate: false
+  xy: 158, 310
+  size: 151, 129
+  orig: 256, 256
+  offset: 55, 44
+  index: -1
+images/effect/hou11
+  rotate: false
+  xy: 466, 310
+  size: 147, 129
+  orig: 256, 256
+  offset: 58, 44
+  index: -1
+images/effect/hou12
+  rotate: false
+  xy: 311, 182
+  size: 142, 128
+  orig: 256, 256
+  offset: 61, 44
+  index: -1
+images/effect/hou13
+  rotate: false
+  xy: 160, 181
+  size: 136, 127
+  orig: 256, 256
+  offset: 66, 45
+  index: -1
+images/effect/hou14
+  rotate: false
+  xy: 317, 88
+  size: 133, 92
+  orig: 256, 256
+  offset: 68, 46
+  index: -1
+images/effect/hou15
+  rotate: false
+  xy: 452, 2
+  size: 117, 87
+  orig: 256, 256
+  offset: 81, 51
+  index: -1

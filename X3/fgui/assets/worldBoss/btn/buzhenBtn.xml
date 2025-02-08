@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="148,58" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n19_d6aa" name="n19" src="d6aa13" fileName="img/sd_A_common_buzhen_btn.png" xy="0,0"/>
+    <text id="n20_d6aa" name="n20" xy="41,9" size="63,42" fontSize="30" color="#ffffff" strokeColor="#000000" strokeSize="3" text="布阵"/>
+    <component id="n21_e1fv" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="139,4" controller="type,2"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n47_a9a7" name="n47" xy="65,432" size="619,469" group="n55_9gqu" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n48_a9a7" name="n48" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,521" size="572,203" group="n55_9gqu"/>
+    <text id="n51_a9a7" name="labelTitle" xy="293,572" size="158,36" group="n55_9gqu" fontSize="26" color="#ddfbff" vAlign="middle" text="请输入兑换码"/>
+    <image id="n49_a9a7" name="n49" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="183,623" size="382,50" group="n55_9gqu" alpha="0.38"/>
+    <text id="n50_a9a7" name="inputCode" xy="194,629" pivot="0.5,0" size="361,36" group="n55_9gqu" fontSize="26" color="#f3f8ff" align="center" vAlign="middle" autoSize="none" singleLine="true" text="2050252" input="true"/>
+    <component id="n54_d299" name="btnOk" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="223,747" size="303,122" group="n55_9gqu" scale="0.8,0.8">
+      <Button title="确认"/>
+    </component>
+    <group id="n55_9gqu" name="n55" xy="65,432" size="619,469" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

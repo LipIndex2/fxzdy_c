@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="517,58">
+  <displayList>
+    <component id="n40_jqxi" name="sliderCount" src="jqxi4n" fileName="slider/CommonSlider1.xml" xy="78,18" size="369,21">
+      <relation target="" sidePair="width-width,height-height"/>
+      <Slider max="100"/>
+    </component>
+    <component id="n32_jqxi" name="btnAdd" src="oetqs90" fileName="btn/BtnJia1.xml" xy="460,0">
+      <relation target="" sidePair="right-right"/>
+    </component>
+    <component id="n33_jqxi" name="btnMinus" src="oetqs91" fileName="btn/BtnJian1.xml" xy="0,0">
+      <relation target="" sidePair="left-left"/>
+    </component>
+  </displayList>
+</component>

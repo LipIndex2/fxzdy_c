@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1klupes8x">
+  <displayList>
+    <image id="n224_k11r" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,87" pivot="0.5,1" anchor="true" size="750,250" color="#37478d">
+      <relation target="" sidePair="width-width,middle-middle,top-top"/>
+    </image>
+    <image id="n220_lupe" name="n220" src="lupe1" fileName="img/bg.png" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n222_lupe" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n218_lupe" name="footer" src="uug0vvv1bk" fileName="back/BackFooter.xml" pkg="38fa8c75" xy="0,1218">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <list id="n219_lupe" name="footerList" xy="132,1227" size="582,100" layout="row" overflow="scroll" scroll="horizontal" colGap="40" defaultItem="ui://tkr2g69tlupe116" autoItemSize="false" align="right" vAlign="bottom" autoClearItems="true" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n9_a01c" name="n9" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="168,54" group="n221_lupe"/>
+    <image id="n216_lupe" name="n216" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="375,54" group="n221_lupe" flip="hz"/>
+    <component id="n217_lupe" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="481,77" group="n221_lupe"/>
+    <text id="n11_a01c" name="n11" xy="303,61" pivot="0.5,0.5" size="147,64" group="n221_lupe" fontSize="48" color="#052664" align="center" vAlign="middle" text="收藏品"/>
+    <group id="n221_lupe" name="top" xy="168,54" size="414,89" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+</component>

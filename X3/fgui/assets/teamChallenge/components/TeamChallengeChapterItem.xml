@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="572,173">
+  <displayList>
+    <loader id="n10_ig8t" name="bg" xy="0,0" size="572,173"/>
+    <text id="n9_ig8t" name="lbName" xy="48,20" size="81,36" fontSize="26" color="#ccfff8" vAlign="middle" text="第一章"/>
+    <list id="n11_ig8t" name="listItems" xy="21,74" size="423,104" scale="0.76,0.76" layout="row" overflow="scroll" scroll="horizontal" colGap="14" defaultItem="ui://dhpy5xezig8t18e">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n12_ig8t" name="n12" src="bbe399" fileName="img/sd_A_common_lbmb_frame.png" xy="1,1" size="570,171" group="n15_ig8t" alpha="0.6"/>
+    <image id="n14_ig8t" name="n14" src="bbe3100" fileName="img/scale_60%_sd_A_common_suo1_icon.png" xy="153,67" size="31,38" group="n16_oyy6"/>
+    <text id="n13_ig8t" name="lbCondition" xy="184,66" size="205,36" group="n16_oyy6" fontSize="26" color="#19df51" vAlign="middle" strokeColor="#000000" strokeSize="3" text="共鸣等级180开启"/>
+    <group id="n16_oyy6" name="n16" xy="153,66" size="236,39" group="n15_ig8t" advanced="true" layout="hz" excludeInvisibles="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <group id="n15_ig8t" name="groupLock" xy="1,1" size="570,171" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n17_uk3p" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="553,18" size="32,30" controller="type,0"/>
+  </displayList>
+</component>

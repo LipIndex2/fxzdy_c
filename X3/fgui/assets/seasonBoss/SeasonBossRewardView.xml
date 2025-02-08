@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1335">
+  <displayList>
+    <loader id="n15_v5mw" name="n15" xy="40,149" size="682,885" group="n18_u8y2" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n16_v5mw" name="n16" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="61,237" size="638,767" group="n18_u8y2"/>
+    <text id="n14_v5mw" name="n14" xy="313,173" size="131,44" group="n18_u8y2" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="奖励详情"/>
+    <list id="n17_v5mw" name="listItems" xy="74,252" size="613,744" group="n18_u8y2" overflow="scroll" lineGap="10" defaultItem="ui://5ae153adv5mw67">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n18_u8y2" name="n18" xy="40,149" size="682,885" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

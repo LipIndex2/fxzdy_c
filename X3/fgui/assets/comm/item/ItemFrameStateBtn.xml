@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <displayList>
+    <component id="n0_ig8t" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" xy="0,0" size="104,104"/>
+    <image id="n7_v5mw" name="n7" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" xy="-1,-1" size="104,104" group="n3_ig8t" alpha="0.5"/>
+    <image id="n6_pkn9" name="n6" src="8qld1z" fileName="bgImage/gou_icon.png" xy="23,27" group="n3_ig8t"/>
+    <group id="n3_ig8t" name="mask" xy="-1,-1" size="104,104" advanced="true"/>
+    <component id="n5_uk3p" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="52,51" size="140,140"/>
+  </displayList>
+</component>

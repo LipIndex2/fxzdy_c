@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n22_f9dq" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="32,142" size="682,1035" group="n21_gs9k"/>
+    <image id="n0_1794" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,142" size="682,1035" group="n21_gs9k"/>
+    <image id="n1_1794" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,230" size="638,863" group="n21_gs9k"/>
+    <text id="n2_1794" name="lbTip" xy="377,277" pivot="0.5,0.5" anchor="true" size="479,34" group="n21_gs9k" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="每周根据排名获得对应奖励（通过邮件发送）"/>
+    <text id="n3_1794" name="lbTitle" xy="379,191" pivot="0.5,0.5" anchor="true" size="194,44" group="n21_gs9k" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="每周排名奖励"/>
+    <text id="n4_1794" name="lbTime" xy="371,1129" pivot="0.5,0.5" anchor="true" size="261,34" group="n21_gs9k" fontSize="24" color="#73e1fc" align="center" vAlign="middle" text="结算倒计时：6天20小时"/>
+    <list id="n20_gs9k" name="listReward" xy="75,313" size="600,770" group="n21_gs9k" overflow="scroll" lineGap="9" defaultItem="ui://ae4de3b1179415" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n21_gs9k" name="gAll" xy="32,142" size="682,1035" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

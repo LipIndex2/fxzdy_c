@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="362,72" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="1"/>
+  <displayList>
+    <loader id="n0_j6z9" name="bg" xy="181,36" pivot="0.5,0.5" anchor="true" size="362,72" url="ui://ee5b35f6bezo5s" align="center" vAlign="middle" fill="scaleFree" autoSize="true">
+      <gearDisplay controller="button" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <text id="n7_bezo" name="T_tips1" xy="145,13" pivot="0.5,0.5" size="71,46" fontSize="34" color="#ffffff" align="center" vAlign="middle" strokeColor="#9b5101" strokeSize="3" text="奖励">
+      <gearDisplay controller="button" pages="1"/>
+    </text>
+    <text id="n8_bezo" name="T_tips2" xy="145,13" pivot="0.5,0.5" size="71,46" fontSize="34" color="#d2bb8f" align="center" vAlign="middle" strokeColor="#230a01" strokeSize="3" text="任务">
+      <gearDisplay controller="button" pages="0"/>
+    </text>
+    <component id="n9_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="352,10" size="20,20" controller="type,0"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

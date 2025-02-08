@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1k97dis7u">
+  <displayList>
+    <image id="n41_cae0" name="n41" src="uvvc3p" fileName="img/diban_22.png" xy="66,413" group="n68_ohdt"/>
+    <component id="n81_uvvc" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="410,497" pivot="0.5,1" anchor="true" group="n68_ohdt"/>
+    <loader id="n78_uvvc" name="picTitle" xy="149,367" pivot="0.5,1" size="448,176" group="n68_ohdt" clearOnPublish="true"/>
+    <text id="n44_cae0" name="lbTime" xy="375,524" pivot="0.5,0.5" anchor="true" size="192,29" group="n68_ohdt" fontSize="20" color="#ffffff" vAlign="middle" autoClearText="true" text="01:20:30后礼包消失"/>
+    <text id="n66_cae0" name="lbTip2" xy="206,1050" pivot="0.5,0.5" size="337,34" group="n68_ohdt" fontSize="24" color="#ffffff" vAlign="middle" autoClearText="true" text="购买礼包后，立即解锁免费奖励"/>
+    <list id="n69_ohdt" name="list" xy="117,565" size="514,472" group="n68_ohdt" overflow="scroll" lineGap="20" defaultItem="ui://1d0b8bbfohdt3f" renderOrder="descent" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n79_uvvc" name="bgTip" src="uvvc3x" fileName="img/qipao_14.png" xy="313,310" pivot="1,1" anchor="true" size="180,95" group="n77_s0hy">
+      <relation target="n80_uvvc" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n80_uvvc" name="lbTip" xy="299,286" pivot="1,1" anchor="true" size="148,62" group="n77_s0hy" fontSize="22" color="#379be8" align="center" vAlign="middle" autoSize="height" autoClearText="true" text="周四即将7星，&#xA;解锁强力技能"/>
+    <group id="n77_s0hy" name="panelTip" xy="133,215" size="180,95" group="n68_ohdt" advanced="true">
+      <relation target="" sidePair="left-left"/>
+    </group>
+    <text id="n82_vdae" name="n82" xy="290,1205" pivot="0.5,0.5" size="170,34" group="n68_ohdt" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="点击空白处关闭"/>
+    <group id="n68_ohdt" name="n68" xy="66,215" size="613,1024" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

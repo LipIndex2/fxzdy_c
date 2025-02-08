@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="62,63">
+  <displayList>
+    <component id="n71_kp1o" name="itemPart" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="-23,-21" scale="0.6,0.6"/>
+  </displayList>
+</component>

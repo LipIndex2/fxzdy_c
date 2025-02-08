@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_f31f" name="n0" src="f31f0" fileName="img/vip_bg.jpg" xy="0,0"/>
+    <image id="n47_g256" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,250" color="#1c3272">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n1_f31f" name="bgTip" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="239,191" size="338,39" alpha="0.6"/>
+    <image id="n2_f31f" name="n2" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,366" size="750,969">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n3_f31f" name="bgCenter" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,440" size="729,757">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n28_f31f" name="n28" src="dusvvvv1ff" fileName="bgImage/VIP_di.png" pkg="38fa8c75" xy="95,162" size="139,116"/>
+    <image id="n25_f31f" name="n25" src="f31f18" fileName="img/tongyongxiangoushangcheng.png" xy="159,338"/>
+    <text id="n26_f31f" name="lbTitle" xy="291,350" pivot="0.5,0.5" size="164,50" fontSize="37" color="#644fe0" vAlign="middle" text="VIP4特权"/>
+    <text id="n29_f31f" name="n29" xy="142,241" pivot="0.5,0.5" size="43,32" fontSize="22" color="#f7ecb0" vAlign="middle" strokeColor="#19408f" strokeSize="2" text="VIP"/>
+    <text id="n30_f31f" name="lbVipLv" xy="149,190" pivot="0.5,0.5" size="29,56" fontSize="42" color="#fff158" vAlign="middle" strokeColor="#02469a" strokeSize="3" text="4"/>
+    <text id="n31_f31f" name="lbDes" xy="247,193" pivot="0.5,0.5" size="318,34" fontSize="24" color="#fffdf4" vAlign="middle" strokeColor="#0d0400" strokeSize="2" text="再充值100元，即可升为VIP5"/>
+    <component id="n37_oc78" name="panelContent" src="oc782d" fileName="page/VipContentPanel.xml" xy="12,457" size="730,720">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <component id="n42_oc78" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="528,77"/>
+    <component id="n44_oc78" name="expProgress" src="oc782e" fileName="component/VipExpProgressBar.xml" xy="242,233" size="436,23">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n45_oc78" name="btnPrev" src="oc7825" fileName="component/VipPageBtn.xml" xy="0,720" scale="-1,1">
+      <relation target="" sidePair="middle-middle,left-left"/>
+    </component>
+    <component id="n46_oc78" name="btnNext" src="oc7825" fileName="component/VipPageBtn.xml" xy="690,720">
+      <relation target="" sidePair="middle-middle,right-right"/>
+    </component>
+    <component id="n48_r58c" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="593,193" size="41,34">
+      <relation target="n1_f31f" sidePair="left-right"/>
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+  </displayList>
+</component>

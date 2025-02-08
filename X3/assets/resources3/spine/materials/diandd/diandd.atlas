@@ -1,0 +1,13 @@
+
+diandd.png
+size: 50,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zdlt_tag
+  rotate: false
+  xy: 2, 2
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1

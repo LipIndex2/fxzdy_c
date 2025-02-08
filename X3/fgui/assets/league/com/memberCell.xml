@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="568,128">
+  <controller name="state" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="在线"/>
+    <remark page="1" value="离线"/>
+  </controller>
+  <controller name="officia" pages="0,,1,,2," selected="0">
+    <remark page="0" value="盟主"/>
+    <remark page="1" value="副盟主"/>
+    <remark page="2" value="普通成员"/>
+  </controller>
+  <displayList>
+    <image id="n12_be1a" name="n12" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="568,128"/>
+    <text id="n15_be1a" name="nameLab" xy="179,31" size="135,32" fontSize="22" color="#f7f9fd" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气">
+      <gearXY controller="officia" pages="1,2" values="204,31|116,31" default="179,31"/>
+    </text>
+    <text id="n16_be1a" name="activeLab" xy="377,55" pivot="0.5,0.5" size="44,32" fontSize="22" color="#f7f9fd" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="800"/>
+    <text id="n20_be1a" name="fightLab" xy="116,69" size="136,32" fontSize="22" color="#ffe57c" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <component id="n61_h90v" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="12,12" size="104,104" aspect="true" scale="0.84,0.84"/>
+    <text id="n17_be1a" name="onLineLab" xy="472,54" size="48,32" group="n64_h90v" fontSize="22" color="#3bdf84" strokeColor="#013401" strokeSize="2" text="在线">
+      <gearDisplay controller="state" pages="0"/>
+    </text>
+    <text id="n63_h90v" name="dayOutLab" xy="471,53" pivot="0.5,0.5" size="61,32" group="n64_h90v" fontSize="22" color="#aeb7d0" align="center" vAlign="middle" strokeColor="#1c1c1c" strokeSize="2" text="1天前">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <group id="n64_h90v" name="n64" xy="472,54" size="60,31"/>
+    <image id="n65_h90v" name="n65" src="be1a24" fileName="league/i/scale_50%_sd_A_common_biaoti1_msg3.png" pkg="72zq62ea" xy="117,29" group="n67_h90v"/>
+    <text id="n66_h90v" name="n66" xy="123,32" size="69,32" group="n67_h90v" fontSize="22" color="#f7f9fd" text="副盟主"/>
+    <group id="n67_h90v" name="n67" xy="117,29" size="81,34" advanced="true">
+      <gearDisplay controller="officia" pages="1"/>
+    </group>
+    <image id="n18_be1a" name="n18" src="be1a23" fileName="league/i/scale_50%_sd_A_common_biaoti1_msg3_41.png" pkg="72zq62ea" xy="117,29" group="n68_h90v"/>
+    <text id="n19_be1a" name="officia" xy="121,26" pivot="0.5,0.5" size="48,32" group="n68_h90v" fontSize="22" color="#f7f9fd" align="center" vAlign="middle" text="盟主"/>
+    <group id="n68_h90v" name="n68" xy="117,27" size="58,31" advanced="true">
+      <gearDisplay controller="officia" pages="0"/>
+    </group>
+  </displayList>
+</component>

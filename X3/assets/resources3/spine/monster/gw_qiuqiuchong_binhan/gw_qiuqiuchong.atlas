@@ -1,0 +1,181 @@
+
+gw_qiuqiuchong.png
+size: 149,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: 270
+  xy: 80, 23
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 128, 48
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 132, 11
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 55, 15
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 77, 9
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 22, 10
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 2, 22
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 107, 27
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 132, 28
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 114, 6
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 104, 6
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: false
+  xy: 85, 43
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 92, 9
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: true
+  xy: 102, 12
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: false
+  xy: 64, 3
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: true
+  xy: 55, 27
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: true
+  xy: 2, 8
+  size: 13, 20
+  orig: 23, 57
+  offset: 5, 19
+  index: -1
+J zd24
+  rotate: false
+  xy: 51, 3
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 122, 19
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 107, 46
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 92, 16
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 98, 8
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 37, 9
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 55, 30
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 119, 3
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

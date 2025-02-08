@@ -1,0 +1,41 @@
+
+skill02_lower.png
+size: 292,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_dilieshang
+  rotate: false
+  xy: 43, 99
+  size: 104, 59
+  orig: 183, 84
+  offset: 79, 0
+  index: -1
+images/effect/skill02_diliexia
+  rotate: true
+  xy: 121, 3
+  size: 366, 168
+  orig: 366, 168
+  offset: 0, 0
+  index: -1
+images/effect/skill02_ring1
+  rotate: false
+  xy: 2, 159
+  size: 148, 88
+  orig: 148, 88
+  offset: 0, 0
+  index: -1
+images/effect/skill02_sanjiao
+  rotate: true
+  xy: 2, 21
+  size: 138, 129
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+images/effect/skill02_wenli
+  rotate: false
+  xy: 2, 249
+  size: 246, 120
+  orig: 246, 120
+  offset: 0, 0
+  index: -1

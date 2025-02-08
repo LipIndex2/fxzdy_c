@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,119">
+  <displayList>
+    <loader id="n28_116b" name="bgFooter1" xy="187,95" pivot="0.5,0.5" anchor="true" size="375,200" url="ui://38fa8c75kp1obk" fill="scaleFree"/>
+    <loader id="n30_rurq" name="bgFooter2" xy="562,95" pivot="0.5,0.5" anchor="true" size="375,200" scale="-1,1" url="ui://38fa8c75kp1obk" align="right" fill="scaleFree"/>
+  </displayList>
+</component>

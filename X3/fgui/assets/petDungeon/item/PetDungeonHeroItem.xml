@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,130">
+  <displayList>
+    <image id="n3_bfe7" name="n3" src="bfe714" fileName="img/bantoudi_86.png" xy="7,0" alpha="0.7"/>
+    <loader id="n15_woyg" name="bgLoader" xy="11,5" size="84,84" url="ui://38fa8c75f0d84" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n16_woyg" name="iconLoader" xy="16,11" size="73,73" align="center" vAlign="middle" fill="scale"/>
+    <loader id="n14_woyg" name="careerLoader" xy="0,0" size="38,38" url="ui://38fa8c75cni66y" align="center" vAlign="middle" fill="scale"/>
+    <component id="n4_bfe7" name="hpBar" src="woyg122" fileName="component/PetDungeonHeroHp.xml" xy="11,97">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n10_bfe7" name="n10" src="dtss5p" fileName="frameImage/black2_msg.png" pkg="38fa8c75" xy="11,67" size="84,22"/>
+    <list id="n17_woyg" name="listStar" xy="53,78" pivot="0.5,0.5" anchor="true" size="171,32" scale="0.4,0.4" layout="row" defaultItem="ui://38fa8c75dclx138" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n41_ifld" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n42_dusv" name="footer" src="dusvvvv1fg" fileName="back/BackFooter3.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="width-width,top-bottom"/>
+    </component>
+    <list id="n40_ifld" name="tabList" xy="137,1206" size="600,114" layout="row" overflow="scroll" scroll="horizontal" colGap="20" defaultItem="ui://8l3sin1duazn0" align="right" autoClearItems="true">
+      <relation target="" sidePair="bottom-bottom"/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

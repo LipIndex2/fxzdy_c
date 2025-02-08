@@ -1,0 +1,41 @@
+
+skill02_lower.png
+size: 708,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_guangyun
+  rotate: false
+  xy: 479, 19
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+effect/skill02_huan1
+  rotate: false
+  xy: 260, 32
+  size: 217, 220
+  orig: 300, 300
+  offset: 40, 40
+  index: -1
+effect/skill02_huan2
+  rotate: false
+  xy: 2, 2
+  size: 256, 250
+  orig: 300, 300
+  offset: 22, 24
+  index: -1
+effect/skill02_shizi2
+  rotate: false
+  xy: 479, 135
+  size: 117, 117
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+effect/skill02_shizi3
+  rotate: false
+  xy: 595, 22
+  size: 111, 111
+  orig: 128, 128
+  offset: 9, 9
+  index: -1

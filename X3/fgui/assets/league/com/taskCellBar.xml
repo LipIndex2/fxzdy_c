@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="301,22" extention="ProgressBar">
+  <displayList>
+    <image id="n2_be1a" name="n2" src="be1a65" fileName="img/sd_A_common_tianjiadi_blood_118.png" xy="0,0"/>
+    <image id="n3_be1a" name="bar" src="be1a66" fileName="img/sd_A_common_jdt_blood_117.png" xy="2,2" size="297,18"/>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

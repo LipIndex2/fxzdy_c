@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="682,1053">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="未初始化"/>
+    <remark page="1" value="有日志"/>
+    <remark page="2" value="没有日志"/>
+  </controller>
+  <displayList>
+    <image id="n10_fdf1" name="n10" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="0,0" size="682,1053" visible="false"/>
+    <image id="n11_fdf1" name="n11" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="22,87" size="638,842" visible="false"/>
+    <text id="n33_fdf1" name="lbTitle" xy="342,47" pivot="0.5,0.5" anchor="true" size="131,44" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="个人日志"/>
+    <component id="n39_gtlw" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="414,29"/>
+    <list id="n38_gtlw" name="listRecord" xy="27,94" size="626,821" overflow="scroll" lineGap="4" defaultItem="ui://78d1ed1agtlw12b" autoClearItems="true">
+      <gearDisplay controller="state" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n8_fdf1" name="n8" src="qhevvvv1gi" fileName="bgImage/kong_tag.png" pkg="38fa8c75" xy="208,371" group="n40_gtlw" alpha="0.7"/>
+    <text id="n9_fdf1" name="n9" xy="335,574" pivot="0.5,0.5" anchor="true" size="170,32" group="n40_gtlw" fontSize="22" color="#99b6ff" align="center" vAlign="middle" text="目前暂无日志哦~"/>
+    <group id="n40_gtlw" name="gNone" xy="208,371" size="253,219" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+    </group>
+  </displayList>
+</component>

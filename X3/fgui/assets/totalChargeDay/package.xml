@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packageDescription id="79f233ef">
+  <resources>
+    <component id="uvvc25" name="BtnChangGui3.xml" path="/com/"/>
+    <component id="uvvc26" name="totalChargeDayCell.xml" path="/com/"/>
+    <component id="24ee24" name="totalChargeDayView.xml" path="/"/>
+    <image id="24ee0" name="beijing_3.jpg" path="/img/"/>
+    <image id="24ee4" name="ltcz_lchd.png" path="/img/"/>
+    <image id="24ee7" name="liebiao_1.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,34 @@
+
+heidong_dandao_s.png
+size: 215,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/atk1dandao_00000
+  rotate: false
+  xy: 2, 2
+  size: 113, 28
+  orig: 128, 32
+  offset: 7, 3
+  index: -1
+images/effect/atk1dandao_00001
+  rotate: false
+  xy: 117, 4
+  size: 90, 29
+  orig: 128, 32
+  offset: 7, 2
+  index: -1
+images/effect/atk1dandao_00002
+  rotate: false
+  xy: 2, 32
+  size: 113, 30
+  orig: 128, 32
+  offset: 0, 1
+  index: -1
+images/effect/atk1dandao_00003
+  rotate: false
+  xy: 117, 35
+  size: 96, 27
+  orig: 128, 32
+  offset: 8, 4
+  index: -1

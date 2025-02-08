@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,200">
+  <displayList>
+    <image id="n0_i83d" name="n0" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="22,106" size="262,37" group="n5_i83d"/>
+    <component id="n1_i83d" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="288,65" size="41,34" group="n5_i83d">
+      <relation target="n4_i83d" sidePair="left-right"/>
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <text id="n2_i83d" name="T_time" xy="66,111" pivot="0.5,0.5" size="171,29" group="n5_i83d" fontSize="20" color="#ffffff" text="活动倒计时:无期限"/>
+    <text id="n3_i83d" name="n3" xy="18,0" size="194,64" group="n5_i83d" fontSize="48" color="#ffffff" strokeColor="#000000" strokeSize="4" text="英雄签到"/>
+    <text id="n4_i83d" name="n4" xy="76,59" size="206,46" group="n5_i83d" fontSize="34" color="#ffec6c" strokeColor="#000000" strokeSize="4" text="登录免费获得"/>
+    <group id="n5_i83d" name="n5" xy="18,0" size="311,143" group="n10_i83d" advanced="true"/>
+    <component id="n6_i83d" name="btn_award" src="v89153" fileName="btn/btn1.xml" xy="639,71" size="99,96" group="n10_i83d">
+      <Button title="奖励" titleFontSize="24" icon="ui://1e79bd010b0926"/>
+    </component>
+    <component id="n7_i83d" name="headItem1" src="pwoev17z" fileName="header/HeadItemCompV2.xml" pkg="38fa8c75" xy="312,12" group="n9_i83d" scale="0.8,0.8"/>
+    <component id="n8_i83d" name="headItem2" src="pwoev17z" fileName="header/HeadItemCompV2.xml" pkg="38fa8c75" xy="482,12" group="n9_i83d" scale="0.8,0.8"/>
+    <group id="n9_i83d" name="head" xy="312,12" size="375,54" group="n10_i83d" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <group id="n10_i83d" name="n10" xy="18,0" size="720,167" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n10_i83d" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n10_i83d" tween="true" startValue="18,-100" endValue="18,0" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

@@ -1,0 +1,286 @@
+
+gw_ganransheshou.png
+size: 199,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: true
+  xy: 51, 58
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: true
+  xy: 172, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 174, 75
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 155, 25
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 69, 38
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 39, 41
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 143, 68
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 89, 19
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: false
+  xy: 44, 10
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 108, 12
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: true
+  xy: 2, 38
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: true
+  xy: 87, 55
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 2, 9
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 128, 6
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: false
+  xy: 143, 5
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: false
+  xy: 28, 47
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: false
+  xy: 116, 5
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: false
+  xy: 62, 3
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: false
+  xy: 63, 12
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+J zd26
+  rotate: false
+  xy: 2, 55
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+J zd27
+  rotate: true
+  xy: 67, 25
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+J zd28
+  rotate: true
+  xy: 134, 26
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+J zd29
+  rotate: false
+  xy: 129, 15
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 113, 65
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+J zd30
+  rotate: 270
+  xy: 188, 10
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+J zd31
+  rotate: 180
+  xy: 24, 22
+  size: 18, 20
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+J zd32
+  rotate: false
+  xy: 2, 23
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+J zd33
+  rotate: true
+  xy: 174, 48
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+J zd34
+  rotate: true
+  xy: 44, 27
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+J zd35
+  rotate: true
+  xy: 172, 30
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+J zd36
+  rotate: false
+  xy: 16, 11
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+J zd37
+  rotate: false
+  xy: 150, 12
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+J zd38
+  rotate: false
+  xy: 93, 35
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+J zd39
+  rotate: true
+  xy: 113, 41
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 33, 5
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: true
+  xy: 143, 41
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: 270
+  xy: 163, 4
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: true
+  xy: 80, 10
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 99, 4
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 112, 26
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1

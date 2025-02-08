@@ -1,0 +1,48 @@
+
+skill01_upper.png
+size: 230,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_yinbo
+  rotate: false
+  xy: 132, 39
+  size: 64, 96
+  orig: 64, 96
+  offset: 0, 0
+  index: -1
+images/effect/skill01_yinfu1
+  rotate: true
+  xy: 132, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+images/effect/skill01_yinfu2
+  rotate: false
+  xy: 198, 14
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+images/effect/skill01_yinfu3
+  rotate: false
+  xy: 198, 55
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+images/effect/skill01_yinfu4
+  rotate: false
+  xy: 198, 96
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+images/effect/skill01glo
+  rotate: false
+  xy: 2, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

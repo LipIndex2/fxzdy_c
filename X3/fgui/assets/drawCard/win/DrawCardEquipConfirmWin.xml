@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kbuyss6u">
+  <controller name="isHave" exported="true" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n60_6d8c" name="fg" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="87,402" size="572,388" group="n79_116zs"/>
+    <image id="n59_6d8c" name="bg" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="65,313" size="619,673" group="n79_116zs"/>
+    <text id="n66_6d8c" name="labelTitle" xy="342,332" size="67,44" group="n79_116zs" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="提示"/>
+    <image id="n61_6d8c" name="bgItem" src="qoezvvv1c8" fileName="bgImage/hwdi_frame.png" pkg="38fa8c75" xy="272,489" size="204,177" group="n79_116zs" alpha="0.5"/>
+    <component id="n71_6d8c" name="itemShow" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="321,524" group="n79_116zs"/>
+    <richtext id="n74_6d8c" name="labelTips" xy="163,430" pivot="0.5,0.5" size="432,34" group="n79_116zs" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" autoSize="none" text="拥有黄金鱼竿 [color=#ffd248]×10[/color]"/>
+    <image id="n67_6d8c" name="bgCount" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="260,705" size="165,43" group="n87_buys" alpha="0.25">
+      <gearXY controller="isHave" pages="0,1" values="296,706,0.395,0.529|260,706,0.347,0.529" positionsInPercent="true"/>
+    </image>
+    <text id="n68_6d8c" name="labelCount" xy="279,708" pivot="0.5,0.5" size="110,42" group="n87_buys" fontSize="30" color="#93c8ff" align="center" vAlign="middle" autoSize="none" text="10" input="true">
+      <gearXY controller="isHave" pages="0,1" values="315,707,0.421,0.53|279,708,0.373,0.531" positionsInPercent="true"/>
+    </text>
+    <component id="n70_6d8c" name="btnMinus1" src="oetqs91" fileName="btn/BtnJian1.xml" pkg="72zq62ea" xy="209,697" group="n87_buys">
+      <gearXY controller="isHave" pages="0,1" values="244,698,0.327,0.523|209,698,0.279,0.523" positionsInPercent="true"/>
+    </component>
+    <component id="n69_6d8c" name="btnAdd1" src="oetqs90" fileName="btn/BtnJia1.xml" pkg="72zq62ea" xy="404,697" group="n87_buys">
+      <gearXY controller="isHave" pages="0,1" values="439,698,0.587,0.523|404,698,0.539,0.523" positionsInPercent="true"/>
+    </component>
+    <component id="n77_116zs" name="btnMinus10" src="oetqs93" fileName="btn/BtnJian10.xml" pkg="72zq62ea" xy="133,697" group="n87_buys">
+      <gearDisplay controller="isHave" pages="1"/>
+    </component>
+    <component id="n76_116zs" name="btnAdd10" src="oetqs92" fileName="btn/BtnJia10.xml" pkg="72zq62ea" xy="462,697" group="n87_buys">
+      <gearDisplay controller="isHave" pages="1"/>
+    </component>
+    <component id="n78_116zs" name="btnMax" src="oetqs94" fileName="btn/BtnZuiDa.xml" pkg="72zq62ea" xy="538,697" group="n87_buys">
+      <gearDisplay controller="isHave" pages="1"/>
+    </component>
+    <group id="n87_buys" name="G_useBtn" xy="133,697" size="480,58" group="n79_116zs" advanced="true"/>
+    <component id="n84_oetq" name="btnUse" src="oetqs95" fileName="btn/BtnUse.xml" pkg="72zq62ea" xy="225,822" size="301,122" group="n86_oetq">
+      <gearDisplay controller="isHave" pages="1"/>
+    </component>
+    <component id="n80_116zs" name="btnBuy" src="n9t528" fileName="components/DrawCardTenCountButton.xml" xy="223,821" group="n86_oetq">
+      <gearDisplay controller="isHave" pages="0"/>
+    </component>
+    <group id="n86_oetq" name="G_bottom" xy="223,821" size="306,123" group="n79_116zs"/>
+    <group id="n79_116zs" name="G_all" xy="65,313" size="619,673" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

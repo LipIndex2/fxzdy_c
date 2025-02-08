@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="536,180">
+  <controller name="type" pages="0,left,3,center,2,right" selected="2"/>
+  <displayList>
+    <component id="n35_buys" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="490,44" pivot="0.5,0.5" anchor="true" scale="0.8,0.8">
+      <gearDisplay controller="type" pages="0,2"/>
+      <gearXY controller="type" pages="0,2" values="44,44|490,44" default="-9,-8"/>
+    </component>
+    <image id="n30_91d6" name="bgContentL" src="91d619" fileName="img/lt_frame.png" xy="95,34" size="430,140" group="n42_nl4g"/>
+    <image id="n56_e53p" name="bgContentL2" src="e53p3q" fileName="img/bg_invite.png" xy="317,59" pivot="0.5,0.5" anchor="true" size="405,33" group="n42_nl4g" flip="hz"/>
+    <component id="n57_e53p" name="btnJoinL" src="e53p3r" fileName="btn/ChatInviteBtn.xml" xy="427,94" group="n42_nl4g"/>
+    <text id="n34_91d6" name="textPlayerNameL" xy="103,0" size="113,32" group="n42_nl4g" fontSize="22" color="#adc8f8" vAlign="middle" text="无敌美少女"/>
+    <richtext id="n33_91d6" name="textContentL" xy="124,80" size="300,32" group="n42_nl4g" fontSize="22" color="#284eb8" ubb="true" autoSize="height" autoClearText="true" text="哇哇哇"/>
+    <text id="n45_nwvr" name="textLeagueNameL" xy="124,43" size="91,32" group="n42_nl4g" fontSize="22" color="#406fdb" vAlign="middle" text="联盟名称"/>
+    <image id="n58_e53p" name="lineL" src="bbef2" fileName="img/fgx1_line.png" xy="124,133" group="n59_e53p"/>
+    <text id="n48_nwvr" name="textLeagueLvL" xy="124,138" size="91,32" group="n59_e53p" fontSize="22" color="#406fdb" vAlign="middle" text="联盟名称"/>
+    <text id="n49_nwvr" name="textLeagueIdL" xy="504,138" pivot="1,0" anchor="true" size="91,32" group="n59_e53p" fontSize="22" color="#406fdb" align="right" vAlign="middle" text="联盟名称"/>
+    <group id="n59_e53p" name="n59" xy="124,133" size="388,36" group="n42_nl4g" advanced="true">
+      <relation target="n33_91d6" sidePair="top-bottom"/>
+    </group>
+    <group id="n42_nl4g" name="G_L" xy="95,0" size="430,174" advanced="true">
+      <gearDisplay controller="type" pages="0"/>
+    </group>
+    <image id="n40_nl4g" name="bgContentR" src="91d619" fileName="img/lt_frame.png" xy="440,34" size="430,140" group="n41_nl4g" scale="-1,1"/>
+    <image id="n60_e53p" name="bgContentR2" src="e53p3q" fileName="img/bg_invite.png" xy="216,60" pivot="0.5,0.5" anchor="true" size="405,33" group="n41_nl4g"/>
+    <component id="n61_e53p" name="btnJoinR" src="e53p3r" fileName="btn/ChatInviteBtn.xml" xy="329,94" group="n41_nl4g"/>
+    <text id="n43_ppu1" name="textPlayerNameR" xy="431,0" pivot="1,0" anchor="true" size="234,32" group="n41_nl4g" fontSize="22" color="#adc8f8" align="right" vAlign="middle" autoSize="none" text="无敌美少女"/>
+    <text id="n53_nwvr" name="textLeagueNameR" xy="29,43" size="91,32" group="n41_nl4g" fontSize="22" color="#406fdb" vAlign="middle" text="联盟名称"/>
+    <richtext id="n39_nl4g" name="textContentR" xy="29,80" pivot="1,0" size="300,32" group="n41_nl4g" fontSize="22" color="#284eb8" ubb="true" autoSize="height" autoClearText="true" text="哇哇哇"/>
+    <image id="n62_e53p" name="lineR" src="bbef2" fileName="img/fgx1_line.png" xy="30,134" group="n63_e53p"/>
+    <text id="n54_nwvr" name="textLeagueLvR" xy="30,138" size="91,32" group="n63_e53p" fontSize="22" color="#406fdb" vAlign="middle" text="联盟名称"/>
+    <text id="n55_nwvr" name="textLeagueIdR" xy="406,138" pivot="1,0" anchor="true" size="91,32" group="n63_e53p" fontSize="22" color="#406fdb" align="right" vAlign="middle" text="联盟名称"/>
+    <group id="n63_e53p" name="n63" xy="30,134" size="388,36" group="n41_nl4g" advanced="true">
+      <relation target="n39_nl4g" sidePair="top-bottom"/>
+    </group>
+    <group id="n41_nl4g" name="G_R" xy="13,0" size="856,174" advanced="true">
+      <gearDisplay controller="type" pages="2"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4cf771cc">
+  <resources>
+    <image id="cb8c3" name="sd_A_common_lb3hui_frame.png" path="/img/" scale="9grid" scale9grid="119,26,238,52"/>
+    <image id="cb8c4" name="sd_A_common_lb2_frame.png" path="/img/"/>
+    <image id="cb8c5" name="sd_A_common_green2_btn.png" path="/img/" scale="9grid" scale9grid="33,12,66,24"/>
+    <image id="cb8c7" name="sd_A_common_hqtj_tab.png" path="/img/"/>
+    <component id="cb8c9" name="ItemComeFromView.xml" path="/"/>
+    <component id="pr9ta" name="ItemOneGetWayView.xml" path="/"/>
+    <component id="pr9tb" name="ItemComeFromIconView.xml" path="/"/>
+    <component id="vdkjc" name="btnItemComeFromJump.xml" path="/"/>
+    <component id="t6mg48" name="ItemSmallTipsView.xml" path="/"/>
+    <component id="t6mg2e" name="tipsItemDetails.xml" path="/components/"/>
+    <image id="b2sdd" name="tisp_pop.png" path="/img/" scale="9grid" scale9grid="56,19,14,18"/>
+    <image id="f0d815" name="chooseItemFooter.png" path="/img/" scale9grid="6,4,12,8"/>
+    <component id="jqxi49" name="ItemSyntheticWin.xml" path="/win/"/>
+    <image id="jqxi4i" name="sd_A_common_tianfu_blood.png" path="/win/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

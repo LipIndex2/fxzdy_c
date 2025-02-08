@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="137,144" extention="ProgressBar">
+  <displayList>
+    <image id="n0_db4z" name="n0" src="db4z41" fileName="bar/DNA_bg.png" xy="0,0" size="137,144">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_db4z" name="bar" src="db4z42" fileName="bar/DNA_fg.png" xy="0,0" size="137,144" fillMethod="vt" fillOrigin="1">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <ProgressBar/>
+</component>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="86,38">
+  <displayList>
+    <loader id="n176_ffqt" name="imageBg" xy="14,13" size="72,21" url="ui://410b0b71ae9749"/>
+    <loader id="n178_ffqt" name="imageLogo" xy="0,0" size="36,38" url="ui://410b0b71ae9750"/>
+    <text id="n177_ffqt" name="labelTitle" xy="31,5" size="44,29" fontSize="20" color="#ffffff" strokeColor="#000000" strokeSize="3" text="简单"/>
+  </displayList>
+</component>

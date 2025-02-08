@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <displayList>
+    <image id="n8_03e4" name="n8" src="03e470" fileName="img/kongcao_46.png" xy="0,0" group="n11_cjsd"/>
+    <image id="n9_03e4" name="n9" src="odo57o" fileName="btnImage/jia1_btn.png" pkg="38fa8c75" xy="28,28" size="49,49" group="n11_cjsd"/>
+    <group id="n11_cjsd" name="btnAdd" xy="0,0" size="104,104" advanced="true"/>
+    <component id="n10_cjsd" name="base" src="abqcvvv1ek" fileName="item/WeaponBaseItem.xml" pkg="38fa8c75" xy="0,0"/>
+  </displayList>
+</component>

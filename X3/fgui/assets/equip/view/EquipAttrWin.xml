@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_adad" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="33,249" size="682,821" group="n33_z7ud"/>
+    <image id="n1_adad" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="55,336" size="638,711" group="n33_z7ud" alpha="0.8"/>
+    <image id="n23_adad" name="n23" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="76,382" size="596,37" group="n33_z7ud" color="#4b75c5"/>
+    <image id="n27_adad" name="n27" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="76,564" size="596,37" group="n33_z7ud" color="#4b75c5"/>
+    <list id="n31_z7ud" name="listAttrMain" xy="89,440" size="572,100" group="n33_z7ud" layout="flow_hz" overflow="scroll" lineGap="20" colGap="35" defaultItem="ui://0850c61ez7udv40" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n32_z7ud" name="listAttrOther" xy="91,621" size="567,410" group="n33_z7ud" overflow="scroll" lineGap="8" defaultItem="ui://0850c61ez7udv41" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n22_adad" name="n22" xy="372,295" pivot="0.5,0.5" anchor="true" size="131,44" group="n33_z7ud" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="装备属性"/>
+    <text id="n26_adad" name="n26" xy="157,400" pivot="0.5,0.5" anchor="true" size="107,36" group="n33_z7ud" fontSize="26" color="#ffffff" vAlign="middle" text="基础属性"/>
+    <text id="n28_adad" name="n28" xy="157,582" pivot="0.5,0.5" anchor="true" size="107,36" group="n33_z7ud" fontSize="26" color="#ffffff" vAlign="middle" text="进阶属性"/>
+    <group id="n33_z7ud" name="gAll" xy="33,249" size="682,821" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n34_vdae" name="n34" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1095">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

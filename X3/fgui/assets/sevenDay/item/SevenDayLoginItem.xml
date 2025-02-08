@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,160">
+  <controller name="c1" pages="0,不可领取,1,可领取,2,已领取" selected="0"/>
+  <controller name="c2" exported="true" pages="0,小奖,1,大奖" selected="0"/>
+  <displayList>
+    <loader id="n37_v891" name="n37" xy="0,1" size="134,158" url="ui://5d5abdd81ff84" autoSize="true">
+      <gearDisplay controller="c2" pages="0"/>
+    </loader>
+    <loader id="n38_v891" name="img_icon" xy="0,-2" size="288,161" url="ui://5d5abdd81ff813" autoSize="true" clearOnPublish="true">
+      <gearDisplay controller="c2" pages="1"/>
+    </loader>
+    <image id="n29_v891" name="n29" src="1ff811" fileName="img/teshudi.png" xy="0,1">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearDisplay2 controller="c2" pages="0" condition="0"/>
+    </image>
+    <image id="n30_v891" name="img_sel" src="1ff812" fileName="img/xuanzhong.png" xy="-18,-17" size="170,190">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearSize controller="c2" pages="1" values="324,190,1,1" default="170,190,1,1"/>
+    </image>
+    <loader id="n31_v891" name="Img_item" xy="67,88" pivot="0.5,0.5" anchor="true" size="100,100" url="ui://5d5abdd81ff85" align="center" vAlign="middle" fill="scale" shrinkOnly="true" clearOnPublish="true">
+      <gearDisplay controller="c2" pages="0"/>
+    </loader>
+    <text id="n6_1ff8" name="n6" xy="9,7" pivot="0.5,0.5" size="63,26" fontSize="18" color="#ffffff" align="center" vAlign="middle" text="第     日">
+      <gearDisplay controller="c2" pages="0,1"/>
+    </text>
+    <text id="n7_1ff8" name="T_day" xy="29,-5" pivot="0.5,0.5" size="24,45" fontSize="33" color="#ffffff" align="center" vAlign="middle" text="1">
+      <gearDisplay controller="c2" pages="0,1"/>
+    </text>
+    <text id="n8_1ff8" name="T_count" xy="84,121" pivot="1,0.5" size="45,32" fontSize="22" color="#ffffff" align="right" vAlign="middle" strokeColor="#000000" strokeSize="2" text="x99">
+      <gearDisplay controller="c2" pages="0"/>
+    </text>
+    <text id="n34_v891" name="T_desc" xy="35,111" pivot="0,0.5" size="10,40" fontSize="29" color="#f7ff7f" vAlign="middle" text="">
+      <gearDisplay controller="c2" pages="1"/>
+    </text>
+    <image id="n35_v891" name="n35" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,1" size="134,154" alpha="0.65">
+      <gearDisplay controller="c1" pages="2"/>
+      <gearSize controller="c2" pages="1" values="287,154,1,1" default="134,154,1,1"/>
+    </image>
+    <image id="n36_v891" name="n36" src="v891vvv1dt" fileName="frameImage/ylq_tag.png" pkg="38fa8c75" xy="-3,54" pivot="0.5,0.5" scale="0.85,0.85">
+      <gearDisplay controller="c1" pages="2"/>
+      <gearXY controller="c2" pages="1" values="76,54" default="-3,54"/>
+    </image>
+    <component id="n40_dusv" name="spineFrame" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="66,79"/>
+    <component id="n41_dusv" name="spineFrameBig" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="145,79"/>
+    <component id="n42_dusv" name="spineLight" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="67,80"/>
+    <component id="n43_dusv" name="spineLightBig" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="145,80"/>
+    <loader id="n39_v891" name="btn_item" xy="67,88" pivot="0.5,0.5" anchor="true" size="100,100" align="center" vAlign="middle" fill="scale" shrinkOnly="true" clearOnPublish="true">
+      <gearDisplay controller="c2" pages="0,1"/>
+      <gearXY controller="c2" pages="0,1" values="67,88|145,78"/>
+      <gearSize controller="c2" pages="1" values="252,118,1,1" default="100,100,1,1"/>
+    </loader>
+  </displayList>
+</component>

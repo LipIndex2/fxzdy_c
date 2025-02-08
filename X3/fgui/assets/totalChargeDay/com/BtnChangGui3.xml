@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="166,75" pivot="0.5,0.5" extention="Button" designImage="ui://7q3fcj1kuvvcs7w" designImageOffsetX="-517" designImageOffsetY="-711">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="3"/>
+  <controller name="state" exported="true" pages="0,notFinish,1,draw" selected="0">
+    <remark page="0" value="待领取"/>
+    <remark page="1" value="领取"/>
+  </controller>
+  <displayList>
+    <loader id="n0_ckie" name="icon" xy="3,2" size="162,73" aspect="true" url="ui://38fa8c7583016" fill="scale">
+      <gearIcon controller="state" pages="0,1" values="ui://38fa8c7583016|ui://38fa8c75pf1a147"/>
+    </loader>
+    <text id="n2_ckie" name="title" xy="0,0" pivot="0.5,0.5" size="166,75" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#1a50a9" strokeSize="3" text="前往">
+      <gearColor controller="state" pages="1" values="#ffffff,#c96b06" default="#ffffff,#1a50a9"/>
+      <gearText controller="state" pages="0,1" values="前往|领取"/>
+    </text>
+    <component id="n3_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="156,10" size="20,20" controller="type,0">
+      <gearDisplay controller="state" pages="1"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

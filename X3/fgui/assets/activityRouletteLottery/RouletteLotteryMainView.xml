@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kko81s9q">
+  <displayList>
+    <loader id="n63_ko81" name="n63" xy="0,-18" size="750,1626" url="ui://7cvz7rmmko81vv2d" align="center" autoSize="true"/>
+    <image id="n81_ko81" name="n81" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="0,-165" size="750,232" color="#242651">
+      <relation target="" sidePair="width-width,center-center"/>
+    </image>
+    <image id="n25_52f5" name="n25" src="52f515" fileName="img/yinying.png" xy="550,1050" group="n76_ko81" alpha="0.5"/>
+    <image id="n26_52f5" name="n26" src="52f516" fileName="img/scale_90%js00.png" xy="546,888" group="n76_ko81"/>
+    <group id="n76_ko81" name="n76" xy="546,888" size="211,210" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n75_ko81" name="page" src="ko8134" fileName="RoulettePage.xml" xy="43,156" pivot="0.487,0.607"/>
+    <image id="n24_52f5" name="n24" src="52f514" fileName="img/bazi.png" xy="304,792"/>
+    <image id="n35_52f5" name="n35" src="52f520" fileName="img/wnzidi_frame.png" xy="120,1023" size="524,40">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <richtext id="n79_ko81" name="T_bigAward" xy="164,1027" pivot="0.5,0.5" size="422,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" ubb="true" strokeColor="#000000" text="抽中全部大奖[color=#FFCD54](0/3)[/color]可获得余下[color=#FF5656]所有奖励[/color]">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </richtext>
+    <image id="n56_52f5" name="n56" src="52f531" fileName="img/cjzhd_btd.png" xy="3,37" group="n64_ko81"/>
+    <text id="n58_52f5" name="T_name1" xy="16,39" pivot="0.5,0.5" size="73,92" group="n64_ko81" fontSize="70" color="#44eaed" align="center" vAlign="middle" text="星"/>
+    <text id="n68_ko81" name="T_name4" xy="88,60" pivot="0.5,0.5" size="147,64" group="n64_ko81" fontSize="48" color="#44eaed" align="center" vAlign="middle" text="元转盘"/>
+    <text id="n59_52f5" name="T_name2" xy="20,41" pivot="0.5,0.5" size="73,92" group="n64_ko81" fontSize="70" color="#c710b4" align="center" vAlign="middle" text="星"/>
+    <text id="n69_ko81" name="T_name5" xy="92,62" pivot="0.5,0.5" size="147,64" group="n64_ko81" fontSize="48" color="#c710b4" align="center" vAlign="middle" text="元转盘"/>
+    <text id="n60_52f5" name="T_name3" xy="18,39" pivot="0.5,0.5" size="73,92" group="n64_ko81" fontSize="70" color="#ffffff" align="center" vAlign="middle" text="星"/>
+    <text id="n70_ko81" name="T_name6" xy="90,60" pivot="0.5,0.5" size="147,64" group="n64_ko81" fontSize="48" color="#ffffff" align="center" vAlign="middle" text="元转盘"/>
+    <richtext id="n66_ko81" name="T_time" xy="42,117" pivot="0,0.5" size="207,29" group="n64_ko81" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" text="活动倒计时:[color=#6AFF63]5天30小时[/color]"/>
+    <component id="n67_ko81" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="274,74" group="n64_ko81"/>
+    <component id="n71_ko81" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="527,73" group="n64_ko81"/>
+    <group id="n64_ko81" name="n64" xy="3,37" size="677,109"/>
+    <image id="n42_52f5" name="n42" src="52f523" fileName="img/cjzhd_dj.png" xy="527,789" group="n65_ko81"/>
+    <text id="n43_52f5" name="n43" xy="548,805" pivot="0.5,0.5" size="147,34" group="n65_ko81" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#090200" strokeSize="2" text="本次活动大奖"/>
+    <text id="n44_52f5" name="T_awardName" xy="549,838" pivot="0,0.5" size="156,34" group="n65_ko81" fontSize="24" color="#ff4848" vAlign="middle" strokeColor="#151515" strokeSize="2" text="骗术之神·洛基"/>
+    <group id="n65_ko81" name="n65" xy="527,789" size="224,95" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <image id="n45_52f5" name="n45" src="52f524" fileName="img/cjzhd_lsd.png" xy="8,156" group="n72_ko81"/>
+    <richtext id="n73_ko81" name="T_round" xy="36,175" pivot="0,0.5" size="195,36" group="n72_ko81" fontSize="26" color="#ffffff" vAlign="middle" ubb="true" strokeColor="#000000" strokeSize="3" text="大奖轮次:[color=#FFEC6C]第三轮[/color]"/>
+    <group id="n72_ko81" name="n72" xy="8,156" size="252,73"/>
+    <component id="n77_ko81" name="btn_one" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="56,1082" controller="style,1">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="招募1次"/>
+    </component>
+    <component id="n78_ko81" name="btn_ten" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="389,1083">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="招募10次"/>
+    </component>
+    <component id="n80_ko81" name="skipItem" src="ko8136" fileName="item/DrawSkipAnimItem.xml" xy="23,972" size="147,40">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

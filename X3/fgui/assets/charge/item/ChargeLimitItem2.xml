@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,356">
+  <displayList>
+    <image id="n0_6f90" name="n0" src="6f900" fileName="img/yuelibao.png" xy="0,0"/>
+    <text id="n7_6f90" name="lbLimit" xy="494,236" pivot="0.5,0.5" anchor="true" size="117,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#082501" strokeSize="2" text="限购（2/2）"/>
+    <text id="n8_6f90" name="lbName" xy="490,72" pivot="0.5,0.5" anchor="true" size="232,62" fontSize="46" color="#faffab" vAlign="middle" strokeColor="#b15d0b" strokeSize="3" text="月度大礼包"/>
+    <list id="n11_c3wz" name="listReward" xy="290,117" size="447,104" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://38fa8c75dtss4k" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n12_c3wz" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="400,253" size="183,70">
+      <Button titleFontSize="28"/>
+    </component>
+    <component id="n17_mz6j" name="cornerMark" src="mz6jvvv1h2" fileName="view/CornerMark.xml" pkg="38fa8c75" xy="679,32"/>
+    <component id="n13_c3wz" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="0,0" size="730,356" group="n16_c3wz"/>
+    <image id="n14_c3wz" name="n14" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="730,356" group="n16_c3wz" alpha="0.6"/>
+    <image id="n15_c3wz" name="n15" src="lhcv1n" fileName="img/sq_tag.png" xy="314,152" group="n16_c3wz"/>
+    <group id="n16_c3wz" name="pSellOut" xy="0,0" size="730,356" visible="false" advanced="true"/>
+  </displayList>
+</component>

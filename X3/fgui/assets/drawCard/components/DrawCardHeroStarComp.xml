@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="30,29">
+  <displayList>
+    <image id="n6_phyf" name="bg" src="phyf4j" fileName="img/sd_A_common_xingdi_icon.png" xy="0,0"/>
+    <image id="n3_a003" name="fg" src="a0033" fileName="img/xinghuang1_icon.png" pkg="38fa8c75" xy="0,0"/>
+  </displayList>
+</component>

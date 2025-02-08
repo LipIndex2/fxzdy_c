@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mzzy8rjo">
+  <resources>
+    <component id="pf1a6" name="AreaTextItem.xml" path="/item/"/>
+    <image id="pf1a7" name="light.png" path="/img/"/>
+    <image id="pf1a8" name="pzzhanli_frame.png" path="/img/" scale="9grid" scale9grid="167,19,25,38"/>
+    <image id="pf1a9" name="pzputong_frame.png" path="/img/" scale="9grid" scale9grid="23,13,5,26"/>
+    <image id="pf1aa" name="pztubiao_frame.png" path="/img/" scale="9grid" scale9grid="26,15,7,32"/>
+    <component id="pf1ab" name="FloatingTextView.xml" path="/"/>
+    <image id="pf1ae" name="sd_A_common_pz_frame.png" path="/img/" scale="9grid" scale9grid="0,19,1,38"/>
+    <image id="s8ulf" name="zl_word.png" path="/img/"/>
+    <image id="s8ulg" name="zl_di.png" path="/img/"/>
+    <component id="j7vkh" name="AttrTextItem.xml" path="/item/"/>
+    <component id="j7vki" name="TipsTextItem.xml" path="/item/"/>
+    <component id="j7vkj" name="GotTextItem.xml" path="/item/"/>
+    <component id="j7vkk" name="FightTextItem.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,13 @@
+
+zise_duye.png
+size: 79,23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dandao
+  rotate: false
+  xy: 2, 2
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1

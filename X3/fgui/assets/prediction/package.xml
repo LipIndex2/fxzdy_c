@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packageDescription id="fcf03b84">
+  <resources>
+    <image id="cfb05" name="tb_frame.png" path="/img/"/>
+    <image id="cfb06" name="zhujiemian_0009.png" path="/img/"/>
+    <component id="cfb015" name="PredictionMainView.xml" path="/"/>
+    <component id="s8ul16" name="PredictionAwardItem.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

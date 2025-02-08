@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="508,43">
+  <displayList>
+    <image id="n41_cjsd" name="n41" src="03e479" fileName="img/shuxingtiao_frame.png" xy="0,0" alpha="0.5"/>
+    <image id="n23_03e4" name="bgIcon" src="105pvv18e" fileName="bgImage/shuxingdi1_frame.png" pkg="38fa8c75" xy="2,2" size="55,39" alpha="0.7" color="#153177"/>
+    <text id="n25_03e4" name="lbAttrDes" xy="20,4" pivot="0,0.5" size="156,36" fontSize="26" color="#aabff1" vAlign="middle" text="攻击               "/>
+    <text id="n26_03e4" name="lbOldAttr" xy="189,3" pivot="0,0.5" size="85,39" fontSize="28" color="#ffffff" align="center" vAlign="middle" text="100% "/>
+    <text id="n27_03e4" name="lbNewAttr" xy="410,3" pivot="0.5,0.5" size="78,39" fontSize="28" color="#07de20" align="center" vAlign="middle" text="150%"/>
+    <image id="n40_03e4" name="n40" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="330,12" size="12,19"/>
+    <loader id="n42_cjsd" name="iconLoader" xy="10,8" pivot="0.5,0.5" size="29,29" align="center" vAlign="middle" fill="scaleNoBorder" color="#4bcefa"/>
+  </displayList>
+</component>

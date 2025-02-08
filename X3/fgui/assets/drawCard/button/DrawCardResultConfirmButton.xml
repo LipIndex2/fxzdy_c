@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,111" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n10_phyf" name="bg" src="phyfv16r" fileName="btnImage/changgui4_btn.png" pkg="38fa8c75" xy="3,0"/>
+    <text id="n9_a003" name="title" xy="9,13" size="288,79" fontSize="60" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="确定"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

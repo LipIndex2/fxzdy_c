@@ -1,0 +1,13 @@
+
+skill02_2_lower.png
+size: 199,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_diyuzhilu2
+  rotate: false
+  xy: 2, 2
+  size: 195, 69
+  orig: 200, 200
+  offset: 5, 55
+  index: -1

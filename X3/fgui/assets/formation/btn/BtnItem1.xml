@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="64,88" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" exported="true" pages="0,天赋,1,装备" selected="0"/>
+  <displayList>
+    <loader id="n9_odo5" name="img_icon" xy="0,2" size="64,64" group="n8_odo5" url="ui://38fa8c75cni66z" align="center" vAlign="middle" autoSize="true"/>
+    <richtext id="n10_odo5" name="T_num" xy="10,50" size="47,39" group="n8_odo5" fontSize="28" color="#75ff7b" align="center" vAlign="middle" leading="0" strokeColor="#151515" strokeSize="2" text="3/4">
+      <relation target="" sidePair="center-center"/>
+    </richtext>
+    <group id="n8_odo5" name="n8" xy="0,2" size="64,87"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

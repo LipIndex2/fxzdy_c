@@ -1,0 +1,209 @@
+
+xingxing_saoguang_upper.png
+size: 199,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xing02
+  rotate: false
+  xy: 141, 15
+  size: 15, 11
+  orig: 64, 256
+  offset: 20, 173
+  index: -1
+effect/xing03
+  rotate: false
+  xy: 2, 7
+  size: 20, 16
+  orig: 64, 256
+  offset: 20, 168
+  index: -1
+effect/xing04
+  rotate: false
+  xy: 114, 4
+  size: 25, 22
+  orig: 64, 256
+  offset: 20, 162
+  index: -1
+effect/xing05
+  rotate: false
+  xy: 40, 10
+  size: 25, 24
+  orig: 64, 256
+  offset: 20, 160
+  index: -1
+effect/xing06
+  rotate: true
+  xy: 2, 25
+  size: 25, 36
+  orig: 64, 256
+  offset: 20, 148
+  index: -1
+effect/xing07
+  rotate: false
+  xy: 172, 39
+  size: 25, 41
+  orig: 64, 256
+  offset: 20, 143
+  index: -1
+effect/xing08
+  rotate: false
+  xy: 164, 110
+  size: 25, 43
+  orig: 64, 256
+  offset: 20, 138
+  index: -1
+effect/xing09
+  rotate: false
+  xy: 137, 109
+  size: 25, 44
+  orig: 64, 256
+  offset: 20, 133
+  index: -1
+effect/xing10
+  rotate: false
+  xy: 110, 108
+  size: 25, 45
+  orig: 64, 256
+  offset: 20, 128
+  index: -1
+effect/xing11
+  rotate: false
+  xy: 29, 106
+  size: 25, 47
+  orig: 64, 256
+  offset: 20, 118
+  index: -1
+effect/xing12
+  rotate: true
+  xy: 128, 55
+  size: 25, 42
+  orig: 64, 256
+  offset: 20, 113
+  index: -1
+effect/xing13
+  rotate: true
+  xy: 137, 82
+  size: 25, 43
+  orig: 64, 256
+  offset: 20, 108
+  index: -1
+effect/xing14
+  rotate: false
+  xy: 46, 36
+  size: 25, 41
+  orig: 64, 256
+  offset: 20, 107
+  index: -1
+effect/xing15
+  rotate: false
+  xy: 56, 106
+  size: 25, 47
+  orig: 64, 256
+  offset: 20, 93
+  index: -1
+effect/xing16
+  rotate: true
+  xy: 118, 28
+  size: 25, 41
+  orig: 64, 256
+  offset: 20, 89
+  index: -1
+effect/xing17
+  rotate: true
+  xy: 83, 80
+  size: 25, 43
+  orig: 64, 256
+  offset: 20, 83
+  index: -1
+effect/xing18
+  rotate: true
+  xy: 74, 53
+  size: 25, 42
+  orig: 64, 256
+  offset: 20, 81
+  index: -1
+effect/xing19
+  rotate: false
+  xy: 2, 105
+  size: 25, 48
+  orig: 64, 256
+  offset: 20, 68
+  index: -1
+effect/xing20
+  rotate: false
+  xy: 83, 107
+  size: 25, 46
+  orig: 64, 256
+  offset: 20, 64
+  index: -1
+effect/xing21
+  rotate: true
+  xy: 29, 79
+  size: 25, 43
+  orig: 64, 256
+  offset: 20, 58
+  index: -1
+effect/xing22
+  rotate: true
+  xy: 2, 52
+  size: 25, 42
+  orig: 64, 256
+  offset: 20, 55
+  index: -1
+effect/xing23
+  rotate: true
+  xy: 73, 26
+  size: 25, 39
+  orig: 64, 256
+  offset: 20, 54
+  index: -1
+effect/xing24
+  rotate: true
+  xy: 161, 12
+  size: 25, 31
+  orig: 64, 256
+  offset: 20, 54
+  index: -1
+effect/xing25
+  rotate: false
+  xy: 67, 2
+  size: 25, 22
+  orig: 64, 256
+  offset: 20, 54
+  index: -1
+effect/xing26
+  rotate: false
+  xy: 2, 86
+  size: 22, 17
+  orig: 64, 256
+  offset: 23, 54
+  index: -1
+effect/xing27
+  rotate: true
+  xy: 182, 88
+  size: 20, 15
+  orig: 64, 256
+  offset: 24, 54
+  index: -1
+effect/xing28
+  rotate: false
+  xy: 161, 46
+  size: 8, 7
+  orig: 64, 256
+  offset: 33, 54
+  index: -1
+effect/xing29
+  rotate: false
+  xy: 191, 152
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/xing01
+  rotate: false
+  xy: 191, 152
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

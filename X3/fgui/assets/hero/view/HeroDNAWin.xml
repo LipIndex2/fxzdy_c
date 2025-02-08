@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n118_26a5" name="n118" src="xwdvvc3" fileName="img/sd_A_common_tisp_frame.png" xy="105,430" group="n130_xwdv"/>
+    <image id="n128_26a5" name="n128" src="xwdvvc7" fileName="img/sd_A_common_fgx1_line.png" xy="137,519" group="n130_xwdv"/>
+    <text id="n119_26a5" name="title" xy="244,456" size="275,49" group="n130_xwdv" fontSize="36" color="#ffeb7d" vAlign="middle" strokeColor="#000000" strokeSize="2" text="觉醒阶段：阶段4"/>
+    <list id="n129_xwdv" name="attr_list" xy="179,529" size="414,346" group="n130_xwdv" overflow="scroll" defaultItem="ui://69f29748xwdvvcp" align="center">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n130_xwdv" name="n130" xy="105,430" size="540,473" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

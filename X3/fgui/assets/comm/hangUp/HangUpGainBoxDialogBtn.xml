@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="176,159" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n2_hqyb" name="bg1" src="hqybvvv1fw" fileName="hangUp/img/img_hangUp_dialog_white.png" xy="3,14" size="160,130"/>
+    <image id="n0_hqyb" name="bg2" src="hqybvvv1fu" fileName="hangUp/img/img_hangUp_dialog_yellow.png" xy="3,14" size="160,130"/>
+    <component id="n1_hqyb" name="btnBox" src="hqybvvv1fq" fileName="hangUp/HangUpPreviewBoxBtn.xml" xy="-6,-26" scale="0.7,0.7"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

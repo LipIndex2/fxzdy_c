@@ -1,0 +1,34 @@
+
+chuizi.png
+size: 77,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd48
+  rotate: true
+  xy: 38, 15
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 2, 10
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: true
+  xy: 58, 30
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 2, 3
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1

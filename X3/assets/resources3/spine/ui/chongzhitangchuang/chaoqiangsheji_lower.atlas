@@ -1,0 +1,118 @@
+
+chaoqiangsheji_lower.png
+size: 1460,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sheji01
+  rotate: false
+  xy: 867, 17
+  size: 372, 109
+  orig: 512, 256
+  offset: 69, 74
+  index: -1
+effect/sheji02
+  rotate: false
+  xy: 439, 254
+  size: 434, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji03
+  rotate: false
+  xy: 875, 254
+  size: 434, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji04
+  rotate: true
+  xy: 1334, 196
+  size: 434, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji05
+  rotate: false
+  xy: 2, 3
+  size: 434, 123
+  orig: 512, 256
+  offset: 42, 63
+  index: -1
+effect/sheji06
+  rotate: false
+  xy: 895, 506
+  size: 437, 124
+  orig: 512, 256
+  offset: 39, 62
+  index: -1
+effect/sheji07
+  rotate: false
+  xy: 438, 2
+  size: 427, 124
+  orig: 512, 256
+  offset: 49, 62
+  index: -1
+effect/sheji08
+  rotate: false
+  xy: 874, 128
+  size: 432, 124
+  orig: 512, 256
+  offset: 44, 62
+  index: -1
+effect/sheji09
+  rotate: false
+  xy: 441, 380
+  size: 436, 124
+  orig: 512, 256
+  offset: 40, 62
+  index: -1
+effect/sheji10
+  rotate: false
+  xy: 879, 380
+  size: 436, 124
+  orig: 512, 256
+  offset: 44, 62
+  index: -1
+effect/sheji11
+  rotate: false
+  xy: 451, 506
+  size: 442, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji12
+  rotate: false
+  xy: 2, 506
+  size: 447, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji13
+  rotate: false
+  xy: 2, 128
+  size: 434, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji14
+  rotate: false
+  xy: 438, 128
+  size: 434, 124
+  orig: 512, 256
+  offset: 42, 62
+  index: -1
+effect/sheji15
+  rotate: false
+  xy: 2, 254
+  size: 435, 124
+  orig: 512, 256
+  offset: 41, 62
+  index: -1
+effect/sheji16
+  rotate: false
+  xy: 2, 380
+  size: 437, 124
+  orig: 512, 256
+  offset: 39, 62
+  index: -1

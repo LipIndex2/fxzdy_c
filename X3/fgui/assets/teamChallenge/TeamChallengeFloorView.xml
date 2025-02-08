@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n18_ig8t" name="bg" xy="63,291" size="619,803" group="n45_ig8t" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <loader id="n19_ig8t" name="fg" xy="92,720" size="572,204" group="n45_ig8t" url="ui://38fa8c758qld1x" fill="scaleFree"/>
+    <text id="n20_ig8t" name="labelTitle" xy="205,315" size="351,44" group="n45_ig8t" fontSize="32" color="#ffffff" align="center" autoSize="none" strokeColor="#1a3773" strokeSize="3" singleLine="true" text="挂机关卡711"/>
+    <loader id="n21_ig8t" name="bgTitle" xy="369,752" pivot="0.5,0.5" anchor="true" size="172,39" group="n23_ig8t" url="ui://38fa8c75tml513g" fill="scaleFree" color="#2a3e71">
+      <relation target="n22_ig8t" sidePair="width-width"/>
+    </loader>
+    <text id="n22_ig8t" name="labelLevelTitle" xy="315,734" size="107,36" group="n23_ig8t" fontSize="26" color="#fefefe" align="center" vAlign="middle" singleLine="true" autoClearText="true" text="挂机奖励">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n23_ig8t" name="levelTitle" xy="283,732" size="172,39" group="n45_ig8t" advanced="true"/>
+    <loader id="n28_ig8t" name="bgEnemySchema" xy="87,388" size="570,313" group="n35_ig8t" url="ui://dhpy5xezig8t188"/>
+    <component id="n51_rivx" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="146,554" group="n35_ig8t"/>
+    <component id="n52_rivx" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="236,607" group="n35_ig8t"/>
+    <component id="n53_rivx" name="modelNode3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="326,554" group="n35_ig8t"/>
+    <component id="n54_rivx" name="modelNode4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="416,608" group="n35_ig8t"/>
+    <component id="n55_rivx" name="modelNode5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="506,554" group="n35_ig8t"/>
+    <component id="n56_rivx" name="modelNode6" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="597,608" group="n35_ig8t"/>
+    <group id="n35_ig8t" name="hero" xy="87,388" size="570,313" group="n45_ig8t"/>
+    <loader id="n36_ig8t" name="bgPower" xy="263,643" size="361,75" group="n38_ig8t" scale="0.6,0.6" url="ui://38fa8c75tml513a" fill="scaleFree"/>
+    <text id="n37_ig8t" name="labelPower" xy="308,646" size="168,39" group="n38_ig8t" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#5d2207" strokeSize="3" singleLine="true" text="1234"/>
+    <group id="n38_ig8t" name="power" xy="263,643" size="361,75" group="n45_ig8t"/>
+    <text id="n46_ig8t" name="tips" xy="263,828" size="218,34" group="n45_ig8t" visible="false" fontSize="24" color="#ffffff" text="今日助战次数已耗尽"/>
+    <component id="n40_ig8t" name="btnSetSchema" src="piwibp" fileName="btn/BtnBlue.xml" pkg="38fa8c75" xy="532,975" size="115,58" group="n42_ig8t">
+      <Button title="布阵"/>
+    </component>
+    <component id="n47_ig8t" name="btnChallenge" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="258,953" size="227,104" group="n42_ig8t">
+      <Button title="挑战" titleFontSize="34"/>
+    </component>
+    <group id="n42_ig8t" name="btn" xy="258,953" size="388,104" group="n45_ig8t" advanced="true"/>
+    <component id="n48_oyy6" name="itemList" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="121,794" size="500,109" group="n45_ig8t"/>
+    <text id="n49_uk3p" name="lbTimes" xy="493,736" size="150,34" group="n45_ig8t" visible="false" fontSize="24" color="#ffffff" text="助战次数:2/3"/>
+    <component id="n50_lupe" name="n50" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="320,1098" group="n45_ig8t"/>
+    <group id="n45_ig8t" name="all" xy="63,291" size="619,897" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

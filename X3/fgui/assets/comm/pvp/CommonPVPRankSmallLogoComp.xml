@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,60">
+  <displayList>
+    <loader id="n190_gkgv" name="imageRankLogo" xy="0,0" pivot="0.5,0.5" size="79,46" url="ui://38fa8c75ffqtvvv1cb" align="center" vAlign="middle"/>
+    <component id="n191_gkgv" name="starComp" src="ffqtvvv1cc" fileName="pvp/CommonPVPRankStarListComp.xml" xy="15,43" scale="0.3,0.3" touchable="false"/>
+  </displayList>
+</component>

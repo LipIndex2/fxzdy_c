@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="686,188">
+  <controller name="t" pages="0,未购买,1,免费,2,已购买" selected="0"/>
+  <displayList>
+    <loader id="n223_k045" name="bg" xy="0,0" size="686,188" url="ui://d6f71f54kyqn47" fill="scaleFree"/>
+    <text id="n153_6b61" name="T_title" xy="40,14" pivot="0,0.5" size="71,36" fontSize="26" color="#fbf5ff" vAlign="middle" autoClearText="true" text="礼包1"/>
+    <richtext id="n232_kyqn" name="T_titleCount" xy="542,18" pivot="1,0.5" size="52,34" fontSize="24" color="#fffe80" align="right" vAlign="middle" strokeColor="#000000" strokeSize="3" text="限购">
+      <relation target="n154_6b61" sidePair="right-left"/>
+    </richtext>
+    <text id="n154_6b61" name="T_count" xy="602,18" pivot="1,0.5" size="45,34" fontSize="24" color="#ffffff" align="right" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="1/1"/>
+    <component id="n233_kyqn" name="itemList" src="caj9vvv1cp" fileName="item/ItemListComp.xml" pkg="38fa8c75" xy="21,68"/>
+    <component id="n228_s8ul" name="btn_buy" src="kyqn49" fileName="btn/BlackShopBuyBtn.xml" xy="442,60" scale="0.6,0.6">
+      <gearDisplay controller="t" pages="0"/>
+    </component>
+    <component id="n224_k045" name="btn_free" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="442,60" scale="0.6,0.6">
+      <gearDisplay controller="t" pages="1"/>
+      <Button title="免费"/>
+    </component>
+    <image id="n231_kyqn" name="n231" src="523f26" fileName="img/sd_A_common_sq_tag.png" xy="525,96">
+      <gearDisplay controller="t" pages="2"/>
+    </image>
+    <component id="n227_s8ul" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="646,90" size="20,20" touchable="false" controller="type,3"/>
+  </displayList>
+</component>

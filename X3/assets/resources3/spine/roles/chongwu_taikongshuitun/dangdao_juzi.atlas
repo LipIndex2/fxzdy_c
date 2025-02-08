@@ -1,0 +1,20 @@
+
+dangdao_juzi.png
+size: 33,21
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js01
+  rotate: false
+  xy: 2, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+js02
+  rotate: true
+  xy: 24, 11
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1

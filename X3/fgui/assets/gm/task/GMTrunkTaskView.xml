@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="612,764">
+  <displayList>
+    <richtext id="n58_f2nq" name="labelTitle" xy="18,52" size="586,132" fontSize="62" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" autoSize="none" singleLine="true" text="GM 主线任务"/>
+    <component id="n60_f2nq" name="input1" src="fsx5n" fileName="common/inputBoxComp.xml" xy="20,303" size="547,67"/>
+    <component id="n59_f2nq" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="353,684" size="189,68" group="n62_y5sw"/>
+    <component id="n61_y5sw" name="btnChangeTaskId" src="b1chc" fileName="common/BtnGm.xml" xy="118,684" size="189,68" group="n62_y5sw"/>
+    <group id="n62_y5sw" name="n62" xy="118,684" size="424,68"/>
+  </displayList>
+</component>

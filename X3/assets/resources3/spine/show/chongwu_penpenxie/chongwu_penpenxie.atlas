@@ -1,0 +1,174 @@
+
+chongwu_penpenxie.png
+size: 308,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: true
+  xy: 144, 23
+  size: 30, 35
+  orig: 83, 35
+  offset: 53, 0
+  index: -1
+js01
+  rotate: 180
+  xy: 219, 3
+  size: 31, 24
+  orig: 82, 24
+  offset: 51, 0
+  index: -1
+js010
+  rotate: false
+  xy: 89, 48
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 2, 184
+  size: 188, 198
+  orig: 188, 198
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 2, 187
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+js013
+  rotate: true
+  xy: 280, 288
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+js014
+  rotate: true
+  xy: 157, 84
+  size: 75, 122
+  orig: 75, 122
+  offset: 0, 0
+  index: -1
+js015
+  rotate: true
+  xy: 2, 102
+  size: 80, 153
+  orig: 80, 153
+  offset: 0, 0
+  index: -1
+js016
+  rotate: false
+  xy: 199, 52
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+js017
+  rotate: false
+  xy: 251, 5
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+js018
+  rotate: true
+  xy: 232, 23
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+js019
+  rotate: 270
+  xy: 181, 22
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+js02
+  rotate: true
+  xy: 240, 57
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+js020
+  rotate: true
+  xy: 84, 20
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+js021
+  rotate: false
+  xy: 280, 254
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+js022
+  rotate: true
+  xy: 2, 16
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+js023
+  rotate: true
+  xy: 44, 16
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 280, 318
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 157, 163
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+js05
+  rotate: true
+  xy: 34, 184
+  size: 13, 65
+  orig: 13, 65
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 2, 48
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 144, 54
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+js08
+  rotate: true
+  xy: 278, 29
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+js09
+  rotate: true
+  xy: 192, 161
+  size: 221, 86
+  orig: 221, 86
+  offset: 0, 0
+  index: -1

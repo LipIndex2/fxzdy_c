@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,163">
+  <controller name="c1" pages="0,cfg,1,player" selected="1"/>
+  <displayList>
+    <image id="n72_p04m" name="n72" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="611,163"/>
+    <image id="n73_p04m" name="n73" src="p04m123" fileName="img/lbbt_frame.png" xy="5,4"/>
+    <component id="n74_p04m" name="G_avatar2" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="-7,-18" scale="0.5,0.5">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <text id="n75_p04m" name="nameLab" xy="78,17" size="161,34" fontSize="24" color="#91c0ff" vAlign="middle" leading="0" strokeColor="#0d0800" strokeSize="2" text="玩家名字6个字">
+      <gearXY controller="c1" pages="0" values="18,17" default="78,17"/>
+    </text>
+    <image id="n77_p04m" name="n77" src="jqxis99" fileName="chat/liaotian_frame.png" pkg="72zq62ea" xy="517,33" pivot="1,0.5" anchor="true" size="112,30" group="n80_p04m" alpha="0.29">
+      <relation target="n78_p04m" sidePair="width-width"/>
+    </image>
+    <text id="n78_p04m" name="valueLab" xy="507,32" pivot="1,0.5" anchor="true" size="92,32" restrictSize="86,0,0,0" group="n80_p04m" fontSize="22" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#010f1f" strokeSize="2" text="12112万"/>
+    <loader id="n79_p04m" name="typeIcon" xy="399,32" pivot="0.5,0.5" anchor="true" size="36,38" group="n80_p04m" url="ui://410b0b71ae9758" align="center" vAlign="middle">
+      <relation target="n78_p04m" sidePair="left-left"/>
+    </loader>
+    <component id="n83_p04m" name="rankBtn" src="p04m126" fileName="btn/DailyBossHurtRankBtn.xml" xy="522,-3" group="n80_p04m" scale="0.6,0.6"/>
+    <group id="n80_p04m" name="hurtMc" xy="381,-3" size="207,72" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+    <list id="n69_ssxx" name="list_hero" xy="16,76" size="581,96" scale="0.76,0.76" layout="row" overflow="scroll" scroll="horizontal" colGap="7" defaultItem="ui://410b0b71p04m11v" autoClearItems="true">
+      <relation target="" sidePair="top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n54_95cd" name="btn_use" src="p04m125" fileName="btn/DailyBossUseBtn.xml" xy="467,83">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

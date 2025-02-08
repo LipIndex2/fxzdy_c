@@ -1,0 +1,62 @@
+
+buff_beidong_upper.png
+size: 257,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/zhousi_beidong_00010
+  rotate: false
+  xy: 200, 2
+  size: 43, 110
+  orig: 100, 280
+  offset: 24, 157
+  index: -1
+images/effect/zhousi_beidong_00011
+  rotate: true
+  xy: 2, 114
+  size: 56, 225
+  orig: 100, 280
+  offset: 19, 42
+  index: -1
+images/effect/zhousi_beidong_00012
+  rotate: false
+  xy: 72, 172
+  size: 62, 256
+  orig: 100, 280
+  offset: 19, 7
+  index: -1
+images/effect/zhousi_beidong_00013
+  rotate: false
+  xy: 201, 181
+  size: 54, 247
+  orig: 100, 280
+  offset: 20, 15
+  index: -1
+images/effect/zhousi_beidong_00014
+  rotate: false
+  xy: 2, 194
+  size: 68, 234
+  orig: 100, 280
+  offset: 21, 16
+  index: -1
+images/effect/zhousi_beidong_00015
+  rotate: false
+  xy: 136, 214
+  size: 63, 214
+  orig: 100, 280
+  offset: 9, 16
+  index: -1
+images/effect/zhousi_beidong_00016
+  rotate: true
+  xy: 2, 62
+  size: 50, 196
+  orig: 100, 280
+  offset: 21, 16
+  index: -1
+images/effect/zhousi_beidong_00017
+  rotate: true
+  xy: 2, 9
+  size: 51, 185
+  orig: 100, 280
+  offset: 21, 16
+  index: -1

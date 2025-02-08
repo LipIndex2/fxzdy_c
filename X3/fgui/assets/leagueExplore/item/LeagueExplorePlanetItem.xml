@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,320" pivot="0.5,0.5">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="唯一星球"/>
+    <remark page="1" value="单数下标"/>
+    <remark page="2" value="双数下标"/>
+  </controller>
+  <displayList>
+    <component id="n35_woyg" name="btnPlanet" src="woyg13g" fileName="item/LeagueExplorePlanetBtn.xml" xy="375,160" pivot="0.5,0.5" anchor="true">
+      <gearXY controller="state" pages="0,1,2" values="375,160|535,160|235,160"/>
+    </component>
+  </displayList>
+</component>

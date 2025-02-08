@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,206">
+  <displayList>
+    <component id="n197_k3sy" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="23,-1"/>
+    <text id="n188_ac45" name="labelPlayerName" xy="4,109" pivot="0.5,0.5" size="147,34" fontSize="24" color="#ffcd54" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" text="星际最靓的仔"/>
+    <component id="n196_k3sy" name="bar" src="k3sy114" fileName="bar/GVGHpBar.xml" xy="2,144">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n195_ac45" name="labelChangeHp" xy="51,177" pivot="0.5,0.5" size="54,29" fontSize="20" color="#ff3e3e" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" text="-10%"/>
+  </displayList>
+</component>

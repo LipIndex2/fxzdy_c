@@ -1,0 +1,13 @@
+
+skill_upper.png
+size: 256,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_ring
+  rotate: false
+  xy: 2, 2
+  size: 252, 71
+  orig: 256, 80
+  offset: 2, 3
+  index: -1

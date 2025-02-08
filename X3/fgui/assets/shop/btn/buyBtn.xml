@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="151,58" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="c1" pages="0,price,1,haveCount" selected="1">
+    <remark page="0" value="原价"/>
+    <remark page="1" value="折扣"/>
+  </controller>
+  <displayList>
+    <image id="n0_jis3" name="n0" src="71c514" fileName="img/sd_A_common_grsz_btn.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n3_jis3" name="icon" xy="3,7" pivot="0.5,0.5" size="48,43" scale="0.9,0.9" url="ui://607146c5htcc39" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <text id="n6_jis3" name="soldPrice" xy="71,8" pivot="0.5,0.5" size="39,40" fontSize="29" color="#ffffff" vAlign="middle" strokeColor="#c96b06" strokeSize="3" autoClearText="true" text="99">
+      <gearDisplay controller="c1" pages="0"/>
+    </text>
+    <text id="n10_jis3" name="countPrice" xy="90,5" pivot="0.5,0.5" size="56,40" group="n9_jis3" fontSize="29" color="#ffffff" vAlign="middle" strokeColor="#c96b06" strokeSize="3" autoClearText="true" text="999"/>
+    <text id="n7_jis3" name="price" xy="46,12" pivot="0.5,0.5" size="44,32" group="n11_gwdp" fontSize="22" color="#d1caa8" vAlign="middle" strokeColor="#7a4308" strokeSize="3" autoClearText="true" text="450"/>
+    <image id="n8_jis3" name="n8" src="htcc3l" fileName="img/mryh_xian.png" xy="50,21" pivot="0.5,0.5" group="n11_gwdp"/>
+    <group id="n11_gwdp" name="n11" xy="46,12" size="45,32" group="n9_jis3"/>
+    <group id="n9_jis3" name="n9" xy="46,5" size="100,40" advanced="true">
+      <gearDisplay controller="c1" pages="1"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

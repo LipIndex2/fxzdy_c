@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="74,24" extention="ProgressBar">
+  <displayList>
+    <image id="n0_r8pu" name="n0" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="0,0" size="74,24" color="#0a173c">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_r8pu" name="bar" src="972a4r" fileName="progressBarImage/tianjia_blood.jpg" pkg="38fa8c75" xy="0,4" size="74,16"/>
+  </displayList>
+  <ProgressBar/>
+</component>

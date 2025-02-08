@@ -1,0 +1,20 @@
+
+skill02_lower_hou.png
+size: 47,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_ci_03
+  rotate: false
+  xy: 2, 11
+  size: 24, 39
+  orig: 30, 40
+  offset: 3, 1
+  index: -1
+images/effect/skill02_floor_01
+  rotate: true
+  xy: 28, 2
+  size: 48, 17
+  orig: 50, 20
+  offset: 1, 1
+  index: -1

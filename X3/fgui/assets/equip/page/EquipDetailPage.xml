@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" pivot="0.5,0.5">
+  <displayList>
+    <component id="n81_pg7t" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="94,211" size="558,912">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n24_d205" name="n24" src="pf1a149" fileName="bgImage/tisp_frame_new.png" pkg="38fa8c75" xy="96,214" size="557,906" group="n71_pf1a"/>
+    <image id="n25_d205" name="n25" src="pf1a148" fileName="bgImage/tisp1_frame.png" pkg="38fa8c75" xy="102,838" size="545,276" group="n71_pf1a"/>
+    <component id="n72_pf1a" name="btn_get" src="pf1a39" fileName="btn/wearBtn.xml" xy="227,711" size="294,103" group="n71_pf1a">
+      <Button title="穿戴"/>
+    </component>
+    <image id="n77_pf1a" name="n77" src="d20532" fileName="img/pz_frame.png" xy="272,290" group="n71_pf1a" flip="hz"/>
+    <image id="n51_d205" name="n51" src="d20532" fileName="img/pz_frame.png" xy="450,290" group="n71_pf1a"/>
+    <text id="n49_d205" name="n49" xy="335,294" pivot="0.5,0.5" size="44,29" group="n71_pf1a" fontSize="20" color="#83a3e4" align="center" vAlign="middle" text="品质"/>
+    <text id="n52_d205" name="n52" xy="502,294" pivot="0.5,0.5" size="44,29" group="n71_pf1a" fontSize="20" color="#83a3e4" align="center" vAlign="middle" text="评分"/>
+    <text id="n47_d205" name="T_name" xy="283,237" pivot="0,0.5" size="182,49" group="n71_pf1a" fontSize="36" color="#db83ff" vAlign="middle" strokeColor="#280931" strokeSize="2" text="帅爆狙击枪"/>
+    <text id="n50_d205" name="T_quality" xy="333,324" pivot="0.5,0.5" size="55,36" group="n71_pf1a" fontSize="26" color="#f3aa0c" align="center" vAlign="middle" text="史诗"/>
+    <text id="n53_d205" name="T_score" xy="505,321" pivot="0.5,0.5" size="40,42" group="n71_pf1a" fontSize="30" color="#ff5151" align="center" vAlign="middle" text="20"/>
+    <component id="n32_d205" name="attrPage" src="pf1a3a" fileName="item/EquipAttrPage.xml" xy="127,389" group="n71_pf1a"/>
+    <list id="n75_pf1a" name="list_equip" xy="138,857" size="488,237" group="n71_pf1a" layout="flow_hz" overflow="scroll" lineGap="10" colGap="9" lineItemCount="4" defaultItem="ui://38fa8c75pf1a144">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n76_pf1a" name="item" src="pf1a144" fileName="item/EquipItem.xml" pkg="38fa8c75" xy="127,235" group="n71_pf1a" scale="1.15,1.15" touchable="false"/>
+    <text id="n78_pf1a" name="T_getTips" xy="330,741" pivot="0.5,0.5" size="93,42" group="n71_pf1a" visible="false" fontSize="30" color="#515b6f" align="center" vAlign="middle" text="穿戴中"/>
+    <group id="n71_pf1a" name="gp_main" xy="96,214" size="557,906" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

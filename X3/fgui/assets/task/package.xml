@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="6b9eb171">
+  <resources>
+    <image id="dbe90" name="renwu.png" path="/img/" scale="9grid" scale9grid="52,8,14,75"/>
+    <image id="dbe91" name="tuceng1109.png" path="/img/" scale="9grid" scale9grid="14,10,28,20"/>
+    <image id="dbe92" name="jiangli_1.png" path="/img/" scale="9grid" scale9grid="52,6,14,77"/>
+    <image id="dbe93" name="tuceng1108.png" path="/img/" scale="9grid" scale9grid="12,11,24,22"/>
+    <component id="dbe912" name="TrunkTaskView.xml" path="/"/>
+    <component id="r9gz15" name="TaskSmallTipsComponents.xml" path="/components/"/>
+    <image id="c21f7" name="jifendi.png" path="/img/"/>
+    <image id="c21f16" name="rhy_frame.png" path="/img/"/>
+    <image id="c21f20" name="jiantou_7.png" path="/img/"/>
+    <image id="c21f21" name="zhy_frame.png" path="/img/" scale="9grid" scale9grid="109,8,518,125"/>
+    <image id="c21f29" name="jiantou.png" path="/img/"/>
+    <image id="c21f33" name="tuceng14.png" path="/img/"/>
+    <component id="c21f34" name="TaskView.xml" path="/"/>
+    <component id="eowx35" name="TaskWeekScoreRewardComponent.xml" path="/dailyTask/"/>
+    <component id="eowx36" name="TaskProgressBarScoreTitleCompent.xml" path="/dailyTask/"/>
+    <component id="eowx37" name="TaskRewardImageComponent.xml" path="/dailyTask/"/>
+    <component id="eowx38" name="TaskRewardWithScoreComponent.xml" path="/dailyTask/"/>
+    <component id="eowx39" name="DailyTaskPartComponent.xml" path="/dailyTask/"/>
+    <component id="eowx3a" name="TaskOneRowComponent.xml" path="/common/"/>
+    <component id="eowx3b" name="TaskDailyScoreRewardComponent.xml" path="/dailyTask/"/>
+    <component id="eowx3c" name="TaskDailyPartButton.xml" path="/button/"/>
+    <component id="eowx3d" name="TaskTabButton.xml" path="/button/"/>
+    <component id="s1v83e" name="AchievementPartComponent.xml" path="/achievement/"/>
+    <image id="gtyg3i" name="renwu_2.png" path="/img/" scale="9grid" scale9grid="93,16,73,82"/>
+    <image id="gtyg3j" name="renwudacheng.png" path="/img/"/>
+    <component id="eu7e3k" name="TaskDailyGoBtn.xml" path="/button/"/>
+    <component id="eu7e3l" name="TaskDailyCompleteBtn.xml" path="/button/"/>
+    <component id="eu7e3m" name="TaskDailyDoneBtn.xml" path="/button/"/>
+    <component id="75h73n" name="TaskHeaderTipsView.xml" path="/"/>
+    <image id="75h73o" name="tuceng1690.png" path="/img/"/>
+    <image id="75h73p" name="zu130445.png" path="/img/"/>
+    <image id="75h73q" name="baoxiang.png" path="/img/"/>
+    <image id="75h73r" name="tuceng1680.png" path="/img/"/>
+    <image id="75h73s" name="yiwancheng.png" path="/img/"/>
+    <component id="75h73t" name="TaskHeaderTipsBar.xml" path="/bar/"/>
+    <image id="75h73u" name="sd_A_common_czzl_blood.png" path="/img/"/>
+    <image id="75h73v" name="scale_74%_sd_A_common_czzl_blood.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

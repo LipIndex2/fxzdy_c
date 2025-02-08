@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,81">
+  <displayList>
+    <image id="n59_b6a2" name="bg" src="b6a234" fileName="img/sd_A_common_qipao1_frame.png" xy="0,0"/>
+    <text id="n60_b6a2" name="labelCount" xy="66,17" size="79,30" fontSize="21" color="#0266c3" vAlign="middle" autoSize="none" text="x100"/>
+    <loader id="n61_b6a2" name="imageIcon" xy="26,14" size="38,36" url="ui://7b03f641b6a235" align="center" vAlign="middle"/>
+  </displayList>
+</component>

@@ -1,0 +1,48 @@
+
+heidong_dz_s_shouji.png
+size: 241,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill2heidong_54
+  rotate: true
+  xy: 86, 3
+  size: 75, 82
+  orig: 128, 128
+  offset: 28, 16
+  index: -1
+images/effect/skill2heidong_55
+  rotate: true
+  xy: 2, 2
+  size: 76, 82
+  orig: 128, 128
+  offset: 28, 16
+  index: -1
+images/effect/skill2heidong_56
+  rotate: true
+  xy: 90, 154
+  size: 85, 79
+  orig: 128, 128
+  offset: 22, 22
+  index: -1
+images/effect/skill2heidong_57
+  rotate: true
+  xy: 2, 80
+  size: 85, 77
+  orig: 128, 128
+  offset: 22, 25
+  index: -1
+images/effect/skill2heidong_58
+  rotate: false
+  xy: 81, 80
+  size: 85, 72
+  orig: 128, 128
+  offset: 23, 31
+  index: -1
+images/effect/skill2heidong_59
+  rotate: false
+  xy: 2, 167
+  size: 86, 72
+  orig: 128, 128
+  offset: 23, 31
+  index: -1

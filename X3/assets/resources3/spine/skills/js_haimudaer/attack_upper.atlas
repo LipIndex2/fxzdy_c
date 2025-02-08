@@ -1,0 +1,76 @@
+
+attack_upper.png
+size: 627,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attackdaoguang_00011
+  rotate: false
+  xy: 2, 11
+  size: 117, 61
+  orig: 280, 220
+  offset: 153, 151
+  index: -1
+effect/attackdaoguang_00012
+  rotate: false
+  xy: 2, 181
+  size: 237, 198
+  orig: 280, 220
+  offset: 4, 10
+  index: -1
+effect/attackdaoguang_00013
+  rotate: false
+  xy: 2, 181
+  size: 237, 198
+  orig: 280, 220
+  offset: 4, 10
+  index: -1
+effect/attackdaoguang_00014
+  rotate: true
+  xy: 241, 181
+  size: 196, 193
+  orig: 280, 220
+  offset: 5, 10
+  index: -1
+effect/attackdaoguang_00015
+  rotate: true
+  xy: 241, 181
+  size: 196, 193
+  orig: 280, 220
+  offset: 5, 10
+  index: -1
+effect/attackdaoguang_00016
+  rotate: false
+  xy: 436, 185
+  size: 189, 192
+  orig: 280, 220
+  offset: 7, 10
+  index: -1
+effect/attackdaoguang_00017
+  rotate: true
+  xy: 436, 2
+  size: 181, 188
+  orig: 280, 220
+  offset: 9, 11
+  index: -1
+effect/attackdaoguang_00018
+  rotate: true
+  xy: 436, 2
+  size: 181, 188
+  orig: 280, 220
+  offset: 9, 11
+  index: -1
+effect/attackdaoguang_00020
+  rotate: false
+  xy: 2, 74
+  size: 96, 105
+  orig: 280, 220
+  offset: 44, 86
+  index: -1
+effect/attackdaoguang_00019
+  rotate: false
+  xy: 2, 74
+  size: 96, 105
+  orig: 280, 220
+  offset: 44, 86
+  index: -1

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="235,81" pivot="0.5,0.5" extention="Button">
+  <controller name="lock" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n34_894b" name="n34" src="894b28" fileName="leagueMain/img/rukoudi.png" xy="0,0" group="n39_h90v"/>
+    <text id="n35_894b" name="title" xy="117,41" pivot="0.5,0.5" anchor="true" size="131,44" group="n39_h90v" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#011535" strokeSize="3" text="联盟中心"/>
+    <text id="n41_h90v" name="timeLb" xy="38,77" size="159,29" group="n39_h90v" visible="false" fontSize="20" color="#5ffb6a" strokeColor="#000000" strokeSize="2" text="1天23小时后开启">
+      <gearDisplay controller="lock" pages="0"/>
+    </text>
+    <text id="n40_h90v" name="lockLb" xy="38,77" size="159,29" group="n44_h90v" fontSize="20" color="#9ad3ff" strokeColor="#000000" strokeSize="2" text="1天23小时后开启"/>
+    <image id="n42_h90v" name="n42" src="894b2" fileName="leagueMain/img/scale_60%_sd_A_common_jnmb_frame.png" xy="93,115" group="n44_h90v" alpha="0.8"/>
+    <image id="n43_h90v" name="n43" src="894b3" fileName="leagueMain/img/scale_70%_sd_A_common_suo1_icon.png" xy="104,125" group="n44_h90v"/>
+    <group id="n44_h90v" name="n44" xy="38,77" size="159,104" group="n39_h90v" advanced="true">
+      <gearDisplay controller="lock" pages="1"/>
+    </group>
+    <group id="n39_h90v" name="centerCom" xy="0,0" size="235,181" advanced="true"/>
+    <component id="n47_t5gy" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="210,20" controller="type,2"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

@@ -1,0 +1,97 @@
+
+skill01_daodang.png
+size: 284,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_fang2
+  rotate: true
+  xy: 2, 2
+  size: 70, 71
+  orig: 80, 80
+  offset: 6, 4
+  index: -1
+effect/skill01_shandian_01
+  rotate: true
+  xy: 107, 21
+  size: 57, 43
+  orig: 110, 90
+  offset: 13, 15
+  index: -1
+effect/skill01_shandian_02
+  rotate: false
+  xy: 102, 208
+  size: 101, 74
+  orig: 110, 90
+  offset: 9, 10
+  index: -1
+effect/skill01_shandian_03
+  rotate: false
+  xy: 2, 198
+  size: 98, 84
+  orig: 110, 90
+  offset: 0, 1
+  index: -1
+effect/skill01_shandian_04
+  rotate: false
+  xy: 75, 6
+  size: 30, 66
+  orig: 110, 90
+  offset: 53, 22
+  index: -1
+effect/skill01_zidan01
+  rotate: true
+  xy: 205, 201
+  size: 81, 74
+  orig: 86, 80
+  offset: 3, 4
+  index: -1
+effect/skill01_zidan02_00000
+  rotate: true
+  xy: 62, 74
+  size: 122, 40
+  orig: 132, 64
+  offset: 7, 4
+  index: -1
+effect/skill01_zidan02_00003
+  rotate: true
+  xy: 229, 80
+  size: 119, 38
+  orig: 132, 64
+  offset: 9, 4
+  index: -1
+effect/skill01_zidan02_00005
+  rotate: true
+  xy: 144, 86
+  size: 120, 41
+  orig: 132, 64
+  offset: 8, 0
+  index: -1
+effect/skill01_zidan02_00006
+  rotate: true
+  xy: 187, 79
+  size: 120, 40
+  orig: 132, 64
+  offset: 8, 0
+  index: -1
+effect/skill01_zidan02_00008
+  rotate: false
+  xy: 152, 44
+  size: 121, 33
+  orig: 132, 64
+  offset: 7, 7
+  index: -1
+effect/skill01_zidan02_00010
+  rotate: true
+  xy: 2, 74
+  size: 122, 58
+  orig: 132, 64
+  offset: 5, 3
+  index: -1
+effect/skill01_zidan02_00011
+  rotate: true
+  xy: 104, 80
+  size: 126, 38
+  orig: 132, 64
+  offset: 2, 5
+  index: -1

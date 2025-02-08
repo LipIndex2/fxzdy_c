@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,28" extention="ProgressBar">
+  <displayList>
+    <image id="n3_ig8t" name="n3" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="0,2" size="300,23" color="#5a5a5a"/>
+    <image id="n4_ig8t" name="bar" src="dtss5y" fileName="bgImage/baise_msg.png" pkg="38fa8c75" xy="0,2" size="300,23" color="#ffd600"/>
+  </displayList>
+  <ProgressBar/>
+</component>

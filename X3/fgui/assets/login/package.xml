@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="yx9tq9sc">
+  <resources>
+    <component id="gmri0" name="LoginPage.xml" path="/"/>
+    <component id="kog31" name="comBtn.xml" path="/com/"/>
+    <image id="cs7d2" name="buzhen_btn.png" path="/img/" scale="9grid" scale9grid="21,23,13,6"/>
+    <image id="cs7d3" name="blood_bg.png" path="/img/" scale="9grid" scale9grid="35,0,7,38"/>
+    <image id="cs7d4" name="blood.png" path="/img/" scale="9grid" scale9grid="20,0,7,30"/>
+    <component id="cs7d5" name="ProgressBar.xml" path="/com/"/>
+    <image id="cs7d6" name="LOGO.png" path="/img/"/>
+    <component id="qumz7" name="LoginProgressWin.xml" path="/"/>
+    <image id="qumz8" name="img_dl_shiling.png" path="/img/"/>
+    <component id="qumz9" name="baseBtn.xml" path="/com/"/>
+    <component id="ydpga" name="CompCom.xml" path="/com/"/>
+    <image id="ydpgb" name="gouxuan_frame.png" path="/img/"/>
+    <image id="ydpgc" name="gou_btn.png" path="/img/"/>
+    <component id="ydpgd" name="ProtocolCom.xml" path="/com/"/>
+    <component id="ydpge" name="checkBtn.xml" path="/com/"/>
+    <component id="oslf9" name="LoginBtn.xml" path="/com/"/>
+    <image id="e34f5" name="ommon_changgui3_btn_s75.png" path="/img/"/>
+    <image id="oslff" name="qiehuananniu.png" path="/img/"/>
+    <image id="oslfg" name="black1_msg.png" path="/img/" scale="9grid" scale9grid="82,4,8,8"/>
+    <component id="quvqh" name="BgCom.xml" path="/com/"/>
+    <component id="jjx8i" name="LoginConfirmView.xml" path="/"/>
+    <image id="jjx8j" name="tc1_frame.png" path="/img/" scale="9grid" scale9grid="156,110,27,19"/>
+    <image id="jjx8k" name="tc2_frame.png" path="/img/" scale="9grid" scale9grid="17,17,26,26"/>
+    <component id="l88pl" name="Node.xml" path="/com/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

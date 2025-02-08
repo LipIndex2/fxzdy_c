@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104">
+  <displayList>
+    <component id="n23_dtss" name="n23" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="0,0" group="n21_dtss"/>
+    <image id="n20_dtss" name="n20" src="dtss5p" fileName="frameImage/black2_msg.png" pkg="38fa8c75" xy="1,81" size="102,22" group="n21_dtss" alpha="0.6"/>
+    <text id="n8_b419" name="n8" xy="4,108" size="92,32" group="n21_dtss" fontSize="22" color="#ffd266" text="专属武器"/>
+    <list id="n24_dtss" name="n24" xy="3,82" size="167,32" group="n21_dtss" scale="0.6,0.6" layout="row" colGap="-1" defaultItem="ui://38fa8c75dclx138" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n21_dtss" name="n21" xy="0,0" size="170,140" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+  </displayList>
+</component>

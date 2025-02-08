@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n8_dtss" name="icon" xy="0,0" pivot="0.5,0.5" size="306,122" url="ui://38fa8c75pf1a147" fill="scaleFree"/>
+    <text id="n3_dtss" name="title" xy="114,48" pivot="0.5,0.5" size="87,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="进阶"/>
+    <loader id="n6_dtss" name="item_icon" xy="91,1" pivot="0.5,0.5" size="48,48" scale="0.9,0.9" url="ui://38fa8c75j6z934" autoSize="true">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <relation target="n7_dtss" sidePair="right-left"/>
+    </loader>
+    <text id="n7_dtss" name="T_num" xy="135,3" pivot="0.5,0.5" size="76,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#c96b06" strokeSize="3" text="4563">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearXY controller="c1" pages="0" values="135,3" default="73,3"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <loader id="n9_bezo" name="item_icon2" xy="162,0" pivot="0.5,0.5" size="48,48" scale="0.9,0.9" url="ui://38fa8c75j6z934" autoSize="true">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="n10_bezo" sidePair="right-left"/>
+    </loader>
+    <text id="n10_bezo" name="T_num2" xy="206,2" pivot="0.5,0.5" size="76,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#c96b06" strokeSize="3" text="4562">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n11_bezo" name="redDot1" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="290,5" controller="type,4"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

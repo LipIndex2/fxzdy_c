@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,114" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n30_lhcv" name="icon" xy="0,0" size="100,100" url="ui://7cf99be8lhcv1l" fill="scale"/>
+    <text id="n31_lhcv" name="title" xy="50,98" pivot="0.5,0.5" anchor="true" size="10,32" fontSize="22" color="#98a9f5" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="">
+      <gearDisplay controller="button" pages="0"/>
+    </text>
+    <text id="n29_a664" name="titleSelect" xy="50,98" pivot="0.5,0.5" anchor="true" size="10,32" fontSize="22" color="#ffed77" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="">
+      <gearDisplay controller="button" pages="1"/>
+    </text>
+    <component id="n32_ni07" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="82,20"/>
+  </displayList>
+  <Button mode="Radio"/>
+  <customProperty target="titleSelect" propertyId="0" label="选中文本"/>
+</component>

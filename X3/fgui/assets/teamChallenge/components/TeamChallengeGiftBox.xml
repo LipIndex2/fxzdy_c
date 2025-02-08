@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,124" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <loader id="n137_gwdp" name="giftBox" xy="62,62" pivot="0.5,0.5" anchor="true" size="124,124" url="ui://dhpy5xezgwdp199" autoSize="true"/>
+  </displayList>
+</component>

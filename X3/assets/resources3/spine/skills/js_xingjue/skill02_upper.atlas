@@ -1,0 +1,440 @@
+
+skill02_upper.png
+size: 1200,939
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_huanrao1_00000
+  rotate: false
+  xy: 1173, 180
+  size: 21, 25
+  orig: 100, 41
+  offset: 3, 10
+  index: -1
+effect/skill02_huanrao1_00001
+  rotate: true
+  xy: 305, 17
+  size: 45, 30
+  orig: 100, 41
+  offset: 2, 5
+  index: -1
+effect/skill02_huanrao1_00002
+  rotate: true
+  xy: 817, 524
+  size: 73, 33
+  orig: 100, 41
+  offset: 3, 2
+  index: -1
+effect/skill02_huanrao1_00003
+  rotate: false
+  xy: 613, 7
+  size: 93, 31
+  orig: 100, 41
+  offset: 4, 2
+  index: -1
+effect/skill02_huanrao1_00004
+  rotate: false
+  xy: 691, 196
+  size: 94, 28
+  orig: 100, 41
+  offset: 5, 2
+  index: -1
+effect/skill02_huanrao1_00005
+  rotate: false
+  xy: 801, 7
+  size: 93, 27
+  orig: 100, 41
+  offset: 6, 2
+  index: -1
+effect/skill02_huanrao1_00006
+  rotate: false
+  xy: 708, 10
+  size: 91, 28
+  orig: 100, 41
+  offset: 8, 2
+  index: -1
+effect/skill02_huanrao1_00007
+  rotate: false
+  xy: 1125, 649
+  size: 72, 27
+  orig: 100, 41
+  offset: 27, 4
+  index: -1
+effect/skill02_huanrao1_00008
+  rotate: false
+  xy: 890, 647
+  size: 71, 27
+  orig: 100, 41
+  offset: 28, 5
+  index: -1
+effect/skill02_huanrao2_00000
+  rotate: false
+  xy: 1151, 342
+  size: 20, 23
+  orig: 100, 41
+  offset: 8, 11
+  index: -1
+effect/skill02_huanrao2_00001
+  rotate: false
+  xy: 817, 492
+  size: 66, 30
+  orig: 100, 41
+  offset: 8, 3
+  index: -1
+effect/skill02_huanrao2_00002
+  rotate: false
+  xy: 896, 8
+  size: 84, 26
+  orig: 100, 41
+  offset: 10, 3
+  index: -1
+effect/skill02_huanrao2_00003
+  rotate: true
+  xy: 1173, 688
+  size: 83, 25
+  orig: 100, 41
+  offset: 11, 3
+  index: -1
+effect/skill02_huanrao2_00004
+  rotate: true
+  xy: 1173, 301
+  size: 64, 25
+  orig: 100, 41
+  offset: 30, 5
+  index: -1
+effect/skill02_huanrao2_00005
+  rotate: false
+  xy: 1086, 341
+  size: 63, 24
+  orig: 100, 41
+  offset: 31, 6
+  index: -1
+effect/skill02_huanrao2_00006
+  rotate: true
+  xy: 1173, 247
+  size: 52, 20
+  orig: 100, 41
+  offset: 41, 10
+  index: -1
+effect/skill02_qiangkou_00000
+  rotate: false
+  xy: 351, 159
+  size: 84, 60
+  orig: 350, 180
+  offset: 95, 66
+  index: -1
+effect/skill02_qiangkou_00001
+  rotate: true
+  xy: 448, 289
+  size: 149, 81
+  orig: 350, 180
+  offset: 57, 64
+  index: -1
+effect/skill02_qiangkou_00002
+  rotate: false
+  xy: 2, 2
+  size: 199, 104
+  orig: 350, 180
+  offset: 34, 50
+  index: -1
+effect/skill02_qiangkou_00003
+  rotate: false
+  xy: 448, 154
+  size: 241, 131
+  orig: 350, 180
+  offset: 16, 37
+  index: -1
+effect/skill02_qiangkou_00004
+  rotate: false
+  xy: 549, 445
+  size: 266, 152
+  orig: 350, 180
+  offset: 15, 21
+  index: -1
+effect/skill02_qiangkou_00005
+  rotate: false
+  xy: 890, 490
+  size: 290, 154
+  orig: 350, 180
+  offset: 13, 20
+  index: -1
+effect/skill02_qiangkou_00006
+  rotate: true
+  xy: 351, 14
+  size: 138, 156
+  orig: 350, 180
+  offset: 112, 19
+  index: -1
+effect/skill02_qiangkou_00007
+  rotate: true
+  xy: 1028, 150
+  size: 188, 143
+  orig: 350, 180
+  offset: 73, 33
+  index: -1
+effect/skill02_qiangkou_00008
+  rotate: false
+  xy: 803, 195
+  size: 223, 143
+  orig: 350, 180
+  offset: 47, 33
+  index: -1
+effect/skill02_qiangkou_00009
+  rotate: false
+  xy: 817, 340
+  size: 267, 148
+  orig: 350, 180
+  offset: 27, 28
+  index: -1
+effect/skill02_qiangkou_00010
+  rotate: false
+  xy: 2, 599
+  size: 294, 167
+  orig: 350, 180
+  offset: 26, 10
+  index: -1
+effect/skill02_qiangkou_00011
+  rotate: false
+  xy: 2, 768
+  size: 320, 169
+  orig: 350, 180
+  offset: 24, 9
+  index: -1
+effect/skill02_qiangkou_00012
+  rotate: false
+  xy: 2, 108
+  size: 173, 172
+  orig: 350, 180
+  offset: 113, 7
+  index: -1
+effect/skill02_qiangkou_00013
+  rotate: false
+  xy: 2, 282
+  size: 226, 157
+  orig: 350, 180
+  offset: 72, 23
+  index: -1
+effect/skill02_qiangkou_00014
+  rotate: false
+  xy: 285, 440
+  size: 262, 157
+  orig: 350, 180
+  offset: 46, 23
+  index: -1
+effect/skill02_qiangkou_00015
+  rotate: true
+  xy: 966, 646
+  size: 291, 157
+  orig: 350, 180
+  offset: 26, 23
+  index: -1
+effect/skill02_qiangkou_00016
+  rotate: false
+  xy: 298, 599
+  size: 294, 167
+  orig: 350, 180
+  offset: 25, 11
+  index: -1
+effect/skill02_qiangkou_00017
+  rotate: false
+  xy: 324, 768
+  size: 320, 169
+  orig: 350, 180
+  offset: 23, 10
+  index: -1
+effect/skill02_qiangkou_00018
+  rotate: true
+  xy: 177, 112
+  size: 168, 172
+  orig: 350, 180
+  offset: 122, 8
+  index: -1
+effect/skill02_qiangkou_00019
+  rotate: false
+  xy: 230, 282
+  size: 216, 156
+  orig: 350, 180
+  offset: 81, 24
+  index: -1
+effect/skill02_qiangkou_00020
+  rotate: false
+  xy: 549, 287
+  size: 252, 156
+  orig: 350, 180
+  offset: 55, 24
+  index: -1
+effect/skill02_qiangkou_00021
+  rotate: false
+  xy: 2, 441
+  size: 281, 156
+  orig: 350, 180
+  offset: 35, 24
+  index: -1
+effect/skill02_qiangkou_00022
+  rotate: false
+  xy: 594, 599
+  size: 294, 167
+  orig: 350, 180
+  offset: 34, 9
+  index: -1
+effect/skill02_qiangkou_00023
+  rotate: false
+  xy: 646, 768
+  size: 318, 169
+  orig: 350, 180
+  offset: 32, 8
+  index: -1
+effect/skill02_qiangkou_00024
+  rotate: true
+  xy: 691, 40
+  size: 153, 172
+  orig: 350, 180
+  offset: 141, 6
+  index: -1
+effect/skill02_qiangkou_00025
+  rotate: false
+  xy: 865, 36
+  size: 159, 157
+  orig: 350, 180
+  offset: 147, 22
+  index: -1
+effect/skill02_qiangkou_00026
+  rotate: true
+  xy: 1026, 53
+  size: 95, 157
+  orig: 350, 180
+  offset: 221, 22
+  index: -1
+effect/skill02_qiangkou_00027
+  rotate: true
+  xy: 509, 50
+  size: 102, 157
+  orig: 350, 180
+  offset: 223, 22
+  index: -1
+effect/skill02_qiangkou_00028
+  rotate: true
+  xy: 303, 64
+  size: 46, 34
+  orig: 350, 180
+  offset: 242, 97
+  index: -1
+effect/skill02_qiangkou_00029
+  rotate: false
+  xy: 982, 2
+  size: 41, 32
+  orig: 350, 180
+  offset: 252, 98
+  index: -1
+effect/skill02_yanwu_00000
+  rotate: true
+  xy: 1173, 207
+  size: 38, 25
+  orig: 132, 64
+  offset: 11, 8
+  index: -1
+effect/skill02_yanwu_00001
+  rotate: false
+  xy: 890, 676
+  size: 71, 37
+  orig: 132, 64
+  offset: 12, 5
+  index: -1
+effect/skill02_yanwu_00002
+  rotate: true
+  xy: 1125, 678
+  size: 93, 46
+  orig: 132, 64
+  offset: 12, 4
+  index: -1
+effect/skill02_yanwu_00003
+  rotate: false
+  xy: 1026, 4
+  size: 101, 47
+  orig: 132, 64
+  offset: 14, 5
+  index: -1
+effect/skill02_yanwu_00004
+  rotate: false
+  xy: 509, 2
+  size: 102, 46
+  orig: 132, 64
+  offset: 16, 7
+  index: -1
+effect/skill02_yanwu_00005
+  rotate: false
+  xy: 203, 6
+  size: 100, 48
+  orig: 132, 64
+  offset: 20, 5
+  index: -1
+effect/skill02_yanwu_00006
+  rotate: false
+  xy: 203, 56
+  size: 98, 54
+  orig: 132, 64
+  offset: 24, 3
+  index: -1
+effect/skill02_yanwu_00007
+  rotate: false
+  xy: 1086, 367
+  size: 97, 58
+  orig: 132, 64
+  offset: 27, 2
+  index: -1
+effect/skill02_yanwu_00008
+  rotate: false
+  xy: 691, 226
+  size: 94, 59
+  orig: 132, 64
+  offset: 30, 2
+  index: -1
+effect/skill02_yanwu_00009
+  rotate: false
+  xy: 1086, 427
+  size: 93, 61
+  orig: 132, 64
+  offset: 31, 2
+  index: -1
+effect/skill02_yanwu_00010
+  rotate: false
+  xy: 351, 221
+  size: 88, 59
+  orig: 132, 64
+  offset: 32, 3
+  index: -1
+effect/skill02_yanwu_00011
+  rotate: true
+  xy: 1125, 852
+  size: 85, 58
+  orig: 132, 64
+  offset: 33, 4
+  index: -1
+effect/skill02_yanwu_00012
+  rotate: true
+  xy: 1125, 773
+  size: 77, 57
+  orig: 132, 64
+  offset: 38, 5
+  index: -1
+effect/skill02_yanwu_00013
+  rotate: false
+  xy: 890, 715
+  size: 56, 51
+  orig: 132, 64
+  offset: 51, 8
+  index: -1
+effect/skill02_yanwu_00014
+  rotate: false
+  xy: 1129, 16
+  size: 56, 35
+  orig: 132, 64
+  offset: 50, 19
+  index: -1
+effect/skill02_yanwu_00015
+  rotate: true
+  xy: 852, 545
+  size: 52, 34
+  orig: 132, 64
+  offset: 52, 20
+  index: -1

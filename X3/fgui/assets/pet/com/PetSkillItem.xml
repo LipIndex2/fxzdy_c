@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="105,124">
+  <controller name="c1" pages="0,未解锁,1,已解锁,2,技能展示" selected="0"/>
+  <displayList>
+    <loader id="n72_dtss" name="bg" xy="0,4" pivot="0.5,0.5" size="105,115" url="ui://38fa8c75105pvv186" align="center" vAlign="middle" autoSize="true"/>
+    <component id="n71_dtss" name="img_skill" src="105pv7r" fileName="item/skillIconMask.xml" xy="9,12" pkg="38fa8c75"/>
+    <text id="n66_b419" name="T_level" xy="41,85" pivot="0.5,0.5" size="21,39" fontSize="28" color="#fefefe" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="2">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <image id="n73_ho2j" name="n73" src="105pvv185" fileName="bgImage/jnmb_frame.png" xy="5,9" alpha="0.774" pkg="38fa8c75">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n69_b419" name="img_bs" src="105pvv18b" fileName="frameImage/bisha1tag.png" xy="-12,8" visible="false" pkg="38fa8c75"/>
+  </displayList>
+</component>

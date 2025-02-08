@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="383,66">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <richtext id="n5_3ae7" name="T_text" xy="0,0" size="383,66" fontSize="22" color="#9d9e9f" leading="7" ubb="true" autoSize="height" text="2级：吊炸天技能超级吊炸天技能技超级吊炸天技能技">
+      <gearColor controller="c1" pages="1" values="#e9ecee,#000000" default="#9d9e9f,#000000"/>
+    </richtext>
+  </displayList>
+  <relation target="n5_3ae7" sidePair="height-height"/>
+</component>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1" pivot="0.5,0.5" anchor="true" initName="gate">
+  <displayList>
+    <component id="n0_slcu" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" xy="1,1" pivot="0.5,0.5" anchor="true" size="100,100"/>
+  </displayList>
+</component>

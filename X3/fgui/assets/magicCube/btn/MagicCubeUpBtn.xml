@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="413,110" pivot="0.5,0.5" extention="Button">
+  <controller name="c1" exported="true" pages="0,魔方增幅,1,魔方转换,3,魔方转换" selected="0"/>
+  <displayList>
+    <image id="n40_3bca" name="n40" src="8a3814" fileName="btnImage/buzhen_btn.png" pkg="38fa8c75" xy="0,0" size="413,110" group="n75_q6dm"/>
+    <image id="n41_3bca" name="n41" src="3bca23" fileName="img/huobidi.png" xy="9,10" size="396,44" group="n75_q6dm"/>
+    <text id="n42_3bca" name="n42" xy="149,59" pivot="0.5,0.5" size="115,39" group="n75_q6dm" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#033e97" strokeSize="3" text="魔方增幅">
+      <gearDisplay controller="c1" pages="0,1,3"/>
+      <gearText controller="c1" pages="1,3" values="魔方转换|魔方转换" default="魔方增幅"/>
+    </text>
+    <image id="n49_3bca" name="n49" src="q6dm44" fileName="img/shangshengjiantou.png" xy="118,63" group="n75_q6dm" visible="false">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n76_q6dm" name="n76" src="q6dm44" fileName="img/shangshengjiantou.png" xy="271,63" group="n75_q6dm" visible="false">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n77_q6dm" name="n77" src="3bca33" fileName="img/tuceng888kaobei.png" xy="117,60" group="n75_q6dm" visible="false">
+      <gearDisplay controller="c1" pages="1,3"/>
+    </image>
+    <image id="n57_3bca" name="n57" src="3bca33" fileName="img/tuceng888kaobei.png" xy="270,60" group="n75_q6dm" visible="false">
+      <gearDisplay controller="c1" pages="1,3"/>
+    </image>
+    <list id="n81_q6dm" name="list_cost" xy="8,14" size="395,38" group="n75_q6dm" layout="row" colGap="33" defaultItem="ui://ff643f6eq6dm45" align="center">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <loader id="n82_q6dm" name="img_jiantou1" xy="118,64" pivot="0.5,0.5" size="26,29" group="n75_q6dm" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </loader>
+    <loader id="n83_q6dm" name="img_jiantou2" xy="271,64" pivot="0.5,0.5" size="26,29" group="n75_q6dm" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </loader>
+    <loader id="n84_q6dm" name="img_zuanshi1" xy="118,64" pivot="0.5,0.5" size="26,29" group="n75_q6dm" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="c1" pages="1,3"/>
+    </loader>
+    <loader id="n85_q6dm" name="img_zuanshi2" xy="271,64" pivot="0.5,0.5" size="26,29" group="n75_q6dm" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="c1" pages="1,3"/>
+    </loader>
+    <group id="n75_q6dm" name="n75" xy="0,0" size="413,110"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

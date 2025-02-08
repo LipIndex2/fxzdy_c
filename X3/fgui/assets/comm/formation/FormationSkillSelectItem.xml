@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,150">
+  <controller name="chooseFlag" pages="0,0,1,1" selected="0"/>
+  <controller name="occupy" pages="0,,1," selected="0">
+    <remark page="0" value="未被占用"/>
+    <remark page="1" value="被占用"/>
+  </controller>
+  <displayList>
+    <image id="n13_06d7" name="bgSelect" src="fxocvvv18x" fileName="captainSkill/images/xuanzhongxiaoguo.png" xy="-2,-3" size="122,159">
+      <gearDisplay controller="chooseFlag" pages="1"/>
+    </image>
+    <loader id="n89_z7ud" name="bgQuality" xy="10,10" size="122,164" scale="0.8,0.8" url="ui://7q3fcj1kbpcis89" align="center" vAlign="middle" clearOnPublish="true"/>
+    <loader id="n91_z7ud" name="iconLoader" xy="25,30" size="70,70" url="ui://7q3fcj1kbpcis88" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <list id="n92_z7ud" name="listStar" xy="-51,99" pivot="0.5,0.5" size="220,40" scale="0.4,0.4" layout="row" overflow="scroll" colGap="8" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n83_pfd4" name="n83" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" xy="0,0" size="120,150" group="n85_pfd4" alpha="0.5"/>
+    <text id="n84_pfd4" name="n84" xy="59,75" pivot="0.5,0.5" anchor="true" size="75,34" group="n85_pfd4" fontSize="24" color="#ff4c4c" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="已占用"/>
+    <group id="n85_pfd4" name="gOccupy" xy="0,0" size="120,150" advanced="true">
+      <gearDisplay controller="occupy" pages="1"/>
+    </group>
+    <text id="n93_p9b4" name="lbLv" xy="61,72" pivot="1,0" size="44,32" fontSize="22" color="#ffea01" align="right" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="+10"/>
+  </displayList>
+</component>

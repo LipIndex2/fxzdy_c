@@ -1,0 +1,230 @@
+
+skill01_end_lower.png
+size: 985,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_guangyun
+  rotate: false
+  xy: 863, 178
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+effect/skill01_looplower_00000
+  rotate: false
+  xy: 286, 5
+  size: 282, 67
+  orig: 300, 100
+  offset: 12, 5
+  index: -1
+effect/skill01_looplower_00001
+  rotate: false
+  xy: 2, 71
+  size: 282, 69
+  orig: 300, 100
+  offset: 12, 5
+  index: -1
+effect/skill01_looplower_00002
+  rotate: false
+  xy: 574, 71
+  size: 283, 70
+  orig: 300, 100
+  offset: 12, 7
+  index: -1
+effect/skill01_looplower_00003
+  rotate: false
+  xy: 287, 149
+  size: 284, 74
+  orig: 300, 100
+  offset: 12, 8
+  index: -1
+effect/skill01_looplower_00004
+  rotate: false
+  xy: 2, 314
+  size: 284, 76
+  orig: 300, 100
+  offset: 11, 9
+  index: -1
+effect/skill01_looplower_00005
+  rotate: false
+  xy: 579, 309
+  size: 286, 82
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00006
+  rotate: false
+  xy: 290, 225
+  size: 285, 82
+  orig: 300, 100
+  offset: 11, 5
+  index: -1
+effect/skill01_looplower_00007
+  rotate: false
+  xy: 2, 142
+  size: 283, 81
+  orig: 300, 100
+  offset: 12, 6
+  index: -1
+effect/skill01_looplower_00008
+  rotate: false
+  xy: 577, 226
+  size: 284, 81
+  orig: 300, 100
+  offset: 12, 7
+  index: -1
+effect/skill01_looplower_00009
+  rotate: false
+  xy: 577, 143
+  size: 284, 81
+  orig: 300, 100
+  offset: 11, 7
+  index: -1
+effect/skill01_looplower_00010
+  rotate: true
+  xy: 869, 274
+  size: 286, 82
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00011
+  rotate: false
+  xy: 290, 393
+  size: 287, 82
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00012
+  rotate: false
+  xy: 2, 477
+  size: 287, 83
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00013
+  rotate: false
+  xy: 291, 477
+  size: 287, 83
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00014
+  rotate: false
+  xy: 2, 392
+  size: 286, 83
+  orig: 300, 100
+  offset: 11, 5
+  index: -1
+effect/skill01_looplower_00015
+  rotate: false
+  xy: 2, 225
+  size: 286, 82
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00016
+  rotate: false
+  xy: 579, 393
+  size: 287, 82
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00017
+  rotate: false
+  xy: 580, 477
+  size: 287, 83
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00018
+  rotate: false
+  xy: 290, 309
+  size: 287, 82
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill01_looplower_00019
+  rotate: false
+  xy: 287, 74
+  size: 285, 73
+  orig: 300, 100
+  offset: 12, 5
+  index: -1
+effect/skill01_xinlower_00000
+  rotate: true
+  xy: 953, 524
+  size: 36, 29
+  orig: 80, 140
+  offset: 24, 8
+  index: -1
+effect/skill01_xinlower_00001
+  rotate: false
+  xy: 796, 24
+  size: 50, 45
+  orig: 80, 140
+  offset: 16, 8
+  index: -1
+effect/skill01_xinlower_00002
+  rotate: true
+  xy: 726, 8
+  size: 61, 68
+  orig: 80, 140
+  offset: 11, 9
+  index: -1
+effect/skill01_xinlower_00003
+  rotate: false
+  xy: 863, 83
+  size: 68, 93
+  orig: 80, 140
+  offset: 8, 9
+  index: -1
+effect/skill01_xinlower_00004
+  rotate: true
+  xy: 859, 19
+  size: 62, 101
+  orig: 80, 140
+  offset: 13, 11
+  index: -1
+effect/skill01_xinlower_00005
+  rotate: true
+  xy: 2, 13
+  size: 56, 106
+  orig: 80, 140
+  offset: 11, 14
+  index: -1
+effect/skill01_xinlower_00006
+  rotate: true
+  xy: 110, 8
+  size: 61, 97
+  orig: 80, 140
+  offset: 9, 27
+  index: -1
+effect/skill01_xinlower_00007
+  rotate: true
+  xy: 570, 5
+  size: 64, 84
+  orig: 80, 140
+  offset: 10, 41
+  index: -1
+effect/skill01_xinlower_00008
+  rotate: true
+  xy: 209, 2
+  size: 67, 73
+  orig: 80, 140
+  offset: 7, 51
+  index: -1
+effect/skill01_xinlower_00009
+  rotate: false
+  xy: 656, 7
+  size: 68, 62
+  orig: 80, 140
+  offset: 5, 59
+  index: -1
+effect/skill01_xinlower_00010
+  rotate: true
+  xy: 933, 113
+  size: 63, 50
+  orig: 80, 140
+  offset: 6, 67
+  index: -1

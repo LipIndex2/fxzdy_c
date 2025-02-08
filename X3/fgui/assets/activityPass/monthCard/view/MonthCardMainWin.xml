@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="721,1112">
+  <displayList>
+    <loader id="n40_llxc" name="bg" xy="0,0" size="721,1112" group="n30_oc78" touchable="false" url="ui://7cvz7rmmbezovv1s" autoSize="true"/>
+    <image id="n8_8999" name="n8" src="oc781a" fileName="monthCard/img/bg_free.png" xy="96,219" size="548,153" group="n30_oc78"/>
+    <text id="n9_8999" name="lbTitleFree" xy="369,251" pivot="0.5,0.5" anchor="true" size="123,42" group="n30_oc78" fontSize="30" color="#3e387b" vAlign="middle" text="每日好礼"/>
+    <component id="n13_8999" name="btnFree" src="oc7819" fileName="monthCard/component/MonthCardFreeBtn.xml" xy="465,293" group="n30_oc78"/>
+    <image id="n28_8999" name="n28" src="899915" fileName="monthCard/img/tqk_word.png" xy="260,72" group="n30_oc78"/>
+    <list id="n32_oc78" name="listFreeReward" xy="109,277" size="400,104" group="n30_oc78" scale="0.8,0.8" layout="row" overflow="scroll" scroll="horizontal" colGap="18" defaultItem="ui://38fa8c75dtss4k" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n33_oc78" name="listCard" xy="90,379" size="557,470" group="n30_oc78" overflow="scroll" lineGap="4" defaultItem="ui://cbdbddd7oc781c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n34_oc78" name="btnDrawAll" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="246,860" size="247,97" group="n30_oc78"/>
+    <component id="n39_r58c" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="504,112" size="41,34" group="n30_oc78">
+      <relation target="n28_8999" sidePair="left-right"/>
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <component id="n38_jsyk" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="476,863" group="n30_oc78"/>
+    <group id="n30_oc78" name="pMonthCard" xy="0,0" size="721,1112" advanced="true"/>
+  </displayList>
+</component>

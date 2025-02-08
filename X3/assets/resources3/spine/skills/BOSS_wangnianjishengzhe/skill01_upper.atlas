@@ -1,0 +1,76 @@
+
+skill01_upper.png
+size: 149,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/koushui01
+  rotate: false
+  xy: 86, 4
+  size: 50, 45
+  orig: 128, 128
+  offset: 78, 13
+  index: -1
+images/effect/koushui03
+  rotate: false
+  xy: 2, 212
+  size: 83, 80
+  orig: 128, 128
+  offset: 33, 25
+  index: -1
+images/effect/koushui05
+  rotate: false
+  xy: 2, 374
+  size: 85, 83
+  orig: 128, 128
+  offset: 23, 29
+  index: -1
+images/effect/koushui07
+  rotate: true
+  xy: 2, 134
+  size: 76, 86
+  orig: 128, 128
+  offset: 20, 30
+  index: -1
+images/effect/koushui09
+  rotate: true
+  xy: 2, 294
+  size: 78, 86
+  orig: 128, 128
+  offset: 13, 33
+  index: -1
+images/effect/koushui11
+  rotate: true
+  xy: 2, 64
+  size: 68, 76
+  orig: 128, 128
+  offset: 7, 44
+  index: -1
+images/effect/koushui13
+  rotate: false
+  xy: 86, 51
+  size: 60, 81
+  orig: 128, 128
+  offset: 5, 40
+  index: -1
+images/effect/koushui15
+  rotate: false
+  xy: 87, 212
+  size: 60, 75
+  orig: 128, 128
+  offset: 2, 29
+  index: -1
+images/effect/koushui17
+  rotate: true
+  xy: 2, 2
+  size: 60, 82
+  orig: 128, 128
+  offset: 1, 22
+  index: -1
+images/effect/koushui19
+  rotate: false
+  xy: 90, 134
+  size: 51, 75
+  orig: 128, 128
+  offset: 0, 19
+  index: -1

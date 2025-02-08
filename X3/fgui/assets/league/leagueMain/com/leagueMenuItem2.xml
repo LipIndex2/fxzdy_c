@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,360">
+  <displayList>
+    <image id="n47_e53p" name="bg" src="894b14" fileName="leagueMain/img/lmdi_frame.png" xy="0,-114" size="750,1200"/>
+    <component id="n12_894b" name="boxBtn" src="h90v2c" fileName="leagueMain/btn/leagueBoxBtn.xml" xy="17,9" group="n45_h90v"/>
+    <component id="n42_h90v" name="techBtn" src="h90v2d" fileName="leagueMain/btn/leagueTechBtn.xml" xy="17,186" group="n45_h90v"/>
+    <component id="n43_h90v" name="bossBtn" src="h90v2e" fileName="leagueMain/btn/leagueBossBtn.xml" xy="385,9" group="n45_h90v">
+      <Button title="联盟BOSS"/>
+    </component>
+    <component id="n44_h90v" name="starWarBtn" src="h90v2f" fileName="leagueMain/btn/LeagueWarBtn.xml" xy="385,187" group="n45_h90v">
+      <Button title="星际争霸"/>
+    </component>
+    <group id="n45_h90v" name="btns" xy="17,9" size="714,337" advanced="true"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n45_h90v" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n45_h90v" tween="true" startValue="17,109" endValue="17,9" duration="12"/>
+  </transition>
+</component>

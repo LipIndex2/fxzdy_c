@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="717,100">
+  <displayList>
+    <image id="n4_894b" name="n4" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="717,100" alpha="0.3"/>
+    <component id="n25_e53p" name="notice" src="e53p11x" fileName="leagueMain/com/leagueNoticeText.xml" xy="0,0"/>
+  </displayList>
+</component>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kpocb4r">
+  <controller name="isCanNext" pages="0,,1," selected="1"/>
+  <controller name="isAutoChallengeNext" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n30_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,740" pivot="0.5,1" anchor="true" size="880,742"/>
+    <text id="n14_pocb" name="labelCloseTips" xy="302,1232" size="143,29" fontSize="20" color="#fffefe" singleLine="true" text="点击空白处关闭"/>
+    <component id="n0_pocb" name="panel" src="na348f" fileName="battle/components/CommonWinPanel.xml" xy="97,630"/>
+    <component id="n23_pocb" name="btnNextLevel" src="na348j" fileName="battle/btn/BtnContinueBattle.xml" xy="222,1034">
+      <gearDisplay controller="isCanNext" pages="1"/>
+    </component>
+    <text id="n31_rgtg" name="labelAutoNext" xy="275,982" pivot="0.5,0.5" size="200,36" fontSize="26" color="#fae687" align="center" vAlign="middle" singleLine="true" text="5秒后进入下一关">
+      <gearDisplay controller="isAutoChallengeNext" pages="1"/>
+      <gearDisplay2 controller="isCanNext" pages="1" condition="0"/>
+    </text>
+    <component id="n32_uk3p" name="btnData" src="qluivvv1c5" fileName="btn/BtnData.xml" pkg="38fa8c75" xy="637,1200"/>
+    <text id="n33_v5mw" name="lbTeamTips" xy="375,822" pivot="0.5,0.5" anchor="true" size="750,52" fontSize="38" color="#ffde5a" align="center" vAlign="middle" autoSize="none" text="奖励邮件发放"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n0_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n14_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n23_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n31_rgtg" value="0"/>
+    <item time="0" type="Alpha" target="n33_v5mw" value="0"/>
+    <item time="0" type="XY" target="n0_pocb" value="97,660,0.129,0.495"/>
+    <item time="54" type="Alpha" target="n0_pocb" tween="true" startValue="0" endValue="1" duration="13"/>
+    <item time="54" type="Alpha" target="n33_v5mw" tween="true" startValue="0" endValue="1" duration="13"/>
+    <item time="54" type="XY" target="n0_pocb" tween="true" startValue="97,660,0.129,0.495" endValue="97,630,0.129,0.472" duration="13"/>
+    <item time="56" type="Alpha" target="n23_pocb" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="56" type="Alpha" target="n31_rgtg" tween="true" startValue="0" endValue="1" duration="11"/>
+    <item time="56" type="XY" target="n23_pocb" tween="true" startValue="222,1064,0.296,0.798" endValue="222,1034,0.296,0.775" duration="11"/>
+    <item time="56" type="XY" target="n31_rgtg" tween="true" startValue="275,1013,0.367,0.759" endValue="275,983,0.367,0.737" duration="11"/>
+    <item time="62" type="Alpha" target="n14_pocb" tween="true" startValue="0" endValue="1" duration="5"/>
+    <item time="62" type="XY" target="n14_pocb" tween="true" startValue="302,1272,0.403,0.954" endValue="302,1233,0.403,0.924" duration="5"/>
+  </transition>
+</component>

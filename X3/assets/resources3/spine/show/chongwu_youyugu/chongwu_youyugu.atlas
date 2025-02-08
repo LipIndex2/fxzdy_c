@@ -1,0 +1,76 @@
+
+chongwu_youyugu.png
+size: 292,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 2, 267
+  size: 288, 205
+  orig: 288, 205
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 2, 450
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 2, 264
+  size: 92, 39
+  orig: 92, 39
+  offset: 0, 0
+  index: -1
+js03
+  rotate: false
+  xy: 58, 420
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 158, 65
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 2, 3
+  size: 155, 130
+  orig: 155, 130
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 2, 315
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 2, 135
+  size: 275, 141
+  orig: 275, 141
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 150, 444
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+js09
+  rotate: false
+  xy: 159, 25
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1

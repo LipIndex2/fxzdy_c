@@ -1,0 +1,132 @@
+
+skill01_upper_xuli.png
+size: 788,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_neifaguang2
+  rotate: false
+  xy: 2, 300
+  size: 254, 175
+  orig: 271, 196
+  offset: 10, 11
+  index: -1
+effect/skill01_neifaguang_00000
+  rotate: false
+  xy: 570, 205
+  size: 138, 114
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00001
+  rotate: false
+  xy: 255, 5
+  size: 144, 107
+  orig: 160, 120
+  offset: 3, 4
+  index: -1
+effect/skill01_neifaguang_00002
+  rotate: false
+  xy: 104, 8
+  size: 149, 104
+  orig: 160, 120
+  offset: 3, 4
+  index: -1
+effect/skill01_neifaguang_00003
+  rotate: true
+  xy: 258, 322
+  size: 153, 105
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00004
+  rotate: true
+  xy: 365, 322
+  size: 153, 104
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00005
+  rotate: true
+  xy: 471, 322
+  size: 153, 104
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00006
+  rotate: true
+  xy: 683, 321
+  size: 154, 103
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00007
+  rotate: false
+  xy: 2, 196
+  size: 154, 102
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00008
+  rotate: false
+  xy: 258, 218
+  size: 155, 102
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00009
+  rotate: false
+  xy: 314, 114
+  size: 155, 101
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00010
+  rotate: false
+  xy: 628, 103
+  size: 155, 100
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00011
+  rotate: false
+  xy: 628, 2
+  size: 155, 99
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00012
+  rotate: true
+  xy: 2, 39
+  size: 155, 100
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00013
+  rotate: false
+  xy: 471, 102
+  size: 155, 101
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00014
+  rotate: false
+  xy: 158, 114
+  size: 154, 102
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00015
+  rotate: false
+  xy: 415, 217
+  size: 153, 103
+  orig: 160, 120
+  offset: 3, 3
+  index: -1
+effect/skill01_neifaguang_00016
+  rotate: true
+  xy: 577, 322
+  size: 153, 104
+  orig: 160, 120
+  offset: 3, 3
+  index: -1

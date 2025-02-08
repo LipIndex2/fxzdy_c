@@ -1,0 +1,90 @@
+
+attack_upper.png
+size: 291,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_ci1_00000
+  rotate: false
+  xy: 124, 96
+  size: 147, 37
+  orig: 176, 50
+  offset: 5, 7
+  index: -1
+effect/attack_ci1_00001
+  rotate: false
+  xy: 2, 180
+  size: 153, 49
+  orig: 176, 50
+  offset: 23, 0
+  index: -1
+effect/attack_ci1_00002
+  rotate: false
+  xy: 157, 183
+  size: 132, 46
+  orig: 176, 50
+  offset: 40, 0
+  index: -1
+effect/attack_ci1_00003
+  rotate: false
+  xy: 2, 34
+  size: 97, 46
+  orig: 176, 50
+  offset: 63, 0
+  index: -1
+effect/attack_ci2_00000
+  rotate: false
+  xy: 2, 2
+  size: 68, 30
+  orig: 136, 56
+  offset: 1, 7
+  index: -1
+effect/attack_ci2_00001
+  rotate: false
+  xy: 101, 7
+  size: 104, 37
+  orig: 136, 56
+  offset: 2, 3
+  index: -1
+effect/attack_ci2_00002
+  rotate: false
+  xy: 157, 135
+  size: 121, 46
+  orig: 136, 56
+  offset: 4, 3
+  index: -1
+effect/attack_ci2_00003
+  rotate: false
+  xy: 2, 132
+  size: 120, 46
+  orig: 136, 56
+  offset: 10, 6
+  index: -1
+effect/attack_ci2_00004
+  rotate: false
+  xy: 2, 82
+  size: 114, 48
+  orig: 136, 56
+  offset: 17, 5
+  index: -1
+effect/attack_ci2_00005
+  rotate: false
+  xy: 118, 46
+  size: 104, 48
+  orig: 136, 56
+  offset: 26, 6
+  index: -1
+effect/attack_ci2_00006
+  rotate: true
+  xy: 224, 22
+  size: 72, 48
+  orig: 136, 56
+  offset: 63, 6
+  index: -1
+effect/attack_shikuai
+  rotate: false
+  xy: 124, 154
+  size: 19, 24
+  orig: 24, 24
+  offset: 3, 0
+  index: -1

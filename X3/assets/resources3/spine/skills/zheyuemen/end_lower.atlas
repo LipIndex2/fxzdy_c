@@ -1,0 +1,90 @@
+
+end_lower.png
+size: 372,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chuansongmen_ring_00000
+  rotate: false
+  xy: 2, 248
+  size: 123, 122
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+effect/chuansongmen_ring_00001
+  rotate: true
+  xy: 127, 249
+  size: 121, 122
+  orig: 128, 128
+  offset: 4, 3
+  index: -1
+effect/chuansongmen_ring_00002
+  rotate: false
+  xy: 251, 252
+  size: 119, 118
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+effect/chuansongmen_ring_00003
+  rotate: false
+  xy: 251, 134
+  size: 117, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+effect/chuansongmen_ring_00004
+  rotate: true
+  xy: 127, 134
+  size: 113, 114
+  orig: 128, 128
+  offset: 8, 7
+  index: -1
+effect/chuansongmen_ring_00005
+  rotate: false
+  xy: 2, 140
+  size: 107, 106
+  orig: 128, 128
+  offset: 11, 11
+  index: -1
+effect/chuansongmen_ring_00006
+  rotate: false
+  xy: 2, 36
+  size: 103, 102
+  orig: 128, 128
+  offset: 13, 13
+  index: -1
+effect/chuansongmen_ring_00007
+  rotate: false
+  xy: 107, 40
+  size: 91, 92
+  orig: 128, 128
+  offset: 19, 18
+  index: -1
+effect/chuansongmen_ring_00008
+  rotate: true
+  xy: 200, 47
+  size: 85, 84
+  orig: 128, 128
+  offset: 22, 22
+  index: -1
+effect/chuansongmen_ring_00009
+  rotate: false
+  xy: 286, 56
+  size: 77, 76
+  orig: 128, 128
+  offset: 26, 26
+  index: -1
+effect/chuansongmen_ring_00010
+  rotate: false
+  xy: 286, 2
+  size: 51, 52
+  orig: 128, 128
+  offset: 39, 38
+  index: -1
+effect/chuansongmen_ring_00011
+  rotate: false
+  xy: 2, 2
+  size: 31, 32
+  orig: 128, 128
+  offset: 49, 48
+  index: -1

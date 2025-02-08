@@ -1,0 +1,104 @@
+
+attack_upper.png
+size: 412,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack_fire_01
+  rotate: false
+  xy: 236, 235
+  size: 37, 42
+  orig: 180, 100
+  offset: 129, 26
+  index: -1
+images/effect/attack_fire_010
+  rotate: true
+  xy: 200, 2
+  size: 128, 74
+  orig: 180, 100
+  offset: 33, 16
+  index: -1
+images/effect/attack_fire_011
+  rotate: true
+  xy: 2, 11
+  size: 114, 67
+  orig: 180, 100
+  offset: 32, 20
+  index: -1
+images/effect/attack_fire_012
+  rotate: true
+  xy: 131, 15
+  size: 110, 67
+  orig: 180, 100
+  offset: 31, 20
+  index: -1
+images/effect/attack_fire_013
+  rotate: false
+  xy: 236, 132
+  size: 98, 65
+  orig: 180, 100
+  offset: 30, 22
+  index: -1
+images/effect/attack_fire_02
+  rotate: false
+  xy: 276, 27
+  size: 43, 43
+  orig: 180, 100
+  offset: 121, 28
+  index: -1
+images/effect/attack_fire_03
+  rotate: false
+  xy: 336, 152
+  size: 74, 45
+  orig: 180, 100
+  offset: 88, 26
+  index: -1
+images/effect/attack_fire_04
+  rotate: true
+  xy: 71, 12
+  size: 113, 58
+  orig: 180, 100
+  offset: 52, 14
+  index: -1
+images/effect/attack_fire_05
+  rotate: true
+  xy: 336, 7
+  size: 143, 72
+  orig: 180, 100
+  offset: 17, 7
+  index: -1
+images/effect/attack_fire_06
+  rotate: true
+  xy: 160, 132
+  size: 145, 74
+  orig: 180, 100
+  offset: 14, 9
+  index: -1
+images/effect/attack_fire_07
+  rotate: true
+  xy: 83, 127
+  size: 150, 75
+  orig: 180, 100
+  offset: 11, 9
+  index: -1
+images/effect/attack_fire_08
+  rotate: true
+  xy: 2, 127
+  size: 150, 79
+  orig: 180, 100
+  offset: 10, 14
+  index: -1
+images/effect/attack_fire_09
+  rotate: false
+  xy: 276, 199
+  size: 133, 78
+  orig: 180, 100
+  offset: 26, 15
+  index: -1
+images/effect/attack_glo
+  rotate: false
+  xy: 276, 72
+  size: 58, 58
+  orig: 64, 64
+  offset: 3, 3
+  index: -1

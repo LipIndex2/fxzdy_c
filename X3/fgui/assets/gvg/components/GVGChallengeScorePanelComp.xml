@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="234,92">
+  <displayList>
+    <image id="n156_ac45" name="bg" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="234,92" group="n164_k3sy" alpha="0.34"/>
+    <image id="n165_k3sy" name="imgStar" src="a0033" fileName="img/xinghuang1_icon.png" pkg="38fa8c75" xy="142,50" pivot="0.5,0.5" group="n164_k3sy"/>
+    <image id="n160_ac45" name="n160" src="ac4590" fileName="img/sd_A_common_boss_tag_2.png" xy="10,53" group="n164_k3sy"/>
+    <image id="n161_ac45" name="n161" src="ac4590" fileName="img/sd_A_common_boss_tag_2.png" xy="10,13" group="n164_k3sy"/>
+    <text id="n157_ac45" name="labelChallengeCount" xy="24,8" size="164,34" group="n164_k3sy" fontSize="24" color="#ffffff" vAlign="middle" singleLine="true" text="挑战次数：2/3"/>
+    <text id="n158_ac45" name="labelGain" xy="26,48" size="109,34" group="n164_k3sy" fontSize="24" color="#ffffff" vAlign="middle" text="击败获得:"/>
+    <text id="n166_k3sy" name="labelStarCount" xy="177,48" size="33,34" group="n164_k3sy" fontSize="24" color="#ffffff" vAlign="middle" singleLine="true" text="30"/>
+    <group id="n164_k3sy" name="n164" xy="0,0" size="234,92"/>
+  </displayList>
+</component>

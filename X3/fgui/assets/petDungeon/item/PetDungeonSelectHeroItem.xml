@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="190,160">
+  <displayList>
+    <loader id="n77_kkiq" name="bgLoader" xy="5,128" pivot="0,1" anchor="true" size="205,123" scale="0.9,0.9" url="ui://3cd69509t5gy94" autoSize="true"/>
+    <loader id="n76_kkiq" name="iconLoader" xy="5,128" pivot="0,1" anchor="true" size="199,148" scale="0.9,0.9" url="ui://3cd69509t5gy93" align="center" fill="scale" autoSize="true" clearOnPublish="true"/>
+    <loader id="n75_kkiq" name="careerLoader" xy="20,34" pivot="0.5,0.5" anchor="true" size="42,42" url="ui://3cd69509t5gy95" align="center" vAlign="middle" fill="scale"/>
+    <image id="n13_3cc5" name="n13" src="dtss5p" fileName="frameImage/black2_msg.png" pkg="38fa8c75" xy="4,108" size="331,22" scale="0.5,0.9"/>
+    <list id="n80_t0xc" name="listStar" xy="8,108" size="213,32" scale="0.6,0.6" layout="row" colGap="6" defaultItem="ui://38fa8c75dclx138">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n82_105pv" name="n82" src="tkxdvvv1c3" fileName="hero/img/jiaobiao.png" pkg="38fa8c75" xy="133,101" size="64,31" scale="0.9,0.9"/>
+    <text id="n11_3cc5" name="lbName" xy="71,128" size="48,32" fontSize="22" color="#fde963" align="center" vAlign="middle" strokeColor="#130000" strokeSize="2" text="杨戬">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n16_3cc5" name="lbLv" xy="163,116" pivot="0.5,0.5" anchor="true" size="33,34" fontSize="24" align="center" vAlign="middle" leading="0" text="80"/>
+    <image id="n83_woyg" name="n83" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="5,16" size="184,110" group="n85_woyg" alpha="0.4"/>
+    <image id="n84_woyg" name="n84" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="68,48" group="n85_woyg"/>
+    <group id="n85_woyg" name="gSelect" xy="5,16" size="184,110" advanced="true"/>
+  </displayList>
+</component>

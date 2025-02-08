@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="210,53">
+  <displayList>
+    <component id="n17_ffqt" name="pvpRankComp" src="ffqtvvv1ca" fileName="pvp/CommonPVPRankSmallLogoComp.xml" pkg="38fa8c75" xy="-8,-1"/>
+    <text id="n16_ffqt" name="labelRankValue" xy="74,6" pivot="0,0.5" size="135,42" fontSize="30" color="#ffffff" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" autoClearText="true" text="2500"/>
+  </displayList>
+</component>

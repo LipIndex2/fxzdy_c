@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n99_bezo" name="n99" xy="141,343" size="496,647" group="n97_bezo" url="ui://38fa8c753cd618" fill="scaleFree"/>
+    <image id="n89_bezo" name="n89" src="105pv7q" fileName="img/word_tag.png" xy="118,369" pivot="0.5,0.5" size="242,28" group="n97_bezo" scale="0.55,0.55" alpha="0.5"/>
+    <image id="n90_bezo" name="n90" src="105pv7q" fileName="img/word_tag.png" xy="418,369" pivot="0.5,0.5" size="242,28" group="n97_bezo" scale="-0.55,0.55" alpha="0.5"/>
+    <image id="n87_bezo" name="n87" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="166,567" size="441,3" group="n97_bezo" color="#3e4c68"/>
+    <text id="n88_bezo" name="n88" xy="175,439" pivot="0,0.5" size="147,34" group="n97_bezo" fontSize="24" color="#f6d860" vAlign="middle" text="【属性加成】"/>
+    <text id="n95_bezo" name="n95" xy="175,586" pivot="0,0.5" size="147,34" group="n97_bezo" fontSize="24" color="#f6d860" vAlign="middle" text="【进阶属性】"/>
+    <text id="n91_bezo" name="n91" xy="327,364" pivot="0.5,0.5" size="123,42" group="n97_bezo" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="属性总览"/>
+    <list id="n94_bezo" name="list_attr1" xy="175,482" size="431,76" group="n97_bezo" layout="flow_hz" overflow="scroll" colGap="50" defaultItem="ui://69f29748bezov8r">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n96_bezo" name="list_attr2" xy="175,629" size="431,333" group="n97_bezo" layout="flow_hz" overflow="scroll" colGap="50" defaultItem="ui://69f29748bezov8r">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n98_bezo" name="attrTipsItem" src="bezov8t" fileName="item/HeroAttrTips.xml" xy="248,731" group="n97_bezo" visible="false" controller="c1,0"/>
+    <group id="n97_bezo" name="n97" xy="118,343" size="542,647" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

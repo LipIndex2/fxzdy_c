@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,105">
+  <displayList>
+    <image id="n30_116b" name="n30" src="116b11" fileName="img/zhaohuan_2.png" xy="28,15"/>
+    <image id="n32_116b" name="n32" src="116b13" fileName="img/xuanzhong.png" xy="-1,0"/>
+    <text id="n33_116b" name="n33" xy="36,68" size="48,32" fontSize="22" color="#3da9fc" strokeColor="#000000" strokeSize="2" text="玩法"/>
+  </displayList>
+</component>

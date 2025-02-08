@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1664">
+  <displayList>
+    <image id="n0_eab5" name="n0" src="eab533" fileName="img/beijing2.jpg" xy="-1,0" group="n51_hz6e"/>
+    <image id="n1_eab5" name="n1" src="eab561" fileName="img/dizuo.png" xy="41,445" group="n51_hz6e"/>
+    <component id="n48_v5mw" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="191,513" size="100,100" group="n51_hz6e"/>
+    <text id="n4_eab5" name="lbN" xy="98,529" size="200,36" group="n51_hz6e" fontSize="26" color="#ffd557" align="center" vAlign="middle" autoSize="none" strokeColor="#1a1401" strokeSize="3" text="玩家名字六子11"/>
+    <text id="n5_eab5" name="lbS" xy="21,565" size="350,39" group="n51_hz6e" fontSize="28" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#070110" strokeSize="3" text="赛季总积分：99"/>
+    <image id="n7_eab5" name="n7" src="eab565" fileName="img/guanjundi.png" xy="463,516" group="n51_hz6e"/>
+    <image id="n8_eab5" name="n8" src="eab566" fileName="img/wupindi.png" xy="495,340" group="n51_hz6e"/>
+    <text id="n9_eab5" name="n9" xy="477,503" size="206,46" group="n51_hz6e" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="赛季冠军奖励"/>
+    <text id="n13_eab5" name="lbReward" xy="477,559" size="206,44" group="n51_hz6e" fontSize="32" color="#fb4141" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="无限手套"/>
+    <image id="n14_eab5" name="n14" src="eab568" fileName="img/sd_A_common_hd_di01.png" xy="-2,613" group="n51_hz6e"/>
+    <image id="n15_eab5" name="n15" src="eab569" fileName="img/sd_A_common_hd_di02.png" xy="8,650" size="730,800" group="n51_hz6e">
+      <relation target="" sidePair="bottomext-bottom"/>
+    </image>
+    <text id="n37_eab5" name="lbTitle" xy="38,180" size="206,46" group="n51_hz6e" fontSize="34" color="#feab3f" vAlign="middle" strokeColor="#000000" strokeSize="3" text="心灵宝石试炼"/>
+    <image id="n56_9zn0" name="n56" src="woygvvv1il" fileName="bgImage/sjkj_bt.png" pkg="38fa8c75" xy="5,83" group="n51_hz6e"/>
+    <image id="n41_eab5" name="n41" src="eab584" fileName="img/saijipaiming_25.png" xy="39,69" group="n51_hz6e"/>
+    <loader id="n42_uk3p" name="imgTop" xy="129,250" size="109,68" group="n51_hz6e" url="ui://38fa8c75gkgvvvv19j"/>
+    <component id="n45_uk3p" name="itemBtn" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="530,365" group="n51_hz6e" scale="1.2,1.2"/>
+    <list id="n47_uk3p" name="rankList" xy="16,656" size="710,712" group="n51_hz6e" overflow="scroll" margin="3,0,0,0" defaultItem="ui://c8c5d312uk3p8d">
+      <relation target="" sidePair="bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n49_v5mw" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="193,504" pivot="0.5,0.5" anchor="true" size="168,72" group="n51_hz6e" aspect="true"/>
+    <image id="n18_eab5" name="n18" src="eab571" fileName="img/ziji_frame.png" xy="8,1383" size="730,142" group="n50_v5mw"/>
+    <image id="n19_eab5" name="n19" src="eab572" fileName="img/ziji1_frame.png" xy="14,1389" size="152,130" group="n50_v5mw"/>
+    <text id="n21_eab5" name="lbMyS" xy="223,1436" size="238,39" group="n50_v5mw" fontSize="28" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="我的总积分：9999"/>
+    <text id="n22_eab5" name="lbMyR" xy="19,1435" size="140,49" group="n50_v5mw" fontSize="36" color="#98c2ff" align="center" vAlign="middle" autoSize="none" strokeColor="#010e16" strokeSize="2" text="1"/>
+    <image id="n20_eab5" name="n20" src="eab573" fileName="img/baoxiangdi.png" xy="554,1401" size="154,112" group="n50_v5mw"/>
+    <component id="n46_uk3p" name="btnPre" src="uk3p8c" fileName="btn/SeasonPreviewBtn.xml" xy="580,1408" size="110,110" group="n50_v5mw"/>
+    <image id="n31_eab5" name="n31" src="eab579" fileName="img/sd_A_common_wdpm_frame.png" xy="11,1345" size="161,50" group="n50_v5mw"/>
+    <text id="n32_eab5" name="n32" xy="46,1354" size="91,32" group="n50_v5mw" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="我的排名"/>
+    <group id="n50_v5mw" name="myG" xy="8,1345" size="730,180" group="n51_hz6e" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <richtext id="n53_oyze" name="lbCd" xy="38,138" size="241,36" group="n51_hz6e" fontSize="24" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="asd"/>
+    <loader id="n55_oyze" name="imgClick" xy="96,254" size="181,292" group="n51_hz6e"/>
+    <group id="n51_hz6e" name="n51" xy="-2,0" size="751,1630" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n52_oyze" name="n52" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="-1,-266" size="750,350" color="#0c1e4e"/>
+  </displayList>
+</component>

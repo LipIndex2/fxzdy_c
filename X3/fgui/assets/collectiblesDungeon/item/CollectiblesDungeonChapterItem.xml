@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,160">
+  <controller name="state" pages="0,,1,,2," selected="0">
+    <remark page="0" value="可挑战"/>
+    <remark page="1" value="已通关"/>
+    <remark page="2" value="未解锁"/>
+  </controller>
+  <displayList>
+    <image id="n10_f430" name="n10" src="f4308" fileName="img/tuceng62.png" xy="0,0"/>
+    <image id="n12_f430" name="n12" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="25,112" size="137,36" alpha="0.4"/>
+    <image id="n14_f430" name="n14" src="105pvv182" fileName="btnImage/xinghuang2_icon.png" pkg="38fa8c75" xy="34,117" aspect="true" scale="0.7,0.7"/>
+    <component id="n25_loj0" name="btnGoto" src="ffqtvvv1cm" fileName="btn/BtnBuZhen.xml" pkg="38fa8c75" xy="394,89" size="116,58">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="前往" titleFontSize="28"/>
+    </component>
+    <text id="n11_f430" name="lbName" xy="35,18" size="81,42" fontSize="30" color="#fff6c7" vAlign="middle" strokeColor="#000000" strokeSize="3" text="章节1"/>
+    <text id="n13_f430" name="lbStar" xy="65,112" size="68,32" fontSize="22" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="30/30"/>
+    <image id="n26_loj0" name="n26" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="0,0" size="538,160" group="n29_loj0" alpha="0.5"/>
+    <text id="n27_loj0" name="n27" xy="206,59" size="156,32" group="n29_loj0" fontSize="22" color="#bbdfed" vAlign="middle" text="通关前一章解锁"/>
+    <image id="n28_loj0" name="n28" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="177,57" size="26,31" group="n29_loj0">
+      <relation target="n27_loj0" sidePair="right-left"/>
+    </image>
+    <group id="n29_loj0" name="gLock" xy="0,0" size="538,160" advanced="true">
+      <gearDisplay controller="state" pages="2"/>
+    </group>
+    <image id="n30_loj0" name="n30" src="f4307" fileName="img/wanmeitongguan.png" xy="377,27">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+  </displayList>
+</component>

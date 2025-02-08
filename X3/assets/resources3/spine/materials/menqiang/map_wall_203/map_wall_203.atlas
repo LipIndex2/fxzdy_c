@@ -1,0 +1,34 @@
+
+map_wall_203.png
+size: 138,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 4
+  size: 116, 71
+  orig: 117, 73
+  offset: 0, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 93
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+3
+  rotate: 180
+  xy: 2, 24
+  size: 124, 77
+  orig: 127, 77
+  offset: 2, 0
+  index: -1
+4
+  rotate: 180
+  xy: 2, 51
+  size: 133, 81
+  orig: 136, 81
+  offset: 2, 0
+  index: -1

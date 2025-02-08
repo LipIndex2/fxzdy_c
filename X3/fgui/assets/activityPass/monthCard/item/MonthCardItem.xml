@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="557,220">
+  <controller name="type" pages="0,,1,,2," selected="1">
+    <remark page="0" value="月卡"/>
+    <remark page="1" value="终身卡"/>
+    <remark page="2" value="矿卡"/>
+  </controller>
+  <controller name="isActive" pages="0,,1," selected="1">
+    <remark page="0" value="未激活"/>
+    <remark page="1" value="已激活"/>
+  </controller>
+  <displayList>
+    <loader id="n42_8g0d" name="bg" xy="0,0" size="557,220" url="ui://cbdbddd7kb3a1g" autoSize="true">
+      <gearIcon controller="type" pages="0,1,2" values="ui://cbdbddd789999|ui://cbdbddd7kb3a1g|ui://cbdbddd78g0d1y"/>
+    </loader>
+    <loader id="n46_8g0d" name="iconActive" xy="432,169" size="40,40" url="ui://cbdbddd7899911" autoSize="true">
+      <gearDisplay controller="isActive" pages="1"/>
+      <gearXY controller="type" pages="0,1,2" values="430,168|432,169|430,169"/>
+      <gearIcon controller="type" pages="2" values="ui://cbdbddd78g0d1z" default="ui://cbdbddd7899911"/>
+    </loader>
+    <text id="n20_8999" name="lbName" xy="402,80" pivot="0.5,0.5" anchor="true" size="200,86" fontSize="66" color="#ffffff" vAlign="middle" strokeColor="#b46006" strokeSize="4" text="终身卡">
+      <gearLook controller="type" default="1,0,0,0"/>
+      <gearColor controller="type" pages="0,2" values="#ffffff,#0551cc|#ffffff,#6b2ed5" default="#ffffff,#b46006"/>
+    </text>
+    <text id="n43_8g0d" name="lbDes" xy="401,139" pivot="0.5,0.5" anchor="true" size="129,42" fontSize="30" color="#ffed2a" align="center" vAlign="middle" text="30天特权">
+      <gearColor controller="type" pages="1,2" values="#ffed2a,#000000|#df99ff,#000000" default="#4bf0ff,#000000"/>
+    </text>
+    <text id="n44_8g0d" name="lbNoActive" xy="468,188" pivot="0,0.5" anchor="true" size="75,34" fontSize="24" color="#b6b6b6" vAlign="middle" text="未激活">
+      <gearDisplay controller="isActive" pages="0"/>
+    </text>
+    <text id="n45_8g0d" name="lbActive" xy="468,188" pivot="0,0.5" anchor="true" size="75,34" fontSize="24" color="#ffffff" vAlign="middle" text="已激活">
+      <gearDisplay controller="isActive" pages="1"/>
+    </text>
+    <component id="n34_jsyk" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="490,41"/>
+  </displayList>
+</component>

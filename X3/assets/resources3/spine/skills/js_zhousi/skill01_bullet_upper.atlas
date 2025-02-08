@@ -1,0 +1,34 @@
+
+skill01_bullet_upper.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_bullet_00000
+  rotate: false
+  xy: 2, 40
+  size: 151, 36
+  orig: 184, 46
+  offset: 22, 5
+  index: -1
+images/effect/skill01_bullet_00001
+  rotate: false
+  xy: 2, 4
+  size: 151, 34
+  orig: 184, 46
+  offset: 22, 8
+  index: -1
+images/effect/skill01_bullet_00002
+  rotate: false
+  xy: 2, 116
+  size: 152, 38
+  orig: 184, 46
+  offset: 22, 3
+  index: -1
+images/effect/skill01_bullet_00003
+  rotate: false
+  xy: 2, 78
+  size: 152, 36
+  orig: 184, 46
+  offset: 22, 5
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="643,340">
+  <displayList>
+    <image id="n116_xwdv" name="bg" src="xwdvva6" fileName="img/xian.png" xy="118,35"/>
+    <component id="n119_xwdv" name="DNA1" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="37,1" group="n125_xwdv"/>
+    <component id="n120_xwdv" name="DNA2" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="0,140" group="n125_xwdv"/>
+    <component id="n121_xwdv" name="DNA3" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="36,268" group="n125_xwdv"/>
+    <group id="n125_xwdv" name="left" xy="0,1" size="149,339"/>
+    <component id="n122_xwdv" name="DNA4" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="497,0" group="n126_xwdv"/>
+    <component id="n123_xwdv" name="DNA5" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="531,134" group="n126_xwdv"/>
+    <component id="n124_xwdv" name="DNA6" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="498,264" group="n126_xwdv"/>
+    <group id="n126_xwdv" name="right" xy="497,0" size="146,336"/>
+  </displayList>
+</component>

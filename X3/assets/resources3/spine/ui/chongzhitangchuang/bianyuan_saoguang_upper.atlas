@@ -1,0 +1,111 @@
+
+bianyuan_saoguang_upper.png
+size: 979,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/kuang01
+  rotate: true
+  xy: 973, 763
+  size: 22, 4
+  orig: 512, 512
+  offset: 248, 86
+  index: -1
+effect/kuang02
+  rotate: true
+  xy: 914, 213
+  size: 199, 30
+  orig: 512, 512
+  offset: 171, 86
+  index: -1
+effect/kuang03
+  rotate: true
+  xy: 914, 414
+  size: 371, 57
+  orig: 512, 512
+  offset: 71, 85
+  index: -1
+effect/kuang04
+  rotate: false
+  xy: 458, 2
+  size: 451, 83
+  orig: 512, 512
+  offset: 29, 85
+  index: -1
+effect/kuang05
+  rotate: false
+  xy: 2, 67
+  size: 454, 108
+  orig: 512, 512
+  offset: 28, 85
+  index: -1
+effect/kuang06
+  rotate: false
+  xy: 458, 177
+  size: 454, 133
+  orig: 512, 512
+  offset: 28, 86
+  index: -1
+effect/kuang07
+  rotate: false
+  xy: 458, 462
+  size: 454, 159
+  orig: 512, 512
+  offset: 28, 86
+  index: -1
+effect/kuang08
+  rotate: false
+  xy: 2, 621
+  size: 454, 164
+  orig: 512, 512
+  offset: 28, 105
+  index: -1
+effect/kuang09
+  rotate: false
+  xy: 458, 623
+  size: 454, 162
+  orig: 512, 512
+  offset: 28, 130
+  index: -1
+effect/kuang10
+  rotate: false
+  xy: 2, 303
+  size: 454, 157
+  orig: 512, 512
+  offset: 28, 156
+  index: -1
+effect/kuang11
+  rotate: false
+  xy: 458, 312
+  size: 454, 148
+  orig: 512, 512
+  offset: 28, 182
+  index: -1
+effect/kuang12
+  rotate: false
+  xy: 2, 485
+  size: 453, 134
+  orig: 512, 512
+  offset: 29, 208
+  index: -1
+effect/kuang13
+  rotate: false
+  xy: 2, 188
+  size: 448, 113
+  orig: 512, 512
+  offset: 34, 234
+  index: -1
+effect/kuang14
+  rotate: false
+  xy: 458, 87
+  size: 448, 88
+  orig: 512, 512
+  offset: 34, 260
+  index: -1
+effect/kuang15
+  rotate: false
+  xy: 2, 6
+  size: 448, 59
+  orig: 512, 512
+  offset: 34, 289
+  index: -1

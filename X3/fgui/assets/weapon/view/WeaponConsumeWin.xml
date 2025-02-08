@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n21_ni07" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="31,159" size="682,1014" group="n18_r9dw"/>
+    <image id="n2_03e4" name="n2" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="31,159" size="682,1014" group="n18_r9dw"/>
+    <image id="n3_03e4" name="n3" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="53,246" size="638,754" group="n18_r9dw"/>
+    <list id="n19_r9dw" name="listConsume" xy="75,276" size="600,700" group="n18_r9dw" layout="flow_hz" selectionMode="multipleSingleClick" overflow="scroll" lineGap="20" colGap="20" lineItemCount="5" defaultItem="ui://cbfa4e0cr9dw92" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n20_cjsd" name="btnSure" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="375,1084" pivot="0.5,0.5" anchor="true" size="306,117" group="n18_r9dw">
+      <Button title="确认选择"/>
+    </component>
+    <text id="n10_03e4" name="lbTitle" xy="305,186" size="131,44" group="n18_r9dw" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="我的武器"/>
+    <group id="n18_r9dw" name="n18" xy="31,159" size="682,1014" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

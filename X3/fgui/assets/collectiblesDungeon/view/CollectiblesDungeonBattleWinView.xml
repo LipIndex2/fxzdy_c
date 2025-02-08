@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n32_loj0" name="winComp" src="loj0118" fileName="component/CollectiblesDungeonBattleWinComp.xml" xy="75,508">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

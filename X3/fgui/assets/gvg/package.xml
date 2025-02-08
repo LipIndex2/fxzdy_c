@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packageDescription id="8da0bf52">
+  <resources>
+    <image id="ac452" name="chuan.png" path="/img/"/>
+    <image id="ac453" name="xiaorenkaobei5.png" path="/img/"/>
+    <image id="ac457" name="tuceng512.png" path="/img/"/>
+    <image id="ac459" name="scale_80%_sd_A_common_dakai1_btn.png" path="/img/"/>
+    <image id="ac4510" name="VS_40.png" path="/img/"/>
+    <image id="ac4511" name="scale_80%_sd_A_common_xinghuang1_icon_39.png" path="/img/"/>
+    <image id="ac4518" name="sd_Rrukoutubiao_rk0011_icon.png" path="/img/"/>
+    <image id="ac4523" name="beijing.png" path="/img/"/>
+    <image id="ac4524" name="xingmengzhengba.png" path="/img/"/>
+    <image id="ac4525" name="sd_A_common_bossfydi_frame_30.png" path="/img/"/>
+    <image id="ac4526" name="sd_A_common_liaotian_frame_29.png" path="/img/"/>
+    <image id="ac4528" name="scale_60%_sd_A_common_cha_icon.png" path="/img/"/>
+    <image id="ac4529" name="scale_60%_sd_A_common_gou_icon.png" path="/img/"/>
+    <image id="ac4532" name="sd_A_common_fubiao_frame.png" path="/img/"/>
+    <image id="ac4533" name="sd_A_common_bossfydi_frame_21.png" path="/img/"/>
+    <image id="ac4536" name="scale_60%_sd_A_common_biaoti1_msg_18.png" path="/img/"/>
+    <image id="ac4546" name="sd_A_common_xz_tab.png" path="/img/"/>
+    <image id="ac4547" name="sd_A_common_wxz_tab.png" path="/img/"/>
+    <image id="ac4552" name="scale_85%_sd_A_common_paimingframe.png" path="/img/"/>
+    <image id="ac4558" name="sd_A_common_zjlb_frame.png" path="/img/"/>
+    <image id="ac4559" name="scale_85%_sd_A_common_zijipaimingframe.png" path="/img/"/>
+    <image id="ac4561" name="sd_A_common_wdpm_frame.png" path="/img/"/>
+    <image id="ac4567" name="scale_50%_sd_A_common_fdj_icon.png" path="/img/"/>
+    <image id="ac4571" name="sd_Rrukoutubiao_rk0012_icon.png" path="/img/"/>
+    <image id="ac4581" name="scale_80%_sd_A_common_yjb_tag.png" path="/img/"/>
+    <image id="ac4583" name="jindutiaodi1.png" path="/bar/img/"/>
+    <image id="ac4585" name="jindu_yuandi.png" path="/bar/img/"/>
+    <image id="ac4586" name="jindu_yuan.png" path="/bar/img/"/>
+    <image id="ac4590" name="sd_A_common_boss_tag_2.png" path="/img/"/>
+    <image id="ac4598" name="sd_A_common_tisp_frame.png" path="/img/"/>
+    <image id="ac4599" name="scale_80%_sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <image id="ac45108" name="scale_80%_sd_A_common_xinghuang1_icon.png" path="/img/"/>
+    <image id="ac45109" name="VS.png" path="/img/"/>
+    <image id="ac45110" name="jindutiaodi2.png" path="/bar/img/"/>
+    <image id="ac45111" name="jindutiao2.png" path="/bar/img/"/>
+    <image id="k3sy117" name="img_gvg_mat.png" path="/item/img/"/>
+    <image id="k3sy11c" name="bg_gvg.jpg" path="/bg/"/>
+    <image id="k3sy11u" name="img_xing.png" path="/imgExport/" exported="true"/>
+    <image id="l2wi11w" name="img_bar_gvg_1.png" path="/bar/img/" scale="9grid" scale9grid="6,0,4,20"/>
+    <component id="k3sy113" name="GVGBattleResultView.xml" path="/"/>
+    <component id="k3sy114" name="GVGHpBar.xml" path="/bar/"/>
+    <component id="k3sy115" name="GVGPlayerBalanceComp.xml" path="/components/"/>
+    <component id="k3sy116" name="GVGChallengeView.xml" path="/"/>
+    <component id="k3sy118" name="GVGOneChallengeItemComp.xml" path="/item/"/>
+    <component id="k3sy119" name="GVGChallengeHpBar.xml" path="/bar/"/>
+    <component id="k3sy11a" name="GVGChallengeBtn.xml" path="/btn/"/>
+    <component id="k3sy11b" name="GVGChallengeScorePanelComp.xml" path="/components/"/>
+    <component id="k3sy11d" name="GVGCircleBar.xml" path="/bar/"/>
+    <component id="k3sy11e" name="GVGChallengeConfirmWin.xml" path="/"/>
+    <component id="k3sy11f" name="GVGRankWin.xml" path="/"/>
+    <component id="k3sy11g" name="GVGRankItemComp.xml" path="/item/"/>
+    <component id="k3sy11h" name="GVGChooseLeagueBtn.xml" path="/btn/"/>
+    <component id="k3sy11j" name="GVGRecordWin.xml" path="/"/>
+    <component id="k3sy11k" name="GVGRewardPreviewWin.xml" path="/"/>
+    <component id="k3sy11l" name="GVGOpenTipsWin.xml" path="/"/>
+    <component id="k3sy11m" name="GVGMainView.xml" path="/"/>
+    <component id="k3sy11o" name="GVGTabItemBtn.xml" path="/btn/"/>
+    <component id="k3sy11p" name="GVGChallengeBigBtn.xml" path="/btn/"/>
+    <component id="k3sy11q" name="GVGTeamLikeBtn.xml" path="/btn/"/>
+    <component id="k3sy11r" name="GVGSeeRecordBtn.xml" path="/btn/"/>
+    <component id="k3sy11s" name="GVGMyRankNumComp.xml" path="/components/"/>
+    <component id="k3sy11t" name="GVGRecordTextItemComp.xml" path="/item/"/>
+    <component id="k3sy11v" name="GVGOpenConditionComp.xml" path="/components/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

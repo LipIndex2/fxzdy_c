@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n106_xebi" name="bg" xy="0,0" size="750,1334" alpha="0.65" url="ui://38fa8c75j6z92h" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n55_4928" name="n55" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="57,313" size="637,708" group="n105_kkiq"/>
+    <image id="n56_4928" name="n56" src="3cd619" fileName="bgImage/tisp2_frame.png" pkg="38fa8c75" xy="78,585" size="594,414" group="n105_kkiq"/>
+    <text id="n57_4928" name="n57" xy="303,353" size="140,46" group="n105_kkiq" fontSize="34" color="#fcf0d2" align="center" vAlign="middle" leading="0" text="阵营光环"/>
+    <image id="n58_4928" name="n58" src="xebibd" fileName="bgImage/3j_line.png" pkg="38fa8c75" xy="457,376" size="199,10" group="n105_kkiq" flip="hz"/>
+    <image id="n59_4928" name="n59" src="xebibd" fileName="bgImage/3j_line.png" pkg="38fa8c75" xy="94,377" size="197,8" group="n105_kkiq"/>
+    <text id="n60_4928" name="n60" xy="137,614" size="364,34" group="n105_kkiq" fontSize="24" color="#fcf0d2" vAlign="middle" leading="0" text="上阵同阵营英雄可以额外获得属性"/>
+    <list id="n107_xebi" name="list_camp" xy="111,438" size="535,105" group="n105_kkiq" layout="row" colGap="39" defaultItem="ui://4hj3fle9xebi1s">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n108_xebi" name="list_addAttr" xy="114,671" size="535,324" group="n105_kkiq" overflow="scroll" lineGap="15" defaultItem="ui://4hj3fle9xebi1t">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n105_kkiq" name="n105" xy="57,313" size="637,708" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="153,59" pivot="0.5,0.5" extention="Button">
+  <controller name="type" exported="true" pages="0,,1," selected="1">
+    <remark page="0" value="付费或者免费"/>
+    <remark page="1" value="消耗道具"/>
+  </controller>
+  <displayList>
+    <image id="n9_f31f" name="n9" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="153,59">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n15_oc78" name="lbPrice" xy="43,9" pivot="0.5,0.5" size="65,39" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="68元">
+      <gearDisplay controller="type" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <loader id="n13_oc78" name="iconCost" xy="56,28" pivot="0.5,0.5" anchor="true" size="40,40" group="n14_oc78" align="center" vAlign="middle" fill="scale">
+      <relation target="n10_f31f" sidePair="right-left"/>
+    </loader>
+    <text id="n10_f31f" name="lbCost" xy="97,28" pivot="0.5,0.5" anchor="true" size="38,39" group="n14_oc78" fontSize="28" color="#ffffff" align="center" vAlign="middle" strokeColor="#c96b06" strokeSize="3" text="68">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n14_oc78" name="pCost" xy="36,8" size="80,40" advanced="true" layout="hz" colGap="2">
+      <gearDisplay controller="type" pages="1"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n16_oc78" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="148,10">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+  <customProperty target="lbPrice" propertyId="0"/>
+  <customProperty target="lbCost" propertyId="0"/>
+</component>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d6f71f54">
+  <resources>
+    <image id="523f0" name="tuceng76kaobei4.jpg" path="/img/"/>
+    <image id="523f1" name="sd_Kkaifuchongbang_hd_di01.png" path="/img/"/>
+    <image id="523f2" name="sd_Kkaifuchongbang_hd_di02.png" path="/img/"/>
+    <image id="523f3" name="sd_Kkaifuchongbang_hd_yeqian02.png" path="/img/"/>
+    <image id="523f4" name="sd_Kkaifuchongbang_hd_yeqian01.png" path="/img/"/>
+    <image id="523f5" name="sd_Hhongdian_002_tag.png" path="/img/"/>
+    <image id="523f6" name="zu130443.png" path="/img/"/>
+    <image id="523f7" name="sd_A_common_yellow_frame.png" path="/img/"/>
+    <image id="523f8" name="icon_zd02.png" path="/img/"/>
+    <image id="523f9" name="10kaobei2_8.png" path="/img/"/>
+    <image id="523f10" name="sd_A_common_ylq_tag.png" path="/img/"/>
+    <image id="523f11" name="scale_60%_sd_A_common_changgui1_btn_6.png" path="/img/"/>
+    <image id="523f12" name="10kaobei2_5.png" path="/img/"/>
+    <image id="523f13" name="tuceng934.png" path="/img/"/>
+    <image id="523f14" name="sd_A_common_lbmb_frame.png" path="/img/"/>
+    <image id="523f15" name="sd_A_common_suo1_icon.png" path="/img/"/>
+    <image id="523f16" name="qianwangmijing.png" path="/img/"/>
+    <image id="523f17" name="sd_A_common_liaotian_frame.png" path="/img/"/>
+    <image id="523f18" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="523f19" name="sd_A_common_hd_frame.png" path="/img/"/>
+    <image id="523f20" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="523f21" name="sd_A_common_fh1_btn.png" path="/img/"/>
+    <image id="523f22" name="zu6kaobei2.png" path="/img/"/>
+    <image id="523f23" name="tuceng73.jpg" path="/img/"/>
+    <image id="523f24" name="sd_Mmeiritehuin_huangseliebiao.png" path="/img/"/>
+    <image id="523f25" name="10kaobei2.png" path="/img/"/>
+    <image id="523f26" name="sd_A_common_sq_tag.png" path="/img/"/>
+    <image id="523f27" name="tuceng1957.jpg" path="/img/"/>
+    <image id="523f28" name="qianwanglixianguaji.png" path="/img/"/>
+    <image id="523f29" name="mijinglihekaobei.jpg" path="/img/"/>
+    <image id="523f30" name="mijinglihekaobei3.jpg" path="/img/"/>
+    <image id="523f31" name="tuceng1640.jpg" path="/img/"/>
+    <image id="523f32" name="zu130445.png" path="/img/"/>
+    <image id="523f33" name="baoxiang.png" path="/img/"/>
+    <image id="523f34" name="tuceng1680.png" path="/img/"/>
+    <image id="523f35" name="yiwancheng.png" path="/img/"/>
+    <image id="523f36" name="sd_A_common_czzl_blood.png" path="/img/"/>
+    <image id="523f37" name="tuceng1690.png" path="/img/"/>
+    <image id="523f38" name="scale_74%_sd_A_common_czzl_blood.png" path="/img/"/>
+    <image id="523f39" name="scale_80%_sd_Rrukoutubiao_rk0004_icon.png" path="/img/"/>
+    <component id="523f40" name="DemoView.xml" path="/"/>
+    <component id="kyqn45" name="BlackShopSubView.xml" path="/"/>
+    <component id="kyqn46" name="BlackShopRowComp.xml" path="/item/"/>
+    <image id="kyqn47" name="liebiao_67.png" path="/item/img/"/>
+    <component id="kyqn48" name="BlackShopFreeBtn.xml" path="/item/"/>
+    <component id="kyqn49" name="BlackShopBuyBtn.xml" path="/btn/"/>
+    <image id="kyqn4a" name="qianwangzhaomu.png" path="/img/"/>
+    <component id="kyqn4b" name="BlackShopGoSecretLevelBtn.xml" path="/btn/"/>
+    <image id="kyqn4c" name="qianwangmijing.png" path="/btnImg/"/>
+    <component id="kyqn4d" name="BlackShopGoHangUpBtn.xml" path="/btn/"/>
+    <image id="kyqn4e" name="qianwanglixianguaji.png" path="/btnImg/"/>
+    <image id="kyqn4f" name="kfcb_beijing2.jpg" path="/img/"/>
+    <image id="l63i4g" name="wenzidi.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,34 @@
+
+map_door_202.png
+size: 372,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: 180
+  xy: 2, 4
+  size: 350, 212
+  orig: 351, 214
+  offset: 1, 1
+  index: -1
+2
+  rotate: 180
+  xy: 2, 97
+  size: 348, 303
+  orig: 348, 303
+  offset: 0, 0
+  index: -1
+3
+  rotate: 180
+  xy: 2, 25
+  size: 357, 214
+  orig: 362, 215
+  offset: 3, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 53
+  size: 367, 217
+  orig: 370, 221
+  offset: 2, 0
+  index: -1

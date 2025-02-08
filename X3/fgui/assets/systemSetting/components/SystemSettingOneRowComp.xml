@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="606,142" designImage="ui://7q3fcj1kk3sys7i" designImageOffsetX="-68" designImageOffsetY="-316">
+  <displayList>
+    <image id="n31_cc67" name="bg" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="606,142"/>
+    <image id="n33_cc67" name="fgTitle" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="145,15" size="316,41" color="#4c78c8"/>
+    <text id="n35_cc67" name="labelTitle" xy="177,19" pivot="0.5,0.5" size="257,36" fontSize="26" color="#8ed6ff" align="center" autoSize="none" strokeColor="#2351a6" strokeSize="3" singleLine="true" text="联盟"/>
+    <text id="n32_cc67" name="labelContent" xy="26,89" size="424,32" fontSize="22" color="#ffffff" vAlign="middle" autoSize="none" text="联盟BOSS刷新提醒"/>
+    <image id="n36_cc67" name="bgChoose" src="cc6722" fileName="img/sd_A_common_dakai1_btn.png" xy="467,85"/>
+    <component id="n37_cc67" name="btnSwitch" src="i4ei26" fileName="btn/SystemSettingSwitchBtn.xml" xy="467,85"/>
+  </displayList>
+  <transition name="left">
+    <item time="0" type="XY" target="n37_cc67" tween="true" startValue="467,85" endValue="512,85" duration="12"/>
+  </transition>
+  <transition name="right">
+    <item time="0" type="XY" target="n37_cc67" tween="true" startValue="512,85" endValue="467,85" duration="12"/>
+  </transition>
+</component>

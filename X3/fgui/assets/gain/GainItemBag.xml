@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="96,96">
+  <displayList>
+    <component id="n7_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="48,48"/>
+    <image id="n5_dusv" name="iconBag" src="dusv6" fileName="img/beibao.png" xy="48,48" pivot="0.5,0.5" anchor="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Scale" target="n5_dusv" tween="true" startValue="0,0" endValue="1,1" duration="11"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Scale" target="n5_dusv" tween="true" startValue="1,1" endValue="0.8,0.8" duration="3"/>
+    <item time="3" type="Scale" target="n5_dusv" tween="true" startValue="0.8,0.8" endValue="1,1" duration="3"/>
+  </transition>
+  <transition name="t2">
+    <item time="0" type="Scale" target="n5_dusv" tween="true" startValue="1,1" endValue="0,0" duration="11"/>
+  </transition>
+</component>

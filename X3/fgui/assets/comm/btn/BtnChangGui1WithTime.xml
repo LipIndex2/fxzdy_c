@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <controller name="canPayFlag" exported="true" pages="0,0,1,1" selected="1"/>
+  <displayList>
+    <image id="n8_dtss" name="icon" src="pf1a147" fileName="bgImage/changgui1_btn.png" xy="0,0" pivot="0.5,0.5" size="306,122">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_dtss" name="title" xy="37,48" pivot="0.5,0.5" size="242,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="进阶">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <text id="n7_dtss" name="labelCount" xy="124,3" pivot="0.5,0.5" size="58,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" leading="0" strokeColor="#c96b06" strokeSize="3" singleLine="true" text="123">
+      <gearColor controller="canPayFlag" pages="0,1" values="#cc0000,#c96b06|#ffffff,#c96b06"/>
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <component id="n9_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="297,9"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

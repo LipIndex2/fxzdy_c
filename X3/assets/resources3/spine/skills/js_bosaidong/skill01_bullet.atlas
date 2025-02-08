@@ -1,0 +1,90 @@
+
+skill01_bullet.png
+size: 135,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Effect/shuiqiuzidan_01
+  rotate: false
+  xy: 2, 107
+  size: 87, 52
+  orig: 128, 64
+  offset: 35, 7
+  index: -1
+images/Effect/shuiqiuzidan_02
+  rotate: false
+  xy: 2, 161
+  size: 112, 53
+  orig: 128, 64
+  offset: 9, 6
+  index: -1
+images/Effect/shuiqiuzidan_03
+  rotate: false
+  xy: 2, 379
+  size: 120, 53
+  orig: 128, 64
+  offset: 1, 6
+  index: -1
+images/Effect/shuiqiuzidan_04
+  rotate: false
+  xy: 2, 325
+  size: 122, 52
+  orig: 128, 64
+  offset: 0, 7
+  index: -1
+images/Effect/shuiqiuzidan_05
+  rotate: false
+  xy: 2, 544
+  size: 121, 53
+  orig: 128, 64
+  offset: 0, 6
+  index: -1
+images/Effect/shuiqiuzidan_06
+  rotate: false
+  xy: 2, 489
+  size: 121, 53
+  orig: 128, 64
+  offset: 0, 6
+  index: -1
+images/Effect/shuiqiuzidan_07
+  rotate: false
+  xy: 2, 271
+  size: 122, 52
+  orig: 128, 64
+  offset: 0, 7
+  index: -1
+images/Effect/shuiqiuzidan_08
+  rotate: false
+  xy: 2, 434
+  size: 121, 53
+  orig: 128, 64
+  offset: 0, 6
+  index: -1
+images/Effect/shuiqiuzidan_09
+  rotate: false
+  xy: 2, 216
+  size: 118, 53
+  orig: 128, 64
+  offset: 3, 6
+  index: -1
+images/Effect/shuiqiuzidan_10
+  rotate: false
+  xy: 2, 54
+  size: 83, 51
+  orig: 128, 64
+  offset: 37, 8
+  index: -1
+images/Effect/shuiqiuzidan_11
+  rotate: false
+  xy: 2, 2
+  size: 82, 50
+  orig: 128, 64
+  offset: 36, 8
+  index: -1
+images/Effect/shuiqiuzidan_12
+  rotate: true
+  xy: 87, 26
+  size: 79, 46
+  orig: 128, 64
+  offset: 37, 8
+  index: -1

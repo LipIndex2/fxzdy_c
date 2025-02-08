@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n55_bezo" name="img_light" xy="175,1157" size="388,12" group="n56_bezo" url="ui://cbdbddd7bezog" fill="scale"/>
+    <loader id="n49_bezo" name="img_bg" xy="33,138" pivot="1,1" size="626,365" group="n56_bezo" url="ui://cbdbddd7bezoh" autoSize="true" clearOnPublish="true"/>
+    <loader id="n50_bezo" name="img_title" xy="283,197" pivot="0.5,0.5" size="374,89" group="n56_bezo" url="ui://cbdbddd7bezoi" align="center" vAlign="middle" autoSize="true"/>
+    <component id="n58_r58c" name="btnRule" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="616,250" size="41,34" group="n56_bezo">
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <loader id="n59_s8ul" name="n59" xy="71,457" size="596,724" group="n56_bezo" url="ui://cbdbddd7bezoj" fill="scaleFree"/>
+    <text id="n25_6217" name="n25" xy="137,490" pivot="0.5,0.5" size="107,36" group="n56_bezo" fontSize="26" color="#010101" align="center" vAlign="middle" text="普通奖励"/>
+    <text id="n26_6217" name="n26" xy="429,490" size="107,36" group="n56_bezo" fontSize="26" color="#010101" align="center" vAlign="middle" text="进阶奖励"/>
+    <image id="n32_6217" name="n32" src="bezok" fileName="img/zu11_8.png" xy="469,327" group="n56_bezo"/>
+    <richtext id="n61_8adr" name="T_tips" xy="281,284" pivot="0,0.5" size="301,42" group="n56_bezo" fontSize="30" color="#ffffff" ubb="true" vars="true" strokeColor="#5a008e" strokeSize="2" text="提升等级领取超值奖励"/>
+    <text id="n46_6217" name="n46" xy="371,328" size="93,42" group="n56_bezo" fontSize="30" color="#ffffff" vAlign="middle" italic="true" strokeColor="#cf411a" strokeSize="3" text="总返利"/>
+    <text id="n51_bezo" name="T_discount" xy="478,310" pivot="0,0.5" size="157,63" group="n56_bezo" fontSize="47" color="#fffe80" vAlign="middle" italic="true" strokeColor="#cf411a" strokeSize="3" text="3000%"/>
+    <component id="n52_bezo" name="btn_buy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="374,379" size="183,70" group="n56_bezo">
+      <Button title="98元" titleFontSize="32"/>
+    </component>
+    <component id="n53_bezo" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="279,1058" size="183,70" group="n56_bezo">
+      <Button title="一键领取" titleFontSize="32"/>
+    </component>
+    <list id="n54_bezo" name="list_awaed" xy="102,544" size="533,491" group="n56_bezo" overflow="scroll" defaultItem="ui://cbdbddd7bezod">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n57_bezo" name="T_buy" xy="365,394" pivot="0.5,0.5" size="212,42" group="n56_bezo" visible="false" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="进阶奖励已解锁"/>
+    <group id="n56_bezo" name="n56" xy="33,138" size="634,1043" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n60_vdae" name="n60" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1197">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

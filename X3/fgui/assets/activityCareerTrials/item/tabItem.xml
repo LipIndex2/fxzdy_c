@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="109,157" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <controller name="c1" pages="0,未开启,1,进行中,2,已完成" selected="0"/>
+  <displayList>
+    <loader id="n14_teox" name="n14" xy="0,29" size="109,101" url="ui://6db1f71ac65a2" autoSize="true">
+      <gearDisplay controller="button" pages="0"/>
+      <gearIcon controller="c1" pages="0,1" values="ui://6db1f71ac65a2|ui://6db1f71ac65a2" default="ui://6db1f71ateox7z"/>
+    </loader>
+    <image id="n1_c65a" name="n1" src="c65a1" fileName="img/yeqian_xuanzhong.png" xy="0,0">
+      <gearDisplay controller="button" pages="1"/>
+    </image>
+    <text id="n2_c65a" name="T_title1" xy="20,58" pivot="0.5,0.5" size="71,46" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="异能">
+      <gearDisplay controller="button" pages="1"/>
+    </text>
+    <text id="n13_teox" name="T_title2" xy="21,58" pivot="0.5,0.5" size="71,46" fontSize="34" color="#edc799" vAlign="middle" strokeColor="#000000" strokeSize="3" text="异能">
+      <gearDisplay controller="button" pages="0"/>
+      <gearLook controller="c1" pages="2" values="0.5,0,0,0" default="1,0,0,0"/>
+      <gearColor controller="c1" pages="2" values="#ffffff,#000000" default="#edc799,#000000"/>
+    </text>
+    <text id="n9_c65a" name="n9" xy="22,128" pivot="0.5,0.5" size="63,29" fontSize="20" color="#ffdd3a" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="进行中">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <text id="n12_teox" name="n12" xy="23,128" pivot="0.5,0.5" size="63,29" fontSize="20" color="#62fdff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="已完成">
+      <gearDisplay controller="c1" pages="2"/>
+    </text>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

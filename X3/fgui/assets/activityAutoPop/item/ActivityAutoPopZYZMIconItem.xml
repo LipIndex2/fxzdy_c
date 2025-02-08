@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,80" mask="n63_gvuz">
+  <displayList>
+    <graph id="n63_gvuz" name="n63" xy="0,0" size="80,80" type="eclipse">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n62_gvuz" name="iconLoader" xy="40,40" pivot="0.5,0.5" anchor="true" size="80,80" url="ui://7q3fcj1kfrvn69" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+</component>

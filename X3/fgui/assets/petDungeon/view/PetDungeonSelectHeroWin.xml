@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n46_woyg" name="n46" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="325,1235">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n49_woyg" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="24,64" size="699,1132" group="n51_woyg"/>
+    <image id="n0_bfe7" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="24,64" size="699,1132" group="n51_woyg"/>
+    <image id="n1_bfe7" name="n1" src="mu0uvvv19e" fileName="bgImage/zyd_frame.png" pkg="38fa8c75" xy="49,967" size="650,62" group="n51_woyg" alpha="0.5"/>
+    <image id="n2_bfe7" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="47,152" size="652,800" group="n51_woyg"/>
+    <image id="n3_bfe7" name="n3" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="60,166" size="625,302" group="n51_woyg" alpha="0.43"/>
+    <text id="n16_bfe7" name="n16" xy="307,87" size="131,44" group="n51_woyg" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="英雄选择"/>
+    <list id="n40_woyg" name="listUp" xy="77,170" size="606,284" group="n51_woyg" layout="flow_hz" overflow="scroll" lineGap="12" colGap="1" defaultItem="ui://390d39d8woyg125" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n43_woyg" name="listSelect" xy="64,483" size="628,458" group="n51_woyg" layout="flow_hz" overflow="scroll" colGap="26" defaultItem="ui://390d39d8woyg126" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n45_woyg" name="careerComp" src="woyg128" fileName="component/PetDungeonCareerSelectList.xml" xy="49,967" group="n51_woyg"/>
+    <component id="n48_woyg" name="btnLock" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="252,1058" size="245,93" group="n51_woyg">
+      <Button title="锁定英雄"/>
+    </component>
+    <group id="n51_woyg" name="gAll" xy="24,64" size="699,1132" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

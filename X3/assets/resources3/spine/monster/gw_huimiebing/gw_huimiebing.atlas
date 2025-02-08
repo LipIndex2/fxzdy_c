@@ -1,0 +1,160 @@
+
+gw_huimiebing.png
+size: 150,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 36, 5
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 130, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: true
+  xy: 67, 46
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 74, 5
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 50, 3
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 129, 65
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 2, 36
+  size: 64, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 129, 49
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: 180
+  xy: 45, 14
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 47, 77
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: true
+  xy: 2, 7
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: true
+  xy: 86, 13
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 61, 7
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: true
+  xy: 19, 7
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: false
+  xy: 2, 38
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: true
+  xy: 2, 78
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 130, 18
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 104, 36
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 130, 36
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 30, 17
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 82, 39
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 20
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1

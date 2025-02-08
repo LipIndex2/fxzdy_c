@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,46" extention="Slider">
+  <displayList>
+    <image id="n0_jqxi" name="n0" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="0,0" size="50,46" alpha="0.65">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_jqxi" name="bar" src="jqxis97" fileName="img_bar/tianfu_blood.png" xy="0,0" size="34,46" alpha="0.966" color="#00ccff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_jqxi" name="grip" src="jqxi4m" fileName="win/Slider1_grip.xml" xy="17,0">
+      <relation target="n1_jqxi" sidePair="right-right"/>
+      <relation target="" sidePair="middle-middle"/>
+    </component>
+  </displayList>
+  <Slider/>
+</component>

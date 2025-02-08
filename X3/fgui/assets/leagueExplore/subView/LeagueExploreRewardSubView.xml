@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,958">
+  <controller name="style" exported="true" pages="0,,1," selected="1">
+    <remark page="0" value="个人奖励"/>
+    <remark page="1" value="联盟奖励"/>
+  </controller>
+  <displayList>
+    <image id="n1_fdf1" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="0,0" size="638,958"/>
+    <image id="n2_fdf1" name="n2" src="fdf128" fileName="img/beijing.png" xy="18,20"/>
+    <list id="n38_gtlw" name="listReward" xy="320,208" pivot="0.5,0.5" anchor="true" size="580,104" scale="0.9,0.9" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://38fa8c75dtss4k" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <richtext id="n39_gtlw" name="lbTime" xy="310,300" pivot="0.5,0.5" anchor="true" size="224,34" fontSize="24" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="结算倒计时:6天23时"/>
+    <list id="n40_gtlw" name="listRank" xy="18,339" size="600,542" overflow="scroll" lineGap="9" defaultItem="ui://78d1ed1agtlw12m" autoClearItems="true">
+      <gearSize controller="style" pages="0,1" values="600,599,1,1|600,542,1,1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n13_fdf1" name="n13" xy="315,57" pivot="0.5,0.5" anchor="true" size="107,36" fontSize="26" color="#fefefe" align="center" vAlign="middle" strokeColor="#020202" strokeSize="2" text="当前排名"/>
+    <text id="n14_fdf1" name="lbRank" xy="313,108" pivot="0.5,0.5" anchor="true" size="97,49" fontSize="36" color="#ffd557" align="center" vAlign="middle" strokeColor="#020202" strokeSize="2" text="第9名"/>
+    <text id="n32_fdf1" name="lbTip" xy="318,916" pivot="0.5,0.5" anchor="true" size="360,34" fontSize="24" color="#82ccff" align="center" vAlign="middle" text="拥有资格的联盟成员才可获得奖励">
+      <gearDisplay controller="style" pages="1"/>
+    </text>
+  </displayList>
+</component>

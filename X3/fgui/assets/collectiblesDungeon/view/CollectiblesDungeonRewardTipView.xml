@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n38_loj0" name="bg" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="-375,-667" size="1500,2668">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n39_loj0" name="rewardTip" src="loj011f" fileName="component/CollectiblesDungeonRewardTip.xml" xy="628,1076" pivot="1,1" anchor="true"/>
+  </displayList>
+</component>

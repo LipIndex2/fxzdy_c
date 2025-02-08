@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="190,48">
+  <displayList>
+    <loader id="n185_8a38" name="imageItem" xy="20,24" pivot="0.5,0.5" anchor="true" size="48,48" url="ui://7q3fcj1k8a3817" fill="scaleFree" clearOnPublish="true"/>
+    <richtext id="n186_8a38" name="labelTitle" xy="46,7" size="158,32" fontSize="22" color="#ffffff" vAlign="middle" ubb="true" vars="true" singleLine="true" autoClearText="true" text="1000+1000/h">
+      <relation target="" sidePair="width-width,height-height"/>
+    </richtext>
+  </displayList>
+</component>

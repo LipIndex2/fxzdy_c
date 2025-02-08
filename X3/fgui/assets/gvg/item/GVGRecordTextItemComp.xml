@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="528,65">
+  <displayList>
+    <richtext id="n67_ac45" name="textContent" xy="0,0" size="528,65" fontSize="22" color="#31b4ff" vAlign="middle" ubb="true" autoSize="none" text="[color=#00ff00][联盟A]玩家AA[/color] 成功击败 [color=#ff0000][联盟B]玩家BB[/color], 为联盟获得5个 [img]ui://8da0bf52k3sy11u[/img]"/>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="230,34">
+  <controller name="c1" pages="0,未激活,1,已激活" selected="1"/>
+  <displayList>
+    <text id="n62_4928" name="T_name" xy="0,0" size="230,34" fontSize="24" color="#75ff7b" vAlign="middle" leading="0" autoSize="none" text="攻击：">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0" values="#747e8b,#000000" default="#75ff7b,#000000"/>
+    </text>
+    <text id="n63_xebi" name="T_num" xy="105,0" size="47,34" fontSize="24" color="#75ff7b" vAlign="middle" leading="0" text="+14">
+      <gearDisplay controller="c1" pages="0,1"/>
+      <gearColor controller="c1" pages="0" values="#747e8b,#000000" default="#75ff7b,#000000"/>
+    </text>
+  </displayList>
+</component>

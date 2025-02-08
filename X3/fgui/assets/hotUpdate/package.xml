@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="aapksrth">
+  <resources>
+    <component id="8a7o0" name="HotUpdateWin.xml" path="/view/"/>
+    <image id="8a7o1" name="dl_di4.png" path="/img/" exported="true" scale="9grid" scale9grid="4,19,8,38"/>
+    <component id="8a7o2" name="comBtn.xml" path="/com/"/>
+    <image id="8a7o3" name="dl_di.png" path="/img/" exported="true" scale="9grid" scale9grid="4,4,8,8"/>
+    <image id="8a7o4" name="dl_di2.png" path="/img/" exported="true" scale="9grid" scale9grid="5,5,4,3"/>
+    <image id="8a7o5" name="dl_di3.png" path="/img/" exported="true" scale="9grid" scale9grid="4,4,8,8"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

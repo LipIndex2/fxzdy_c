@@ -1,0 +1,48 @@
+
+digui_lower.png
+size: 585,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/glo
+  rotate: false
+  xy: 116, 2
+  size: 104, 103
+  orig: 110, 110
+  offset: 2, 4
+  index: -1
+images/effect/glo_caise
+  rotate: false
+  xy: 2, 29
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/effect/ring
+  rotate: false
+  xy: 2, 143
+  size: 192, 92
+  orig: 192, 92
+  offset: 0, 0
+  index: -1
+images/effect/tubiao
+  rotate: false
+  xy: 326, 107
+  size: 126, 128
+  orig: 172, 172
+  offset: 23, 22
+  index: -1
+images/effect/tubiaocici
+  rotate: false
+  xy: 454, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/effect/wenli
+  rotate: false
+  xy: 196, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

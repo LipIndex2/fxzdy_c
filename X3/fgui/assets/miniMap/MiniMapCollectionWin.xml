@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n21_773e" name="n21" src="gkgvvvv19v" fileName="bg/tisp3_frame.png" pkg="38fa8c75" xy="25,316" size="698,782">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </image>
+    <component id="n22_773e" name="item_sel" src="v89177" fileName="item/MiniMapSelItem.xml" xy="436,1009">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <list id="n105_v891" name="list_section" xy="44,339" size="669,642" overflow="scroll" lineGap="15" defaultItem="ui://e477df1cv89178">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n19_773e" name="topItem" src="v89176" fileName="item/MiniMapCollectionItem.xml" xy="0,111">
+      <relation target="" sidePair="top-top"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,153 @@
+
+skill01_hit_lower.png
+size: 785,606
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 200, 143
+  size: 140, 140
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+effect/skill01_lower_0
+  rotate: false
+  xy: 630, 39
+  size: 127, 49
+  orig: 260, 180
+  offset: 64, 63
+  index: -1
+effect/skill01_lower_1
+  rotate: false
+  xy: 502, 2
+  size: 126, 86
+  orig: 260, 180
+  offset: 64, 32
+  index: -1
+effect/skill01_lower_10
+  rotate: false
+  xy: 2, 501
+  size: 236, 103
+  orig: 260, 180
+  offset: 9, 13
+  index: -1
+effect/skill01_lower_11
+  rotate: false
+  xy: 240, 499
+  size: 214, 105
+  orig: 260, 180
+  offset: 10, 12
+  index: -1
+effect/skill01_lower_12
+  rotate: false
+  xy: 201, 395
+  size: 214, 102
+  orig: 260, 180
+  offset: 10, 13
+  index: -1
+effect/skill01_lower_13
+  rotate: false
+  xy: 2, 179
+  size: 191, 97
+  orig: 260, 180
+  offset: 29, 14
+  index: -1
+effect/skill01_lower_14
+  rotate: false
+  xy: 2, 77
+  size: 170, 100
+  orig: 260, 180
+  offset: 47, 14
+  index: -1
+effect/skill01_lower_15
+  rotate: true
+  xy: 626, 199
+  size: 195, 106
+  orig: 260, 180
+  offset: 46, 14
+  index: -1
+effect/skill01_lower_16
+  rotate: false
+  xy: 2, 388
+  size: 197, 111
+  orig: 260, 180
+  offset: 45, 13
+  index: -1
+effect/skill01_lower_17
+  rotate: false
+  xy: 456, 491
+  size: 197, 113
+  orig: 260, 180
+  offset: 45, 13
+  index: -1
+effect/skill01_lower_18
+  rotate: false
+  xy: 342, 168
+  size: 164, 114
+  orig: 260, 180
+  offset: 44, 13
+  index: -1
+effect/skill01_lower_19
+  rotate: true
+  xy: 508, 118
+  size: 164, 113
+  orig: 260, 180
+  offset: 44, 13
+  index: -1
+effect/skill01_lower_2
+  rotate: false
+  xy: 174, 44
+  size: 130, 97
+  orig: 260, 180
+  offset: 61, 26
+  index: -1
+effect/skill01_lower_3
+  rotate: false
+  xy: 342, 63
+  size: 158, 103
+  orig: 260, 180
+  offset: 33, 23
+  index: -1
+effect/skill01_lower_4
+  rotate: false
+  xy: 623, 90
+  size: 160, 107
+  orig: 260, 180
+  offset: 31, 20
+  index: -1
+effect/skill01_lower_5
+  rotate: false
+  xy: 201, 285
+  size: 196, 108
+  orig: 260, 180
+  offset: 31, 18
+  index: -1
+effect/skill01_lower_6
+  rotate: false
+  xy: 2, 278
+  size: 196, 108
+  orig: 260, 180
+  offset: 32, 16
+  index: -1
+effect/skill01_lower_7
+  rotate: false
+  xy: 417, 385
+  size: 207, 104
+  orig: 260, 180
+  offset: 35, 15
+  index: -1
+effect/skill01_lower_8
+  rotate: false
+  xy: 399, 284
+  size: 211, 99
+  orig: 260, 180
+  offset: 40, 14
+  index: -1
+effect/skill01_lower_9
+  rotate: true
+  xy: 655, 396
+  size: 208, 102
+  orig: 260, 180
+  offset: 44, 13
+  index: -1

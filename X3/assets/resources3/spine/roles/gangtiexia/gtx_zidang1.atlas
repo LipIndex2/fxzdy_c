@@ -1,0 +1,13 @@
+
+gtx_zidang1.png
+size: 81,22
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidan1
+  rotate: false
+  xy: 2, 2
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1

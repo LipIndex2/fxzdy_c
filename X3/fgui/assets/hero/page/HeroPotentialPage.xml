@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="645,980" opaque="false">
+  <displayList>
+    <image id="n49_xwdv" name="bg" src="xwdvva6" fileName="img/xian.png" xy="118,35"/>
+    <component id="n50_xwdv" name="DNA0" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="37,1" group="n53_xwdv"/>
+    <component id="n51_xwdv" name="DNA1" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="0,140" group="n53_xwdv"/>
+    <component id="n52_xwdv" name="DNA2" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="36,268" group="n53_xwdv"/>
+    <group id="n53_xwdv" name="left" xy="0,1" size="149,339"/>
+    <component id="n54_xwdv" name="DNA3" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="497,0" group="n57_xwdv"/>
+    <component id="n55_xwdv" name="DNA4" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="531,134" group="n57_xwdv"/>
+    <component id="n56_xwdv" name="DNA5" src="xwdvvaa" fileName="btn/potentailBtn.xml" xy="498,264" group="n57_xwdv"/>
+    <group id="n57_xwdv" name="right" xy="497,0" size="146,336"/>
+    <image id="n36_26a5" name="n36" src="xwdvvbj" fileName="img/scale_70%_sd_A_common_biaoti1_msg1.png" xy="137,476"/>
+    <text id="n38_26a5" name="stageLabel" xy="322,496" pivot="0.5,0.5" anchor="true" size="254,39" fontSize="28" color="#ffe063" vAlign="middle" ubb="true" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" autoClearText="true" text="阶段1        等级9/10"/>
+    <list id="n58_xwdv" name="attr_list" xy="130,584" size="410,162" overflow="scroll" lineGap="7" defaultItem="ui://69f29748xwdvvcc">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n37_26a5" name="infoBtn1" src="xwdvvc1" fileName="btn/infoBtn.xml" xy="456,479"/>
+    <image id="n31_26a5" name="n31" src="xwdvvbh" fileName="img/scale_90%_sd_A_common_fubiao_frame.png" xy="38,536" group="n45_xwdv"/>
+    <text id="n32_26a5" name="n32" xy="58,536" size="107,36" group="n45_xwdv" fontSize="26" color="#85d0ff" vAlign="middle" text="当前效果"/>
+    <group id="n45_xwdv" name="n45" xy="38,536" size="545,36"/>
+    <text id="n30_26a5" name="tipLabel" xy="162,787" size="313,36" fontSize="26" color="#7fa5ff" vAlign="middle" text="阶段强化至满级可进行觉醒"/>
+    <image id="n33_26a5" name="n33" src="xwdvvbh" fileName="img/scale_90%_sd_A_common_fubiao_frame.png" xy="38,741" group="n46_xwdv"/>
+    <text id="n34_26a5" name="n34" xy="58,741" size="107,36" group="n46_xwdv" fontSize="26" color="#85d0ff" vAlign="middle" text="觉醒效果"/>
+    <group id="n46_xwdv" name="n46" xy="38,741" size="545,36"/>
+    <component id="n35_26a5" name="infoBtn2" src="xwdvvc1" fileName="btn/infoBtn.xml" xy="184,742" size="33,28" aspect="true"/>
+    <component id="n44_xwdv" name="sendBtn" src="kp3wvvv18n" fileName="btn/BtnChangGui1WithItem.xml" pkg="38fa8c75" xy="165,852"/>
+  </displayList>
+</component>

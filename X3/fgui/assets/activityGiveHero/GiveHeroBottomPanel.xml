@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,752">
+  <displayList>
+    <image id="n2_0b09" name="n2" src="v891vvv1eg" fileName="bg/qd03_frame.png" pkg="38fa8c75" xy="0,205" size="749,547" group="n92_i83d">
+      <relation target="" sidePair="center-center,top-top,bottomext-bottom"/>
+    </image>
+    <list id="n77_v891" name="list_award" xy="159,0" size="559,153" group="n92_i83d" layout="row" overflow="scroll" scroll="horizontal" colGap="-45" defaultItem="ui://1e79bd01v89151" renderOrder="descent" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="center-center,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n51_0b09" name="n51" src="0b0937" fileName="img/qiandaocishu.png" xy="56,41" group="n78_v891"/>
+    <text id="n50_0b09" name="n50" xy="59,148" size="95,33" group="n78_v891" fontSize="23" color="#ffffff" strokeColor="#1c1c33" strokeSize="2" text="签到次数"/>
+    <text id="n80_v891" name="T_day" xy="73,65" pivot="0.5,0.5" size="64,66" group="n78_v891" fontSize="50" color="#ffffff" align="center" vAlign="middle" strokeColor="#0e1494" strokeSize="3" text="14"/>
+    <group id="n78_v891" name="n78" xy="56,41" size="104,140" group="n92_i83d" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <list id="n81_v891" name="list_hero" xy="42,256" size="668,286" group="n92_i83d" layout="flow_hz" overflow="scroll" lineGap="14" colGap="14" defaultItem="ui://1e79bd01v89152" scrollItemToViewOnClick="false">
+      <relation target="" sidePair="center-center,top-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n83_v891" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="221,574" size="306,122" group="n92_i83d">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button title="一键签到"/>
+    </component>
+    <component id="n91_ohdt" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="508,591" group="n92_i83d">
+      <relation target="n83_v891" sidePair="right-right,top-top"/>
+    </component>
+    <group id="n92_i83d" name="n92" xy="0,0" size="749,752" advanced="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n92_i83d" tween="true" startValue="0" endValue="1" duration="12"/>
+    <item time="0" type="XY" target="n92_i83d" tween="true" startValue="0,100" endValue="0,0" duration="12" ease="Back.Out"/>
+  </transition>
+</component>

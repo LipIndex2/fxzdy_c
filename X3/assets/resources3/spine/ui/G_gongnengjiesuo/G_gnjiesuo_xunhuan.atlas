@@ -1,0 +1,20 @@
+
+G_gnjiesuo_xunhuan.png
+size: 285,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 2, 144
+  size: 201, 201
+  orig: 216, 217
+  offset: 7, 8
+  index: -1
+z
+  rotate: false
+  xy: 2, 3
+  size: 281, 140
+  orig: 281, 259
+  offset: 0, 119
+  index: -1

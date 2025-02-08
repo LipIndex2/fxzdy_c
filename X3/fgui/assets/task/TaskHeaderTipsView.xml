@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="isDone" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n58_523f" name="n58" src="75h73p" fileName="img/zu130445.png" xy="70,32" group="n68_ksmg"/>
+    <text id="n66_523f" name="T_title" xy="318,64" size="115,39" group="n68_ksmg" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#100900" strokeSize="3" text="秘境达标"/>
+    <text id="n67_523f" name="T_desc" xy="318,101" size="152,34" group="n68_ksmg" fontSize="24" color="#6d349d" vAlign="middle" text="参加10次秘境"/>
+    <image id="n69_ksmg" name="n69" src="75h73q" fileName="img/baoxiang.png" xy="93,47" group="n68_ksmg">
+      <gearDisplay controller="isDone" pages="0"/>
+    </image>
+    <image id="n60_523f" name="n60" src="75h73r" fileName="img/tuceng1680.png" xy="90,47" group="n70_ksmg"/>
+    <image id="n61_523f" name="n61" src="75h73s" fileName="img/yiwancheng.png" xy="101,81" group="n70_ksmg"/>
+    <group id="n70_ksmg" name="n70" xy="90,47" size="162,115" group="n68_ksmg" advanced="true">
+      <gearDisplay controller="isDone" pages="1"/>
+    </group>
+    <component id="n71_75h7" name="bar" src="75h73t" fileName="bar/TaskHeaderTipsBar.xml" xy="318,142" group="n68_ksmg">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <group id="n68_ksmg" name="G_h" xy="70,32" size="589,143" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+  </displayList>
+  <transition name="anim">
+    <item time="0" type="XY" target="n68_ksmg" tween="true" startValue="70,-269,0.093,-0.202" endValue="70,32,0.093,0.024" duration="18"/>
+    <item time="55" type="XY" target="n68_ksmg" tween="true" startValue="70,32" endValue="70,-231,0.093,-0.173" duration="17"/>
+  </transition>
+</component>

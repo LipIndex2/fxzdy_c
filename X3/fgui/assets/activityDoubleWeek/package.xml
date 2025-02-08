@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packageDescription id="72379a5e">
+  <resources>
+    <image id="230d0" name="szhd_beijing.jpg" path="/img/"/>
+    <image id="230d6" name="lantiao.png" path="/img/"/>
+    <image id="230d23" name="qianwangzhaomu.png" path="/img/"/>
+    <image id="230d26" name="tiao.png" path="/img/"/>
+    <image id="230d27" name="lihe.png" path="/img/"/>
+    <image id="230d28" name="zhezhao.png" path="/img/"/>
+    <image id="230d29" name="yiwancheng.png" path="/img/"/>
+    <component id="230d31" name="DoubleWeekMainView.xml" path="/"/>
+    <component id="s8ul32" name="DoubleWeekAwardItem.xml" path="/item/"/>
+    <component id="s8ul33" name="awardBar.xml" path="/item/"/>
+    <component id="s8ul34" name="DoubleWeekTaskTipsWin.xml" path="/"/>
+    <component id="s8ul35" name="awardBar2.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

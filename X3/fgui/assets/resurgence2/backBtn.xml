@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="244,93">
+  <displayList>
+    <image id="n23_e788" name="n23" src="e78816" fileName="img/scale_80%_sd_A_common_changgui3_btn.png" xy="0,0"/>
+    <text id="n24_e788" name="n24" xy="85,24" size="71,46" fontSize="34" color="#ffffff" strokeColor="#1a50a9" strokeSize="3" text="回城"/>
+  </displayList>
+</component>

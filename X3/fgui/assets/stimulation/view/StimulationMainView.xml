@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n39_4651" name="pTop" src="str85b" fileName="component/StimulationMainTop.xml" xy="61,21">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <component id="n0_4651" name="pBottom" src="str85a" fileName="component/StimulationMainBottom.xml" xy="0,490">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n61_str8" name="footer" src="dusvvvv1fg" fileName="back/BackFooter3.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <graph id="n63_str8" name="buildingPos" xy="375,380" pivot="0.5,0.5" anchor="true" size="100,100">
+      <relation target="" sidePair="topext-top,bottomext-bottom"/>
+    </graph>
+    <component id="n64_str8" name="spineLvUp" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="374,380" pivot="0.5,1" anchor="true">
+      <relation target="n63_str8" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n61_str8" value="0"/>
+    <item time="6" type="Alpha" target="n61_str8" tween="true" startValue="0" endValue="1" duration="12"/>
+  </transition>
+</component>

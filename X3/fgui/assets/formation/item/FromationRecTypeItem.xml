@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="81,41">
+  <displayList>
+    <loader id="n33_ssxx" name="img_type" xy="-12,-12" pivot="0.5,0.5" size="65,65" scale="0.625,0.625"/>
+    <text id="n32_95cd" name="lb_num" xy="40,9" size="30,32" fontSize="22" color="#82e3ff" vAlign="middle" strokeColor="#0d0800" strokeSize="2" text="×2"/>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="72,80" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n62_273c" name="iconDraw" src="273c24" fileName="img/NDA.png" xy="0,0"/>
+    <image id="n63_cjsd" name="iconDisable" src="273c28" fileName="img/zu130447.png" xy="0,0"/>
+    <image id="n64_cjsd" name="iconGive" src="273c25" fileName="img/xingzhuang6.png" xy="35,45"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

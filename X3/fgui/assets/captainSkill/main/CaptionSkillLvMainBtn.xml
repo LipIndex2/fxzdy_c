@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="180,182" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="已解锁"/>
+    <remark page="1" value="未解锁"/>
+  </controller>
+  <displayList>
+    <loader id="n14_ta4f" name="iconLoader" xy="0,0" size="180,180" align="center" vAlign="middle" fill="scale"/>
+    <component id="n15_ta4f" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="148,44"/>
+    <image id="n12_90b0" name="n12" src="ta4f3z" fileName="main/img/zykjyh_zhidi2.png" xy="90,156" pivot="0.5,0.5" anchor="true" group="n16_ta4f"/>
+    <text id="n13_90b0" name="lbLv" xy="89,159" pivot="0.5,0.5" anchor="true" size="59,35" group="n16_ta4f" fontSize="25" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="Lv:5"/>
+    <group id="n16_ta4f" name="gLv" xy="33,136" size="114,40" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

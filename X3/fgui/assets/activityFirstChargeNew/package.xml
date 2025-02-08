@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="99fee131">
+  <resources>
+    <image id="37551" name="juesedi.png" path="/img/"/>
+    <image id="37553" name="jianglizu.png" path="/img/"/>
+    <image id="37556" name="mingzidi.png" path="/img/" scale="9grid" scale9grid="47,111,2,12"/>
+    <image id="375511" name="yulan_waikuang.png" path="/img/" scale="9grid" scale9grid="29,36,58,72"/>
+    <image id="375512" name="sd_A_common_fdj_icon.png" path="/img/"/>
+    <image id="375513" name="scyq_btn.png" path="/img/"/>
+    <image id="375514" name="scyq1_btn.png" path="/img/"/>
+    <image id="375515" name="sanjiao.png" path="/img/"/>
+    <component id="375517" name="FirstChargeWin.xml" path="/"/>
+    <component id="pfd418" name="FirstChargeTabBtn.xml" path="/component/"/>
+    <component id="wcla1a" name="FirstChargeDemoBtn.xml" path="/component/"/>
+    <component id="wcla1b" name="FirstChargeContent.xml" path="/component/"/>
+    <image id="wcla1d" name="yulan.png" path="/img/" exported="true"/>
+    <image id="lb791e" name="30.png" path="/img/"/>
+    <image id="lb791g" name="6.png" path="/img/"/>
+    <image id="lb791h" name="bg_tip.png" path="/img/"/>
+    <image id="lb791i" name="68.png" path="/img/"/>
+    <image id="str81k" name="yulan2.png" path="/img/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

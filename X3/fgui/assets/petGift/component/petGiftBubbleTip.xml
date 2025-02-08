@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="212,94">
+  <displayList>
+    <image id="n36_wu6b" name="bgTip" src="qhevvvv1gj" fileName="bgImage/qipao_bai.png" pkg="38fa8c75" xy="0,0" pivot="1,1" size="212,94">
+      <relation target="n37_wu6b" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n37_wu6b" name="lbBubble" xy="196,72" pivot="1,1" anchor="true" size="180,62" fontSize="22" color="#395cb6" autoSize="height" text="我是一只情绪稳定 的卡皮巴拉"/>
+  </displayList>
+</component>

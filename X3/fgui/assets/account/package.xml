@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="99i7tibp">
+  <resources>
+    <component id="k5m55" name="AccountWin.xml" path="/" exported="true"/>
+    <component id="k5m56" name="comBtn.xml" path="/btn/"/>
+    <component id="q5rmi" name="closeBtn.xml" path="/btn/"/>
+    <component id="txbnk" name="RegisterView.xml" path="/" exported="true"/>
+    <component id="txbnl" name="ComAccount.xml" path="/com/"/>
+    <component id="txbnm" name="accountItem.xml" path="/btn/"/>
+    <image id="txbnn" name="buzhen_zhankai_button.png" path="/img/" exported="true"/>
+    <image id="91ylv" name="dl_di.png" path="/img/" exported="true" scale="9grid" scale9grid="4,4,8,8"/>
+    <image id="91ylw" name="dl_di2.png" path="/img/" exported="true" scale="9grid" scale9grid="5,5,4,3"/>
+    <image id="91yly" name="dl_di4.png" path="/img/" exported="true" scale="9grid" scale9grid="4,19,8,38"/>
+    <image id="91yl10" name="dl_fanhui.png" path="/img/" exported="true"/>
+    <image id="91yl11" name="dl_mima.png" path="/img/" exported="true"/>
+    <image id="91yl13" name="dl_zh.png" path="/img/" exported="true"/>
+    <image id="91yl14" name="dl_zhankai.png" path="/img/" exported="true"/>
+    <image id="91yl15" name="dl_zj.png" path="/img/" exported="true"/>
+    <image id="91yl16" name="dl_di3.png" path="/img/" exported="true" scale="9grid" scale9grid="4,4,8,8"/>
+    <image id="91yl17" name="dl_xian.png" path="/img/" exported="true" scale="9grid" scale9grid="2,0,4,0"/>
+    <component id="91yl1a" name="expandBtn.xml" path="/btn/"/>
+    <component id="91yl1b" name="CheckBtn.xml" path="/btn/"/>
+    <image id="91yl1c" name="gy_xz.png" path="/img/" exported="true"/>
+    <image id="91yl1d" name="gy_xzdi.png" path="/img/" exported="true"/>
+    <component id="91yl1e" name="RegisterBtn.xml" path="/btn/"/>
+    <component id="ylwc1d" name="SuperLoginWin.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

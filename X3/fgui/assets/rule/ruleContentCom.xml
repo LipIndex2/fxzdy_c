@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="600,808" overflow="scroll">
+  <displayList>
+    <richtext id="n12_uazn" name="content" xy="0,0" pivot="0.5,0" size="600,229" fontSize="28" color="#8fc9ff" ubb="true" autoSize="height" autoClearText="true" text="标题居中&lt;img src=&apos;ui://comm/common_fgx1_line&apos; width=601 height=3/&gt;&#xA;&lt;img src=&apos;ui://comm/boss_tag&apos; width=10&apos;height=24/&gt; 这是二级菜单&lt;/br&gt;这是一个示例文本，它展示了富文本的功能。&lt;size=20&gt;这里的文字大小为20&lt;/size&gt;&lt;b&gt;这里的文字是加粗的。&lt;/b&gt;&lt;color=#0000ff&gt;这里的文字颜色是蓝色。&lt;/color&gt;&lt;i&gt;这里的文字是斜体的。&lt;/i&gt;&lt;u&gt;这里的文字是下划线的。&lt;/u&gt;&lt;outline color=red width=4&gt;A label with outline&lt;/outline&gt;"/>
+  </displayList>
+</component>

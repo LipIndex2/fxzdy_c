@@ -1,0 +1,48 @@
+
+pskill01_lower.png
+size: 146,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guangyun
+  rotate: false
+  xy: 2, 136
+  size: 140, 140
+  orig: 200, 200
+  offset: 30, 30
+  index: -1
+effect/pskill01_1_0
+  rotate: false
+  xy: 2, 100
+  size: 116, 34
+  orig: 150, 50
+  offset: 21, 4
+  index: -1
+effect/pskill01_1_1
+  rotate: false
+  xy: 2, 65
+  size: 118, 33
+  orig: 150, 50
+  offset: 20, 4
+  index: -1
+effect/pskill01_1_2
+  rotate: false
+  xy: 2, 32
+  size: 121, 31
+  orig: 150, 50
+  offset: 19, 5
+  index: -1
+effect/pskill01_1_3
+  rotate: false
+  xy: 2, 2
+  size: 122, 28
+  orig: 150, 50
+  offset: 18, 6
+  index: -1
+effect/pskill01_1_4
+  rotate: true
+  xy: 126, 12
+  size: 122, 18
+  orig: 150, 50
+  offset: 18, 10
+  index: -1

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="2641cc75">
+  <resources>
+    <image id="16e42" name="beijing.png" path="/img/"/>
+    <image id="16e44" name="wenzi_4.png" path="/img/"/>
+    <image id="16e49" name="biaoqian.png" path="/img/" scale="9grid" scale9grid="41,48,7,3"/>
+    <image id="16e412" name="scale_60%_sd_A_common_black2_msg.png" path="/img/"/>
+    <image id="16e415" name="yeqianxuanzhong.png" path="/img/"/>
+    <image id="16e417" name="gundong_xuanzhong_0.png" path="/img/"/>
+    <image id="16e419" name="gundong_weixuanzhonghuang.png" path="/img/"/>
+    <component id="16e420" name="petGiftMainView.xml" path="/"/>
+    <component id="i5je4f" name="PetGiftPageBtn.xml" path="/component/"/>
+    <component id="fkak21" name="PetGiftDayBtn.xml" path="/component/"/>
+    <component id="bb254g" name="PetGiftStarBtn.xml" path="/component/"/>
+    <component id="wu6b4j" name="petGiftBubbleTip.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

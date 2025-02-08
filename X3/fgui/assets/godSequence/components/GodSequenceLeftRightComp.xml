@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,340" designImage="ui://7q3fcj1kzbph6m" designImageOffsetY="-617">
+  <displayList>
+    <component id="n47_qr2y" name="left" src="tl0c29" fileName="bar/components/GodSequenceOneGridComp.xml" xy="-92,114" controller="isLeft,1"/>
+    <component id="n48_qr2y" name="right" src="tl0c29" fileName="bar/components/GodSequenceOneGridComp.xml" xy="396,-11" controller="isLeft,0"/>
+    <component id="n49_na34" name="barProgress" src="na342m" fileName="bar/GodSequenceShortBar.xml" xy="286,343" size="345,169" rotation="270">
+      <ProgressBar value="100" max="100"/>
+    </component>
+  </displayList>
+</component>

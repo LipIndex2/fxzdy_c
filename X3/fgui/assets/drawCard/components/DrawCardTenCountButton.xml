@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="306,117" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n10_8301" name="bg" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="306,121"/>
+    <component id="n15_xj2u" name="costCom" src="ipjzvvv19b" fileName="item/CommonItemSmallCostComp.xml" pkg="38fa8c75" xy="83,4"/>
+    <text id="n11_8301" name="labelBig" xy="35,50" pivot="0.5,0.5" size="233,56" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="招募10次"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

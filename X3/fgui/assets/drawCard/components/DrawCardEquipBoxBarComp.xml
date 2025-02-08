@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,160" pivot="0.5,0.5">
+  <controller name="isShowDialog" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n25_6d8c" name="btnBox" src="buyss65" fileName="button/DrawCardEquipBoxButton.xml" xy="24,1" size="120,154"/>
+    <image id="n21_6d8c" name="bgDialog" src="tml513f" fileName="bgImage/qipao2_frame.png" pkg="38fa8c75" xy="150,21" size="134,72" group="n32_116zs"/>
+    <loader id="n22_6d8c" name="imageItem" xy="187,33" pivot="0.5,0.5" size="48,48" group="n32_116zs" url="ui://e93efac4116zs5f" align="center" vAlign="middle" fill="scale" clearOnPublish="true"/>
+    <text id="n24_6d8c" name="labelItemCount" xy="217,59" size="59,32" group="n32_116zs" fontSize="22" color="#f1f2fb" vAlign="middle" autoSize="none" strokeColor="#0c0c0c" strokeSize="3" singleLine="true" text="×10"/>
+    <group id="n32_116zs" name="G_dialog" xy="150,21" size="134,72" advanced="true">
+      <gearDisplay controller="isShowDialog" pages="1"/>
+    </group>
+    <component id="n33_db4z" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="128,31" controller="type,0"/>
+  </displayList>
+</component>

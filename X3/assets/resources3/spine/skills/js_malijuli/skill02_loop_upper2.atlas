@@ -1,0 +1,146 @@
+
+skill02_loop_upper2.png
+size: 457,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/02_bo_00000
+  rotate: false
+  xy: 2, 794
+  size: 111, 199
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00001
+  rotate: false
+  xy: 2, 395
+  size: 111, 198
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00002
+  rotate: false
+  xy: 115, 398
+  size: 110, 195
+  orig: 128, 200
+  offset: 4, 0
+  index: -1
+effect/02_bo_00003
+  rotate: false
+  xy: 229, 238
+  size: 113, 179
+  orig: 128, 200
+  offset: 3, 5
+  index: -1
+effect/02_bo_00004
+  rotate: false
+  xy: 342, 644
+  size: 113, 170
+  orig: 128, 200
+  offset: 3, 10
+  index: -1
+effect/02_bo_00005
+  rotate: false
+  xy: 116, 17
+  size: 112, 186
+  orig: 128, 200
+  offset: 3, 2
+  index: -1
+effect/02_bo_00006
+  rotate: false
+  xy: 115, 803
+  size: 113, 190
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00007
+  rotate: false
+  xy: 230, 816
+  size: 112, 177
+  orig: 128, 200
+  offset: 3, 6
+  index: -1
+effect/02_bo_00008
+  rotate: false
+  xy: 344, 114
+  size: 110, 155
+  orig: 128, 200
+  offset: 4, 17
+  index: -1
+effect/02_bo_00009
+  rotate: false
+  xy: 344, 271
+  size: 110, 165
+  orig: 128, 200
+  offset: 4, 12
+  index: -1
+effect/02_bo_00010
+  rotate: false
+  xy: 340, 438
+  size: 112, 175
+  orig: 128, 200
+  offset: 3, 7
+  index: -1
+effect/02_bo_00011
+  rotate: false
+  xy: 230, 59
+  size: 112, 177
+  orig: 128, 200
+  offset: 3, 6
+  index: -1
+effect/02_bo_00012
+  rotate: false
+  xy: 344, 822
+  size: 111, 171
+  orig: 128, 200
+  offset: 3, 9
+  index: -1
+effect/02_bo_00013
+  rotate: false
+  xy: 227, 419
+  size: 111, 187
+  orig: 128, 200
+  offset: 3, 1
+  index: -1
+effect/02_bo_00014
+  rotate: false
+  xy: 116, 205
+  size: 111, 191
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00015
+  rotate: false
+  xy: 2, 198
+  size: 112, 195
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00016
+  rotate: false
+  xy: 2, 595
+  size: 112, 197
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00017
+  rotate: false
+  xy: 2, 2
+  size: 112, 194
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect/02_bo_00018
+  rotate: false
+  xy: 229, 615
+  size: 111, 186
+  orig: 128, 200
+  offset: 4, 2
+  index: -1
+effect/02_bo_00019
+  rotate: false
+  xy: 116, 608
+  size: 111, 193
+  orig: 128, 200
+  offset: 4, 0
+  index: -1

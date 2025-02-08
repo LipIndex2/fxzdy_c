@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="132,45" extention="Button">
+  <displayList>
+    <image id="n61_eowx" name="bgFinish" src="dtss5o" fileName="frameImage/hb_frame.png" pkg="38fa8c75" xy="65,21" pivot="0.5,0.5" anchor="true" size="121,44" color="#3866ba"/>
+    <text id="n58_eowx" name="labelFinish" xy="3,1" size="127,42" fontSize="30" color="#bdd5e5" align="center" vAlign="middle" autoSize="none" singleLine="true" text="已领取"/>
+  </displayList>
+  <Button/>
+</component>

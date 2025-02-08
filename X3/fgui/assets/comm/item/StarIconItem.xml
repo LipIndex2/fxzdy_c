@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="34,32">
+  <displayList>
+    <loader id="n82_dclx" name="starIcon" xy="-7,-7" pivot="0.5,0.5" size="48,48" url="ui://7q3fcj1klxy76a" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+  </displayList>
+</component>

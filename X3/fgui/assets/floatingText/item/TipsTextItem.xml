@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="513,76" pivot="0.5,0.5" anchor="true" opaque="false">
+  <controller name="c1" pages="1,通用,2,道具,3,战力,4,区域名,5,属性" selected="0"/>
+  <displayList>
+    <image id="n3_pf1a" name="n3" src="pf1a9" fileName="img/pzputong_frame.png" xy="5,10" pivot="0.5,0.5" size="503,55">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n6_pf1a" name="T_tips" xy="135,17" pivot="0.5,0.5" size="242,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoClearText="true" text="永久无法使用商店">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<map height="12" infinite="0" nextlayerid="7" nextobjectid="6" orientation="isometric" renderorder="right-down" tiledversion="1.10.2" tileheight="120" tilewidth="200" version="1.10" width="12">
+ <tileset columns="10" firstgid="1" name="map_ground_2101" tilecount="170" tileheight="120" tilewidth="200">
+  <image height="2040" source="../mapTilesets/masterMap_01/map_ground_2101.png" width="2000" />
+ </tileset>
+ <layer height="12" id="1" name="bottom_layer" width="12">
+  <data compression="zlib" encoding="base64">
+   eJyTYGBgYCECywOxAhAzA7EpkViRRPWMo+qprt6YRPU6QKwNxExEYE0gBgAOtxY6
+  </data>
+ </layer>
+ <objectgroup id="3" name="player_layer">
+  <object id="2" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="711.707" y="387.16">
+   <properties>
+    <property name="building_type" value="resources" />
+    <property name="object_id" type="int" value="55555" />
+   </properties>
+  </object>
+  <object id="5" template="../../mapPrefabs/resourcePoint.tx" visible="1" x="697.563" y="994.891">
+   <properties>
+    <property name="building_type" value="building_type" />
+    <property name="object_id" type="int" value="555551" />
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="role_layer" />
+ <layer height="12" id="4" name="playerBox_layer" width="12">
+  <data compression="zlib" encoding="base64">
+   eJxjYBgFo4B8AAACQAAB
+  </data>
+ </layer>
+ <objectgroup id="5" name="collider_layer">
+  <object id="1" x="138" y="1290">
+   <polygon points="-4,76 -2,-1154 1159.2,-1159.2 1163.2,-3.2 -73.2,9.2 1222.4,89.6 1222.4,-1242.4 -105.6,-1214.4" />
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="ui_layer" />
+</map>

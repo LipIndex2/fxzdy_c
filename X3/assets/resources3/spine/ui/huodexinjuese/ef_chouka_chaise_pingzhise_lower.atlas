@@ -1,0 +1,27 @@
+
+ef_chouka_chaise_pingzhise_lower.png
+size: 1847,1431
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijingguang
+  rotate: false
+  xy: 2, 258
+  size: 1091, 1171
+  orig: 1104, 1196
+  offset: 3, 25
+  index: -1
+images/beijingguang2
+  rotate: false
+  xy: 1095, 3
+  size: 390, 299
+  orig: 390, 299
+  offset: 0, 0
+  index: -1
+images/chouka_guang
+  rotate: false
+  xy: 1095, 304
+  size: 750, 1126
+  orig: 750, 1216
+  offset: 0, 72
+  index: -1

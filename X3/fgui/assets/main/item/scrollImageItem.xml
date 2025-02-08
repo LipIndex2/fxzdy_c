@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="233,121">
+  <displayList>
+    <loader id="n64_q6dm" name="img_icon" xy="0,0" pivot="0.5,0.5" size="233,121" url="ui://8982be53pocb56" align="center" vAlign="middle" autoSize="true"/>
+    <text id="n62_6b29" name="T_name" xy="14,18" size="115,39" fontSize="28" color="#f5faa0" strokeColor="#000000" strokeSize="3" text="限时活动"/>
+    <text id="n63_6b29" name="T_time" xy="15,58" pivot="0,0.5" size="87,29" visible="false" fontSize="20" color="#fffefe" strokeColor="#100900" strokeSize="3" text="3天2小时"/>
+  </displayList>
+</component>

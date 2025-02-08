@@ -1,0 +1,69 @@
+
+attack_upper.png
+size: 593,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_shizi
+  rotate: false
+  xy: 117, 23
+  size: 106, 114
+  orig: 128, 128
+  offset: 13, 8
+  index: -1
+effect/attack_xulie_00000
+  rotate: false
+  xy: 2, 15
+  size: 113, 122
+  orig: 220, 220
+  offset: 18, 23
+  index: -1
+effect/attack_xulie_00001
+  rotate: false
+  xy: 2, 295
+  size: 206, 198
+  orig: 220, 220
+  offset: 10, 4
+  index: -1
+effect/attack_xulie_00002
+  rotate: true
+  xy: 200, 140
+  size: 153, 192
+  orig: 220, 220
+  offset: 14, 9
+  index: -1
+effect/attack_xulie_00003
+  rotate: true
+  xy: 210, 295
+  size: 189, 184
+  orig: 220, 220
+  offset: 9, 9
+  index: -1
+effect/attack_xulie_00004
+  rotate: true
+  xy: 394, 2
+  size: 141, 191
+  orig: 220, 220
+  offset: 32, 9
+  index: -1
+effect/attack_xulie_00005
+  rotate: true
+  xy: 394, 145
+  size: 148, 197
+  orig: 220, 220
+  offset: 33, 9
+  index: -1
+effect/attack_xulie_00006
+  rotate: false
+  xy: 396, 299
+  size: 163, 194
+  orig: 220, 220
+  offset: 35, 9
+  index: -1
+effect/attack_xulie_00007
+  rotate: true
+  xy: 2, 139
+  size: 154, 196
+  orig: 220, 220
+  offset: 43, 9
+  index: -1

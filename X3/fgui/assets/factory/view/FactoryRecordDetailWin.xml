@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n39_t5gy" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="54,41" size="643,1259" group="n37_t5gy"/>
+    <image id="n0_51a6" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="54,41" size="643,1259" group="n37_t5gy"/>
+    <image id="n1_51a6" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,130" size="596,988" group="n37_t5gy"/>
+    <image id="n3_51a6" name="n3" src="51a624" fileName="img/xinxidi.png" xy="91,181" group="n37_t5gy"/>
+    <image id="n14_51a6" name="n14" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="94,389" size="564,37" group="n37_t5gy" color="#4a82ed"/>
+    <component id="n35_t5gy" name="btnDetail" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="74,1134" size="306,122" group="n37_t5gy" scale="0.8,0.8">
+      <Button title="详情"/>
+    </component>
+    <component id="n36_t5gy" name="btnDelete" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="370,1134" size="306,122" group="n37_t5gy" scale="0.8,0.8">
+      <Button title="删除"/>
+    </component>
+    <component id="n38_t5gy" name="pOwer" src="t5gy8y" fileName="component/FactoryProductLineOwerPanel.xml" xy="90,428" group="n37_t5gy" controller="state,1"/>
+    <text id="n4_51a6" name="lbTime" xy="645,144" pivot="1,0" anchor="true" size="83,32" group="n37_t5gy" fontSize="22" color="#f7f9fd" align="right" vAlign="middle" text="1分钟内"/>
+    <text id="n25_t5gy" name="lbMsgTitle" xy="105,144" size="113,32" group="n37_t5gy" fontSize="22" color="#f7f9fd" vAlign="middle" text="工厂被抢！"/>
+    <richtext id="n40_t5gy" name="lbMsg" xy="108,193" size="522,132" group="n37_t5gy" fontSize="22" color="#3c599f" ubb="true" autoSize="shrink" text="亲爱得玩家：报告大人，您得金盐罐，被讨厌得无敌宇宙帅气攻占去夺回来吧！"/>
+    <text id="n7_51a6" name="lbMsgTime" xy="636,330" pivot="1,0" anchor="true" size="247,32" group="n37_t5gy" fontSize="22" color="#3c599f" align="right" vAlign="middle" text="24年10月11日17:40:42"/>
+    <text id="n13_51a6" name="lbTitle" xy="374,87" pivot="0.5,0.5" anchor="true" size="67,44" group="n37_t5gy" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="战报"/>
+    <text id="n5_51a6" name="lbTip" xy="374,1262" pivot="0.5,0.5" anchor="true" size="379,32" group="n37_t5gy" fontSize="22" color="#82acfb" vAlign="middle" text="邮件最长保留30天，过期系统自动删除"/>
+    <text id="n15_51a6" name="n15" xy="171,406" pivot="0.5,0.5" anchor="true" size="107,36" group="n37_t5gy" fontSize="26" color="#ffffff" vAlign="middle" text="战报信息"/>
+    <group id="n37_t5gy" name="gAll" xy="54,41" size="643,1259" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

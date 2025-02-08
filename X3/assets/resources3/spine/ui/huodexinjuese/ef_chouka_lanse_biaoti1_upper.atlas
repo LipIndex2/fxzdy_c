@@ -1,0 +1,13 @@
+
+ef_chouka_lanse_biaoti1_upper.png
+size: 431,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chouka_lan_biaoti
+  rotate: false
+  xy: 2, 2
+  size: 427, 73
+  orig: 428, 74
+  offset: 0, 0
+  index: -1

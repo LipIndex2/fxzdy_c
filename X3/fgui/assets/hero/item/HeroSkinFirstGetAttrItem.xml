@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="137,34">
+  <displayList>
+    <text id="n28_8ixj" name="lb_name" xy="0,0" size="52,34" fontSize="24" color="#ffffff" vAlign="middle" text="攻击"/>
+    <text id="n6_3283" name="lb_attr" xy="84,-2" pivot="0,0.5" size="53,34" fontSize="24" color="#3edc6b" vAlign="bottom" text="+5%"/>
+  </displayList>
+</component>

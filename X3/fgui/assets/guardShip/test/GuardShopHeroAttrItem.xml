@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,34">
+  <displayList>
+    <text id="n28_loej" name="lbName" xy="40,0" size="40,34" fontSize="24" color="#ffffff" vAlign="middle" text=""/>
+    <text id="n29_loej" name="lbValue" xy="240,0" size="40,34" fontSize="24" color="#ffffff" vAlign="middle" text=""/>
+  </displayList>
+</component>

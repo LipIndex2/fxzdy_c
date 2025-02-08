@@ -1,0 +1,20 @@
+
+T_tanghao.png
+size: 131,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 77, 9
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+js01
+  rotate: false
+  xy: 2, 2
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1

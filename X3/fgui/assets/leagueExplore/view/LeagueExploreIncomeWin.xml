@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="tab" pages="0,,1,,3," selected="0">
+    <remark page="0" value="占领收益"/>
+    <remark page="1" value="个人日志"/>
+    <remark page="2" value="联盟日志"/>
+  </controller>
+  <displayList>
+    <image id="n94_8g0d" name="n94" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,118" size="682,1053" group="n89_gtlw"/>
+    <image id="n95_8g0d" name="n95" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,205" size="638,842" group="n89_gtlw"/>
+    <component id="n93_8g0d" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="32,118" size="682,1053" group="n89_gtlw"/>
+    <list id="n86_gtlw" name="listTab" xy="54,1067" size="642,68" group="n89_gtlw" layout="row" overflow="scroll" scroll="horizontal" colGap="14" defaultItem="ui://78d1ed1agtlw12e" selectionController="tab">
+      <item title="占领收益"/>
+      <item title="个人日志"/>
+      <item title="联盟日志"/>
+    </list>
+    <group id="n89_gtlw" name="gAll" xy="32,118" size="682,1053" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n96_woyg" name="n96" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="336,1172">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

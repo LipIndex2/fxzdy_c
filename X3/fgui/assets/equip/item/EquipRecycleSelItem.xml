@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="96,37">
+  <displayList>
+    <component id="n21_bb7a" name="btn_sel" src="q6dmv3k" fileName="btn/selBtn.xml" xy="0,0"/>
+    <text id="n25_bb7a" name="T_quality" xy="48,5" size="48,32" fontSize="22" color="#3eb0ff" vAlign="middle" text="普通"/>
+  </displayList>
+</component>

@@ -1,0 +1,41 @@
+
+skill02_hit_lower.png
+size: 235,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_RING2
+  rotate: false
+  xy: 2, 359
+  size: 231, 228
+  orig: 232, 232
+  offset: 1, 0
+  index: -1
+images/effect/skill02_glo
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/effect/skill02_xia_KEJIRING
+  rotate: false
+  xy: 2, 132
+  size: 207, 107
+  orig: 210, 110
+  offset: 3, 2
+  index: -1
+images/effect/skill02_xia_RING1
+  rotate: false
+  xy: 2, 241
+  size: 231, 116
+  orig: 231, 116
+  offset: 0, 0
+  index: -1
+images/effect/skill02_xia_xinxin
+  rotate: false
+  xy: 132, 104
+  size: 55, 26
+  orig: 56, 27
+  offset: 0, 1
+  index: -1

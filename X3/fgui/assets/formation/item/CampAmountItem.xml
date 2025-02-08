@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="103,105">
+  <controller name="camp" pages="0,,1,人族,2,神魔,3,智械,4,异魔" selected="0"/>
+  <controller name="num" pages="0,,1,,2,,3,,4,,5,,6," selected="6"/>
+  <displayList>
+    <loader id="n45_xebi" name="img_camp" xy="0,0" size="103,105" group="n52_xebi" url="ui://4hj3fle9odo5o" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="camp" pages="0,1,2,3,4"/>
+      <gearLook controller="num" pages="1,2,3,4,5,6" values="1,0,0,1|1,0,0,1|1,0,0,1|1,0,0,1|1,0,0,1|1,0,0,1" default="1,0,1,1"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5n|ui://4hj3fle9odo5p|ui://4hj3fle9odo5q" default="ui://4hj3fle9odo5o"/>
+    </loader>
+    <loader id="n46_xebi" name="img1" xy="34,0" size="34,15" group="n52_xebi" url="ui://4hj3fle9odo5t" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="num" pages="1,2,3,4,5,6"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5u|ui://4hj3fle9odo5s|ui://4hj3fle9odo5r" default="ui://4hj3fle9odo5t"/>
+    </loader>
+    <loader id="n51_xebi" name="img2" xy="88,11" size="34,15" group="n52_xebi" rotation="60" url="ui://4hj3fle9odo5t" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="num" pages="2,3,4,5,6"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5u|ui://4hj3fle9odo5s|ui://4hj3fle9odo5r" default="ui://4hj3fle9odo5t"/>
+    </loader>
+    <loader id="n50_xebi" name="img3" xy="105,65" size="34,15" group="n52_xebi" rotation="120" url="ui://4hj3fle9odo5t" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="num" pages="3,4,5,6"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5u|ui://4hj3fle9odo5s|ui://4hj3fle9odo5r" default="ui://4hj3fle9odo5t"/>
+    </loader>
+    <loader id="n48_xebi" name="img4" xy="68,105" size="34,15" group="n52_xebi" rotation="180" url="ui://4hj3fle9odo5t" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="num" pages="4,5,6"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5u|ui://4hj3fle9odo5s|ui://4hj3fle9odo5r" default="ui://4hj3fle9odo5t"/>
+    </loader>
+    <loader id="n49_xebi" name="img5" xy="15,92" size="34,15" group="n52_xebi" rotation="240" url="ui://4hj3fle9odo5t" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="num" pages="5,6"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5u|ui://4hj3fle9odo5s|ui://4hj3fle9odo5r" default="ui://4hj3fle9odo5t"/>
+    </loader>
+    <loader id="n47_xebi" name="img6" xy="-3,41" size="34,15" group="n52_xebi" rotation="300" url="ui://4hj3fle9odo5t" align="center" vAlign="middle" autoSize="true">
+      <gearDisplay controller="num" pages="6"/>
+      <gearIcon controller="camp" pages="2,3,4" values="ui://4hj3fle9odo5u|ui://4hj3fle9odo5s|ui://4hj3fle9odo5r" default="ui://4hj3fle9odo5t"/>
+    </loader>
+    <group id="n52_xebi" name="n52" xy="-3,0" size="142,120" advanced="true"/>
+  </displayList>
+</component>

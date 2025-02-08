@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n43_uug0" name="n43" src="uug0133" fileName="img/zu13055.jpg" xy="0,-146" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n64_g256" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-63" pivot="0.5,1" anchor="true" size="750,250" color="#1f325d">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n65_g256" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1513" pivot="0.5,0.5" anchor="true" size="750,250" color="#1f2a46" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n50_uug0" name="bossSpine" src="d6aa6" fileName="img/tuceng570.png" xy="330,780" pivot="0.5,1" visible="false"/>
+    <component id="n13_d6aa" name="challengeBtn" src="uug0137" fileName="btn/challageBtn.xml" xy="216,1158" group="n55_e1fv"/>
+    <component id="n19_d6aa" name="buzhenBtn" src="uug013a" fileName="btn/buzhenBtn.xml" xy="550,1199" group="n55_e1fv"/>
+    <group id="n55_e1fv" name="bottom" xy="216,1158" size="482,125" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n21_d6aa" name="rewardBtn" src="uug0134" fileName="btn/rewardEnter.xml" xy="646,65" group="n56_e1fv"/>
+    <component id="n23_d6aa" name="rankBtn" src="uug0135" fileName="btn/rankEnter.xml" xy="646,178" group="n56_e1fv"/>
+    <component id="n25_d6aa" name="danmuBtn" src="uug0136" fileName="btn/danmuEnter.xml" xy="646,304" group="n56_e1fv"/>
+    <richtext id="n58_e1fv" name="actTime" xy="19,133" size="10,32" group="n56_e1fv" fontSize="22" color="#ffffff" ubb="true" text=""/>
+    <component id="n30_d6aa" name="godPick" src="uug013d" fileName="component/godPick.xml" xy="18,386" group="n56_e1fv"/>
+    <component id="n33_d6aa" name="hotHero" src="uug013y" fileName="btn/hotHero.xml" xy="12,186" group="n56_e1fv"/>
+    <component id="n39_d6aa" name="bossHp" src="uug013b" fileName="component/bossHpBar.xml" xy="247,532" group="n56_e1fv">
+      <ProgressBar max="155"/>
+    </component>
+    <image id="n42_d6aa" name="bossHead" src="sh628n" fileName="league/BOSStouxiang.png" pkg="72zq62ea" xy="178,503" group="n56_e1fv"/>
+    <text id="n27_d6aa" name="bossName" xy="17,59" size="194,64" group="n51_uug0" fontSize="48" color="#ffffff" strokeColor="#0b1424" strokeSize="3" text="蟑螂之主"/>
+    <component id="n54_uug0" name="btn_Tips" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="224,76" size="41,34" group="n51_uug0">
+      <relation target="n27_d6aa" sidePair="right-right"/>
+      <Button icon="ui://38fa8c75pf1a14a"/>
+    </component>
+    <group id="n51_uug0" name="n51" xy="17,59" size="248,64" group="n56_e1fv" advanced="true"/>
+    <group id="n56_e1fv" name="n56" xy="12,59" size="717,524" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <image id="n2_d6aa" name="n2" src="d6aa2" fileName="img/sd_A_common_boss_frame.png" xy="185,989" group="n57_e1fv" alpha="0.65"/>
+    <image id="n3_d6aa" name="n3" src="d6aa3" fileName="img/sd_A_common_boss_tag.png" xy="191,998" group="n57_e1fv"/>
+    <image id="n4_d6aa" name="n4" src="d6aa4" fileName="img/zu117kaobei.png" xy="185,1042" group="n57_e1fv"/>
+    <text id="n5_d6aa" name="bfmp" xy="230,995" pivot="0.5,0.5" size="120,36" group="n57_e1fv" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="本服排名  "/>
+    <text id="n6_d6aa" name="serverRank" xy="354,995" pivot="0.5,0.5" size="71,36" group="n57_e1fv" fontSize="26" color="#ffc556" align="center" vAlign="middle" text="第1名"/>
+    <component id="n8_d6aa" name="damageReward" src="e1fv13z" fileName="btn/mainRewardBtn.xml" xy="454,1001" group="n57_e1fv"/>
+    <text id="n7_d6aa" name="zgsh" xy="240,1048" size="107,36" group="n52_uug0" fontSize="26" color="#ffffff" text="最高伤害"/>
+    <text id="n44_uug0" name="highestDamage" xy="355,1048" size="187,36" group="n52_uug0" fontSize="26" color="#ffc556" vAlign="middle" autoSize="none" text="10000000"/>
+    <group id="n52_uug0" name="highestDamage_gr" xy="240,1048" size="302,36" group="n57_e1fv" advanced="true"/>
+    <text id="n53_uug0" name="qxchbs" xy="295,1048" pivot="0.5,0.5" size="158,36" group="n57_e1fv" visible="false" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="请先参加挑战"/>
+    <component id="n59_wq7z" name="skill0" src="uug013f" fileName="component/skillIcon.xml" xy="184,839" group="n63_wq7z"/>
+    <component id="n61_wq7z" name="skill1" src="uug013f" fileName="component/skillIcon.xml" xy="332,839" group="n63_wq7z"/>
+    <component id="n62_wq7z" name="skill2" src="uug013f" fileName="component/skillIcon.xml" xy="480,839" group="n63_wq7z"/>
+    <group id="n63_wq7z" name="skillList" xy="184,839" size="396,110" group="n57_e1fv" advanced="true" layout="hz" colGap="48">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <group id="n57_e1fv" name="n57" xy="184,839" size="396,250" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <component id="n47_uug0" name="backBtn" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

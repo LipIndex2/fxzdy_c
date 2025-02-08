@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="721,1112">
+  <displayList>
+    <loader id="n40_llxc" name="bg" xy="0,0" size="721,1112" group="n30_oc78" touchable="false" url="ui://7cvz7rmm8g0dvv22" autoSize="true"/>
+    <image id="n28_8999" name="n28" src="8g0d23" fileName="monthCard/img/biaotizi.png" xy="360,108" pivot="0.5,0.5" anchor="true" group="n30_oc78"/>
+    <list id="n33_oc78" name="listCard" xy="90,290" size="557,762" group="n30_oc78" overflow="hidden" lineGap="4" defaultItem="ui://cbdbddd7oc781c" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <text id="n41_8g0d" name="n41" xy="360,247" pivot="0.5,0.5" anchor="true" size="441,36" group="n30_oc78" fontSize="26" color="#6dd4ff" align="center" vAlign="middle" text="以下特权可提升占领结算收益时间上限"/>
+    <group id="n30_oc78" name="pMonthCard" xy="0,0" size="721,1112" advanced="true"/>
+  </displayList>
+</component>

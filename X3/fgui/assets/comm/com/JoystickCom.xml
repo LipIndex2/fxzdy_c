@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="0,0" pivot="0.5,0.5" anchor="true">
+  <displayList>
+    <image id="n0_s06v" name="n0" src="mr0bvvv1ef" fileName="btnImage/huagan.png" xy="0,0" pivot="0.5,0.5" anchor="true" alpha="0.5"/>
+    <image id="n3_mr0b" name="n3" src="mr0bvvv1eh" fileName="btnImage/dangejiantou.png" xy="0,-61" pivot="0.5,0.5" anchor="true" size="24,15" group="n7_mr0b"/>
+    <image id="n4_mr0b" name="n4" src="mr0bvvv1eh" fileName="btnImage/dangejiantou.png" xy="0,61" pivot="0.5,0.5" anchor="true" size="24,15" group="n7_mr0b" flip="vt"/>
+    <image id="n5_mr0b" name="n5" src="mr0bvvv1eh" fileName="btnImage/dangejiantou.png" xy="63,0" pivot="0.5,0.5" anchor="true" size="24,15" group="n7_mr0b" rotation="90"/>
+    <image id="n6_mr0b" name="n6" src="mr0bvvv1eh" fileName="btnImage/dangejiantou.png" xy="-63,0" pivot="0.5,0.5" anchor="true" size="24,15" group="n7_mr0b" rotation="-90" flip="hz"/>
+    <group id="n7_mr0b" name="dirGp" xy="-75,-69" size="150,138" advanced="true"/>
+    <image id="n2_s06v" name="centerNode" src="mr0bvvv1eg" fileName="btnImage/huagan1.png" xy="0,0" pivot="0.5,0.5" anchor="true" alpha="0.8"/>
+  </displayList>
+</component>

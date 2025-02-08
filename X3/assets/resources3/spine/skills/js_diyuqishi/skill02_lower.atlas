@@ -1,0 +1,167 @@
+
+skill02_lower.png
+size: 1345,1433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_dabaodian1_lower_00000
+  rotate: false
+  xy: 2, 18
+  size: 231, 103
+  orig: 340, 293
+  offset: 61, 9
+  index: -1
+effect/skill02_dabaodian1_lower_00001
+  rotate: false
+  xy: 311, 66
+  size: 279, 123
+  orig: 340, 293
+  offset: 37, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00002
+  rotate: false
+  xy: 325, 191
+  size: 301, 128
+  orig: 340, 293
+  offset: 26, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00003
+  rotate: false
+  xy: 2, 123
+  size: 307, 194
+  orig: 340, 293
+  offset: 23, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00004
+  rotate: false
+  xy: 634, 94
+  size: 307, 228
+  orig: 340, 293
+  offset: 23, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00005
+  rotate: false
+  xy: 974, 90
+  size: 307, 245
+  orig: 340, 293
+  offset: 23, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00006
+  rotate: false
+  xy: 325, 321
+  size: 307, 259
+  orig: 340, 293
+  offset: 23, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00007
+  rotate: false
+  xy: 660, 324
+  size: 312, 263
+  orig: 340, 293
+  offset: 18, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00008
+  rotate: false
+  xy: 2, 319
+  size: 321, 272
+  orig: 340, 293
+  offset: 13, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00009
+  rotate: false
+  xy: 1009, 1153
+  size: 334, 278
+  orig: 340, 293
+  offset: 6, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00010
+  rotate: false
+  xy: 673, 1148
+  size: 334, 283
+  orig: 340, 293
+  offset: 6, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00011
+  rotate: false
+  xy: 337, 1146
+  size: 334, 285
+  orig: 340, 293
+  offset: 6, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00012
+  rotate: false
+  xy: 2, 1145
+  size: 333, 286
+  orig: 340, 293
+  offset: 6, 0
+  index: -1
+effect/skill02_dabaodian1_lower_00013
+  rotate: false
+  xy: 337, 861
+  size: 324, 283
+  orig: 340, 293
+  offset: 12, 3
+  index: -1
+effect/skill02_dabaodian1_lower_00014
+  rotate: false
+  xy: 663, 589
+  size: 325, 278
+  orig: 340, 293
+  offset: 12, 7
+  index: -1
+effect/skill02_dabaodian1_lower_00015
+  rotate: false
+  xy: 2, 593
+  size: 330, 273
+  orig: 340, 293
+  offset: 10, 14
+  index: -1
+effect/skill02_dabaodian1_lower_00016
+  rotate: false
+  xy: 2, 868
+  size: 330, 275
+  orig: 340, 293
+  offset: 10, 14
+  index: -1
+effect/skill02_dabaodian1_lower_00017
+  rotate: false
+  xy: 673, 869
+  size: 333, 277
+  orig: 340, 293
+  offset: 7, 13
+  index: -1
+effect/skill02_dabaodian1_lower_00018
+  rotate: false
+  xy: 334, 582
+  size: 324, 277
+  orig: 340, 293
+  offset: 10, 14
+  index: -1
+effect/skill02_dabaodian1_lower_00019
+  rotate: false
+  xy: 1008, 593
+  size: 326, 278
+  orig: 340, 293
+  offset: 8, 13
+  index: -1
+effect/skill02_dabaodian1_lower_00020
+  rotate: false
+  xy: 1009, 873
+  size: 333, 278
+  orig: 340, 293
+  offset: 1, 13
+  index: -1
+effect/skill02_dabaodian1_lower_00021
+  rotate: false
+  xy: 990, 337
+  size: 333, 254
+  orig: 340, 293
+  offset: 1, 13
+  index: -1
+effect/skill02_dabaodian1_lower_00022
+  rotate: false
+  xy: 592, 2
+  size: 328, 90
+  orig: 340, 293
+  offset: 6, 30
+  index: -1

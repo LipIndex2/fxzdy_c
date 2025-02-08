@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,80" overflow="hidden">
+  <displayList>
+    <component id="n34_t1qh" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="59,100" pivot="0.5,1" anchor="true" scale="0.6,0.6"/>
+  </displayList>
+</component>

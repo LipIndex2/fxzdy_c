@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="45,38">
+  <displayList>
+    <text id="n53_c21f" name="labelScore" xy="0,9" size="43,29" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#1f1f1f" strokeSize="2" text="100"/>
+    <graph id="n54_hl43" name="imageTips" xy="14,-1" size="19,14" type="regular_polygon" fillColor="#ff566187" sides="3" startAngle="-90"/>
+  </displayList>
+</component>

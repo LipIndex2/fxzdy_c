@@ -1,0 +1,132 @@
+
+skill01_upper.png
+size: 690,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_chibang
+  rotate: false
+  xy: 634, 188
+  size: 54, 62
+  orig: 60, 80
+  offset: 3, 10
+  index: -1
+effect/skill01_xing_00000
+  rotate: false
+  xy: 426, 193
+  size: 28, 28
+  orig: 180, 180
+  offset: 77, 70
+  index: -1
+effect/skill01_xing_00001
+  rotate: true
+  xy: 597, 314
+  size: 90, 81
+  orig: 180, 180
+  offset: 45, 42
+  index: -1
+effect/skill01_xing_00002
+  rotate: false
+  xy: 426, 2
+  size: 114, 113
+  orig: 180, 180
+  offset: 35, 30
+  index: -1
+effect/skill01_xing_00003
+  rotate: false
+  xy: 183, 233
+  size: 168, 171
+  orig: 180, 180
+  offset: 5, 1
+  index: -1
+effect/skill01_xing_00004
+  rotate: false
+  xy: 2, 224
+  size: 179, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+effect/skill01_xuan_00000
+  rotate: false
+  xy: 320, 20
+  size: 69, 32
+  orig: 180, 150
+  offset: 53, 3
+  index: -1
+effect/skill01_xuan_00001
+  rotate: false
+  xy: 597, 252
+  size: 87, 60
+  orig: 180, 150
+  offset: 60, 4
+  index: -1
+effect/skill01_xuan_00002
+  rotate: false
+  xy: 171, 5
+  size: 133, 40
+  orig: 180, 150
+  offset: 10, 24
+  index: -1
+effect/skill01_xuan_00003
+  rotate: false
+  xy: 171, 47
+  size: 147, 63
+  orig: 180, 150
+  offset: 12, 26
+  index: -1
+effect/skill01_xuan_00004
+  rotate: false
+  xy: 2, 130
+  size: 168, 92
+  orig: 180, 150
+  offset: 8, 27
+  index: -1
+effect/skill01_xuan_00005
+  rotate: true
+  xy: 333, 54
+  size: 167, 91
+  orig: 180, 150
+  offset: 7, 27
+  index: -1
+effect/skill01_xuan_00006
+  rotate: false
+  xy: 2, 37
+  size: 167, 91
+  orig: 180, 150
+  offset: 6, 25
+  index: -1
+effect/skill01_xuan_00007
+  rotate: true
+  xy: 479, 239
+  size: 165, 116
+  orig: 180, 150
+  offset: 7, 25
+  index: -1
+effect/skill01_xuan_00008
+  rotate: false
+  xy: 479, 117
+  size: 153, 120
+  orig: 180, 150
+  offset: 12, 24
+  index: -1
+effect/skill01_xuan_00009
+  rotate: false
+  xy: 183, 112
+  size: 148, 119
+  orig: 180, 150
+  offset: 16, 24
+  index: -1
+effect/skill01_xuan_00010
+  rotate: false
+  xy: 542, 24
+  size: 126, 91
+  orig: 180, 150
+  offset: 23, 24
+  index: -1
+effect/skill01_zhu
+  rotate: false
+  xy: 353, 223
+  size: 124, 181
+  orig: 150, 220
+  offset: 13, 10
+  index: -1

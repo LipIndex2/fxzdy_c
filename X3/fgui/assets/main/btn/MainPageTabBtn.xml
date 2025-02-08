@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,110" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n32_wu6b" name="modelNodeBottom" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="50,47" scale="0.9,0.9"/>
+    <loader id="n21_6b29" name="icon" xy="50,42" pivot="0.5,0.5" anchor="true" size="128,128" scale="0.9,0.9" url="ui://7q3fcj1kbpcis86" align="center" vAlign="middle" autoSize="true" clearOnPublish="true"/>
+    <component id="n27_bpci" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="50,42" scale="0.9,0.9"/>
+    <component id="n23_ni07" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="80,15"/>
+    <image id="n24_ohdt" name="n24" src="c3wzvvv1fp" fileName="bgImage/hd_tag.png" pkg="38fa8c75" xy="80,12" pivot="0.5,0.5" anchor="true" group="n26_ohdt"/>
+    <text id="n25_ohdt" name="lbCount" xy="80,12" pivot="0.5,0.5" anchor="true" size="16,29" group="n26_ohdt" fontSize="20" color="#fff9df" align="center" vAlign="middle" leading="0" strokeColor="#d36800" strokeSize="2" autoClearText="true" text="1"/>
+    <group id="n26_ohdt" name="pCount" xy="66,-2" size="28,29" advanced="true"/>
+    <text id="n22_6b29" name="title" xy="50,80" pivot="0.5,0.5" anchor="true" size="44,29" fontSize="20" color="#fffefe" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="商城"/>
+    <text id="n28_wu6b" name="lbTime" xy="50,102" pivot="0.5,0.5" anchor="true" size="72,26" fontSize="18" color="#5fff8c" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" autoClearText="true" text="8天16时"/>
+    <text id="n35_wu6b" name="lbComingSoon" xy="49,102" pivot="0.5,0.5" anchor="true" size="75,26" visible="false" fontSize="18" color="#5fff8c" align="center" vAlign="middle" strokeColor="#201e1e" strokeSize="3" text="即将开启"/>
+    <component id="n33_wu6b" name="modelNodeTop" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="50,47"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

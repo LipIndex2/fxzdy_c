@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9dfb735e">
+  <resources>
+    <image id="b0f12" name="bg.png" path="/img/"/>
+    <component id="b0f18" name="AdPlayTipWin.xml" path="/view/"/>
+    <image id="b0f110" name="tuceng880.png" path="/img/"/>
+    <image id="b0f111" name="xingxingdiandian.png" path="/img/"/>
+    <image id="b0f115" name="xiaohuanxiong.png" path="/img/"/>
+    <component id="b0f116" name="AdDailyRewardWin.xml" path="/view/"/>
+    <image id="v93u17" name="jltb_frame.png" path="/img/" scale="9grid" scale9grid="14,14,12,12"/>
+    <image id="v93u18" name="jltb_title.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

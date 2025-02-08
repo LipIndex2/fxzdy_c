@@ -1,0 +1,76 @@
+
+gw_ciqiu.png
+size: 125,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+it_baixing_00
+  rotate: false
+  xy: 56, 102
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+it_baixing_01
+  rotate: true
+  xy: 106, 23
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+it_baixing_02
+  rotate: false
+  xy: 90, 86
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+it_baixing_03
+  rotate: true
+  xy: 106, 51
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+it_baixing_04
+  rotate: false
+  xy: 56, 83
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+it_baixing_05
+  rotate: false
+  xy: 110, 115
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+it_baixing_06
+  rotate: false
+  xy: 90, 105
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+it_baixing_07
+  rotate: true
+  xy: 2, 20
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+it_baixing_08
+  rotate: false
+  xy: 2, 70
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+it_baixing_09
+  rotate: false
+  xy: 54, 20
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1

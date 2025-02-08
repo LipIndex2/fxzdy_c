@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="508,74">
+  <displayList>
+    <image id="n67_qr2a" name="n67" src="894b7" fileName="leagueMain/img/sd_A_common_liaotian_framekaobei.png" xy="0,0" size="508,73" visible="false" alpha="0.34"/>
+    <text id="n68_qr2a" name="notice" xy="0,0" size="506,32" fontSize="22" color="#92b4ed" autoSize="height" strokeColor="#000000" strokeSize="2" text="联盟公告：这个盟主很懒，什么都没留下"/>
+  </displayList>
+</component>

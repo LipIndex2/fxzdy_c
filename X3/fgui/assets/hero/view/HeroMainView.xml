@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,展示,1,选英雄" selected="0"/>
+  <displayList>
+    <loader id="n87_cni6" name="n87" xy="0,-162" size="750,1053" url="ui://69f29748g256v8o" fill="scaleFree">
+      <relation target="" sidePair="center-center,top-top"/>
+    </loader>
+    <graph id="n148_g256" name="n148" xy="0,984" size="750,354" type="rect" lineColor="#ff355195" fillColor="#ff355195">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </graph>
+    <image id="n83_kkiq" name="n83" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="168,18" size="207,89" group="n85_kkiq"/>
+    <image id="n84_kkiq" name="n84" src="pf1a143" fileName="bgImage/bossbt_frame.png" pkg="38fa8c75" xy="375,18" size="207,89" group="n85_kkiq" flip="hz"/>
+    <text id="n138_105pv" name="n138" xy="326,29" pivot="0.5,0.5" size="99,64" group="n85_kkiq" fontSize="48" color="#052664" align="center" vAlign="middle" text="英雄"/>
+    <group id="n85_kkiq" name="n85" xy="168,18" size="414,89" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <component id="n114_odo5" name="item0" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="3,199" size="146,192" group="n120_odo5"/>
+    <component id="n115_odo5" name="item1" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="243,199" size="146,192" group="n120_odo5"/>
+    <component id="n116_odo5" name="item2" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="487,199" size="146,192" group="n120_odo5"/>
+    <component id="n117_odo5" name="item3" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="125,271" size="146,192" group="n120_odo5"/>
+    <component id="n118_odo5" name="item4" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="367,271" size="146,192" group="n120_odo5"/>
+    <component id="n119_odo5" name="item5" src="odo57l" fileName="item/SoltItem.xml" pkg="38fa8c75" xy="601,271" size="146,192" group="n120_odo5"/>
+    <group id="n120_odo5" name="G_item" xy="3,199" size="744,264" group="n72_kkiq" advanced="true"/>
+    <component id="n141_qoez" name="anim0" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="3,201" pivot="0.5,1" size="146,158" group="n127_odo5"/>
+    <component id="n142_qoez" name="anim1" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="243,202" pivot="0.5,1" size="146,158" group="n127_odo5"/>
+    <component id="n143_qoez" name="anim2" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="487,201" pivot="0.5,1" size="146,158" group="n127_odo5"/>
+    <component id="n144_qoez" name="anim3" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="125,273" pivot="0.5,1" size="142,158" group="n127_odo5"/>
+    <component id="n145_qoez" name="anim4" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="367,273" pivot="0.5,1" size="142,158" group="n127_odo5"/>
+    <component id="n146_qoez" name="anim5" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="601,273" pivot="0.5,1" size="142,158" group="n127_odo5"/>
+    <group id="n127_odo5" name="G_anim" xy="3,201" size="740,230" group="n72_kkiq" advanced="true"/>
+    <group id="n72_kkiq" name="n72" xy="3,199" size="744,264" group="n63_kkiq" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <image id="n37_3cc5" name="n37" src="tml513a" fileName="bgImage/zhanli1_frame.png" pkg="38fa8c75" xy="236,122" group="n73_kkiq"/>
+    <text id="n38_3cc5" name="T_pow" xy="315,161" pivot="0,0.5" anchor="true" size="177,64" group="n73_kkiq" fontSize="48" color="#fefefe" vAlign="middle" leading="0" text="465654">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <group id="n73_kkiq" name="G_power" xy="236,122" size="277,78" group="n63_kkiq" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+    </group>
+    <component id="n81_kkiq" name="btn_manual" src="kkiq76" fileName="btn/BtnManual.xml" xy="622,36" size="102,125" group="n63_kkiq">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n150_bezo" name="btn_team" src="kkiq76" fileName="btn/BtnManual.xml" xy="622,162" size="102,125" group="n63_kkiq">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="战队科技" icon="ui://69f29748bezov8p"/>
+    </component>
+    <group id="n63_kkiq" name="formation" xy="3,36" size="744,427" advanced="true">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <component id="n132_dclx" name="pane" src="dclx7k" fileName="pane/HeroMainScrollPane.xml" xy="0,114" size="750,955">
+      <relation target="" sidePair="center-center,bottomext-bottom"/>
+    </component>
+    <component id="n58_kkiq" name="item_select" src="odo57h" fileName="item/HeroSelectItem.xml" pkg="38fa8c75" xy="16,1092">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <image id="n149_g256" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-80" pivot="0.5,1" anchor="true" size="750,250" color="#23376a">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <list id="n156_pmhw" name="bottomTab" xy="0,1064" pivot="0.5,0.5" size="750,129" layout="row" overflow="scroll" scroll="horizontal" colGap="19" defaultItem="ui://69f29748kkiq78" autoItemSize="false" align="center" vAlign="middle" scrollItemToViewOnClick="false" foldInvisibleItems="true">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item title="天赋" controllers="type,0"/>
+      <item title="装备" controllers="type,1"/>
+      <item title="星灵" controllers="type,3"/>
+      <item title="职业科技" controllers="type,2"/>
+      <item title="收藏品" controllers="type,4"/>
+    </list>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n72_kkiq" value="0"/>
+    <item time="0" type="XY" target="n132_dclx" tween="true" startValue="-,400" endValue="0,104" duration="13" ease="Back.Out"/>
+    <item time="0" type="XY" target="n150_bezo" tween="true" startValue="-,-145" endValue="-,147" duration="13" ease="Back.Out"/>
+    <item time="0" type="XY" target="n73_kkiq" tween="true" startValue="-,-175" endValue="-,125" duration="13" ease="Back.Out"/>
+    <item time="0" type="XY" target="n81_kkiq" tween="true" startValue="-,-271" endValue="-,21" duration="13" ease="Back.Out"/>
+    <item time="0" type="XY" target="n85_kkiq" tween="true" startValue="168,-318" endValue="168,18" duration="13" ease="Back.Out"/>
+    <item time="10" type="Alpha" target="n72_kkiq" tween="true" startValue="0" endValue="1" duration="3"/>
+  </transition>
+</component>

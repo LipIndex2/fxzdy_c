@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="375,46">
+  <displayList>
+    <component id="n0_972a" name="bar" src="972a4w" fileName="progressBar/components/ProgressBar.xml" xy="72,12" size="236,22">
+      <Slider value="1" max="100"/>
+    </component>
+    <component id="n1_972a" name="buttonMinus" src="972a4y" fileName="progressBar/components/ButtonProgressBarMinus.xml" xy="10,2"/>
+    <component id="n2_972a" name="buttonAdd" src="972a4x" fileName="progressBar/components/ButtonProgressBarAdd.xml" xy="322,1"/>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+
+buff_lower.png
+size: 162,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/buff2
+  rotate: true
+  xy: 100, 2
+  size: 43, 60
+  orig: 48, 68
+  offset: 2, 4
+  index: -1
+images/effect/buff3
+  rotate: false
+  xy: 2, 16
+  size: 96, 29
+  orig: 110, 30
+  offset: 6, 0
+  index: -1

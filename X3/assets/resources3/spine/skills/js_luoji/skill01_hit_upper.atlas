@@ -1,0 +1,146 @@
+
+skill01_hit_upper.png
+size: 799,691
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_upper_0
+  rotate: false
+  xy: 332, 130
+  size: 134, 128
+  orig: 260, 180
+  offset: 66, 12
+  index: -1
+effect/skill01_upper_1
+  rotate: false
+  xy: 468, 126
+  size: 134, 128
+  orig: 260, 180
+  offset: 66, 15
+  index: -1
+effect/skill01_upper_10
+  rotate: false
+  xy: 2, 284
+  size: 239, 75
+  orig: 260, 180
+  offset: 9, 10
+  index: -1
+effect/skill01_upper_11
+  rotate: false
+  xy: 2, 101
+  size: 231, 71
+  orig: 260, 180
+  offset: 10, 14
+  index: -1
+effect/skill01_upper_12
+  rotate: false
+  xy: 515, 392
+  size: 231, 101
+  orig: 260, 180
+  offset: 10, 12
+  index: -1
+effect/skill01_upper_13
+  rotate: false
+  xy: 235, 21
+  size: 153, 107
+  orig: 260, 180
+  offset: 40, 11
+  index: -1
+effect/skill01_upper_14
+  rotate: false
+  xy: 170, 174
+  size: 160, 108
+  orig: 260, 180
+  offset: 37, 13
+  index: -1
+effect/skill01_upper_15
+  rotate: false
+  xy: 2, 177
+  size: 166, 105
+  orig: 260, 180
+  offset: 31, 16
+  index: -1
+effect/skill01_upper_16
+  rotate: false
+  xy: 349, 260
+  size: 161, 115
+  orig: 260, 180
+  offset: 35, 21
+  index: -1
+effect/skill01_upper_17
+  rotate: false
+  xy: 390, 2
+  size: 131, 122
+  orig: 260, 180
+  offset: 66, 19
+  index: -1
+effect/skill01_upper_18
+  rotate: false
+  xy: 604, 125
+  size: 132, 129
+  orig: 260, 180
+  offset: 66, 11
+  index: -1
+effect/skill01_upper_19
+  rotate: false
+  xy: 663, 256
+  size: 134, 134
+  orig: 260, 180
+  offset: 66, 6
+  index: -1
+effect/skill01_upper_2
+  rotate: true
+  xy: 515, 256
+  size: 134, 146
+  orig: 260, 180
+  offset: 65, 19
+  index: -1
+effect/skill01_upper_3
+  rotate: false
+  xy: 349, 377
+  size: 164, 145
+  orig: 260, 180
+  offset: 33, 21
+  index: -1
+effect/skill01_upper_4
+  rotate: false
+  xy: 185, 369
+  size: 162, 154
+  orig: 260, 180
+  offset: 32, 13
+  index: -1
+effect/skill01_upper_5
+  rotate: true
+  xy: 637, 495
+  size: 194, 160
+  orig: 260, 180
+  offset: 33, 7
+  index: -1
+effect/skill01_upper_6
+  rotate: false
+  xy: 2, 361
+  size: 181, 164
+  orig: 260, 180
+  offset: 47, 3
+  index: -1
+effect/skill01_upper_7
+  rotate: false
+  xy: 444, 524
+  size: 191, 165
+  orig: 260, 180
+  offset: 37, 2
+  index: -1
+effect/skill01_upper_8
+  rotate: false
+  xy: 245, 525
+  size: 197, 164
+  orig: 260, 180
+  offset: 31, 3
+  index: -1
+effect/skill01_upper_9
+  rotate: false
+  xy: 2, 527
+  size: 241, 162
+  orig: 260, 180
+  offset: 11, 5
+  index: -1

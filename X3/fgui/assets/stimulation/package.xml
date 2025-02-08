@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9c1945ce">
+  <resources>
+    <image id="465118" name="touxiangheidi_9.png" path="/img/"/>
+    <component id="465128" name="StimulationDispatchWin.xml" path="/view/"/>
+    <image id="465132" name="touxiang.png" path="/img/"/>
+    <image id="465136" name="shuliangdi.png" path="/img/"/>
+    <component id="465141" name="StimulationRecycleWin.xml" path="/view/"/>
+    <image id="465143" name="di.png" path="/img/"/>
+    <image id="465146" name="shuxingdi.png" path="/img/"/>
+    <image id="465150" name="sd_Sshouweimujian_biaoti.png" path="/img/"/>
+    <image id="465151" name="jymnjy_zyt.png" path="/img/" scale="9grid" scale9grid="30,46,55,10"/>
+    <image id="465153" name="jymnjy_tubiao.png" path="/img/"/>
+    <component id="465155" name="StimulationMainView.xml" path="/view/"/>
+    <component id="str856" name="StimulationHeroItem.xml" path="/item/"/>
+    <component id="str857" name="StimulationPosItem.xml" path="/item/"/>
+    <component id="str85a" name="StimulationMainBottom.xml" path="/component/"/>
+    <component id="str85b" name="StimulationMainTop.xml" path="/component/"/>
+    <component id="str85d" name="StimulationRecycleBtn.xml" path="/component/"/>
+    <component id="gvuz5e" name="StimulationAdBtn.xml" path="/component/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

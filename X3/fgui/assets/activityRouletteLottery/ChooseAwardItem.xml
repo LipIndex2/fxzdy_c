@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,159">
+  <displayList>
+    <component id="n49_teox" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="0,0"/>
+    <text id="n50_teox" name="T_count" xy="0,133" pivot="0.5,0.5" size="104,26" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" text="剩余次数：6"/>
+    <text id="n51_teox" name="T_Tips" xy="14,35" pivot="0.5,0.5" size="75,26" fontSize="18" color="#ff0000" align="center" strokeColor="#000000" strokeSize="2" text="已达上限"/>
+  </displayList>
+</component>

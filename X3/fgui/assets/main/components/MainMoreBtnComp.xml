@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="246,146" designImageOffsetX="-489" designImageOffsetY="-328">
+  <displayList>
+    <component id="n0_gtyg" name="btn" src="gtyg52" fileName="btn/MainMoreBtn.xml" xy="-18,-10" size="235,130"/>
+    <image id="n1_gtyg" name="n1" src="phyf4p" fileName="img/zjmcl_line.png" xy="-6,134" size="234,5"/>
+    <component id="n2_wvxj" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="82,35" size="30,30" visible="false" controller="type,3"/>
+  </displayList>
+</component>

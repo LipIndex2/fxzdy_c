@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false" designImage="ui://7q3fcj1kl2wis7o" designImageOffsetY="-149">
+  <displayList>
+    <component id="n73_a9a7" name="timeComp" src="ejy36e" fileName="components/PlayerInfoCountDownTimeComp.xml" xy="563,362" visible="false"/>
+    <image id="n97_hcpc" name="n97" src="hcpc8m" fileName="subView/img/11.png" xy="199,484" pivot="0.5,0.5" size="347,35"/>
+    <text id="n71_a9a7" name="labelDesc" xy="227,484" pivot="0.5,0" size="294,34" fontSize="24" color="#fefefe" align="center" vAlign="middle" singleLine="true" text="运营活动获得，有效期30天"/>
+    <image id="n81_d299" name="bgContent" src="105pvv18d" fileName="bgImage/bossfydi_frame.png" pkg="38fa8c75" xy="83,552" size="574,470"/>
+    <component id="n92_d299" name="changeComp" src="d2997y" fileName="components/PlayerInfoChangeBtnGroupComp.xml" xy="172,1035"/>
+    <list id="n84_d299" name="itemList" xy="96,563" size="562,451" layout="flow_hz" overflow="scroll" lineGap="10" colGap="12" defaultItem="ui://d4f26126d2997x" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n88_d299" name="n88" src="caj9vvv1cy" fileName="img/sd_A_common_bossfgx_line.png" pkg="38fa8c75" xy="88,524" size="573,3"/>
+    <component id="n93_l2wi" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="91,355"/>
+    <image id="n99_lb79" name="bgMsg" src="lb790" fileName="skin/qipao1.png" pkg="gq5ugm3u" xy="177,371" size="425,103"/>
+    <text id="n95_l2wi" name="labelMsg" xy="240,408" size="287,32" fontSize="22" color="#284eb8" vAlign="middle" text="探险家，欢迎来到星际世界。"/>
+    <text id="n96_l2wi" name="labelPlayerName" xy="212,356" size="135,32" fontSize="22" color="#adc8f8" vAlign="middle" text="玩家名字六子"/>
+  </displayList>
+</component>

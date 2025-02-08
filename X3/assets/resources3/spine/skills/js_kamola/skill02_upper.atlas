@@ -1,0 +1,223 @@
+
+skill02_upper.png
+size: 2048,463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_baodian
+  rotate: false
+  xy: 1896, 166
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/effect/skill02_daoguang_00000
+  rotate: false
+  xy: 656, 133
+  size: 173, 154
+  orig: 256, 256
+  offset: 0, 102
+  index: -1
+images/effect/skill02_daoguang_00001
+  rotate: false
+  xy: 2, 79
+  size: 129, 224
+  orig: 256, 256
+  offset: 24, 32
+  index: -1
+images/effect/skill02_daoguang_00005
+  rotate: false
+  xy: 1735, 244
+  size: 176, 217
+  orig: 256, 256
+  offset: 32, 0
+  index: -1
+images/effect/skill02_daoguang_00006
+  rotate: false
+  xy: 254, 290
+  size: 256, 172
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect/skill02_daoguang_00007
+  rotate: false
+  xy: 738, 293
+  size: 256, 169
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect/skill02_daoguang_00008
+  rotate: false
+  xy: 1480, 289
+  size: 256, 173
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect/skill02_daoguang_00009
+  rotate: false
+  xy: 1222, 284
+  size: 256, 178
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/effect/skill02_daoguang_00010
+  rotate: false
+  xy: 327, 25
+  size: 181, 144
+  orig: 256, 256
+  offset: 75, 0
+  index: -1
+images/effect/skill02_daoguang_00011
+  rotate: false
+  xy: 1596, 17
+  size: 184, 123
+  orig: 256, 256
+  offset: 72, 0
+  index: -1
+images/effect/skill02_daoguangsmoke_000
+  rotate: false
+  xy: 1550, 161
+  size: 187, 167
+  orig: 256, 256
+  offset: 69, 76
+  index: -1
+images/effect/skill02_daoguangsmoke_001
+  rotate: false
+  xy: 2, 233
+  size: 251, 229
+  orig: 256, 256
+  offset: 5, 10
+  index: -1
+images/effect/skill02_daoguangsmoke_002
+  rotate: false
+  xy: 1254, 160
+  size: 204, 167
+  orig: 256, 256
+  offset: 28, 29
+  index: -1
+images/effect/skill02_daoguangsmoke_003
+  rotate: false
+  xy: 992, 266
+  size: 228, 197
+  orig: 256, 256
+  offset: 28, 40
+  index: -1
+images/effect/skill02_daoguangsmoke_004
+  rotate: false
+  xy: 512, 257
+  size: 224, 205
+  orig: 256, 256
+  offset: 32, 41
+  index: -1
+images/effect/skill02_glo
+  rotate: false
+  xy: 1912, 351
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/effect/skill02_line
+  rotate: false
+  xy: 988, 232
+  size: 26, 98
+  orig: 26, 98
+  offset: 0, 0
+  index: -1
+images/effect/skill02_ring
+  rotate: false
+  xy: 830, 167
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+images/effect/skill02_sanjiao
+  rotate: false
+  xy: 1107, 133
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+images/effect/skill02_smoke_00005
+  rotate: false
+  xy: 171, 119
+  size: 190, 166
+  orig: 256, 256
+  offset: 66, 86
+  index: -1
+images/effect/skill02_smoke_00006
+  rotate: false
+  xy: 1715, 88
+  size: 179, 150
+  orig: 256, 256
+  offset: 77, 97
+  index: -1
+images/effect/skill02_smoke_00007
+  rotate: false
+  xy: 345, 149
+  size: 182, 191
+  orig: 256, 256
+  offset: 74, 65
+  index: -1
+images/effect/skill02_smoke_00009
+  rotate: false
+  xy: 527, 22
+  size: 139, 174
+  orig: 256, 256
+  offset: 117, 82
+  index: -1
+images/effect/skill02_smoke_00011
+  rotate: false
+  xy: 953, 33
+  size: 154, 166
+  orig: 256, 256
+  offset: 102, 90
+  index: -1
+images/effect/skill02_smoke_00013
+  rotate: false
+  xy: 1435, 65
+  size: 160, 163
+  orig: 256, 256
+  offset: 96, 93
+  index: -1
+images/effect/skill02_xuli_002
+  rotate: false
+  xy: 210, 69
+  size: 160, 29
+  orig: 256, 256
+  offset: 22, 227
+  index: -1
+images/effect/skill02_xuli_003
+  rotate: false
+  xy: 126, 42
+  size: 171, 101
+  orig: 256, 256
+  offset: 6, 155
+  index: -1
+images/effect/skill02_xuli_004
+  rotate: false
+  xy: 805, 18
+  size: 131, 148
+  orig: 256, 256
+  offset: 0, 108
+  index: -1
+images/effect/skill02_xuli_005
+  rotate: false
+  xy: 1267, 3
+  size: 167, 169
+  orig: 256, 256
+  offset: 3, 87
+  index: -1
+images/effect/skill02_xuli_007
+  rotate: false
+  xy: 1862, 44
+  size: 161, 122
+  orig: 256, 256
+  offset: 16, 87
+  index: -1
+images/effect/skill02_xuli_009
+  rotate: false
+  xy: 1109, 53
+  size: 130, 79
+  orig: 256, 256
+  offset: 51, 96
+  index: -1

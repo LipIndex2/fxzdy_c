@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="75,82" pivot="0.5,0.5" anchor="true" extention="Button">
+  <controller name="haveBigRewardFlag" exported="true" pages="0,false,1,true" selected="1"/>
+  <controller name="passState" exported="true" pages="0,notPass,1,pass,2,challenge" selected="0"/>
+  <displayList>
+    <image id="n174_rclc" name="imageMonster" src="r8pu16d" fileName="imgV3/xingzhuang5.png" xy="37,40" pivot="0.5,0.5" anchor="true" group="n175_rclc">
+      <gearDisplay controller="passState" pages="0"/>
+      <gearDisplay2 controller="haveBigRewardFlag" pages="0" condition="0"/>
+    </image>
+    <image id="n172_rclc" name="imagePass" src="r8pu16g" fileName="imgV3/yidacheng.png" xy="35,40" pivot="0.5,0.5" anchor="true" group="n175_rclc">
+      <gearDisplay controller="passState" pages="1"/>
+    </image>
+    <loader id="n179_tml5" name="imageBgPass" xy="0,0" pivot="0.5,0.5" size="75,82" group="n176_rclc" url="ui://556f0e8br8pu167" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="passState" pages="2"/>
+    </loader>
+    <loader id="n136_8a38" name="imageBgNotPass" xy="38,42" pivot="0.5,0.5" anchor="true" size="63,70" group="n176_rclc" url="ui://556f0e8br8pu16c" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="haveBigRewardFlag" pages="1"/>
+      <gearDisplay2 controller="passState" pages="0" condition="0"/>
+    </loader>
+    <loader id="n137_8a38" name="imageIcon" xy="38,43" pivot="0.5,0.5" anchor="true" size="60,60" group="n176_rclc" url="ui://556f0e8br8pu169" align="center" vAlign="middle" fill="scale">
+      <gearDisplay controller="haveBigRewardFlag" pages="1"/>
+      <gearDisplay2 controller="passState" pages="0" condition="0"/>
+    </loader>
+    <loader id="n182_tyxr" name="imageChallenge" xy="8,12" pivot="0.5,0.5" size="59,59" group="n176_rclc" url="ui://556f0e8br8pu17d" align="center" vAlign="middle">
+      <gearDisplay controller="passState" pages="2"/>
+    </loader>
+    <group id="n176_rclc" name="item" xy="0,0" size="75,82" group="n175_rclc" advanced="true"/>
+    <group id="n175_rclc" name="n175" xy="0,0" size="75,82"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

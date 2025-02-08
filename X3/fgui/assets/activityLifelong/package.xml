@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="f3ecb112">
+  <resources>
+    <image id="c83b4" name="youbeijing.png" path="/img/"/>
+    <image id="c83b8" name="jinduxianshi.png" path="/img/"/>
+    <image id="c83b10" name="weidajindu.png" path="/img/"/>
+    <image id="c83b12" name="jlhei_frame.png" path="/img/" scale="9grid" scale9grid="13,32,14,64"/>
+    <image id="c83b14" name="jl_frame.png" path="/img/" scale="9grid" scale9grid="17,32,9,64"/>
+    <image id="c83b18" name="bannerkaobei.png" path="/img/"/>
+    <image id="c83b19" name="qianwangzhaomu.png" path="/img/"/>
+    <image id="c83b20" name="wenzikaobei2.png" path="/img/"/>
+    <image id="c83b21" name="zu130465.png" path="/img/"/>
+    <image id="c83b22" name="wenzikaobei.png" path="/img/"/>
+    <image id="c83b24" name="9gongzshd_lb.png" path="/img/"/>
+    <image id="c83b30" name="renwu_6.png" path="/img/"/>
+    <image id="c83b31" name="zu130463kaobei.png" path="/img/"/>
+    <image id="c83b33" name="zhongshenyici_5.png" path="/img/"/>
+    <image id="c83b45" name="yeqian_yixuan.png" path="/img/"/>
+    <image id="c83b46" name="yeqian_weixuan.png" path="/img/"/>
+    <image id="ko814e" name="zshd_frame.png" path="/img/" scale="9grid" scale9grid="251,125,37,23"/>
+    <image id="ko814f" name="shouqing_31.png" path="/img/"/>
+    <component id="c83b48" name="LifelongMainView.xml" path="/"/>
+    <component id="ko8149" name="taskItem.xml" path="/item/"/>
+    <component id="ko814a" name="taskBar.xml" path="/item/"/>
+    <component id="ko814b" name="tabBtn.xml" path="/btn/"/>
+    <component id="ko814c" name="giftItem.xml" path="/item/"/>
+    <component id="ko814d" name="awardItem.xml" path="/item/"/>
+    <component id="8adr4g" name="awardBar.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

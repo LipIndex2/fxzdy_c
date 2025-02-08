@@ -1,0 +1,69 @@
+
+pskill01_start_upper.png
+size: 223,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/pskill01_ring_00000
+  rotate: true
+  xy: 183, 107
+  size: 39, 38
+  orig: 95, 95
+  offset: 28, 29
+  index: -1
+images/effect/pskill01_ring_00001
+  rotate: false
+  xy: 98, 63
+  size: 83, 83
+  orig: 95, 95
+  offset: 6, 6
+  index: -1
+images/effect/pskill01_ring_00002
+  rotate: false
+  xy: 98, 148
+  size: 89, 89
+  orig: 95, 95
+  offset: 3, 3
+  index: -1
+images/effect/pskill01_ring_00003
+  rotate: false
+  xy: 2, 50
+  size: 94, 92
+  orig: 95, 95
+  offset: 0, 2
+  index: -1
+images/effect/pskill01_ring_00004
+  rotate: false
+  xy: 2, 144
+  size: 94, 93
+  orig: 95, 95
+  offset: 1, 1
+  index: -1
+images/effect/pskill01_saoguang_00001
+  rotate: true
+  xy: 189, 191
+  size: 46, 27
+  orig: 68, 62
+  offset: 20, 1
+  index: -1
+images/effect/pskill01_saoguang_00003
+  rotate: false
+  xy: 2, 2
+  size: 62, 46
+  orig: 68, 62
+  offset: 5, 1
+  index: -1
+images/effect/pskill01_saoguang_00005
+  rotate: false
+  xy: 98, 9
+  size: 65, 52
+  orig: 68, 62
+  offset: 1, 7
+  index: -1
+images/effect/pskill01_saoguang_00007
+  rotate: true
+  xy: 165, 9
+  size: 52, 40
+  orig: 68, 62
+  offset: 1, 21
+  index: -1

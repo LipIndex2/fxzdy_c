@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="178,95" pivot="0.5,0.5" anchor="true">
+  <controller name="iconState" pages="0,,1," selected="0">
+    <remark page="0" value="道具图标"/>
+    <remark page="1" value="宠物图标"/>
+  </controller>
+  <displayList>
+    <loader id="n32_z7ud" name="bgQuality" xy="0,0" size="178,95" url="ui://7q3fcj1kdbz0s8h" align="center" vAlign="middle" clearOnPublish="true"/>
+    <loader id="n33_z7ud" name="iconLoader" xy="89,33" pivot="0.5,0.5" anchor="true" size="84,84" url="ui://7q3fcj1kbpcis88" align="center" vAlign="middle" fill="scale" clearOnPublish="true">
+      <gearSize controller="iconState" pages="0" values="84,84,1,1" default="70,70,1,1"/>
+    </loader>
+    <list id="n34_z7ud" name="listStar" xy="84,81" pivot="0.5,0.5" anchor="true" size="220,40" scale="0.5,0.5" layout="row" overflow="scroll" colGap="8" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n35_p9b4" name="lbLv" xy="126,36" pivot="1,0" size="47,34" fontSize="24" color="#ffea01" align="right" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="+10"/>
+  </displayList>
+</component>

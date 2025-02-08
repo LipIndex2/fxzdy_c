@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="699,656" opaque="false">
+  <controller name="c1" pages="0,,1," selected="1">
+    <remark page="1" value="英雄潜能"/>
+  </controller>
+  <displayList>
+    <text id="n110_105pv" name="T_name" xy="298,-2" pivot="0.5,0.5" size="132,58" fontSize="43" color="#31b4ff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="英雄名"/>
+    <image id="n13_b419" name="n13" src="tml513a" fileName="bgImage/zhanli1_frame.png" pkg="38fa8c75" xy="226,584" scale="0.9,0.9"/>
+    <image id="n16_b419" name="img_isUp" src="dtss5t" fileName="frameImage/ysz_tag.png" pkg="38fa8c75" xy="79,145"/>
+    <component id="n113_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="349,521" pivot="0.5,1" anchor="true" size="0,0" scale="-3.5,3.5"/>
+    <text id="n108_odo5" name="rootForSpine" xy="349,521" pivot="0.5,1" anchor="true" size="174,244" fontSize="24" color="#ffffff" autoSize="none" text=""/>
+    <component id="n112_dusv" name="aniNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="349,342" pivot="0.5,1" anchor="true"/>
+    <component id="n102_dtss" name="btn_left" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="0,286" size="43,61" scale="-1,1">
+      <Button icon="ui://38fa8c75105pvv17z"/>
+    </component>
+    <component id="n103_dtss" name="btn_right" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="656,286" size="43,61">
+      <Button icon="ui://38fa8c75105pvv17z"/>
+    </component>
+    <component id="n105_dtss" name="HeroStarItem" src="dtss5d" fileName="item/HeroStarItem.xml" xy="59,72" size="580,32" controller="c1,0"/>
+    <component id="n106_zwyz" name="item_Weapon" src="dtss55" fileName="item/WeaponItem.xml" xy="533,420" size="104,104" visible="false"/>
+    <component id="n107_zwyz" name="item" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="49,420" size="104,104" visible="false"/>
+    <loader id="n109_odo5" name="btn_hero" xy="165,134" pivot="0.5,0.5" size="369,403"/>
+    <text id="n111_105pv" name="T_power" xy="299,590" pivot="0,0.5" size="136,59" fontSize="44" color="#fefefe" vAlign="middle" text="28399"/>
+    <loader id="n114_bezo" name="img_camp" xy="244,1" pivot="0.5,0.5" size="50,50" align="center" vAlign="middle" autoSize="true">
+      <relation target="n110_105pv" sidePair="right-left"/>
+    </loader>
+    <component id="n115_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="684,292" controller="type,4"/>
+  </displayList>
+</component>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="120,120" pivot="0.5,0.5">
+  <controller name="state" exported="true" pages="1,,0,,2," selected="0">
+    <remark page="0" value="未装备"/>
+    <remark page="1" value="未解锁"/>
+    <remark page="2" value="已装备"/>
+  </controller>
+  <displayList>
+    <image id="n0_lb79" name="bg" src="lb79v3o" fileName="img/bg_item.png" xy="0,0" size="120,120">
+      <gearDisplay controller="state" pages="0,1"/>
+      <gearLook controller="state" pages="1,2" values="1,0,0,0|1,0,0,0" default="1,0,1,0"/>
+    </image>
+    <loader id="n2_s4ij" name="icon" xy="10,10" size="100,100">
+      <gearDisplay controller="state" pages="0,1"/>
+      <gearLook controller="state" pages="1,2" values="1,0,0,1|1,0,0,1" default="1,0,1,1"/>
+    </loader>
+    <image id="n3_s4ij" name="n3" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="85,14" scale="0.5,0.5">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <component id="n1_lb79" name="item" src="pf1a144" fileName="item/EquipItem.xml" pkg="38fa8c75" xy="0,-9" scale="1.14,1.14" touchable="false">
+      <gearDisplay controller="state" pages="2"/>
+    </component>
+    <component id="n4_mz6j" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="104,20" touchable="false" controller="type,4"/>
+  </displayList>
+  <customProperty target="icon" propertyId="1"/>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="212,80" pivot="0.5,0.5" extention="Button">
+  <controller name="gainState" exported="true" pages="0,notGain,1,canGain,2,haveGain" selected="1"/>
+  <displayList>
+    <image id="n43_b6a2" name="n43" src="b6a224" fileName="img/yilingqu.png" xy="0,0" group="n47_oqeb">
+      <gearDisplay controller="gainState" pages="0"/>
+    </image>
+    <image id="n52_ffqt" name="n52" src="ffqt163" fileName="img/jjc1_frame.png" xy="0,0" group="n47_oqeb">
+      <gearDisplay controller="gainState" pages="2"/>
+    </image>
+    <image id="n44_b6a2" name="n44" src="b6a225" fileName="img/baoxiang_106.png" xy="29,22" group="n47_oqeb"/>
+    <image id="n45_b6a2" name="n45" src="b6a226" fileName="img/scale_55%_sd_A_common_gou_icon.png" xy="52,40" group="n47_oqeb">
+      <gearDisplay controller="gainState" pages="2"/>
+    </image>
+    <text id="n46_b6a2" name="labelTitle" xy="99,22" pivot="0.5,0.5" size="80,36" group="n47_oqeb" fontSize="26" color="#ffffff" vAlign="middle" strokeColor="#263f8f" strokeSize="3" singleLine="true" text="00/20"/>
+    <group id="n47_oqeb" name="notGainP" xy="0,0" size="212,80" advanced="true">
+      <gearDisplay controller="gainState" pages="0,2"/>
+    </group>
+    <image id="n48_oqeb" name="n48" src="b6a227" fileName="img/kelingqu_104.png" xy="0,0" group="n51_oqeb"/>
+    <image id="n49_oqeb" name="n49" src="b6a225" fileName="img/baoxiang_106.png" xy="29,22" group="n51_oqeb"/>
+    <text id="n50_oqeb" name="labelCanGain" xy="100,22" size="81,36" group="n51_oqeb" fontSize="26" color="#fff7b3" strokeColor="#ba4a00" strokeSize="3" text="可领取"/>
+    <component id="n54_dusv" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="111,48" group="n51_oqeb"/>
+    <group id="n51_oqeb" name="canGainP" xy="0,0" size="212,80" advanced="true">
+      <gearDisplay controller="gainState" pages="1"/>
+    </group>
+    <component id="n53_wvxj" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="199,16" controller="type,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

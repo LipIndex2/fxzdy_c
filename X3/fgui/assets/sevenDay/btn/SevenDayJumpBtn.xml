@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,70" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n19_6950" name="bg" src="83016" fileName="btnImage/changgui3_btn.png" pkg="38fa8c75" xy="0,0" size="160,70"/>
+    <text id="n20_6950" name="title" xy="17,14" pivot="0.5,0.5" size="131,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#1a50a9" strokeSize="3" text="前往"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

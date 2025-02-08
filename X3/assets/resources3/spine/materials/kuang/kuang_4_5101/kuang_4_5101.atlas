@@ -1,0 +1,27 @@
+
+kuang_4_5101.png
+size: 212,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 8
+  size: 82, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+baoguang
+  rotate: true
+  xy: 86, 2
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+map_mine_1101
+  rotate: true
+  xy: 149, 2
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1

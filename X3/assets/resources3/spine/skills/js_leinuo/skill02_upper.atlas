@@ -1,0 +1,496 @@
+
+skill02_upper.png
+size: 709,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effter/skill01_qiangkou2_00000
+  rotate: true
+  xy: 602, 512
+  size: 59, 90
+  orig: 150, 100
+  offset: 88, 3
+  index: -1
+effter/skill01_qiangkou2_00001
+  rotate: false
+  xy: 322, 23
+  size: 117, 81
+  orig: 150, 100
+  offset: 22, 16
+  index: -1
+effter/skill01_qiangkou2_00002
+  rotate: true
+  xy: 504, 132
+  size: 85, 91
+  orig: 150, 100
+  offset: 54, 8
+  index: -1
+effter/skill01_qiangkou2_00003
+  rotate: false
+  xy: 2, 4
+  size: 135, 95
+  orig: 150, 100
+  offset: 3, 5
+  index: -1
+effter/skill01_qiangkou2_00004
+  rotate: false
+  xy: 139, 2
+  size: 65, 97
+  orig: 150, 100
+  offset: 70, 3
+  index: -1
+effter/skill01_qiangkou2_00005
+  rotate: true
+  xy: 504, 219
+  size: 120, 91
+  orig: 150, 100
+  offset: 19, 2
+  index: -1
+effter/skill01_qiangkou2_00006
+  rotate: false
+  xy: 597, 247
+  size: 81, 92
+  orig: 150, 100
+  offset: 62, 1
+  index: -1
+effter/skill01_qiangkou2_00007
+  rotate: true
+  xy: 602, 573
+  size: 134, 87
+  orig: 150, 100
+  offset: 11, 7
+  index: -1
+effter/skill01_qiangkou2_00008
+  rotate: false
+  xy: 441, 15
+  size: 75, 89
+  orig: 150, 100
+  offset: 71, 4
+  index: -1
+effter/skill01_qiangkou2_00009
+  rotate: false
+  xy: 356, 106
+  size: 119, 85
+  orig: 150, 100
+  offset: 28, 4
+  index: -1
+effter/skill01_ring_00000
+  rotate: false
+  xy: 280, 409
+  size: 54, 54
+  orig: 220, 220
+  offset: 83, 83
+  index: -1
+effter/skill01_ring_00001
+  rotate: false
+  xy: 597, 157
+  size: 88, 88
+  orig: 220, 220
+  offset: 66, 66
+  index: -1
+effter/skill01_ring_00002
+  rotate: false
+  xy: 206, 19
+  size: 114, 114
+  orig: 220, 220
+  offset: 53, 53
+  index: -1
+effter/skill01_ring_00003
+  rotate: false
+  xy: 356, 193
+  size: 146, 146
+  orig: 220, 220
+  offset: 37, 37
+  index: -1
+effter/skill01_ring_00004
+  rotate: false
+  xy: 196, 135
+  size: 158, 158
+  orig: 220, 220
+  offset: 31, 31
+  index: -1
+effter/skill01_ring_00005
+  rotate: false
+  xy: 414, 341
+  size: 178, 178
+  orig: 220, 220
+  offset: 21, 21
+  index: -1
+effter/skill01_ring_00006
+  rotate: false
+  xy: 414, 521
+  size: 186, 186
+  orig: 220, 220
+  offset: 17, 17
+  index: -1
+effter/skill01_ring_00007
+  rotate: false
+  xy: 2, 101
+  size: 192, 192
+  orig: 220, 220
+  offset: 14, 14
+  index: -1
+effter/skill01_ring_00008
+  rotate: false
+  xy: 210, 505
+  size: 202, 202
+  orig: 220, 220
+  offset: 9, 9
+  index: -1
+effter/skill01_ring_00009
+  rotate: false
+  xy: 2, 295
+  size: 204, 204
+  orig: 220, 220
+  offset: 8, 8
+  index: -1
+effter/skill01_ring_00010
+  rotate: false
+  xy: 2, 501
+  size: 206, 206
+  orig: 220, 220
+  offset: 7, 7
+  index: -1
+effter/skill02_danke_00000
+  rotate: true
+  xy: 653, 46
+  size: 5, 3
+  orig: 80, 80
+  offset: 12, 47
+  index: -1
+effter/skill02_danke_00001
+  rotate: false
+  xy: 196, 101
+  size: 8, 4
+  orig: 80, 80
+  offset: 15, 54
+  index: -1
+effter/skill02_danke_00002
+  rotate: false
+  xy: 684, 120
+  size: 10, 5
+  orig: 80, 80
+  offset: 18, 60
+  index: -1
+effter/skill02_danke_00003
+  rotate: false
+  xy: 686, 410
+  size: 10, 6
+  orig: 80, 80
+  offset: 22, 64
+  index: -1
+effter/skill02_danke_00004
+  rotate: true
+  xy: 586, 120
+  size: 10, 6
+  orig: 80, 80
+  offset: 26, 67
+  index: -1
+effter/skill02_danke_00005
+  rotate: false
+  xy: 697, 199
+  size: 10, 6
+  orig: 80, 80
+  offset: 30, 68
+  index: -1
+effter/skill02_danke_00006
+  rotate: true
+  xy: 680, 247
+  size: 33, 26
+  orig: 80, 80
+  offset: 11, 47
+  index: -1
+effter/skill02_danke_00007
+  rotate: true
+  xy: 691, 672
+  size: 35, 16
+  orig: 80, 80
+  offset: 13, 55
+  index: -1
+effter/skill02_danke_00008
+  rotate: true
+  xy: 272, 361
+  size: 37, 6
+  orig: 80, 80
+  offset: 15, 61
+  index: -1
+effter/skill02_danke_00009
+  rotate: true
+  xy: 687, 207
+  size: 38, 17
+  orig: 80, 80
+  offset: 18, 55
+  index: -1
+effter/skill02_danke_00010
+  rotate: false
+  xy: 668, 341
+  size: 39, 27
+  orig: 80, 80
+  offset: 21, 48
+  index: -1
+effter/skill02_danke_00011
+  rotate: false
+  xy: 668, 370
+  size: 39, 38
+  orig: 80, 80
+  offset: 24, 39
+  index: -1
+effter/skill02_danke_00012
+  rotate: false
+  xy: 336, 401
+  size: 52, 48
+  orig: 80, 80
+  offset: 12, 29
+  index: -1
+effter/skill02_danke_00013
+  rotate: true
+  xy: 686, 418
+  size: 27, 21
+  orig: 80, 80
+  offset: 15, 54
+  index: -1
+effter/skill02_danke_00014
+  rotate: false
+  xy: 206, 6
+  size: 28, 11
+  orig: 80, 80
+  offset: 17, 60
+  index: -1
+effter/skill02_danke_00015
+  rotate: false
+  xy: 322, 120
+  size: 28, 13
+  orig: 80, 80
+  offset: 20, 59
+  index: -1
+effter/skill02_danke_00016
+  rotate: true
+  xy: 684, 127
+  size: 28, 23
+  orig: 80, 80
+  offset: 23, 52
+  index: -1
+effter/skill02_danke_00017
+  rotate: true
+  xy: 208, 298
+  size: 28, 32
+  orig: 80, 80
+  offset: 26, 44
+  index: -1
+effter/skill02_danke_00018
+  rotate: false
+  xy: 653, 2
+  size: 43, 42
+  orig: 80, 80
+  offset: 14, 33
+  index: -1
+effter/skill02_danke_00019
+  rotate: true
+  xy: 280, 366
+  size: 41, 52
+  orig: 80, 80
+  offset: 18, 22
+  index: -1
+effter/skill02_danke_00020
+  rotate: true
+  xy: 284, 465
+  size: 38, 61
+  orig: 80, 80
+  offset: 22, 9
+  index: -1
+effter/skill02_danke_00021
+  rotate: false
+  xy: 691, 634
+  size: 16, 11
+  orig: 80, 80
+  offset: 27, 58
+  index: -1
+effter/skill02_danke_00022
+  rotate: false
+  xy: 477, 109
+  size: 13, 17
+  orig: 80, 80
+  offset: 32, 54
+  index: -1
+effter/skill02_danke_00023
+  rotate: false
+  xy: 698, 22
+  size: 9, 22
+  orig: 80, 80
+  offset: 36, 49
+  index: -1
+effter/skill02_danke_00024
+  rotate: false
+  xy: 196, 121
+  size: 8, 12
+  orig: 80, 80
+  offset: 41, 58
+  index: -1
+effter/skill02_danke_00025
+  rotate: false
+  xy: 196, 107
+  size: 8, 12
+  orig: 80, 80
+  offset: 45, 55
+  index: -1
+effter/skill02_danke_00026
+  rotate: false
+  xy: 336, 451
+  size: 8, 12
+  orig: 80, 80
+  offset: 49, 51
+  index: -1
+effter/skill02_danke_00027
+  rotate: false
+  xy: 390, 438
+  size: 8, 11
+  orig: 80, 80
+  offset: 53, 46
+  index: -1
+effter/skill02_danke_00028
+  rotate: false
+  xy: 597, 3
+  size: 8, 11
+  orig: 80, 80
+  offset: 57, 39
+  index: -1
+effter/skill02_danke_00029
+  rotate: false
+  xy: 242, 315
+  size: 8, 11
+  orig: 80, 80
+  offset: 60, 31
+  index: -1
+effter/skill02_danke_00030
+  rotate: false
+  xy: 687, 194
+  size: 8, 11
+  orig: 80, 80
+  offset: 64, 22
+  index: -1
+effter/skill02_danke_00031
+  rotate: true
+  xy: 698, 410
+  size: 6, 8
+  orig: 80, 80
+  offset: 68, 13
+  index: -1
+effter/skill02_huichen_00000
+  rotate: false
+  xy: 566, 2
+  size: 29, 12
+  orig: 90, 36
+  offset: 2, 2
+  index: -1
+effter/skill02_huichen_00001
+  rotate: true
+  xy: 680, 282
+  size: 57, 24
+  orig: 90, 36
+  offset: 2, 1
+  index: -1
+effter/skill02_huichen_00002
+  rotate: false
+  xy: 597, 120
+  size: 85, 35
+  orig: 90, 36
+  offset: 3, 1
+  index: -1
+effter/skill02_huichen_00003
+  rotate: false
+  xy: 566, 16
+  size: 85, 35
+  orig: 90, 36
+  offset: 2, 1
+  index: -1
+effter/skill02_huichen_00004
+  rotate: true
+  xy: 663, 46
+  size: 72, 35
+  orig: 90, 36
+  offset: 16, 1
+  index: -1
+effter/skill02_huichen_00005
+  rotate: false
+  xy: 210, 468
+  size: 72, 35
+  orig: 90, 36
+  offset: 16, 1
+  index: -1
+effter/skill02_huichen_00006
+  rotate: true
+  xy: 477, 128
+  size: 63, 25
+  orig: 90, 36
+  offset: 23, 0
+  index: -1
+effter/skill02_huichen_00007
+  rotate: true
+  xy: 686, 447
+  size: 63, 21
+  orig: 90, 36
+  offset: 25, 1
+  index: -1
+effter/skill02_zhezhao
+  rotate: false
+  xy: 594, 410
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+effter/skill_qiangkou1_00000
+  rotate: true
+  xy: 518, 2
+  size: 50, 46
+  orig: 110, 86
+  offset: 51, 19
+  index: -1
+effter/skill_qiangkou1_00001
+  rotate: false
+  xy: 208, 400
+  size: 70, 66
+  orig: 110, 86
+  offset: 24, 9
+  index: -1
+effter/skill_qiangkou1_00002
+  rotate: true
+  xy: 594, 341
+  size: 67, 72
+  orig: 110, 86
+  offset: 17, 7
+  index: -1
+effter/skill_qiangkou1_00003
+  rotate: false
+  xy: 518, 54
+  size: 66, 76
+  orig: 110, 86
+  offset: 9, 6
+  index: -1
+effter/skill_qiangkou1_00004
+  rotate: true
+  xy: 586, 53
+  size: 65, 75
+  orig: 110, 86
+  offset: 8, 5
+  index: -1
+effter/skill_qiangkou1_00005
+  rotate: false
+  xy: 208, 328
+  size: 62, 70
+  orig: 110, 86
+  offset: 8, 7
+  index: -1
+effter/skill_qiangkou1_00006
+  rotate: true
+  xy: 347, 451
+  size: 52, 56
+  orig: 110, 86
+  offset: 13, 12
+  index: -1
+effter/skill_qiangkou1_00007
+  rotate: false
+  xy: 691, 647
+  size: 16, 23
+  orig: 110, 86
+  offset: 20, 26
+  index: -1

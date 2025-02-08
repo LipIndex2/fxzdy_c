@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="639,143">
+  <displayList>
+    <loader id="n87_eowx" name="bg" xy="-3,0" size="639,143" url="ui://6b9eb171c21f16"/>
+    <component id="n70_eowx" name="progressBarForScore" src="eowx7l" fileName="progressBar/components/ProgressBar2.xml" pkg="38fa8c75" xy="162,103" size="454,22">
+      <ProgressBar value="100" max="100"/>
+    </component>
+    <text id="n88_eowx" name="labelTitle" xy="19,82" size="101,36" fontSize="26" color="#c1e8ff" align="center" vAlign="middle" autoSize="none" text="日活跃"/>
+    <text id="n89_eowx" name="labelScore" xy="20,32" size="101,42" font="ui://rdjzh7h2eowx80" fontSize="24" align="center" vAlign="middle" autoSize="none" text="0"/>
+    <component id="n83_eowx" name="scorePercent20" src="eowx38" fileName="dailyTask/TaskRewardWithScoreComponent.xml" xy="171,23"/>
+    <component id="n84_eowx" name="scorePercent40" src="eowx38" fileName="dailyTask/TaskRewardWithScoreComponent.xml" xy="264,23"/>
+    <component id="n86_eowx" name="scorePercent100" src="eowx38" fileName="dailyTask/TaskRewardWithScoreComponent.xml" xy="538,23"/>
+    <component id="n85_eowx" name="scorePercent60" src="eowx38" fileName="dailyTask/TaskRewardWithScoreComponent.xml" xy="355,23"/>
+    <component id="n82_eowx" name="scorePercent80" src="eowx38" fileName="dailyTask/TaskRewardWithScoreComponent.xml" xy="447,23"/>
+  </displayList>
+</component>

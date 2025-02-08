@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="545,128">
+  <controller name="state" pages="0,normal,1,mirror" selected="0"/>
+  <displayList>
+    <text id="n12_ig8t" name="lbTips" xy="177,48" size="182,42" fontSize="30" color="#4368af" vAlign="middle" text="暂无在线玩家"/>
+    <image id="n7_ig8t" name="n7" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="545,128" group="n13_mzvd"/>
+    <text id="n2_ig8t" name="lbName" xy="128,32" size="135,32" group="n13_mzvd" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n5_ig8t" name="lbState" xy="269,34" size="40,26" group="n13_mzvd" fontSize="18" color="#3bdf84" vAlign="middle" strokeColor="#013401" strokeSize="2" text="在线"/>
+    <text id="n6_ig8t" name="lbScore" xy="131,69" size="136,32" group="n13_mzvd" fontSize="22" color="#ffe57c" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="战力：52000"/>
+    <text id="n11_ig8t" name="lbShare" xy="404,44" size="93,42" group="n13_mzvd" fontSize="30" color="#9bbeff" vAlign="middle" text="已分享"/>
+    <component id="n9_ig8t" name="btnShare" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="361,31" size="161,73" group="n13_mzvd">
+      <gearXY controller="state" pages="1" values="361,43" default="361,31"/>
+      <Button title="分享" titleFontSize="30"/>
+    </component>
+    <component id="n10_ig8t" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="10,12" size="104,104" group="n13_mzvd"/>
+    <text id="n15_9zn0" name="lbLeft" xy="351,11" size="173,32" group="n13_mzvd" fontSize="20" color="#93ddff" align="center" vAlign="middle" autoSize="none" strokeColor="#010e16" strokeSize="2" text="剩余次数：1/10">
+      <gearDisplay controller="state" pages="1"/>
+    </text>
+    <group id="n13_mzvd" name="groupInfo" xy="0,0" size="545,128" advanced="true"/>
+  </displayList>
+</component>

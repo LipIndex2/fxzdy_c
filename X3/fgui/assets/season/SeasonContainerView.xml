@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1335">
+  <displayList>
+    <component id="n0_v5mw" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <component id="n1_v5mw" name="footer" src="dusvvvv1fg" fileName="back/BackFooter3.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </component>
+    <list id="n2_v5mw" name="listTab" xy="737,1210" pivot="1,0" anchor="true" size="600,114" layout="row" colGap="20" defaultItem="ui://c8c5d312v5mwvvv1b7" align="right" renderOrder="descent" autoClearItems="true">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

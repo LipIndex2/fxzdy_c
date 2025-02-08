@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="156,68" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n0_t6mg" name="imageNoChoose" src="f0d817" fileName="img/itemTypeTabBg.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_t6mg" name="imageChoose" src="f0d816" fileName="img/itemTypeTabChooseBg.png" xy="0,0" visible="false">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_t6mg" name="laelTitle" xy="77,36" pivot="0.5,0.5" anchor="true" size="56,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" strokeColor="#162241" strokeSize="3" text="全部"/>
+  </displayList>
+  <Button mode="Check"/>
+</component>

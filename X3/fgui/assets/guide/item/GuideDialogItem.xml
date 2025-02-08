@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="716,293">
+  <displayList>
+    <image id="n11_a3e9" name="n11" src="a3e911" fileName="img/lliaotian_frame.png" xy="14,115" size="702,178" group="n25_105pv"/>
+    <image id="n12_a3e9" name="n12" src="a3e910" fileName="img/mingzidi.png" xy="8,111" group="n25_105pv"/>
+    <component id="n26_105pv" name="npcHead" src="ut0gv1h" fileName="com/GuideTalkerCom.xml" xy="82,155" pivot="0.5,1" anchor="true" group="n25_105pv"/>
+    <richtext id="n13_a3e9" name="T_text" xy="125,180" size="484,71" group="n25_105pv" fontSize="24" color="#464343" leading="8" ubb="true" autoSize="none" autoClearText="true" text="哇！！！太厉害了吧，前无古人后无来者来者哇！！！太厉害了吧，"/>
+    <text id="n15_a3e9" name="npcName" xy="157,116" pivot="0,0.5" size="55,36" group="n25_105pv" fontSize="26" color="#ffffff" vAlign="middle" text="雷诺"/>
+    <group id="n25_105pv" name="n25" xy="8,111" size="708,182"/>
+  </displayList>
+</component>

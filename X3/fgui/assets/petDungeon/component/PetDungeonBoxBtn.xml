@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,120" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n18_t1qh" name="icon" xy="55,46" pivot="0.5,0.5" anchor="true" size="132,159" scale="0.8,0.8" url="ui://7q3fcj1kloj0s9f" clearOnPublish="true"/>
+    <text id="n17_bfe7" name="title" xy="54,103" pivot="0.5,0.5" anchor="true" size="75,34" fontSize="24" color="#4cfffd" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="补给箱"/>
+    <component id="n19_t1qh" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="93,27" controller="type,3"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

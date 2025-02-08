@@ -1,0 +1,90 @@
+
+skill01_lower.png
+size: 982,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_dilie_001
+  rotate: false
+  xy: 636, 54
+  size: 187, 93
+  orig: 200, 101
+  offset: 5, 4
+  index: -1
+images/effect/skill01_glo
+  rotate: false
+  xy: 334, 90
+  size: 174, 174
+  orig: 180, 180
+  offset: 3, 3
+  index: -1
+images/effect/skill01_kuosan_00002
+  rotate: false
+  xy: 787, 3
+  size: 174, 71
+  orig: 215, 80
+  offset: 0, 0
+  index: -1
+images/effect/skill01_kuosan_00003
+  rotate: true
+  xy: 510, 34
+  size: 231, 125
+  orig: 250, 130
+  offset: 1, 0
+  index: -1
+images/effect/skill01_kuosan_00004
+  rotate: false
+  xy: 2, 65
+  size: 331, 203
+  orig: 335, 210
+  offset: 4, 0
+  index: -1
+images/effect/skill01_kuosan_00005
+  rotate: false
+  xy: 657, 149
+  size: 323, 189
+  orig: 335, 210
+  offset: 9, 1
+  index: -1
+images/effect/skill01_kuosan_00006
+  rotate: false
+  xy: 427, 459
+  size: 327, 206
+  orig: 335, 210
+  offset: 5, 1
+  index: -1
+images/effect/skill01_kuosan_00008
+  rotate: false
+  xy: 2, 269
+  size: 326, 203
+  orig: 335, 210
+  offset: 4, 3
+  index: -1
+images/effect/skill01_kuosan_00009
+  rotate: false
+  xy: 330, 266
+  size: 325, 191
+  orig: 335, 210
+  offset: 4, 9
+  index: -1
+images/effect/skill01_kuosan_00011
+  rotate: true
+  xy: 756, 340
+  size: 325, 189
+  orig: 335, 210
+  offset: 5, 12
+  index: -1
+images/effect/skill01_kuosan_00013
+  rotate: true
+  xy: 341, 16
+  size: 74, 178
+  orig: 335, 210
+  offset: 38, 19
+  index: -1
+images/effect/skill01_ring_001
+  rotate: false
+  xy: 2, 474
+  size: 423, 191
+  orig: 430, 202
+  offset: 4, 7
+  index: -1

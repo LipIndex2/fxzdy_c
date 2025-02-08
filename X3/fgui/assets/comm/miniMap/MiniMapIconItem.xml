@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="48,48" pivot="0.5,0.5">
+  <displayList>
+    <loader id="n82_dclx" name="itemIcon" xy="24,24" pivot="0.5,0.5" anchor="true" size="48,48" scale="0.75,0.75" url="ui://38fa8c75j6z934" align="center" vAlign="middle" autoSize="true" clearOnPublish="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <loader id="n83_v891" name="arrow" xy="24,9" pivot="0.5,1" anchor="true" size="50,50" scale="0.75,0.75" touchable="false" align="center" vAlign="middle"/>
+    <text id="n84_gtlw" name="lbLv" xy="24,27" pivot="0.5,0" anchor="true" size="10,29" fontSize="20" color="#ffffff" align="center" strokeColor="#000000" strokeSize="2" text="">
+      <relation target="n82_dclx" sidePair="top-bottom"/>
+    </text>
+  </displayList>
+</component>

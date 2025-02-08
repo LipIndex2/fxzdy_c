@@ -1,0 +1,111 @@
+
+bosaidong_zhaohuanwu.png
+size: 195,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js025
+  rotate: 270
+  xy: 51, 27
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+js027
+  rotate: true
+  xy: 63, 3
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+js028
+  rotate: false
+  xy: 2, 26
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+shuiqiuzidan_01
+  rotate: false
+  xy: 111, 13
+  size: 26, 16
+  orig: 38, 19
+  offset: 10, 2
+  index: -1
+shuiqiuzidan_02
+  rotate: false
+  xy: 76, 13
+  size: 33, 16
+  orig: 38, 19
+  offset: 3, 2
+  index: -1
+shuiqiuzidan_03
+  rotate: true
+  xy: 156, 31
+  size: 36, 15
+  orig: 38, 19
+  offset: 0, 2
+  index: -1
+shuiqiuzidan_04
+  rotate: true
+  xy: 84, 31
+  size: 36, 16
+  orig: 38, 19
+  offset: 0, 2
+  index: -1
+shuiqiuzidan_05
+  rotate: true
+  xy: 102, 31
+  size: 36, 16
+  orig: 38, 19
+  offset: 0, 2
+  index: -1
+shuiqiuzidan_06
+  rotate: true
+  xy: 173, 31
+  size: 36, 15
+  orig: 38, 19
+  offset: 0, 2
+  index: -1
+shuiqiuzidan_07
+  rotate: true
+  xy: 120, 31
+  size: 36, 16
+  orig: 38, 19
+  offset: 0, 2
+  index: -1
+shuiqiuzidan_08
+  rotate: true
+  xy: 138, 31
+  size: 36, 16
+  orig: 38, 19
+  offset: 0, 2
+  index: -1
+shuiqiuzidan_09
+  rotate: false
+  xy: 166, 14
+  size: 26, 15
+  orig: 38, 19
+  offset: 10, 2
+  index: -1
+shuiqiuzidan_10
+  rotate: false
+  xy: 139, 13
+  size: 25, 16
+  orig: 38, 19
+  offset: 11, 2
+  index: -1
+shuiqiuzidan_11
+  rotate: false
+  xy: 34, 10
+  size: 25, 15
+  orig: 38, 19
+  offset: 10, 2
+  index: -1
+shuiqiuzidan_12
+  rotate: false
+  xy: 2, 9
+  size: 24, 15
+  orig: 38, 19
+  offset: 11, 2
+  index: -1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="632,72">
+  <displayList>
+    <image id="n18_fdf1" name="bg" src="j6z92h" fileName="bgImage/pmd_msg.png" pkg="38fa8c75" xy="0,0" size="632,72" alpha="0.1"/>
+    <loader id="n31_gtlw" name="iconLoader" xy="18,12" size="50,50" align="center" vAlign="middle" fill="scale"/>
+    <component id="n32_gtlw" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="194,-15" scale="0.6,0.6"/>
+    <text id="n22_fdf1" name="lbLeague" xy="543,38" pivot="0.5,0.5" anchor="true" size="113,32" fontSize="22" color="#ff5555" vAlign="middle" text="星际村委会"/>
+    <text id="n29_fdf1" name="lbBuilding" xy="69,21" size="137,34" fontSize="24" color="#2eaeff" vAlign="middle" underline="true" text="9级巨型工厂"/>
+    <text id="n30_fdf1" name="lbPlayer" xy="294,21" size="147,34" fontSize="24" color="#2eaeff" vAlign="middle" text="星际超级工厂"/>
+    <component id="n33_woyg" name="btnGoto" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="69,8" size="137,59">
+      <relation target="n29_fdf1" sidePair="width-width"/>
+    </component>
+  </displayList>
+</component>

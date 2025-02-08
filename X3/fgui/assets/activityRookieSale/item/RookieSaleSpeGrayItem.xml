@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="354,625">
+  <displayList>
+    <image id="n55_ssxx" name="n55" src="ssxx2i" fileName="img/sd_A_common_liaotian_frame.png" xy="0,0" size="354,625" group="n58_ssxx" alpha="0.5">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n57_ssxx" name="n57" src="ssxx2k" fileName="img/sq_tag.png" xy="177,313" pivot="0.5,0.5" anchor="true" size="102,51" group="n58_ssxx"/>
+    <group id="n58_ssxx" name="img_gray" xy="0,0" size="354,625" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

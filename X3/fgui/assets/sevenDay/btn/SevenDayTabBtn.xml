@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="101,112" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n56_hcpc" name="imgLogoNoChoose" xy="7,-1" size="86,97" url="ui://5d5abdd8hcpc1i">
+      <gearDisplay controller="button" pages="0"/>
+    </loader>
+    <text id="n54_6950" name="labelNoChoose" xy="0,79" pivot="0.5,0.5" size="99,32" fontSize="22" color="#98a9f5" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="七天登录">
+      <gearDisplay controller="button" pages="0"/>
+    </text>
+    <loader id="n55_hcpc" name="imgLogoChoose" xy="7,-1" size="86,97" url="ui://5d5abdd8hcpc1j">
+      <gearDisplay controller="button" pages="1"/>
+    </loader>
+    <text id="n51_6950" name="labelChoose" xy="-1,80" pivot="0.5,0.5" size="103,32" fontSize="22" color="#ffed77" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" singleLine="true" text="七日任务">
+      <gearDisplay controller="button" pages="1"/>
+    </text>
+  </displayList>
+  <Button mode="Radio" downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n104_uug0" name="viewContainer" src="jmeivvv18o" fileName="ViewContainer/ViewContainer.xml" pkg="38fa8c75" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <list id="n97_matv" name="btnList" xy="146,1178" pivot="1,0" size="600,156" group="n106_uug0" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://607146c5matv4o" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n102_wfol" name="closeBtn" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215" group="n106_uug0"/>
+    <group id="n106_uug0" name="bottom" xy="0,1178" size="746,156" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

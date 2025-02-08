@@ -1,0 +1,251 @@
+
+pskill01_upper.png
+size: 744,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pskill01_hit1_0
+  rotate: false
+  xy: 674, 125
+  size: 65, 48
+  orig: 150, 160
+  offset: 40, 1
+  index: -1
+effect/pskill01_hit1_1
+  rotate: false
+  xy: 360, 383
+  size: 93, 99
+  orig: 150, 160
+  offset: 27, 3
+  index: -1
+effect/pskill01_hit1_2
+  rotate: false
+  xy: 345, 484
+  size: 115, 141
+  orig: 150, 160
+  offset: 15, 5
+  index: -1
+effect/pskill01_hit1_3
+  rotate: false
+  xy: 219, 487
+  size: 124, 138
+  orig: 150, 160
+  offset: 10, 14
+  index: -1
+effect/pskill01_hit1_4
+  rotate: false
+  xy: 462, 375
+  size: 128, 116
+  orig: 150, 160
+  offset: 8, 39
+  index: -1
+effect/pskill01_jiese_ADD_0
+  rotate: true
+  xy: 462, 493
+  size: 132, 116
+  orig: 150, 150
+  offset: 11, 15
+  index: -1
+effect/pskill01_jiese_ADD_1
+  rotate: true
+  xy: 580, 493
+  size: 132, 114
+  orig: 150, 150
+  offset: 9, 16
+  index: -1
+effect/pskill01_jiese_ADD_2
+  rotate: false
+  xy: 592, 379
+  size: 132, 112
+  orig: 150, 150
+  offset: 8, 16
+  index: -1
+effect/pskill01_xishou2_50_0
+  rotate: false
+  xy: 135, 83
+  size: 107, 83
+  orig: 120, 140
+  offset: 5, 56
+  index: -1
+effect/pskill01_xishou2_50_1
+  rotate: false
+  xy: 2, 4
+  size: 106, 81
+  orig: 120, 140
+  offset: 6, 54
+  index: -1
+effect/pskill01_xishou2_50_10
+  rotate: false
+  xy: 139, 387
+  size: 54, 11
+  orig: 120, 140
+  offset: 35, 0
+  index: -1
+effect/pskill01_xishou2_50_2
+  rotate: false
+  xy: 110, 2
+  size: 106, 79
+  orig: 120, 140
+  offset: 6, 51
+  index: -1
+effect/pskill01_xishou2_50_3
+  rotate: false
+  xy: 403, 9
+  size: 108, 68
+  orig: 120, 140
+  offset: 7, 49
+  index: -1
+effect/pskill01_xishou2_50_4
+  rotate: false
+  xy: 513, 14
+  size: 107, 62
+  orig: 120, 140
+  offset: 7, 44
+  index: -1
+effect/pskill01_xishou2_50_5
+  rotate: false
+  xy: 218, 12
+  size: 104, 59
+  orig: 120, 140
+  offset: 9, 44
+  index: -1
+effect/pskill01_xishou2_50_6
+  rotate: false
+  xy: 622, 12
+  size: 101, 64
+  orig: 120, 140
+  offset: 11, 33
+  index: -1
+effect/pskill01_xishou2_50_7
+  rotate: false
+  xy: 324, 3
+  size: 75, 68
+  orig: 120, 140
+  offset: 19, 0
+  index: -1
+effect/pskill01_xishou2_50_8
+  rotate: false
+  xy: 684, 228
+  size: 58, 46
+  orig: 120, 140
+  offset: 30, 0
+  index: -1
+effect/pskill01_xishou2_50_9
+  rotate: true
+  xy: 696, 574
+  size: 51, 20
+  orig: 120, 140
+  offset: 36, 0
+  index: -1
+effect/pskill01_xishou_add_0
+  rotate: true
+  xy: 276, 273
+  size: 101, 134
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_1
+  rotate: true
+  xy: 592, 276
+  size: 101, 135
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_10
+  rotate: true
+  xy: 401, 171
+  size: 99, 132
+  orig: 120, 150
+  offset: 13, 7
+  index: -1
+effect/pskill01_xishou_add_11
+  rotate: true
+  xy: 268, 73
+  size: 96, 133
+  orig: 120, 150
+  offset: 14, 5
+  index: -1
+effect/pskill01_xishou_add_12
+  rotate: true
+  xy: 2, 188
+  size: 99, 134
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_13
+  rotate: true
+  xy: 412, 272
+  size: 101, 134
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_14
+  rotate: true
+  xy: 139, 273
+  size: 101, 135
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_2
+  rotate: true
+  xy: 2, 289
+  size: 109, 135
+  orig: 120, 150
+  offset: 10, 5
+  index: -1
+effect/pskill01_xishou_add_3
+  rotate: true
+  xy: 219, 376
+  size: 106, 139
+  orig: 120, 150
+  offset: 14, 1
+  index: -1
+effect/pskill01_xishou_add_4
+  rotate: true
+  xy: 535, 78
+  size: 95, 137
+  orig: 120, 150
+  offset: 20, 1
+  index: -1
+effect/pskill01_xishou_add_5
+  rotate: true
+  xy: 548, 175
+  size: 99, 134
+  orig: 120, 150
+  offset: 12, 2
+  index: -1
+effect/pskill01_xishou_add_6
+  rotate: true
+  xy: 268, 171
+  size: 100, 131
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_7
+  rotate: true
+  xy: 2, 87
+  size: 99, 131
+  orig: 120, 150
+  offset: 11, 5
+  index: -1
+effect/pskill01_xishou_add_8
+  rotate: true
+  xy: 138, 168
+  size: 103, 128
+  orig: 120, 150
+  offset: 5, 6
+  index: -1
+effect/pskill01_xishou_add_9
+  rotate: true
+  xy: 403, 79
+  size: 90, 126
+  orig: 120, 150
+  offset: 12, 7
+  index: -1
+effect/pskill01_xishou_one
+  rotate: false
+  xy: 2, 400
+  size: 215, 225
+  orig: 260, 260
+  offset: 23, 8
+  index: -1

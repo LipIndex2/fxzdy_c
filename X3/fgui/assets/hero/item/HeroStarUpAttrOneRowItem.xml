@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="518,49">
+  <controller name="isOdd" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n2_0f7d" name="bg" src="tml513g" fileName="bgImage/biaoti1_msg.png" pkg="38fa8c75" xy="0,0" size="518,49" group="n30_6ihg" color="#1d1f2b">
+      <gearColor controller="isOdd" pages="0,1" values="#2d313d|#1d1f2b"/>
+    </image>
+    <text id="n9_0f7d" name="T_name" xy="14,7" size="120,36" group="n30_6ihg" fontSize="26" color="#ffe792" vAlign="middle" singleLine="true" text="等级上限  "/>
+    <text id="n8_0f7d" name="T_num" xy="130,7" size="119,36" group="n30_6ihg" fontSize="26" color="#d5d7d7" vAlign="middle" autoSize="none" singleLine="true" text="60                      "/>
+    <text id="n7_0f7d" name="T_nextNum" xy="374,7" size="123,36" group="n30_6ihg" fontSize="26" color="#2ce728" vAlign="middle" autoSize="none" singleLine="true" text="50464"/>
+    <image id="n29_6ihg" name="jiantou" src="105pvv181" fileName="btnImage/jiantou3_btn.png" pkg="38fa8c75" xy="255,15" group="n30_6ihg"/>
+    <group id="n30_6ihg" name="n30" xy="0,0" size="518,49" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

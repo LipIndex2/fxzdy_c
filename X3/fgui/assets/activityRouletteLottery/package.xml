@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packageDescription id="150a05df">
+  <resources>
+    <image id="52f52" name="zhuanpanxuanzhong.png" path="/img/"/>
+    <image id="52f53" name="dajiang_7.png" path="/img/"/>
+    <image id="52f54" name="cjzhd_xuanzhong.png" path="/img/"/>
+    <image id="52f55" name="cjzhd_djd2.png" path="/img/"/>
+    <image id="52f56" name="cjzhd_djd.png" path="/img/"/>
+    <image id="52f57" name="zhuanpan2.png" path="/img/"/>
+    <image id="52f511" name="daojutubiao.png" path="/img/"/>
+    <image id="52f512" name="zhezhao.png" path="/img/"/>
+    <image id="52f513" name="cjzhd_ylw.png" path="/img/"/>
+    <image id="52f514" name="bazi.png" path="/img/"/>
+    <image id="52f515" name="yinying.png" path="/img/"/>
+    <image id="52f516" name="scale_90%js00.png" path="/img/"/>
+    <image id="52f520" name="wnzidi_frame.png" path="/img/" scale="9grid" scale9grid="23,10,6,20"/>
+    <image id="52f523" name="cjzhd_dj.png" path="/img/"/>
+    <image id="52f524" name="cjzhd_lsd.png" path="/img/"/>
+    <image id="52f531" name="cjzhd_btd.png" path="/img/"/>
+    <image id="ko8138" name="touxiang_frame.png" path="/img/"/>
+    <component id="52f533" name="RouletteLotteryMainView.xml" path="/"/>
+    <component id="ko8134" name="RoulettePage.xml" path="/"/>
+    <component id="ko8135" name="RouletteAwardItem.xml" path="/item/"/>
+    <component id="ko8136" name="DrawSkipAnimItem.xml" path="/item/"/>
+    <component id="ko8137" name="RouletteLotteryChooseBigRewardWin.xml" path="/"/>
+    <component id="ko813a" name="ChooseAwardItem.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

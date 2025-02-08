@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="240,48">
+  <displayList>
+    <loader id="n18_gtlw" name="iconLoader" xy="24,24" pivot="0.5,0.5" anchor="true" size="48,48" align="center" vAlign="middle" fill="scale"/>
+    <text id="n16_fdf1" name="lbValue" xy="51,24" pivot="0,0.5" anchor="true" size="92,34" fontSize="24" color="#f2f6fe" vAlign="middle" text="0.02/时"/>
+    <text id="n19_woyg" name="lbAddition" xy="143,24" pivot="0,0.5" anchor="true" size="67,34" fontSize="24" color="#1de756" vAlign="middle" text="+30%">
+      <relation target="n16_fdf1" sidePair="left-right"/>
+    </text>
+  </displayList>
+</component>

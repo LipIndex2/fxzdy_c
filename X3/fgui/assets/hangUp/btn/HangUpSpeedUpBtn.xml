@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="262,101" pivot="0.5,0.5" extention="Button">
+  <controller name="freeFlag" exported="true" pages="0,false,1,true" selected="1"/>
+  <displayList>
+    <loader id="n193_8a38" name="bg" xy="0,0" size="262,101" url="ui://38fa8c7568b516" fill="scaleFree"/>
+    <text id="n197_8a38" name="labelFree" xy="3,4" size="253,42" fontSize="30" color="#ffffff" align="center" autoSize="none" strokeColor="#000b0f" strokeSize="3" singleLine="true" text="免费">
+      <gearDisplay controller="freeFlag" pages="1"/>
+    </text>
+    <text id="n194_8a38" name="labelSpeedUpCount" xy="13,44" size="240,50" fontSize="37" color="#effbff" ubb="true" vars="true" autoSize="none" strokeColor="#011d25" strokeSize="3" singleLine="true" text="快速挂机({currentCount=3}/{maxCount=3})"/>
+    <loader id="n198_wwsz" name="imageCost" xy="109,23" pivot="0.5,0.5" anchor="true" size="48,48" group="n201_wwsz" url="ui://7q3fcj1kt6mg9" fill="scaleFree" clearOnPublish="true">
+      <gearDisplay controller="freeFlag" pages="0"/>
+    </loader>
+    <text id="n200_wwsz" name="labelCost" xy="137,3" size="94,42" group="n201_wwsz" fontSize="30" color="#ffffff" vAlign="middle" ubb="true" autoSize="none" strokeColor="#000b0f" strokeSize="3" singleLine="true" text="0">
+      <gearDisplay controller="freeFlag" pages="0"/>
+    </text>
+    <group id="n201_wwsz" name="n201" xy="85,-1" size="146,48"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

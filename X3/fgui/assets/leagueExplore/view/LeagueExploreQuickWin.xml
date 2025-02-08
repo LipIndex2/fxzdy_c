@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n20_gtlw" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="32,326" size="682,551" group="n19_gtlw"/>
+    <image id="n1_fdf1" name="n1" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="32,326" size="682,551" group="n19_gtlw"/>
+    <image id="n2_fdf1" name="n2" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="54,417" size="639,436" group="n19_gtlw"/>
+    <list id="n18_gtlw" name="list" xy="70,488" size="605,351" group="n19_gtlw" layout="row" overflow="scroll" scroll="horizontal" scrollBarFlags="128" colGap="13" defaultItem="ui://78d1ed1agtlw12g" autoClearItems="true">
+      <item/>
+      <item/>
+    </list>
+    <text id="n3_fdf1" name="n3" xy="376,458" pivot="0.5,0.5" anchor="true" size="399,30" group="n19_gtlw" fontSize="21" color="#97eafc" align="center" vAlign="middle" text="使用钻头获得当前占领建筑对应的矿产收益"/>
+    <text id="n4_fdf1" name="n4" xy="370,374" pivot="0.5,0.5" anchor="true" size="131,44" group="n19_gtlw" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="快速采矿"/>
+    <group id="n19_gtlw" name="gAll" xy="32,326" size="682,551" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n21_woyg" name="n21" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,880">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

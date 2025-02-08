@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n34_ni07" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="31,161" size="682,1014" group="n31_cjsd"/>
+    <image id="n2_03e4" name="n2" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="31,161" size="682,1014" group="n31_cjsd"/>
+    <image id="n3_03e4" name="n3" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="53,248" size="638,904" group="n31_cjsd"/>
+    <component id="n35_lupe" name="n35" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1187" group="n31_cjsd"/>
+    <list id="n30_cjsd" name="list" xy="65,274" size="620,860" group="n31_cjsd" layout="flow_hz" overflow="scroll" lineGap="20" lineItemCount="5" defaultItem="ui://cbfa4e0ccjsd9c" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n12_03e4" name="lbTitle" xy="305,188" size="131,44" group="n31_cjsd" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="我的武器"/>
+    <richtext id="n33_cjsd" name="lbNone" xy="375,640" pivot="0.5,0.5" anchor="true" size="123,42" group="n31_cjsd" fontSize="30" color="#ddfbff" align="center" vAlign="middle" ubb="true" text="暂无武器"/>
+    <group id="n31_cjsd" name="n31" xy="31,161" size="682,1116" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

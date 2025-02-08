@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="710,149" designImage="ui://7q3fcj1ktl0c6h" designImageOffsetX="-28" designImageOffsetY="-695">
+  <controller name="taskState" exported="true" pages="3,notStart,0,notFinish,1,complete,2,finish" selected="0"/>
+  <displayList>
+    <image id="n6_ed86" name="bg" src="gkgvvvv19t" fileName="bg/lb8_frame.png" pkg="38fa8c75" xy="0,0" size="709,149" group="n26_na34"/>
+    <component id="n24_tl0c" name="item1" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="15,23" size="99,104" group="n26_na34"/>
+    <component id="n25_tl0c" name="item2" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="132,23" size="99,104" group="n26_na34"/>
+    <text id="n11_ed86" name="labelTitle" xy="252,29" size="221,39" group="n26_na34" fontSize="28" color="#8fe1ff" strokeColor="#000000" strokeSize="2" text="完成挂机关卡150"/>
+    <text id="n14_ed86" name="labelCount" xy="252,64" size="248,32" group="n26_na34" fontSize="22" color="#ffffff" autoSize="none" strokeColor="#000000" strokeSize="2" text="10/10"/>
+    <component id="n18_tl0c" name="barPercent" src="tl0c46" fileName="bar/GrowthPathBarKppy.xml" xy="255,98" size="214,23" group="n26_na34">
+      <ProgressBar value="61" max="100"/>
+    </component>
+    <component id="n20_tl0c" name="btnGo" src="tl0c48" fileName="btn/GrowthPathTaskGoButton.xml" xy="540,43" size="133,60" group="n22_tl0c">
+      <gearDisplay controller="taskState" pages="3,0"/>
+    </component>
+    <component id="n15_ed86" name="btnGain" src="tl0c47" fileName="btn/GrowthPathGainButton.xml" xy="542,44" size="129,61" group="n22_tl0c">
+      <gearDisplay controller="taskState" pages="1"/>
+    </component>
+    <image id="n23_tl0c" name="n23" src="ed8616" fileName="img/sd_A_common_lbmb_frame.png" xy="3,0" size="704,148" group="n22_tl0c" alpha="0.4">
+      <gearDisplay controller="taskState" pages="2"/>
+    </image>
+    <image id="n21_tl0c" name="n21" src="8qld1z" fileName="bgImage/gou_icon.png" pkg="38fa8c75" xy="583,51" size="53,46" group="n22_tl0c">
+      <gearDisplay controller="taskState" pages="2"/>
+    </image>
+    <group id="n22_tl0c" name="G_state" xy="3,0" size="704,148" group="n26_na34"/>
+    <group id="n26_na34" name="n26" xy="0,0" size="709,149"/>
+    <component id="n27_ohdt" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="658,50"/>
+  </displayList>
+</component>

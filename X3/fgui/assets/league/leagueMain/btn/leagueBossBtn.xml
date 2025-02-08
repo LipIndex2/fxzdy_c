@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="346,159" pivot="0.5,0.5" extention="Button">
+  <controller name="lock" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n17_h90v" name="n17" src="894b18" fileName="leagueMain/img/hui.png" xy="0,0">
+      <gearDisplay controller="lock" pages="1"/>
+    </image>
+    <image id="n12_894b" name="n12" src="894b17" fileName="leagueMain/img/lan.png" xy="0,0">
+      <gearDisplay controller="lock" pages="0"/>
+    </image>
+    <text id="n14_894b" name="title" xy="163,38" size="150,44" fontSize="32" color="#ffffff" strokeColor="#000000" strokeSize="3" text="联盟BOSS"/>
+    <text id="n18_h90v" name="lockTips" xy="168,98" size="83,29" fontSize="20" color="#ddebff" strokeColor="#000000" strokeSize="2" text="暂未开启">
+      <gearDisplay controller="lock" pages="1"/>
+    </text>
+    <text id="n19_h90v" name="tips" xy="163,96" size="92,29" group="n21_h90v" fontSize="20" color="#83ff9a" strokeColor="#000000" strokeSize="2" text="当前挑战:"/>
+    <group id="n21_h90v" name="n21" xy="163,96" size="92,29" advanced="true">
+      <gearDisplay controller="lock" pages="0"/>
+    </group>
+    <loader id="n23_qr2a" name="n23" xy="65,55" pivot="0.5,0.5" anchor="true" size="244,335" scale="0.6,0.6" url="ui://6be81224qr2a11k" align="center" vAlign="middle" fill="scale" autoSize="true"/>
+    <component id="n24_uazn" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="330,36"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".98"/>
+</component>

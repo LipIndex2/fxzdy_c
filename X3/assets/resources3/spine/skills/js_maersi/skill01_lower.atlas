@@ -1,0 +1,104 @@
+
+skill01_lower.png
+size: 677,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_lower_1
+  rotate: false
+  xy: 2, 200
+  size: 348, 199
+  orig: 350, 222
+  offset: 2, 0
+  index: -1
+images/effect/skill01_lower_banqiu
+  rotate: 270
+  xy: 347, 203
+  size: 195, 102
+  orig: 195, 150
+  offset: 0, 48
+  index: -1
+images/effect/skill01_lower_tubiao
+  rotate: true
+  xy: 2, 119
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+images/effect/skill01_lowerring_00012
+  rotate: false
+  xy: 552, 21
+  size: 113, 88
+  orig: 175, 125
+  offset: 29, 18
+  index: -1
+images/effect/skill01_lowerring_00013
+  rotate: false
+  xy: 2, 3
+  size: 146, 104
+  orig: 175, 125
+  offset: 14, 8
+  index: -1
+images/effect/skill01_lowerring_00015
+  rotate: true
+  xy: 567, 223
+  size: 175, 107
+  orig: 175, 125
+  offset: 0, 3
+  index: -1
+images/effect/skill01_lowerring_00017
+  rotate: true
+  xy: 450, 225
+  size: 173, 117
+  orig: 175, 125
+  offset: 2, 2
+  index: -1
+images/effect/skill01_lowerring_00018
+  rotate: false
+  xy: 481, 116
+  size: 169, 112
+  orig: 175, 125
+  offset: 2, 2
+  index: -1
+images/effect/skill01_lowerring_00020
+  rotate: false
+  xy: 242, 98
+  size: 167, 112
+  orig: 175, 125
+  offset: 6, 4
+  index: -1
+images/effect/skill01_lowerring_00022
+  rotate: false
+  xy: 384, 24
+  size: 167, 106
+  orig: 175, 125
+  offset: 5, 5
+  index: -1
+images/effect/skill01_lowerring_00025
+  rotate: 180
+  xy: 74, 93
+  size: 169, 107
+  orig: 175, 125
+  offset: 2, 5
+  index: -1
+images/effect/skill01_lowerring_00026_1
+  rotate: false
+  xy: 172, 4
+  size: 163, 101
+  orig: 175, 125
+  offset: 7, 9
+  index: -1
+images/effect/skill01_lowershandian_00026
+  rotate: false
+  xy: 2, 377
+  size: 21, 11
+  orig: 175, 125
+  offset: 38, 91
+  index: -1
+images/effect/skill01_lowershandian_00027
+  rotate: false
+  xy: 2, 388
+  size: 21, 12
+  orig: 175, 125
+  offset: 37, 91
+  index: -1

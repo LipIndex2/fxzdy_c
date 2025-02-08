@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n82_8090" name="bg" src="r8pu171" fileName="img/jiangliyu_di.png" xy="-95,0" size="858,1335" group="n114_i4ei"/>
+    <list id="n112_r8pu" name="roadList" xy="15,197" size="716,1071" group="n114_i4ei" overflow="scroll" scrollBarFlags="128" defaultItem="ui://556f0e8br8pu17o" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n111_r8pu" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="-10,1221" size="135,119" group="n114_i4ei"/>
+    <text id="n113_hqyb" name="n113" xy="198,82" pivot="0.5,0.5" size="400,66" group="n114_i4ei" fontSize="50" color="#f9f282" align="center" vAlign="middle" strokeColor="#04277d" strokeSize="4" singleLine="true" text="挂机关卡奖励预览"/>
+    <group id="n114_i4ei" name="n114" xy="-95,0" size="858,1340" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="185,52" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n49_be41" name="n49" src="be4117" fileName="img/sdhb_frame_3.png" xy="0,0" group="n83_matv" alpha="0.7"/>
+    <text id="n50_be41" name="costNum" xy="104,8" pivot="0.5,0" size="10,44" group="n83_matv" fontSize="32" color="#fefefe" text="">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <loader id="n84_uug0" name="costIcon" xy="18,0" size="42,42" group="n83_matv" align="right" fill="scaleNoBorder"/>
+    <group id="n83_matv" name="cost1" xy="0,0" size="185,52"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

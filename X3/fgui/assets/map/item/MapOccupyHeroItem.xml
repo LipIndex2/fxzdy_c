@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <controller name="state" pages="1,,2,,3,,16," selected="0">
+    <remark page="0" value="我方"/>
+    <remark page="1" value="敌方"/>
+    <remark page="2" value="我自己"/>
+    <remark page="3" value="无人"/>
+  </controller>
+  <displayList>
+    <image id="n20_woyg" name="light2" src="woygvwd" fileName="img/light2.png" xy="0,-15" pivot="0.5,0.5" anchor="true"/>
+    <image id="n19_woyg" name="light1" src="woygvwc" fileName="img/light1.png" xy="0,-15" pivot="0.5,0.5" anchor="true"/>
+    <component id="n13_8g0d" name="spineHero" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="0,0" pivot="0.5,1" anchor="true">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </component>
+    <image id="n14_8g0d" name="n14" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="0,43" pivot="0.5,0.5" anchor="true" size="149,26" group="n16_8g0d"/>
+    <text id="n15_8g0d" name="lbName" xy="1,43" pivot="0.5,0.5" anchor="true" size="10,26" group="n16_8g0d" fontSize="18" color="#2eaeff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="">
+      <gearColor controller="state" pages="2,3" values="#f65a5c,#000000|#1de756,#000000" default="#2eaeff,#000000"/>
+    </text>
+    <group id="n16_8g0d" name="n16" xy="-74,30" size="149,26" advanced="true">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </group>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n19_woyg" tween="true" startValue="1" endValue="0" duration="18"/>
+    <item time="18" type="Alpha" target="n19_woyg" tween="true" startValue="0" endValue="1" duration="18"/>
+  </transition>
+</component>

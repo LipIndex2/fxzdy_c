@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="71,72" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n102_uk3p" name="n102" src="eab512" fileName="img/scale_60%_baoxiangguan_4.png" xy="0,0"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

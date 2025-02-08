@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,80" pivot="0.5,0.5" extention="Button">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="暂停"/>
+    <remark page="1" value="继续"/>
+  </controller>
+  <displayList>
+    <image id="n2_1794" name="n2" src="179416" fileName="img/zanting.png" xy="9,7">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <image id="n3_gs9k" name="n3" src="gs9k8h" fileName="img/jixu.png" xy="9,7">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

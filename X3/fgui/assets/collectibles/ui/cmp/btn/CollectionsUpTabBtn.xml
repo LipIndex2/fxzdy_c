@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,65" extention="Button">
+  <controller name="button" exported="true" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <loader id="n108_a01c" name="n108" xy="0,0" size="160,65" url="ui://tkr2g69tlupey" clearOnPublish="true">
+      <gearIcon controller="button" pages="2" values="ui://tkr2g69tlupey" default="ui://tkr2g69tlupez"/>
+    </loader>
+    <text id="n110_a01c" name="title" xy="44,10" size="67,44" fontSize="32" color="#7f899a" vAlign="middle" strokeColor="#252e42" strokeSize="3" autoClearText="true" text="升星">
+      <gearColor controller="button" pages="2" values="#7f899a,#252e42" default="#ffffff,#355990"/>
+    </text>
+    <component id="n111_p9b4" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="148,8" controller="type,2"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

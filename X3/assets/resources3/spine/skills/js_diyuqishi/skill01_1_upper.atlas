@@ -1,0 +1,153 @@
+
+skill01_1_upper.png
+size: 169,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill01_kulou
+  rotate: false
+  xy: 128, 110
+  size: 37, 39
+  orig: 40, 40
+  offset: 2, 0
+  index: -1
+effect/skill01_kulou2_00000
+  rotate: false
+  xy: 86, 100
+  size: 40, 47
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00001
+  rotate: false
+  xy: 86, 100
+  size: 40, 47
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00002
+  rotate: false
+  xy: 85, 249
+  size: 40, 49
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00003
+  rotate: false
+  xy: 44, 87
+  size: 40, 50
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00004
+  rotate: false
+  xy: 44, 192
+  size: 40, 51
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00005
+  rotate: false
+  xy: 44, 139
+  size: 40, 51
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00006
+  rotate: false
+  xy: 44, 35
+  size: 40, 50
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00007
+  rotate: false
+  xy: 2, 26
+  size: 40, 52
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00008
+  rotate: false
+  xy: 2, 245
+  size: 40, 53
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00009
+  rotate: false
+  xy: 2, 190
+  size: 40, 53
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00010
+  rotate: false
+  xy: 2, 135
+  size: 40, 53
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00011
+  rotate: false
+  xy: 2, 80
+  size: 40, 53
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00012
+  rotate: false
+  xy: 44, 245
+  size: 39, 53
+  orig: 40, 56
+  offset: 1, 0
+  index: -1
+effect/skill01_kulou2_00013
+  rotate: false
+  xy: 128, 151
+  size: 37, 48
+  orig: 40, 56
+  offset: 3, 0
+  index: -1
+effect/skill01_kulou2_00014
+  rotate: false
+  xy: 128, 201
+  size: 39, 47
+  orig: 40, 56
+  offset: 1, 0
+  index: -1
+effect/skill01_kulou2_00015
+  rotate: false
+  xy: 127, 250
+  size: 39, 48
+  orig: 40, 56
+  offset: 1, 0
+  index: -1
+effect/skill01_kulou2_00016
+  rotate: false
+  xy: 86, 199
+  size: 40, 48
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00017
+  rotate: false
+  xy: 86, 149
+  size: 40, 48
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00018
+  rotate: false
+  xy: 86, 51
+  size: 40, 47
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+effect/skill01_kulou2_00019
+  rotate: false
+  xy: 86, 2
+  size: 40, 47
+  orig: 40, 56
+  offset: 0, 0
+  index: -1

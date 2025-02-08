@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="179,267" extention="Button">
+  <controller name="state" pages="0,,1," selected="0">
+    <remark page="0" value="正常"/>
+    <remark page="1" value="击败"/>
+  </controller>
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <image id="n1_bc8b" name="n1" src="bc8b49" fileName="img/zu13058.png" xy="0,10"/>
+    <component id="n2_bc8b" name="bossSpineNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="15,102" pivot="0.5,0.5" size="128,162"/>
+    <loader id="n26_zzft" name="career" xy="108,22" size="50,50" url="ui://78157e75bc8b57" fill="scaleFree"/>
+    <component id="n14_bc8b" name="hpBar" src="zzft89" fileName="component/bossCellHpBar.xml" xy="9,217">
+      <gearDisplay controller="state" pages="0"/>
+      <ProgressBar value="10" max="100"/>
+    </component>
+    <image id="n20_bc8b" name="n20" src="bc8b63" fileName="img/sd_A_common_xz__frame_20.png" xy="-9,0" group="n22_zzft"/>
+    <image id="n21_bc8b" name="n21" src="bc8b64" fileName="img/sd_A_common_xz__frame.png" xy="-9,220" group="n22_zzft"/>
+    <group id="n22_zzft" name="n22" xy="-9,0" size="187,273" advanced="true">
+      <gearDisplay controller="button" pages="3"/>
+    </group>
+    <image id="n3_bc8b" name="n3" src="bc8b51" fileName="img/sd_A_common_jt_icon_24.png" xy="133,18" scale="0.8,0.8"/>
+    <component id="n25_zzft" name="playerAvatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="-19,179" group="n23_zzft" scale="0.5,0.5"/>
+    <text id="n6_bc8b" name="playerName" xy="59,221" size="104,26" group="n23_zzft" fontSize="18" color="#ffffff" autoSize="shrink" strokeColor="#0f1748" strokeSize="3" text="玩家名字名"/>
+    <text id="n7_bc8b" name="n7" xy="4,179" size="75,26" group="n23_zzft" fontSize="18" color="#ff5050" strokeColor="#0a0a0a" strokeSize="3" text="最高伤害"/>
+    <image id="n18_bc8b" name="n18" src="bc8b61" fileName="img/sd_A_common_liaotian_frame.png" xy="2,10" group="n23_zzft" alpha="0.5"/>
+    <image id="n19_bc8b" name="n19" src="bc8b62" fileName="img/scale_80%_sd_A_common_yjb_tag.png" xy="30,97" group="n23_zzft"/>
+    <group id="n23_zzft" name="n23" xy="-19,10" size="187,273" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+  </displayList>
+  <Button mode="Radio"/>
+  <transition name="t0">
+    <item time="0" type="Visible" value="true"/>
+    <item time="0" type="XY" tween="true" startValue="0,270" endValue="0,0" duration="8"/>
+  </transition>
+</component>

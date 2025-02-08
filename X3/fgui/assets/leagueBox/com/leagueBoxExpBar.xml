@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="485,29" extention="ProgressBar">
+  <displayList>
+    <image id="n5_583b" name="n5" src="583b41" fileName="img/sd_A_common_kppydi_blood_19.png" xy="0,1"/>
+    <image id="n6_583b" name="bar" src="583b42" fileName="img/sd_A_common_kppy_blood_18.png" xy="3,4" size="480,17"/>
+    <text id="n7_583b" name="title" xy="175,-2" pivot="0.5,0.5" size="134,29" fontSize="20" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="1500/160000"/>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

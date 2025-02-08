@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="free" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n71_be41" name="n71" src="uug05f" fileName="component/buyViewBg.xml" xy="66,316" group="n104_h90v"/>
+    <image id="n103_uug0" name="n103" src="be4131" fileName="img/touxiang.png" xy="270,434" group="n104_h90v"/>
+    <text id="n76_be41" name="n76" xy="339,340" size="67,44" group="n104_h90v" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="购买"/>
+    <image id="n80_be41" name="n80" src="ffqtvvv1cd" fileName="pvp/img/scale_60%_sd_A_common_biaoti1_msg.png" pkg="38fa8c75" xy="327,633" size="94,29" group="n104_h90v"/>
+    <text id="n81_be41" name="buyNum" xy="337,632" size="76,34" group="n104_h90v" fontSize="24" color="#fefefe" align="center" vAlign="middle" autoSize="none" text=""/>
+    <component id="n94_matv" name="jia_btn" src="matv4e" fileName="btn/jia.xml" xy="442,686" group="n104_h90v"/>
+    <component id="n98_matv" name="maxBtn" src="matv4g" fileName="btn/max.xml" xy="505,685" group="n104_h90v"/>
+    <component id="n95_matv" name="numSlider" src="matv4k" fileName="component/buySlider.xml" xy="192,701" group="n104_h90v">
+      <Slider value="1" max="10" min="1"/>
+    </component>
+    <component id="n97_matv" name="jian_btn" src="matv4c" fileName="btn/jian.xml" xy="143,685" group="n104_h90v"/>
+    <component id="n100_wfol" name="goodsCell" src="dtss4j" fileName="item/ItemFrame.xml" pkg="38fa8c75" xy="323,471" group="n104_h90v" visible="false"/>
+    <component id="n74_be41" name="buyBtn" src="matv4h" fileName="component/buy_btn.xml" xy="223,887" group="n104_h90v"/>
+    <image id="n79_be41" name="n79" src="be4135" fileName="img/scale_70%_sd_A_common_biaoti1_msg1.png" xy="290,763" group="n102_uug0"/>
+    <component id="n82_be41" name="buyCost" src="matv48" fileName="component/buyCost.xml" xy="322,763" group="n102_uug0"/>
+    <group id="n102_uug0" name="n102" xy="290,763" size="168,45" group="n104_h90v" advanced="true">
+      <gearDisplay controller="free" pages="0"/>
+    </group>
+    <group id="n104_h90v" name="n104" xy="66,316" size="619,747" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n105_vdae" name="n105" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1086">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

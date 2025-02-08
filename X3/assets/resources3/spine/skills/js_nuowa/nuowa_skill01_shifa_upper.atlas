@@ -1,0 +1,90 @@
+
+nuowa_skill01_shifa_upper.png
+size: 573,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill01_kaihuo_00000
+  rotate: false
+  xy: 449, 3
+  size: 120, 104
+  orig: 230, 230
+  offset: 25, 65
+  index: -1
+images/effect/skill01_kaihuo_00001
+  rotate: false
+  xy: 412, 118
+  size: 127, 125
+  orig: 230, 230
+  offset: 24, 58
+  index: -1
+images/effect/skill01_kaihuo_00002
+  rotate: 270
+  xy: 322, 440
+  size: 159, 166
+  orig: 230, 230
+  offset: 39, 37
+  index: -1
+images/effect/skill01_kaihuo_00003
+  rotate: true
+  xy: 183, 323
+  size: 187, 164
+  orig: 230, 230
+  offset: 32, 37
+  index: -1
+images/effect/skill01_kaihuo_00004
+  rotate: 180
+  xy: 2, 212
+  size: 201, 197
+  orig: 230, 230
+  offset: 26, 22
+  index: -1
+images/effect/skill01_kaihuo_00005
+  rotate: false
+  xy: 2, 403
+  size: 199, 196
+  orig: 230, 230
+  offset: 29, 23
+  index: -1
+images/effect/skill01_kaihuo_00006
+  rotate: true
+  xy: 2, 18
+  size: 204, 191
+  orig: 230, 230
+  offset: 26, 24
+  index: -1
+images/effect/skill01_kaihuo_00007
+  rotate: false
+  xy: 136, 125
+  size: 203, 196
+  orig: 230, 230
+  offset: 27, 25
+  index: -1
+images/effect/skill01_kaihuo_00008
+  rotate: false
+  xy: 258, 3
+  size: 197, 195
+  orig: 230, 230
+  offset: 33, 25
+  index: -1
+images/effect/skill01_kaihuo_00009
+  rotate: false
+  xy: 333, 208
+  size: 150, 188
+  orig: 230, 230
+  offset: 80, 28
+  index: -1
+images/effect/skill01_kaihuo_00010
+  rotate: 180
+  xy: 421, 332
+  size: 149, 158
+  orig: 230, 230
+  offset: 81, 43
+  index: -1
+images/effect/skill01_kaihuo_00011
+  rotate: 180
+  xy: 199, 502
+  size: 112, 97
+  orig: 230, 230
+  offset: 118, 91
+  index: -1

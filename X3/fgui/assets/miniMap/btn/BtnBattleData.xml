@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="84,89" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n217_8a38" name="imageBattleData" xy="0,0" size="83,90" url="ui://38fa8c75gs9kvvv1fy" autoSize="true"/>
+    <text id="n218_8a38" name="title" xy="-8,72" pivot="0.5,0.5" size="99,34" fontSize="24" color="#f2f4f4" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" text="数据统计"/>
+    <component id="n219_k045" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="73,11" size="20,20" touchable="false" controller="type,3"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

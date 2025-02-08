@@ -1,0 +1,1 @@
+export type LeagueExploreRankRewardConfig = table.leagueexplore.LeagueExplorePersonalRankRewardConfig | table.leagueexplore.LeagueExploreRankRewardConfig;

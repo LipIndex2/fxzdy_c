@@ -1,0 +1,20 @@
+
+tiaotiaoqishou_attack_muzzle.png
+size: 133,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack_muzzle_01
+  rotate: false
+  xy: 2, 57
+  size: 129, 130
+  orig: 150, 150
+  offset: 9, 5
+  index: -1
+images/effect/attack_muzzle_02
+  rotate: false
+  xy: 2, 2
+  size: 55, 53
+  orig: 60, 60
+  offset: 3, 4
+  index: -1

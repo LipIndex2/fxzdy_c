@@ -1,0 +1,174 @@
+
+skill02_upper.png
+size: 794,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill02_dabaodian_1_00000
+  rotate: true
+  xy: 121, 24
+  size: 41, 81
+  orig: 80, 160
+  offset: 16, 2
+  index: -1
+effect/skill02_dabaodian_1_00001
+  rotate: true
+  xy: 237, 5
+  size: 64, 112
+  orig: 80, 160
+  offset: 5, 3
+  index: -1
+effect/skill02_dabaodian_1_00002
+  rotate: true
+  xy: 386, 14
+  size: 69, 119
+  orig: 80, 160
+  offset: 4, 7
+  index: -1
+effect/skill02_dabaodian_1_00003
+  rotate: true
+  xy: 258, 71
+  size: 76, 126
+  orig: 80, 160
+  offset: 2, 16
+  index: -1
+effect/skill02_dabaodian_1_00004
+  rotate: true
+  xy: 2, 148
+  size: 78, 128
+  orig: 80, 160
+  offset: 1, 20
+  index: -1
+effect/skill02_dabaodian_1_00005
+  rotate: true
+  xy: 289, 149
+  size: 79, 128
+  orig: 80, 160
+  offset: 1, 23
+  index: -1
+effect/skill02_dabaodian_1_00006
+  rotate: true
+  xy: 419, 148
+  size: 80, 125
+  orig: 80, 160
+  offset: 0, 30
+  index: -1
+effect/skill02_dabaodian_1_00007
+  rotate: true
+  xy: 546, 78
+  size: 80, 123
+  orig: 80, 160
+  offset: 0, 34
+  index: -1
+effect/skill02_dabaodian_1_00008
+  rotate: true
+  xy: 132, 146
+  size: 80, 124
+  orig: 80, 160
+  offset: 0, 36
+  index: -1
+effect/skill02_dabaodian_1_00009
+  rotate: true
+  xy: 671, 78
+  size: 80, 121
+  orig: 80, 160
+  offset: 0, 39
+  index: -1
+effect/skill02_dabaodian_1_00010
+  rotate: true
+  xy: 2, 66
+  size: 80, 117
+  orig: 80, 160
+  offset: 0, 43
+  index: -1
+effect/skill02_dabaodian_1_00011
+  rotate: true
+  xy: 121, 67
+  size: 77, 114
+  orig: 80, 160
+  offset: 0, 46
+  index: -1
+effect/skill02_dabaodian_1_00012
+  rotate: true
+  xy: 507, 2
+  size: 74, 111
+  orig: 80, 160
+  offset: 2, 49
+  index: -1
+effect/skill02_dabaodian_1_00013
+  rotate: true
+  xy: 620, 5
+  size: 71, 110
+  orig: 80, 160
+  offset: 5, 50
+  index: -1
+effect/skill02_dabaodian_2_00000
+  rotate: false
+  xy: 386, 85
+  size: 148, 61
+  orig: 300, 100
+  offset: 73, 20
+  index: -1
+effect/skill02_dabaodian_2_00001
+  rotate: false
+  xy: 576, 160
+  size: 208, 77
+  orig: 300, 100
+  offset: 35, 17
+  index: -1
+effect/skill02_dabaodian_2_00002
+  rotate: true
+  xy: 668, 262
+  size: 230, 85
+  orig: 300, 100
+  offset: 29, 11
+  index: -1
+effect/skill02_dabaodian_2_00003
+  rotate: true
+  xy: 576, 239
+  size: 253, 90
+  orig: 300, 100
+  offset: 20, 6
+  index: -1
+effect/skill02_dabaodian_2_00004
+  rotate: false
+  xy: 284, 312
+  size: 268, 89
+  orig: 300, 100
+  offset: 16, 5
+  index: -1
+effect/skill02_dabaodian_2_00005
+  rotate: false
+  xy: 2, 401
+  size: 280, 91
+  orig: 300, 100
+  offset: 10, 5
+  index: -1
+effect/skill02_dabaodian_2_00006
+  rotate: false
+  xy: 284, 403
+  size: 286, 89
+  orig: 300, 100
+  offset: 7, 5
+  index: -1
+effect/skill02_dabaodian_2_00007
+  rotate: false
+  xy: 2, 228
+  size: 285, 82
+  orig: 300, 100
+  offset: 6, 6
+  index: -1
+effect/skill02_dabaodian_2_00008
+  rotate: false
+  xy: 289, 230
+  size: 285, 80
+  orig: 300, 100
+  offset: 5, 6
+  index: -1
+effect/skill02_dabaodian_2_00009
+  rotate: false
+  xy: 2, 321
+  size: 277, 78
+  orig: 300, 100
+  offset: 7, 7
+  index: -1

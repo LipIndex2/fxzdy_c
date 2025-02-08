@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="673,598">
+  <displayList>
+    <image id="n37_llxc" name="bgTop" src="llxc17" fileName="img/di_top.png" xy="175,65"/>
+    <image id="n2_1ff8" name="n2" src="1ff82" fileName="img/di.png" xy="0,178" group="n34_llxc"/>
+    <image id="n15_1ff8" name="iconTitle" src="1ff89" fileName="img/qiridenglu.png" xy="36,0" group="n34_llxc"/>
+    <list id="n29_v891" name="list_award" xy="40,219" size="612,341" group="n34_llxc" layout="flow_hz" lineGap="14" colGap="18" defaultItem="ui://5d5abdd8v89115">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n32_dusv" name="spineTitle" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="214,96" group="n34_llxc"/>
+    <group id="n34_llxc" name="pCenter" xy="0,0" size="673,598" advanced="true"/>
+    <component id="n36_llxc" name="spineModel" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="750,180" pivot="0.5,1" anchor="true" size="1,1"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n34_llxc" tween="true" startValue="0" endValue="1" duration="8"/>
+    <item time="0" type="Alpha" target="n37_llxc" tween="true" startValue="0" endValue="1" duration="8"/>
+    <item time="0" type="XY" target="n34_llxc" tween="true" startValue="-300,0" endValue="0,0" duration="8" ease="Back.Out"/>
+    <item time="0" type="XY" target="n36_llxc" tween="true" startValue="750,180" endValue="490,180" duration="8"/>
+    <item time="0" type="XY" target="n37_llxc" tween="true" startValue="-125,65" endValue="175,65" duration="8" ease="Back.Out"/>
+  </transition>
+</component>

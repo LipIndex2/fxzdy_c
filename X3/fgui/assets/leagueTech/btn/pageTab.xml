@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,75" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <image id="n9_0d22" name="n9" src="0d225" fileName="img/sd_A_common_lmkj_btn_0.png" xy="0,0">
+      <gearDisplay controller="button" pages="3"/>
+    </image>
+    <image id="n12_0d22" name="n12" src="0d228" fileName="img/sd_A_common_lmkj_btn.png" xy="0,0">
+      <gearDisplay controller="button" pages="2"/>
+    </image>
+    <loader id="n10_0d22" name="icon" xy="29,14" size="45,46" url="ui://84ccd6d60d226" fill="scale"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

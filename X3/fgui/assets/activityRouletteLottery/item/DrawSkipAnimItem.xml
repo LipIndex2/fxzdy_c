@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="145,40">
+  <controller name="c1" pages="0,未勾选,1,勾选" selected="0"/>
+  <displayList>
+    <image id="n89_c65a" name="n89" src="830116" fileName="bgImage/gouxuan_frame.png" pkg="38fa8c75" xy="0,0" size="40,40"/>
+    <image id="n90_c65a" name="n90" src="03e462" fileName="bgImage/gou_btn.png" pkg="38fa8c75" xy="6,3" size="41,29">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n91_c65a" name="n91" xy="48,3" pivot="0.5,0.5" size="99,34" fontSize="24" color="#f3f3f5" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="跳过动画"/>
+  </displayList>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,92" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="0,up,1,down,4,over,5,selectedOver" selected="1"/>
+  <displayList>
+    <loader id="n52_ifld" name="iconDown" xy="12,0" pivot="0.5,0.5" size="74,75" group="n51_om4n" url="ui://a1ca24d5ifld1e" align="center" vAlign="middle" clearOnPublish="true">
+      <gearDisplay controller="button" pages="1,4,5"/>
+    </loader>
+    <loader id="n47_c3a6" name="iconUp" xy="12,0" pivot="0.5,0.5" size="74,75" group="n51_om4n" url="ui://a1ca24d5ifld1e" align="center" vAlign="middle" color="#cccccc" clearOnPublish="true">
+      <gearDisplay controller="button" pages="0,4,5"/>
+    </loader>
+    <text id="n49_c3a6" name="title" xy="1,60" pivot="0.5,0.5" size="96,32" group="n51_om4n" fontSize="22" color="#3fadfe" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" singleLine="true" text="世界boss"/>
+    <group id="n51_om4n" name="all" xy="1,0" size="96,92" advanced="true">
+      <gearSize controller="button" pages="0,1" values="97,92,1,1|96,92,1,1" default="96,92,1,1"/>
+    </group>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

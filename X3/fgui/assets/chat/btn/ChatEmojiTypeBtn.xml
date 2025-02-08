@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="46,46" pivot="0.5,0.5" extention="Button">
+  <controller name="isChoose" exported="true" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n39_91d6" name="n39" src="91d625" fileName="img/xdt_frame.png" xy="0,0" color="#4479c2">
+      <gearColor controller="isChoose" pages="0" values="#4479c2" default="#5e92dc"/>
+    </image>
+    <image id="n41_91d6" name="n41" src="91d627" fileName="img/biaoqing_1.png" xy="4,4"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

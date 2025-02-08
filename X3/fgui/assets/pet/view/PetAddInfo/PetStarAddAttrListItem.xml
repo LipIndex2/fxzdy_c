@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="190,32">
+  <controller name="c1" pages="0,,1," selected="1">
+    <remark page="0" value="未激活"/>
+    <remark page="1" value="激活"/>
+  </controller>
+  <displayList>
+    <text id="n47_bc0f" name="desc" xy="0,0" size="190,32" fontSize="22" color="#6ef96a" vAlign="middle" autoSize="none" autoClearText="true" text="全队生命+10%">
+      <gearColor controller="c1" pages="0" values="#969aa5,#000000" default="#6ef96a,#000000"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+</component>

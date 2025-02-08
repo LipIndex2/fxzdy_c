@@ -1,0 +1,181 @@
+
+chuansongfeichuan.png
+size: 593,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd11
+  rotate: false
+  xy: 419, 760
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 503, 593
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 503, 661
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: false
+  xy: 498, 798
+  size: 62, 46
+  orig: 65, 46
+  offset: 3, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 419, 673
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: false
+  xy: 549, 2
+  size: 42, 50
+  orig: 44, 52
+  offset: 1, 1
+  index: -1
+J zd18
+  rotate: false
+  xy: 502, 747
+  size: 70, 49
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: false
+  xy: 2, 527
+  size: 223, 163
+  orig: 227, 165
+  offset: 2, 1
+  index: -1
+J zd5
+  rotate: true
+  xy: 549, 54
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 419, 593
+  size: 82, 78
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 549, 151
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 549, 184
+  size: 27, 30
+  orig: 30, 30
+  offset: 3, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 692
+  size: 240, 182
+  orig: 240, 182
+  offset: 0, 0
+  index: -1
+cvc
+  rotate: false
+  xy: 549, 105
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+effect/chuansongfeichuan_ti_00000
+  rotate: false
+  xy: 2, 177
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00001
+  rotate: false
+  xy: 2, 2
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00002
+  rotate: true
+  xy: 199, 2
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00003
+  rotate: true
+  xy: 199, 199
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00004
+  rotate: false
+  xy: 2, 352
+  size: 196, 173
+  orig: 220, 200
+  offset: 17, 17
+  index: -1
+effect/chuansongfeichuan_ti_00005
+  rotate: true
+  xy: 226, 396
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00006
+  rotate: true
+  xy: 243, 593
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00007
+  rotate: true
+  xy: 402, 397
+  size: 194, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00008
+  rotate: true
+  xy: 374, 2
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/chuansongfeichuan_ti_00009
+  rotate: false
+  xy: 375, 221
+  size: 195, 173
+  orig: 220, 200
+  offset: 18, 17
+  index: -1
+effect/skill_ring
+  rotate: false
+  xy: 244, 790
+  size: 252, 71
+  orig: 256, 80
+  offset: 2, 3
+  index: -1

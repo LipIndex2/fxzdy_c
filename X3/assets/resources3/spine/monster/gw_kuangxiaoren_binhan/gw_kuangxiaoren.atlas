@@ -1,0 +1,104 @@
+
+gw_kuangxiaoren.png
+size: 70,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 25, 27
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 25, 14
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 44, 51
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 2, 11
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: true
+  xy: 2, 25
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: true
+  xy: 43, 19
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: true
+  xy: 56, 4
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: 180
+  xy: 13, 3
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 2, 6
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 7, 6
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: false
+  xy: 17, 19
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 43, 6
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 44, 32
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 42
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1

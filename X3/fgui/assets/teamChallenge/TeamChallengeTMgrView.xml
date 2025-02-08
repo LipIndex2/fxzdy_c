@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n51_uk3p" name="n51" xy="53,111" size="643,1108" group="n50_uk3p"/>
+    <image id="n23_ig8t" name="n23" src="8qld1y" fileName="img/tc1_frame.png" pkg="u3k6kdot" xy="53,111" size="643,1108" group="n50_uk3p"/>
+    <component id="n53_lupe" name="n53" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1222" group="n50_uk3p"/>
+    <loader id="n49_oyy6" name="n49" xy="76,199" size="596,897" group="n50_uk3p" url="ui://38fa8c758qld1x" fill="scaleFree"/>
+    <text id="n7_bbe3" name="n7" xy="309,131" size="131,44" group="n50_uk3p" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="队伍管理"/>
+    <image id="n19_bbe3" name="n19" src="bbe382" fileName="img/fgx1_line_57.png" xy="89,943" size="568,3" group="n50_uk3p" color="#405b9f"/>
+    <list id="n25_ig8t" name="listApply" xy="89,215" size="570,707" group="n27_ig8t" overflow="scroll" lineGap="16" defaultItem="ui://dhpy5xezig8t17b">
+      <item/>
+    </list>
+    <text id="n52_uk3p" name="lbEmpty" xy="234,526" size="290,59" group="n27_ig8t" fontSize="39" color="#4368af" align="center" vAlign="middle" autoSize="none" text="暂无入队申请"/>
+    <component id="n26_ig8t" name="btnListRe" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="251,967" size="245,98" group="n27_ig8t">
+      <Button title="刷新" titleFontSize="32"/>
+    </component>
+    <group id="n27_ig8t" name="groupApply" xy="89,215" size="570,850" group="n50_uk3p" visible="false" advanced="true"/>
+    <image id="n28_ig8t" name="n28" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="399,313" size="230,39" group="n45_ig8t" alpha="0.5"/>
+    <image id="n29_ig8t" name="n29" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="115,313" size="230,39" group="n45_ig8t" alpha="0.5"/>
+    <image id="n30_ig8t" name="n30" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="93,457" size="564,37" group="n45_ig8t" color="#4b75c5"/>
+    <image id="n31_ig8t" name="n31" src="105pvvv18k" fileName="bgImage/fubiao_frame.png" pkg="38fa8c75" xy="93,216" size="564,37" group="n45_ig8t" color="#4b75c5"/>
+    <text id="n32_ig8t" name="n32" xy="123,218" size="107,36" group="n45_ig8t" fontSize="26" color="#ffffff" vAlign="middle" text="队伍设置"/>
+    <text id="n33_ig8t" name="n33" xy="123,458" size="107,36" group="n45_ig8t" fontSize="26" color="#ffffff" vAlign="middle" text="队伍成员"/>
+    <text id="n35_ig8t" name="n35" xy="121,273" size="99,34" group="n45_ig8t" fontSize="24" color="#ffffff" vAlign="middle" text="小队名称"/>
+    <text id="n37_ig8t" name="n37" xy="403,273" size="99,34" group="n45_ig8t" fontSize="24" color="#ffffff" vAlign="middle" text="战力要求"/>
+    <text id="n38_ig8t" name="n38" xy="506,390" size="123,29" group="n45_ig8t" fontSize="20" color="#ffffff" vAlign="middle" text="申请自动通过"/>
+    <image id="n39_ig8t" name="n39" src="bbe382" fileName="img/fgx1_line_57.png" xy="90,948" size="568,3" group="n45_ig8t" color="#405b9f"/>
+    <component id="n40_ig8t" name="btnInput1" src="ejy3vvv1e1" fileName="btn/BtnShuRu.xml" pkg="38fa8c75" xy="313,313" size="40,40" group="n45_ig8t"/>
+    <component id="n42_ig8t" name="btnGouXuan" src="t93evvv1g8" fileName="btn/BtnGouXuan.xml" pkg="38fa8c75" xy="461,382" size="40,40" group="n45_ig8t"/>
+    <list id="n43_ig8t" name="listMyMember" xy="90,503" size="570,444" group="n45_ig8t" lineGap="22" defaultItem="ui://dhpy5xezig8t17x">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n44_ig8t" name="btnMgrRe" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="247,969" size="254,94" group="n45_ig8t">
+      <Button titleFontSize="34"/>
+    </component>
+    <text id="n48_ig8t" name="inputName" xy="123,316" size="178,34" group="n45_ig8t" fontSize="20" color="#93c8ff" vAlign="middle" leading="0" autoSize="none" singleLine="true" text="" input="true" prompt="0" keyboardType="4"/>
+    <text id="n47_ig8t" name="inputScore" xy="408,315" size="178,34" group="n45_ig8t" touchable="false" fontSize="20" color="#93c8ff" vAlign="middle" autoSize="none" singleLine="true" text="0" input="true" prompt="0" maxLength="12" keyboardType="4"/>
+    <loader id="n55_k649" name="imgClick" xy="400,316" size="194,32" group="n45_ig8t"/>
+    <component id="n54_k649" name="scoreCom" src="k64919d" fileName="components/TeamChallengeScoreCom.xml" xy="406,353" size="198,294" group="n45_ig8t" visible="false"/>
+    <component id="n56_9zn0" name="btnInput2" src="9zn019n" fileName="btn/TeamChallengeExpandBtn.xml" xy="593,313" group="n45_ig8t"/>
+    <group id="n45_ig8t" name="groupMember" xy="90,216" size="570,847" group="n50_uk3p" advanced="true"/>
+    <list id="n46_ig8t" name="listTab" xy="77,1116" size="416,70" group="n50_uk3p" layout="row" colGap="15" defaultItem="ui://dhpy5xezig8t183">
+      <item/>
+      <item/>
+    </list>
+    <group id="n50_uk3p" name="n50" xy="53,111" size="643,1201" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

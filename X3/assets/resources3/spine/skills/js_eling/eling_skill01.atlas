@@ -1,0 +1,83 @@
+
+eling_skill01.png
+size: 535,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_slash_07
+  rotate: false
+  xy: 290, 159
+  size: 11, 59
+  orig: 20, 70
+  offset: 5, 6
+  index: -1
+effect/skill01_slash1_01
+  rotate: false
+  xy: 290, 2
+  size: 167, 96
+  orig: 200, 200
+  offset: 5, 10
+  index: -1
+effect/skill01_slash1_02
+  rotate: true
+  xy: 186, 333
+  size: 158, 164
+  orig: 200, 200
+  offset: 35, 18
+  index: -1
+effect/skill01_slash1_03
+  rotate: false
+  xy: 2, 195
+  size: 158, 137
+  orig: 200, 200
+  offset: 38, 44
+  index: -1
+effect/skill01_slash1_04
+  rotate: false
+  xy: 348, 100
+  size: 152, 133
+  orig: 200, 200
+  offset: 42, 47
+  index: -1
+effect/skill01_slash2_01
+  rotate: false
+  xy: 2, 334
+  size: 182, 157
+  orig: 300, 300
+  offset: 54, 63
+  index: -1
+effect/skill01_slash2_02
+  rotate: true
+  xy: 352, 360
+  size: 131, 179
+  orig: 300, 300
+  offset: 84, 54
+  index: -1
+effect/skill01_slash2_03
+  rotate: true
+  xy: 352, 235
+  size: 123, 181
+  orig: 300, 300
+  offset: 83, 51
+  index: -1
+effect/skill01_slash2_04
+  rotate: true
+  xy: 162, 220
+  size: 111, 184
+  orig: 300, 300
+  offset: 81, 48
+  index: -1
+effect/skill01_slash2_05
+  rotate: true
+  xy: 2, 86
+  size: 107, 187
+  orig: 300, 300
+  offset: 82, 46
+  index: -1
+effect/skill01_slash2_06
+  rotate: false
+  xy: 191, 33
+  size: 97, 185
+  orig: 300, 300
+  offset: 87, 47
+  index: -1

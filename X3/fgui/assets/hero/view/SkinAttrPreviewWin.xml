@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n98_bezo" name="attrTipsItem" src="bezov8t" fileName="item/HeroAttrTips.xml" xy="248,786" visible="false" controller="c1,0"/>
+    <loader id="n99_bezo" name="n99" xy="141,539" size="496,289" group="n100_ko81" url="ui://38fa8c753cd618" fill="scaleFree"/>
+    <image id="n89_bezo" name="n89" src="105pv7q" fileName="img/word_tag.png" xy="118,565" pivot="0.5,0.5" size="242,28" group="n100_ko81" scale="0.55,0.55" alpha="0.5"/>
+    <image id="n90_bezo" name="n90" src="105pv7q" fileName="img/word_tag.png" xy="418,565" pivot="0.5,0.5" size="242,28" group="n100_ko81" scale="-0.55,0.55" alpha="0.5"/>
+    <image id="n87_bezo" name="n87" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="166,803" size="441,3" group="n100_ko81" color="#3e4c68"/>
+    <text id="n88_bezo" name="n88" xy="175,625" pivot="0,0.5" size="194,34" group="n100_ko81" fontSize="24" color="#f6d860" vAlign="middle" text="【全体属性加成】"/>
+    <text id="n91_bezo" name="n91" xy="327,560" pivot="0.5,0.5" size="123,42" group="n100_ko81" fontSize="30" color="#ffffff" align="center" vAlign="middle" strokeColor="#0b1424" strokeSize="3" text="属性总览"/>
+    <list id="n94_bezo" name="list_attr1" xy="175,678" size="431,108" group="n100_ko81" overflow="scroll" colGap="50" defaultItem="ui://69f29748bezov8r">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n100_ko81" name="n100" xy="118,539" size="542,289"/>
+  </displayList>
+</component>

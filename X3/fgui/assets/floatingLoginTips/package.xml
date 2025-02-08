@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="jpjm1mf7">
+  <resources>
+    <image id="kog32" name="pzputong_frame.png" path="/img/" scale="9grid" scale9grid="23,13,5,26"/>
+    <component id="kog35" name="FloatingLoginTipsItem.xml" path="/item/"/>
+    <component id="kog37" name="FloatingLoginTipsView.xml" path="/"/>
+    <component id="kog38" name="RootCom.xml" path="/item/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

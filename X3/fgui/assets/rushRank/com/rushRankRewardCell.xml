@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="730,159">
+  <controller name="state" exported="true" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="top1"/>
+    <remark page="1" value="top2"/>
+    <remark page="2" value="top3"/>
+    <remark page="3" value="rank"/>
+  </controller>
+  <controller name="myRank" pages="0,,1," selected="1"/>
+  <displayList>
+    <image id="n3_1a16" name="n3" src="1a163" fileName="img/liebiao.png" xy="22,10" group="n24_uazn"/>
+    <image id="n4_1a16" name="n4" src="1a164" fileName="img/xingzhuang32.png" xy="25,13" group="n24_uazn"/>
+    <group id="n24_uazn" name="n24" xy="22,10" size="686,149" advanced="true">
+      <gearDisplay controller="state" pages="0,1,2,3,5"/>
+    </group>
+    <text id="n10_1a16" name="rankTxt" xy="23,48" pivot="0.5,0.5" size="140,72" fontSize="36" color="#e5d9ff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#010e16" strokeSize="2" singleLine="true" text="4">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <image id="n28_uazn" name="imageRank1" src="gkgvvvv19j" fileName="rank/images/no1_icon.png" pkg="38fa8c75" xy="90,83" pivot="0.5,0.5" anchor="true" group="n31_uazn">
+      <gearDisplay controller="state" pages="0"/>
+    </image>
+    <image id="n29_uazn" name="imageRank2" src="gkgvvvv19k" fileName="rank/images/no2_icon.png" pkg="38fa8c75" xy="90,84" pivot="0.5,0.5" anchor="true" group="n31_uazn">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+    <image id="n30_uazn" name="imageRank3" src="gkgvvvv19l" fileName="rank/images/no3_icon.png" pkg="38fa8c75" xy="90,84" pivot="0.5,0.5" anchor="true" group="n31_uazn">
+      <gearDisplay controller="state" pages="2"/>
+    </image>
+    <group id="n31_uazn" name="n31" xy="35,49" size="109,69" advanced="true"/>
+    <list id="n36_gvuz" name="rewardList" xy="178,6" size="436,130" layout="row" overflow="scroll" scroll="horizontal" colGap="-16" defaultItem="ui://38fa8c75gvuzvvv1l7" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n33_uazn" name="n33" src="uazn2e" fileName="img/wode_6.png" xy="22,10" group="n35_uazn"/>
+    <text id="n34_uazn" name="n34" xy="27,-2" size="52,34" group="n35_uazn" fontSize="24" color="#f7f9fd" vAlign="middle" strokeColor="#a80707" strokeSize="2" text="我的"/>
+    <group id="n35_uazn" name="n35" xy="22,-2" size="66,39" advanced="true">
+      <gearDisplay controller="myRank" pages="1"/>
+    </group>
+  </displayList>
+</component>

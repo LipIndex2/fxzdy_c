@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="118,38" extention="Button">
+  <controller name="state" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n15_be1a" name="n15" src="be1a56" fileName="img/sd_A_common_dakai1_btn.png" xy="0,0"/>
+    <image id="n16_be1a" name="n16" src="be1a57" fileName="img/sd_A_common_dakai_btn.png" xy="0,0" group="n24_h90v"/>
+    <text id="n17_be1a" name="n17" xy="19,4" size="25,31" group="n24_h90v" fontSize="22" color="#ffffff" strokeColor="#000000" strokeSize="2" text="关"/>
+    <group id="n24_h90v" name="n24" xy="0,0" size="69,38" advanced="true">
+      <gearDisplay controller="state" pages="0"/>
+    </group>
+    <image id="n25_h90v" name="n25" src="be1a57" fileName="img/sd_A_common_dakai_btn.png" xy="49,0" group="n27_h90v"/>
+    <text id="n26_h90v" name="n26" xy="68,4" size="25,31" group="n27_h90v" fontSize="22" color="#ffffff" strokeColor="#000000" strokeSize="2" text="开"/>
+    <group id="n27_h90v" name="n27" xy="49,0" size="69,38" advanced="true">
+      <gearDisplay controller="state" pages="1"/>
+    </group>
+  </displayList>
+  <Button downEffect="dark" downEffectValue=".8"/>
+</component>

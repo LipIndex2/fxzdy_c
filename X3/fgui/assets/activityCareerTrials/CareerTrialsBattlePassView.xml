@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,奖励,1,任务" selected="1"/>
+  <displayList>
+    <loader id="n124_teox" name="n124" xy="0,0" size="750,1334" url="ui://38fa8c75273c31" fill="scaleFree" color="#996243">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n122_teox" name="n122" xy="0,0" size="750,493" url="ui://7cvz7rmmteoxvv28" autoSize="true"/>
+    <image id="n136_teox" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,84" pivot="0.5,1" anchor="true" size="750,300" color="#ebc280">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <loader id="n134_teox" name="img_hero" xy="417,50" pivot="0,1" size="320,341" autoSize="true">
+      <relation target="" sidePair="center-center,bottom-top"/>
+    </loader>
+    <image id="n116_bezo" name="n116" src="teox7b" fileName="img/tabdi.png" xy="15,432" size="719,74"/>
+    <image id="n117_bezo" name="n117" src="273c31" fileName="bgImage/xdt_frame.png" pkg="38fa8c75" xy="34,519" size="682,50" color="#8c5636">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <component id="n100_bezo" name="bar_level" src="teox7c" fileName="bar/BattlePassLevelBar.xml" xy="153,309" size="310,23">
+      <relation target="" sidePair="center-center,top-top"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <image id="n5_b7b6" name="n5" src="teox7d" fileName="img/dengji_10.png" xy="45,245" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <list id="n94_bezo" name="list_task" xy="32,520" size="685,593" overflow="scroll" lineGap="16" defaultItem="ui://6db1f71ateox7e">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="top-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n95_bezo" name="list_taskBtn" xy="35,1122" size="706,69" layout="row" colGap="36" defaultItem="ui://6db1f71ateox7w">
+      <gearDisplay controller="c1" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n97_bezo" name="list_tab" xy="15,432" size="722,74" pageController="c1" layout="row" defaultItem="ui://6db1f71ateox7u" selectionController="c1">
+      <relation target="" sidePair="center-center,top-top"/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n98_bezo" name="btn_get" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="303,1100" size="183,70" visible="false">
+      <gearDisplay controller="c1" pages="0"/>
+      <Button title="一键领取" titleFontSize="32"/>
+    </component>
+    <list id="n102_bezo" name="list_award" xy="32,579" size="685,449" overflow="scroll" lineGap="16" defaultItem="ui://6db1f71ateox7h">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top,bottomext-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n103_bezo" name="btn_buy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="499,272" size="214,82">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="激活通行证" titleFontSize="34"/>
+    </component>
+    <text id="n112_bezo" name="T_level" xy="99,273" pivot="0.5,0.5" size="29,56" fontSize="42" color="#fffde6" align="center" vAlign="middle" strokeColor="#8b3800" strokeSize="3" text="4">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n113_bezo" name="n113" xy="86,332" size="55,36" fontSize="26" color="#f7ecb0" vAlign="middle" strokeColor="#000000" strokeSize="3" text="等级">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n114_bezo" name="T_bar" xy="295,276" pivot="0.5,0.5" size="74,29" fontSize="20" color="#f7ecb0" vAlign="middle" strokeColor="#180d00" strokeSize="2" text="90/100">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <loader id="n115_bezo" name="img_item" xy="260,273" pivot="0.5,0.5" size="34,34" fill="scale" shrinkOnly="true">
+      <relation target="n114_bezo" sidePair="middle-middle,right-left"/>
+    </loader>
+    <text id="n118_bezo" name="n118" xy="206,527" pivot="0.5,0.5" size="133,36" fontSize="26" color="#ffdfa2" vAlign="middle" text="基础通行证">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n119_bezo" name="n119" xy="478,527" pivot="0.5,0.5" size="133,36" fontSize="26" color="#ffe65b" vAlign="middle" text="豪华通行证">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n121_bezo" name="bigAwardItem" src="teox7l" fileName="item/TrialsBattlePassItem3.xml" xy="5,1041">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <text id="n125_teox" name="T_title_lan1" xy="19,37" size="73,92" group="n133_teox" fontSize="70" color="#44eaed" vAlign="middle" text="异"/>
+    <text id="n126_teox" name="T_title_lan2" xy="85,58" size="147,64" group="n133_teox" fontSize="48" color="#44eaed" vAlign="middle" text="能之路"/>
+    <text id="n127_teox" name="T_title_zi1" xy="23,39" size="73,92" group="n133_teox" fontSize="70" color="#c710b4" vAlign="middle" text="异"/>
+    <text id="n128_teox" name="T_title_zi2" xy="89,58" size="147,64" group="n133_teox" fontSize="48" color="#c710b4" vAlign="middle" text="能之路"/>
+    <text id="n129_teox" name="T_title_bai1" xy="21,37" size="73,92" group="n133_teox" fontSize="70" color="#ffffff" vAlign="middle" text="异"/>
+    <text id="n130_teox" name="T_title_bai2" xy="87,58" size="147,64" group="n133_teox" fontSize="48" color="#ffffff" vAlign="middle" text="能之路"/>
+    <richtext id="n131_teox" name="T_time" xy="43,114" pivot="0,0.5" size="207,29" group="n133_teox" fontSize="20" color="#ffffff" vAlign="middle" ubb="true" vars="true" text="活动倒计时:[color=#6AFF63]5天30小时[/color]"/>
+    <component id="n132_teox" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="275,71" group="n133_teox"/>
+    <group id="n133_teox" name="n133" xy="19,37" size="297,106" advanced="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <text id="n135_teox" name="T_tips" xy="479,285" pivot="0.5,0.5" size="253,56" fontSize="42" color="#fffde6" align="center" vAlign="middle" strokeColor="#8b3800" strokeSize="3" text="已激活通行证">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+  </displayList>
+</component>

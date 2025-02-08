@@ -1,0 +1,76 @@
+
+gw_xuetunchong.png
+size: 147,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 88, 10
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 129, 10
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+02
+  rotate: 180
+  xy: 61, 15
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 69, 46
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 15
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+05
+  rotate: 180
+  xy: 100, 40
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 107, 4
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 118, 27
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 122, 51
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 3
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1

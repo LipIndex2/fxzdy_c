@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="4e791994">
+  <resources>
+    <image id="430e1" name="zu1（hebing）.png" path="/img/"/>
+    <image id="430e2" name="Jzd0_15.png" path="/img/"/>
+    <image id="430e3" name="zu10kaobei.png" path="/img/"/>
+    <image id="430e4" name="zu6.png" path="/img/"/>
+    <image id="430e5" name="Jzd0.png" path="/img/"/>
+    <image id="430e6" name="qieye1.png" path="/img/"/>
+    <image id="430e7" name="qieye2_13.png" path="/img/"/>
+    <image id="430e14" name="liebiao_11.png" path="/img/"/>
+    <image id="430e20" name="stknt_mzd.png" path="/img/"/>
+    <image id="430e21" name="touxiangkuang_9.png" path="/img/"/>
+    <image id="430e23" name="tx_031.png" path="/img/"/>
+    <image id="430e24" name="stknt_dm1.png" path="/img/" scale="9grid" scale9grid="43,0,86,58"/>
+    <image id="430e25" name="stknt_dm2.png" path="/img/" scale="9grid" scale9grid="43,0,86,58"/>
+    <image id="430e27" name="huojian.png" path="/img/"/>
+    <image id="430e28" name="meiriyingyuan_7.png" path="/img/"/>
+    <image id="430e29" name="quanfuchengtuanli_6.png" path="/img/"/>
+    <image id="430e33" name="meishuzi.png" path="/img/"/>
+    <image id="430e37" name="stknt_tcd2.png" path="/img/" scale="9grid" scale9grid="87,147,26,9"/>
+    <image id="430e39" name="stknt_tiao.png" path="/img/" scale="9grid" scale9grid="120,27,9,54"/>
+    <image id="430e49" name="touxiangkuangdi.png" path="/img/"/>
+    <image id="430e50" name="touxiangkuang.png" path="/img/"/>
+    <image id="430e51" name="STKxianding.png" path="/img/"/>
+    <image id="430e53" name="jiantou.png" path="/img/"/>
+    <component id="430e57" name="GirlGroupMainView.xml" path="/"/>
+    <component id="k04558" name="GirlGroupBtn.xml" path="/btn/"/>
+    <component id="k04559" name="dialogBoxItem.xml" path="/item/"/>
+    <component id="k0455a" name="GirlGroupAllBuyWin.xml" path="/"/>
+    <component id="k0455b" name="GirlGroupAwardItem.xml" path="/item/"/>
+    <component id="k0455c" name="GirlGroupTabBtn.xml" path="/btn/"/>
+    <component id="k0455e" name="heroModItem.xml" path="/item/"/>
+    <component id="k0455f" name="GirlGroupBuyItem.xml" path="/item/"/>
+    <component id="k0455g" name="DialogBoxPage.xml" path="/page/"/>
+    <component id="k0455h" name="ItemBar.xml" path="/item/"/>
+    <component id="k0455i" name="GirlGroupPlayerPage.xml" path="/page/"/>
+    <component id="k0455j" name="DialogBoxPageItem.xml" path="/item/"/>
+    <component id="k0455k" name="GirlGroupPlayerDialogItem.xml" path="/item/"/>
+    <component id="k0455l" name="headIconItem.xml" path="/item/"/>
+    <image id="k0455m" name="touxiangzhezhao.png" path="/img/"/>
+    <image id="s8ul5n" name="K.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

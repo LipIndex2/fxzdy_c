@@ -1,0 +1,139 @@
+
+skill01_upper.png
+size: 498,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill_dian
+  rotate: false
+  xy: 459, 21
+  size: 29, 18
+  orig: 32, 32
+  offset: 2, 7
+  index: -1
+effect/skill_xulie1_00000
+  rotate: false
+  xy: 177, 132
+  size: 41, 55
+  orig: 80, 100
+  offset: 16, 2
+  index: -1
+effect/skill_xulie1_00001
+  rotate: false
+  xy: 431, 252
+  size: 51, 64
+  orig: 80, 100
+  offset: 14, 7
+  index: -1
+effect/skill_xulie1_00002
+  rotate: true
+  xy: 188, 2
+  size: 60, 73
+  orig: 80, 100
+  offset: 10, 19
+  index: -1
+effect/skill_xulie1_00003
+  rotate: true
+  xy: 114, 21
+  size: 61, 72
+  orig: 80, 100
+  offset: 11, 26
+  index: -1
+effect/skill_xulie1_00004
+  rotate: false
+  xy: 431, 201
+  size: 59, 49
+  orig: 80, 100
+  offset: 13, 37
+  index: -1
+effect/skill_xulie1_00005
+  rotate: false
+  xy: 341, 11
+  size: 55, 42
+  orig: 80, 100
+  offset: 17, 42
+  index: -1
+effect/skill_zuanchu_00000
+  rotate: false
+  xy: 263, 7
+  size: 76, 55
+  orig: 250, 140
+  offset: 93, 9
+  index: -1
+effect/skill_zuanchu_00001
+  rotate: false
+  xy: 2, 9
+  size: 110, 73
+  orig: 250, 140
+  offset: 74, 8
+  index: -1
+effect/skill_zuanchu_00002
+  rotate: true
+  xy: 376, 55
+  size: 143, 88
+  orig: 250, 140
+  offset: 56, 7
+  index: -1
+effect/skill_zuanchu_00003
+  rotate: false
+  xy: 2, 84
+  size: 173, 103
+  orig: 250, 140
+  offset: 40, 7
+  index: -1
+effect/skill_zuanchu_00004
+  rotate: false
+  xy: 225, 200
+  size: 204, 116
+  orig: 250, 140
+  offset: 22, 6
+  index: -1
+effect/skill_zuanchu_00005
+  rotate: false
+  xy: 2, 189
+  size: 221, 127
+  orig: 250, 140
+  offset: 3, 5
+  index: -1
+effect/skill_zuanchu_00006
+  rotate: false
+  xy: 225, 64
+  size: 149, 134
+  orig: 250, 140
+  offset: 84, 5
+  index: -1
+effect/skillxulie2_00000
+  rotate: false
+  xy: 188, 67
+  size: 22, 63
+  orig: 30, 80
+  offset: 1, 2
+  index: -1
+effect/skillxulie2_00001
+  rotate: false
+  xy: 466, 137
+  size: 27, 62
+  orig: 30, 80
+  offset: 0, 9
+  index: -1
+effect/skillxulie2_00002
+  rotate: true
+  xy: 398, 24
+  size: 29, 59
+  orig: 30, 80
+  offset: 0, 16
+  index: -1
+effect/skillxulie2_00003
+  rotate: false
+  xy: 466, 87
+  size: 30, 48
+  orig: 30, 80
+  offset: 0, 28
+  index: -1
+effect/skillxulie2_00004
+  rotate: false
+  xy: 466, 41
+  size: 30, 44
+  orig: 30, 80
+  offset: 0, 34
+  index: -1

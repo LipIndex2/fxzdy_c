@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="430,284" overflow="scroll" scrollBar="hidden">
+  <displayList>
+    <text id="n0_sxwp" name="lbAttributeBonus" xy="5,8" size="147,34" group="n8_cjsd" fontSize="24" color="#f6d860" vAlign="middle" text="【属性加成】"/>
+    <component id="n4_cjsd" name="attr1" src="sxwp95" fileName="item/WeaponAttrItem.xml" xy="46,58" size="338,34" group="n8_cjsd"/>
+    <component id="n6_cjsd" name="attr2" src="sxwp95" fileName="item/WeaponAttrItem.xml" xy="46,98" size="338,34" group="n8_cjsd"/>
+    <component id="n7_cjsd" name="attr3" src="sxwp95" fileName="item/WeaponAttrItem.xml" xy="46,138" size="338,34" group="n8_cjsd"/>
+    <group id="n8_cjsd" name="panelAttr" xy="5,8" size="379,164"/>
+    <text id="n1_sxwp" name="lbExclusiveBonus" xy="5,189" size="203,34" group="n5_cjsd" fontSize="24" color="#f6d860" vAlign="middle" text="【属性加成·雷诺】">
+      <relation target="n0_sxwp" sidePair=""/>
+    </text>
+    <component id="n10_sv0c" name="nodePoint" src="cpeevvv1cv" fileName="com/Node.xml" pkg="38fa8c75" xy="14,234" group="n5_cjsd"/>
+    <group id="n5_cjsd" name="panelHero" xy="5,189" size="203,46" advanced="true"/>
+  </displayList>
+</component>

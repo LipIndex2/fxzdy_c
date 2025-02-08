@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_1794" name="bgTitle" src="179427" fileName="img/biaoti.png" xy="164,80">
+      <relation target="" sidePair="top-top"/>
+    </image>
+    <text id="n1_1794" name="lbTitle" xy="368,113" pivot="0.5,0.5" anchor="true" size="202,54" fontSize="40" color="#ffffff" align="center" vAlign="middle" text="已选择技能"/>
+    <list id="n30_gs9k" name="listBuff" xy="63,201" size="624,1000" layout="flow_hz" overflow="scroll" lineGap="11" colGap="42" lineItemCount="3" defaultItem="ui://ae4de3b1loej8y" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n37_loej" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

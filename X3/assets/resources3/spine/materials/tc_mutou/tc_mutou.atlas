@@ -1,0 +1,20 @@
+
+tc_mutou.png
+size: 310,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01
+  rotate: true
+  xy: 2, 10
+  size: 40, 256
+  orig: 40, 256
+  offset: 0, 0
+  index: -1
+images/icon_10001
+  rotate: false
+  xy: 260, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

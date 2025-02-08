@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="153,48">
+  <displayList>
+    <component id="n296_tiub" name="ticket" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="0,0" controller="isTop,1"/>
+  </displayList>
+</component>

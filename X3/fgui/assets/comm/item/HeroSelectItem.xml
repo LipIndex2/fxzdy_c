@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="718,81">
+  <controller name="c1" pages="0,部分,1,全部" selected="0"/>
+  <displayList>
+    <image id="n36_4928" name="n36" src="cni66u" fileName="frameImage/zyd_frame.png" xy="0,0" size="718,81">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n35_4928" name="n35" src="cni66u" fileName="frameImage/zyd_frame.png" xy="0,-89" size="718,170">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <list id="n38_kkiq" name="list_camp" xy="0,-84" size="718,79" layout="row" colGap="19" defaultItem="ui://38fa8c75odo57i" align="center" vAlign="middle">
+      <gearDisplay controller="c1" pages="1"/>
+      <item icon="ui://38fa8c75cni66x" name="rz"/>
+      <item icon="ui://38fa8c75cni670" name="sm"/>
+      <item icon="ui://38fa8c75cni674" name="zx"/>
+      <item icon="ui://38fa8c75cni671" name="ym"/>
+    </list>
+    <list id="n40_kkiq" name="list_career" xy="0,0" size="718,79" layout="row" colGap="22" defaultItem="ui://38fa8c75odo57i" align="center" vAlign="middle">
+      <item icon="ui://38fa8c75cni66y" name="sh"/>
+      <item icon="ui://38fa8c75cni66w" name="gd"/>
+      <item icon="ui://38fa8c75cni672" name="yn"/>
+      <item icon="ui://38fa8c75cni66z" name="sj"/>
+      <item icon="ui://38fa8c75cni673" name="zq"/>
+      <item icon="ui://38fa8c75cni66v" name="fz"/>
+    </list>
+    <component id="n43_cni6" name="btn_tab" src="j6z931" fileName="btn/BaseBtn.xml" xy="28,14" size="46,51" visible="false">
+      <gearDisplay controller="c1" pages="1"/>
+      <Button icon="ui://38fa8c75105pvvv18l"/>
+    </component>
+  </displayList>
+</component>

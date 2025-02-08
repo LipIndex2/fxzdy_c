@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="607146c5">
+  <resources>
+    <image id="be413" name="zu19kaobei3.png" path="/img/"/>
+    <image id="be415" name="sdxh_frame_26.png" path="/img/"/>
+    <image id="be4112" name="mengban.png" path="/img/"/>
+    <image id="be4117" name="sdhb_frame_3.png" path="/img/"/>
+    <image id="be4118" name="sdbq_frame.png" path="/img/"/>
+    <image id="be4119" name="zu18kaobei3.png" path="/img/"/>
+    <image id="be4120" name="sdbq1_frame.png" path="/img/"/>
+    <image id="be4121" name="scale_70%_sd_A_common_changgui3_btn.png" path="/img/"/>
+    <image id="be4123" name="sd_A_Ttubiao_zhujiemiantubiao_zhujiemian_0001.png" path="/img/"/>
+    <image id="be4124" name="richangshangdian_icon.png" path="/img/"/>
+    <image id="be4127" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="be4131" name="touxiang.png" path="/img/"/>
+    <image id="be4132" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="be4135" name="scale_70%_sd_A_common_biaoti1_msg1.png" path="/img/"/>
+    <image id="be4138" name="sd_A_common_pmd_msg.png" path="/img/" scale="9grid" scale9grid="62,5,124,10"/>
+    <image id="be4139" name="sd_A_common_tianfu_blood.png" path="/img/" scale="9grid" scale9grid="73,6,86,3" gridTile="16" disableTrim="true"/>
+    <image id="be4140" name="huadong.png" path="/img/"/>
+    <image id="be4141" name="sd_A_common_jia2_btn.png" path="/img/"/>
+    <image id="be4142" name="sd_A_common_zuida_btn.png" path="/img/"/>
+    <image id="be4143" name="sd_A_common_jian1_btn.png" path="/img/"/>
+    <component id="be4146" name="shop.xml" path="/"/>
+    <component id="matv47" name="buyView.xml" path="/"/>
+    <component id="matv48" name="buyCost.xml" path="/component/"/>
+    <component id="matv4c" name="jian.xml" path="/btn/"/>
+    <component id="matv4e" name="jia.xml" path="/btn/"/>
+    <component id="matv4f" name="slider.xml" path="/btn/"/>
+    <component id="matv4g" name="max.xml" path="/btn/"/>
+    <component id="matv4h" name="buy_btn.xml" path="/component/"/>
+    <component id="matv4j" name="buySlider_grip.xml" path="/component/"/>
+    <component id="matv4k" name="buySlider.xml" path="/component/"/>
+    <component id="matv4m" name="DailyShopPage.xml" path="/page/"/>
+    <component id="matv4o" name="shopPageBtn.xml" path="/component/"/>
+    <component id="matv4p" name="shopPageContainer.xml" path="/"/>
+    <component id="matv4u" name="shopListItem.xml" path="/component/"/>
+    <component id="d3ep4w" name="updateBtn.xml" path="/btn/"/>
+    <component id="wfol4x" name="closeBtn.xml" path="/btn/"/>
+    <component id="uug04z" name="DailyShopItem.xml" path="/item/"/>
+    <component id="uug052" name="shopCost.xml" path="/component/"/>
+    <component id="uug058" name="goodsLimit.xml" path="/component/"/>
+    <component id="uug05a" name="goodsDiscount.xml" path="/component/"/>
+    <image id="uug05b" name="schd002_icon.png" path="/img/"/>
+    <component id="uug05e" name="shopAutoCom.xml" path="/component/"/>
+    <component id="uug05f" name="buyViewBg.xml" path="/component/"/>
+    <image id="uug0vvv1b1" name="shop_q2.png" path="/img/"/>
+    <image id="uug0vvv1b0" name="shop_q3.png" path="/img/"/>
+    <image id="uug0vvv1b2" name="shop_q4.png" path="/img/"/>
+    <image id="uug0vvv1az" name="shop_q5.png" path="/img/"/>
+    <image id="uug0vvv1ay" name="shop_q6.png" path="/img/"/>
+    <image id="qr2avvv1b3" name="up_frame.png" path="/img/"/>
+    <image id="fg1ivvv1b4" name="sd_bg.jpg" path="/img/" scale="9grid" scale9grid="187,497,374,26"/>
+    <component id="htcc42" name="SpecialShopView.xml" path="/page/"/>
+    <component id="htcc45" name="SpecialShopBar.xml" path="/item/"/>
+    <component id="htcc44" name="SpecialShopItem.xml" path="/item/"/>
+    <component id="9dao47" name="SpecialShopTypeItem.xml" path="/component/"/>
+    <image id="71c52" name="1_4.png" path="/img/"/>
+    <image id="htcc38" name="1.png" path="/img/"/>
+    <image id="htcc39" name="1_0.png" path="/img/"/>
+    <image id="htcc3b" name="daoju_1.png" path="/img/"/>
+    <image id="9dao46" name="icgoods_10001.png" path="/img/"/>
+    <component id="htcc43" name="SpecialShopBuyPage.xml" path="/page/"/>
+    <image id="71c523" name="mryh_tiao.png" path="/img/"/>
+    <image id="htcc3o" name="scale_90%_sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="htcc3p" name="scale_90%_sd_A_common_red_frame.png" path="/img/"/>
+    <image id="71c521" name="sd_A_common_tc1_frame.png" path="/img/"/>
+    <image id="htcc3w" name="sd_A_common_tc2_frame.png" path="/img/"/>
+    <image id="htcc3z" name="tubiao.png" path="/img/"/>
+    <image id="htcc3n" name="scale_70%_sd_A_common_biaoti1_msg2.png" path="/img/"/>
+    <image id="71c55" name="mryh_di1.png" path="/img/"/>
+    <image id="htcc3f" name="mryh_di2.png" path="/img/"/>
+    <image id="71c518" name="mryh_di3.png" path="/img/"/>
+    <image id="htcc3h" name="mryh_ka1.png" path="/img/"/>
+    <image id="71c59" name="mryh_ka2.png" path="/img/"/>
+    <image id="71c53" name="mryh_rukou.png" path="/img/"/>
+    <image id="htcc3j" name="mryh_shijian.png" path="/img/"/>
+    <image id="htcc3l" name="mryh_xian.png" path="/img/"/>
+    <image id="71c56" name="mryh_zhi.png" path="/img/"/>
+    <image id="71c514" name="sd_A_common_grsz_btn.png" path="/img/"/>
+    <image id="htcc3u" name="sd_A_common_sq_tag.png" path="/img/"/>
+    <image id="71c517" name="shougou.png" path="/img/"/>
+    <image id="htcc40" name="tuceng3.jpg" path="/img/"/>
+    <image id="9dao48" name="每日特惠优化1.jpg" path="/img/"/>
+    <component id="jis3vvv1b5" name="bgBtn.xml" path="/btn/"/>
+    <component id="jis3vvv1b6" name="buyBtn.xml" path="/btn/"/>
+    <image id="be4115" name="scale_65%_sd_A_common_biaoti1_msg.png" path="/img/"/>
+    <component id="vmbsvvv1b7" name="shopCost_2.xml" path="/btn/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

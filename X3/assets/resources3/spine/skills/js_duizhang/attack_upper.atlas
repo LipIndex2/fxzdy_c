@@ -1,0 +1,55 @@
+
+attack_upper.png
+size: 552,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/attack1_0
+  rotate: false
+  xy: 2, 3
+  size: 126, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack1_1
+  rotate: 180
+  xy: 153, 89
+  size: 130, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack1_2
+  rotate: false
+  xy: 286, 89
+  size: 126, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+images/effect/attack1_3
+  rotate: 180
+  xy: 412, 96
+  size: 138, 94
+  orig: 150, 100
+  offset: 0, 4
+  index: -1
+images/effect/attack1_4
+  rotate: false
+  xy: 352, 6
+  size: 141, 89
+  orig: 150, 100
+  offset: 2, 8
+  index: -1
+images/effect/attack1_5
+  rotate: false
+  xy: 2, 102
+  size: 150, 88
+  orig: 150, 100
+  offset: 0, 8
+  index: -1
+images/effect/attack1_6
+  rotate: false
+  xy: 129, 33
+  size: 122, 56
+  orig: 150, 100
+  offset: 0, 22
+  index: -1

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n2_df6e" name="topBg" src="ohdt2f" fileName="component/FristChargeTopBg.xml" xy="375,422" pivot="0.5,0.5" anchor="true" size="660,647"/>
+    <component id="n3_df6e" name="centerPanel" src="ohdt2i" fileName="component/FirstChargeCenter.xml" xy="380,805" pivot="0.5,0.5" anchor="true" size="579,655"/>
+    <component id="n49_v891" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="397,668" pivot="0.5,1" anchor="true" size="100,100"/>
+    <component id="n63_ohdt" name="spineStage" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="397,668" pivot="0.5,1" anchor="true" size="100,100"/>
+    <component id="n15_df6e" name="topTitle" src="ohdt2g" fileName="component/FirstChargeTopTitle.xml" xy="97,482" size="380,124"/>
+    <list id="n50_v891" name="list_tab" xy="64,1141" size="630,94" layout="row" colGap="13" defaultItem="ui://81b7aafav89128" align="center" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n15_df6e" tween="true" startValue="0" endValue="1" duration="9"/>
+    <item time="0" type="Alpha" target="n2_df6e" tween="true" startValue="0" endValue="1" duration="9"/>
+    <item time="0" type="Alpha" target="n3_df6e" value="0"/>
+    <item time="0" type="Alpha" target="n50_v891" value="0"/>
+    <item time="0" type="Alpha" target="n63_ohdt" tween="true" startValue="1" endValue="0" duration="5"/>
+    <item time="0" type="Scale" target="n15_df6e" tween="true" startValue="0.6,0.6" endValue="1.2,1.2" duration="7"/>
+    <item time="0" type="Scale" target="n2_df6e" tween="true" startValue="0.6,0.6" endValue="1.2,1.2" duration="7"/>
+    <item time="0" type="XY" target="n15_df6e" value="97,562"/>
+    <item time="0" type="XY" target="n2_df6e" value="375,482"/>
+    <item time="0" type="XY" target="n3_df6e" value="380.5,855"/>
+    <item time="0" type="XY" target="n49_v891" tween="true" startValue="397,668" endValue="397,540" duration="9"/>
+    <item time="0" type="XY" target="n50_v891" value="64,1204"/>
+    <item time="7" type="Scale" target="n15_df6e" tween="true" startValue="1.2,1.2" endValue="0.9,0.9" duration="4"/>
+    <item time="7" type="Scale" target="n2_df6e" tween="true" startValue="1.2,1.2" endValue="0.9,0.9" duration="4"/>
+    <item time="9" type="XY" target="n3_df6e" tween="true" startValue="380.5,855" endValue="380.5,805" duration="9"/>
+    <item time="11" type="Alpha" target="n3_df6e" tween="true" startValue="0" endValue="0.5" duration="3"/>
+    <item time="11" type="Alpha" target="n50_v891" tween="true" startValue="0" endValue="0.5" duration="3"/>
+    <item time="11" type="Scale" target="n15_df6e" tween="true" startValue="0.9,0.9" endValue="1,1" duration="7"/>
+    <item time="11" type="Scale" target="n2_df6e" tween="true" startValue="0.9,0.9" endValue="1,1" duration="7"/>
+    <item time="11" type="XY" target="n15_df6e" tween="true" startValue="97,562" endValue="97,482" duration="7"/>
+    <item time="11" type="XY" target="n50_v891" tween="true" startValue="64,1204" endValue="64,1154.222" duration="7"/>
+    <item time="12" type="XY" target="n2_df6e" tween="true" startValue="375,482" endValue="375,422.5" duration="6"/>
+    <item time="14" type="Alpha" target="n3_df6e" tween="true" startValue="0.5" endValue="0.924" duration="7"/>
+    <item time="14" type="Alpha" target="n50_v891" tween="true" startValue="0.5" endValue="0.924" duration="7"/>
+  </transition>
+  <transition name="t1">
+    <item time="0" type="Alpha" target="n49_v891" value="0"/>
+    <item time="0" type="Alpha" target="n63_ohdt" value="0"/>
+    <item time="0" type="Scale" target="n49_v891" value="3.5,3.5"/>
+    <item time="0" type="Scale" target="n63_ohdt" value="0.8,0.8"/>
+    <item time="4" type="Alpha" target="n49_v891" tween="true" startValue="0.3" endValue="1" duration="7"/>
+    <item time="4" type="Alpha" target="n63_ohdt" tween="true" startValue="0.3" endValue="1" duration="7"/>
+    <item time="4" type="Scale" target="n49_v891" tween="true" startValue="3.5,3.5" endValue="4,4" duration="7"/>
+    <item time="4" type="Scale" target="n63_ohdt" tween="true" startValue="0.8,0.8" endValue="1,1" duration="7"/>
+  </transition>
+</component>

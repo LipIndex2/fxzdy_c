@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kdx6es9v" designImageAlpha="62">
+  <controller name="maxStar" pages="0,,1,,2," selected="0">
+    <remark page="1" value="未满星"/>
+    <remark page="2" value="满星"/>
+  </controller>
+  <controller name="active" pages="0,,1," selected="0">
+    <remark page="0" value="未激活"/>
+    <remark page="1" value="激活"/>
+  </controller>
+  <controller name="nameBottom" pages="0,,1,,2,,3,,4,,5,,6," selected="0">
+    <remark page="1" value="绿"/>
+    <remark page="2" value="蓝"/>
+    <remark page="3" value="紫"/>
+    <remark page="4" value="橙"/>
+    <remark page="5" value="红"/>
+    <remark page="6" value="彩"/>
+  </controller>
+  <displayList>
+    <image id="n1_4283" name="n1" src="42831" fileName="img/bg.jpg" xy="0,-146">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n178_rt8z" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,-62" pivot="0.5,1" anchor="true" size="750,250" color="#1e264a">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <image id="n179_rt8z" name="bottom_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,1547" pivot="0.5,0.5" anchor="true" size="750,300" color="#213b56" flip="vt">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </image>
+    <loader id="n184_dx6e" name="n184" xy="185,28" size="364,93" group="n154_uvvc" url="ui://00e7db15dx6e9l">
+      <gearIcon controller="nameBottom" pages="0,1,2,3,4,5,6" values="ui://00e7db15dx6e9l|ui://00e7db15dx6e9l|ui://00e7db15dx6e96|ui://00e7db15dx6e9h|ui://00e7db15dx6e9j|ui://00e7db15dx6e9k|ui://00e7db15dx6e9i"/>
+    </loader>
+    <component id="n182_dx6e" name="petGroupBtn" src="dx6e94" fileName="com/petGroupBtn.xml" xy="26,167" group="n154_uvvc"/>
+    <component id="n155_uvvc" name="helpBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="497,54" group="n154_uvvc"/>
+    <component id="n45_4283" name="LVUpBtn" src="uvvc82" fileName="com/LVUpBtn.xml" xy="582,124" group="n154_uvvc"/>
+    <list id="n172_uvvc" name="star" xy="275,120" size="200,43" group="n154_uvvc" layout="row" selectionMode="none" colGap="6" defaultItem="ui://38fa8c75dclx138" autoItemSize="false" align="center" vAlign="middle" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n183_dx6e" name="txPetName" xy="285,47" pivot="0.5,0.5" size="206,46" group="n154_uvvc" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="超级无敌可爱"/>
+    <group id="n154_uvvc" name="top" xy="26,28" size="709,271" advanced="true">
+      <relation target="" sidePair="top-top"/>
+    </group>
+    <component id="n159_uvvc" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="371,428" pivot="0.5,1" anchor="true" size="1,1" scale="0.7,0.7">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <image id="n21_4283" name="n21" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="29,973" size="272,28" group="n157_uvvc"/>
+    <image id="n22_4283" name="n22" src="q6dmvvv1gd" fileName="bgImage/word_tag.png" pkg="38fa8c75" xy="451,977" size="271,28" group="n157_uvvc" flip="hz"/>
+    <text id="n23_4283" name="n23" xy="313,965" pivot="0.5,0.5" size="123,42" group="n157_uvvc" fontSize="30" color="#ffffff" vAlign="middle" text="星灵列表"/>
+    <list id="n175_uvvc" name="petList" xy="28,1002" size="699,200" group="n157_uvvc" layout="row" overflow="scroll" scroll="horizontal" margin="12,0,0,0" colGap="-8" defaultItem="ui://38fa8c75lg0pvvv1h6" vAlign="bottom" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n198_xwdv" name="drawCardBtn" src="xwdv9n" fileName="com/drawCardBtn.xml" xy="635,1217" group="n157_uvvc"/>
+    <text id="n199_xwdv" name="btnName" xy="615,1286" pivot="0.5,0.5" size="115,39" group="n157_uvvc" fontSize="28" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="星灵招募"/>
+    <component id="n156_uvvc" name="btnBack" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215" group="n157_uvvc"/>
+    <group id="n157_uvvc" name="bottom" xy="0,965" size="730,369" advanced="true">
+      <relation target="" sidePair="bottom-bottom"/>
+    </group>
+    <image id="n20_4283" name="n20" src="428314" fileName="img/xl_xinxidi.png" xy="23,451" size="706,416" group="n197_dx6e"/>
+    <image id="n185_dx6e" name="n185" src="eowx7n" fileName="bgImage/xb1_frame.png" pkg="38fa8c75" xy="62,479" size="624,37" group="n197_dx6e" color="#2872c0"/>
+    <image id="n190_dx6e" name="n190" src="eowx7n" fileName="bgImage/xb1_frame.png" pkg="38fa8c75" xy="62,677" size="624,37" group="n197_dx6e" color="#2872c0"/>
+    <image id="n186_dx6e" name="n186" src="dx6e97" fileName="img/dian.png" xy="67,486" group="n197_dx6e"/>
+    <image id="n191_dx6e" name="n191" src="dx6e97" fileName="img/dian.png" xy="67,684" group="n197_dx6e"/>
+    <list id="n181_rt8z" name="listAttr" xy="146,524" size="459,145" group="n197_dx6e" overflow="scroll" lineGap="3" colGap="43" defaultItem="ui://00e7db15rt8z8u" autoItemSize="false" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n161_uvvc" name="skill" src="lg0p8o" fileName="com/PetSkillItem.xml" xy="67,723" group="n197_dx6e"/>
+    <component id="n163_uvvc" name="upStarBtn" src="lg0pvvv1gi" fileName="btn/BtnChangGui1WithItemList1.xml" pkg="38fa8c75" xy="222,852" group="n197_dx6e" scale="0.8,0.8" controller="style,0">
+      <gearDisplay controller="maxStar" pages="1"/>
+      <Button title="升星"/>
+    </component>
+    <image id="n176_lg0p" name="n176" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="251,864" size="247,98" group="n197_dx6e" grayed="true">
+      <gearDisplay controller="maxStar" pages="2"/>
+    </image>
+    <text id="n177_lg0p" name="maxStar" xy="251,884" pivot="0.5,0.5" size="242,56" group="n197_dx6e" grayed="true" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="已满星">
+      <gearDisplay controller="maxStar" pages="2"/>
+    </text>
+    <text id="n187_dx6e" name="n187" xy="81,479" pivot="0,0.5" size="158,36" group="n197_dx6e" fontSize="26" color="#ffffff" vAlign="middle" text="星灵升星属性"/>
+    <text id="n192_dx6e" name="n2" xy="81,676" pivot="0,0.5" size="107,36" group="n197_dx6e" fontSize="26" color="#ffffff" vAlign="middle" text="星灵技能"/>
+    <text id="n188_dx6e" name="activeTip" xy="269,479" size="144,32" group="n197_dx6e" fontSize="22" color="#63ff8f" vAlign="middle" text="(激活后解锁）">
+      <gearDisplay controller="active" pages="0"/>
+    </text>
+    <text id="n189_dx6e" name="activeTipSkill" xy="269,677" size="144,32" group="n197_dx6e" fontSize="22" color="#63ff8f" vAlign="middle" text="(激活后解锁）">
+      <gearDisplay controller="active" pages="0"/>
+    </text>
+    <text id="n193_dx6e" name="petSkillName" xy="185,722" size="224,36" group="n197_dx6e" fontSize="26" color="#9e9e9e" vAlign="middle" autoClearText="true" text="星灵技能名字LV12">
+      <gearColor controller="active" pages="0" values="#9e9e9e,#000000" default="#fffbba,#000000"/>
+    </text>
+    <component id="n194_dx6e" name="petSkillDesc" src="dx6evvv1l0" fileName="scrollText/scrollTextV.xml" pkg="38fa8c75" xy="185,763" size="498,74" group="n197_dx6e">
+      <gearColor controller="active" pages="0" values="#9e9e9e" default="#aabff1"/>
+    </component>
+    <component id="n195_dx6e" name="previewStarAddBtn" src="dx6e9b" fileName="com/detailBtn.xml" xy="648,469" size="44,44" group="n197_dx6e"/>
+    <component id="n196_dx6e" name="previewSkillBtn" src="dx6e9b" fileName="com/detailBtn.xml" xy="648,668" size="44,44" group="n197_dx6e"/>
+    <group id="n197_dx6e" name="midAttrs" xy="23,451" size="706,518" advanced="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+  </displayList>
+</component>

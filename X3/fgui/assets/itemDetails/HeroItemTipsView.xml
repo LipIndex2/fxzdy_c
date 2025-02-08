@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n0_7b20" name="n0" xy="105,444" size="540,446" group="n35_c8g7" url="ui://38fa8c753cd618" fill="scaleFree">
+      <relation target="n9_7b20" sidePair="height-height"/>
+    </loader>
+    <text id="n2_7b20" name="nameLab" xy="306,479" size="75,49" group="n35_c8g7" fontSize="36" color="#31b4ff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="宙斯"/>
+    <text id="n9_7b20" name="desLab" xy="144,649" size="456,62" restrictSize="0,0,61,0" group="n35_c8g7" fontSize="22" color="#ffffff" vAlign="middle" autoSize="height" text="一位拥有高级天赋得法师，能够否召唤神犬协助作战"/>
+    <loader id="n16_7b20" name="raceIcon" xy="333,560" pivot="0.5,0.5" anchor="true" size="46,51" group="n35_c8g7"/>
+    <text id="n17_7b20" name="raceNameLab" xy="358,545" size="52,34" group="n35_c8g7" fontSize="24" color="#ffffff" vAlign="middle" text="神裔"/>
+    <loader id="n18_7b20" name="jobIcon" xy="452,557" pivot="0.5,0.5" anchor="true" size="46,51" group="n35_c8g7" scale="0.8,0.8"/>
+    <text id="n19_7b20" name="jobNameLab" xy="486,544" size="52,34" group="n35_c8g7" fontSize="24" color="#ffffff" vAlign="middle" text="辅助"/>
+    <image id="n25_musp" name="n25" src="105pvv18c" fileName="bgImage/fgx1_line.png" pkg="38fa8c75" xy="138,628" size="477,3" group="n35_c8g7" color="#4c5b75"/>
+    <component id="n31_c8g7" name="head" src="c8g7vvv1fn" fileName="hero/HeroDetailsAvatar.xml" pkg="38fa8c75" xy="159,483" group="n35_c8g7" aspect="true" scale="1.2,1.2"/>
+    <component id="n32_c8g7" name="goBtn" src="c8g76j" fileName="HeroItemTipsFdjBtn.xml" xy="551,459" group="n35_c8g7" scale="0.6,0.6"/>
+    <image id="n1_7b20" name="n1" src="q6dmvvv1fx" fileName="bg/lbmb_frame.png" pkg="38fa8c75" xy="375,791" pivot="0.5,0.5" anchor="true" size="480,137" group="n34_c8g7" scale="1,-1" alpha="0.14"/>
+    <list id="n33_c8g7" name="list_skill" xy="143,731" size="461,124" group="n34_c8g7" layout="row" scroll="horizontal" colGap="6" defaultItem="ui://38fa8c75c8g7vvv1fo" align="center" vAlign="middle">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n34_c8g7" name="n34" xy="135,723" size="480,137" group="n35_c8g7" advanced="true">
+      <relation target="n9_7b20" sidePair="top-bottom%"/>
+    </group>
+    <group id="n35_c8g7" name="n35" xy="105,444" size="540,446"/>
+  </displayList>
+</component>

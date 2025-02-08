@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="638,131">
+  <controller name="topN" pages="0,N,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n100_ac45" name="bg" src="ac4558" fileName="img/sd_A_common_zjlb_frame.png" xy="1,2"/>
+    <image id="n101_ac45" name="fg" src="ac4559" fileName="img/scale_85%_sd_A_common_zijipaimingframe.png" xy="4,5"/>
+    <image id="n104_ac45" name="bgTitle" src="ac4561" fileName="img/sd_A_common_wdpm_frame.png" xy="0,-26"/>
+    <text id="n105_ac45" name="labelTitle" xy="25,-18" size="107,36" fontSize="26" color="#ffffff" vAlign="middle" text="我的排名"/>
+    <image id="n106_k3sy" name="n106" src="gkgvvvv19j" fileName="rank/images/no1_icon.png" pkg="38fa8c75" xy="33,44" group="n110_k3sy" scale="0.8,0.8">
+      <gearDisplay controller="topN" pages="1"/>
+    </image>
+    <image id="n107_k3sy" name="n107" src="gkgvvvv19k" fileName="rank/images/no2_icon.png" pkg="38fa8c75" xy="33,44" group="n110_k3sy" scale="0.8,0.8">
+      <gearDisplay controller="topN" pages="2"/>
+    </image>
+    <image id="n108_k3sy" name="n108" src="gkgvvvv19l" fileName="rank/images/no3_icon.png" pkg="38fa8c75" xy="37,44" group="n110_k3sy" scale="0.8,0.8">
+      <gearDisplay controller="topN" pages="3"/>
+    </image>
+    <text id="n109_k3sy" name="labelRankNum" xy="60,40" pivot="0.5,0.5" size="32,62" group="n110_k3sy" fontSize="46" color="#58c2ff" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="4">
+      <gearDisplay controller="topN" pages="0"/>
+    </text>
+    <group id="n110_k3sy" name="n110" xy="33,40" size="109,72"/>
+    <component id="n116_k3sy" name="avatar" src="ejy3vvv1dv" fileName="playerInfo/PlayerAvatar.xml" pkg="38fa8c75" xy="145,16" scale="0.8,0.8"/>
+    <component id="n117_woyg" name="titleComp" src="ikw9s96" fileName="player/PlayerTitleSmallComp.xml" pkg="72zq62ea" xy="249,59" size="168,72" aspect="true"/>
+    <text id="n112_k3sy" name="labelPlayerName" xy="249,31" size="135,32" fontSize="22" color="#f7f9fd" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="无敌宇宙帅气"/>
+    <text id="n113_k3sy" name="labelHaveChallengeCount" xy="432,49" pivot="1,0.5" size="39,32" fontSize="22" color="#f7f9fd" align="center" vAlign="middle" strokeColor="#010e16" strokeSize="2" text="0次"/>
+    <text id="n114_k3sy" name="labelStarCount" xy="506,49" pivot="1,0.5" size="44,32" fontSize="22" color="#f7f9fd" align="right" vAlign="middle" strokeColor="#010e16" strokeSize="2" singleLine="true" text="300&#xA;"/>
+    <image id="n115_k3sy" name="n115" src="ac4511" fileName="img/scale_80%_sd_A_common_xinghuang1_icon_39.png" xy="552,50"/>
+  </displayList>
+</component>

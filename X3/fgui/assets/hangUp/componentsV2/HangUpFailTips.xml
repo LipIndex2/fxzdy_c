@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="558,279">
+  <displayList>
+    <image id="n0_pocb" name="bg" src="3cd618" fileName="bgImage/tisp_frame.png" pkg="38fa8c75" xy="0,0" size="558,279"/>
+    <component id="n7_pocb" name="btnModule1" src="pocb14z" fileName="BtnBattleJump.xml" xy="61,114" group="n9_pocb">
+      <Button icon="ui://556f0e8bpocb14p"/>
+    </component>
+    <component id="n2_pocb" name="btnModule2" src="pocb14z" fileName="BtnBattleJump.xml" xy="212,113" group="n9_pocb"/>
+    <component id="n8_pocb" name="btnModule3" src="pocb14z" fileName="BtnBattleJump.xml" xy="370,115" group="n9_pocb">
+      <Button icon="ui://556f0e8bpocb14r"/>
+    </component>
+    <group id="n9_pocb" name="n9" xy="61,113" size="433,130"/>
+    <image id="n11_pocb" name="bgTitle" src="pocb14a" fileName="imgV2/sd_A_common_biaoti1_msg_6.png" xy="177,39"/>
+    <text id="n12_pocb" name="labelTitle" xy="194,45" pivot="0.5,0.5" size="164,36" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" autoSize="none" singleLine="true" text="变强途径"/>
+    <component id="n13_pocb" name="btnData" src="pocb150" fileName="btnV2/BtnDataV2.xml" xy="458,26"/>
+  </displayList>
+</component>

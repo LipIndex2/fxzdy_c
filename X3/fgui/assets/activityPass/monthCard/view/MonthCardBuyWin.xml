@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1," selected="1">
+    <remark page="0" value="未购买"/>
+    <remark page="1" value="已购买"/>
+  </controller>
+  <displayList>
+    <image id="n49_m3op" name="n49" src="m3op1p" fileName="img/zu3.png" xy="109,1126" group="n57_m3op"/>
+    <component id="n63_m3op" name="useItem" src="dtss4k" fileName="item/ItemFrameBtn.xml" pkg="38fa8c75" xy="155,1152" group="n57_m3op"/>
+    <text id="n64_m3op" name="n64" xy="266,1140" size="331,36" group="n57_m3op" fontSize="26" color="#b5d8ff" vAlign="middle" text="检测到背包内有[月卡激活卡]"/>
+    <component id="n60_m3op" name="btnItemUse" src="m3op1s" fileName="monthCard/component/MonthCardFree2Btn.xml" xy="284,1186" size="285,73" group="n57_m3op"/>
+    <group id="n57_m3op" name="itemGp" xy="109,1126" size="520,168" group="n65_rsg0" advanced="true"/>
+    <component id="n40_jsyk" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="65,230" size="620,847" group="n39_oc78"/>
+    <component id="n66_lupe" name="n66" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="330,1069" group="n39_oc78"/>
+    <image id="n1_2215" name="n1" src="22151" fileName="monthCard/img/ka.png" xy="65,230" size="620,847" group="n39_oc78"/>
+    <image id="n8_2215" name="n8" src="oc781b" fileName="monthCard/img/bg_time.png" xy="205,520" size="139,32" group="n39_oc78">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <text id="n2_2215" name="lbTitle" xy="376,255" pivot="0.5,0.5" anchor="true" size="178,114" group="n39_oc78" fontSize="88" color="#a7f6ff" vAlign="middle" strokeColor="#0346b1" strokeSize="4" text="月卡"/>
+    <text id="n4_2215" name="lbDes" xy="551,355" pivot="0.5,0.5" anchor="true" size="182,42" group="n39_oc78" fontSize="30" vAlign="middle" text="月卡专属特权"/>
+    <text id="n5_2215" name="lbTip1" xy="503,386" pivot="0.5,0.5" size="99,34" group="n39_oc78" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="每日可领"/>
+    <text id="n6_2215" name="lbCount" xy="489,540" pivot="0.5,0.5" anchor="true" size="63,34" group="n39_oc78" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="x100"/>
+    <text id="n9_2215" name="lbTime" xy="208,515" pivot="0.5,0.5" size="129,42" group="n39_oc78" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="剩余29天">
+      <gearDisplay controller="c1" pages="1"/>
+    </text>
+    <text id="n22_2215" name="lbTitle2" xy="374,619" pivot="0.5,0.5" anchor="true" size="218,49" group="n39_oc78" fontSize="36" color="#ffffff" vAlign="middle" strokeColor="#0346b1" strokeSize="3" text="购买即可享受"/>
+    <component id="n33_oc78" name="pDiscount" src="oc781e" fileName="monthCard/component/MonthCardDiscount.xml" xy="77,337" size="139,72" group="n39_oc78"/>
+    <loader id="n34_oc78" name="iconReward" xy="492,482" pivot="0.5,0.5" anchor="true" size="104,104" group="n39_oc78" align="center" vAlign="middle" fill="scale"/>
+    <list id="n35_oc78" name="listAddition" xy="124,661" size="502,230" group="n39_oc78" overflow="scroll" defaultItem="ui://cbdbddd7oc781d" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n37_oc78" name="btnDraw" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="252,930" size="245,97" group="n39_oc78">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n38_oc78" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="252,930" size="245,97" group="n39_oc78">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <text id="n61_m3op" name="lbCount2" xy="602,540" pivot="0.5,0.5" anchor="true" size="63,34" group="n39_oc78" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="x100"/>
+    <loader id="n62_m3op" name="iconReward2" xy="601,482" pivot="0.5,0.5" anchor="true" size="104,104" group="n39_oc78" align="center" vAlign="middle" fill="scale"/>
+    <group id="n39_oc78" name="n39" xy="65,198" size="620,961" group="n65_rsg0" advanced="true"/>
+    <group id="n65_rsg0" name="n65" xy="65,198" size="620,1096" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

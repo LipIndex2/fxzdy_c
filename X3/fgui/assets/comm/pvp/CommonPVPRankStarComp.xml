@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="30,29">
+  <controller name="reachFlag" exported="true" pages="0,0,1,1" selected="0"/>
+  <displayList>
+    <image id="n292_b6a2" name="bg" src="ffqtvvv1cf" fileName="img/sd_A_common_lxhuang_tag_0.png" xy="0,0"/>
+    <image id="n291_b6a2" name="fg" src="ffqtvvv1cg" fileName="img/sd_A_common_lxhuang_tag_1.png" xy="0,0">
+      <gearDisplay controller="reachFlag" pages="1"/>
+    </image>
+  </displayList>
+</component>

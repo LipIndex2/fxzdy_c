@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="558,222">
+  <displayList>
+    <image id="n271_gkgv" name="bgTitle" src="b6a2136" fileName="img/scale_80%_sd_A_common_biaoti1_msg.png" xy="179,0" group="n276_qlui"/>
+    <text id="n272_gkgv" name="labelRewardTitle" xy="227,5" size="107,36" group="n276_qlui" fontSize="26" color="#8bb4e7" align="center" vAlign="middle" text="挑战奖励"/>
+    <image id="n273_gkgv" name="bgItemList" src="b6a2135" fileName="img/sd_A_common_tisp_frame.png" xy="0,63" group="n276_qlui"/>
+    <list id="n274_gkgv" name="itemList" xy="42,92" size="476,107" group="n276_qlui" layout="row" overflow="scroll" scroll="horizontal" colGap="19" defaultItem="ui://38fa8c75dtss4k" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n277_ta4f" name="lbTip" xy="279,145" pivot="0.5,0.5" anchor="true" size="313,36" group="n276_qlui" fontSize="26" color="#ffffff" align="center" vAlign="middle" text="今日挑战奖励获取已达上限"/>
+    <group id="n276_qlui" name="n276" xy="0,0" size="558,222" advanced="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </group>
+  </displayList>
+</component>

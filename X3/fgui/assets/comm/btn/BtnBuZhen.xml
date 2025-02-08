@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="148,58" pivot="0.5,0.5" extention="Button" initName="btnEdit">
+  <controller name="color" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="黑色描边"/>
+    <remark page="1" value="蓝色描边"/>
+  </controller>
+  <displayList>
+    <image id="n192_ffqt" name="bg" src="ffqtvvv1cn" fileName="btn/img/buzhen_btn.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n193_ffqt" name="title" xy="4,8" pivot="0.5,0.5" size="139,42" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="3" text="布阵">
+      <gearLook controller="color" default="1,0,0,0"/>
+      <gearColor controller="color" pages="1" values="#ffffff,#1a50a9" default="#ffffff,#000000"/>
+      <relation target="" sidePair="width-width,center-center,middle-middle"/>
+    </text>
+    <component id="n194_loj0" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="142,6" controller="type,2">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

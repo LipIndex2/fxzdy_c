@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="293,104" pivot="0,0.5" anchor="true" extention="Button">
+  <displayList>
+    <image id="n46_06d7" name="bg" src="fxocvvv190" fileName="captainSkill/img/fadongjinengdi.png" xy="0,0"/>
+    <image id="n47_06d7" name="imageSkill" src="fxocvvv191" fileName="captainSkill/img/jineng_0.png" xy="21,12"/>
+    <text id="n48_06d7" name="labelText" xy="143,28" size="96,53" fontSize="39" color="#ffffff" strokeColor="#0033a1" strokeSize="4" text="发动!"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

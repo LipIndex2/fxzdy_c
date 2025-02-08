@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <displayList>
+    <component id="n4_str8" name="prgressBar" src="str8vw2" fileName="component/MapStimulationProgress.xml" xy="-83,13" group="n7_str8">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <loader id="n5_str8" name="iconLoader" xy="-83,24" pivot="0.5,0.5" anchor="true" size="48,48" group="n7_str8" align="center" vAlign="middle" fill="scale"/>
+    <text id="n8_gvuz" name="lbTime" xy="0,60" pivot="0.5,0.5" anchor="true" size="69,32" group="n7_str8" fontSize="22" color="#a0d5f5" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="升级中"/>
+    <group id="n7_str8" name="gAll" xy="-107,0" size="214,76" advanced="true"/>
+  </displayList>
+</component>

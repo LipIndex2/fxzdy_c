@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="30,30" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n9_fkak" name="selImg" src="16e417" fileName="img/gundong_xuanzhong_0.png" xy="-6,-7"/>
+    <image id="n10_fkak" name="unselImg" src="16e419" fileName="img/gundong_weixuanzhonghuang.png" xy="1,0"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

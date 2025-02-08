@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="121,86" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n29_894b" name="n29" src="894b25" fileName="img/paimign.png" xy="0,9" group="n38_h90v"/>
+    <text id="n30_894b" name="n30" xy="50,0" size="64,42" group="n38_h90v" fontSize="31" color="#ffffff" strokeColor="#000000" strokeSize="3" text="排名"/>
+    <text id="n31_894b" name="rankLb" xy="27,49" size="66,34" group="n38_h90v" fontSize="24" color="#181818" text="第1名"/>
+    <group id="n38_h90v" name="rankCom" xy="0,0" size="121,86" advanced="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

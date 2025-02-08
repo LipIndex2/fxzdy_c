@@ -1,0 +1,230 @@
+
+skill02_hit_upper_yun.png
+size: 777,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiaqiang_wuyun50_00000
+  rotate: false
+  xy: 621, 2
+  size: 53, 78
+  orig: 200, 100
+  offset: 63, 16
+  index: -1
+effect/jiaqiang_wuyun50_00001
+  rotate: false
+  xy: 325, 2
+  size: 87, 77
+  orig: 200, 100
+  offset: 54, 17
+  index: -1
+effect/jiaqiang_wuyun50_00002
+  rotate: false
+  xy: 2, 79
+  size: 146, 78
+  orig: 200, 100
+  offset: 16, 16
+  index: -1
+effect/jiaqiang_wuyun50_00003
+  rotate: false
+  xy: 488, 2
+  size: 131, 78
+  orig: 200, 100
+  offset: 33, 16
+  index: -1
+effect/jiaqiang_wuyun50_00004
+  rotate: false
+  xy: 170, 80
+  size: 153, 78
+  orig: 200, 100
+  offset: 14, 16
+  index: -1
+effect/jiaqiang_wuyun50_00005
+  rotate: true
+  xy: 683, 20
+  size: 143, 79
+  orig: 200, 100
+  offset: 29, 15
+  index: -1
+effect/jiaqiang_wuyun50_00006
+  rotate: false
+  xy: 336, 81
+  size: 150, 81
+  orig: 200, 100
+  offset: 28, 13
+  index: -1
+effect/jiaqiang_wuyun50_00007
+  rotate: false
+  xy: 524, 82
+  size: 157, 81
+  orig: 200, 100
+  offset: 24, 13
+  index: -1
+effect/jiaqiang_wuyun50_00008
+  rotate: false
+  xy: 2, 159
+  size: 166, 82
+  orig: 200, 100
+  offset: 19, 12
+  index: -1
+effect/jiaqiang_wuyun50_00009
+  rotate: false
+  xy: 353, 164
+  size: 169, 83
+  orig: 200, 100
+  offset: 19, 11
+  index: -1
+effect/jiaqiang_wuyun50_00010
+  rotate: false
+  xy: 542, 165
+  size: 180, 83
+  orig: 200, 100
+  offset: 17, 11
+  index: -1
+effect/jiaqiang_wuyun50_00011
+  rotate: false
+  xy: 172, 248
+  size: 179, 84
+  orig: 200, 100
+  offset: 15, 10
+  index: -1
+effect/jiaqiang_wuyun50_00012
+  rotate: false
+  xy: 359, 249
+  size: 181, 85
+  orig: 200, 100
+  offset: 15, 9
+  index: -1
+effect/jiaqiang_wuyun50_00013
+  rotate: false
+  xy: 547, 250
+  size: 182, 85
+  orig: 200, 100
+  offset: 15, 9
+  index: -1
+effect/jiaqiang_wuyun50_00014
+  rotate: false
+  xy: 366, 426
+  size: 183, 87
+  orig: 200, 100
+  offset: 14, 7
+  index: -1
+effect/jiaqiang_wuyun50_00015
+  rotate: false
+  xy: 547, 337
+  size: 181, 87
+  orig: 200, 100
+  offset: 13, 7
+  index: -1
+effect/jiaqiang_wuyun50_00016
+  rotate: false
+  xy: 181, 334
+  size: 176, 88
+  orig: 200, 100
+  offset: 12, 6
+  index: -1
+effect/jiaqiang_wuyun50_00017
+  rotate: false
+  xy: 2, 335
+  size: 177, 88
+  orig: 200, 100
+  offset: 11, 6
+  index: -1
+effect/jiaqiang_wuyun50_00018
+  rotate: false
+  xy: 366, 336
+  size: 179, 88
+  orig: 200, 100
+  offset: 10, 6
+  index: -1
+effect/jiaqiang_wuyun50_00019
+  rotate: false
+  xy: 185, 424
+  size: 179, 89
+  orig: 200, 100
+  offset: 10, 5
+  index: -1
+effect/jiaqiang_wuyun50_00020
+  rotate: false
+  xy: 2, 425
+  size: 181, 89
+  orig: 200, 100
+  offset: 9, 5
+  index: -1
+effect/jiaqiang_wuyun50_00021
+  rotate: false
+  xy: 192, 515
+  size: 184, 90
+  orig: 200, 100
+  offset: 8, 4
+  index: -1
+effect/jiaqiang_wuyun50_00022
+  rotate: false
+  xy: 378, 515
+  size: 184, 90
+  orig: 200, 100
+  offset: 8, 4
+  index: -1
+effect/jiaqiang_wuyun50_00023
+  rotate: false
+  xy: 564, 426
+  size: 185, 89
+  orig: 200, 100
+  offset: 7, 4
+  index: -1
+effect/jiaqiang_wuyun50_00024
+  rotate: false
+  xy: 585, 517
+  size: 188, 89
+  orig: 200, 100
+  offset: 6, 4
+  index: -1
+effect/jiaqiang_wuyun50_00025
+  rotate: false
+  xy: 2, 516
+  size: 188, 89
+  orig: 200, 100
+  offset: 6, 4
+  index: -1
+effect/jiaqiang_wuyun50_00026
+  rotate: false
+  xy: 585, 608
+  size: 190, 89
+  orig: 200, 100
+  offset: 5, 4
+  index: -1
+effect/jiaqiang_wuyun50_00027
+  rotate: false
+  xy: 393, 607
+  size: 190, 90
+  orig: 200, 100
+  offset: 5, 3
+  index: -1
+effect/jiaqiang_wuyun50_00028
+  rotate: false
+  xy: 198, 607
+  size: 193, 90
+  orig: 200, 100
+  offset: 3, 2
+  index: -1
+effect/jiaqiang_wuyun50_00029
+  rotate: false
+  xy: 2, 607
+  size: 194, 90
+  orig: 200, 100
+  offset: 2, 2
+  index: -1
+effect/jiaqiang_wuyun50_00030
+  rotate: false
+  xy: 2, 243
+  size: 168, 90
+  orig: 200, 100
+  offset: 28, 2
+  index: -1
+effect/jiaqiang_wuyun50_00031
+  rotate: false
+  xy: 172, 160
+  size: 162, 86
+  orig: 200, 100
+  offset: 35, 6
+  index: -1

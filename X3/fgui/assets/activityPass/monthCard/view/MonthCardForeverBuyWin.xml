@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="未购买"/>
+    <remark page="1" value="已购买"/>
+  </controller>
+  <displayList>
+    <component id="n52_jsyk" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="59,282" size="625,862" group="n50_oc78"/>
+    <component id="n54_lupe" name="n54" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="343,1132" group="n50_oc78"/>
+    <image id="n23_2215" name="n23" src="899910" fileName="monthCard/img/zhongshenka_1.png" xy="59,282" group="n50_oc78"/>
+    <component id="n44_oc78" name="pDiscount" src="oc781e" fileName="monthCard/component/MonthCardDiscount.xml" xy="72,406" group="n50_oc78"/>
+    <text id="n25_2215" name="lbTip1" xy="502,447" pivot="0.5,0.5" size="99,34" group="n50_oc78" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="每日可领"/>
+    <text id="n26_2215" name="lbDes" xy="445,394" pivot="0.5,0.5" size="212,42" group="n50_oc78" fontSize="30" vAlign="middle" text="终身卡专属特权"/>
+    <text id="n27_2215" name="lbCount" xy="554,601" pivot="0.5,0.5" anchor="true" size="63,34" group="n50_oc78" fontSize="24" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="x100"/>
+    <text id="n40_2215" name="lbTitle2" xy="373,680" pivot="0.5,0.5" anchor="true" size="218,49" group="n50_oc78" fontSize="36" color="#ffffff" vAlign="middle" strokeColor="#b46006" strokeSize="3" text="购买即可享受"/>
+    <text id="n43_2215" name="lbTitle" xy="375,315" pivot="0.5,0.5" anchor="true" size="265,114" group="n50_oc78" fontSize="88" color="#fef6a0" vAlign="middle" strokeColor="#b46006" strokeSize="4" text="终身卡"/>
+    <loader id="n45_oc78" name="iconReward" xy="555,541" pivot="0.5,0.5" anchor="true" size="104,104" group="n50_oc78" align="center" vAlign="middle" fill="scale"/>
+    <list id="n48_oc78" name="listAddition" xy="124,724" size="502,230" group="n50_oc78" overflow="scroll" defaultItem="ui://cbdbddd7oc781d" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n49_oc78" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="252,1002" size="245,97" group="n50_oc78">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n51_oc78" name="btnDraw" src="ckiev14x" fileName="btn/BtnChangGui3.xml" pkg="38fa8c75" xy="252,1002" size="245,97" group="n50_oc78">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <richtext id="n53_auyi" name="lbBuyTip" xy="375,984" pivot="0.5,0.5" anchor="true" size="253,34" group="n50_oc78" fontSize="24" color="#ffffff" vAlign="middle" text="购买立刻获得          x10">
+      <gearDisplay controller="c1" pages="0"/>
+    </richtext>
+    <group id="n50_oc78" name="n50" xy="59,258" size="625,964" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

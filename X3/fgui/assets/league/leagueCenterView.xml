@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n0_be1a" name="n0" src="wq7z10y" fileName="com/centerBg.xml" xy="54,192" group="n65_wq7z"/>
+    <image id="n1_be1a" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="77,279" size="596,853" group="n65_wq7z"/>
+    <image id="n2_be1a" name="n2" src="be1a20" fileName="img/sd_A_common_bossfydi_frame.png" xy="94,522" group="n65_wq7z"/>
+    <component id="n3_be1a" name="applyBtn" src="h90v10o" fileName="btn/applyEnterBtn.xml" xy="81,1155" group="n65_wq7z"/>
+    <text id="n11_be1a" name="title" xy="308,216" size="131,44" group="n65_wq7z" fontSize="32" color="#ffffff" strokeColor="#1a3773" strokeSize="3" text="联盟中心"/>
+    <image id="n33_be1a" name="n33" src="be1a27" fileName="img/sd_A_common_liaotian_frame_33.png" xy="93,424" group="n65_wq7z" alpha="0.25"/>
+    <text id="n34_be1a" name="nameLab" xy="224,309" size="123,34" group="n65_wq7z" fontSize="24" color="#ffffff" strokeColor="#000306" strokeSize="2" autoClearText="true" text="天河特工队"/>
+    <text id="n36_be1a" name="mamberNumer" xy="168,528" size="189,34" group="n65_wq7z" fontSize="24" color="#78c4ff" strokeColor="#000306" strokeSize="2" autoClearText="true" text="联盟成员(14/30)"/>
+    <image id="n37_be1a" name="n37" src="be1a28" fileName="img/sd_A_common_bossfgx_line.png" xy="433,527" group="n65_wq7z"/>
+    <text id="n38_be1a" name="n38" xy="446,530" size="75,34" group="n65_wq7z" fontSize="24" color="#78c4ff" strokeColor="#000306" strokeSize="2" text="活跃度"/>
+    <text id="n42_be1a" name="idLab" xy="223,350" size="140,34" group="n65_wq7z" fontSize="24" color="#ffffff" strokeColor="#000306" strokeSize="2" autoClearText="true" text="ID:1564553"/>
+    <component id="n51_h90v" name="flagCom" src="wq7z110" fileName="league/LeagueFlagComp.xml" pkg="72zq62ea" xy="105,300" size="188,214" group="n65_wq7z" scale="0.55,0.55"/>
+    <component id="n50_be1a" name="editFlag" src="h90v10b" fileName="btn/flagBtn.xml" xy="178,379" group="n65_wq7z"/>
+    <component id="n52_h90v" name="ruleBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="603,297" size="52,52" group="n65_wq7z">
+      <Button icon="ui://6be81224be1a34"/>
+    </component>
+    <component id="n53_h90v" name="mailBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="539,298" size="52,52" group="n65_wq7z">
+      <Button icon="ui://6be81224be1a35"/>
+    </component>
+    <component id="n54_h90v" name="editNoticeBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="612,461" size="40,40" group="n65_wq7z">
+      <Button icon="ui://6be81224be1a30"/>
+    </component>
+    <component id="n55_h90v" name="activeBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="524,528" group="n65_wq7z" scale="0.85,0.85"/>
+    <component id="n56_h90v" name="nameEditBtn" src="j6z931" fileName="btn/BaseBtn.xml" pkg="38fa8c75" xy="360,304" size="40,40" group="n65_wq7z">
+      <Button icon="ui://6be81224be1a30"/>
+    </component>
+    <component id="n58_h90v" name="mamberMgrBtn" src="h90v10o" fileName="btn/applyEnterBtn.xml" xy="232,1155" group="n65_wq7z">
+      <Button title="成员管理"/>
+    </component>
+    <component id="n59_h90v" name="inviteBtn" src="h90v10o" fileName="btn/applyEnterBtn.xml" xy="385,1155" group="n65_wq7z">
+      <Button title="邀请"/>
+    </component>
+    <component id="n60_h90v" name="exitBtn" src="h90v10o" fileName="btn/applyEnterBtn.xml" xy="538,1155" group="n65_wq7z">
+      <Button title="退出" icon="ui://6be81224be1a22"/>
+    </component>
+    <list id="n62_h90v" name="memberList" xy="91,573" size="570,548" group="n65_wq7z" overflow="scroll" lineGap="11" defaultItem="ui://6be81224h90v10q" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <text id="n63_wq7z" name="noticeEdit" xy="105,434" size="509,72" group="n65_wq7z" fontSize="20" color="#718fbb" autoSize="shrink" strokeColor="#000000" strokeSize="2" text="这位盟主很懒，什么都没有留下" input="true" prompt="请输入新的公告"/>
+    <text id="n43_be1a" name="lvLab" xy="227,386" size="55,34" group="n64_wq7z" fontSize="24" color="#ffe57c" strokeColor="#000306" strokeSize="2" text="Lv.1"/>
+    <component id="n44_be1a" name="expBar" src="h90v10p" fileName="com/leagueExpBar.xml" xy="298,387" group="n64_wq7z">
+      <ProgressBar value="99" max="100"/>
+    </component>
+    <group id="n64_wq7z" name="expGr" xy="227,386" size="429,34" group="n65_wq7z" advanced="true"/>
+    <component id="n66_qr2a" name="noticeLab" src="qr2a115" fileName="com/leagueNoticeCom.xml" xy="99,429" size="557,77" group="n65_wq7z"/>
+    <group id="n65_wq7z" name="n65" xy="54,192" size="643,1073" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

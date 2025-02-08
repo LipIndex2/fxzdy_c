@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n1_c30b" name="pRecord" src="cth02k" fileName="BattleRecordPanel.xml" xy="-9,-35">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n41_n19g" name="closeBtn" src="kp3wvvv18s" fileName="back/BtnBack.xml" pkg="38fa8c75" xy="0,1215">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+  </displayList>
+</component>

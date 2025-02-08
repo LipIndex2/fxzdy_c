@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="160,70" designImage="ui://7q3fcj1k97dis7v" designImageOffsetX="-452" designImageOffsetY="-605">
+  <controller name="c1" pages="0,,1," selected="0">
+    <remark page="0" value="锁定"/>
+    <remark page="1" value="解锁"/>
+  </controller>
+  <controller name="c2" pages="0,,1," selected="0">
+    <remark page="0" value="价格"/>
+    <remark page="1" value="免费"/>
+  </controller>
+  <displayList>
+    <image id="n19_cae0" name="n19" src="83016" fileName="btnImage/changgui3_btn.png" pkg="38fa8c75" xy="0,1" size="154,62">
+      <gearDisplay controller="c2" pages="1"/>
+    </image>
+    <image id="n24_ohdt" name="n24" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,1" size="154,61">
+      <gearDisplay controller="c2" pages="0"/>
+    </image>
+    <image id="n21_ohdt" name="n21" src="v891vvv1ew" fileName="bgImage/suo1_icon.png" pkg="38fa8c75" xy="40,14" size="26,31" group="n22_ohdt"/>
+    <text id="n20_cae0" name="lbPriceLock" xy="96,30" pivot="0.5,0.5" anchor="true" size="47,38" group="n22_ohdt" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#b77000" strokeSize="3" autoClearText="true" text="6元">
+      <gearColor controller="c2" pages="0,1" values="#ffffff,#b77000|#ffffff,#1a50a9"/>
+    </text>
+    <group id="n22_ohdt" name="pLock" xy="40,11" size="80,38" advanced="true" layout="hz" colGap="7">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <text id="n23_ohdt" name="lbPrice" xy="79,29" pivot="0.5,0.5" anchor="true" size="47,38" fontSize="27" color="#ffffff" vAlign="middle" strokeColor="#b77000" strokeSize="3" autoClearText="true" text="6元">
+      <gearDisplay controller="c1" pages="1"/>
+      <gearColor controller="c2" pages="0,1" values="#ffffff,#b77000|#ffffff,#1a50a9"/>
+    </text>
+  </displayList>
+</component>

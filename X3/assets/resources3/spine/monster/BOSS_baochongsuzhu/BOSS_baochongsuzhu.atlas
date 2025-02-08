@@ -1,0 +1,328 @@
+
+BOSS_baochongsuzhu.png
+size: 450,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: 180
+  xy: 374, 145
+  size: 72, 112
+  orig: 72, 112
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 111, 113
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: false
+  xy: 65, 37
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 107, 17
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: 270
+  xy: 279, 11
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: true
+  xy: 195, 226
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: true
+  xy: 2, 88
+  size: 60, 127
+  orig: 60, 127
+  offset: 0, 0
+  index: -1
+J zd18
+  rotate: false
+  xy: 335, 227
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+J zd19
+  rotate: true
+  xy: 237, 39
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 366, 222
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+J zd20
+  rotate: false
+  xy: 411, 227
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+J zd21
+  rotate: true
+  xy: 45, 4
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+J zd22
+  rotate: false
+  xy: 2, 219
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+J zd23
+  rotate: true
+  xy: 426, 13
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+J zd24
+  rotate: true
+  xy: 385, 48
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+J zd25
+  rotate: false
+  xy: 32, 241
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+J zd26
+  rotate: true
+  xy: 139, 133
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+J zd27
+  rotate: true
+  xy: 333, 6
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+J zd28
+  rotate: false
+  xy: 327, 105
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+J zd29
+  rotate: true
+  xy: 174, 32
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 189, 245
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+J zd30
+  rotate: false
+  xy: 2, 101
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+J zd31
+  rotate: true
+  xy: 2, 18
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+J zd32
+  rotate: false
+  xy: 130, 74
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+J zd33
+  rotate: false
+  xy: 2, 43
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+J zd34
+  rotate: false
+  xy: 324, 58
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+J zd36
+  rotate: 180
+  xy: 344, 99
+  size: 101, 63
+  orig: 101, 63
+  offset: 0, 0
+  index: -1
+J zd37
+  rotate: false
+  xy: 169, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+J zd38
+  rotate: 270
+  xy: 2, 143
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+J zd39
+  rotate: 180
+  xy: 54, 15
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: false
+  xy: 438, 214
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+J zd40
+  rotate: false
+  xy: 129, 38
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+J zd41
+  rotate: true
+  xy: 351, 19
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+J zd42
+  rotate: false
+  xy: 308, 22
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+J zd43
+  rotate: false
+  xy: 224, 17
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+J zd44
+  rotate: true
+  xy: 390, 15
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+J zd45
+  rotate: 180
+  xy: 174, 128
+  size: 215, 129
+  orig: 215, 129
+  offset: 0, 0
+  index: -1
+J zd46
+  rotate: 180
+  xy: 203, 71
+  size: 167, 115
+  orig: 167, 115
+  offset: 0, 0
+  index: -1
+J zd47
+  rotate: false
+  xy: 2, 145
+  size: 191, 112
+  orig: 191, 112
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: false
+  xy: 45, 244
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: true
+  xy: 128, 12
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: false
+  xy: 57, 251
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: false
+  xy: 65, 251
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 65, 251
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 2, 251
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: true
+  xy: 182, 60
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1

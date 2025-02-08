@@ -1,0 +1,272 @@
+
+attack_hit_upper.png
+size: 499,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_hit1_00000
+  rotate: true
+  xy: 2, 57
+  size: 49, 67
+  orig: 125, 125
+  offset: 50, 33
+  index: -1
+effect/attack_hit1_00001
+  rotate: false
+  xy: 91, 168
+  size: 78, 83
+  orig: 125, 125
+  offset: 41, 31
+  index: -1
+effect/attack_hit1_00002
+  rotate: false
+  xy: 2, 152
+  size: 87, 99
+  orig: 125, 125
+  offset: 6, 13
+  index: -1
+effect/attack_hit1_00003
+  rotate: false
+  xy: 270, 47
+  size: 45, 57
+  orig: 125, 125
+  offset: 36, 36
+  index: -1
+effect/attack_hit2_00000
+  rotate: false
+  xy: 398, 46
+  size: 15, 21
+  orig: 40, 110
+  offset: 12, 10
+  index: -1
+effect/attack_hit2_00001
+  rotate: false
+  xy: 450, 4
+  size: 17, 39
+  orig: 40, 110
+  offset: 11, 11
+  index: -1
+effect/attack_hit2_00002
+  rotate: true
+  xy: 2, 2
+  size: 20, 53
+  orig: 40, 110
+  offset: 9, 18
+  index: -1
+effect/attack_hit2_00003
+  rotate: true
+  xy: 120, 9
+  size: 21, 53
+  orig: 40, 110
+  offset: 9, 23
+  index: -1
+effect/attack_hit2_00004
+  rotate: true
+  xy: 156, 32
+  size: 33, 59
+  orig: 40, 110
+  offset: 5, 28
+  index: -1
+effect/attack_hit2_00005
+  rotate: true
+  xy: 2, 24
+  size: 31, 58
+  orig: 40, 110
+  offset: 5, 33
+  index: -1
+effect/attack_hit2_00006
+  rotate: true
+  xy: 217, 15
+  size: 30, 57
+  orig: 40, 110
+  offset: 5, 35
+  index: -1
+effect/attack_hit2_00007
+  rotate: true
+  xy: 62, 8
+  size: 28, 56
+  orig: 40, 110
+  offset: 5, 39
+  index: -1
+effect/attack_hit2_00008
+  rotate: true
+  xy: 276, 9
+  size: 27, 56
+  orig: 40, 110
+  offset: 5, 40
+  index: -1
+effect/attack_hit2_00009
+  rotate: true
+  xy: 334, 10
+  size: 26, 58
+  orig: 40, 110
+  offset: 6, 40
+  index: -1
+effect/attack_hit2_00010
+  rotate: false
+  xy: 421, 84
+  size: 25, 25
+  orig: 40, 110
+  offset: 6, 75
+  index: -1
+effect/attack_hit3_00000
+  rotate: true
+  xy: 98, 151
+  size: 15, 28
+  orig: 58, 100
+  offset: 18, 3
+  index: -1
+effect/attack_hit3_00001
+  rotate: true
+  xy: 71, 38
+  size: 31, 83
+  orig: 58, 100
+  offset: 9, 1
+  index: -1
+effect/attack_hit3_00002
+  rotate: false
+  xy: 451, 160
+  size: 45, 91
+  orig: 58, 100
+  offset: 5, 1
+  index: -1
+effect/attack_hit3_00003
+  rotate: true
+  xy: 98, 104
+  size: 42, 92
+  orig: 58, 100
+  offset: 5, 1
+  index: -1
+effect/attack_hit3_00004
+  rotate: true
+  xy: 341, 111
+  size: 44, 93
+  orig: 58, 100
+  offset: 5, 1
+  index: -1
+effect/attack_hit3_00005
+  rotate: true
+  xy: 2, 108
+  size: 42, 94
+  orig: 58, 100
+  offset: 7, 1
+  index: -1
+effect/attack_hit3_00006
+  rotate: true
+  xy: 230, 106
+  size: 41, 95
+  orig: 58, 100
+  offset: 9, 1
+  index: -1
+effect/attack_hit3_00007
+  rotate: true
+  xy: 327, 69
+  size: 40, 92
+  orig: 58, 100
+  offset: 10, 1
+  index: -1
+effect/attack_hit3_00008
+  rotate: true
+  xy: 71, 71
+  size: 31, 86
+  orig: 58, 100
+  offset: 11, 0
+  index: -1
+effect/attack_hit3_00009
+  rotate: true
+  xy: 317, 38
+  size: 29, 79
+  orig: 58, 100
+  offset: 12, 1
+  index: -1
+effect/attack_hit3_00010
+  rotate: true
+  xy: 421, 45
+  size: 29, 76
+  orig: 58, 100
+  offset: 13, 0
+  index: -1
+effect/attack_hit3_00011
+  rotate: false
+  xy: 192, 107
+  size: 27, 39
+  orig: 58, 100
+  offset: 14, 37
+  index: -1
+effect/attack_hit3_00012
+  rotate: false
+  xy: 469, 6
+  size: 16, 37
+  orig: 58, 100
+  offset: 24, 37
+  index: -1
+effect/attack_hit3_00013
+  rotate: false
+  xy: 159, 68
+  size: 15, 34
+  orig: 58, 100
+  offset: 25, 36
+  index: -1
+effect/attack_hit4_00001
+  rotate: false
+  xy: 175, 10
+  size: 23, 20
+  orig: 80, 110
+  offset: 24, 21
+  index: -1
+effect/attack_hit4_00002
+  rotate: true
+  xy: 398, 11
+  size: 32, 50
+  orig: 80, 110
+  offset: 16, 18
+  index: -1
+effect/attack_hit4_00003
+  rotate: false
+  xy: 451, 76
+  size: 40, 82
+  orig: 80, 110
+  offset: 11, 12
+  index: -1
+effect/attack_hit4_00004
+  rotate: false
+  xy: 401, 157
+  size: 48, 94
+  orig: 80, 110
+  offset: 7, 7
+  index: -1
+effect/attack_hit4_00005
+  rotate: false
+  xy: 286, 152
+  size: 53, 99
+  orig: 80, 110
+  offset: 6, 6
+  index: -1
+effect/attack_hit4_00006
+  rotate: false
+  xy: 230, 149
+  size: 54, 102
+  orig: 80, 110
+  offset: 7, 5
+  index: -1
+effect/attack_hit4_00007
+  rotate: false
+  xy: 171, 148
+  size: 57, 103
+  orig: 80, 110
+  offset: 8, 3
+  index: -1
+effect/attack_hit4_00008
+  rotate: false
+  xy: 341, 169
+  size: 58, 82
+  orig: 80, 110
+  offset: 11, 24
+  index: -1
+effect/attack_hit4_00009
+  rotate: true
+  xy: 192, 67
+  size: 37, 76
+  orig: 80, 110
+  offset: 33, 25
+  index: -1

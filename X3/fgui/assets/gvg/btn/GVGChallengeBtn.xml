@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="124,56" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n143_ac45" name="n143" src="pf1a147" fileName="bgImage/changgui1_btn.png" pkg="38fa8c75" xy="0,0" size="125,56"/>
+    <text id="n144_ac45" name="title" xy="6,11" pivot="0.5,0" size="112,34" fontSize="24" color="#ffffff" align="center" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="挑战"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <image id="n0_95c2" name="n0" src="ni0722" fileName="img/kflc_bg.jpg" xy="0,0" size="750,519"/>
+    <image id="n34_fg1i" name="top_bg" src="ut0gvvv1f7" fileName="bg/bg_top.png" pkg="38fa8c75" xy="375,90" pivot="0.5,1" anchor="true" size="750,220" color="#3c1743">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <image id="n1_95c2" name="n1" src="oc78vvv1f7" fileName="bgImage/hd_di01.png" pkg="38fa8c75" xy="0,366" size="750,969">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_95c2" name="n2" src="oc78vvv1f8" fileName="bgImage/hd_di02.png" pkg="38fa8c75" xy="10,401" size="730,790">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n16_95c2" name="n16" src="rxmbvvv1do" fileName="bgImage/liaotian_frame.png" pkg="38fa8c75" xy="22,137" size="262,37" alpha="0.25"/>
+    <image id="n22_95c2" name="n22" src="z7ud24" fileName="img/chaochaojifanli.png" xy="93,208"/>
+    <text id="n17_95c2" name="lbTime" xy="45,141" size="111,29" fontSize="20" color="#ffffff" vAlign="middle" text="活动倒计时:"/>
+    <text id="n19_95c2" name="lbTitle" xy="18,61" pivot="0.5,0.5" size="194,64" fontSize="48" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="4" text="累计充值"/>
+    <component id="n31_ni07" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="224,75"/>
+    <component id="n32_ni07" name="headerItem" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="528,78"/>
+    <list id="n33_ni07" name="list" xy="32,424" size="686,740" overflow="scroll" lineGap="14" defaultItem="ui://621c109bni0723" autoClearItems="true">
+      <relation target="" sidePair="width-width,height-height"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,76 @@
+
+attack_kaiqiang.png
+size: 16,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/kaiqiang01
+  rotate: false
+  xy: 8, 5
+  size: 2, 9
+  orig: 38, 38
+  offset: 29, 15
+  index: -1
+images/effect/kaiqiang03
+  rotate: false
+  xy: 2, 2
+  size: 4, 12
+  orig: 38, 38
+  offset: 24, 13
+  index: -1
+images/effect/kaiqiang05
+  rotate: false
+  xy: 2, 26
+  size: 7, 13
+  orig: 38, 38
+  offset: 18, 13
+  index: -1
+images/effect/kaiqiang07
+  rotate: false
+  xy: 2, 41
+  size: 9, 13
+  orig: 38, 38
+  offset: 14, 13
+  index: -1
+images/effect/kaiqiang09
+  rotate: false
+  xy: 2, 114
+  size: 10, 14
+  orig: 38, 38
+  offset: 12, 13
+  index: -1
+images/effect/kaiqiang11
+  rotate: false
+  xy: 2, 98
+  size: 10, 14
+  orig: 38, 38
+  offset: 11, 13
+  index: -1
+images/effect/kaiqiang13
+  rotate: false
+  xy: 2, 84
+  size: 10, 12
+  orig: 38, 38
+  offset: 10, 14
+  index: -1
+images/effect/kaiqiang15
+  rotate: false
+  xy: 2, 70
+  size: 10, 12
+  orig: 38, 38
+  offset: 10, 14
+  index: -1
+images/effect/kaiqiang17
+  rotate: false
+  xy: 2, 56
+  size: 10, 12
+  orig: 38, 38
+  offset: 9, 14
+  index: -1
+images/effect/kaiqiang19
+  rotate: false
+  xy: 2, 16
+  size: 9, 8
+  orig: 38, 38
+  offset: 9, 17
+  index: -1

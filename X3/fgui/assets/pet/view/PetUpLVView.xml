@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kuvvcs7z">
+  <controller name="state" pages="0,,1,,2,,3," selected="1">
+    <remark page="1" value="升级"/>
+    <remark page="2" value="升阶"/>
+    <remark page="3" value="满级"/>
+    <action type="change_page" fromPage="0,1,2,3" toPage="0,1,2,3" objectId="n160_uvvc" controller="state" targetPage="~1"/>
+  </controller>
+  <displayList>
+    <list id="n170_lg0p" name="costList" xy="0,0" size="750,48" group="n145_uvvc" layout="row" selectionMode="none" defaultItem="ui://38fa8c75j6z944" autoItemSize="false" align="right" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+    </list>
+    <component id="n169_lg0p" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="30,32" size="682,1222" group="n145_uvvc"/>
+    <image id="n105_4283" name="n105" src="428358" fileName="img/diban.png" xy="29,47" size="689,1206" group="n145_uvvc"/>
+    <image id="n132_4283" name="n132" src="428372" fileName="img/map_building_305.png" xy="208,300" size="318,315" group="n145_uvvc"/>
+    <component id="n146_uvvc" name="helpBtn" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="470,72" size="41,34" group="n145_uvvc"/>
+    <image id="n108_4283" name="n108" src="tml513a" fileName="bgImage/zhanli1_frame.png" pkg="38fa8c75" xy="254,644" size="247,69" group="n145_uvvc" aspect="true"/>
+    <text id="n109_4283" name="txPower" xy="339,650" pivot="0.5,0.5" size="136,59" group="n145_uvvc" fontSize="44" color="#fefefe" vAlign="middle" autoClearText="true" text="28399"/>
+    <component id="n160_uvvc" name="infoCom" src="bpci8t" fileName="com/PetUpLvInfoCom.xml" xy="100,722" group="n145_uvvc"/>
+    <text id="n106_4283" name="title" xy="285,62" pivot="0.5,0.5" size="174,58" group="n145_uvvc" fontSize="43" color="#31b4ff" vAlign="middle" strokeColor="#000000" strokeSize="2" text="星灵升级"/>
+    <component id="n159_uvvc" name="upLVBtn" src="lg0pvvv1gi" fileName="btn/BtnChangGui1WithItemList1.xml" pkg="38fa8c75" xy="221,1041" group="n145_uvvc" controller="style,1">
+      <gearDisplay controller="state" pages="1,2,3"/>
+      <gearText controller="state" pages="1,2,3" values="升级|进阶|已满级" default=""/>
+      <Button title="升级"/>
+    </component>
+    <component id="n174_rjyq" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="375,450" group="n145_uvvc"/>
+    <component id="n172_teox" name="btnRule" src="c7h6vvv1c6" fileName="btn/BtnGth3.xml" pkg="38fa8c75" xy="190,1171" group="n177_dx6e">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </component>
+    <text id="n173_teox" name="n173" xy="232,1171" pivot="0.5,0.5" size="337,34" group="n177_dx6e" fontSize="24" color="#ffffff" align="center" vAlign="middle" text="请继续收集星灵以提升等级上限">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <text id="n175_dx6e" name="n175" xy="232,1167" size="331,42" group="n177_dx6e" fontSize="30" color="#82ecff" vAlign="middle" strokeColor="#1c3a8a" strokeSize="3" text="收集星灵可提升等级上限">
+      <gearDisplay controller="state" pages="1,2"/>
+    </text>
+    <group id="n177_dx6e" name="n177" xy="190,1167" size="373,42" group="n145_uvvc" advanced="true" layout="hz" colGap="1" excludeInvisibles="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+    <group id="n145_uvvc" name="root" xy="0,0" size="750,1254" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n171_vdae" name="n171" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="340,1267">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="635,200">
+  <displayList>
+    <image id="n58_fsx5" name="bgRewardPart" src="68b521" fileName="img/juxing1039kaobei3.png" xy="0,0"/>
+    <image id="n61_ukhs" name="iconRewardTitle" src="68b522" fileName="bgImage/biaoti_msg_5.png" pkg="38fa8c75" xy="213,12"/>
+    <text id="n47_68b5" name="labelRewardTitle" xy="280,15" size="55,36" fontSize="26" color="#f6f4cd" text="附件"/>
+    <list id="n60_fsx5" name="itemList" xy="15,64" size="609,122" layout="row" overflow="scroll" scroll="horizontal" margin="10,10,0,0" colGap="10" defaultItem="ui://38fa8c75dtss4k" vAlign="middle" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

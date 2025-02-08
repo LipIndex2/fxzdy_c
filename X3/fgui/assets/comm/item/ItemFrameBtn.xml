@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="104,104" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <component id="n4_v891" name="modelNode1" src="ffzcv16x" fileName="node/ModelNode.xml" xy="52,52" size="124,124" touchable="false"/>
+    <component id="n3_wfol" name="item" src="dtss4j" fileName="item/ItemFrame.xml" xy="0,0" controller="haveGain,0"/>
+    <component id="n5_v891" name="modelNode2" src="ffzcv16x" fileName="node/ModelNode.xml" xy="52,52" size="124,124" scale="0.84,0.84" touchable="false"/>
+    <component id="n7_rjyq" name="modelNode3" src="ffzcv16x" fileName="node/ModelNode.xml" xy="52,52" size="104,104" aspect="true" touchable="false"/>
+    <component id="n6_wvxj" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="91,14" size="20,20" touchable="false"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

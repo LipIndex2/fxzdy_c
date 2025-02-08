@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n69_ko81" name="n69" xy="69,267" size="598,799" group="n58_lnj7" url="ui://6db1f71ateox7q" fill="scaleFree"/>
+    <image id="n37_4b21" name="n37" src="teox7r" fileName="img/aocaodi_4.png" xy="126,719" group="n58_lnj7" alpha="0.5"/>
+    <image id="n38_4b21" name="n38" src="teox7s" fileName="img/aocaodi.png" xy="126,469" group="n58_lnj7" alpha="0.5"/>
+    <text id="n56_4b21" name="labelTitle" xy="254,303" pivot="0.5,0.5" size="242,64" group="n58_lnj7" fontSize="48" color="#ffffff" vAlign="middle" text="解锁通行证"/>
+    <component id="n60_lnj7" name="itemList1" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="164,501" size="518,109" group="n58_lnj7" scale="0.8,0.8"/>
+    <component id="n59_lnj7" name="itemList2" src="qlkjvvv1ej" fileName="item/ItemListComp2.xml" pkg="38fa8c75" xy="163,749" size="518,109" group="n58_lnj7" scale="0.8,0.8"/>
+    <component id="n61_lnj7" name="btnBuy" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="232,905" size="275,122" group="n58_lnj7" scale="0.8,0.8">
+      <Button title="98元"/>
+    </component>
+    <text id="n40_4b21" name="labelTips1" xy="224,415" pivot="0.5,0.5" size="301,42" group="n64_lnj7" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="解锁通行证立刻可获得"/>
+    <image id="n62_lnj7" name="n62" src="teox7t" fileName="img/img_jiantou_hs_1.png" xy="141,423" group="n64_lnj7"/>
+    <image id="n63_lnj7" name="n63" src="teox7t" fileName="img/img_jiantou_hs_1.png" xy="608,423" group="n64_lnj7" scale="-1,1"/>
+    <group id="n64_lnj7" name="G_1" xy="141,415" size="527,42" group="n58_lnj7"/>
+    <text id="n65_lnj7" name="labelTips2" xy="216,665" pivot="0.5,0.5" size="301,42" group="n68_lnj7" fontSize="30" color="#ffffff" align="center" vAlign="middle" text="解锁通行证累积可获得"/>
+    <image id="n66_lnj7" name="d21" src="teox7t" fileName="img/img_jiantou_hs_1.png" xy="133,673" group="n68_lnj7"/>
+    <image id="n67_lnj7" name="d22" src="teox7t" fileName="img/img_jiantou_hs_1.png" xy="600,673" group="n68_lnj7" scale="-1,1"/>
+    <group id="n68_lnj7" name="G_2" xy="133,665" size="527,42" group="n58_lnj7"/>
+    <group id="n58_lnj7" name="G_all" xy="69,267" size="613,799" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

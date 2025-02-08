@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="683,434" designImage="ui://7q3fcj1klupes90" designImageOffsetX="-37" designImageOffsetY="-197">
+  <displayList>
+    <image id="n42_a01c" name="n42" src="lupeh" fileName="img/di2.png" xy="0,0"/>
+    <text id="n58_a01c" name="setName" xy="273,13" pivot="0.5,0.5" size="139,46" fontSize="34" color="#ffffff" vAlign="middle" strokeColor="#0a3c7d" strokeSize="4" autoClearText="true" text="套装名称"/>
+    <list id="n67_lupe" name="descList" xy="20,294" size="623,120" overflow="scroll" lineGap="1" defaultItem="ui://tkr2g69tlupem" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n71_lupe" name="activeBtn" src="lupen" fileName="ui/cmp/btn/CollectionsSetEffActiveBtn.xml" xy="540,13"/>
+    <list id="n74_lupe" name="list" xy="18,70" size="642,213" layout="row" overflow="scroll" scroll="horizontal" defaultItem="ui://tkr2g69tlupeo" autoItemSize="false" autoClearItems="true" scrollItemToViewOnClick="false">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="153,57" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n13_8999" name="n13" src="phyfv16r" fileName="btnImage/changgui4_btn.png" pkg="38fa8c75" xy="0,0" size="153,57"/>
+    <text id="n14_8999" name="n14" xy="74,27" pivot="0.5,0.5" anchor="true" size="63,42" fontSize="30" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="免费"/>
+    <component id="n15_jsyk" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="136,10"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

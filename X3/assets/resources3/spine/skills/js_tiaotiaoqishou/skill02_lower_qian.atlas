@@ -1,0 +1,83 @@
+
+skill02_lower_qian.png
+size: 492,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/skill02_ci_03
+  rotate: true
+  xy: 451, 8
+  size: 24, 39
+  orig: 30, 40
+  offset: 3, 1
+  index: -1
+images/effect/skill02_ep_01
+  rotate: false
+  xy: 254, 2
+  size: 69, 37
+  orig: 130, 45
+  offset: 33, 5
+  index: -1
+images/effect/skill02_ep_02
+  rotate: true
+  xy: 324, 41
+  size: 117, 37
+  orig: 130, 45
+  offset: 6, 4
+  index: -1
+images/effect/skill02_ep_03
+  rotate: true
+  xy: 400, 39
+  size: 119, 35
+  orig: 130, 45
+  offset: 5, 4
+  index: -1
+images/effect/skill02_ep_04
+  rotate: true
+  xy: 363, 38
+  size: 120, 35
+  orig: 130, 45
+  offset: 5, 3
+  index: -1
+images/effect/skill02_ep_05
+  rotate: true
+  xy: 437, 34
+  size: 124, 32
+  orig: 130, 45
+  offset: 3, 4
+  index: -1
+images/effect/skill02_ep_06
+  rotate: false
+  xy: 2, 12
+  size: 124, 32
+  orig: 130, 45
+  offset: 3, 4
+  index: -1
+images/effect/skill02_ep_07
+  rotate: false
+  xy: 128, 12
+  size: 124, 32
+  orig: 130, 45
+  offset: 3, 4
+  index: -1
+images/effect/skill02_ep_08
+  rotate: false
+  xy: 325, 15
+  size: 124, 17
+  orig: 130, 45
+  offset: 3, 8
+  index: -1
+images/effect/skill02_floor_01
+  rotate: true
+  xy: 471, 110
+  size: 48, 17
+  orig: 50, 20
+  offset: 1, 1
+  index: -1
+images/effect/skill02_ring_01
+  rotate: false
+  xy: 2, 46
+  size: 320, 112
+  orig: 340, 150
+  offset: 10, 19
+  index: -1

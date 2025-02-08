@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="153,175" pivot="0.5,0.5" extention="Button">
+  <controller name="button" pages="2,up,3,down" selected="0"/>
+  <displayList>
+    <image id="n45_4283" name="n45" src="428331" fileName="img/xinglingshengji_26.png" xy="6,6" pivot="0.5,0.5" size="140,140"/>
+    <text id="n46_4283" name="n46" xy="29,108" pivot="0.5,0.5" size="99,34" fontSize="24" color="#fdfffc" vAlign="middle" strokeColor="#011836" strokeSize="3" text="星灵升级"/>
+    <text id="n47_4283" name="title" xy="38,138" pivot="0.5,0.5" size="78,34" fontSize="24" color="#ffcd54" vAlign="middle" strokeColor="#000000" strokeSize="3" autoClearText="true" text="lv.999"/>
+    <component id="n48_lg0p" name="red" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="107,12" controller="type,4"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <controller name="c1" pages="1,升级,0,升星,2,皮肤,3,潜能" selected="0"/>
+  <displayList>
+    <component id="n105_fnyg" name="maskBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="41,94" size="667,1159" group="n99_dtss"/>
+    <loader id="n101_zwyz" name="n101" xy="28,52" size="689,1206" group="n99_dtss" touchable="false" url="ui://7cvz7rmm105pvv19" autoSize="true"/>
+    <component id="n116_xwdv" name="HeroPotential" src="xwdvvb7" fileName="page/HeroPotentialPage.xml" xy="51,250" group="n99_dtss">
+      <gearDisplay controller="c1" pages="3"/>
+    </component>
+    <component id="n5_b419" name="HeroSwitch" src="dtss56" fileName="page/HeroSwitchPage.xml" xy="25,66" group="n99_dtss"/>
+    <component id="n4_b419" name="HeroUpStar" src="dtss59" fileName="page/HeroUpStar.xml" xy="99,736" group="n99_dtss">
+      <gearDisplay controller="c1" pages="0"/>
+    </component>
+    <component id="n81_b419" name="HeroUpLevel" src="dtss58" fileName="page/HeroUpLevelPage.xml" xy="82,724" group="n99_dtss">
+      <gearDisplay controller="c1" pages="1"/>
+    </component>
+    <component id="n112_fhn9" name="heroSkin" src="fhn9v8u" fileName="page/HeroSkinPage.xml" xy="72,715" group="n99_dtss">
+      <gearDisplay controller="c1" pages="2"/>
+    </component>
+    <list id="n96_dtss" name="list_tab" xy="45,1254" size="160,75" group="n99_dtss" layout="row" scroll="horizontal" colGap="6" defaultItem="ui://69f29748dtss54" selectionController="c1">
+      <item title="升级" name="levelUp"/>
+      <item title="升星" name="starUp"/>
+      <item title="皮肤" name="skin"/>
+      <item title="潜能" name="potential"/>
+    </list>
+    <component id="n113_q6dm" name="magicCubeItem" src="q6dmv9w" fileName="item/MagicCubeBtnItem.xml" xy="63,420" group="n99_dtss">
+      <gearDisplay controller="c1" pages="1,0,2"/>
+    </component>
+    <component id="n104_r9dw" name="btnWearWeapon" src="r9dwvvv1em" fileName="btn/BtnWearWeapon.xml" pkg="38fa8c75" xy="546,466" group="n99_dtss">
+      <gearDisplay controller="c1" pages="1,0,2"/>
+    </component>
+    <component id="n106_bezo" name="headerItem1" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="353,4" group="n99_dtss"/>
+    <component id="n107_bezo" name="headerItem2" src="j6z944" fileName="header/HeaderItem.xml" pkg="38fa8c75" xy="526,5" size="143,41" group="n99_dtss"/>
+    <component id="n108_bezo" name="attrTips" src="bezov8t" fileName="item/HeroAttrTips.xml" xy="209,463" group="n99_dtss" visible="false" controller="c1,1"/>
+    <component id="n114_q6dm" name="magicCubeInfo" src="q6dmva0" fileName="item/MagicCubeInfoItem.xml" xy="136,647" group="n99_dtss" visible="false"/>
+    <component id="n115_vdae" name="n115" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="626,74" group="n99_dtss" controller="btnStyle,1"/>
+    <group id="n99_dtss" name="n99" xy="25,4" size="699,1325" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

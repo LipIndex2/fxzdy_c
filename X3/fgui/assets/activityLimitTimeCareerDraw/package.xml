@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1d2t7iwt">
+  <resources>
+    <component id="teox0" name="LimitTimeCareerDrawMainView.xml" path="/"/>
+    <component id="teoxt" name="LimitTimeCareerDrawWishWin.xml" path="/"/>
+    <component id="teox16" name="LimitTimeCareerDrawMainPage.xml" path="/"/>
+    <component id="teox18" name="DrawBallItem.xml" path="/item/"/>
+    <component id="teox19" name="DrawMaskItem.xml" path="/item/"/>
+    <component id="teox1a" name="DrawSkipAnimItem.xml" path="/item/"/>
+    <component id="teox1b" name="DrawWishItem.xml" path="/item/"/>
+    <image id="teoxa" name="wnzidi_frame.png" path="/img/"/>
+    <image id="teoxg" name="biaoti.png" path="/img/"/>
+    <image id="teoxi" name="touxiang_3.png" path="/img/"/>
+    <image id="teoxk" name="tx_008.png" path="/img/"/>
+    <image id="teoxl" name="qipao_2.png" path="/img/"/>
+    <image id="teoxm" name="huangseqipao_0.png" path="/img/"/>
+    <image id="teoxn" name="sd_A_common_shuaxin_btn.png" path="/img/"/>
+    <image id="teoxo" name="sd_Kkapaipeiyangbuzhen_zhiyetubiao_zygd_icon.png" path="/img/"/>
+    <image id="teoxz" name="changgui.png" path="/img/"/>
+    <image id="teox10" name="zygd_icon.png" path="/img/"/>
+    <image id="teox12" name="xuanzhong.png" path="/img/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

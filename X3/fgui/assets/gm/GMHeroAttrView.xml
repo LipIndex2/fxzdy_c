@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="547,617">
+  <displayList>
+    <text id="n45_dclx" name="labelTitle" xy="92,0" size="376,82" group="n44_dclx" fontSize="62" color="#ffffff" align="center" vAlign="middle" ubb="true" vars="true" singleLine="true" text="获取英雄属性">
+      <relation target="" sidePair="height-height"/>
+    </text>
+    <component id="n43_dclx" name="heroAttrInputBox" src="fsx5n" fileName="common/inputBoxComp.xml" xy="0,244" size="547,67" group="n44_dclx"/>
+    <component id="n48_dclx" name="btnOk" src="b1chc" fileName="common/BtnGm.xml" xy="179,549" size="189,68" group="n44_dclx"/>
+    <group id="n44_dclx" name="heroAttr" xy="0,0" size="547,617" advanced="true"/>
+  </displayList>
+</component>

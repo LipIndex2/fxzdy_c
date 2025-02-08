@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="276,103" restrictSize="276,0,103,0" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <loader id="n10_f9dq" name="icon" xy="0,0" size="276,108" grayed="true" url="ui://38fa8c75pf1a147" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <text id="n3_dtss" name="title" xy="22,38" pivot="0.5,0.5" size="242,56" grayed="true" fontSize="42" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#c96b06" strokeSize="3" text="扫荡">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </text>
+    <text id="n11_woyg" name="lbTip" xy="23,3" pivot="0.5,0.5" size="230,42" fontSize="30" color="#cc0000" vAlign="middle" leading="0" strokeColor="#c96b06" singleLine="true" autoClearText="true" text="1分钟内通关开启"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

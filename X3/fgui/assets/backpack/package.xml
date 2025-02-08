@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="38700442">
+  <resources>
+    <image id="f0d82" name="backpackForeground.png" path="/img/"/>
+    <image id="f0d83" name="bagpackBackground.png" path="/img/"/>
+    <image id="f0d813" name="chooseItemImage.png" path="/img/" scale="9grid" scale9grid="14,11,28,22"/>
+    <image id="f0d816" name="itemTypeTabChooseBg.png" path="/img/"/>
+    <image id="f0d817" name="itemTypeTabBg.png" path="/img/"/>
+    <component id="f0d820" name="BackpackView.xml" path="/"/>
+    <image id="f0d812" name="chooseItemMask.png" path="/img/" scale="9grid" scale9grid="25,25,50,50"/>
+    <component id="t6mg22" name="BackpackItemComp.xml" path="/components/"/>
+    <component id="t6mg23" name="buttonItemType.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,132 @@
+
+gw_feiyu.png
+size: 92,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J zd0
+  rotate: false
+  xy: 81, 35
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+J zd1
+  rotate: false
+  xy: 27, 5
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+J zd10
+  rotate: false
+  xy: 39, 80
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+J zd11
+  rotate: true
+  xy: 61, 58
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+J zd12
+  rotate: false
+  xy: 2, 12
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+J zd13
+  rotate: false
+  xy: 2, 40
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+J zd14
+  rotate: true
+  xy: 2, 68
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+J zd15
+  rotate: false
+  xy: 2, 94
+  size: 42, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+J zd16
+  rotate: 180
+  xy: 61, 92
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+J zd17
+  rotate: 270
+  xy: 76, 17
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+J zd2
+  rotate: false
+  xy: 80, 4
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+J zd3
+  rotate: false
+  xy: 80, 49
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+J zd4
+  rotate: true
+  xy: 32, 48
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+J zd5
+  rotate: 270
+  xy: 43, 108
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+J zd6
+  rotate: 270
+  xy: 53, 3
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+J zd7
+  rotate: 180
+  xy: 30, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+J zd8
+  rotate: true
+  xy: 54, 31
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+J zd9
+  rotate: false
+  xy: 70, 115
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="96,96" pivot="0.5,0.5" extention="Button">
+  <displayList>
+    <image id="n195_ffqt" name="bg" src="ae9738" fileName="img/sd_A_common_jineng_frame.png" xy="0,0"/>
+    <loader id="n81_ae97" name="imageSkill" xy="8,8" size="81,77" url="ui://410b0b71ae9739"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".8"/>
+</component>

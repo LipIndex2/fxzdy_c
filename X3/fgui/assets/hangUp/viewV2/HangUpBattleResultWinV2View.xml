@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" designImage="ui://7q3fcj1kpocb4r">
+  <displayList>
+    <component id="n30_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,740" pivot="0.5,1" anchor="true" size="880,742"/>
+    <text id="n14_pocb" name="labelCloseTips" xy="302,1232" size="143,29" fontSize="20" color="#fffefe" singleLine="true" text="点击空白处关闭"/>
+    <component id="n0_pocb" name="panel" src="iydi154" fileName="componentsV2/HangUpWinV2Component.xml" xy="97,630"/>
+    <component id="n23_pocb" name="btnNextLevel" src="pocb152" fileName="btnV2/BtnHangUpNextLevelV2.xml" xy="213,1040"/>
+    <text id="n32_wvxj" name="labelAutoTips" xy="263,975" size="251,36" fontSize="26" color="#fae687" vAlign="middle" text="5秒后自动挑战下一关"/>
+  </displayList>
+  <transition name="enter">
+    <item time="0" type="Alpha" target="n0_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n14_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n23_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n32_wvxj" value="0"/>
+    <item time="0" type="XY" target="n0_pocb" value="97,660,0.129,0.495"/>
+    <item time="35" type="Alpha" target="n0_pocb" tween="true" startValue="0" endValue="1" duration="17"/>
+    <item time="35" type="XY" target="n0_pocb" tween="true" startValue="97,660,0.129,0.495" endValue="97,630,0.129,0.472" duration="17"/>
+    <item time="41" type="Alpha" target="n23_pocb" tween="true" startValue="0" endValue="1" duration="17"/>
+    <item time="41" type="Alpha" target="n32_wvxj" tween="true" startValue="0" endValue="1" duration="17"/>
+    <item time="41" type="XY" target="n23_pocb" tween="true" startValue="213,1080,0.284,0.81" endValue="213,1040,0.284,0.78" duration="17"/>
+    <item time="41" type="XY" target="n32_wvxj" tween="true" startValue="263,1000,0.351,0.75" endValue="263,975,0.351,0.731" duration="17"/>
+    <item time="47" type="Alpha" target="n14_pocb" tween="true" startValue="0" endValue="1" duration="17"/>
+    <item time="47" type="XY" target="n14_pocb" tween="true" startValue="302,1272,0.403,0.954" endValue="302,1233,0.403,0.924" duration="17"/>
+  </transition>
+  <transition name="cd">
+    <item time="0" type="Alpha" target="n32_wvxj" tween="true" startValue="0" endValue="1" duration="12"/>
+  </transition>
+</component>

@@ -1,0 +1,279 @@
+
+chongwu_jiefu.png
+size: 499,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js00
+  rotate: false
+  xy: 435, 14
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+js01
+  rotate: true
+  xy: 358, 4
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+js010
+  rotate: false
+  xy: 418, 284
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+js011
+  rotate: false
+  xy: 104, 208
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+js012
+  rotate: false
+  xy: 466, 54
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+js013
+  rotate: false
+  xy: 473, 258
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+js014
+  rotate: true
+  xy: 196, 13
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+js02
+  rotate: false
+  xy: 476, 276
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+js03
+  rotate: true
+  xy: 135, 14
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+js04
+  rotate: false
+  xy: 486, 328
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+js05
+  rotate: false
+  xy: 418, 324
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+js06
+  rotate: false
+  xy: 2, 92
+  size: 37, 9
+  orig: 37, 9
+  offset: 0, 0
+  index: -1
+js07
+  rotate: false
+  xy: 272, 123
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+js08
+  rotate: false
+  xy: 358, 119
+  size: 34, 15
+  orig: 37, 17
+  offset: 1, 0
+  index: -1
+js09
+  rotate: false
+  xy: 117, 183
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 235, 122
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 92, 91
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 225, 85
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 358, 76
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s5
+  rotate: true
+  xy: 2, 54
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s6
+  rotate: true
+  xy: 135, 47
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s7
+  rotate: true
+  xy: 268, 39
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+s8
+  rotate: true
+  xy: 2, 10
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+sh1
+  rotate: false
+  xy: 418, 265
+  size: 53, 17
+  orig: 161, 87
+  offset: 39, 17
+  index: -1
+sh10
+  rotate: false
+  xy: 136, 255
+  size: 138, 78
+  orig: 161, 87
+  offset: 23, 0
+  index: -1
+sh11
+  rotate: false
+  xy: 276, 257
+  size: 140, 76
+  orig: 161, 87
+  offset: 19, 0
+  index: -1
+sh12
+  rotate: false
+  xy: 92, 128
+  size: 123, 43
+  orig: 161, 87
+  offset: 33, 7
+  index: -1
+sh13
+  rotate: false
+  xy: 272, 131
+  size: 92, 38
+  orig: 161, 87
+  offset: 24, 13
+  index: -1
+sh14
+  rotate: false
+  xy: 104, 175
+  size: 26, 6
+  orig: 38, 21
+  offset: 4, 3
+  index: -1
+sh2
+  rotate: false
+  xy: 402, 42
+  size: 62, 32
+  orig: 161, 87
+  offset: 36, 17
+  index: -1
+sh3
+  rotate: false
+  xy: 402, 113
+  size: 90, 63
+  orig: 161, 87
+  offset: 21, 10
+  index: -1
+sh4
+  rotate: false
+  xy: 2, 178
+  size: 100, 66
+  orig: 161, 87
+  offset: 13, 13
+  index: -1
+sh5
+  rotate: false
+  xy: 2, 102
+  size: 88, 74
+  orig: 161, 87
+  offset: 18, 10
+  index: -1
+sh6
+  rotate: false
+  xy: 402, 178
+  size: 93, 77
+  orig: 161, 87
+  offset: 16, 8
+  index: -1
+sh7
+  rotate: false
+  xy: 136, 173
+  size: 97, 80
+  orig: 161, 87
+  offset: 14, 6
+  index: -1
+sh8
+  rotate: false
+  xy: 276, 171
+  size: 124, 84
+  orig: 161, 87
+  offset: 33, 3
+  index: -1
+sh9
+  rotate: false
+  xy: 2, 246
+  size: 132, 87
+  orig: 161, 87
+  offset: 26, 0
+  index: -1
+yuqi
+  rotate: false
+  xy: 366, 135
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 492, 330
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

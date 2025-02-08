@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="404,148">
+  <controller name="cur" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n25_93ec" name="n25" xy="9,6" size="385,136" url="ui://9809a2d2cs7d2i" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n44_cs7d" name="n44" src="cs7d2n" fileName="img/zjtx_frame.png" xy="28,57"/>
+    <loader id="n42_mr0b" name="headIcon" xy="64,93" pivot="0.5,0.5" anchor="true" size="62,62" fill="scale"/>
+    <text id="n27_93ec" name="roleName" xy="105,95" pivot="0,0.5" anchor="true" size="123,29" fontSize="20" color="#f4faff" vAlign="middle" strokeColor="#001337" strokeSize="2" autoClearText="true" text="宇宙无敌美少"/>
+    <text id="n30_93ec" name="serverName" xy="27,28" pivot="0,0.5" anchor="true" size="133,34" fontSize="24" color="#c7e1ff" vAlign="middle" autoClearText="true" text="服务器H-06"/>
+    <text id="n28_93ec" name="fightTxt" xy="293,95" pivot="0,0.5" anchor="true" size="84,29" group="n43_mr0b" fontSize="20" color="#f5eb7a" vAlign="middle" strokeColor="#000000" strokeSize="2" autoClearText="true" text="46546万"/>
+    <image id="n29_93ec" name="n29" src="93ec12" fileName="img/zd_icon.png" xy="263,80" group="n43_mr0b"/>
+    <group id="n43_mr0b" name="fightGp" xy="263,80" size="114,29" advanced="true"/>
+    <image id="n47_cs7d" name="n47" src="cs7d2p" fileName="img/xz__frame.png" xy="0,-3" size="31,154" group="n50_cs7d"/>
+    <image id="n48_cs7d" name="n48" src="cs7d2p" fileName="img/xz__frame.png" xy="372,-3" size="31,154" group="n50_cs7d" flip="hz"/>
+    <group id="n50_cs7d" name="curGp" xy="0,-3" size="403,154" advanced="true">
+      <gearDisplay controller="cur" pages="1"/>
+    </group>
+  </displayList>
+</component>

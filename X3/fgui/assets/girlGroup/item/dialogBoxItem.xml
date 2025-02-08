@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="459,58" opaque="false">
+  <controller name="c1" pages="3,配表对话,0,玩家进入,1,购买礼包" selected="0"/>
+  <displayList>
+    <loader id="n45_k045" name="img_bg" xy="0,0" size="459,58" url="ui://4e791994430e24" fill="scaleFree">
+      <gearDisplay controller="c1" pages="3,0,1"/>
+      <gearIcon controller="c1" pages="3,0" values="ui://4e791994430e24|ui://4e791994430e24" default="ui://4e791994430e25"/>
+    </loader>
+    <loader id="n44_k045" name="img_gift" xy="387,6" size="52,46" url="ui://4e791994430e27" autoSize="true" clearOnPublish="true"/>
+    <richtext id="n46_k045" name="T_text" xy="26,13" pivot="0,0.5" size="352,32" fontSize="22" color="#ffffff" vAlign="middle" ubb="true" vars="true" strokeColor="#202020" strokeSize="2" text="欢迎玩家[color=#fee95b]回家打娃[/color]进入打赏超级火箭"/>
+  </displayList>
+</component>

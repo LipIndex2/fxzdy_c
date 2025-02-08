@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="e0t3ckrp">
+  <resources>
+    <component id="qumz1" name="AgeTipsWin.xml" path="/"/>
+    <component id="ydpg2" name="ComTips.xml" path="/com/"/>
+    <image id="ydpg3" name="tc1_frame.png" path="/img/" scale="9grid" scale9grid="156,110,27,19"/>
+    <image id="ydpg4" name="tc2_frame.png" path="/img/" scale="9grid" scale9grid="17,17,26,26"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

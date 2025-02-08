@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="114,111">
+  <displayList>
+    <loader id="n137_avda" name="img_sel" xy="-9,-2" size="122,123" group="n108_kkiq" visible="false" touchable="false" url="ui://38fa8c752ce224" fill="scaleFree"/>
+    <loader id="n120_odo5" name="img_frame" xy="0,7" pivot="0.5,0.5" size="104,104" group="n108_kkiq" url="ui://38fa8c75pf1a145" fill="scale" autoSize="true"/>
+    <loader id="n133_pf1a" name="img_di" xy="0,7" pivot="0.5,0.5" size="104,104" group="n108_kkiq" align="center" vAlign="middle" shrinkOnly="true" clearOnPublish="true"/>
+    <loader id="n121_odo5" name="img_item" xy="0,7" pivot="0.5,0.5" size="104,104" group="n108_kkiq" align="center" vAlign="middle" autoSize="true"/>
+    <image id="n135_avda" name="img_suo" src="j6z92k" fileName="bgImage/suo_icom.png" xy="32,31" pivot="0.5,0.5" group="n108_kkiq" visible="false"/>
+    <text id="n132_pf1a" name="T_level" xy="22,85" pivot="0.5,0.5" size="63,24" group="n108_kkiq" font="ui://38fa8c75ev7wvvv1k8" fontSize="20" color="#fefefe" align="center" vAlign="middle" autoClearText="true" text="Lv120">
+      <relation target="" sidePair="center-center"/>
+    </text>
+    <graph id="n139_q6dm" name="maskFg" xy="0,7" size="104,104" group="n141_q6dm" alpha="0.5" touchable="false" type="rect" fillColor="#ff000000" corner="15"/>
+    <image id="n140_q6dm" name="imageGou" src="8qld1z" fileName="bgImage/gou_icon.png" xy="23,36" size="58,46" group="n141_q6dm"/>
+    <group id="n141_q6dm" name="gp_gou" xy="0,7" size="104,104" group="n108_kkiq" visible="false" advanced="true"/>
+    <component id="n138_bezo" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" xy="89,24" group="n108_kkiq" touchable="false" controller="type,4"/>
+    <group id="n108_kkiq" name="n108" xy="-9,-2" size="122,123"/>
+  </displayList>
+</component>

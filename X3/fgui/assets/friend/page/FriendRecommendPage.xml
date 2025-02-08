@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="607,956">
+  <displayList>
+    <list id="n22_cjsd" name="list" xy="0,48" size="607,755" overflow="scroll" lineGap="12" defaultItem="ui://997ef4d0cjsd3l" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n23_cjsd" name="btnRefresh" src="ckiev14y" fileName="btn/BtnChangGui1.xml" pkg="38fa8c75" xy="182,824" size="245,94">
+      <Button title="刷新" titleFontSize="34"/>
+    </component>
+    <text id="n20_273c" name="lbRefreshTime" xy="240,924" pivot="0.5,0.5" size="126,32" visible="false" fontSize="22" color="#83aefc" vAlign="middle" strokeColor="#122d60" strokeSize="3" text="5秒后可刷新"/>
+  </displayList>
+</component>

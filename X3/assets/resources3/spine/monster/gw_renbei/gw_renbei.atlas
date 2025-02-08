@@ -1,0 +1,153 @@
+
+gw_renbei.png
+size: 105,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renbei_0
+  rotate: 270
+  xy: 93, 65
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+renbei_1
+  rotate: 270
+  xy: 93, 50
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+renbei_10
+  rotate: false
+  xy: 75, 18
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+renbei_11
+  rotate: true
+  xy: 75, 31
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+renbei_12
+  rotate: true
+  xy: 86, 18
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+renbei_13
+  rotate: 180
+  xy: 3, 8
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+renbei_14
+  rotate: false
+  xy: 47, 5
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+renbei_15
+  rotate: false
+  xy: 63, 42
+  size: 20, 31
+  orig: 20, 33
+  offset: 0, 2
+  index: -1
+renbei_16
+  rotate: false
+  xy: 2, 43
+  size: 60, 30
+  orig: 62, 30
+  offset: 2, 0
+  index: -1
+renbei_17
+  rotate: false
+  xy: 2, 7
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+renbei_2
+  rotate: 180
+  xy: 83, 42
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+renbei_3
+  rotate: false
+  xy: 54, 64
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+renbei_4
+  rotate: true
+  xy: 85, 56
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+renbei_5
+  rotate: 270
+  xy: 25, 4
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+renbei_6
+  rotate: false
+  xy: 88, 29
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+renbei_7
+  rotate: false
+  xy: 45, 35
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+renbei_8
+  rotate: true
+  xy: 95, 17
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+renbei_9
+  rotate: true
+  xy: 74, 4
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+xy
+  rotate: false
+  xy: 87, 8
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 22
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 96, 9
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="134,35">
+  <displayList>
+    <text id="n69_773e" name="T_add" xy="38,4" pivot="0,0.5" size="64,29" fontSize="20" color="#ffffff" vAlign="middle" strokeColor="#000000" strokeSize="3" text="+2000"/>
+    <component id="n107_v891" name="bar" src="v8917a" fileName="bar/ItemBar.xml" xy="10,7" size="88,23" scale="0.8,0.8" visible="false">
+      <ProgressBar value="99" max="100"/>
+    </component>
+    <loader id="n108_v891" name="img_item" xy="0,0" pivot="0.5,0.5" size="34,35" fill="scale" shrinkOnly="true"/>
+  </displayList>
+</component>

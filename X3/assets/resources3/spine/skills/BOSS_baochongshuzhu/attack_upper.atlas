@@ -1,0 +1,62 @@
+
+attack_upper.png
+size: 258,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack_tu_00000
+  rotate: true
+  xy: 235, 35
+  size: 25, 21
+  orig: 60, 60
+  offset: 33, 31
+  index: -1
+effect/attack_tu_00001
+  rotate: true
+  xy: 235, 35
+  size: 25, 21
+  orig: 60, 60
+  offset: 33, 31
+  index: -1
+effect/attack_tu_00002
+  rotate: false
+  xy: 198, 19
+  size: 35, 41
+  orig: 60, 60
+  offset: 22, 19
+  index: -1
+effect/attack_tu_00003
+  rotate: false
+  xy: 83, 10
+  size: 41, 50
+  orig: 60, 60
+  offset: 14, 10
+  index: -1
+effect/attack_tu_00004
+  rotate: false
+  xy: 126, 8
+  size: 36, 52
+  orig: 60, 60
+  offset: 8, 5
+  index: -1
+effect/attack_tu_00005
+  rotate: false
+  xy: 2, 4
+  size: 39, 56
+  orig: 60, 60
+  offset: 3, 2
+  index: -1
+effect/attack_tu_00006
+  rotate: false
+  xy: 43, 4
+  size: 38, 56
+  orig: 60, 60
+  offset: 4, 2
+  index: -1
+effect/attack_tu_00007
+  rotate: false
+  xy: 164, 2
+  size: 32, 58
+  orig: 60, 60
+  offset: 8, 0
+  index: -1

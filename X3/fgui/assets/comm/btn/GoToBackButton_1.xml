@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="90,90" pivot="0.5,0.5" extention="Button">
+  <controller name="btnStyle" exported="true" pages="0,,1," selected="0">
+    <remark page="0" value="蓝×"/>
+    <remark page="1" value="带背景的蓝x"/>
+  </controller>
+  <displayList>
+    <loader id="n0_j6z9" name="icon" xy="21,21" pivot="0.5,0.5" size="48,48" url="ui://38fa8c75lupevvv1ia" autoSize="true">
+      <gearIcon controller="btnStyle" pages="0,1" values="ui://38fa8c75lupevvv1ia|ui://38fa8c75lupevvv1ic"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+  </displayList>
+  <Button downEffect="scale" downEffectValue=".85"/>
+</component>

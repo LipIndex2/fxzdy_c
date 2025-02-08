@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <controller name="state" pages="0,,1,,2,,3," selected="0">
+    <remark page="0" value="无人占领"/>
+    <remark page="1" value="我方占领"/>
+    <remark page="2" value="敌方占领"/>
+    <remark page="3" value="我占领"/>
+  </controller>
+  <displayList>
+    <loader id="n8_8g0d" name="bgLv" xy="0,0" pivot="0.5,0.5" anchor="true" size="30,31" url="ui://ojwi06ia8g0dvw4" align="center" vAlign="middle" autoSize="true">
+      <gearIcon controller="state" pages="0,1,2,3" values="ui://ojwi06ia8g0dvw4|ui://ojwi06ia8g0dvw5|ui://ojwi06ia8g0dvw6|ui://ojwi06ia8g0dvw7"/>
+    </loader>
+    <text id="n9_8g0d" name="lbLv" xy="0,-1" pivot="0.5,0.5" anchor="true" size="10,26" font="ui://ojwi06iager4vwi" fontSize="20" color="#ffffff" align="center" vAlign="middle" text=""/>
+    <image id="n10_8g0d" name="n10" src="8g0dvw8" fileName="img/dianzuan_icon.png" xy="-40,-176" group="n12_8g0d"/>
+    <text id="n11_8g0d" name="lbFull" xy="8,-160" size="28,34" group="n12_8g0d" fontSize="24" color="#ffcf4e" align="center" strokeColor="#000000" strokeSize="2" text="满"/>
+    <group id="n12_8g0d" name="gOccupyAni" xy="-40,-176" size="76,49" visible="false" advanced="true"/>
+    <image id="n13_8g0d" name="bgName" src="j6z92w" fileName="bgImage/black1_msg.png" pkg="38fa8c75" xy="0,36" pivot="0.5,0.5" anchor="true" size="149,26" group="n15_8g0d"/>
+    <text id="n14_8g0d" name="lbName" xy="1,36" pivot="0.5,0.5" anchor="true" size="10,26" group="n15_8g0d" fontSize="18" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="2" text="">
+      <gearColor controller="state" pages="1,2,3" values="#2eaeff,#000000|#f65a5c,#000000|#1de756,#000000" default="#ffffff,#000000"/>
+    </text>
+    <group id="n15_8g0d" name="gOccupy" xy="-74,23" size="149,26" advanced="true">
+      <gearDisplay controller="state" pages="1,2,3"/>
+    </group>
+  </displayList>
+</component>

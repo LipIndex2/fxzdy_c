@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="114,114" extention="Button">
+  <displayList>
+    <loader id="n2_f0d8" name="bg" xy="57,57" pivot="0.5,0.5" anchor="true" size="104,104" url="ui://38fa8c75f0d84"/>
+    <loader id="n9_f0d8" name="itemIcon" xy="56,58" pivot="0.5,0.5" anchor="true" size="100,100" url="ui://7q3fcj1kt6mg9" align="center" vAlign="middle"/>
+    <image id="n10_f0d8" name="itemChooseMask" src="f0d812" fileName="img/chooseItemMask.png" xy="5,5" size="104,104" visible="false" alpha="0.7"/>
+    <image id="n11_f0d8" name="itemChooseForeground" src="f0d813" fileName="img/chooseItemImage.png" xy="31,37" size="58,46" visible="false"/>
+    <text id="n12_f0d8" name="itemCount" xy="107,83" pivot="1,0" anchor="true" size="56,26" font="ui://38fa8c75ger4vvv1in" fontSize="20" color="#fefefe" text="1000"/>
+    <component id="n13_wvxj" name="redDot" src="uaznvvv1f1" fileName="com/RedDot.xml" pkg="38fa8c75" xy="104,12" size="30,30" controller="type,3"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n19_alpb" name="bg" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n16_qs4g" name="modelNode" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="373,740" pivot="0.5,1" anchor="true" size="880,742" touchable="false">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n0_pocb" name="panel" src="alpbp" fileName="item/AwardItem.xml" xy="98,631" pivot="0.5,0.8" size="558,438"/>
+    <text id="n18_iydi" name="labelTips" xy="284,1113" size="182,29" fontSize="20" color="#fffefe" singleLine="true" text="点击空白处关闭副本">
+      <relation target="n0_pocb" sidePair="center-center,top-bottom"/>
+    </text>
+  </displayList>
+  <transition name="enter" autoPlay="true">
+    <item time="0" type="Alpha" target="n0_pocb" value="0"/>
+    <item time="0" type="Alpha" target="n18_iydi" value="0"/>
+    <item time="0" type="Size" target="n0_pocb" value="558,-"/>
+    <item time="0" type="XY" target="n0_pocb" value="98,800.002,0.131,0.6"/>
+    <item time="54" type="Alpha" target="n0_pocb" tween="true" startValue="0" endValue="1" duration="24"/>
+    <item time="54" type="Size" target="n0_pocb" tween="true" startValue="514,-" endValue="558,-" duration="24"/>
+    <item time="54" type="XY" target="n0_pocb" tween="true" startValue="98,700,0.131,0.525" endValue="98,632,0.131,0.474" duration="24"/>
+    <item time="78" type="Alpha" target="n18_iydi" tween="true" startValue="0" endValue="1" duration="12"/>
+  </transition>
+</component>

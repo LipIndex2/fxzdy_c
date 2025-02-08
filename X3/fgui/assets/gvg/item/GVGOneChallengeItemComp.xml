@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="270,600" opaque="false">
+  <controller name="isDie" pages="0,,1," selected="0"/>
+  <controller name="isRight" pages="0,,1," selected="0"/>
+  <controller name="isOppo" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n163_k3sy" name="bgBase" src="k3sy117" fileName="item/img/img_gvg_mat.png" xy="0,228" group="n174_k3sy"/>
+    <component id="n171_k3sy" name="heroModel" src="ffzcv16x" fileName="node/ModelNode.xml" pkg="38fa8c75" xy="132,271" pivot="0.5,1" anchor="true" size="100,200" group="n174_k3sy"/>
+    <component id="n176_l2wi" name="btnFighterInfo" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="1,56" size="263,237" group="n174_k3sy">
+      <gearDisplay controller="isOppo" pages="0"/>
+    </component>
+    <component id="n143_ac45" name="btnChallenge" src="k3sy11a" fileName="btn/GVGChallengeBtn.xml" xy="76,293" group="n174_k3sy">
+      <gearDisplay controller="isDie" pages="0"/>
+      <gearDisplay2 controller="isOppo" pages="1" condition="0"/>
+    </component>
+    <component id="n164_k3sy" name="barHp" src="k3sy119" fileName="bar/GVGChallengeHpBar.xml" xy="75,264" group="n169_k3sy">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n175_k3sy" name="barCircleHp" src="k3sy11d" fileName="bar/GVGCircleBar.xml" xy="35,250" group="n169_k3sy">
+      <ProgressBar value="95" max="100"/>
+    </component>
+    <group id="n169_k3sy" name="G_isLife" xy="35,250" size="206,50" group="n174_k3sy" advanced="true">
+      <gearDisplay controller="isDie" pages="0"/>
+    </group>
+    <image id="n168_k3sy" name="n168" src="ac4581" fileName="img/scale_80%_sd_A_common_yjb_tag.png" xy="80,284" group="n170_k3sy">
+      <gearDisplay controller="isDie" pages="1"/>
+    </image>
+    <group id="n170_k3sy" name="G_isDie" xy="80,284" size="113,41" group="n174_k3sy"/>
+    <text id="n145_ac45" name="labelPlayerName" xy="103,27" pivot="0.5,0.5" size="69,32" group="n166_k3sy" fontSize="22" color="#ffffff" align="center" vAlign="middle" strokeColor="#000000" strokeSize="3" singleLine="true" text="卡魔拉"/>
+    <component id="n172_k3sy" name="fightNumComp" src="ejy3vvv1dt" fileName="fightNum/FightNumComp.xml" pkg="38fa8c75" xy="55,57" group="n166_k3sy" scale="0.9,0.9" touchable="false"/>
+    <group id="n166_k3sy" name="G_top" xy="55,27" size="166,77" group="n174_k3sy"/>
+    <group id="n174_k3sy" name="G_all" xy="0,27" size="264,376" advanced="true">
+      <gearXY controller="isRight" pages="0,1" values="0,27|0,200"/>
+    </group>
+  </displayList>
+</component>

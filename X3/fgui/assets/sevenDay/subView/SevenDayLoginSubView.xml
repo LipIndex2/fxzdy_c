@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334" opaque="false">
+  <displayList>
+    <component id="n37_llxc" name="pCenter" src="llxc18" fileName="SignInCenterPanel.xml" xy="38,246" group="n41_llxc"/>
+    <component id="n40_llxc" name="pBtn" src="llxc16" fileName="btn/SevenDayLoginGainRewardBtn.xml" xy="375,965" pivot="0.5,0.5" anchor="true" group="n41_llxc"/>
+    <group id="n41_llxc" name="gCenter" xy="38,246" size="673,780" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="07ac155b">
+  <resources>
+    <image id="06d72" name="it_baixing_00.png" path="/img/"/>
+    <image id="06d73" name="sd_A_common_bossbt_frame.png" path="/img/"/>
+    <image id="06d74" name="sd_A_common_gth3_btn.png" path="/img/"/>
+    <image id="06d76" name="changgui.png" path="/img/"/>
+    <image id="06d77" name="xiaofeichuantubiao.png" path="/img/"/>
+    <image id="06d78" name="weijiesuobantoudi.png" path="/img/"/>
+    <image id="06d79" name="xuanzhongxiaoguo.png" path="/img/"/>
+    <image id="06d710" name="sd_A_common_fengexian_line_7.png" path="/img/"/>
+    <image id="06d711" name="sd_A_common_fengexian_line.png" path="/img/"/>
+    <image id="06d712" name="sd_A_common_fh2_btn.png" path="/img/"/>
+    <image id="06d713" name="xinxiditu.png" path="/img/"/>
+    <image id="06d714" name="shuxing.png" path="/img/"/>
+    <image id="06d715" name="guolv.png" path="/img/"/>
+    <image id="06d716" name="sd_A_common_xueliang_icon_6.png" path="/img/"/>
+    <image id="06d717" name="sd_A_common_xueliang_icon.png" path="/img/"/>
+    <image id="06d718" name="sd_A_common_gongji_icon.png" path="/img/"/>
+    <image id="06d719" name="sd_A_common_boss_tag_4.png" path="/img/"/>
+    <image id="06d720" name="sd_A_common_suo1_icom.png" path="/img/"/>
+    <image id="06d721" name="sd_A_common_xb1_frame.png" path="/img/"/>
+    <image id="06d722" name="biaoti.png" path="/img/"/>
+    <image id="06d723" name="sd_A_common_changgui1_btn.png" path="/img/"/>
+    <image id="06d724" name="icgoods_10007.png" path="/img/"/>
+    <image id="06d726" name="tuceng16.jpg" path="/img/"/>
+    <image id="06d727" name="fadongjinengdi.png" path="/img/"/>
+    <image id="06d728" name="jineng_0.png" path="/img/"/>
+    <image id="06d729" name="jinengdi.png" path="/img/"/>
+    <image id="06d730" name="jindutiao.png" path="/img/"/>
+    <image id="06d731" name="jineng.png" path="/img/"/>
+    <component id="06d733" name="CaptainSkillDemo.xml" path="/"/>
+    <component id="kp3w34" name="CaptionSkillBattleView.xml" path="/"/>
+    <component id="kp3w35" name="CaptionSkillLvUpView.xml" path="/"/>
+    <component id="kp3w36" name="CaptainSkillAddAttrComp.xml" path="/components/"/>
+    <component id="kp3w37" name="CaptainSkillLvUpTitleComp.xml" path="/components/"/>
+    <component id="kp3w38" name="CaptainSkillOneComp.xml" path="/components/"/>
+    <component id="kp3w39" name="CaptainSkillDescPanelComp.xml" path="/components/"/>
+    <component id="kp3w3a" name="CaptainSkillOneEffectComp.xml" path="/components/"/>
+    <image id="ipjz3c" name="shuxingdi_frame.png" path="/" scale="9grid" scale9grid="0,2,173,34"/>
+    <image id="ipjz3d" name="jnjd_blood.png" path="/"/>
+    <image id="ipjz3e" name="sd_A_common_fengexian_line_7.png" path="/"/>
+    <image id="ipjz3f" name="sd_A_common_fengexian_line.png" path="/"/>
+    <component id="ipjz3g" name="CaptainSkillContentComp.xml" path="/components/"/>
+    <component id="woyg3h" name="CaptainSkillAttrTitleComp.xml" path="/components/"/>
+    <component id="woyg3i" name="CaptainSkillResetWin.xml" path="/"/>
+    <image id="woyg3j" name="zdkj_kjcz.png" path="/img/"/>
+    <image id="woyg3k" name="tiao.png" path="/img/"/>
+    <component id="woyg3l" name="CaptainSkillHeaderItem.xml" path="/components/"/>
+    <component id="woyg3m" name="CaptionSkillModelComp.xml" path="/"/>
+    <component id="ta4f3n" name="CaptionSkillMainView.xml" path="/main/"/>
+    <image id="ta4f3p" name="zykjyh_zx2.png" path="/main/img/"/>
+    <image id="ta4f3q" name="zykjyh_zx1.png" path="/main/img/"/>
+    <image id="ta4f3y" name="zykjyh_zhidi1.png" path="/main/img/"/>
+    <image id="ta4f3z" name="zykjyh_zhidi2.png" path="/main/img/"/>
+    <image id="ta4f42" name="zykjyh_dilan.png" path="/main/img/"/>
+    <image id="ta4f44" name="zykjyh_szd1.png" path="/main/img/"/>
+    <image id="ta4f45" name="zykjyh_szd2.png" path="/main/img/"/>
+    <image id="ta4f48" name="scale_90%_gongmingdengji.png" path="/main/img/"/>
+    <component id="ta4f4b" name="CaptionSkillLvMainBtn.xml" path="/main/"/>
+    <component id="ta4f4c" name="CaptionSkillLvMainAttrItem.xml" path="/main/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="tab" pages="0,,1," selected="0">
+    <remark page="0" value="好友"/>
+    <remark page="1" value="排行榜"/>
+  </controller>
+  <displayList>
+    <component id="n37_t5gy" name="emptyBtn" src="105pv14t" fileName="btn/EmptyBtn.xml" pkg="38fa8c75" xy="33,144" size="682,1054" group="n35_t5gy"/>
+    <image id="n0_51a6" name="n0" src="8qld1y" fileName="bgImage/tc1_frame.png" pkg="u3k6kdot" xy="33,144" size="682,1054" group="n35_t5gy"/>
+    <image id="n1_51a6" name="n1" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="55,231" size="638,853" group="n35_t5gy"/>
+    <text id="n2_51a6" name="lbTitle" xy="374,190" pivot="0.5,0.5" anchor="true" size="162,44" group="n35_t5gy" fontSize="32" color="#ffffff" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="附近生产线"/>
+    <list id="n34_t5gy" name="listTab" xy="54,1105" size="642,68" group="n35_t5gy" layout="row" overflow="scroll" scroll="horizontal" colGap="12" defaultItem="ui://3cd69509t5gy8x" selectionController="tab">
+      <gearDisplay controller="tab" pages=""/>
+      <item title="好友"/>
+      <item title="排行榜"/>
+    </list>
+    <list id="n36_t5gy" name="listRank" xy="71,244" size="607,830" group="n35_t5gy" overflow="scroll" lineGap="15" defaultItem="ui://3cd6950951a671" autoClearItems="true">
+      <gearDisplay controller="tab" pages="1"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n31_t5gy" name="listFriend" xy="71,244" size="607,830" group="n41_qhev" overflow="scroll" lineGap="15" defaultItem="ui://3cd6950951a671" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n38_qhev" name="n38" src="qhevvvv1gi" fileName="bgImage/kong_tag.png" pkg="38fa8c75" xy="248,549" group="n40_qhev" alpha="0.7"/>
+    <text id="n39_qhev" name="n39" xy="373,752" pivot="0.5,0.5" anchor="true" size="91,32" group="n40_qhev" fontSize="22" color="#99b6ff" vAlign="middle" text="暂无好友"/>
+    <group id="n40_qhev" name="gNone" xy="248,549" size="253,219" group="n41_qhev" advanced="true"/>
+    <group id="n41_qhev" name="gFriend" xy="71,244" size="607,830" group="n35_t5gy" advanced="true">
+      <gearDisplay controller="tab" pages="0"/>
+    </group>
+    <group id="n35_t5gy" name="gAll" xy="33,144" size="682,1054" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+    <component id="n42_vdae" name="n42" src="vdaevvv1hu" fileName="btn/GoToBackButton_1.xml" pkg="38fa8c75" xy="332,1217">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <loader id="n63_k045" name="img_bg" xy="34,196" size="682,914" group="n66_k045" url="ui://u3k6kdot8qld1y" fill="scaleFree"/>
+    <image id="n33_96e1" name="n33" src="8qld1x" fileName="bgImage/tc2_frame.png" pkg="38fa8c75" xy="56,284" size="638,717" group="n66_k045"/>
+    <text id="n34_96e1" name="n34" xy="272,225" pivot="0.5,0.5" size="203,44" group="n66_k045" fontSize="32" color="#ffffff" align="center" vAlign="middle" strokeColor="#1a3773" strokeSize="3" text="boss击杀奖励"/>
+    <list id="n64_k045" name="list_award" xy="76,303" size="607,678" group="n66_k045" overflow="scroll" lineGap="12" defaultItem="ui://e477df1ck0458b">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n65_k045" name="selItem" src="v89177" fileName="item/MiniMapSelItem.xml" xy="436,1017" group="n66_k045"/>
+    <group id="n66_k045" name="n66" xy="34,196" size="682,914" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>
